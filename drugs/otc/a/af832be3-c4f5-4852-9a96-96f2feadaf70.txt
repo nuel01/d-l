@@ -1,0 +1,617 @@
+FACT SHEET FOR HEALTHCARE PROVIDERS : EMERGENCY USE AUTHORIZATION FOR PAXLOVID ™ HIGHLIGHTS OF EMERGENCY USE AUTHORIZATION ( EUA ) These highlights of the EUA do not include all the information needed to use PAXLOVID ™ under the EUA .
+See the FULL FACT SHEET FOR HEALTHCARE PROVIDERS for PAXLOVID .
+PAXLOVID ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use Original EUA Authorized Date : 12 / 2021 Revised EUA Authorized Date : 09 / 2022 -------------- RECENT MAJOR CHANGES -------------- Warnings and Precautions ( 5 . 2 , 17 ) : revision to hypersensitivity reactions to PAXLOVID including anaphylaxis 09 / 2022 Adverse Reactions ( 6 . 2 ) : addition of new adverse reactions 09 / 2022 Microbiology ( 12 . 4 ) : addition of Omicron subvariants , in vivo , and resistance data 09 / 2022 Drug Interactions ( 7 . 3 ) : addition of new drug interactions 08 / 2022 Emergency Use Authorization ( 1 ) : addition of pharmacist prescribing guidance 07 / 2022 Contraindications ( 4 ) : addition of new contraindicated drugs 06 / 2022 Microbiology ( 12 . 4 ) : addition of viral RNA rebound 06 / 2022 How Supplied / Storage and Handling ( 16 , 17 ) : addition of nirmatrelvir 150 mg / ritonavir 100 mg dose pack 04 / 2022 Drug Interactions ( 7 . 3 , 12 . 3 ) : addition of new drug interactions 04 / 2022 -------------- EUA FOR PAXLOVID -------------- The U . S . Food and Drug Administration has issued an EUA for the emergency use of the unapproved PAXLOVID which includes nirmatrelvir , a SARS - CoV - 2 main protease ( Mpro : also referred to as 3 CLpro or nsp5 protease ) inhibitor , and ritonavir , an HIV - 1 protease inhibitor and CYP3A inhibitor , for the treatment of mild - to - moderate coronavirus disease 2019 ( COVID - 19 ) in adults and pediatric patients ( 12 years of age and older weighing at least 40 kg ) with positive results of direct severe acute respiratory syndrome coronavirus 2 ( SARS - CoV - 2 ) viral testing , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death .
+LIMITATIONS OF AUTHORIZED USE • PAXLOVID is not authorized for initiation of treatment in patients requiring hospitalization due to severe or critical COVID - 19 .
+• PAXLOVID is not authorized for pre - exposure or post - exposure prophylaxis for prevention of COVID - 19 .
+• PAXLOVID is not authorized for use longer than 5 consecutive days .
+PAXLOVID may be prescribed for an individual patient by physicians , advanced practice registered nurses , and physician assistants that are licensed or authorized under state law to prescribe drugs .
+PAXLOVID may also be prescribed for an individual patient by a state - licensed pharmacist under the following conditions : • Sufficient information is available , such as through access to health records less than 12 months old or consultation with a health care provider in an established provider - patient relationship with the individual patient , to assess renal and hepatic function ; and • Sufficient information is available , such as through access to health records , patient reporting of medical history , or consultation with a health care provider in an established provider - patient relationship with the individual patient , to obtain a comprehensive list of medications ( prescribed and non - prescribed ) that the patient is taking to assess for potential drug interaction .
+The state - licensed pharmacist should refer an individual patient for clinical evaluation ( e . g . , telehealth , in - person visit ) with a physician , advanced practice registered nurse , or physician assistant licensed or authorized under state law to prescribe drugs , if any of the following apply : • Sufficient information is not available to assess renal and hepatic function .
+• Sufficient information is not available to assess for a potential drug interaction .
+• Modification of other medications is needed due to a potential drug interaction .
+• PAXLOVID is not an appropriate therapeutic option based on the authorized Fact Sheet for Healthcare Providers or due to potential drug interactions for which recommended monitoring would not be feasible .
+PAXLOVID is not approved for any use , including for use as treatment of COVID - 19 .
+( 1 ) PAXLOVID is authorized only for the duration of the declaration that circumstances exist justifying the authorization of the emergency use of PAXLOVID under section 564 ( b ) ( 1 ) of the Act , 21 U . S . C . § 360 bbb - 3 ( b ) ( 1 ) , unless the authorization is terminated or revoked sooner .
+See Full Fact Sheet for Healthcare Providers for the justification for emergency use of drugs during the COVID - 19 pandemic , information on available alternatives , and additional information on COVID - 19 .
+----- DOSAGE AND ADMINISTRATION ------ PAXLOVID is nirmatrelvir tablets co - packaged with ritonavir tablets .
+( 2 . 1 ) Nirmatrelvir must be co - administered with ritonavir .
+( 2 . 1 ) • Initiate PAXLOVID treatment as soon as possible after diagnosis of COVID - 19 and within 5 days of symptom onset .
+( 2 . 1 ) • Administer orally with or without food .
+( 2 . 1 ) • Dosage : 300 mg nirmatrelvir ( two 150 mg tablets ) with 100 mg ritonavir ( one 100 mg tablet ) , with all three tablets taken together twice daily for 5 days .
+( 2 . 1 ) • Dose reduction for moderate renal impairment ( eGFR ≥ 30 to < 60 mL / min ) : 150 mg nirmatrelvir ( one 150 mg tablet ) with 100 mg ritonavir ( one 100 mg tablet ) , with both tablets taken together twice daily for 5 days .
+( 2 . 2 ) • PAXLOVID is not recommended in patients with severe renal impairment ( eGFR < 30 mL / min ) .
+( 2 . 2 , 8 . 6 ) • PAXLOVID is not recommend in patients with severe hepatic impairment ( Child - Pugh Class C ) .
+( 2 . 3 , 8 . 7 ) ----- DOSAGE FORMS AND STRENGTHS ----- • Tablets : nirmatrelvir 150 mg ( 3 ) • Tablets : ritonavir 100 mg ( 3 ) ----------- CONTRAINDICATIONS ------------- • History of clinically significant hypersensitivity reactions to the active ingredients ( nirmatrelvir or ritonavir ) or any other components .
+( 4 ) • Co - administration with drugs highly dependent on CYP3A for clearance and for which elevated concentrations are associated with serious and / or life - threatening reactions .
+( 4 , 7 . 3 ) • Co - administration with potent CYP3A inducers where significantly reduced nirmatrelvir or ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance .
+( 4 ) ----- WARNINGS AND PRECAUTIONS ------ • The concomitant use of PAXLOVID and certain other drugs may result in potentially significant drug interactions .
+Consult the full prescribing information prior to and during treatment for potential drug interactions .
+( 5 . 1 , 7 ) • Hypersensitivity Reactions : Anaphylaxis and other hypersensitivity reactions have been reported with PAXLOVID .
+If signs and symptoms of a clinically significant hypersensitivity reaction or anaphylaxis occur , immediately discontinue PAXLOVID and initiate appropriate medications and / or supportive care .
+( 5 . 2 ) • Hepatotoxicity : Hepatic transaminase elevations , clinical hepatitis , and jaundice have occurred in patients receiving ritonavir .
+( 5 . 3 ) • HIV - 1 Drug Resistance : PAXLOVID use may lead to a risk of HIV - 1 developing resistance to HIV protease inhibitors in individuals with uncontrolled or undiagnosed HIV - 1 infection .
+( 5 . 4 ) ------------ ADVERSE REACTIONS ----------- Adverse events ( incidence ≥ 1 % and ≥ 5 subject difference ) were dysgeusia , diarrhea , hypertension , and myalgia .
+( 6 . 1 ) You or your designee must report all SERIOUS ADVERSE EVENTS or MEDICATION ERRORS potentially related to PAXLOVID ( 1 ) by submitting FDA Form 3500 online , ( 2 ) by downloading this form and then submitting by mail or fax , or ( 3 ) contacting the FDA at 1 - 800 - FDA - 1088 to request this form .
+Please also provide a copy of this form to Pfizer Inc . at fax number : 1 - 866 - 635 - 8337 .
+( 6 . 4 ) ------------- DRUG INTERACTIONS ------------- Co - administration of PAXLOVID can alter the plasma concentrations of other drugs and other drugs may alter the plasma concentrations of PAXLOVID .
+Consider the potential for drug interactions prior to and during PAXLOVID therapy and review concomitant medications during PAXLOVID therapy .
+( 2 . 4 , 4 , 5 . 1 , 7 , 12 . 3 ) See FACT SHEET FOR PATIENTS , PARENTS , AND CAREGIVERS .
+TABLE OF CONTENTS * • • 1 EMERGENCY USE AUTHORIZATION • 2 DOSAGE AND ADMINISTRATION • 2 . 1 Dosage for Emergency Use of PAXLOVID • 2 . 2 Important Dosing Information in Patients with Renal Impairment • 2 . 3 Use in Patients with Hepatic Impairment • 2 . 4 Important Drug Interactions with PAXLOVID • 3 DOSAGE FORMS AND STRENGTHS • 4 CONTRAINDICATIONS • 5 WARNINGS AND PRECAUTIONS • 5 . 1 Risk of Serious Adverse Reactions Due to Drug Interactions • 5 . 2 Hypersensitivity Reactions • 5 . 3 Hepatotoxicity • 5 . 4 Risk of HIV - 1 Resistance Development • 6 ADVERSE REACTIONS • 6 . 1 Adverse Reactions from Clinical Studies • 6 . 2 Post - Authorization Experience • 6 . 4 Required Reporting for Serious Adverse Events and Medication Errors • 6 . 5 Other Reporting Requirements • 7 DRUG INTERACTIONS • 7 . 1 Potential for PAXLOVID to Affect Other Drugs • 7 . 2 Potential for Other Drugs to Affect PAXLOVID • 7 . 3 Established and Other Potentially Significant Drug Interactions • 8 USE IN SPECIFIC POPULATIONS • • 8 . 1 Pregnancy • 8 . 2 Lactation • 8 . 3 Females and Males of Reproductive Potential • 8 . 4 Pediatric Use • 8 . 5 Geriatric Use • 8 . 6 Renal Impairment • 8 . 7 Hepatic Impairment • 10 OVERDOSAGE • 11 DESCRIPTION • 12 CLINICAL PHARMACOLOGY • 12 . 1 Mechanism of Action • 12 . 3 Pharmacokinetics • 12 . 4 Microbiology • 13 NONCLINICAL TOXICOLOGY • 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility • 13 . 2 Animal Toxicology and / or Pharmacology • 14 CLINICAL STUDIES • 14 . 1 Efficacy in Subjects at High Risk of Progressing to Severe COVID - 19 Illness • 16 HOW SUPPLIED / STORAGE AND HANDLING • 17 PATIENT COUNSELING INFORMATION • 18 MANUFACTURER INFORMATION • • * Sections or subsections omitted from the EUA are not listed .
+FULL FACT SHEET FOR HEALTHCARE PROVIDERS 1 EMERGENCY USE AUTHORIZATION The U . S . Food and Drug Administration ( FDA ) has issued an Emergency Use Authorization ( EUA ) for the emergency use of the unapproved product PAXLOVID for the treatment of mild - to - moderate coronavirus disease 2019 ( COVID - 19 ) in adults and pediatric patients ( 12 years of age and older weighing at least 40 kg ) with positive results of direct severe acute respiratory syndrome coronavirus 2 ( SARS - CoV - 2 ) viral testing , and who are at high risk [ 1 ] for progression to severe COVID - 19 , including hospitalization or death .
+[ 1 ] For information on medical conditions and factors associated with increased risk for progression to severe COVID - 19 , see the Centers for Disease Control and Prevention ( CDC ) website : https : / / www . cdc . gov / coronavirus / 2019 - ncov / hcp / clinical - care / underlyingconditions . html .
+Healthcare providers should consider the benefit - risk for an individual patient .
+LIMITATIONS OF AUTHORIZED USE • PAXLOVID is not authorized for initiation of treatment in patients requiring hospitalization due to severe or critical COVID - 19 [ see Dosage and Administration ( 2 . 1 ) ] .
+[ 1 ] • PAXLOVID is not authorized for use as pre - exposure or post - exposure prophylaxis for prevention of COVID - 19 .
+• PAXLOVID is not authorized for use for longer than 5 consecutive days .
+PAXLOVID may be prescribed for an individual patient by physicians , advanced practice registered nurses , and physician assistants that are licensed or authorized under state law to prescribe drugs .
+PAXLOVID may also be prescribed for an individual patient by a state - licensed pharmacist under the following conditions : • Sufficient information is available , such as through access to health records less than 12 months old or consultation with a health care provider in an established provider - patient relationship with the individual patient , to assess renal and hepatic function ; and • Sufficient information is available , such as through access to health records , patient reporting of medical history , or consultation with a health care provider in an established provider - patient relationship with the individual patient , to obtain a comprehensive list of medications ( prescribed and non - prescribed ) that the patient is taking to assess for potential drug interaction .
+The state - licensed pharmacist should refer an individual patient for clinical evaluation ( e . g . , telehealth , in - person visit ) with a physician , advanced practice registered nurse , or physician assistant licensed or authorized under state law to prescribe drugs , if any of the following apply : • Sufficient information is not available to assess renal and hepatic function .
+• Sufficient information is not available to assess for a potential drug interaction .
+• Modification of other medications is needed due to a potential drug interaction .
+• PAXLOVID is not an appropriate therapeutic option based on the authorized Fact Sheet for Healthcare Providers or due to potential drug interactions for which recommended monitoring would not be feasible .
+PAXLOVID is not approved for any use , including for use for the treatment of COVID - 19 .
+PAXLOVID is authorized only for the duration of the declaration that circumstances exist justifying the authorization of the emergency use of PAXLOVID under section 564 ( b ) ( 1 ) of the Act , 21 U . S . C . § 360 bbb - 3 ( b ) ( 1 ) , unless the authorization is terminated or revoked sooner .
+Justification for Emergency Use of Drugs During the COVID - 19 Pandemic There is currently an outbreak of COVID - 19 caused by SARS - CoV - 2 , a novel coronavirus .
+The Secretary of Health and Human Services ( HHS ) has declared that : • A public health emergency related to COVID - 19 has existed since January 27 , 2020 .
+• Circumstances exist justifying the authorization of emergency use of drugs and biological products during the COVID - 19 pandemic ( March 27 , 2020 declaration ) .
+An EUA is a U . S . Food and Drug Administration authorization for the emergency use of an unapproved product or unapproved use of an approved product ( i . e . , drug , biological product , or device ) in the United States under certain circumstances including , but not limited to , when the Secretary of HHS declares that there is a public health emergency that affects the national security or the health and security of United States citizens living abroad , and that involves biological agent ( s ) or a disease or condition that may be attributable to such agent ( s ) .
+Criteria for issuing an EUA include : • The biological agent ( s ) can cause a serious or life - threatening disease or condition ; • Based on the totality of the available scientific evidence ( including data from adequate and well - controlled clinical trials , if available ) , it is reasonable to believe that • the product may be effective in diagnosing , treating , or preventing the serious or life - threatening disease or condition ; and • the known and potential benefits of the product — when used to diagnose , prevent , or treat such disease or condition — outweigh the known and potential risks of the product , taking into consideration the material threat posed by the biological agent ( s ) ; • There is no adequate , approved , and available alternative to the product for diagnosing , preventing , or treating the serious or life - threatening disease or condition .
+Information Regarding Available Alternatives for the EUA Authorized Use Veklury ( remdesivir ) is FDA - approved for the treatment of COVID - 19 in adults and pediatric patients ( 12 years of age and older weighing at least 40 kg ) with positive results of direct SARS - CoV - 2 viral testing , who are not hospitalized and have mild - to - moderate COVID - 19 , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death .
+Veklury is administered via intravenous infusion for a total treatment duration of 3 days .
+Although Veklury is an approved alternative treatment of mild - to - moderate COVID - 19 in adults and pediatric patients ( 12 years of age and older weighing at least 40 kg ) with positive results of direct SARS - CoV - 2 viral testing , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death , FDA does not consider Veklury to be an adequate alternative to PAXLOVID for this authorized use because it may not be feasible or practical for certain patients ( e . g . , it requires an intravenous infusion daily for 3 days ) .
+Other therapeutics are currently authorized for the same use as PAXLOVID .
+For additional information on all products authorized for treatment or prevention of COVID - 19 , please see https : / / www . fda . gov / emergency - preparedness - and - response / mcm - legal - regulatory - and - policy - framework / emergency - use - authorization .
+For information on clinical studies that are testing the use of PAXLOVID in COVID - 19 , please see www . clinicaltrials . gov .
+[ 1 ] Patients requiring hospitalization due to severe or critical COVID - 19 after starting treatment with PAXLOVID may complete the full 5 - day treatment course per the healthcare provider ' s discretion .
+2 DOSAGE AND ADMINISTRATION 2 . 1 Dosage for Emergency Use of PAXLOVID PAXLOVID is nirmatrelvir tablets co - packaged with ritonavir tablets .
+Nirmatrelvir must be co - administered with ritonavir .
+Failure to correctly co - administer nirmatrelvir with ritonavir may result in plasma levels of nirmatrelvir that are insufficient to achieve the desired therapeutic effect .
+The dosage for PAXLOVID is 300 mg nirmatrelvir ( two 150 mg tablets ) with 100 mg ritonavir ( one 100 mg tablet ) with all three tablets taken together orally twice daily for 5 days .
+Prescriptions should specify the numeric dose of each active ingredient within PAXLOVID .
+Completion of the full 5 - day treatment course and continued isolation in accordance with public health recommendations are important to maximize viral clearance and minimize transmission of SARS - CoV - 2 .
+The 5 - day treatment course of PAXLOVID should be initiated as soon as possible after a diagnosis of COVID - 19 has been made , and within 5 days of symptom onset .
+Should a patient require hospitalization due to severe or critical COVID - 19 after starting treatment with PAXLOVID , the patient should complete the full 5 - day treatment course per the healthcare provider ' s discretion .
+If the patient misses a dose of PAXLOVID within 8 hours of the time it is usually taken , the patient should take it as soon as possible and resume the normal dosing schedule .
+If the patient misses a dose by more than 8 hours , the patient should not take the missed dose and instead take the next dose at the regularly scheduled time .
+The patient should not double the dose to make up for a missed dose .
+PAXLOVID ( both nirmatrelvir and ritonavir tablets ) can be taken with or without food [ see Clinical Pharmacology ( 12 . 3 ) ] .
+The tablets should be swallowed whole and not chewed , broken , or crushed .
+2 . 2 Important Dosing Information in Patients with Renal Impairment No dosage adjustment is needed in patients with mild renal impairment ( eGFR ≥ 60 to < 90 mL / min ) .
+In patients with moderate renal impairment ( eGFR ≥ 30 to < 60 mL / min ) , the dosage of PAXLOVID is 150 mg nirmatrelvir and 100 mg ritonavir twice daily for 5 days [ see How Supplied / Storage and Handling ( 16 ) ] .
+Prescriptions should specify the numeric dose of each active ingredient within PAXLOVID .
+Providers should counsel patients about renal dosing instructions [ see Patient Counseling Information ( 17 ) ] .
+PAXLOVID is not recommended in patients with severe renal impairment ( eGFR < 30 mL / min ) until more data are available ; the appropriate dosage for patients with severe renal impairment has not been determined [ see Use in Specific Populations ( 8 . 6 ) and Clinical Pharmacology ( 12 . 3 ) ] .
+2 . 3 Use in Patients with Hepatic Impairment No dosage adjustment is needed in patients with mild ( Child - Pugh Class A ) or moderate ( Child - Pugh Class B ) hepatic impairment .
+No pharmacokinetic or safety data are available regarding the use of nirmatrelvir or ritonavir in subjects with severe hepatic impairment ( Child - Pugh Class C ) ; therefore , PAXLOVID is not recommended for use in patients with severe hepatic impairment [ see Use in Specific Populations ( 8 . 7 ) ] .
+2 . 4 Important Drug Interactions with PAXLOVID Refer to other sections of the Fact Sheet for important drug interactions with PAXLOVID .
+Interacting drugs listed in the Fact Sheet are a guide and not considered a comprehensive list of all possible drugs that may interact with PAXLOVID .
+The healthcare provider should consult other appropriate resources such as the prescribing information for the interacting drug for comprehensive information on dosing or monitoring with concomitant use of a strong CYP3A inhibitor such as ritonavir .
+Consider the potential for drug interactions prior to and during PAXLOVID therapy and review concomitant medications during PAXLOVID therapy [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 ) , and Drug Interactions ( 7 ) ] .
+No dosage adjustment is required when co - administered with other products containing ritonavir or cobicistat .
+Patients on ritonavir - or cobicistat - containing HIV or HCV regimens should continue their treatment as indicated .
+3 DOSAGE FORMS AND STRENGTHS PAXLOVID is nirmatrelvir tablets co - packaged with ritonavir tablets .
+• Nirmatrelvir is supplied as oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Each tablet contains 150 mg of nirmatrelvir .
+• Ritonavir is supplied as white or white to off - white film - coated tablets uniquely identified by the color , shape , and debossing [ see How Supplied / Storage and Handling ( 16 ) ] .
+Each tablet contains 100 mg of ritonavir .
+4 CONTRAINDICATIONS PAXLOVID is contraindicated in patients with a history of clinically significant hypersensitivity reactions [ e . g . , toxic epidermal necrolysis ( TEN ) or Stevens - Johnson syndrome ] to its active ingredients ( nirmatrelvir or ritonavir ) or any other components of the product .
+Drugs listed in this section are a guide and not considered a comprehensive list of all drugs that may be contraindicated with PAXLOVID .
+The healthcare provider should consult other appropriate resources such as the prescribing information for the interacting drug for comprehensive information on dosing or monitoring with concomitant use of a strong CYP3A inhibitor such as ritonavir .
+PAXLOVID is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated concentrations are associated with serious and / or life - threatening reactions [ see Drug Interactions ( 7 . 3 ) ] : • Alpha1 - adrenoreceptor antagonist : alfuzosin • Antianginal : ranolazine • Antiarrhythmic : amiodarone , dronedarone , flecainide , propafenone , quinidine • Anti - gout : colchicine • Antipsychotics : lurasidone , pimozide • Benign prostatic hyperplasia agents : silodosin • Cardiovascular agents : eplerenone , ivabradine • Ergot derivatives : dihydroergotamine , ergotamine , methylergonovine • HMG - CoA reductase inhibitors : lovastatin , simvastatin • Immunosuppressants : voclosporin • Microsomal triglyceride transfer protein inhibitor : lomitapide • Migraine medications : eletriptan , ubrogepant • Mineralocorticoid receptor antagonists : finerenone • Opioid antagonists : naloxegol • PDE5 inhibitor : sildenafil ( Revatio ® ) when used for pulmonary arterial hypertension ( PAH ) • Sedative / hypnotics : triazolam , oral midazolam • Serotonin receptor 1 A agonist / serotonin receptor 2 A antagonist : flibanserin • Vasopressin receptor antagonists : tolvaptan PAXLOVID is contraindicated with drugs that are potent CYP3A inducers where significantly reduced nirmatrelvir or ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance .
+PAXLOVID cannot be started immediately after discontinuation of any of the following medications due to the delayed offset of the recently discontinued CYP3A inducer [ see Drug Interactions ( 7 . 3 ) ] : • Anticancer drugs : apalutamide • Anticonvulsant : carbamazepine , phenobarbital , primidone , phenytoin • Cystic fibrosis transmembrane conductance regulator potentiators : lumacaftor / ivacaftor • Antimycobacterials : rifampin • Herbal products : St . John ' s Wort ( hypericum perforatum ) 5 WARNINGS AND PRECAUTIONS There are limited clinical data available for PAXLOVID .
+Serious and unexpected adverse events may occur that have not been previously reported with PAXLOVID use .
+5 . 1 Risk of Serious Adverse Reactions Due to Drug Interactions Initiation of PAXLOVID , a CYP3A inhibitor , in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PAXLOVID , may increase plasma concentrations of medications metabolized by CYP3A .
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PAXLOVID , respectively .
+These interactions may lead to : • Clinically significant adverse reactions , potentially leading to severe , life - threatening , or fatal events from greater exposures of concomitant medications .
+• Clinically significant adverse reactions from greater exposures of PAXLOVID .
+• Loss of therapeutic effect of PAXLOVID and possible development of viral resistance .
+See Table 1 for clinically significant drug interactions , including contraindicated drugs .
+Drugs listed in Table 1 are a guide and not considered a comprehensive list of all possible drugs that may interact with PAXLOVID .
+Consider the potential for drug interactions prior to and during PAXLOVID therapy ; review concomitant medications during PAXLOVID therapy and monitor for the adverse reactions associated with the concomitant medications [ see Contraindications ( 4 ) and Drug Interactions ( 7 ) ] .
+5 . 2 Hypersensitivity Reactions Anaphylaxis and other hypersensitivity reactions have been reported with PAXLOVID [ see Adverse Reactions ( 6 . 2 ) ] .
+Cases of Toxic Epidermal Necrolysis and Stevens - Johnson syndrome have been reported with ritonavir , a component of PAXLOVID ( refer to NORVIR prescribing information ) .
+If signs and symptoms of a clinically significant hypersensitivity reaction or anaphylaxis occur , immediately discontinue PAXLOVID and initiate appropriate medications and / or supportive care .
+5 . 3 Hepatotoxicity Hepatic transaminase elevations , clinical hepatitis , and jaundice have occurred in patients receiving ritonavir .
+Therefore , caution should be exercised when administering PAXLOVID to patients with pre - existing liver diseases , liver enzyme abnormalities , or hepatitis .
+5 . 4 Risk of HIV - 1 Resistance Development Because nirmatrelvir is co - administered with ritonavir , there may be a risk of HIV - 1 developing resistance to HIV protease inhibitors in individuals with uncontrolled or undiagnosed HIV - 1 infection [ see Dosage and Administration ( 2 . 4 ) , Contraindications ( 4 ) , and Drug Interactions ( 7 ) ] .
+6 ADVERSE REACTIONS 6 . 1 Adverse Reactions from Clinical Studies The following adverse reactions have been observed in the clinical studies of PAXLOVID that supported the EUA .
+The adverse reaction rates observed in these clinical studies cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice .
+Additional adverse events associated with PAXLOVID may become apparent with more widespread use .
+The safety of PAXLOVID is based on data from Study C4671005 ( EPIC - HR ) , a Phase 2 / 3 randomized , placebo - controlled trial in non - hospitalized adult subjects with a laboratory confirmed diagnosis of SARS - CoV - 2 infection [ see Clinical Studies ( 14 . 1 ) ] .
+A total of 2 , 224 symptomatic adult subjects 18 years of age and older who are at high risk of developing severe COVID - 19 illness received at least one dose of either PAXLOVID ( n = 1 , 109 ) or placebo ( n = 1 , 115 ) .
+Adverse events were those reported while subjects were on study medication and through Day 34 after initiating study treatment .
+PAXLOVID [ 300 mg nirmatrelvir ( two 150 mg tablets ) with 100 mg ritonavir ] or matching placebo were to be taken twice daily for 5 days .
+Adverse events ( all grades regardless of causality ) in the PAXLOVID group ( ≥ 1 % ) that occurred at a greater frequency ( ≥ 5 subject difference ) than in the placebo group were dysgeusia ( 6 % and < 1 % , respectively ) , diarrhea ( 3 % and 2 % ) , hypertension ( 1 % and < 1 % ) , and myalgia ( 1 % and < 1 % ) .
+The proportions of subjects who discontinued treatment due to an adverse event were 2 % in the PAXLOVID group and 4 % in the placebo group .
+6 . 2 Post - Authorization Experience The following adverse reactions have been identified during post - authorization use of PAXLOVID .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Immune System Disorders : Anaphylaxis , hypersensitivity reactions [ see Warnings and Precautions ( 5 . 2 ) ] Gastrointestinal Disorders : Abdominal pain , nausea General Disorders and Administration Site Conditions : Malaise 6 . 4 Required Reporting for Serious Adverse Events and Medication Errors The prescribing healthcare provider and / or the provider ' s designee is / are responsible for mandatory reporting of all serious adverse events [ 1 ] and medication errors potentially related to PAXLOVID within 7 calendar days from the healthcare provider ' s awareness of the event , using FDA Form 3500 ( for information on how to access this form , see below ) .
+The FDA requires that such reports , using FDA Form 3500 , include the following : • Patient demographics and baseline characteristics ( e . g . , patient identifier , age or date of birth , gender , weight , ethnicity , and race ) .
+• A statement " PAXLOVID use for COVID - 19 under Emergency Use Authorization ( EUA ) " under the " Describe Event , Problem , or Product Use / Medication Error " heading .
+• Information about the serious adverse event or medication error ( e . g . , signs and symptoms , test / laboratory data , complications , timing of drug initiation in relation to the occurrence of the event , duration of the event , treatments required to mitigate the event , evidence of event improvement / disappearance after stopping or reducing the dosage , evidence of event reappearance after reintroduction , clinical outcomes ) .
+• Patient ' s pre - existing medical conditions and use of concomitant products .
+• Information about the product ( e . g . , dosage , route of administration , NDC # ) .
+Submit adverse event and medication error reports , using Form 3500 , to FDA MedWatch using one of the following methods : • Complete and submit the report online : https : / / www . fda . gov / medwatch / report . htm • Complete and submit a postage - paid FDA Form 3500 ( https : / / www . fda . gov / media / 76299 / download ) and return by : • Mail to MedWatch , 5600 Fishers Lane , Rockville , MD 20852 - 9787 , or • Fax to 1 - 800 - FDA - 0178 , or • Call 1 - 800 - FDA - 1088 to request a reporting form In addition , please provide a copy of all FDA MedWatch forms to : Website Fax number Telephone number www . pfizersafetyreporting . com 1 - 866 - 635 - 8337 1 - 800 - 438 - 1985 The prescribing healthcare provider and / or the provider ' s designee is / are responsible for mandatory responses to requests from FDA for information about adverse events and medication errors following receipt of PAXLOVID .
+[ 1 ] Serious adverse events are defined as : Death ; A life - threatening adverse event ; Inpatient hospitalization or prolongation of existing hospitalization ; A persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions ; A congenital anomaly / birth defect ; Other important medical event , which may require a medical or surgical intervention to prevent death , a life - threatening event , hospitalization , disability , or congenital anomaly .
+6 . 5 Other Reporting Requirements Healthcare facilities and providers will report therapeutics information and utilization data as directed by the U . S . Department of Health and Human Services .
+7 DRUG INTERACTIONS 7 . 1 Potential for PAXLOVID to Affect Other Drugs PAXLOVID ( nirmatrelvir co - packaged with ritonavir ) is a strong inhibitor of CYP3A and may increase plasma concentrations of drugs that are primarily metabolized by CYP3A .
+Co - administration of PAXLOVID with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and / or life - threatening events is contraindicated [ see Contraindications ( 4 ) and Table 1 ] .
+Co - administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 1 .
+7 . 2 Potential for Other Drugs to Affect PAXLOVID Nirmatrelvir and ritonavir are CYP3A substrates ; therefore , drugs that induce CYP3A may decrease nirmatrelvir and ritonavir plasma concentrations and reduce PAXLOVID therapeutic effect .
+7 . 3 Established and Other Potentially Significant Drug Interactions Table 1 provides a listing of clinically significant drug interactions , including contraindicated drugs [ see Contraindications ( 4 ) ] .
+Drugs listed in Table 1 are a guide and not considered a comprehensive list of all possible drugs that may interact with PAXLOVID .
+The healthcare provider should consult other appropriate resources such as the prescribing information for the interacting drug for comprehensive information on dosing or monitoring with concomitant use of a strong CYP3A inhibitor such as ritonavir .
+Table 1 : Established and Other Potentially Significant Drug InteractionsDrug Class Drugs within Class Effect on Concentration Clinical Comments Alpha 1 - adrenoreceptor antagonist alfuzosin ↑ alfuzosin Co - administration contraindicated due to potential hypotension [ see Contraindications ( 4 ) ] .
+Alpha 1 - adrenoreceptor antagonist tamsulosin ↑ tamsulosin Avoid concomitant use with PAXLOVID .
+Antianginal ranolazine ↑ ranolazine Co - administration contraindicated due to potential for serious and / or life - threatening reactions [ see Contraindications ( 4 ) ] .
+Antiarrhythmics amiodarone , dronedarone , flecainide , propafenone , quinidine ↑ antiarrhythmic Co - administration contraindicated due to potential for cardiac arrhythmias [ see Contraindications ( 4 ) ] .
+Antiarrhythmics lidocaine ( systemic ) , disopyramide ↑ antiarrhythmic Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics if available .
+Anticancer drugs apalutamide ↓ nirmatrelvir / ritonavir Co - administration contraindicated due to potential loss of virologic response and possible resistance [ see Contraindications ( 4 ) ] .
+Anticancer drugs abemaciclib , ceritinib , dasatinib , encorafenib , ibrutinib , ivosidenib , neratinib , nilotinib , venetoclax , vinblastine , vincristine ↑ anticancer drug Avoid co - administration of encorafenib or ivosidenib due to potential risk of serious adverse events such as QT interval prolongation .
+Avoid use of neratinib , venetoclax or ibrutinib .
+Co - administration of vincristine and vinblastine may lead to significant hematologic or gastrointestinal side effects .
+For further information , refer to individual product label for anticancer drug .
+Anticoagulants warfarin ↑↓ warfarin Closely monitor INR if co - administration with warfarin is necessary .
+rivaroxaban ↑ rivaroxaban Increased bleeding risk with rivaroxaban .
+Avoid concomitant use .
+dabigatran null ↑ dabigatran Increased bleeding risk with dabigatran .
+Depending on dabigatran indication and renal function , reduce dose of dabigatran or avoid concomitant use .
+Refer to the dabigatran product label for further information .
+apixaban ↑ apixaban Combined P - gp and strong CYP3A4 inhibitors increase blood levels of apixaban and increase the risk of bleeding .
+Dosing recommendations for co - administration of apixaban with PAXLOVID depend on the apixaban dose .
+Refer to the apixaban product label for more information .
+Anticonvulsants carbamazepine [ 1 ] , phenobarbital , primidone , phenytoin ↓ nirmatrelvir / ritonavir Co - administration contraindicated due to potential loss of virologic response and possible resistance [ see Contraindications ( 4 ) ] .
+Anticonvulsants clonazepam ↑ anticonvulsant A dose decrease may be needed for clonazepam when co - administered with PAXLOVID and clinical monitoring is recommended .
+Antidepressants bupropion ↓ bupropion and active metabolite hydroxy - bupropion Monitor for an adequate clinical response to bupropion .
+trazodone ↑ trazodone Adverse reactions of nausea , dizziness , hypotension , and syncope have been observed following co - administration of trazodone and ritonavir .
+A lower dose of trazodone should be considered .
+Refer to trazadone product label for further information .
+Antifungals voriconazole , ↓ voriconazole Avoid concomitant use of voriconazole .
+ketoconazole , isavuconazonium sulfate , itraconazole null ↑ ketoconazole ↑ isavuconazonium sulfate ↑ itraconazole ↑ nirmatrelvir / ritonavir Refer to ketoconazole , isavuconazonium sulfate , and itraconazole product labels for further information .
+Anti - gout colchicine ↑ colchicine Co - administration contraindicated due to potential for serious and / or life - threatening reactions in patients with renal and / or hepatic impairment [ see Contraindications ( 4 ) ] .
+Anti - HIV protease inhibitors atazanavir , darunavir , tipranavir ↑ protease inhibitor For further information , refer to the respective protease inhibitors ' prescribing information .
+Patients on ritonavir - or cobicistat - containing HIV regimens should continue their treatment as indicated .
+Monitor for increased PAXLOVID or protease inhibitor adverse events [ see Dosage and Administration ( 2 . 4 ) ] .
+Anti - HIV efavirenz , maraviroc , nevirapine , zidovudine , bictegravir / emtricitabine / tenofovir ↑ efavirenz ↑ maraviroc ↑ nevirapine ↓ zidovudine ↑ bictegravir ↔ emtricitabine ↑ tenofovir For further information , refer to the respective anti - HIV drugs prescribing information .
+Anti - infective clarithromycin , erythromycin ↑ clarithromycin ↑ erythromycin Refer to the respective prescribing information for anti - infective dose adjustment .
+Antimycobacterial rifampin ↓ nirmatrelvir / ritonavir Co - administration contraindicated due to potential loss of virologic response and possible resistance .
+Alternate antimycobacterial drugs such as rifabutin should be considered [ see Contraindications ( 4 ) ] .
+Antimycobacterial bedaquiline ↑ bedaquiline Refer to the bedaquiline product label for further information .
+rifabutin ↑ rifabutin Refer to rifabutin product label for further information on rifabutin dose reduction .
+rifapentine ↓ nirmatrelvir / ritonavir Avoid concomitant use with PAXLOVID .
+Antipsychotics lurasidone , pimozide ↑ lurasidone ↑ pimozide Co - administration contraindicated due to serious and / or life - threatening reactions such as cardiac arrhythmias [ see Contraindications ( 4 ) ] .
+Antipsychotics quetiapine ↑ quetiapine If co - administration is necessary , reduce quetiapine dose and monitor for quetiapine - associated adverse reactions .
+Refer to the quetiapine prescribing information for recommendations .
+clozapine ↑ clozapine If co - administration is necessary , consider reducing the clozapine dose and monitor for adverse reactions .
+Benign prostatic hyperplasia agents silodosin ↑ silodosin Co - administration contraindicated due to potential for postural hypotension [ see Contraindications ( 4 ) ] .
+Calcium channel blockers amlodipine , diltiazem , felodipine , nicardipine , nifedipine ↑ calcium channel blocker Caution is warranted and clinical monitoring of patients is recommended .
+A dose decrease may be needed for these drugs when co - administered with PAXLOVID .
+If co - administered , refer to individual product label for calcium channel blocker for further information .
+Cardiac glycosides digoxin ↑ digoxin Caution should be exercised when co - administering PAXLOVID with digoxin , with appropriate monitoring of serum digoxin levels .
+Refer to the digoxin product label for further information .
+Cardiovascular agents eplerenone ↑ eplerenone Co - administration with eplerenone is contraindicated due to potential for hyperkalemia [ see Contraindications ( 4 ) ] .
+ivabradine ↑ ivabradine Co - administration with ivabradine is contraindicated due to potential for bradycardia or conduction disturbances [ see Contraindications ( 4 ) ] .
+Cardiovascular agents aliskiren , ticagrelor , vorapaxar ↑ aliskiren ↑ ticagrelor ↑ vorapaxar Avoid concomitant use with PAXLOVID .
+clopidogrel ↓ clopidogrel active metabolite cilostazol ↑ cilostazol Dosage adjustment of cilostazol is recommended .
+Refer to the cilostazol product label for more information .
+Corticosteroids primarily metabolized by CYP3A betamethasone , budesonide , ciclesonide , dexamethasone , fluticasone , methylprednisolone , mometasone , triamcinolone ↑ corticosteroid Co - administration with corticosteroids ( all routes of administration ) of which exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing ' s syndrome and adrenal suppression .
+However , the risk of Cushing ' s syndrome and adrenal suppression associated with short - term use of a strong CYP3A4 inhibitor is low .
+Alternative corticosteroids including beclomethasone , prednisone , and prednisolone should be considered .
+Cystic fibrosis transmembrane conductance regulator potentiators lumacaftor / ivacaftor ↓ nirmatrelvir / ritonavir Co - administration contraindicated due to potential loss of virologic response and possible resistance [ see Contraindications ( 4 ) ] .
+Cystic fibrosis transmembrane conductance regulator potentiators ivacaftor ↑ ivacaftor Reduce dosage when co - administered with PAXLOVID .
+elexacaftor / tezacaftor / ivacaftor ↑ elexacaftor / tezacaftor / ivacaftor Refer to individual product labels for more information .
+tezacaftor / ivacaftor ↑ tezacaftor / ivacaftor Dipeptidyl peptidase 4 ( DPP4 ) inhibitors saxagliptin ↑ saxagliptin Dosage adjustment of saxagliptin is recommended .
+Refer to the saxagliptin product label for more information .
+Endothelin receptor antagonists bosentan ↑ bosentan Discontinue use of bosentan at least 36 hours prior to initiation of PAXLOVID .
+Refer to the bosentan product label for further information .
+Ergot derivatives dihydroergotamine , ergotamine , methylergonovine ↑ dihydroergotamine ↑ ergotamine ↑ methylergonovine Co - administration contraindicated due to potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system [ see Contraindications ( 4 ) ] .
+Hepatitis C direct acting antivirals elbasvir / grazoprevir , glecaprevir / pibrentasvir ↑ antiviral Increased grazoprevir concentrations can result in ALT elevations .
+Avoid concomitant use of glecaprevir / pibrentasvir with PAXLOVID .
+ombitasvir / paritaprevir / ritonavir and dasabuvir Refer to the ombitasvir / paritaprevir / ritonavir and dasabuvir label for further information .
+sofosbuvir / velpatasvir / voxilaprevir Refer to the sofosbuvir / velpatasvir / voxilaprevir product label for further information .
+Patients on ritonavir - containing HCV regimens should continue their treatment as indicated .
+Monitor for increased PAXLOVID or HCV drug adverse events with concomitant use [ see Dosage and Administration ( 2 . 4 ) ] .
+Herbal products St . John ' s Wort ( hypericum perforatum ) ↓ nirmatrelvir / ritonavir Co - administration contraindicated due to potential loss of virologic response and possible resistance [ see Contraindications ( 4 ) ] .
+HMG - CoA reductase inhibitors lovastatin , simvastatin ↑ lovastatin ↑ simvastatin Co - administration contraindicated due to potential for myopathy including rhabdomyolysis [ see Contraindications ( 4 ) ] .
+Discontinue use of lovastatin and simvastatin at least 12 hours prior to initiation of PAXLOVID , during the 5 days of PAXLOVID treatment and for 5 days after completing PAXLOVID .
+HMG - CoA reductase inhibitors atorvastatin , rosuvastatin ↑ atorvastatin ↑ rosuvastatin Consider temporary discontinuation of atorvastatin and rosuvastatin during treatment with PAXLOVID .
+Atorvastatin and rosuvastatin do not need to be held prior to or after completing PAXLOVID .
+Hormonal contraceptive ethinyl estradiol ↓ ethinyl estradiol An additional , non - hormonal method of contraception should be considered during the 5 days of PAXLOVID treatment and until one menstrual cycle after stopping PAXLOVID .
+Immunosuppressants voclosporin ↑ voclosporin Co - administration contraindicated due to potential for acute and / or chronic nephrotoxicity [ see Contraindications ( 4 ) ] .
+Immunosuppressants cyclosporine , tacrolimus ↑ cyclosporine ↑ tacrolimus Avoid use of PAXLOVID when close monitoring of immunosuppressant concentrations is not feasible .
+If co - administered , dose adjustment of the immunosuppressant and monitoring for immunosuppressant concentrations and immunosuppressant - associated adverse reactions is recommended .
+Refer to the individual immunosuppressant product label for further information and obtain expert consultation from the patient ' s immunosuppressive therapy specialist .
+everolimus , sirolimus ↑ everolimus ↑ sirolimus Avoid concomitant use of everolimus and sirolimus and PAXLOVID .
+Janus kinase ( JAK ) inhibitors tofacitinib , upadacitinib ↑ tofacitinib Dosage adjustment of tofacitinib is recommended .
+Refer to the tofacitinib product label for more information .
+↑ upadacitinib Dosing recommendations for co - administration of upadacitinib with PAXLOVID depends on the upadacitinib indication .
+Refer to the upadacitinib product label for more information .
+Long - acting beta - adrenoceptor agonist salmeterol ↑ salmeterol Avoid concomitant use with PAXLOVID .
+The combination may result in increased risk of cardiovascular adverse events associated with salmeterol , including QT prolongation , palpitations , and sinus tachycardia .
+Microsomal triglyceride transfer protein ( MTTP ) inhibitor lomitapide ↑ lomitapide Co - administration contraindicated due to potential for hepatotoxicity and gastrointestinal adverse reactions [ see Contraindications ( 4 ) ] .
+Migraine medications eletriptan ↑ eletriptan Co - administration of eletriptan within at least 72 hours of PAXLOVID is contraindicated due to potential for serious adverse reactions including cardiovascular and cerebrovascular events [ see Contraindications ( 4 ) ] .
+ubrogepant ↑ ubrogepant Co - administration of ubrogepant with PAXLOVID is contraindicated due to potential for serious adverse reactions [ see Contraindications ( 4 ) ] .
+Migraine medications rimegepant ↑ rimegepant Avoid concomitant use with PAXLOVID .
+Mineralocorticoid receptor antagonists finerenone ↑ finerenone Co - administration contraindicated due to potential for serious adverse reactions including hyperkalemia , hypotension , and hyponatremia [ see Contraindications ( 4 ) ] .
+Muscarinic receptor antagonists darifenacin ↑ darifenacin The darifenacin daily dose should not exceed 7 . 5 mg when co - administered with PAXLOVID .
+Refer to the darifenacin product label for more information .
+Narcotic analgesics fentanyl , hydrocodone , oxycodone , meperidine ↑ fentanyl ↑ hydrocodone ↑ oxycodone ↑ meperidine Careful monitoring of therapeutic and adverse effects ( including potentially fatal respiratory depression ) is recommended when fentanyl , hydrocodone , oxycodone , or meperidine is concomitantly administered with PAXLOVID .
+If concomitant use with PAXLOVID is necessary , consider a dosage reduction of the narcotic analgesic and monitor patients closely at frequent intervals .
+Refer to the individual product label for more information .
+methadone ↓ methadone Monitor methadone - maintained patients closely for evidence of withdrawal effects and adjust the methadone dose accordingly .
+Neuropsychiatric agents suvorexant ↑ suvorexant Avoid concomitant use of suvorexant with PAXLOVID .
+aripiprazole , brexpiprazole , cariprazine , iloperidone , lumateperone , pimavanserin ↑ aripiprazole ↑ brexpiprazole ↑ cariprazine ↑ iloperidone ↑ lumateperone ↑ pimavanserin Dosage adjustment of aripiprazole , brexpiprazole , cariprazine , iloperidone , lumateperone , and pimavanserin is recommended .
+Refer to individual product label for more information .
+Pulmonary hypertension agents ( PDE5 inhibitors ) sildenafil ( Revatio ® ) ↑ sildenafil Co - administration of sildenafil with PAXLOVID is contraindicated due to the potential for sildenafil associated adverse events , including visual abnormalities , hypotension , prolonged erection , and syncope [ see Contraindications ( 4 ) ] .
+Pulmonary hypertension agents ( PDE5 inhibitors ) tadalafil ( Adcirca ® ) ↑ tadalafil Avoid concomitant use of tadalafil with PAXLOVID .
+Pulmonary hypertension agents ( sGC stimulators ) riociguat ↑ riociguat Dosage adjustment is recommended for riociguat .
+Refer to the riociquat product label for more information .
+Erectile dysfunction agents ( PDE5 inhibitors ) avanafil ↑ avanafil Do not use PAXLOVID with avanafil because a safe and effective avanafil dosage regimen has not been established .
+sildenafil , tadalafil , vardenafil ↑ sildenafil ↑ tadalafil , ↑ vardenafil Dosage adjustment is recommended for use of sildenafil , tadalafil or vardenafil with PAXLOVID .
+Refer to individual product label for more information .
+Opioid antagonists naloxegol ↑ naloxegol Co - administration contraindicated due to the potential for opioid withdrawal symptoms [ see Contraindications ( 4 ) ] .
+Sedative / hypnotics triazolam , oral midazolam null ↑ triazolam ↑ midazolam Co - administration contraindicated due to potential for extreme sedation and respiratory depression [ see Contraindications ( 4 ) ] .
+Sedative / hypnotics buspirone , clorazepate , diazepam , estazolam , flurazepam , zolpidem ↑ sedative / hypnotic A dose decrease may be needed for these drugs when co - administered with PAXLOVID and monitoring for adverse events .
+midazolam ( administered parenterally ) ↑ midazolam Co - administration of midazolam ( parenteral ) should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and / or prolonged sedation .
+Dosage reduction for midazolam should be considered , especially if more than a single dose of midazolam is administered .
+Refer to the midazolam product label for further information .
+Serotonin receptor 1 A agonist / serotonin receptor 2 A antagonist flibanserin ↑ flibanserin Co - administration contraindicated due to potential for hypotension , syncope , and CNS depression [ see Contraindications ( 4 ) ] .
+Vasopressin receptor antagonists tolvaptan ↑ tolvaptan Co - administration contraindicated due to potential for dehydration , hypovolemia and hyperkalemia [ see Contraindications ( 4 ) ] .
+[ 1 ] See Pharmacokinetics , Drug Interaction Studies Conducted with Nirmatrelvir and Ritonavir ( 12 . 3 ) .
+8 USE IN SPECIFIC POPULATIONS 8 . 1 Pregnancy Risk Summary There are no available human data on the use of nirmatrelvir during pregnancy to evaluate for a drug - associated risk of major birth defects , miscarriage , or adverse maternal or fetal outcomes .
+Published observational studies on ritonavir use in pregnant women have not identified an increase in the risk of major birth defects .
+Published studies with ritonavir are insufficient to identify a drug - associated risk of miscarriage ( see Data ) .
+There are maternal and fetal risks associated with untreated COVID - 19 in pregnancy ( see Clinical Considerations ) .
+In an embryo - fetal development study with nirmatrelvir , reduced fetal body weights following oral administration of nirmatrelvir to pregnant rabbits were observed at systemic exposures ( AUC ) approximately 10 times higher than clinical exposure at the authorized human dose of PAXLOVID .
+No other adverse developmental outcomes were observed in animal reproduction studies with nirmatrelvir at systemic exposures ( AUC ) greater than or equal to 3 times higher than clinical exposure at the authorized human dose of PAXLOVID ( see Data ) .
+In animal reproduction studies with ritonavir , no evidence of adverse developmental outcomes was observed following oral administration of ritonavir to pregnant rats and rabbits at doses ( based on body surface area conversions ) or systemic exposures ( AUC ) greater than or equal to 3 times higher than clinical doses or exposure at the authorized human dose of PAXLOVID ( see Data ) .
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown .
+All pregnancies have a risk of birth defect , loss , or other adverse outcomes .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+Clinical Considerations Disease - associated Maternal and / or Embryo - fetal Risk COVID - 19 in pregnancy is associated with adverse maternal and fetal outcomes , including preeclampsia , eclampsia , preterm birth , premature rupture of membranes , venous thromboembolic disease , and fetal death .
+Data Human Data Ritonavir Based on prospective reports to the antiretroviral pregnancy registry of live births following exposure to ritonavir - containing regimens ( including over 3 , 400 live births exposed in the first - trimester and over 3 , 500 live births exposed in the second and third trimesters ) , there was no difference in the rate of overall birth defects for ritonavir compared with the background birth defect rate of 2 . 7 % in the U . S . reference population of the Metropolitan Atlanta Congenital Defects Program ( MACDP ) .
+The prevalence of birth defects in live births was 2 . 3 % ( 95 % confidence interval [ CI ] : 1 . 9 % – 2 . 9 % ) following first - trimester exposure to ritonavir - containing regimens and 2 . 9 % ( 95 % CI : 2 . 4 % – 3 . 6 % ) following second and third trimester exposure to ritonavir - containing regimens .
+While placental transfer of ritonavir and fetal ritonavir concentrations are generally low , detectable levels have been observed in cord blood samples and neonate hair .
+Animal Data Nirmatrelvir Embryo - fetal developmental ( EFD ) toxicity studies were conducted in pregnant rats and rabbits administered oral nirmatrelvir doses of up to 1 , 000 mg / kg / day during organogenesis [ on Gestation Days ( GD ) 6 through 17 in rats and 6 through 19 in rabbits ] .
+No biologically significant developmental effects were observed in the rat EFD study .
+At the highest dose of 1 , 000 mg / kg / day , the systemic nirmatrelvir exposure ( AUC24 ) in rats was approximately 8 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+In the rabbit EFD study , lower fetal body weights ( 9 % decrease ) were observed at 1 , 000 mg / kg / day in the absence of significant maternal toxicity findings .
+At 1 , 000 mg / kg / day , the systemic exposure ( AUC24 ) in rabbits was approximately 10 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+No other significant developmental toxicities ( malformations and embryo - fetal lethality ) were observed at up to the highest dose tested , 1 , 000 mg / kg / day .
+No developmental effects were observed in rabbits at 300 mg / kg / day resulting in systemic exposure ( AUC24 ) approximately 3 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+A pre - and postnatal developmental ( PPND ) study in pregnant rats administered oral nirmatrelvir doses of up to 1 , 000 mg / kg / day from GD 6 through Lactation Day ( LD ) 20 is ongoing and only interim data through postnatal day ( PND ) 56 are currently available .
+Although no difference in body weight was noted at birth when comparing offspring born to nirmatrelvir treated versus control animals , a decrease ( 8 % in males and females ) in the body weight of offspring was observed at PND 17 .
+No significant differences in offspring body weight were observed from PND 28 to PND 56 .
+The maternal systemic exposure ( AUC24 ) at 1 , 000 mg / kg / day was approximately 8 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+No body weight changes in the offspring were noted at 300 mg / kg / day , resulting in systemic exposure ( AUC24 ) approximately 5 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+Ritonavir Ritonavir was administered orally to pregnant rats ( at 0 , 15 , 35 , and 75 mg / kg / day ) and rabbits ( at 0 , 25 , 50 , and 110 mg / kg / day ) during organogenesis ( on GD 6 through 17 and 6 through 19 , respectively ) .
+No evidence of teratogenicity due to ritonavir was observed in rats and rabbits at systemic exposures ( AUC ) approximately 4 times higher than exposure at the authorized human dose of PAXLOVID .
+Increased incidences of early resorptions , ossification delays , and developmental variations , as well as decreased fetal body weights were observed in rats in the presence of maternal toxicity , at systemic exposures approximately 4 times higher than exposure at the authorized human dose of PAXLOVID .
+A slight increase in the incidence of cryptorchidism was also noted in rats ( at a maternally toxic dose ) at an exposure approximately 5 times the exposure at the authorized human dose of PAXLOVID .
+In rabbits , resorptions , decreased litter size , and decreased fetal weights were observed at maternally toxic doses approximately 11 times higher than the authorized human dose of PAXLOVID , based on a body surface area conversion factor .
+In a pre - and postnatal development study in rats , administration of 0 , 15 , 35 , and 60 mg / kg / day ritonavir from GD 6 through postnatal day 20 resulted in no developmental toxicity , at ritonavir doses 3 times higher than the authorized human dose of PAXLOVID , based on a body surface area conversion factor .
+8 . 2 Lactation Risk Summary There are no available data on the presence of nirmatrelvir in human or animal milk , the effects on the breastfed infant , or the effects on milk production .
+A transient decrease in body weight was observed in the nursing offspring of rats administered nirmatrelvir ( see Data ) .
+Limited published data reports that ritonavir is present in human milk .
+There is no information on the effects of ritonavir on the breastfed infant or the effects of the drug on milk production .
+The developmental and health benefits of breastfeeding should be considered along with the mother ' s clinical need for PAXLOVID and any potential adverse effects on the breastfed infant from PAXLOVID or from the underlying maternal condition .
+Breastfeeding individuals with COVID - 19 should follow practices according to clinical guidelines to avoid exposing the infant to COVID - 19 .
+Data In the pre - and postnatal developmental study , body weight decreases ( up to 8 % ) were observed in the offspring of pregnant rats administered nirmatrelvir at maternal systemic exposure ( AUC24 ) approximately 8 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+No body weight changes in the offspring were noted at maternal systemic exposure ( AUC24 ) approximately 5 times higher than clinical exposures at the authorized human dose of PAXLOVID .
+8 . 3 Females and Males of Reproductive Potential Contraception Use of ritonavir may reduce the efficacy of combined hormonal contraceptives .
+Advise patients using combined hormonal contraceptives to use an effective alternative contraceptive method or an additional barrier method of contraception [ see Drug Interactions ( 7 . 3 ) ] .
+8 . 4 Pediatric Use PAXLOVID is not authorized for use in pediatric patients younger than 12 years of age or weighing less than 40 kg .
+The safety and effectiveness of PAXLOVID have not been established in pediatric patients .
+The authorized adult dosing regimen is expected to result in comparable serum exposures of nirmatrelvir and ritonavir in patients 12 years of age and older and weighing at least 40 kg as observed in adults , and adults with similar body weight were included in the trial EPIC - HR [ see Adverse Reactions ( 6 . 1 ) , Clinical Pharmacology ( 12 . 3 ) , and Clinical Studies ( 14 ) ] .
+8 . 5 Geriatric Use Clinical studies of PAXLOVID include subjects 65 years of age and older and their data contributes to the overall assessment of safety and efficacy [ see Adverse Reactions ( 6 . 1 ) and Clinical Studies ( 14 . 1 ) ] .
+Of the total number of subjects in EPIC - HR randomized to receive PAXLOVID ( N = 1 , 120 ) , 13 % were 65 years of age and older and 3 % were 75 years of age and older .
+8 . 6 Renal Impairment Systemic exposure of nirmatrelvir increases in renally impaired patients with increase in the severity of renal impairment [ see Clinical Pharmacology ( 12 . 3 ) ] .
+No dosage adjustment is needed in patients with mild renal impairment .
+In patients with moderate renal impairment ( eGFR ≥ 30 to < 60 mL / min ) , reduce the dose of PAXLOVID to 150 mg nirmatrelvir and 100 mg ritonavir twice daily for 5 days .
+Prescriptions should specify the numeric dose of each active ingredient within PAXLOVID .
+Providers should counsel patients about renal dosing instructions [ see Patient Counseling Information ( 17 ) ] .
+PAXLOVID is not recommended in patients with severe renal impairment ( eGFR < 30 mL / min based on CKD - EPI formula ) until more data are available ; the appropriate dosage for patients with severe renal impairment has not been determined .
+8 . 7 Hepatic Impairment No dosage adjustment of PAXLOVID is needed for patients with either mild ( Child - Pugh Class A ) or moderate ( Child - Pugh Class B ) hepatic impairment .
+No pharmacokinetic or safety data are available regarding the use of nirmatrelvir or ritonavir in subjects with severe hepatic impairment ( Child - Pugh Class C ) , therefore , PAXLOVID is not recommended for use in patients with severe hepatic impairment [ see Warnings and Precautions ( 5 . 3 ) and Clinical Pharmacology ( 12 . 3 ) ] .
+10 OVERDOSAGE Treatment of overdose with PAXLOVID should consist of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient .
+There is no specific antidote for overdose with PAXLOVID .
+11 DESCRIPTION PAXLOVID is nirmatrelvir tablets co - packaged with ritonavir tablets .
+Nirmatrelvir is a SARS - CoV - 2 main protease ( Mpro ) inhibitor , and ritonavir is an HIV - 1 protease inhibitor and CYP3A inhibitor .
+Nirmatrelvir The chemical name of active ingredient of nirmatrelvir is ( 1 R , 2 S , 5 S ) - N - ( ( 1 S ) - 1 - Cyano - 2 - ( ( 3 S ) - 2 - oxopyrrolidin - 3 - yl ) ethyl ) - 3 - ( ( 2 S ) - 3 , 3 - dimethyl - 2 - ( 2 , 2 , 2 - trifluoroacetamido ) butanoyl ) - 6 , 6 - dimethyl - 3 - azabicyclo [ 3 . 1 . 0 ] hexane - 2 - carboxamide ] .
+It has a molecular formula of C23H32F3N5O4 and a molecular weight of 499 . 54 .
+Nirmatrelvir has the following structural formula : [ MULTIMEDIA ] Nirmatrelvir is available as immediate - release , film - coated tablets .
+Each tablet contains 150 mg nirmatrelvir with the following inactive ingredients : colloidal silicon dioxide , croscarmellose sodium , lactose monohydrate , microcrystalline cellulose , and sodium stearyl fumarate .
+The following are the ingredients in the film coating : hydroxy propyl methylcellulose , iron oxide red , polyethylene glycol , and titanium dioxide .
+[ MULTIMEDIA ] Ritonavir Ritonavir is chemically designated as 10 - Hydroxy - 2 - methyl - 5 - ( 1 - methylethyl ) - 1 - [ 2 - ( 1 methylethyl ) - 4 - thiazolyl ] - 3 , 6 - dioxo - 8 , 11 - bis ( phenylmethyl ) - 2 , 4 , 7 , 12 - tetraazatridecan - 13 - oic acid , 5 - thiazolylmethyl ester , [ 5 S - ( 5 R * , 8 R * , 10 R * , 11 R * ) ] .
+Its molecular formula is C37H48N6O5S2 , and its molecular weight is 720 . 95 .
+Ritonavir has the following structural formula : [ MULTIMEDIA ] Ritonavir is available as film - coated tablets .
+Each tablet contains 100 mg ritonavir with the following inactive ingredients : anhydrous dibasic calcium phosphate , colloidal silicon dioxide , copovidone , sodium stearyl fumarate , and sorbitan monolaurate .
+The film coating may include the following ingredients : colloidal anhydrous silica , colloidal silicon dioxide , hydroxypropyl cellulose , hypromellose , polyethylene glycol , polysorbate 80 , talc , and titanium dioxide .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Nirmatrelvir is a peptidomimetic inhibitor of the SARS - CoV - 2 main protease ( Mpro ) , also referred to as 3 C - like protease ( 3 CLpro ) or nsp5 protease .
+Inhibition of SARS - CoV - 2 Mpro renders it incapable of processing polyprotein precursors , preventing viral replication .
+Nirmatrelvir inhibited the activity of recombinant SARS - CoV - 2 Mpro in a biochemical assay with a Ki value of 3 . 1 nM and an IC50 value of 19 . 2 nM .
+Nirmatrelvir was found to bind directly to the SARS - CoV - 2 Mpro active site by X - ray crystallography .
+Ritonavir is an HIV - 1 protease inhibitor but is not active against SARS - CoV - 2 Mpro .
+Ritonavir inhibits the CYP3A - mediated metabolism of nirmatrelvir , resulting in increased plasma concentrations of nirmatrelvir .
+12 . 3 Pharmacokinetics The pharmacokinetics of nirmatrelvir / ritonavir have been studied in healthy subjects .
+Ritonavir is administered with nirmatrelvir as a pharmacokinetic enhancer resulting in higher systemic concentrations and longer half - life of nirmatrelvir , thereby supporting a twice daily administration regimen .
+Upon oral administration of nirmatrelvir / ritonavir , the increase in systemic exposure appears to be less than dose proportional up to 750 mg as a single dose and up to 500 mg twice daily as multiple doses .
+Twice daily dosing over 10 days achieved steady - state on Day 2 with approximately 2 - fold accumulation .
+The pharmacokinetic properties of nirmatrelvir / ritonavir are displayed in Table 2 .
+Table 2 : Pharmacokinetic Properties of Nirmatrelvir and Ritonavir in Healthy Subjects Nirmatrelvir ( When Given With Ritonavir ) Ritonavir Absorption Tmax ( h ) , median 3 . 00 [ 1 ] 3 . 98 null Distribution % bound to human plasma proteins 69 % 98 – 99 % Blood - to - plasma ratio 0 . 60 0 . 14 [ 2 ] Vz / F ( L ) , mean 104 . 7 [ 3 ] 112 . 4 null Elimination Major route of elimination Renal elimination [ 4 ] Hepatic metabolism Half - life ( t1 / 2 ) ( hr ) , mean 6 . 05 null 6 . 15 null Oral clearance ( CL / F ) , mean 8 . 99 null 13 . 92 null Metabolism Metabolic pathways Minimal null Major CYP3A4 , Minor CYP2D6 Excretion % drug - related material in feces 35 . 3 % [ 5 ] 86 . 4 % [ 6 ] % drug - related material in urine 49 . 6 % null 11 . 3 % null [ 1 ] Represents data after a single dose of 300 mg nirmatrelvir ( 2 × 150 mg tablet formulation ) administered together with 100 mg ritonavir tablet in healthy subjects .
+[ 2 ] Red blood cell to plasma ratio .
+[ 3 ] 300 mg nirmatrelvir ( oral suspension formulation ) and 100 mg ritonavir ( tablet formulation ) administered together twice a day for 3 days .
+[ 4 ] Nirmatrelvir is a CYP3A4 substrate but when dosed with ritonavir metabolic clearance is minimal .
+[ 5 ] Determined by 19 F - NMR analysis following 300 mg oral suspension enhanced with 100 mg ritonavir at - 12 hours , 0 hours , 12 hours , and 24 hours .
+[ 6 ] Determined by 14 C analysis following 600 mg 14 C - ritonavir oral solution .
+Single dose pharmacokinetic data of PAXLOVID in healthy subjects is depicted below ( Table 3 ) .
+Table 3 : Single Dose Pharmacokinetics of Nirmatrelvir Following Dosing with 300 mg / 100 mg Nirmatrelvir / Ritonavir in Healthy SubjectsPK Parameter ( units ) Nirmatrelvir ( N = 12 ) Represents data from 2 × 150 mg tablets of nirmatrelvir .
+Values are presented as geometric mean ( geometric % CV ) except median ( range ) for Tmax and arithmetic mean ± SD for T1 / 2 .
+Cmax ( µg / mL ) 2 . 21 ( 33 ) AUCinf ( µg * hr / mL ) 23 . 01 ( 23 ) Tmax ( hr ) 3 . 00 ( 1 . 02 – 6 . 00 ) T1 / 2 ( hr ) 6 . 05 ± 1 . 79 Effect of Food on Oral Absorption of Nirmatrelvir Dosing with a high fat meal modestly increased the exposure of nirmatrelvir ( approximately 15 % increase in mean Cmax and 1 . 6 % increase in mean AUClast ) relative to fasting conditions following administration of a suspension formulation of nirmatrelvir co - administered with ritonavir tablets .
+Specific Populations The pharmacokinetics of nirmatrelvir / ritonavir based on age and gender have not been evaluated .
+Pediatric Patients The pharmacokinetics of nirmatrelvir / ritonavir in patients less than 18 years of age have not been evaluated .
+Using a population PK model , the dosing regimen is expected to result in comparable steady - state plasma exposure of nirmatrelvir in patients 12 years of age and older and weighing at least 40 kg to those observed in adults after adjusting for body weight .
+Racial or Ethnic Groups Systemic exposure in Japanese subjects was numerically lower but not clinically meaningfully different than those in Western subjects .
+Patients with Renal Impairment An open - label study compared nirmatrelvir / ritonavir pharmacokinetics in healthy adult subjects and subjects with mild ( eGFR ≥ 60 to < 90 mL / min ) , moderate ( eGFR ≥ 30 to < 60 mL / min ) , and severe ( eGFR < 30 mL / min ) renal impairment following administration of a single oral dose of nirmatrelvir 100 mg enhanced with ritonavir 100 mg administered at - 12 , 0 , 12 , and 24 hours .
+Compared to healthy controls with no renal impairment , the Cmax and AUC of nirmatrelvir in patients with mild renal impairment was 30 % and 24 % higher , in patients with moderate renal impairment was 38 % and 87 % higher , and in patients with severe renal impairment was 48 % and 204 % higher , respectively ( Table 4 ) .
+Table 4 : Impact of Renal Impairment on Nirmatrelvir / Ritonavir Pharmacokinetics Normal Renal Function ( n = 8 ) Mild Renal Impairment ( n = 8 ) Moderate Renal Impairment ( n = 8 ) Severe Renal Impairment ( n = 8 ) Values are presented as geometric mean ( geometric % CV ) except median ( range ) for Tmax and arithmetic mean ± SD for t1 / 2 .
+Cmax ( µg / mL ) 1 . 60 ( 31 ) 2 . 08 ( 29 ) 2 . 21 ( 17 ) 2 . 37 ( 38 ) AUCinf ( µg * hr / mL ) 14 . 46 ( 20 ) 17 . 91 ( 30 ) 27 . 11 ( 27 ) 44 . 04 ( 33 ) Tmax ( hr ) 2 . 0 ( 1 . 0 – 4 . 0 ) 2 . 0 ( 1 . 0 – 3 . 0 ) 2 . 50 ( 1 . 0 – 6 . 0 ) 3 . 0 ( 1 . 0 – 6 . 1 ) T1 / 2 ( hr ) 7 . 73 ± 1 . 82 6 . 60 ± 1 . 53 9 . 95 ± 3 . 42 13 . 37 ± 3 . 32 Patients with Hepatic Impairment A single oral dose of 100 mg nirmatrelvir enhanced with 100 mg ritonavir at - 12 hours , 0 hours , 12 hours and 24 hours in subjects with moderate hepatic impairment resulted in similar exposures compared to subjects with normal hepatic function ( Table 5 ) .
+Table 5 : Impact of Hepatic Impairment on Nirmatrelvir / Ritonavir Pharmacokinetics Normal Hepatic Function ( n = 8 ) Moderate Hepatic Impairment ( n = 8 ) Values are presented as geometric mean ( geometric % CV ) except median ( range ) for Tmax and arithmetic mean ± SD for t1 / 2 .
+Cmax ( µg / mL ) 1 . 89 ( 20 ) 1 . 92 ( 48 ) AUCinf ( µg * hr / mL ) 15 . 24 ( 36 ) 15 . 06 ( 43 ) Tmax ( hr ) 2 . 0 ( 0 . 6 – 2 . 1 ) 1 . 5 ( 1 . 0 – 2 . 0 ) T1 / 2 ( hr ) 7 . 21 ± 2 . 10 5 . 45 ± 1 . 57 Nirmatrelvir / ritonavir has not been studied in patients with severe hepatic impairment .
+Drug Interaction Studies Conducted with Nirmatrelvir In vitro data indicates that nirmatrelvir is a substrate for human MDR1 ( P - gp ) and 3A4 , but not a substrate for human BCRP , MATE1 , MATE2K , NTCP , OAT1 , OAT2 , OAT3 , OCT1 , OCT2 , PEPT1 , OATPs 1B1 , 1B3 , 2B1 , or 4C1 .
+Nirmatrelvir does not reversibly inhibit CYP1A2 , CYP2B6 , CYP2C8 , CYP2C9 , CYP2C19 , or CYP2D6 in vitro at clinically relevant concentrations .
+Nirmatrelvir has the potential to reversibly and time - dependently inhibit CYP3A4 and inhibit MDR1 ( P - gp ) .
+Nirmatrelvir does not induce any CYPs at clinically relevant concentrations .
+Drug Interaction Studies Conducted with Ritonavir In vitro studies indicate that ritonavir is mainly a substrate of CYP3A .
+Ritonavir also appears to be a substrate of CYP2D6 which contributes to the formation of isopropylthiazole oxidation metabolite M - 2 .
+Ritonavir is an inhibitor of CYP3A and to a lesser extent CYP2D6 .
+Ritonavir appears to induce CYP3A , CYP1A2 , CYP2C9 , CYP2C19 , and CYP2B6 as well as other enzymes , including glucuronosyl transferase .
+The effects of co - administration of PAXLOVID with itraconazole ( CYP3A inhibitor ) and carbamazepine ( CYP3A inducer ) on the nirmatrelvir AUC and Cmax are summarized in Table 6 ( effect of other drugs on nirmatrelvir ) .
+Table 6 : Drug Interactions : Pharmacokinetic Parameters for Nirmatrelvir in the Presence of the Co - administered DrugsCo - administered Drug Dose ( Schedule ) N Percent Ratio ( in combination with co - administered drug / alone ) of Nirmatrelvir Pharmacokinetic Parameters ( 90 % CI ) ; No Effect = 100 Co - administered Drug Nirmatrelvir / Ritonavir Cmax AUC [ 1 ] Abbreviations : AUC = area under the plasma concentration - time curve ; CI = confidence interval ; Cmax = maximum plasma concentrations .
+Carbamazepine [ 2 ] 300 mg twice daily ( 16 doses ) 300 mg / 100 mg twice daily ( 5 doses ) 9 56 . 82 ( 47 . 04 , 68 . 62 ) 44 . 50 ( 33 . 77 , 58 . 65 ) Itraconazole 200 mg once daily ( 8 doses ) 300 mg / 100 mg twice daily ( 5 doses ) 11 118 . 57 ( 112 . 50 , 124 . 97 ) 138 . 82 ( 129 . 25 , 149 . 11 ) [ 1 ] For carbamazepine , AUC = AUCinf , for itraconazole , AUC = AUCtau .
+[ 2 ] Carbamazepine titrated up to 300 mg twice daily on Day 8 through Day 15 ( e . g . , 100 mg twice daily on Day 1 through Day 3 and 200 mg twice daily on Day 4 through Day 7 ) .
+The effects of co - administration of PAXLOVID with midazolam ( CYP3A4 substrate ) or dabigatran ( P - gp substrate ) on the midazolam and dabigatran AUC and Cmax , respectively , are summarized in Table 7 .
+Table 7 : Effect of Nirmatrelvir / Ritonavir on Pharmacokinetics of Co - administered DrugCo - administered Drug Dose ( Schedule ) N Percent Ratio of Test / Reference of Geometric Means ( 90 % CI ) ; No Effect = 100 Co - administered Drug Nirmatrelvir / Ritonavir Cmax AUC [ 1 ] Abbreviations : AUC = area under the plasma concentration - time curve ; CI = confidence interval ; Cmax = maximum plasma concentrations .
+Midazolam [ 2 ] 2 mg ( 1 dose ) 300 mg / 100 mg twice daily ( 9 doses ) 10 368 . 33 ( 318 . 91 , 425 . 41 ) 1430 . 02 ( 1204 . 54 , 1697 . 71 ) Dabigatran null 75 mg ( 1 dose ) 300 mg / 100 mg twice daily ( 5 doses ) null 24 233 . 06 ( 172 . 14 , 315 . 54 ) 194 . 47 ( 155 . 29 , 243 . 55 ) [ 1 ] AUC = AUCinf for both midazolam and dabigatran .
+[ 2 ] For midazolam , Test = nirmatrelvir / ritonavir plus midazolam , Reference = Midazolam .
+Midazolam is an index substrate for CYP3A4 .
+For dabigatran , Test = nirmatrelvir / ritonavir plus dabigatran , Reference = Dabigatran .
+Dabigatran is an index substrate for P - gp .
+12 . 4 Microbiology Antiviral Activity Nirmatrelvir exhibited antiviral activity against SARS - CoV - 2 ( USA - WA1 / 2020 isolate ) infection of differentiated normal human bronchial epithelial ( dNHBE ) cells with EC50 and EC90 values of 62 nM and 181 nM , respectively , after 3 days of drug exposure .
+Nirmatrelvir had similar cell culture antiviral activity ( EC50 values ≤ 3 - fold relative to USA - WA1 / 2020 ) against SARS - CoV - 2 isolates belonging to the Alpha ( B . 1 . 1 . 7 ) , Gamma ( P . 1 ) , Delta ( B . 1 . 617 . 2 ) , Lambda ( C . 37 ) , Mu ( B . 1 . 621 ) , and Omicron ( B . 1 . 1 . 529 / BA . 1 , BA . 2 , BA . 2 . 12 . 1 , and BA . 4 ) variants .
+The Beta ( B . 1 . 351 ) variant was the least susceptible tested variant with approximately 3 . 7 - fold reduced susceptibility relative to the USA - WA1 / 2020 isolate .
+Antiviral Activity Against SARS - CoV - 2 in Animal Models Nirmatrelvir showed antiviral activity in BALB / c and 129 mice infected with mouse - adapted SARS - CoV - 2 .
+Oral administration of nirmatrelvir at 300 mg / kg or 1 , 000 mg / kg twice daily initiated 4 hours post - inoculation or 1 , 000 mg / kg twice daily initiated 12 hours post - inoculation resulted in reduction of lung viral titers and ameliorated indicators of disease ( weight loss and lung pathology ) compared to placebo - treated animals .
+In addition , the antiviral activities of nirmatrelvir alone ( 300 mg / kg twice daily ) , ritonavir alone ( 50 mg / kg twice daily ) , and nirmatrelvir combined with ritonavir ( 300 mg / kg + 50 mg / kg twice daily ) were evaluated in BALB / c mice infected with mouse - adapted SARS - CoV - 2 .
+Dosing was initiated 4 hours post - inoculation .
+Ritonavir alone did not affect lung viral titers or lung pathology .
+However , the combination of nirmatrelvir and ritonavir resulted in reduction of lung virus titers and lung pathology relative to nirmatrelvir alone .
+Antiviral Resistance in Cell Culture and Biochemical Assays SARS - CoV - 2 Mpro residues potentially associated with nirmatrelvir resistance have been identified using a variety of methods , including SARS - CoV - 2 resistance selection , testing of recombinant SARS - CoV - 2 viruses with Mpro substitutions , and biochemical assays with recombinant SARS - CoV - 2 Mpro containing amino acid substitutions .
+Table 8 indicates Mpro substitutions and combinations of Mpro substitutions that have been observed in nirmatrelvir - selected SARS - CoV - 2 in cell culture .
+Individual Mpro substitutions are listed regardless of whether they occurred alone or in combination with other Mpro substitutions .
+Note that the Mpro S301P and T304I substitutions overlap the P6 and P3 positions of the nsp5 / nsp6 cleavage site located at the C - terminus of Mpro .
+Substitutions at other Mpro cleavage sites have not been associated with nirmatrelvir resistance in cell culture .
+The clinical significance of these substitutions is unknown .
+Table 8 : SARS - CoV - 2 Mpro Amino Acid Substitutions Selected by Nirmatrelvir in Cell CultureAbbreviation : ND = no data .
+Single Substitution ( EC50 value fold change ) T21I ( 1 . 1 – 4 . 6 ) , L50F ( 1 . 4 – 4 . 2 ) , P108S ( ND ) , T135I ( ND ) , F140L ( ND ) , S144A ( 2 . 2 – 2 . 5 ) , C160F ( ND ) , E166A ( 3 . 3 ) , E166V ( 25 – 267 ) , L167F ( ND ) , T169I ( ND ) , H172Y ( ND ) , A173V ( 0 . 9 – 2 . 3 ) , V186A ( ND ) , R188G ( ND ) , A191V ( ND ) , A193P ( ND ) , P252L ( 5 . 9 ) , S301P ( ND ) , and T304I ( 2 . 1 – 5 . 5 ) .
+≥ 2 Substitutions ( EC50 value fold change ) T21I + S144A ( 9 . 4 ) , T21I + E166V ( 83 ) , T21I + A173V ( 3 . 1 ) , T21I + T304I ( 3 . 0 – 7 . 9 ) , L50F + E166V ( 34 – 163 ) , L50F + T304I ( 5 . 9 ) , T135I + T304I ( 3 . 8 ) , F140L + A173V ( 10 . 1 ) , H172Y + P252L ( ND ) , A173V + T304I ( 20 . 2 ) , T21I + L50F + A193P + S301P ( 28 . 8 ) , T21I + S144A + T304I ( 27 . 8 ) , T21I + C160F + A173V + V186A + T304I ( 28 . 5 ) , T21I + A173V + T304I ( 15 ) , and L50F + F140L + L167F + T304I ( 54 . 7 ) .
+In a biochemical assay using recombinant SARS - CoV - 2 Mpro containing amino acid substitutions , the following SARS - CoV - 2 Mpro substitutions led to ≥ 3 - fold reduced activity ( fold - change based on Ki values ) of nirmatrelvir : G15S ( 4 . 4 ) , Y54A ( 24 . 0 ) , T135I ( 3 . 2 ) , F140A ( 39 . 0 ) , F140L ( 5 . 4 ) , S144A ( 92 . 0 ) , S144E ( 470 ) , S144T ( 160 ) , H164N ( 6 . 4 ) , E166A ( 33 . 0 ) , E166G ( 16 . 0 ) , H172Y ( 230 ) , A173V ( 26 . 0 ) , V186G ( 13 . 0 ) , Q189K ( 65 . 0 ) , Q192L ( 28 . 0 ) , Q192P ( 33 . 0 ) , and D248E ( 3 . 7 ) .
+The clinical significance of these substitutions is unknown .
+Antiviral Resistance in Clinical Trials Among subjects in clinical trial EPIC - HR with sequence analysis data available at both baseline and a post - dose sample ( n = 361 nirmatrelvir / ritonavir - treated , n = 402 placebo - treated ) , the following SARS - CoV - 2 Mpro or Mpro cleavage site amino acid changes were detected as treatment - emergent substitutions that were more common in nirmatrelvir / ritonavir - treated subjects relative to placebo - treated subjects ( n = number of nirmatrelvir / ritonavir - treated subjects with emergent substitution ) ; Mpro substitutions : A7S / T / V ( n = 3 ) , L30F ( n = 3 ) , M82I / R ( n = 3 ) , G109E / R / V ( n = 3 ) , P132L / S ( n = 4 ) , C145F / R / Y ( n = 3 ) , D153H / Y ( n = 3 ) , E166V ( n = 3 ) , T196A / K / M / R ( n = 4 ) , W207L / S / del ( n = 5 ) , A260D / T / V ( n = 8 ) , D263E ( n = 3 ) , A266P / V ( n = 3 ) , and V297A / F / del ( n = 3 ) ; Mpro ORF1ab cleavage site substitutions : Q5324H / R ( n = 3 ) , A5328P / S ( n = 6 ) , and T6449I / P ( n = 3 ) .
+In one subject with a baseline Mpro L50F substitution , the Mpro E166V substitution co - occurred with L50F on Day 5 ( included in counts above ) .
+The Mpro E166V and L50F + E166V substitutions have been associated with nirmatrelvir resistance in cell culture ( Table 8 ) .
+None of these substitutions in Mpro or cleavage sites occurred in nirmatrelvir / ritonavir - treated participants who also experienced hospitalization .
+Thus , the clinical significance of these substitutions is unknown .
+Viral RNA Rebound Post - treatment increases in SARS - CoV - 2 RNA shedding levels ( i . e . , viral RNA rebound ) in nasopharyngeal samples were observed on Day 10 and / or Day 14 in a subset of PAXLOVID and placebo recipients in EPIC - HR , irrespective of COVID - 19 symptoms .
+The frequency of detection of post - treatment viral RNA rebound varied according to analysis parameters but was generally similar among PAXLOVID and placebo recipients , regardless of the rebound definition used .
+A similar or smaller percentage of placebo recipients compared to PAXLOVID recipients had nasopharyngeal viral RNA results < lower limit of quantitation ( LLOQ ) at all study timepoints in both the treatment and post - treatment periods .
+Post - treatment viral RNA rebound was not associated with the primary clinical outcome of COVID - 19 - related hospitalization or death from any cause through Day 28 following the single 5 - day course of PAXLOVID treatment .
+Post - treatment viral RNA rebound also was not associated with drug resistance as measured by Mpro sequencing .
+The clinical relevance of post - treatment increases in viral RNA following PAXLOVID or placebo treatment is unknown .
+Cross - Resistance Cross - resistance is not expected between nirmatrelvir and anti - SARS - CoV - 2 monoclonal antibodies , molnupiravir , or remdesivir based on their different mechanisms of action .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Nirmatrelvir Carcinogenicity studies have not been conducted with nirmatrelvir .
+Nirmatrelvir was negative for mutagenic or clastogenic activity in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S . typhimurium and E . coli , the in vitro micronucleus assay using human lymphoblastoid TK6 cells , and the in vivo rat micronucleus assays .
+In a fertility and early embryonic development study , nirmatrelvir was administered orally to male and female rats at doses of 60 , 200 , or 1 , 000 mg / kg / day once daily beginning 14 days prior to mating , throughout the mating phase , and continued through GD 6 for females and for a total of 32 doses for males .
+There were no effects on fertility , reproductive performance , or early embryonic development at doses up to 1 , 000 mg / kg / day , resulting in systemic exposure ( AUC24 ) approximately 4 times higher than exposure at the authorized human dose of PAXLOVID .
+Ritonavir Carcinogenicity studies in mice and rats have been conducted on ritonavir .
+In male mice , at levels of 50 , 100 , or 200 mg / kg / day , there was a dose dependent increase in the incidence of both adenomas and combined adenomas and carcinomas in the liver .
+Based on AUC measurements , the exposure at the high dose was approximately 2 times higher ( in males ) than the exposure in humans at the authorized human dose of PAXLOVID .
+There were no carcinogenic effects seen in females at the dosages tested .
+The exposure at the high dose was approximately 4 times higher ( in females ) than the exposure in humans at the authorized human dose of PAXLOVID .
+In rats dosed at levels of 7 , 15 , or 30 mg / kg / day , there were no carcinogenic effects .
+In this study , the exposure at the high dose was approximately 36 % that of the exposure in humans at the authorized human dose of PAXLOVID .
+Ritonavir was found to be negative for mutagenic or clastogenic activity in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S . typhimurium and E . coli , the mouse lymphoma assay , the mouse micronucleus test and chromosomal aberration assays in human lymphocytes .
+Ritonavir produced no effects on fertility in rats at drug exposures approximately 2 ( male ) and 4 ( female ) times higher than the exposure in humans at the authorized human dose of PAXLOVID .
+13 . 2 Animal Toxicology and / or Pharmacology Studies with nirmatrelvir included repeat dose toxicity studies in rats ( 14 days ) and monkeys ( 15 days ) .
+Repeated daily oral dosing in rats at up to 1 , 000 mg / kg / day resulted in non - adverse hematological , liver , and thyroid effects .
+All of the hematology and coagulation findings ( i . e . , increases in PT and APTT ) had no clinical or microscopic correlates and all findings completely recovered at the end of the 2 - week recovery period .
+The liver ( i . e . , minimal to mild periportal hepatocyte hypertrophy and vacuolation ) and thyroid gland ( i . e . , thyroid follicular cell hypertrophy ) findings were consistent with secondary adaptive effects related to microsomal enzyme - induced increase in thyroid hormone clearance in the liver , a mechanism that rats are known to be particularly sensitive to relative to humans .
+All of the findings observed in the liver and thyroid were low severity and occurred in the absence of correlating alterations in clinical pathology parameters , and all of these findings fully recovered .
+No adverse effects were observed at doses up to 1 , 000 mg / kg / day , resulting in systemic exposure approximately 4 times higher than exposures at the authorized human dose of PAXLOVID .
+Nirmatrelvir - related findings following repeat oral dosing in monkeys for 15 days were limited to emesis and increase in fibrinogen .
+Increased fibrinogen may be attributed to an inflammatory state but lacked a microscopic correlate .
+At the high dose of 600 mg / kg / day , the systemic exposure in monkeys was about 18 times higher than exposures at the authorized human dose of PAXLOVID .
+14 CLINICAL STUDIES 14 . 1 Efficacy in Subjects at High Risk of Progressing to Severe COVID - 19 Illness The data supporting this EUA are based on the analysis of EPIC - HR ( NCT04960202 ) , a Phase 2 / 3 , randomized , double - blind , placebo - controlled study in non - hospitalized symptomatic adult subjects with a laboratory confirmed diagnosis of SARS - CoV - 2 infection .
+Eligible subjects were 18 years of age and older with at least 1 of the following risk factors for progression to severe disease : diabetes , overweight ( BMI > 25 ) , chronic lung disease ( including asthma ) , chronic kidney disease , current smoker , immunosuppressive disease or immunosuppressive treatment , cardiovascular disease , hypertension , sickle cell disease , neurodevelopmental disorders , active cancer , medically - related technological dependence , or were 60 years of age and older regardless of comorbidities .
+Subjects with COVID - 19 symptom onset of ≤ 5 days were included in the study .
+Subjects were randomized ( 1 : 1 ) to receive PAXLOVID ( nirmatrelvir / ritonavir 300 mg / 100 mg ) or placebo orally every 12 hours for 5 days .
+The study excluded individuals with a history of prior COVID - 19 infection or vaccination .
+The primary efficacy endpoint was the proportion of subjects with COVID - 19 related hospitalization or death from any cause through Day 28 .
+The analysis was conducted in the modified intent - to - treat ( mITT ) analysis set ( all treated subjects with onset of symptoms ≤ 3 days who at baseline did not receive nor were expected to receive COVID - 19 therapeutic mAb treatment ) , the mITT1 analysis set ( all treated subjects with onset of symptoms ≤ 5 days who at baseline did not receive nor were expected to receive COVID - 19 therapeutic mAb treatment ) , and the mITT2 analysis set ( all treated subjects with onset of symptoms ≤ 5 days ) .
+A total of 2 , 246 subjects were randomized to receive either PAXLOVID or placebo .
+At baseline , mean age was 46 years ; 51 % were male ; 72 % were White , 5 % were Black , and 14 % were Asian ; 45 % were Hispanic or Latino ; 66 % of subjects had onset of symptoms ≤ 3 days from initiation of study treatment ; 47 % of subjects were serological negative at baseline ; the mean ( SD ) baseline viral RNA shedding in nasopharyngeal samples was 4 . 63 log10 copies / mL ( 2 . 87 ) ; 26 % of subjects had a baseline viral RNA shedding of > 7 log10 copies / mL ; 6 % of subjects either received or were expected to receive COVID - 19 therapeutic monoclonal antibody treatment at the time of randomization and were excluded from the mITT and mITT1 analyses .
+The baseline demographic and disease characteristics were balanced between the PAXLOVID and placebo groups .
+Table 9 provides results of the primary endpoint in mITT1 analysis population .
+For the primary endpoint , the relative risk reduction in the mITT1 analysis population for PAXLOVID compared to placebo was 88 % ( 95 % CI : 75 % , 94 % ) .
+Table 9 : Efficacy Results in Non - Hospitalized Adults with COVID - 19 Dosed within 5 Days of Symptom Onset who Did Not Receive COVID - 19 Monoclonal Antibody Treatment at Baseline ( mITT1 Analysis Set ) PAXLOVID ( N = 1 , 039 ) Placebo ( N = 1 , 046 ) Abbreviations : CI = confidence interval .
+The determination of primary efficacy was based on a planned interim analysis of 780 subjects in mITT population .
+The estimated risk reduction was - 6 . 3 % with a 95 % CI of ( - 9 . 0 % , - 3 . 6 % ) and 2 - sided p - value < 0 . 0001 .
+COVID - 19 related hospitalization or death from any cause through Day 28 n ( % ) 8 ( 0 . 8 % ) 66 ( 6 . 3 % ) Reduction relative to placebo [ 1 ] [ 95 % CI ] , % - 5 . 62 ( - 7 . 21 , - 4 . 03 ) All - cause mortality through Day 28 , % 0 12 ( 1 . 1 % ) [ 1 ] The estimated cumulative proportion of participants hospitalized or death by Day 28 was calculated for each treatment group using the Kaplan - Meier method , where subjects without hospitalization and death status through Day 28 were censored at the time of study discontinuation .
+Consistent results were observed in the mITT and mITT2 analysis populations .
+A total of 1 , 379 subjects were included in the mITT analysis population .
+The event rates were 5 / 697 ( 0 . 72 % ) in the PAXLOVID group , and 44 / 682 ( 6 . 45 % ) in the placebo group .
+The primary SARS - CoV - 2 variant across both treatment arms was Delta ( 98 % ) , including clades 21 J , 21 A , and 21 I .
+Similar trends have been observed across subgroups of subjects ( see Figure 1 ) .
+These subgroup analyses are considered exploratory .
+Figure 1 : Adults with COVID - 19 Dosed within 5 Days of Symptom Onset with COVID - 19 - Related Hospitalization or Death from Any Cause Through Day 28 ( Protocol C4671005 ) [ MULTIMEDIA ] N = number of participants in the category of the analysis set .
+All categories are based on mITT1 population except for COVID - 19 mAb treatment which is based on mITT2 population .
+Seropositivity was defined if results were positive in either Elecsys anti - SARS - CoV - 2 S or Elecsys anti - SARS - CoV - 2 ( N ) assay .
+The difference of the proportions in the 2 treatment groups and its 95 % confidence interval based on Normal approximation of the data are presented .
+Relative to placebo , PAXLOVID treatment was associated with an approximately 0 . 9 log10 copies / mL greater decline in viral RNA levels in nasopharyngeal samples through Day 5 , with similar results observed in the mITT , mITT1 , and mITT2 analysis populations .
+[ MULTIMEDIA ] 16 HOW SUPPLIED / STORAGE AND HANDLING How Supplied PAXLOVID is nirmatrelvir tablets co - packaged with ritonavir tablets .
+It is supplied in two different Dose Packs .
+Nirmatrelvir tablets and ritonavir tablets are supplied in separate blister cavities within the same child - resistant blister card .
+Dose Pack Content NDC Description 300 mg nirmatrelvir ; 100 mg ritonavir Each Carton Contains : 30 tablets divided in 5 daily - dose blister cards 0069 - 1085 - 30 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White film - coated ovaloid tablets debossed with the " a " logo and the code NK .
+Or 0069 - 0345 - 30 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White to off - white , capsule - shaped , film - coated tablets debossed with " H " on one side and " R9 " on the other side .
+Each Blister Card [ 1 ] Contains : 4 nirmatrelvir tablets ( 150 mg each ) and 2 ritonavir tablets ( 100 mg each ) 0069 - 1085 - 06 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White film - coated ovaloid tablets debossed with the " a " logo and the code NK .
+Or 0069 - 0345 - 06 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White to off - white , capsule - shaped , film - coated tablets debossed with " H " on one side and " R9 " on the other side .
+150 mg nirmatrelvir ; 100 mg ritonavir Each Carton Contains : 20 tablets divided in 5 daily - dose blister cards 0069 - 1101 - 20 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White film - coated ovaloid tablets debossed with the " a " logo and the code NK .
+Each Blister Card null Contains : 2 nirmatrelvir tablets ( 150 mg each ) and 2 ritonavir tablets ( 100 mg each ) 0069 - 1101 - 04 Nirmatrelvir tablets : Oval , pink immediate - release , film - coated tablets debossed with " PFE " on one side and " 3 CL " on the other side .
+Ritonavir tablets : White film - coated ovaloid tablets debossed with the " a " logo and the code NK .
+[ 1 ] Indicates which tablets need to be taken in the morning and evening .
+Storage and Handling Store at USP controlled room temperature 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) ; excursions permitted between 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+17 PATIENT COUNSELING INFORMATION As a healthcare practitioner , you must communicate to the patient and / or caregiver information consistent with the " FACT SHEET FOR PATIENTS , PARENTS , AND CAREGIVERS " and provide them with a copy of this Fact Sheet prior to administration of PAXLOVID .
+Hypersensitivity Reactions Inform patients that anaphylaxis and other hypersensitivity reactions have been reported , even following a single dose of PAXLOVID .
+Advise them to discontinue the drug and to inform their healthcare provider at the first sign of a skin rash , hives or other skin reactions , difficulty in swallowing or breathing , any swelling suggesting angioedema ( for example , swelling of the lips , tongue , face , tightness of the throat , hoarseness ) , or other symptoms of an allergic reaction [ see Warnings and Precautions ( 5 . 2 ) ] .
+Dosage Modification in Patients with Moderate Renal Impairment To ensure appropriate dosing in patients with moderate renal impairment , instruct such patients that they will be taking one 150 mg nirmatrelvir tablet with one 100 mg ritonavir tablet together twice daily for 5 days .
+In the event that the PAXLOVID 150 mg ; 100 mg dose pack is unavailable : pharmacist should refer to the provided instructions entitled " IMPORTANT PAXLOVID ™ EUA DISPENSING INFORMATION FOR PATIENTS WITH MODERATE RENAL IMPAIRMENT " for dispensing of PAXLOVID to patients with moderate renal impairment [ see Dosage and Administration ( 2 . 2 ) ] and patients should be informed that their daily blister card has been altered to ensure they receive the correct dose .
+Drug Interactions Inform patients that PAXLOVID may interact with some drugs and is contraindicated for use with some drugs ; therefore , patients should be advised to report to their healthcare provider the use of any prescription , non - prescription medication , or herbal products [ see Dosage and Administration ( 2 . 4 ) , Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 ) , and Drug Interactions ( 7 ) ] .
+Administration Instructions Inform patients to take PAXLOVID with or without food as instructed .
+Advise patients to swallow all tablets for PAXLOVID whole and not to chew , break , or crush the tablets .
+Alert the patient of the importance of completing the full 5 - day treatment course and to continuing isolation in accordance with public health recommendations to maximize viral clearance and minimize transmission of SARS - CoV - 2 .
+If the patient misses a dose of PAXLOVID within 8 hours of the time it is usually taken , the patient should take it as soon as possible and resume the normal dosing schedule .
+If the patient misses a dose by more than 8 hours , the patient should not take the missed dose and instead take the next dose at the regularly scheduled time .
+The patient should not double the dose to make up for a missed dose [ see Dosage and Administration ( 2 . 1 ) ] .
+18 MANUFACTURER INFORMATION For general questions , visit the website or call the telephone number provided below .
+Website Telephone number www . COVID19oralRx . com [ MULTIMEDIA ] 1 - 877 - 219 - 7225 ( 1 - 877 - C19 - PACK ) For Medical Information about PAXLOVID , please visit www . pfizermedinfo . com or call 1 - 800 - 438 - 1985 .
+[ MULTIMEDIA ] LAB - 1492 - 11 . 0 Revised : 26 September 2022 [ MULTIMEDIA ] [ MULTIMEDIA ] FACT SHEET FOR PATIENTS , PARENTS , AND CAREGIVERS EMERGENCY USE AUTHORIZATION ( EUA ) OF PAXLOVID FOR CORONAVIRUS DISEASE 2019 ( COVID - 19 ) You are being given this Fact Sheet because your healthcare provider believes it is necessary to provide you with PAXLOVID for the treatment of mild - to - moderate coronavirus disease ( COVID - 19 ) caused by the SARS - CoV - 2 virus .
+This Fact Sheet contains information to help you understand the risks and benefits of taking the PAXLOVID you have received or may receive .
+This Fact Sheet also contains information about how to take PAXLOVID and how to report side effects or problems with the appearance or packaging of PAXLOVID .
+The U . S . Food and Drug Administration ( FDA ) has issued an Emergency Use Authorization ( EUA ) to make PAXLOVID available during the COVID - 19 pandemic ( for more details about an EUA please see " What is an Emergency Use Authorization ? "
+at the end of this document ) .
+PAXLOVID is not an FDA approved medicine in the United States .
+Read this Fact Sheet for information about PAXLOVID .
+Talk to your healthcare provider about your options or if you have any questions .
+It is your choice to take PAXLOVID .
+What is COVID - 19 ?
+COVID - 19 is caused by a virus called a coronavirus .
+You can get COVID - 19 through close contact with another person who has the virus .
+COVID - 19 illnesses have ranged from very mild - to - severe , including illness resulting in death .
+While information so far suggests that most COVID - 19 illness is mild , serious illness can happen and may cause some of your other medical conditions to become worse .
+Older people and people of all ages with severe , long lasting ( chronic ) medical conditions like heart disease , lung disease , and diabetes , for example seem to be at higher risk of being hospitalized for COVID - 19 .
+What is PAXLOVID ?
+PAXLOVID is an investigational medicine used to treat mild - to - moderate COVID - 19 in adults and children [ 12 years of age and older weighing at least 88 pounds ( 40 kg ) ] with positive results of direct SARS - CoV - 2 viral testing , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death .
+PAXLOVID is investigational because it is still being studied .
+There is limited information about the safety and effectiveness of using PAXLOVID to treat people with mild - to - moderate COVID - 19 .
+The FDA has authorized the emergency use of PAXLOVID for the treatment of mild - to - moderate COVID - 19 in adults and children [ 12 years of age and older weighing at least 88 pounds ( 40 kg ) ] with a positive test for the virus that causes COVID - 19 , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death , under an EUA .
+What should I tell my healthcare provider before I take PAXLOVID ?
+Tell your healthcare provider if you : • Have any allergies • Have liver or kidney disease • Are pregnant or plan to become pregnant • Are breastfeeding a child • Have any serious illnesses Some medicines may interact with PAXLOVID and may cause serious side effects .
+• Tell your healthcare provider about all the medicines you take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+• Your healthcare provider can tell you if it is safe to take PAXLOVID with other medicines .
+• You can ask your healthcare provider or pharmacist for a list of medicines that interact with PAXLOVID .
+• Do not start taking a new medicine without telling your healthcare provider .
+Tell your healthcare provider if you are taking combined hormonal contraceptive .
+PAXLOVID may affect how your birth control pills work .
+Females who are able to become pregnant should use another effective alternative form of contraception or an additional barrier method of contraception .
+Talk to your healthcare provider if you have any questions about contraceptive methods that might be right for you .
+How do I take PAXLOVID ?
+• PAXLOVID consists of 2 medicines : nirmatrelvir tablets and ritonavir tablets .
+The 2 medicines are taken together 2 times each day for 5 days .
+• Nirmatrelvir is an oval , pink tablet .
+• Ritonavir is a white or off - white tablet .
+• PAXLOVID is available in 2 Dose Packs ( see Figures A and B below ) .
+Your healthcare provider will prescribe the PAXLOVID Dose Pack that is right for you .
+• If you have kidney disease , your healthcare provider may prescribe a lower dose ( see Figure B ) .
+Talk to your healthcare provider to make sure you receive the correct Dose Pack .
+[ MULTIMEDIA ] [ MULTIMEDIA ] • Do not remove your PAXLOVID tablets from the blister card before you are ready to take your dose .
+• Take your first dose of PAXLOVID in the Morning or Evening , depending on when you pick up your prescription , or as recommended by your healthcare provider .
+• Swallow the tablets whole .
+Do not chew , break , or crush the tablets .
+• Take PAXLOVID with or without food .
+• Do not stop taking PAXLOVID without talking to your healthcare provider , even if you feel better .
+• If you miss a dose of PAXLOVID within 8 hours of the time it is usually taken , take it as soon as you remember .
+If you miss a dose by more than 8 hours , skip the missed dose and take the next dose at your regular time .
+Do not take 2 doses of PAXLOVID at the same time .
+• If you take too much PAXLOVID , call your healthcare provider or go to the nearest hospital emergency room right away .
+• If you are taking a ritonavir - or cobicistat - containing medicine to treat hepatitis C or Human Immunodeficiency Virus ( HIV ) , you should continue to take your medicine as prescribed by your healthcare provider .
+Talk to your healthcare provider if you do not feel better or if you feel worse after 5 days .
+Who should generally not take PAXLOVID ?
+Do not take PAXLOVID if : • You are allergic to nirmatrelvir , ritonavir , or any of the ingredients in PAXLOVID .
+• You are taking any of the following medicines : • alfuzosin • amiodarone • apalutamide • carbamazepine • colchicine • dihydroergotamine • dronedarone • eletriptan • eplerenone • ergotamine • finerenone • flecainide • flibanserin • ivabradine • lomitapide • lovastatin • lumacaftor / ivacaftor • lurasidone • methylergonovine • midazolam ( oral ) • naloxegol • phenobarbital • phenytoin • pimozide • primidone • propafenone • quinidine • ranolazine • rifampin • St . John ' s Wort ( hypericum perforatum ) • sildenafil ( Revatio ® ) for pulmonary arterial hypertension • silodosin • simvastatin • tolvaptan • triazolam • ubrogepant • voclosporin Taking PAXLOVID with these medicines may cause serious or life - threatening side effects or affect how PAXLOVID works .
+These are not the only medicines that may cause serious side effects if taken with PAXLOVID .
+PAXLOVID may increase or decrease the levels of multiple other medicines .
+It is very important to tell your healthcare provider about all of the medicines you are taking because additional laboratory tests or changes in the dose of your other medicines may be necessary while you are taking PAXLOVID .
+Your healthcare provider may also tell you about specific symptoms to watch out for that may indicate that you need to stop or decrease the dose of some of your other medicines .
+What are the important possible side effects of PAXLOVID ?
+Possible side effects of PAXLOVID are : • Allergic Reactions .
+Allergic reactions , including severe allergic reactions ( known as ' anaphylaxis ' ) , can happen in people taking PAXLOVID , even after only 1 dose .
+Stop taking PAXLOVID and call your healthcare provider right away if you get any of the following symptoms of an allergic reaction : • hives • trouble swallowing or breathing • swelling of the mouth , lips , or face • throat tightness • hoarseness • skin rash • Liver Problems .
+Tell your healthcare provider right away if you have any of these signs and symptoms of liver problems : loss of appetite , yellowing of your skin and the whites of eyes ( jaundice ) , dark - colored urine , pale colored stools and itchy skin , stomach area ( abdominal ) pain .
+• Resistance to HIV Medicines .
+If you have untreated HIV infection , PAXLOVID may lead to some HIV medicines not working as well in the future .
+• Other possible side effects include : • altered sense of taste • diarrhea • high blood pressure • muscle aches • abdominal pain • nausea • feeling generally unwell These are not all the possible side effects of PAXLOVID .
+Not many people have taken PAXLOVID .
+Serious and unexpected side effects may happen .
+PAXLOVID is still being studied , so it is possible that all of the risks are not known at this time .
+What other treatment choices are there ?
+Veklury ( remdesivir ) is FDA - approved for the treatment of mild - to - moderate COVID - 19 in certain adults and children .
+Talk with your healthcare provider to see if Veklury is appropriate for you .
+Like PAXLOVID , FDA may also allow for the emergency use of other medicines to treat people with COVID - 19 .
+Go to https : / / www . fda . gov / emergency - preparedness - and - response / mcm - legal - regulatory - and - policy - framework / emergency - use - authorization for information on the emergency use of other medicines that are authorized by FDA to treat people with COVID - 19 .
+Your healthcare provider may talk with you about clinical trials for which you may be eligible .
+It is your choice to be treated or not to be treated with PAXLOVID .
+Should you decide not to receive it or for your child not to receive it , it will not change your standard medical care .
+What if I am pregnant or breastfeeding ?
+There is no experience treating pregnant women or breastfeeding mothers with PAXLOVID .
+For a mother and unborn baby , the benefit of taking PAXLOVID may be greater than the risk from the treatment .
+If you are pregnant , discuss your options and specific situation with your healthcare provider .
+It is recommended that you use effective barrier contraception or do not have sexual activity while taking PAXLOVID .
+If you are breastfeeding , discuss your options and specific situation with your healthcare provider .
+How do I report side effects or problems with the appearance or packaging of PAXLOVID ?
+Contact your healthcare provider if you have any side effects that bother you or do not go away .
+Report side effects or problems with the appearance or packaging of PAXLOVID ( see Figures A and B above for examples of PAXLOVID Dose Packs ) to FDA MedWatch at www . fda . gov / medwatch or call 1 - 800 - FDA - 1088 or you can report side effects to Pfizer Inc . at the contact information provided below .
+Website Fax number Telephone number www . pfizersafetyreporting . com 1 - 866 - 635 - 8337 1 - 800 - 438 - 1985 How should I store PAXLOVID ?
+Store PAXLOVID tablets at room temperature , between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+How can I learn more about COVID - 19 ?
+• Ask your healthcare provider .
+• Visit https : / / www . cdc . gov / COVID19 .
+• Contact your local or state public health department .
+What is an Emergency Use Authorization ( EUA ) ?
+The United States FDA has made PAXLOVID available under an emergency access mechanism called an Emergency Use Authorization ( EUA ) .
+The EUA is supported by a Secretary of Health and Human Services ( HHS ) declaration that circumstances exist to justify the emergency use of drugs and biological products during the COVID - 19 pandemic .
+PAXLOVID for the treatment of mild - to - moderate COVID - 19 in adults and children [ 12 years of age and older weighing at least 88 pounds ( 40 kg ) ] with positive results of direct SARS - CoV - 2 viral testing , and who are at high risk for progression to severe COVID - 19 , including hospitalization or death , has not undergone the same type of review as an FDA - approved product .
+In issuing an EUA under the COVID - 19 public health emergency , the FDA has determined , among other things , that based on the total amount of scientific evidence available including data from adequate and well - controlled clinical trials , if available , it is reasonable to believe that the product may be effective for diagnosing , treating , or preventing COVID - 19 , or a serious or life - threatening disease or condition caused by COVID - 19 ; that the known and potential benefits of the product , when used to diagnose , treat , or prevent such disease or condition , outweigh the known and potential risks of such product ; and that there are no adequate , approved , and available alternatives .
+All of these criteria must be met to allow for the product to be used in the treatment of patients during the COVID - 19 pandemic .
+The EUA for PAXLOVID is in effect for the duration of the COVID - 19 declaration justifying emergency use of this product , unless terminated or revoked ( after which the products may no longer be used under the EUA ) .
+Additional Information For general questions , visit the website or call the telephone number provided below .
+Website Telephone number www . COVID19oralRx . com [ MULTIMEDIA ] 1 - 877 - 219 - 7225 ( 1 - 877 - C19 - PACK ) You can also go to www . pfizermedinfo . com or call 1 - 800 - 438 - 1985 for more information .
+[ MULTIMEDIA ] LAB - 1494 - 8 . 0 Revised : 26 September 2022 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 6 Tablet Blister Pack - 0069 - 1085 NDC 0069 - 1085 - 06 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 300 mg nirmatrelvir ; 100 mg ritonavir nirmatrelvir tablet ( 150 mg ) Morning Dose Take 3 tablets at the same time .
+ritonavir tablet ( 100 mg ) nirmatrelvir tablet ( 150 mg ) For use under Emergency Use Authorization .
+PAA188252 NDC 0069 - 1085 - 06 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 300 mg nirmatrelvir ; 100 mg ritonavir nirmatrelvir tablet ( 150 mg ) Evening Dose Take 3 tablets at the same time .
+ritonavir tablet ( 100 mg ) nirmatrelvir tablet ( 150 mg ) Rx only Dist .
+by Pfizer Labs , Div .
+of Pfizer Inc . , NY , NY 10017 LOT : EXP : [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - Kit Carton - 0069 - 1085 Pfizer NDC 0069 - 1085 - 30 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use Each carton contains 30 tablets in 5 blister cards Each blister card contains 6 tablets : • 4 nirmatrelvir tablets ( 150 mg each ) • 2 ritonavir tablets ( 100 mg each ) 300 mg ; 100 mg Dose Pack Morning Dose - Take all 3 tablets at the same time from the morning dose portion of the blister card ( yellow side ) .
+Evening Dose - Take all 3 tablets at the same time from the evening dose portion of the blister card ( blue side ) .
+For use under Emergency Use Authorization .
+Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 4 Tablet Blister Pack - 0069 - 1101 NDC 0069 - 1101 - 04 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 150 mg nirmatrelvir ; 100 mg ritonavir nirmatrelvir tablet ( 150 mg ) Morning Dose Take both tablets at the same time .
+ritonavir tablet ( 100 mg ) Tablet cavity intentionally left empty For use under Emergency Use Authorization .
+PAA188070 NDC 0069 - 1101 - 04 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 150 mg nirmatrelvir ; 100 mg ritonavir Tablet cavity intentionally left empty Evening Dose Take both tablets at the same time .
+ritonavir tablet ( 100 mg ) nirmatrelvir tablet ( 150 mg ) Rx only Dist .
+by Pfizer Labs , Div .
+of Pfizer Inc . , NY , NY 10017 LOT : EXP : [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - Kit Carton - 0069 - 1101 Pfizer NDC 0069 - 1101 - 20 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use Each carton contains 20 tablets in 5 blister cards Each blister card contains 4 tablets : • 2 nirmatrelvir tablets ( 150 mg each ) • 2 ritonavir tablets ( 100 mg each ) 150 mg ; 100 mg Dose Pack Morning Dose - Take both tablets at the same time from the morning dose portion of the blister card ( white side ) .
+Evening Dose - Take both tablets at the same time from the evening dose portion of the blister card ( pink side ) .
+For use under Emergency Use Authorization .
+Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 6 Tablet Blister Pack - 0069 - 0345 NDC 0069 - 0345 - 06 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 300 mg nirmatrelvir ; 100 mg ritonavir nirmatrelvir tablet ( 150 mg ) Morning Dose Take 3 tablets at the same time .
+ritonavir tablet ( 100 mg ) nirmatrelvir tablet ( 150 mg ) For use under Emergency Use Authorization .
+PAA189057 NDC 0069 - 0345 - 06 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use 300 mg nirmatrelvir ; 100 mg ritonavir nirmatrelvir tablet ( 150 mg ) Evening Dose Take 3 tablets at the same time .
+ritonavir tablet ( 100 mg ) nirmatrelvir tablet ( 150 mg ) Rx only Dist .
+by Pfizer Labs , Div .
+of Pfizer Inc . , NY , NY 10017 LOT : EXP : [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - Kit Carton - 0069 - 0345 Pfizer NDC 0069 - 0345 - 30 PAXLOVID ™ ( nirmatrelvir tablets ; ritonavir tablets ) , co - packaged for oral use Each carton contains 30 tablets in 5 blister cards Each blister card contains 6 tablets : • 4 nirmatrelvir tablets ( 150 mg each ) • 2 ritonavir tablets ( 100 mg each ) 300 mg ; 100 mg Dose Pack Morning Dose - Take all 3 tablets at the same time from the morning dose portion of the blister card ( yellow side ) .
+Evening Dose - Take all 3 tablets at the same time from the evening dose portion of the blister card ( blue side ) .
+For use under Emergency Use Authorization .
+Rx only [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,139 @@
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Trecator and other antibacterial drugs , Trecator should be used only to treat infections that are proven or strongly suspected to be caused by bacteria .
+DESCRIPTION Trecator ® ( ethionamide tablets , USP ) is used in the treatment of tuberculosis .
+The chemical name for ethionamide is 2 - ethylthioisonicotinamide with the following structural formula : [ MULTIMEDIA ] Ethionamide is a yellow crystalline , nonhygroscopic compound with a faint to moderate sulfide odor and a melting point of 162 ° C .
+It is practically insoluble in water and ether , but soluble in methanol and ethanol .
+It has a partition coefficient ( octanol / water ) Log P value of 0 . 3699 .
+Trecator tablets contain 250 mg of ethionamide .
+The inactive ingredients present are croscarmellose sodium , FD & C Yellow # 6 , magnesium stearate , microcrystalline cellulose , polyethylene glycol , polyvinyl alcohol , povidone , silicon dioxide , talc , and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Absorption Ethionamide is essentially completely absorbed following oral administration and is not subjected to any appreciable first pass metabolism .
+Ethionamide tablets may be administered without regard to the timing of meals .
+The pharmacokinetic parameters of ethionamide following single oral - dose administration of 250 mg of Trecator film - coated tablets under fasted conditions to 40 healthy adult volunteers are provided in Table 1 .
+Table 1 : Mean ( SD ) Pharmacokinetic Parameters for Ethionamide Following Single - dose Administration of 250 mg Trecator Film - Coated Tablets to Healthy Adult Volunteers Cmax ( µg / mL ) Tmax ( hrs ) AUC ( µg ∙ hr / mL ) Film - Coated Tablet 2 . 16 ( 0 . 61 ) 1 . 02 ( 0 . 55 ) 7 . 67 ( 1 . 69 ) Trecator tablets have been reformulated from a sugar - coated tablet to a film - coated tablet .
+The Cmax for the film - coated tablets ( 2 . 16 µg / mL ) was significantly higher than that of sugar - coated tablets ( 1 . 48 µg / mL ) ( see DOSAGE AND ADMINISTRATION ) .
+Distribution Ethionamide is rapidly and widely distributed into body tissues and fluids following administration of a sugar - coated tablet , with concentrations in plasma and various organs being approximately equal .
+Significant concentrations are also present in cerebrospinal fluid following administration of a sugar - coated tablet .
+Distribution of ethionamide into the same body tissues and fluids , including cerebrospinal fluid following administration of the film - coated tablet , has not been studied , but is not expected to differ significantly from that of the sugar - coated tablet .
+The drug is approximately 30 % bound to proteins .
+The mean ( SD ) apparent oral volume of distribution observed in 40 healthy volunteers following a 250 mg oral dose of film - coated tablets was 93 . 5 ( 19 . 2 ) L . Metabolism Ethionamide is extensively metabolized to active and inactive metabolites .
+Metabolism is presumed to occur in the liver and thus far 6 metabolites have been isolated : 2 - ethylisonicotinamide , carbonyl - dihydropyridine , thiocarbonyl - dihydropyridine , S - oxocarbamoyl dihydropyridine , 2 - ethylthioiso - nicotinamide , and ethionamide sulphoxide .
+The sulphoxide metabolite has been demonstrated to have antimicrobial activity against Mycobacterium tuberculosis .
+Elimination The mean ( SD ) half - life observed in 40 healthy volunteers following a 250 mg oral dose of film - coated tablets was 1 . 92 ( 0 . 27 ) hours .
+Less than 1 % of the oral dose is excreted as ethionamide in urine .
+Mechanism of Action Ethionamide may be bacteriostatic or bactericidal in action , depending on the concentration of the drug attained at the site of infection and the susceptibility of the infecting organism .
+The exact mechanism of action of ethionamide has not been fully elucidated , but the drug appears to inhibit peptide synthesis in susceptible organisms .
+Microbiology In Vitro Activity Ethionamide exhibits bacteriostatic activity against extracellular and intracellular Mycobacterium tuberculosis organisms .
+The development of ethionamide resistant M . tuberculosis isolates can be obtained by repeated subculturing in liquid or on solid media containing increasing concentrations of ethionamide .
+Multi - drug resistant strains of M . tuberculosis may have acquired resistance to both isoniazid and ethionamide .
+However , the majority of M . tuberculosis isolates that are resistant to one are usually susceptible to the other .
+There is no evidence of cross - resistance between ethionamide and para - aminosalicylic acid ( PAS ) , streptomycin , or cycloserine .
+However , limited data suggest that cross - resistance may exist between ethionamide and thiosemicarbazones ( i . e . , thiacetazone ) as well as isoniazid .
+In Vivo Activity Ethionamide administered orally initially decreased the number of culturable Mycobacterium tuberculosis organisms from the lungs of H37Rv infected mice .
+Drug resistance developed with continued ethionamide monotherapy , but did not occur when mice received ethionamide in combination with streptomycin or isoniazid .
+Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug , please see : https : / / www . fda . gov / STIC .
+INDICATIONS AND USAGE Trecator is primarily indicated for the treatment of active tuberculosis in patients with M . tuberculosis resistant to isoniazid or rifampin , or when there is intolerance on the part of the patient to other drugs .
+Its use alone in the treatment of tuberculosis results in the rapid development of resistance .
+It is essential , therefore , to give a suitable companion drug or drugs , the choice being based on the results of susceptibility tests .
+If the susceptibility tests indicate that the patient ' s organism is resistant to one of the first - line anti - tuberculosis drugs ( i . e . , isoniazid or rifampin ) yet susceptible to ethionamide , ethionamide should be accompanied by at least one drug to which the M . tuberculosis isolate is known to be susceptible . 3 If the tuberculosis is resistant to both isoniazid and rifampin , yet susceptible to ethionamide , ethionamide should be accompanied by at least two other drugs to which the M . tuberculosis isolate is known to be susceptible . 3 To reduce the development of drug - resistant bacteria and maintain the effectiveness of Trecator and other antibacterial drugs , Trecator should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+Patient nonadherence to prescribed treatment can result in treatment failure and in the development of drug - resistant tuberculosis , which can be life - threatening and lead to other serious health risks .
+It is , therefore , essential that patients adhere to the drug regimen for the full duration of treatment .
+Directly observed therapy is recommended for all patients receiving treatment for tuberculosis .
+Patients in whom drug - resistant M . tuberculosis organisms are isolated should be managed in consultation with an expert in the treatment of drug - resistant tuberculosis .
+CONTRAINDICATIONS Ethionamide is contraindicated in patients with severe hepatic impairment and in patients who are hypersensitive to the drug .
+WARNINGS The use of Trecator alone in the treatment of tuberculosis results in rapid development of resistance .
+It is essential , therefore , to give a suitable companion drug or drugs , the choice being based on the results of susceptibility testing .
+However , therapy may be initiated prior to receiving the results of susceptibility tests as deemed appropriate by the physician .
+Ethionamide should be administered with at least one , sometimes two , other drugs to which the organism is known to be susceptible ( see INDICATIONS AND USAGE ) .
+Drugs which have been used as companion agents are rifampin , ethambutol , pyrazinamide , cycloserine , kanamycin , streptomycin , and isoniazid .
+The usual warnings , precautions , and dosage regimens for these companion drugs should be observed .
+Patient compliance is essential to the success of the anti - tuberculosis therapy and to prevent the emergence of drug - resistant organisms .
+Therefore , patients should adhere to the drug regimen for the full duration of treatment .
+It is recommended that directly observed therapy be practiced when patients are receiving anti - tuberculous medication .
+Additional consultation from experts in the treatment of drug - resistant tuberculosis is recommended when patients develop drug - resistant organisms .
+Severe Cutaneous Adverse Reactions There have been reports of severe cutaneous adverse reactions ( SCARs ) , such as Stevens - Johnson syndrome ( SJS ) , toxic epidermal necrolysis ( TEN ) , drug reaction with eosinophilia and systemic symptoms ( DRESS ) , and acute generalized exanthematous pustulosis ( AGEP ) with anti - tuberculosis drugs ( see ADVERSE REACTIONS ) .
+If patients develop a skin rash they should be monitored closely and suspect drug ( s ) discontinued if lesions progress .
+Identifying the specific drug is difficult , as multiple anti - tuberculosis drugs are prescribed in association concurrently .
+Specifically , for DRESS , a multi - system potential life - threatening SCAR , time to onset of the first symptoms may be prolonged .
+DRESS is a clinical diagnosis , and its clinical presentation remains the basis for decision making .
+An early withdrawal of the suspect drug is essential because of the syndrome ' s mortality and visceral involvement ( e . g . , liver , bone marrow or kidney ) .
+PRECAUTIONS General Prescribing Trecator in the absence of a proven or strongly suspected bacterial infection indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Ethionamide may potentiate the adverse effects of the other anti - tuberculous drugs administered concomitantly ( see Drug Interactions ) .
+Ophthalmologic examinations ( including ophthalmoscopy ) should be performed before and periodically during therapy with Trecator .
+Information For Patients Patients should be advised to consult their physician should blurred vision or any loss of vision , with or without eye pain , occur during treatment .
+Excessive ethanol ingestion should be avoided because a psychotic reaction has been reported .
+Patients should be counseled that antibacterial drugs including Trecator should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When Trecator is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by Trecator or other antibacterial drugs in the future .
+Laboratory Tests Determination of serum transaminases ( SGOT , SGPT ) should be made prior to initiation of therapy and should be monitored monthly .
+If serum transaminases become elevated during therapy , ethionamide and the companion anti - tuberculosis drug or drugs may be discontinued temporarily until the laboratory abnormalities have resolved .
+Ethionamide and the companion anti - tuberculosis medication ( s ) then should be reintroduced sequentially to determine which drug ( or drugs ) is ( are ) responsible for the hepatotoxicity .
+Blood glucose determinations should be made prior to and periodically throughout therapy with Trecator .
+Diabetic patients should be particularly alert for episodes of hypoglycemia .
+Periodic monitoring of thyroid function tests is recommended as hypothyroidism , with or without goiter , has been reported with ethionamide therapy .
+Drug Interactions Trecator has been found to temporarily raise serum concentrations of isoniazid .
+Trecator may potentiate the adverse effects of other anti - tuberculous drugs administered concomitantly .
+In particular , convulsions have been reported when ethionamide is administered with cycloserine and special care should be taken when the treatment regimen includes both of these drugs .
+Excessive ethanol ingestion should be avoided because a psychotic reaction has been reported .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Teratogenic Effects Animal studies conducted with Trecator indicate that the drug has teratogenic potential in rabbits and rats .
+The doses used in these studies on a mg / kg basis were considerably in excess of those recommended in humans .
+There are no adequate and well - controlled studies in pregnant women .
+Because of these animal studies , however , it must be recommended that Trecator be withheld from women who are pregnant , or who are likely to become pregnant while under therapy , unless the prescribing physician considers it to be an essential part of the treatment .
+Labor and Delivery The effect of Trecator on labor and delivery in pregnant women is unknown .
+Nursing Mothers Because no information is available on the excretion of ethionamide in human milk , Trecator should be administered to nursing mothers only if the benefits outweigh the risks .
+Newborns who are breast - fed by mothers who are taking Trecator should be monitored for adverse effects .
+Pediatric Use Due to the fact that pulmonary tuberculosis resistant to primary therapy is rarely found in neonates , infants , and children , investigations have been limited in these age groups .
+At present , the drug should not be used in pediatric patients under 12 years of age except when the organisms are definitely resistant to primary therapy and systemic dissemination of the disease , or other life - threatening complications of tuberculosis , is judged to be imminent .
+ADVERSE REACTIONS Gastrointestinal The most common side effects of ethionamide are gastrointestinal disturbances including nausea , vomiting , diarrhea , abdominal pain , excessive salivation , metallic taste , stomatitis , anorexia and weight loss .
+Adverse gastrointestinal effects appear to be dose related , with approximately 50 % of patients unable to tolerate 1 gm as a single dose .
+Gastrointestinal effects may be minimized by decreasing dosage , by changing the time of drug administration , or by the concurrent administration of an antiemetic agent .
+Nervous System Psychotic disturbances ( including mental depression ) , drowsiness , dizziness , restlessness , headache , and postural hypotension have been reported with ethionamide .
+Rare reports of peripheral neuritis , optic neuritis , diplopia , blurred vision , and a pellagra - like syndrome also have been reported .
+Concurrent administration of pyridoxine has been recommended to prevent or relieve neurotoxic effects .
+Hepatic Transient increases in serum bilirubin , SGOT , SGPT ; Hepatitis ( with or without jaundice ) .
+Other Hypersensitivity reactions including rash , photosensitivity , thrombocytopenia and purpura have been reported rarely .
+Hypoglycemia , hypothyroidism , gynecomastia , impotence , and acne also have occurred .
+The management of patients with diabetes mellitus may become more difficult in those receiving ethionamide .
+Anti - Tuberculosis Drug SCARs : Anti - tuberculosis drug use may lead to the occurrence of DRESS as well as other SCARs such as SJS , TEN , and AGEP ( see WARNINGS ) .
+OVERDOSAGE No specific information is available on the treatment of overdosage with Trecator .
+If it should occur , standard procedures to evacuate gastric contents and to support vital functions should be employed .
+DOSAGE AND ADMINISTRATION In the treatment of tuberculosis , a major cause of the emergence of drug - resistant organisms , and thus treatment failure , is patient nonadherence to prescribed treatment .
+Treatment failure and drug - resistant organisms can be life - threatening and may result in other serious health risks .
+It is , therefore , important that patients adhere to the drug regimen for the full duration of treatment .
+Directly observed therapy is recommended when patients are receiving treatment for tuberculosis .
+Consultation with an expert in the treatment of drug - resistant tuberculosis is advised for patients in whom drug - resistant tuberculosis is suspected or likely .
+Ethionamide should be administered with at least one , sometimes two , other drugs to which the organism is known to be susceptible ( see INDICATIONS AND USAGE ) .
+Trecator is administered orally .
+The usual adult dose is 15 to 20 mg / kg / day , administered once daily or , if patient exhibits poor gastrointestinal tolerance , in divided doses , with a maximum daily dosage of 1 gram .
+Trecator tablets have been reformulated from a sugar - coated tablet to a film - coated tablet .
+Patients should be monitored and have their dosage retitrated when switching from the sugar - coated tablet to the film - coated tablet ( see CLINICAL PHARMACOLOGY ) .
+Therapy should be initiated at a dose of 250 mg daily , with gradual titration to optimal doses as tolerated by the patient .
+A regimen of 250 mg daily for 1 or 2 days , followed by 250 mg twice daily for 1 or 2 days with a subsequent increase to 1 gm in 3 or 4 divided doses has been reported . 4 , 5 Thus far , there is insufficient evidence to indicate the lowest effective dosage levels .
+Therefore , in order to minimize the risk of resistance developing to the drug or to the companion drug , the principle of giving the highest tolerated dose ( based on gastrointestinal intolerance ) has been followed .
+In the adult this would seem to be between 0 . 5 and 1 . 0 gm daily , with an average of 0 . 75 gm daily .
+The optimum dosage for pediatric patients has not been established .
+However , pediatric dosages of 10 to 20 mg / kg p . o . daily in 2 or 3 divided doses given after meals or 15 mg / kg / 24 hrs as a single daily dose have been recommended . 1 , 2 As with adults , ethionamide may be administered to pediatric patients once daily .
+It should be noted that in patients with concomitant tuberculosis and HIV infection , malabsorption syndrome may be present .
+Drug malabsorption should be suspected in patients who adhere to therapy , but who fail to respond appropriately .
+In such cases , consideration should be given to therapeutic drug monitoring ( see CLINICAL PHARMACOLOGY ) .
+The best times of administration are those which the individual patient finds most suitable in order to avoid or minimize gastrointestinal intolerance , which is usually at mealtimes .
+Every effort should be made to encourage patients to persevere with treatment when gastrointestinal side effects appear , since they may diminish in severity as treatment proceeds .
+Concomitant administration of pyridoxine is recommended .
+Duration of treatment should be based on individual clinical response .
+In general , continue therapy until bacteriological conversion has become permanent and maximal clinical improvement has occurred .
+HOW SUPPLIED Trecator ( ethionamide tablets , USP ) are supplied in bottles of 100 tablets as follows : 250 mg , orange film - coated tablet marked " W " on one side and " 4117 " on reverse side , NDC 0008 - 4117 - 01 .
+Store at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+Dispense in a tight container .
+REFERENCES • Feigin , R . D . , and Cherry , J . D . : Textbook of Pediatric Infectious Diseases , 2 nd Edition .
+Philadelphia , W . B . Saunders Co . , 1987 , pp . 1371 – 1372 .
+• Nelson , W . E . , Behrman , R . E . , Vaughan , V . C . ( eds . )
+: Nelson Textbook of Pediatrics , 13 th edition .
+Philadelphia , W . B . Saunders Co . , 1987 , p . 636 .
+• Treatment of Tuberculosis and Tuberculosis Infection in Adults and Children , Am J Respiratory and Critical Care Medicine , 149 : 1359 – 1374 , 1994 .
+• Peloquin , CA : Pharmacology of the Antimycobacterial Drugs , Med Clin North Am 77 ( 6 ) : 1230 – 1262 , 1993 .
+• American Thoracic Society .
+Am J Respir Crit Care Med 1997 ; 156 : S1 – S25 .
+This product ' s label may have been updated .
+For current full prescribing information , please visit www . pfizer . com .
+[ MULTIMEDIA ] LAB - 0685 - 7 . 0 Revised : 07 / 2020 [ MULTIMEDIA ] Principal Display Panel - 250 mg Tablet Bottle Label Pfizer NDC 0008 - 4117 - 01 Trecator ® ( ethionamide tablets , USP ) tablets 250 mg SEALED FOR YOUR PROTECTION 100 Tablets Rx only [ MULTIMEDIA ] [ MULTIMEDIA ]

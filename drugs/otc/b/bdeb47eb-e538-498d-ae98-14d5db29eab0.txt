@@ -1,0 +1,123 @@
+DESCRIPTION ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection , for intravenous use , is a sterile , nonpyrogenic , nondepolarizing neuromuscular relaxant antagonist .
+ENLON - PLUS is a combination drug containing a rapid acting acetylcholinesterase inhibitor , edrophonium chloride , and an anticholinergic , atropine sulfate .
+Chemically , edrophonium chloride is ethyl ( m - hydroxyphenyl ) dimethylammonium chloride ; its structural formula is : [ MULTIMEDIA ] Molecular Formula : C10H16ClNO Molecular Weight : 201 . 70 Chemically , atropine sulfate is : endo - ( ± ) - alpha - ( hydroxymethyl ) - 8 - methyl - 8 - azabicyclo [ 3 . 2 . 1 ] oct - 3 - yl benzeneacetate sulfate ( 2 : 1 ) monohydrate .
+Its structural formula is : [ MULTIMEDIA ] Molecular Formula : ( C17H23NO3 ) 2 · H2SO4 · H2O Molecular Weight : 694 . 84 ENLON - PLUS contains in each mL of sterile solution : 5 mL Ampuls : 10 mg edrophonium chloride and 0 . 14 mg atropine sulfate compounded with 2 . 0 mg sodium sulfite as a preservative and buffered with sodium citrate and citric acid .
+The pH range is 4 . 0 - 5 . 0 .
+15 mL Multidose Vials : 10 mg edrophonium chloride and 0 . 14 mg atropine sulfate compounded with 2 . 0 mg sodium sulfite and 4 . 5 mg phenol as a preservative and buffered with sodium citrate and citric acid .
+The pH range is 4 . 0 - 5 . 0 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Pharmacodynamics ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection is a combination of an anticholinesterase agent , which antagonizes the action of nondepolarizing neuromuscular blocking drugs , and a parasympatholytic ( anticholinergic ) drug , which prevents the muscarinic effects caused by inhibition of acetylcholine breakdown by the anticholinesterase .
+Edrophonium chloride antagonizes the effect of nondepolarizing neuromuscular blocking agents primarily by inhibiting or inactivating acetylcholinesterase .
+By inactivating the acetylcholinesterase enzyme , acetylcholine is not hydrolyzed as rapidly by acetylcholinesterase and is thereby allowed to accumulate .
+The greater quantity of acetylcholine reaching the sites of nicotinic cholinergic postjunctional receptors improves transmission of impulses across the myoneural junction .
+The concomitant , unavoidable accumulation of acetylcholine at the sites of muscarinic cholinergic transmission occurring at the parasympathetic , postganglionic receptors of the autonomic nervous system , may cause bradycardia , bronchoconstriction , increased secretions , and other parasympathomimetic side effects .
+The magnitude of these muscarinic side effects can be expected to vary from patient to patient depending upon the amount of vagal nerve activity present .
+Atropine sulfate counteracts these side effects .
+Intravenous edrophonium chloride in doses of 0 . 5 to 1 . 0 mg / kg promptly antagonizes the effects of nondepolarizing muscle relaxants reaching the maximum antagonism within 1 . 2 minutes .
+A plateau of maximal antagonism is sustained for 70 minutes1 .
+Intravenous atropine sulfate has an immediate effect on heart rate which reaches a peak in 2 to 16 minutes and lasts 170 minutes after an average 0 . 02 mg / kg dose .
+Pharmacokinetics Edrophonium Chloride Edrophonium chloride given intravenously shows first order elimination in a two compartment open pharmacokinetic model3 .
+Onset of reversal of muscle relaxant induced depression in twitch tension occurs within three minutes .
+Edrophonium is primarily renally excreted with 67 % of the dose appearing in the urine4 .
+Hepatic metabolism and biliary excretion have also been demonstrated in animals4 , 8 .
+While infants and children have been shown to have a reduced plasma half - life and an increased clearance of edrophonium , doses in children are not significantly different from adults on a mg / kg basis although they are more variable in effect .
+Conversely , elderly subjects ( > 75 years old ) have a prolonged plasma half - life and a reduced clearance .
+Studies have shown that in spite of these changes the onset and duration of action is unchanged in these patients .
+Table of Pharmacokinetic Values for Edrophonium Chloride Population T1 / 2ß hr ± S . D . VD L / kg ± S . D . Cl mL / kg / min ± S . D . N Ref .
+Adults 1 . 8 ± 0 . 6 1 . 1 ± 0 . 2 9 . 6 ± 2 . 7 10 3 Anephric Patients [ 1 ] [ 2 ] 3 . 4 ± 1 . 0 0 . 68 ± 0 . 13 2 . 7 ± 1 . 4 6 4 Infants ( 3 wks - 11 mos ) 1 . 2 ± 0 . 5 1 . 2 ± 0 . 2 17 . 8 ± 1 . 2 4 5 Children ( 1 - 6 yr ) 1 . 6 ± 0 . 5 1 . 2 ± 0 . 7 14 . 2 ± 7 . 3 4 5 Adults [ 3 ] 0 . 9 ± 0 . 3 1 . 1 ± 0 . 6 13 . 3 ± 5 5 6 Elderly null ( over 75 yr ) null 1 . 4 ± 0 . 3 0 . 6 ± 0 . 1 5 . 1 ± 1 5 6 [ 1 ] No adjustments of edrophonium dosage are required because elimination of non - depolarizing muscle relaxants is similarly decreased .
+[ 2 ] Values for anephric patients were calculated using a non - compartmental model .
+[ 3 ] From a study using a different , less sensitive HPLC method and fitting C vs T data to a biexponential curve .
+T1 / 2ß = Elimination half - life VD = Volume of distribution Cl = Clearance Atropine Sulfate Atropine sulfate given intravenously shows first order elimination in a two compartment open model7 .
+Approximately 57 % of a dose of atropine appears in the urine as unchanged drug .
+Tropine is the primary hepatic metabolite of atropine and it accounts for approximately 30 % of the dose2 .
+Atropine is only 14 ± 9 % bound to plasma proteins7 .
+Atropine clearance in children under 2 years old and in the elderly is decreased in relation to normal healthy adults .
+Table of Pharmacokinetic Values for Atropine SulfatePopulation T1 / 2ß hr ± S . D . VD L / kg ± S . D . Cl mL / kg / min ± S . D . N Ref .
+Adults 3 . 0 ± 0 . 9 1 . 6 ± 0 . 4 6 . 8 ± 2 . 9 8 7 Children ( 0 . 08 - 10 yrs ) 4 . 8 ± 3 . 5 2 . 2 ± 1 . 5 6 . 4 ± 3 . 9 13 7 Elderly [ 1 ] ( 65 - 75 yrs ) 10 . 0 ± 7 . 3 1 . 8 ± 1 . 2 2 . 9 ± 1 . 9 10 7 [ 1 ] No dose adjustment required because the cardiovascular effect of atropine is diminished in the elderly .
+T1 / 2ß = Elimination half - life VD = Volume of distribution Cl = Clearance INDICATIONS AND USAGE ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection is recommended as a reversal agent or antagonist of nondepolarizing neuromuscular blocking agents .
+It is not effective against depolarizing neuromuscular blocking agents .
+It is also useful if used adjunctively in the treatment of respiratory depression caused by curare overdosage .
+The appropriateness of the specific fixed ratio of edrophonium and atropine contained in ENLON - PLUS has not been evaluated in myasthenia gravis .
+Therefore , ENLON - PLUS is not recommended for use in the differential diagnosis of this condition .
+CONTRAINDICATIONS ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection is not to be used in patients with known hypersensitivity to either of the components , or in patients with intestinal or urinary obstruction of mechanical type .
+Atropine sulfate is contraindicated in the presence of acute glaucoma , adhesions ( synechiae ) between the iris and lens of the eye , and pyloric stenosis .
+WARNINGS ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection should be used with caution in patients with bronchial asthma or cardiac arrhythmias .
+Cardiac arrest has been reported to occur in digitalized patients as well as in jaundiced subjects receiving cholinesterase inhibitors .
+In patients with cardiovascular disease , given anesthesia with narcotic and nitrous oxide without a potent inhalational agent , there is increased risk for clinically significant bradycardia .
+In patients receiving beta - adrenergic blocking agents there is increased risk for excessive bradycardia from unopposed parasympathetic vagal tone .
+Such patients should receive atropine sulfate alone prior to ENLON - PLUS .
+Isolated instances of respiratory arrest have also been reported following the administration of edrophonium chloride .
+Additional atropine sulfate ( 1 mg ) should be available for immediate use to counteract severe cholinergic reaction which may occur in hypersensitive individuals when ENLON - PLUS is used .
+ENLON - PLUS contains sodium sulfite , a sulfite that may cause allergic - type reactions including anaphylactic symptoms and life - threatening or less severe asthmatic episodes in certain susceptible people .
+The overall prevalence of sulfite sensitivity in the general population is unknown and probably low .
+Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people .
+There is a potential for tissue irritation by extravascular injection .
+PRECAUTIONS General As with any antagonist of nondepolarizing muscle relaxants , adequate recovery of voluntary respiration and neuromuscular transmission must be obtained prior to the discontinuation of respiratory assistance .
+Should a patient develop “ anticholinesterase insensitivity ” for brief or prolonged periods , the patient should be carefully monitored and the dosage of anticholinesterase drugs reduced or withheld until the patient again becomes sensitive to them .
+Use with caution in patients with prostatic hypertrophy and in debilitated patients with chronic lung disease .
+When used in therapeutic doses , atropine can cause dryness of the mouth .
+This effect is additive when the product is administered with other drugs that can cause dryness of the mouth .
+Since atropine sulfate slows gastric emptying and gastrointestinal motility , it may interfere with the absorption of other medications .
+The effect of atropine on dryness of the mouth may be increased if it is given with other drugs that have anticholinergic action ( tricyclic antidepressants , antipsychotics , some antihistamines , and antiparkinsonism drugs ) .
+Drug Interactions ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection should not be administered prior to the administration of any nondepolarizing muscle relaxants .
+It should be administered with caution to patients with symptoms of myasthenic weakness who are also on anticholinesterase drugs .
+Anticholinesterase overdosage ( cholinergic crisis ) symptoms may mimic underdosage ( myasthenic weakness ) , so the use of this drug may worsen the condition of these patients ( see OVERDOSAGE section for treatment ) .
+Narcotic analgesics , except when combined with potent inhaled anesthetics , appear to potentiate the effect of edrophonium on the sinus node and conduction system , increasing both the frequency and duration of bradycardia .
+In patients with cardiovascular disease , given anesthesia with narcotic and nitrous oxide without a potent inhalational agent , there is increased risk for clinically significant bradycardia .
+In patients receiving beta - adrenergic blocking agents there is increased risk for excessive bradycardia from unopposed parasympathetic vagal tone .
+Such patients should receive atropine sulfate alone prior to ENLON - PLUS .
+Compared to muscle relaxants with some vagolytic activity , muscle relaxants with no vagolytic effects , i . e . vecuronium , may be associated with a slightly higher incidence of vagotonic effects such as bradycardia and first - degree heart block when reversed with ENLON - PLUS .
+Pregnancy Category C Animal reproduction studies have not been conducted with ENLON - PLUS .
+It is also not known whether ENLON - PLUS can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+ENLON - PLUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Labor and Delivery The effect of ENLON - PLUS on the mother and fetus , on the duration of labor or delivery , in the possibility that a forceps delivery or other intervention or resuscitation of the newborn will be necessary , is not known .
+The effect of the combination drug on the later growth , development and functional maturation of the child is also unknown .
+Nursing Mothers The safety of ENLON - PLUS during lactation in humans has not been established .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Pediatric patients may have increased vagal tone .
+The effect of fixed ratios of edrophonium and atropine on heart rate in such patients has not been evaluated .
+Geriatric Use Clinical studies of ENLON - PLUS did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Cardiovascular Arrhythmias Frequency > 10 % : junctional rhythm , bradycardia , tachycardia ; Frequency 3 - 10 % : first and second degree A - V block , P Wave changes , atrial premature contractions ; Frequency 1 - 3 % : third degree A - V block , ventricular premature contractions ; Frequency less than 1 % : 3 second R - R interval .
+Of the patients who experienced any arrhythmias , 85 % had the onset within two minutes , 74 % no longer had any arrhythmias after 10 minutes .
+Arrhythmias related to increased vagal tone , bradycardia , second and third degree heart block respond to treatment with 0 . 2 - 0 . 4 mg of atropine I . V . ( Bigeminy or ventricular ectopy may be treated with lidocaine 50 mg I . V . ) .
+Adverse experiences reported for anticholinesterase agents such as edrophonium chloride , but not observed in the 235 patients studied with ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection : Cardiovascular Nonspecific EKG changes , fall in cardiac output leading to hypotension ; Respiratory Increased tracheobronchial secretions , laryngospasm , bronchiolar constriction and respiratory muscle paralysis ; Neurologic Convulsions , dysarthria , dysphonia , and dysphagia ; Gastrointestinal Nausea , vomiting , increased peristalsis , increased gastric and intestinal secretions , diarrhea , abdominal cramps ; Musculoskeletal Weakness and fasciculations ; Miscellaneous Increased urinary frequency , diaphoresis , increased lacrimation , pupillary constriction , diplopia , and conjunctival hyperemia .
+Untoward reactions to atropine sulfate generally are dose - related .
+Individual tolerance varies greatly but systemic doses of 0 . 5 to 10 mg are likely to produce the following effects , which were not observed in the 235 patients treated with ENLON - PLUS : Neurologic Speech disturbances and restlessness with asthenia ; Dermatologic Flushed , dry skin , formation of a scarlatiniform rash ; Miscellaneous Dryness of the nose and mouth , thirst , blurred vision , photophobia , slight mydriasis .
+Atropine may produce fever through inhibition of heat loss by evaporation .
+OVERDOSAGE Muscarinic symptoms ( nausea , vomiting , diarrhea , sweating , increased bronchial and salivary secretions and bradycardia ) may appear with overdosage ( cholinergic crisis ) of ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection , but may be managed by the use of additional atropine sulfate .
+Obstruction of the airway by bronchial secretions can arise and may be managed with suction ( especially if tracheostomy has been performed ) .
+Should edrophonium chloride overdosage occur : • Maintain respiratory exchange .
+• Monitor cardiac function .
+Appropriate measures should be taken if convulsions occur or shock is present .
+Principal manifestations of overdosage ( poisoning ) with atropine sulfate are delirium , tachycardia and fever .
+In the treatment of atropine poisoning , respiratory assistance and symptomatic support are indicated .
+Death is usually due to paralysis of the medullary centers .
+In the clinical studies performed with ENLON - PLUS , there were no reported overdoses and therefore no clinical information is available regarding overdosing with ENLON - PLUS .
+DOSAGE AND ADMINISTRATION Dosages of ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection range from 0 . 05 - 0 . 1 mL / kg given slowly over 45 seconds to 1 minute at a point of at least 5 % recovery of twitch response to neuromuscular stimulation ( 95 % block ) .
+The dosage delivered is 0 . 5 - 1 . 0 mg / kg of edrophonium chloride and 0 . 007 - 0 . 014 mg / kg of atropine sulfate .
+A total dosage of 1 . 0 mg / kg of edrophonium chloride should rarely be exceeded .
+Response should be monitored carefully and assisted or controlled ventilation secured .
+Satisfactory reversal permits adequate voluntary respiration and neuromuscular transmission ( as tested with a peripheral nerve stimulator ) .
+Recurarization has not been reported after satisfactory reversal has been attained .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration .
+HOW SUPPLIED ENLON - PLUS ( edrophonium chloride , USP and atropine sulfate , USP ) Injection should be stored between 15º - 26ºC ( 59º - 78ºF ) .
+NDC 10019 - 180 - 05 5 mL ampuls , boxes of 10 NDC 10019 - 195 - 15 15 mL multidose vials REFERENCES • Cronnelly R , Morris RB , Miller RD : Edrophonium : Duration of action and atropine requirement in humans during halothane anesthesia .
+Anesthesiology 1982 ; 57 : 261 - 266 .
+• Hinderling PH , Gundert - Remy U , Schmidlin O , Heinzel G : Integrated pharmacokinetics and pharmacodynamics of atropine in healthy humans .
+I : Pharmacokinetics ; II : Pharmacodynamics .
+J Pharmaceutical Sci 1985 ; 74 : I - 703 - 710 ; II - 711 - 717 .
+• Morris RB , Cronnelly R , Miller RD , Stanski DR , Fahey MR : Pharmacokinetics of edrophonium and neostigmine when antagonizing d - tubocurarine neuromuscular blockade in man .
+Anesthesiology 1981 ; 54 : 399 - 402 .
+• Morris RB , Cronnelly R , Miller RD , Stanski DR , Fahey MR : Pharmacokinetics of edrophonium in anephric and renal transplant patients .
+Br J Anaesth 1981 ; 53 : 1311 - 1313 .
+• Fisher DM , Cronnelly R , Sharma M , Miller RD : Clinical pharmacology of edrophonium in infants and children .
+Anesthesiology 1984 ; 61 : 428 - 433 .
+• Silverberg PA , Matteo RS , Ornstein E , Young WL , Diaz J : Pharmacokinetics and pharmacodynamics of edrophonium in the elderly .
+Anesth Analg 1986 ; 65 : S142 .
+• Virtanen R , Kanto J , Iisalo E , Iisalo EU , Salo M , Sjovall S : Pharmacokinetic studies on atropine with special reference to age .
+Acta Anaesthesiol Scand 1982 ; 26 : 297 - 300 .
+• Back DJ , Calvey TN : Excretion of 14 C - edrophonium and its metabolites in bile : role of the liver cell and the peribiliary vascular plexus .
+Br J Pharmacol . , 1972 ; 44 : 534 .
+Baxter and Enlon - Plus are trademarks of Baxter International , Inc .
+Manufactured for Baxter Healthcare Corporation Deerfield , IL 60015 USA by : Taylor Pharmaceuticals Decatur , IL 62525 For Product Inquiry 1 800 ANA DRUG ( 1 - 800 - 262 - 3784 ) MLT - 47 / 1 . 0

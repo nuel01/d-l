@@ -1,0 +1,308 @@
+[ Unichem Pharmaceuticals ( USA ) , Inc . ] Rx only Prescribing Information WARNING Cardiovascular Risk • NSAIDs may cause an increased risk of serious cardiovascular thrombotic events , myocardial infarction , and stroke , which can be fatal .
+This risk may increase with duration of use .
+Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk ( see WARNINGS and CLINICAL TRIALS ) .
+• Meloxicam is contraindicated for the treatment of peri - operative pain in the setting of coronary artery bypass graft ( CABG ) surgery ( see WARNINGS ) .
+Gastrointestinal Risk • NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding , ulceration , and perforation of the stomach or intestines , which can be fatal .
+These events can occur at any time during use and without warning symptoms .
+Elderly patients are at greater risk for serious gastrointestinal events ( see WARNINGS ) .
+DESCRIPTION Meloxicam , an oxicam derivative , is a member of the enolic acid group of nonsteroidal anti - inflammatory drugs ( NSAIDs ) .
+Each pastel yellow Meloxicam tablet USP contains 7 . 5 mg or 15 mg meloxicam for oral administration .
+Meloxicam is chemically designated as 4 - hydroxy - 2 - methyl - N - ( 5 - methyl - 2 - thiazolyl ) - 2 H - 1 , 2 - benzothiazine - 3 - carboxamide - 1 , 1 - dioxide .
+The molecular weight is 351 . 4 .
+Its empirical formula is C14H13N3O4S2 and it has the following structural formula .
+[ MULTIMEDIA ] Meloxicam is a pastel yellow solid , practically insoluble in water , with higher solubility observed in strong acids and bases .
+It is very slightly soluble in methanol .
+Meloxicam has an apparent partition coefficient ( log P ) app = 0 . 1 in n - octanol / buffer pH 7 . 4 .
+Meloxicam has pKa values of 1 . 1 and 4 . 2 .
+Meloxicam is available as a tablet for oral administration containing 7 . 5 mg or 15 mg meloxicam .
+The inactive ingredients in Meloxicam tablets USP include colloidal silicon dioxide , crospovidone , lactose monohydrate , magnesium stearate , microcrystalline cellulose , povidone and sodium citrate dihydrate .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Meloxicam is a nonsteroidal anti - inflammatory drug ( NSAID ) that exhibits anti - inflammatory , analgesic , and antipyretic activities in animal models .
+The mechanism of action of meloxicam , like that of other NSAIDs , may be related to prostaglandin synthetase ( cyclo - oxygenase ) inhibition .
+Pharmacokinetics Absorption The absolute bioavailability of meloxicam capsules was 89 % following a single oral dose of 30 mg compared with 30 mg IV bolus injection .
+Following single intravenous doses , dose - proportional pharmacokinetics were shown in the range of 5 mg to 60 mg .
+After multiple oral doses the pharmacokinetics of meloxicam capsules were dose - proportional over the range of 7 . 5 mg to 15 mg .
+Mean Cmax was achieved within four to five hours after a 7 . 5 mg meloxicam tablet was taken under fasted conditions , indicating prolonged drug absorption .
+With multiple dosing , steady state concentrations were reached by Day 5 .
+A second meloxicam concentration peak occurs around 12 to 14 hours post - dose suggesting biliary recycling .
+Table 1 Single Dose and Steady State Pharmacokinetic Parameters for Oral 7 . 5 mg and 15 mg Meloxicam ( Mean and % CV ) 1 Steady State Single Dose 1 The parameter values in the Table are from various studies 2 not under high fat conditions 3 Meloxicam tablets 4 Vz / f = Dose / ( AUC • Kel ) Pharmacokinetic Healthy Elderly Elderly Renal Hepatic Parameters male adults Males Females Failure Insufficiency ( % CV ) ( Fed ) 2 ( Fed ) 2 ( Fed ) 2 ( Fasted ) ( Fasted ) 7 . 5 mg3 15 mg 15 mg 15 mg 15 mg tablets Capsules Capsules Capsules capsules N 18 5 8 12 12 Cmax [ µg / mL ] 1 . 05 ( 20 ) 2 . 3 ( 59 ) 3 . 2 ( 24 ) 0 . 59 ( 36 ) 0 . 84 ( 29 ) tmax [ h ] 4 . 9 ( 8 ) 5 ( 12 ) 6 ( 27 ) 4 ( 65 ) 10 ( 87 ) t1 / 2 [ h ] 20 . 1 ( 29 ) 21 ( 34 ) 24 ( 34 ) 18 ( 46 ) 16 ( 29 ) CL / f [ mL / min ] 8 . 8 ( 29 ) 9 . 9 ( 76 ) 5 . 1 ( 22 ) 19 ( 43 ) 11 ( 44 ) Vz / f4 [ L ] 14 . 7 ( 32 ) 15 ( 42 ) 10 ( 30 ) 26 ( 44 ) 14 ( 29 ) Food and Antacid Effects Administration of meloxicam capsules following a high fat breakfast ( 75 g of fat ) resulted in mean peak drug levels ( i . e . , Cmax ) being increased by approximately 22 % while the extent of absorption ( AUC ) was unchanged .
+The time to maximum concentration ( Tmax ) was achieved between 5 and 6 hours .
+No pharmacokinetic interaction was detected with concomitant administration of antacids .
+Based on these results , meloxicam can be administered without regard to timing of meals or concomitant administration of antacids .
+Distribution The mean volume of distribution ( Vss ) of meloxicam is approximately 10 L . Meloxicam is ~ 99 . 4 % bound to human plasma proteins ( primarily albumin ) within the therapeutic dose range .
+The fraction of protein binding is independent of drug concentration , over the clinically relevant concentration range , but decreases to ~ 99 % in patients with renal disease .
+Meloxicam penetration into human red blood cells , after oral dosing , is less than 10 % .
+Following a radiolabeled dose , over 90 % of the radioactivity detected in the plasma was present as unchanged meloxicam .
+Meloxicam concentrations in synovial fluid , after a single oral dose , range from 40 % to 50 % of those in plasma .
+The free fraction in synovial fluid is 2 . 5 times higher than in plasma , due to the lower albumin content in synovial fluid as compared to plasma .
+The significance of this penetration is unknown .
+Metabolism Meloxicam is almost completely metabolized to four pharmacologically inactive metabolites .
+The major metabolite , 5 ' - carboxy meloxicam ( 60 % of dose ) , from P - 450 mediated metabolism was formed by oxidation of an intermediate metabolite 5 ' - hydroxymethyl meloxicam which is also excreted to a lesser extent ( 9 % of dose ) .
+In vitro studies indicate that cytochrome P - 450 2C9 plays an important role in this metabolic pathway with a minor contribution of the CYP 3A4 isozyme .
+Patients ’ peroxidase activity is probably responsible for the other two metabolites which account for 16 % and 4 % of the administered dose , respectively .
+Excretion Meloxicam excretion is predominantly in the form of metabolites , and occurs to equal extents in the urine and feces .
+Only traces of the unchanged parent compound are excreted in the urine ( 0 . 2 % ) and feces ( 1 . 6 % ) .
+The extent of the urinary excretion was confirmed for unlabeled multiple 7 . 5 mg doses : 0 . 5 % , 6 % and 13 % of the dose were found in urine in the form of meloxicam , and the 5 ' - hydroxymethyl and 5 ' - carboxy metabolites , respectively .
+There is significant biliary and / or enteral secretion of the drug .
+This was demonstrated when oral administration of cholestyramine following a single IV dose of meloxicam decreased the AUC of meloxicam by 50 % .
+The mean elimination half - life ( t1 / 2 ) ranges from 15 hours to 20 hours .
+The elimination half - life is constant across dose levels indicating linear metabolism within the therapeutic dose range .
+Plasma clearance ranges from 7 to 9 mL / min .
+Special Populations Geriatric Elderly males ( ≥ 65 years of age ) exhibited meloxicam plasma concentrations and steady state pharmacokinetics similar to young males .
+Elderly females ( ≥ 65 years of age ) had a 47 % higher AUCss and 32 % higher Cmax , ss as compared to younger females ( ≤ 55 years of age ) after body weight normalization .
+Despite the increased total concentrations in the elderly females , the adverse event profile was comparable for both elderly patient populations .
+A smaller free fraction was found in elderly female patients in comparison to elderly male patients .
+Gender Young females exhibited slightly lower plasma concentrations relative to young males .
+After single doses of 7 . 5 mg meloxicam , the mean elimination half - life was 19 . 5 hours for the female group as compared to 23 . 4 hours for the male group .
+At steady state , the data were similar ( 17 . 9 hours vs . 21 . 4 hours ) .
+This pharmacokinetic difference due to gender is likely to be of little clinical importance .
+There was linearity of pharmacokinetics and no appreciable difference in the Cmax or Tmax across genders .
+Hepatic Insufficiency Following a single 15 mg dose of meloxicam there was no marked difference in plasma concentrations in subjects with mild ( Child - Pugh Class I ) and moderate ( Child - Pugh Class II ) hepatic impairment compared to healthy volunteers .
+Protein binding of meloxicam was not affected by hepatic insufficiency .
+No dose adjustment is necessary in mild to moderate hepatic insufficiency .
+Patients with severe hepatic impairment ( Child - Pugh Class III ) have not been adequately studied .
+Renal Insufficiency Meloxicam pharmacokinetics have been investigated in subjects with different degrees of renal insufficiency .
+Total drug plasma concentrations decreased with the degree of renal impairment while free AUC values were similar .
+Total clearance of meloxicam increased in these patients probably due to the increase in free fraction leading to an increased metabolic clearance .
+There is no need for dose adjustment in patients with mild to moderate renal failure ( CrCL > 15 mL / min ) .
+Patients with severe renal insufficiency have not been adequately studied .
+The use of meloxicam in subjects with severe renal impairment is not recommended ( see WARNINGS , Advanced Renal Disease ) .
+Hemodialysis Following a single dose of meloxicam , the free Cmax plasma concentrations were higher in patients with renal failure on chronic hemodialysis ( 1 % free fraction ) in comparison to healthy volunteers ( 0 . 3 % free fraction ) .
+Hemodialysis did not lower the total drug concentration in plasma ; therefore , additional doses are not necessary after hemodialysis .
+Meloxicam is not dialyzable .
+CLINICAL TRIALS Osteoarthritis and Rheumatoid Arthritis The use of meloxicam for the treatment of the signs and symptoms of osteoarthritis of the knee and hip was evaluated in a 12 - week double - blind controlled trial .
+Meloxicam ( 3 . 75 mg , 7 . 5 mg and 15 mg daily ) was compared to placebo .
+The four primary endpoints were investigator ’ s global assessment , patient global assessment , patient pain assessment , and total WOMAC score ( a self - administered questionnaire addressing pain , function and stiffness ) .
+Patients on meloxicam 7 . 5 mg daily and meloxicam 15 mg daily showed significant improvement in each of these endpoints compared with placebo .
+The use of meloxicam for the management of signs and symptoms of osteoarthritis was evaluated in six double - blind , active - controlled trials outside the U . S . ranging from 4 weeks to 6 months duration .
+In these trials , the efficacy of meloxicam , in doses of 7 . 5 mg / day and 15 mg / day , was comparable to piroxicam 20 mg / day and diclofenac SR 100 mg / day and consistent with the efficacy seen in the U . S . trial .
+The use of meloxicam for the treatment of the signs and symptoms of rheumatoid arthritis was evaluated in a 12 - week double - blind , controlled multinational trial .
+Meloxicam ( 7 . 5 mg , 15 mg and 22 . 5 mg daily ) was compared to placebo .
+The primary endpoint in this study was the ACR20 response rate , a composite measure of clinical , laboratory and functional measures of RA response .
+Patients receiving meloxicam 7 . 5 mg and 15 mg daily showed significant improvement in the primary endpoint compared with placebo .
+No incremental benefit was observed with the 22 . 5 mg dose compared to the 15 mg dose .
+Higher doses of meloxicam ( 22 . 5 mg and greater ) have been associated with an increased risk of serious GI events ; therefore the daily dose of meloxicam should not exceed 15 mg .
+INDICATIONS AND USAGE Carefully consider the potential benefits and risks of meloxicam and other treatment options before deciding to use meloxicam .
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals ( see WARNINGS ) .
+Meloxicam is indicated for relief of the signs and symptoms of osteoarthritis and rheumatoid arthritis .
+CONTRAINDICATIONS Meloxicam is contraindicated in patients with known hypersensitivity to meloxicam .
+Meloxicam should not be given to patients who have experienced asthma , urticaria , or allergic - type reactions after taking aspirin or other NSAIDs .
+Severe , rarely fatal , anaphylactic - like reactions to NSAIDs have been reported in such patients ( see WARNINGS , Anaphylactoid Reactions , and PRECAUTIONS , Pre - existing Asthma ) .
+Meloxicam is contraindicated for the treatment of peri - operative pain in the setting of coronary artery bypass graft ( CABG ) surgery ( see WARNINGS ) .
+WARNINGS Cardiovascular Effects Cardiovascular Thrombotic Events Clinical trials of several COX - 2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular ( CV ) thrombotic events , myocardial infarction , and stroke , which can be fatal .
+All NSAIDs , both COX - 2 selective and nonselective , may have a similar risk .
+Patients with known CV disease or risk factors for CV disease may be at greater risk .
+To minimize the potential risk for an adverse CV event in patients treated with an NSAID , the lowest effective dose should be used for the shortest duration possible .
+Physicians and patients should remain alert for the development of such events , even in the absence of previous CV symptoms .
+Patients should be informed about the signs and / or symptoms of serious CV events and the steps to take if they occur .
+There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use .
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events ( see WARNINGS , Gastrointestinal ( GI ) Effects - Risk of GI Ulceration , Bleeding , and Perforation ) .
+Two large , controlled , clinical trials of a COX - 2 selective NSAID for the treatment of pain in the first 10 - 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke ( see CONTRAINDICATIONS ) .
+Hypertension NSAIDs , including meloxicam can lead to onset of new hypertension or worsening of pre - existing hypertension , either of which may contribute to the increased incidence of CV events .
+Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs .
+NSAIDs , including meloxicam should be used with caution in patients with hypertension .
+Blood pressure ( BP ) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy .
+Congestive Heart Failure and Edema Fluid retention and edema have been observed in some patients taking NSAIDs .
+Meloxicam should be used with caution in patients with fluid retention , hypertension , or heart failure .
+Gastrointestinal ( GI ) Effects - Risk of GI Ulceration , Bleeding , and Perforation NSAIDs , including meloxicam can cause serious gastrointestinal ( GI ) adverse events including inflammation , bleeding , ulceration , and perforation of the stomach , small intestine , or large intestine , which can be fatal .
+These serious adverse events can occur at any time , with or without warning symptoms , in patients treated with NSAIDs .
+Only one in five patients , who develop a serious upper GI adverse event on NSAID therapy , is symptomatic .
+Upper GI ulcers , gross bleeding , or perforation caused by NSAIDs , occur in approximately 1 % of patients treated for 3 - 6 months , and in about 2 - 4 % of patients treated for one year .
+These trends continue with longer duration of use , increasing the likelihood of developing a serious GI event at some time during the course of therapy .
+However , even short - term therapy is not without risk .
+NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding .
+Patients with a prior history of peptic ulcer disease and / or gastrointestinal bleeding who use NSAIDs have a greater than 10 - fold increased risk for developing a GI bleed compared to patients with neither of these risk factors .
+Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants , longer duration of NSAID therapy , smoking , use of alcohol , older age , and poor general health status .
+Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore , special care should be taken in treating this population .
+To minimize the potential risk for an adverse GI event in patients treated with an NSAID , the lowest effective dose should be used for the shortest possible duration .
+Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected .
+This should include discontinuation of the NSAID until a serious GI adverse event is ruled out .
+For high - risk patients , alternate therapies that do not involve NSAIDs should be considered .
+Renal Effects Long - term administration of NSAIDs including meloxicam can result in renal papillary necrosis , renal insufficiency , acute renal failure , and other renal injury .
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion .
+In these patients , administration of a nonsteroidal anti - inflammatory drug may cause a dose - dependent reduction in prostaglandin formation and , secondarily , in renal blood flow , which may precipitate overt renal decompensation .
+Patients at greatest risk of this reaction are those with impaired renal function , heart failure , liver dysfunction , those taking diuretics and ACE inhibitors , angiotensin II receptor antagonists , and the elderly .
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state .
+Advanced Renal Disease No information is available from controlled clinical studies regarding the use of meloxicam in patients with advanced renal disease .
+Therefore , treatment with meloxicam is not recommended in these patients with advanced renal disease .
+If meloxicam therapy must be initiated , close monitoring of the patient ' s renal function is advisable .
+Anaphylactoid Reactions As with other NSAIDS , anaphylactoid reactions have occurred in patients without known prior exposure to meloxicam .
+Meloxicam should not be given to patients with the aspirin triad .
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps , or who exhibit severe , potentially fatal bronchospasm after taking aspirin or other NSAIDs ( see CONTRAINDICATIONS and PRECAUTIONS , Pre - existing Asthma ) .
+Emergency help should be sought in cases where an anaphylactoid reaction occurs .
+Skin Reactions NSAIDs , including meloxicam can cause serious skin adverse events such as exfoliative dermatitis , Stevens - Johnson syndrome ( SJS ) , and toxic epidermal necrolysis ( TEN ) , which can be fatal .
+These serious events may occur without warning .
+Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity .
+Pregnancy In late pregnancy , as with other NSAIDs , meloxicam should be avoided because it may cause premature closure of the ductus arteriosus .
+PRECAUTIONS General Meloxicam cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency .
+Abrupt discontinuation of corticosteroids may lead to disease exacerbation .
+Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids .
+The pharmacological activity of meloxicam in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious , painful conditions .
+Hepatic Effects Borderline elevations of one or more liver tests may occur in up to 15 % of patients taking NSAIDs including meloxicam .
+These laboratory abnormalities may progress , may remain unchanged , or may be transient with continuing therapy .
+Notable elevations of ALT or AST ( approximately three or more times the upper limit of normal ) have been reported in approximately 1 % of patients in clinical trials with NSAIDs .
+In addition , rare cases of severe hepatic reactions , including jaundice and fatal fulminant hepatitis , liver necrosis and hepatic failure , some of them with fatal outcomes have been reported .
+A patient with symptoms and / or signs suggesting liver dysfunction , or in whom an abnormal liver test has occurred , should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with meloxicam .
+If clinical signs and symptoms consistent with liver disease develop , or if systemic manifestations occur ( e . g . , eosinophilia , rash , etc . ) , meloxicam should be discontinued .
+Renal Effects Caution should be used when initiating treatment with meloxicam in patients with considerable dehydration .
+It is advisable to rehydrate patients first and then start therapy with meloxicam .
+Caution is also recommended in patients with pre - existing kidney disease ( see WARNINGS , Renal Effects and Advanced Renal Disease ) .
+The extent to which metabolites may accumulate in patients with renal failure has not been studied with meloxicam .
+Because some meloxicam metabolites are excreted by the kidney , patients with significantly impaired renal function should be more closely monitored .
+Hematological Effects Anemia is sometimes seen in patients receiving NSAIDs , including meloxicam .
+This may be due to fluid retention , occult or gross GI blood loss , or an incompletely described effect upon erythropoiesis .
+Patients on long - term treatment with NSAIDs , including meloxicam , should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia .
+Drugs which inhibit the biosynthesis of prostaglandins may interfere to some extent with platelet function and vascular responses to bleeding .
+NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients .
+Unlike aspirin their effect on platelet function is quantitatively less , of shorter duration , and reversible .
+Patients receiving meloxicam who may be adversely affected by alterations in platelet function , such as those with coagulation disorders or patients receiving anticoagulants should be carefully monitored .
+Pre - existing Asthma Patients with asthma may have aspirin - sensitive asthma .
+The use of aspirin in patients with aspirin - sensitive asthma has been associated with severe bronchospasm which can be fatal .
+Since cross reactivity , including bronchospasm , between aspirin and other NSAIDs has been reported in such aspirin - sensitive patients , meloxicam should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with pre - existing asthma .
+Information for Patients Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy .
+Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed .
+• Meloxicam , like other NSAIDs , may cause serious CV side effects , such as MI or stroke , which may result in hospitalization and even death .
+Although serious CV events can occur without warning symptoms , patients should be alert for the signs and symptoms of chest pain , shortness of breath , weakness , slurring of speech , and should ask for medical advice when observing any indicative sign or symptoms .
+Patients should be apprised of the importance of this follow - up ( see WARNINGS , Cardiovascular Effects ) .
+• Meloxicam , like other NSAIDs , can cause GI discomfort and , rarely , serious GI side effects , such as ulcers and bleeding , which may result in hospitalization and even death .
+Although serious GI tract ulcerations and bleeding can occur without warning symptoms , patients should be alert for the signs and symptoms of ulcerations and bleeding , and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain , dyspepsia , melena , and hematemesis .
+Patients should be apprised of the importance of this follow - up ( see WARNINGS , Gastrointestinal ( GI ) Effects - Risk of GI Ulceration , Bleeding , and Perforation ) .
+• Meloxicam , like other NSAIDs , can cause serious skin side effects such as exfoliative dermatitis , SJS , and TEN , which may result in hospitalizations and even death .
+Although serious skin reactions may occur without warning , patients should be alert for the signs and symptoms of skin rash and blisters , fever , or other signs of hypersensitivity such as itching , and should ask for medical advice when observing any indicative signs or symptoms .
+Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible .
+• Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians .
+• Patients should be informed of the warning signs and symptoms of hepatotoxicity ( e . g . , nausea , fatigue , lethargy , pruritus , jaundice , right upper quadrant tenderness , and " flu - like " symptoms ) .
+If these occur , patients should be instructed to stop therapy and seek immediate medical therapy .
+• Patients should be informed of the signs of an anaphylactoid reaction ( e . g . , difficulty breathing , swelling of the face or throat ) .
+If these occur , patients should be instructed to seek immediate emergency help ( see WARNINGS ) .
+• In late pregnancy , as with other NSAIDs , meloxicam should be avoided because it will cause premature closure of the ductus arteriosus .
+Laboratory Tests Because serious GI tract ulcerations and bleeding can occur without warning symptoms , physicians should monitor for signs or symptoms of GI bleeding .
+Patients on long - term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically .
+If clinical signs and symptoms consistent with liver or renal disease develop , systemic manifestations occur ( e . g . , eosinophilia , rash , etc . ) or if abnormal liver tests persist or worsen , meloxicam should be discontinued .
+Drug Interactions ACE - inhibitors Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE - inhibitors .
+This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors .
+Aspirin When meloxicam is administered with aspirin ( 1000 g TID ) to healthy volunteers , it tended to increase the AUC ( 10 % ) and Cmax ( 24 % ) of meloxicam .
+The clinical significance of this interaction is not known ; however , as with other NSAIDs concomitant administration of meloxicam and aspirin is not generally recommended because of the potential for increased adverse effects .
+Concomitant administration of low - dose aspirin with meloxicam may result in an increased rate of GI ulceration or other complications , compared to use of meloxicam alone .
+Meloxicam is not a substitute for aspirin for cardiovascular prophylaxis .
+Cholestyramine Pretreatment for four days with cholestyramine significantly increased the clearance of meloxicam by 50 % .
+This resulted in a decrease in t1 / 2 , from 19 . 2 hours to 12 . 5 hours , and a 35 % reduction in AUC .
+This suggests the existence of a recirculation pathway for meloxicam in the gastrointestinal tract .
+The clinical relevance of this interaction has not been established .
+Cimetidine Concomitant administration of 200 mg cimetidine QID did not alter the single - dose pharmacokinetics of 30 mg meloxicam .
+Digoxin Meloxicam 15 mg once daily for 7 days did not alter the plasma concentration profile of digoxin after β - acetyldigoxin administration for 7 days at clinical doses .
+In vitro testing found no protein binding drug interaction between digoxin and meloxicam .
+Furosemide Clinical studies , as well as post - marketing observations , have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients .
+This response has been attributed to inhibition of renal prostaglandin synthesis .
+Studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect .
+Furosemide single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam .
+Nevertheless , during concomitant therapy with meloxicam , patients should be observed closely for signs of renal failure ( see WARNINGS , Renal Effects ) , as well as to assure diuretic efficacy .
+Lithium In a study conducted in healthy subjects , mean pre - dose lithium concentration and AUC were increased by 21 % in subjects receiving lithium doses ranging from 804 to 1072 mg BID with meloxicam 15 mg QD as compared to subjects receiving lithium alone .
+These effects have been attributed to inhibition of renal prostaglandin synthesis by meloxicam .
+Patients on lithium treatment should be closely monitored for signs of lithium toxicity when meloxicam is introduced , adjusted , or withdrawn .
+Methotrexate NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices .
+This may indicate that they could enhance the toxicity of methotrexate .
+Caution should be used when NSAIDs are administered concomitantly with methotrexate .
+A study in 13 rheumatoid arthritis ( RA ) patients evaluated the effects of multiple doses of meloxicam on the pharmacokinetics of methotrexate taken once weekly .
+Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate . In vitro , methotrexate did not displace meloxicam from its human serum binding sites .
+Warfarin The effects of warfarin and NSAIDs on GI bleeding are synergistic , such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone .
+Anticoagulant activity should be monitored , particularly in the first few days after initiating or cha nging meloxicam therapy in patients receiving warfarin or similar agents , since these patients are at an increased risk of bleeding .
+The effect of meloxicam on the anticoagulant effect of warfarin was studied in a group of healthy subjects receiving daily doses of warfarin that produced an INR ( International Normalized Ratio ) between 1 . 2 and 1 . 8 .
+In these subjects , meloxicam did not alter warfarin pharmacokinetics and the average anticoagulant effect of warfarin as determined by prothrombin time .
+However , one subject showed an increase in INR from 1 . 5 to 2 . 1 .
+Caution should be used when administering meloxicam with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No carcinogenic effect of meloxicam was observed in rats given oral doses up to 0 . 8 mg / kg / day ( approximately 0 . 4 - fold the human dose at 15 mg / day for a 50 kg adult based on body surface area conversion ) for 104 weeks or in mice given oral doses up to 8 . 0 mg / kg / day ( approximately 2 . 2 - fold the human dose , as noted above ) for 99 weeks .
+Meloxicam was not mutagenic in an Ames assay , or clastogenic in a chromosome aberration assay with human lymphocytes and an in vivo micronucleus test in mouse bone marrow .
+Meloxicam did not impair male and female fertility in rats at oral doses up to 9 and 5 mg / kg / day , respectively ( 4 . 9 - fold and 2 . 5 - fold the human dose , as noted above ) .
+However , an increased incidence of embryolethality at oral doses ≥ 1 mg / kg / day ( 0 . 5 - fold the human dose , as noted above ) was observed in rats when dams were given meloxicam 2 weeks prior to mating and during early embryonic development .
+Pregnancy Teratogenic Effects : Pregnancy Category C . Meloxicam caused an increased incidence of septal defect of the heart , a rare event , at an oral dose of 60 mg / kg / day ( 64 . 5 - fold the human dose at 15 mg / day for a 50 kg adult based on body surface area conversion ) and embryolethality at oral doses ≥ 5 mg / kg / day ( 5 . 4 - fold the human dose , as noted above ) when rabbits were treated throughout organogenesis .
+Meloxicam was not teratogenic in rats up to an oral dose of 4 mg / kg / day ( approximately 2 . 2 - fold the human dose , as noted above ) throughout organogenesis .
+An increased incidence of stillbirths was observed when rats were given oral doses ≥ 1 mg / kg / day throughout organogenesis .
+Meloxicam crosses the placental barrier .
+There are no adequate and well - controlled studies in pregnant women .
+Meloxicam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nonteratogenic Effects Because of the known effects of nonsteroidal antiinflammatory drugs on the fetal cardiovascular system ( closure of ductus arteriosus ) , use during pregnancy ( particularly late pregnancy ) should be avoided .
+Meloxicam caused a reduction in birth index , live births , and neonatal survival at oral doses ≥ 0 . 125 mg / kg / day ( approximately 0 . 07 - fold the human dose at 15 mg / day for a 50 kg adult based on body surface area conversion ) when rats were treated during the late gestation and lactation period .
+No studies have been conducted to evaluate the effect of meloxicam on the closure of the ductus arteriosus in humans ; use of meloxicam during the third trimester of pregnancy should be avoided .
+Labor and Delivery Studies in rats with meloxicam , as with other drugs known to inhibit prostaglandin synthesis , showed an increased incidence of stillbirths , prolonged delivery , and delayed parturition at oral dosages ≥ 1 mg / kg / day ( approximately 0 . 5 - fold the human dose at 15 mg / day for a 50 kg adult based on body surface area conversion ) , and decreased pup survival at an oral dose of 4 mg / kg / day ( approximately 2 . 1 - fold the human dose , as noted above ) throughout organogenesis .
+Similar findings were observed in rats receiving oral dosages ≥ 0 . 125 mg / kg / day ( approximately 0 . 07 - fold the human dose , as noted above ) during late gestation and the lactation period .
+The effects of meloxicam on labor and delivery in pregnant women are unknown .
+Nursing Mothers It is not known whether this drug is excreted in human milk however , meloxicam was excreted in the milk of lactating rats at concentrations higher than those in plasma .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from meloxicam , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+Pediatric Use Use of this drug for a pediatric indication is protected by marketing exclusivity .
+Geriatric Use As with any NSAID , caution should be exercised in treating the elderly ( 65 years and older ) .
+ADVERSE REACTIONS Adults Osteoarthritis and Rheumatoid Arthritis The meloxicam Phase 2 / 3 clinical trial database includes 10 , 122 OA patients and 1012 RA patients treated with meloxicam 7 . 5 mg / day and 3 , 505 OA patients and 1351 RA patients treated with meloxicam 15 mg / day .
+Meloxicam at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year .
+Approximately 10 , 500 of these patients were treated in ten placebo and / or active - controlled osteoarthritis trials and 2363 of this patients were treated in ten placebo and / or active controlled rheumatoid arthritis trials .
+Gastrointestinal ( GI ) adverse events were the most frequently reported adverse events in all treatment groups across meloxicam trials .
+A 12 - week multicenter , double - blind , randomized trial was conducted in patients with osteoarthritis of the knee or hip to compare the efficacy and safety of meloxicam with placebo and with an active control .
+Two 12 - week multicenter , double - blind , randomized trials were conducted in patients with rheumatoid arthritis to compare the efficacy and safety of meloxicam with placebo .
+Table 2 a depicts adverse events that occurred in ≥ 2 % of the meloxicam treatment groups in a 12 - week placebo and active - controlled osteoarthritis trial .
+Table 2 b depicts adverse events that occurred in ≥ 2 % of the meloxicam treatment groups in two 12 - week placebo controlled rheumatoid arthritis trials .
+Table 2 a Adverse Events ( % ) Occurring in ≥ 2 % of Meloxicam Patients in a 12 - Week Osteoarthritis Placebo and Active - Controlled Trial .
+Placebo MELOXICAM MELOXICAM Diclofenac 7 . 5 mg daily 15 mg daily 100 mg daily No .
+of Patients 157 154 156 153 1 WHO preferred terms edema , edema dependent , edema peripheral and edema legs combined 2 WHO preferred terms rash , rash erythematous and rash maculo - papular combined Gastrointestinal 17 . 2 20 . 1 17 . 3 28 . 1 Abdominal Pain 2 . 5 1 . 9 2 . 6 1 . 3 Diarrhea 3 . 8 7 . 8 3 . 2 9 . 2 Dyspepsia 4 . 5 4 . 5 4 . 5 6 . 5 Flatulence 4 . 5 3 . 2 3 . 2 3 . 9 Nausea 3 . 2 3 . 9 3 . 8 7 . 2 Body as a Whole Accident Household 1 . 9 4 . 5 3 . 2 2 . 6 Edema1 2 . 5 1 . 9 4 . 5 3 . 3 Fall 0 . 6 2 . 6 0 . 0 1 . 3 Influenza - Like Symptoms 5 . 1 4 . 5 5 . 8 2 . 6 Central and Peripheral Nervous System Dizziness 3 . 2 2 . 6 3 . 8 2 . 0 Headache 10 . 2 7 . 8 8 . 3 5 . 9 Respiratory Pharyngitis 1 . 3 0 . 6 3 . 2 1 . 3 Upper Respiratory Tract Infection 1 . 9 3 . 2 1 . 9 3 . 3 Skin Rash2 2 . 5 2 . 6 0 . 6 2 . 0 Table 2 b Adverse Events ( % ) Occurring in ≥ 2 % of Meloxicam Patients in two 12 - Week Rheumatoid Arthritis Placebo Controlled Trials Placebo MELOXICAM 7 . 5 mg daily MELOXICAM 15 mg daily No .
+of Patients 469 481 477 1 MedDRA high level term ( preferred terms ) : dyspeptic signs and symptoms ( dyspepsia , dyspepsia aggravated , eructation , gastrointestinal irritation ) , upper respiratory tract infections - pathogen unspecified ( laryngitis NOS , pharyngitis NOS , sinusitis NOS ) , joint related signs and symptoms ( arthralgia , arthralgia aggravated , joint crepitation , joint effusion , joint swelling ) , and musculoskeletal and connective tissue signs and symptoms NEC ( back pain , back pain aggravated , muscle spasms , musculoskeletal pain ) 2 MedDRA preferred term : diarrhea NOS , nausea , abdominal pain NOS , influenza like illness , headaches NOS , dizziness ( excl vertigo ) , and rash NOS Gastrointestinal disorders 14 . 1 18 . 9 16 . 8 Abdominal pain NOS2 0 . 6 2 . 9 2 . 3 Diarrhea NOS2 5 . 1 4 . 8 3 . 4 Dyspeptic signs and symptoms1 3 . 8 5 . 8 4 . 0 Nausea2 2 . 6 3 . 3 3 . 8 General disorders and administration site conditions Influenza like illness2 2 . 1 2 . 9 2 . 3 Infection and infestations Upper respiratory tract infections - 4 . 1 7 . 0 6 . 5 Pathogen class unspecified1 Musculoskeletal and connective tissue disorders Joint related signs and symptoms1 1 . 9 1 . 5 2 . 3 Musculoskeletal and connective tissue 3 . 8 1 . 7 2 . 9 signs and symptoms NEC1 Nervous system disorders Headaches NOS2 6 . 4 6 . 4 5 . 5 Dizziness ( excl vertigo ) 2 3 . 0 2 . 3 0 . 4 Skin and subcutaneous tissue disorders Rash NOS2 1 . 7 1 . 0 2 . 1 The adverse events that occurred with meloxicam in ≥ 2 % of patients treated short - term ( 4 - 6 weeks ) and long - term ( 6 months ) in active - controlled osteoarthritis trials are presented in Table 3 .
+Table 3 Adverse Events ( % ) Occurring in ≥ 2 % of Meloxicam Patients in 4 to 6 Weeks and 6 Month Active - Controlled Osteoarthritis Trials 4 - 6 Weeks Controlled Trials 6 Month Controlled Trials 1 WHO preferred terms edema , edema dependent , edema peripheral and edema legs combined 2 WHO preferred terms rash , rash erythematous and rash maculo - papular combined MELOXICAM MELOXICAM MELOXICAM MELOXICAM 7 . 5 mg daily 15 mg daily 7 . 5 mg daily 15 mg daily No .
+of Patients 8955 256 169 306 Gastrointestinal 11 . 8 18 . 0 26 . 6 24 . 2 Abdominal Pain 2 . 7 2 . 3 4 . 7 2 . 9 Constipation 0 . 8 1 . 2 1 . 8 2 . 6 Diarrhea 1 . 9 2 . 7 5 . 9 2 . 6 Dyspepsia 3 . 8 7 . 4 8 . 9 9 . 5 Flatulence 0 . 5 0 . 4 3 . 0 2 . 6 Nausea 2 . 4 4 . 7 4 . 7 7 . 2 Vomiting 0 . 6 0 . 8 1 . 8 2 . 6 Body as a Whole Accident Household 0 . 0 0 . 0 0 . 6 2 . 9 Edema1 0 . 6 2 . 0 2 . 4 1 . 6 Pain 0 . 9 2 . 0 3 . 6 5 . 2 Central and Peripheral Nervous System Dizziness 1 . 1 1 . 6 2 . 4 2 . 6 Headache 2 . 4 2 . 7 3 . 6 2 . 6 Hematologic Anemia 0 . 1 0 . 0 4 . 1 2 . 9 Musculoskeletal Arthralgia 0 . 5 0 . 0 5 . 3 1 . 3 Back Pain 0 . 5 0 . 4 3 . 0 0 . 7 Psychiatric Insomnia 0 . 4 0 . 0 3 . 6 1 . 6 Respiratory Coughing 0 . 2 0 . 8 2 . 4 1 . 0 Upper Respiratory Tract Infection 0 . 2 0 . 0 8 . 3 7 . 5 Skin Pruritus 0 . 4 1 . 2 2 . 4 0 . 0 Rash2 0 . 3 1 . 2 3 . 0 1 . 3 Urinary Micturition Frequency 0 . 1 0 . 4 2 . 4 1 . 3 Urinary Tract Infection 0 . 3 0 . 4 4 . 7 6 . 9 Higher doses of meloxicam ( 22 . 5 mg and greater ) have been associated with an increased risk of serious GI events ; therefore the daily dose of meloxicam should not exceed 15 mg .
+The following is a list of adverse drug reactions occurring in < 2 % of patients receiving meloxicam in clinical trials involving approximately 16 , 200 patients .
+Adverse reactions reported only in worldwide post - marketing experience or the literature are shown in italics .
+Body as a Whole allergic reaction , anaphylactoid reactions including shock , face edema , fatigue , fever , hot flushes , malaise , syncope , weight decrease , weight increase Cardiovascular angina pectoris , cardiac failure , hypertension , hypotension , myocardial infarction , vasculitis Central and Peripheral Nervous System convulsions , paresthesia , tremor , vertigo Gastrointestinal colitis , dry mouth , duodenal ulcer , eructation , esophagitis , gastric ulcer , gastritis , gastroesophageal reflux , gastrointestinal hemorrhage , hematemesis , hemorrhagic duodenal ulcer , hemorrhagic gastric ulcer , intestinal perforation , melena , pancreatitis , perforated duodenal ulcer , perforated gastric ulcer , stomatitis ulcerative Heart Rate and Rhythm arrhythmia , palpitation , tachycardia Hematologic agranulocytosis , leukopenia , purpura , thrombocytopenia Liver and Biliary System ALT increased , AST increased , bilirubinemia , GGT increased , hepatitis , jaundice , liver failure Metabolic and Nutritional dehydration Psychiatric Abnormal dreaming , alterations in mood ( such as mood elevation ) , anxiety , appetite increased , confusion , depression , nervousness , somnolence Respiratory asthma , bronchospasm , dyspnea Skin and Appendages alopecia , angioedema , bullous eruption , erythema multiforme , photosensitivity reaction , pruritus , exfoliative dermatitis , Stevens - Johnson syndrome , sweating increased , toxic epidermal necrolysis , urticaria Special Senses abnormal vision , conjunctivitis , taste perversion , tinnitus Urinary System acute urinary retention , albuminuria , BUN increased , creatinine increased , hematuria , interstitial nephritis , renal failure OVERDOSAGE There is limited experience with meloxicam overdose .
+Four cases have taken 6 to 11 times the highest recommended dose ; all recovered .
+Cholestyramine is known to accelerate the clearance of meloxicam .
+Symptoms following acute NSAID overdose are usually limited to lethargy , drowsiness , nausea , vomiting , and epigastric pain , which are generally reversible with supportive care .
+Gastrointestinal bleeding can occur .
+Severe poisoning may result in hypertension , acute renal failure , hepatic dysfunction , respiratory depression , coma , convulsions , cardiovascular collapse , and cardiac arrest .
+Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs , and may occur following an overdose .
+Patients should be managed with symptomatic and supportive care following an NSAID overdose .
+In cases of acute overdose , gastric lavage followed by activated charcoal is recommended .
+Gastric lavage performed more than one hour after overdose has little benefit in the treatment of overdose .
+Administration of activated charcoal is recommended for patients who present 1 - 2 hours after overdose .
+For substantial overdose or severely symptomatic patients , activated charcoal may be administered repeatedly .
+Accelerated removal of meloxicam by 4 gm oral doses of cholestyramine given three times a day was demonstrated in a clinical trial .
+Administration of cholestyramine may be useful following an overdose .
+Forced diuresis , alkalinization of urine , hemodialysis , or hemoperfusion may not be useful due to high protein binding .
+DOSAGE AND ADMINISTRATION Osteoarthritis and Rheumatoid Arthritis Carefully consider the potential benefits and risks of meloxicam and other treatment options before deciding to use meloxicam .
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals ( see WARNINGS ) .
+After observing the response to initial therapy with meloxicam , the dose should be adjusted to suit an individual patient ' s needs .
+For the relief of the signs and symptoms of osteoarthritis the recommended starting and maintenance oral dose of meloxicam is 7 . 5 mg once daily .
+Some patients may receive additional benefit by increasing the dose to 15 mg once daily .
+For the relief of the signs and symptoms of rheumatoid arthritis , the recommended starting and maintenance oral dose of meloxicam is 7 . 5 mg once daily .
+Some patients may receive additional benefit by increasing the dose to 15 mg once daily .
+The maximum recommended daily oral dose of meloxicam is 15 mg .
+Meloxicam may be taken without regard to timing of meals .
+HOW SUPPLIED Meloxicam Tablets USP are available as light yellow , round , flat , uncoated tablets containing meloxicam 7 . 5 mg or as light yellow , oblong , biconvex , uncoated tablets containing meloxicam 15 mg .
+The 7 . 5 mg tablet is impressed with letter U and L on one side and tablet code 7 . 5 on the other side .
+The 15 mg tablet is impressed with letter U and L on one side and tablet code 15 on the other side .
+Meloxicam Tablets USP 7 . 5 mg are available as follows : NDC 21695 - 076 - 14 ; Bottles of 14 NDC 21695 - 076 - 15 ; Bottles of 15 NDC 21695 - 076 - 30 ; Bottles of 30 NDC 21695 - 076 - 60 ; Bottles of 60 NDC 21695 - 076 - 90 ; Bottles of 90 Meloxicam Tablets USP 15 mg are available as follows : NDC 21695 - 077 - 14 ; Bottles of 14 NDC 21695 - 077 - 15 ; Bottles of 15 NDC 21695 - 077 - 30 ; Bottles of 30 NDC 21695 - 077 - 60 ; Bottles of 60 STORAGE AND HANDLING Store at Controlled Room Temperature 20 ° - 25 ° C ( 68 ° - 77 ° F ) [ See USP ] Please address medical inquiries to medical @ unichemindia . com Keep meloxicam tablets in a dry place Dispense tablets in a tight container .
+Keep this and all medications out of the reach of children .
+Manufactured by : UNICHEM LABORATORIES LTD .
+Pilerne Ind .
+Estate , Pilerne , Bardez , Goa 403511 , India Marketed by : Unichem Labaoratories Rochelle Park , NJ 07662 Repackaged by : Rebel Distributors Corp .
+Thousand Oaks , CA 91320 Meloxicam Tablets USP 7 . 5 mg and 15 mg Medication Guide for Non - Steroidal Anti - Inflammatory Drugs ( NSAIDs ) ( See the end of this Medication Guide for a list of prescription NSAID medicines ) .
+What is the most important information I should know about medicines called Non - Steroidal Anti - Inflammatory Drugs ( NSAIDs ) ?
+NSAID medicines may increase the chance of a heart attack or stroke that can lead to death .
+This chance increases : • with longer use of NSAID medicines • in people who have heart disease NSAID medicines should never be used right before or after a heart surgery called a " coronary artery bypass graft ( CABG ) . "
+NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment .
+Ulcers and bleeding : • can happen without warning symptoms • may cause death The chance of a person getting an ulcer or bleeding increases with : • taking medicines called " corticosteroids " and " anticoagulants " • longer use • smoking • drinking alcohol • older age • having poor health NSAID medicines should only be used : • exactly as prescribed • at the lowest dose possible for your treatment • for the shortest time needed What are Non - Steroidal Anti - Inflammatory Drugs ( NSAIDs ) ?
+NSAID medicines are used to treat pain and redness , swelling , and heat ( inflammation ) from medical conditions such as : • different types of arthritis • menstrual cramps and other types of short - term pain Who should not take a Non - Steroidal Anti - Inflammatory Drug ( NSAID ) ?
+Do not take an NSAID medicine : • if you had an asthma attack , hives , or other allergic reaction with aspirin or any other NSAID medicine • for pain right before or after heart bypass surgery Tell your healthcare provider : • about all of your medical conditions • about all of the medicines you take .
+NSAIDs and some other medicines can interact with each other and cause serious side effects .
+Keep a list of your medicines to show to your healthcare provider and pharmacist • if you are pregnant .
+NSAID medicines should not be used by pregnant women late in their pregnancy • if you are breastfeeding .
+Talk to your doctor What are the possible side effects of Non - Steroidal Anti - Inflammatory Drugs ( NSAIDs ) ?
+Serious side effects include : • heart attack • stroke • high blood pressure • heart failure from body swelling ( fluid retention ) • kidney problems including kidney failure • bleeding and ulcers in the stomach and intestine • low red blood cells ( anemia ) • life - threatening skin reactions • life - threatening allergic reactions • liver problems including liver failure • asthma attacks in people who have asthma Other side effects include : • stomach pain • constipation • diarrhea • gas • heartburn • nausea • vomiting • dizziness Get emergency help right away if you have any of the following symptoms : • shortness of breath or trouble breathing • chest pain • weakness in one part or side of your body • slurred speech • Swelling of the face or throat Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms : • nausea • more tired or weaker than usual • itching • your skin or eyes look yellow • stomach pain • flu - like symptoms • vomit blood • there is blood in your bowel movement or it is black and sticky like tar • skin rash or blisters with fever • unusual weight gain • swelling of the arms and legs , hands and feet These are not all the side effects with NSAID medicines .
+Talk to your healthcare provider or pharmacist for more information about NSAID medicines .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+Other information about Non - Steroidal Anti - Inflammatory Drugs ( NSAIDs ) Aspirin is an NSAID medicine but it does not increase the chance of a heart attack .
+Aspirin can cause bleeding in the brain , stomach , and intestines .
+Aspirin can also cause ulcers in the stomach and intestines .
+Some of these NSAID medicines are sold in lower doses without a prescription ( over - the - counter ) .
+Talk to your healthcare provider before using over - the - counter NSAIDs for more than 10 days .
+NSAID medicines that need a prescription Generic Name Tradename * Vicoprofen contains the same dose of ibuprofen as over - the counter ( OTC ) NSAIDS , and is usually used for less than 10 days to treat pain .
+The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke .
+Celecoxib Celebrex Diclofenac Cataflam , Voltaren , Arthrotec ( combined with misoprostol ) Diflunisal Dolobid Etodolac Lodine , Lodine XL Fenoprofen Nalfon , Nalfon 200 Flurbiprofen Ansaid Ibuprofen Motrin , Tab - Profen , Vicoprofen * ( combined with hydrocodone ) , Combunox ( combined with oxycodone ) Indomethacin Indocin , Indocin SR , Indo - Lemmon , Indomethegan Ketoprofen Oruvail Ketorolac Toradol Mefenamic Acid Ponstel Meloxicam Mobic Nabumetone Relafen Naproxen Naprosyn , Anaprox , Anaprox DS , EC - Naprosyn , Naprelan , PREVACID NapraPAC ( copackaged with lansoprazole ) Oxaprozin Daypro Piroxicam Feldene Sulindac Clinoril Tolmetin Tolectin , Tolectin DS , Tolectin 600 Manufactured by : UNICHEM LABORATORIES LTD .
+Pilerne Ind .
+Estate , Pilerne , Bardez , Goa 403511 , India Manufactured by : UNICHEM LABORATORIES LTD .
+Rochelle Park , NJ 07662 Repackaged by : Rebel Distributors Corp .
+Thousand Oaks , CA 91320 This Medication Guide has been approved by the U . S . Food and Drug Administration [ MULTIMEDIA ] [ MULTIMEDIA ]

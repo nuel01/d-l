@@ -1,0 +1,369 @@
+Rx Only To reduce the development of drug - resistant bacteria and maintain the effectiveness of Ceftriaxone Injection , USP and other antibacterial drugs , Ceftriaxone Injection , USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria .
+DESCRIPTION Ceftriaxone Injection , USP is a sterile , semisynthetic , broad - spectrum cephalosporin antibiotic for intravenous administration .
+Ceftriaxone sodium is ( 6 R , 7 R ) - 7 - [ 2 - ( 2 - Amino - 4 - thiazolyl ) glyoxylamido ] - 8 - oxo - 3 - [ [ ( 1 , 2 , 5 , 6 - tetrahydro - 2 - methyl - 5 , 6 - dioxo - as - triazin - 3 - yl ) thio ] methyl ] - 5 - thia - 1 - azabicyclo [ 4 . 2 . 0 ] oct - 2 - ene - 2 - carboxylic acid , 7 ² - ( Z ) - ( O - methyloxime ) , disodium salt , sesquaterhydrate .
+The chemical formula of ceftriaxone sodium is C18H16N8Na2O7S3 • 7 / 2 H2O .
+It has a calculated molecular weight of 661 . 60 and the following structural formula : [ MULTIMEDIA ] Ceftriaxone Sodium , USP is a white to yellowish - orange crystalline powder which is readily soluble in water , sparingly soluble in methanol and very slightly soluble in ethanol .
+Ceftriaxone Injection , USP contains approximately 83 mg ( 3 . 6 mEq ) of sodium per gram of ceftriaxone activity .
+Ceftriaxone Injection , USP is supplied as a frozen , iso - osmotic , sterile , nonpyrogenic solution premixed in a dextrose diluent .
+Dextrose , USP has been added to adjust the osmolality ( approximately 1 . 9 g and 1 . 2 g as dextrose hydrous to the 1 g and 2 g dosages , respectively ) .
+The pH may be adjusted with sodium hydroxide and / or hydrochloric acid .
+Solutions of premixed Ceftriaxone Injection , USP may range from light yellow to amber in color .
+After thawing , the solution is intended for intravenous use .
+The pH of thawed solutions may range from 6 . 0 to 8 . 0 .
+See HOW SUPPLIED for package description .
+The plastic container for the frozen solution is fabricated from a specially designed multilayer plastic , PL 2040 .
+Solutions are in contact with the polyethylene layer of this container and can leach out certain chemical components of the plastic in very small amounts within the expiration period .
+The suitability of the plastic has been confirmed in tests in animals according to the USP biological tests for plastic containers as well as by tissue culture toxicity studies .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Average plasma concentrations of ceftriaxone following a single 30 - minute intravenous ( IV ) infusion of a 0 . 5 , 1 or 2 gm dose in healthy subjects are presented in Table 1 .
+Table 1 Ceftriaxone Plasma Concentrations After Single Dose Administration Dose / Route Average Plasma Concentrations ( mcg / mL ) 0 . 5 hr 1 hr 2 hr 4 hr 6 hr 8 hr 12 hr 16 hr 24 hr 0 . 5 gm IV [ 1 ] 82 59 48 37 29 23 15 10 5 1 gm IV null 151 111 88 67 53 43 28 18 9 2 gm IV null 257 192 154 117 89 74 46 31 15 [ 1 ] IV doses were infused at a constant rate over 30 minutes .
+Multiple IV doses ranging from 0 . 5 to 2 gm at 12 - to 24 - hour intervals resulted in 15 % to 36 % accumulation of ceftriaxone above single dose values .
+Ceftriaxone concentrations in urine are shown in Table 2 .
+Table 2 Urinary Concentrations of Ceftriaxone After Single Dose Administration Dose / Route Average Urinary Concentrations ( mcg / mL ) 0 - 2 hr 2 - 4 hr 4 - 8 hr 8 - 12 hr 12 - 24 hr 24 - 48 hr 0 . 5 gm IV 526 366 142 87 70 15 1 gm IV 995 855 293 147 132 32 2 gm IV 2692 1976 757 274 198 40 Thirty - three percent to 67 % of a ceftriaxone dose was excreted in the urine as unchanged drug and the remainder was secreted in the bile and ultimately found in the feces as microbiologically inactive compounds .
+After a 1 gm IV dose , average concentrations of ceftriaxone , determined from 1 to 3 hours after dosing , were 581 mcg / mL in the gallbladder bile , 788 mcg / mL in the common duct bile , 898 mcg / mL in the cystic duct bile , 78 . 2 mcg / gm in the gallbladder wall and 62 . 1 mcg / mL in the concurrent plasma .
+Over a 0 . 15 to 3 gm dose range in healthy adult subjects , the values of elimination half - life ranged from 5 . 8 to 8 . 7 hours ; apparent volume of distribution from 5 . 78 to 13 . 5 L ; plasma clearance from 0 . 58 to 1 . 45 L / hour ; and renal clearance from 0 . 32 to 0 . 73 L / hour .
+Ceftriaxone is reversibly bound to human plasma proteins , and the binding decreased from a value of 95 % bound at plasma concentrations of < 25 mcg / mL to a value of 85 % bound at 300 mcg / mL .
+Ceftriaxone crosses the blood placenta barrier .
+The average values of maximum plasma concentration , elimination half - life , plasma clearance and volume of distribution after a 50 mg / kg IV dose and after a 75 mg / kg IV dose in pediatric patients suffering from bacterial meningitis are shown in Table 3 .
+Ceftriaxone penetrated the inflamed meninges of infants and pediatric patients ; CSF concentrations after a 50 mg / kg IV dose and after a 75 mg / kg IV dose are also shown in Table 3 .
+Table 3 Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Meningitis 50 mg / kg IV 75 mg / kg IV Maximum Plasma Concentrations ( mcg / mL ) 216 275 Elimination Half - life ( hr ) 4 . 6 4 . 3 Plasma Clearance ( mL / hr / kg ) 49 60 Volume of Distribution ( mL / kg ) 338 373 CSF Concentration - inflamed meninges ( mcg / mL ) 5 . 6 6 . 4 Range ( mcg / mL ) 1 . 3 - 18 . 5 1 . 3 - 44 Time after dose ( hr ) 3 . 7 ( ± 1 . 6 ) 3 . 3 ( ± 1 . 4 ) Compared to that in healthy adult subjects , the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction ( Table 4 ) ; therefore , dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 gm per day .
+Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis .
+In 6 of 26 dialysis patients , the elimination rate of ceftriaxone was markedly reduced .
+Table 4 Average Pharmacokinetic Parameters of Ceftriaxone in Humans Subject Group Elimination Half - life ( hr ) Plasma Clearance ( L / hr ) Volume of Distribution ( L ) Healthy Subjects 5 . 8 - 8 . 7 0 . 58 - 1 . 45 5 . 8 - 13 . 5 Elderly Subjects ( mean age , 70 . 5 yr ) 8 . 9 0 . 83 10 . 7 Patients With Renal Impairment Hemodialysis Patients ( 0 - 5 mL / min ) [ 1 ] 14 . 7 0 . 65 13 . 7 Severe ( 5 - 15 mL / min ) 15 . 7 0 . 56 12 . 5 Moderate ( 16 - 30 mL / min ) 11 . 4 0 . 72 11 . 8 Mild ( 31 - 60 mL / min ) 12 . 4 0 . 70 13 . 3 Patients With Liver Disease 8 . 8 1 . 1 13 . 6 [ 1 ] Creatinine clearance .
+The elimination of ceftriaxone is not altered when Ceftriaxone Injection , USP is co - administered with probenecid .
+Interaction with Calcium Two in vitro studies , one using adult plasma and the other neonatal plasma from umbilical cord blood , have been carried out to assess interaction of ceftriaxone and calcium .
+Ceftriaxone concentrations up to 1 mM ( in excess of concentrations achieved in vivo following administration of 2 grams ceftriaxone infused over 30 minutes ) were used in combination with calcium concentrations up to 12 mM ( 48 mg / dL ) .
+Recovery of ceftriaxone from plasma was reduced with calcium concentrations of 6 mM ( 24 mg / dL ) or higher in adult plasma or 4 mM ( 16 mg / dL ) or higher in neonatal plasma .
+This may be reflective of ceftriaxone - calcium precipitation .
+Microbiology The bactericidal activity of ceftriaxone results from inhibition of cell wall synthesis .
+Ceftriaxone has a high degree of stability in the presence of beta - lactamases , both penicillinases and cephalosporinases , of gram - negative and gram - positive bacteria .
+In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone .
+Ceftriaxone has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections described in the INDICATIONS AND USAGE section .
+Aerobic gram - negative microorganisms : Acinetobacter calcoaceticus Enterobacter aerogenes Enterobacter cloacae Escherichia coli Haemophilus influenzae ( including ampicillin - resistant and beta - lactamase producing strains ) Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis ( including beta - lactamase producing strains ) Morganella morganii Neisseria gonorrhoeae ( including penicillinase - and nonpenicillinase - producing strains ) Neisseria meningitidis Proteus mirabilis Proteus vulgaris Serratia marcescens Ceftriaxone is also active against many strains of Pseudomonas aeruginosa .
+NOTE : Many strains of the above organisms that are resistant to multiple antibiotics , e . g . , penicillins , cephalosporins , and aminoglycosides , are susceptible to ceftriaxone .
+Aerobic gram - positive microorganisms : Staphylococcus aureus ( including penicillinase - producing strains ) Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci NOTE : Methicillin - resistant staphylococci are resistant to cephalosporins , including ceftriaxone .
+Most strains of Group D streptococci and enterococci , e . g . , Enterococcus ( Streptococcus ) faecalis , are resistant .
+Anaerobic microorganisms : Bacteroides fragilis Clostridium species Peptostreptococcus species NOTE : Most strains of Clostridium difficile are resistant .
+The following in vitro data are available , but their clinical significance is unknown .
+Ceftriaxone exhibits in vitro minimal inhibitory concentrations ( MICs ) of ≤ 1 mcg / mL or less against most strains of the following microorganisms , however , the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Aerobic gram - negative microorganisms : Citrobacter diversus Citrobacter freundii Providencia species ( including Providencia rettgeri ) Salmonella species ( including Salmonella typhi ) Shigella species Aerobic gram - positive microorganisms : Streptococcus agalactiae Anaerobic microorganisms : Prevotella ( Bacteroides ) bivius Porphyromonas ( Bacteroides ) melaninogenicus Susceptibility Tests For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug , please see : http : / / www . fda . gov / STIC .
+INDICATIONS AND USAGE Before instituting treatment with Ceftriaxone Injection , USP , appropriate specimens should be obtained for isolation of the causative organism and for determination of its susceptibility to the drug .
+Therapy may be instituted prior to obtaining results of susceptibility testing .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Ceftriaxone Injection , USP and other antibacterial drugs , Ceftriaxone Injection , USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+Ceftriaxone Injection , USP is indicated for the treatment of the following infections when caused by susceptible organisms : LOWER RESPIRATORY TRACT INFECTIONS caused by Streptococcus pneumoniae , Staphylococcus aureus , Haemophilus influenzae , Haemophilus parainfluenzae , Klebsiella pneumoniae , Escherichia coli , Enterobacter aerogenes , Proteus mirabilis or Serratia marcescens .
+ACUTE BACTERIAL OTITIS MEDIA caused by Streptococcus pneumoniae , Haemophilus influenzae ( including beta - lactamase producing strains ) or Moraxella catarrhalis ( including beta - lactamase producing strains ) .
+NOTE : In one study lower clinical cure rates were observed with a single dose of ceftriaxone compared to 10 days of oral therapy .
+In a second study comparable cure rates were observed between single dose ceftriaxone and the comparator .
+The potentially lower clinical cure rate of ceftriaxone should be balanced against the potential advantages of parenteral therapy .
+SKIN AND SKIN STRUCTURE INFECTIONS caused by Staphylococcus aureus , Staphylococcus epidermidis , Streptococcus pyogenes , Viridans group streptococci , Escherichia coli , Enterobacter cloacae , Klebsiella oxytoca , Klebsiella pneumoniae , Proteus mirabilis , Morganella morganii , * Pseudomonas aeruginosa , Serratia marcescens , Acinetobacter calcoaceticus , Bacteroides fragilis * or Peptostreptococcus species .
+URINARY TRACT INFECTIONS ( complicated and uncomplicated ) caused by Escherichia coli , Proteus mirabilis , Proteus vulgaris , Morganella morganii or Klebsiella pneumoniae .
+UNCOMPLICATED GONORRHEA ( cervical / urethral and rectal ) caused by Neisseria gonorrhoeae , including both penicillinase - and nonpenicillinase - producing strains , and pharyngeal gonorrhea caused by nonpenicillinase - producing strains of Neisseria gonorrhoeae .
+PELVIC INFLAMMATORY DISEASE caused by Neisseria gonorrhoeae .
+Ceftriaxone , like other cephalosporins , has no activity against Chlamydia trachomatis .
+Therefore , when cephalosporins are used in the treatment of patients with pelvic inflammatory disease and Chlamydia trachomatis is one of the suspected pathogens , appropriate antichlamydial coverage should be added .
+BACTERIAL SEPTICEMIA caused by Staphylococcus aureus , Streptococcus pneumoniae , Escherichia coli , Haemophilus influenzae or Klebsiella pneumoniae .
+BONE AND JOINT INFECTIONS caused by Staphylococcus aureus , Streptococcus pneumoniae , Escherichia coli , Proteus mirabilis , Klebsiella pneumoniae or Enterobacter species .
+INTRA - ABDOMINAL INFECTIONS caused by Escherichia coli , Klebsiella pneumoniae , Bacteroides fragilis , Clostridium species ( Note : most strains of Clostridium difficile are resistant ) or Peptostreptococcus species .
+MENINGITIS caused by Haemophilus influenzae , Neisseria meningitidis or Streptococcus pneumoniae .
+Ceftriaxone has also been used successfully in a limited number of cases of meningitis and shunt infection caused by Staphylococcus epidermidis * and Escherichia coli .
+* * Efficacy for this organism in this organ system was studied in fewer than ten infections .
+SURGICAL PROPHYLAXIS : The preoperative administration of a single 1 gm dose of ceftriaxone may reduce the incidence of postoperative infections in patients undergoing surgical procedures classified as contaminated or potentially contaminated ( e . g . , vaginal or abdominal hysterectomy or cholecystectomy for chronic calculous cholecystitis in high - risk patients , such as those over 70 years of age , with acute cholecystitis not requiring therapeutic antimicrobials , obstructive jaundice or common duct bile stones ) and in surgical patients for whom infection at the operative site would present serious risk ( e . g . , during coronary artery bypass surgery ) .
+Although ceftriaxone has been shown to have been as effective as cefazolin in the prevention of infection following coronary artery bypass surgery , no placebo - controlled trials have been conducted to evaluate any cephalosporin antibiotic in the prevention of infection following coronary artery bypass surgery .
+When administered prior to surgical procedures for which it is indicated , a single 1 gm dose of ceftriaxone provides protection from most infections due to susceptible organisms throughout the course of the procedure .
+CONTRAINDICATIONS Ceftriaxone Injection , USP is contraindicated in patients with known allergy to the cephalosporin class of antibiotics .
+Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products .
+Neonates ( ≤ 28 days ) Hyperbilirubinemic neonates , especially prematures , should not be treated with Ceftriaxone Injection , USP .
+In vitro studies have shown that ceftriaxone can displace bilirubin from its binding to serum albumin , leading to a possible risk of bilirubin encephalopathy in these patients .
+Ceftriaxone Injection , USP is contraindicated in neonates if they require ( or are expected to require ) treatment with calcium - containing IV solutions , including continuous calcium - containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone - calcium ( see CLINICAL PHARMACOLOGY , WARNINGS and DOSAGE AND ADMINISTRATION ) .
+A small number of cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium - containing fluids .
+In some of these cases , the same intravenous infusion line was used for both ceftriaxone and calcium - containing fluids and in some a precipitate was observed in the intravenous infusion line .
+At least one fatality has been reported in a neonate in whom ceftriaxone and calcium - containing fluids were administered at different time points via different intravenous lines ; no crystalline material was observed at autopsy in this neonate .
+There have been no similar reports in patients other than neonates .
+WARNINGS Hypersensitivity BEFORE THERAPY WITH CEFTRIAXONE INJECTION , USP IS INSTITUTED , CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEPHALOSPORINS , PENICILLINS OR OTHER DRUGS .
+THIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN - SENSITIVE PATIENTS .
+ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY , PARTICULARLY TO DRUGS .
+SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPINEPHRINE AND OTHER EMERGENCY MEASURES .
+As with other cephalosporins , anaphylactic reactions with fatal outcome have been reported , even if a patient is not known to be allergic or previously exposed .
+Interaction with Calcium - Containing Products Do not further dilute ceftriaxone injection with products containing calcium , such as Ringer ’ s solution or Hartmann ’ s solution , because a precipitate can form .
+Precipitation of ceftriaxone - calcium can also occur when ceftriaxone is mixed with calcium - containing solutions in the same IV administration line .
+Ceftriaxone must not be administered simultaneously with calcium - containing IV solutions , including continuous calcium - containing infusions such as parenteral nutrition via a Y - site .
+However , in patients other than neonates , ceftriaxone and calcium - containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid .
+In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone - calcium ( see CLINICAL PHARMACOLOGY , CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION ) .
+Neurological Adverse Reactions Serious neurological adverse reactions have been reported during postmarketing surveillance with ceftriaxone use .
+These reactions include encephalopathy ( disturbance of consciousness including somnolence , lethargy , and confusion ) , seizures , myoclonus , and non - convulsive status epilepticus ( see ADVERSE REACTIONS ) .
+Some cases occurred in patients with severe renal impairment who did not receive appropriate dosage adjustment .
+However , in other cases , neurological adverse reactions occurred in patients receiving an appropriate dosage adjustment .
+The neurological adverse reactions were reversible and resolved after discontinuation .
+If neurological adverse reactions associated with Ceftriaxone Injection therapy occur , discontinue Ceftriaxone Injection and institute appropriate supportive measures .
+Make appropriate dosage adjustments in patients with severe renal impairment ( see DOSAGE AND ADMINISTRATION ) .
+Clostridium difficile Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including Ceftriaxone Injection , USP , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+Hemolytic Anemia An immune mediated hemolytic anemia has been observed in patients receiving cephalosporin class antibacterials including ceftriaxone .
+Severe cases of hemolytic anemia , including fatalities , have been reported during treatment in both adults and children .
+If a patient develops anemia while on ceftriaxone , the diagnosis of a cephalosporin associated anemia should be considered and ceftriaxone stopped until the etiology is determined .
+PRECAUTIONS General Prescribing Ceftriaxone Injection , USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Although transient elevations of BUN and serum creatinine have been observed , at the recommended dosages , the nephrotoxic potential of Ceftriaxone Injection , USP is similar to that of other cephalosporins .
+Ceftriaxone is excreted via both biliary and renal excretion ( see CLINICAL PHARMACOLOGY ) .
+Therefore , patients with mild to moderate renal impairment normally require no adjustment in dosage when usual doses of Ceftriaxone Injection , USP are administered .
+Dosage adjustments should not be necessary in patients with hepatic dysfunction ; however , in patients with both hepatic dysfunction and significant renal disease , caution should be exercised and the Ceftriaxone Injection , USP dosage should not exceed 2 gm daily .
+Alterations in prothrombin times have occurred rarely in patients treated with ceftriaxone .
+Patients with impaired vitamin K synthesis or low vitamin K stores ( e . g . , chronic hepatic disease and malnutrition ) may require monitoring of prothrombin time during Ceftriaxone Injection , USP treatment .
+Vitamin K administration ( 10 mg weekly ) may be necessary if the prothrombin time is prolonged before or during therapy .
+Prolonged use of Ceftriaxone Injection , USP may result in overgrowth of nonsusceptible organisms .
+Careful observation of the patient is essential .
+If superinfection occurs during therapy , appropriate measures should be taken .
+Ceftriaxone Injection , USP should be prescribed with caution in individuals with a history of gastrointestinal disease , especially colitis .
+There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone ; some of these patients also had symptoms of gallbladder disease .
+These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones .
+The chemical nature of the sonographically detected material has been determined to be predominantly a ceftriaxone - calcium salt .
+The condition appears to be transient and reversible upon discontinuation of ceftriaxone and institution of conservative management .
+Therefore , Ceftriaxone Injection , USP should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and / or the sonographic findings described above .
+Cases of pancreatitis , possibly secondary to biliary obstruction , have been reported rarely in patients treated with ceftriaxone .
+Most patients presented with risk factors for biliary stasis and biliary sludge ( preceding major therapy , severe illness , total parenteral nutrition ) .
+A cofactor role of ceftriaxone related biliary precipitation cannot be ruled out .
+Information for Patients Advise patients that neurological adverse reactions could occur with Ceftriaxone Injection use .
+Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms , including encephalopathy ( disturbance of consciousness including somnolence , lethargy , and confusion ) , seizures , myoclonus , and nonconvulsive status epilepticus , for immediate treatment , or discontinuation of Ceftriaxone Injection ( see WARNINGS AND PRECAUTIONS ) .
+Patients should be counseled that antibacterial drugs including Ceftriaxone Injection , USP should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When Ceftriaxone Injection , USP is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by Ceftriaxone Injection , USP or other antibacterial drugs in the future .
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Considering the maximum duration of treatment and the class of the compound , carcinogenicity studies with ceftriaxone in animals have not been performed .
+The maximum duration of animal toxicity studies was 6 months .
+Mutagenesis Genetic toxicology tests included the Ames test , a micronucleus test and a test for chromosomal aberrations in human lymphocytes cultured in vitro with ceftriaxone .
+Ceftriaxone showed no potential for mutagenic activity in these studies .
+Impairment of Fertility Ceftriaxone produced no impairment of fertility when given intravenously to rats at daily doses up to 586 mg / kg / day , approximately 20 times the recommended clinical dose of 2 gm / day .
+Pregnancy Teratogenic Effects Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of embryotoxicity , fetotoxicity or teratogenicity .
+In primates , no embryotoxicity or teratogenicity was demonstrated at a dose approximately 3 times the human dose .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproductive studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+Nonteratogenic Effects In rats , in the Segment I ( fertility and general reproduction ) and Segment III ( perinatal and postnatal ) studies with intravenously administered ceftriaxone , no adverse effects were noted on various reproductive parameters during gestation and lactation , including postnatal growth , functional behavior and reproductive ability of the offspring , at doses of 586 mg / kg / day or less .
+Nursing Mothers Low concentrations of ceftriaxone are excreted in human milk .
+Caution should be exercised when Ceftriaxone Injection , USP is administered to a nursing woman .
+Pediatric Use Safety and effectiveness of Ceftriaxone Injection , USP in neonates , infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section .
+In vitro studies have shown that ceftriaxone , like some other cephalosporins , can displace bilirubin from serum albumin .
+Ceftriaxone Injection , USP should not be administered to hyperbilirubinemic neonates , especially prematures ( see CONTRAINDICATIONS ) .
+Geriatric Use Of the total number of subjects in clinical studies of ceftriaxone , 32 % were 60 and over .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals cannot be ruled out .
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day ( see CLINICAL PHARMACOLOGY ) .
+ADVERSE REACTIONS Ceftriaxone is generally well tolerated .
+In clinical trials , the following adverse reactions , which were considered to be related to ceftriaxone therapy or of uncertain etiology , were observed : LOCAL REACTIONS — pain , induration and tenderness was 1 % overall .
+Phlebitis was reported in < 1 % after IV administration .
+HYPERSENSITIVITY — rash ( 1 . 7 % ) .
+Less frequently reported ( < 1 % ) were pruritus , fever or chills .
+HEMATOLOGIC — eosinophilia ( 6 % ) , thrombocytosis ( 5 . 1 % ) and leukopenia ( 2 . 1 % ) .
+Less frequently reported ( < 1 % ) were anemia , hemolytic anemia , neutropenia , lymphopenia , thrombocytopenia and prolongation of the prothrombin time .
+GASTROINTESTINAL — diarrhea ( 2 . 7 % ) .
+Less frequently reported ( < 1 % ) were nausea or vomiting , and dysgeusia .
+The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment ( see WARNINGS ) .
+HEPATIC — elevations of SGOT ( 3 . 1 % ) or SGPT ( 3 . 3 % ) .
+Less frequently reported ( < 1 % ) were elevations of alkaline phosphatase and bilirubin .
+RENAL — elevations of the BUN ( 1 . 2 % ) .
+Less frequently reported ( < 1 % ) were elevations of creatinine and the presence of casts in the urine .
+CENTRAL NERVOUS SYSTEM — headache or dizziness were reported occasionally ( < 1 % ) .
+GENITOURINARY — moniliasis or vaginitis were reported occasionally ( < 1 % ) .
+MISCELLANEOUS — diaphoresis and flushing were reported occasionally ( < 1 % ) .
+Other rarely observed adverse reactions ( < 0 . 1 % ) include abdominal pain , agranulocytosis , allergic pneumonitis , anaphylaxis , basophilia , biliary lithiasis , bronchospasm , colitis , dyspepsia , epistaxis , flatulence , gallbladder sludge , glycosuria , hematuria , jaundice , leukocytosis , lymphocytosis , monocytosis , nephrolithiasis , palpitations , a decrease in the prothrombin time , renal precipitations , seizures , and serum sickness .
+Postmarketing Experience In addition to the adverse reactions reported during clinical trials , the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone .
+Data are generally insufficient to allow an estimate of incidence or to establish causation .
+A small number of cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium - containing fluids .
+In some of these cases , the same intravenous infusion line was used for both ceftriaxone and calcium - containing fluids and in some a precipitate was observed in the intravenous infusion line .
+At least one fatality has been reported in a neonate in whom ceftriaxone and calcium - containing fluids were administered at different time points via different intravenous lines ; no crystalline material was observed at autopsy in this neonate .
+There have been no similar reports in patients other than neonates .
+GASTROINTESTINAL – stomatitis and glossitis .
+GENITOURINARY – oliguria .
+DERMATOLOGIC – exanthema , allergic dermatitis , urticaria , edema .
+As with many medications , isolated cases of severe cutaneous adverse reactions ( erythema multiforme , Stevens - Johnson syndrome or Lyell ’ s syndrome / toxic epidermal necrolysis ) have been reported .
+NEUROLOGIC – Encephalopathy , seizures , myoclonus , and non - convulsive status epilepticus ( see WARNINGS AND PRECAUTIONS ) .
+Cephalosporin Class Adverse Reactions In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone , the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics : Adverse Reactions Allergic reactions , drug fever , serum sickness - like reaction , renal dysfunction , toxic nephropathy , reversible hyperactivity , hypertonia , hepatic dysfunction including cholestasis , aplastic anemia , hemorrhage , and superinfection .
+Altered Laboratory Tests Positive direct Coombs ’ test , false - positive test for urinary glucose , and elevated LDH .
+Several cephalosporins have been implicated in triggering seizures , particularly in patients with renal impairment when the dosage was not reduced ( see DOSAGE AND ADMINISTRATION ) .
+If seizures associated with drug therapy occur , the drug should be discontinued .
+Anticonvulsant therapy can be given if clinically indicated .
+OVERDOSAGE Ceftriaxone overdosage has been reported in patients with severe renal impairment .
+Reactions have included neurological outcomes , including encephalopathy , seizures , myoclonus , and non - convulsive status epilepticus .
+In the event of overdosage , discontinue Ceftriaxone Injection therapy and provide general supportive treatment ( see DOSAGE AND ADMINISTRATION and WARNINGS AND PRECAUTIONS ) .
+In the case of overdosage , drug concentration would not be reduced by hemodialysis or peritoneal dialysis .
+There is no specific antidote .
+Treatment of overdosage should be symptomatic .
+DOSAGE AND ADMINISTRATION Ceftriaxone Injection , USP is administered intravenously .
+Do not further dilute ceftriaxone injection with products containing calcium , such as Ringer ’ s solution or Hartmann ’ s solution , because a precipitate can form .
+Precipitation of ceftriaxone - calcium can also occur when ceftriaxone is mixed with calcium - containing solutions in the same IV administration line .
+Ceftriaxone must not be administered simultaneously with calcium - containing IV solutions , including continuous calcium - containing infusions such as parenteral nutrition via a Y - site .
+However , in patients other than neonates , ceftriaxone and calcium - containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid ( see WARNINGS ) .
+There have been no reports of an interaction between ceftriaxone and oral calcium - containing products .
+Neonates Hyperbilirubinemic neonates , especially prematures , should not be treated with Ceftriaxone Injection , USP ( see CONTRAINDICATIONS ) .
+Ceftriaxone is contraindicated in neonates if they require ( or are expected to require ) treatment with calcium - containing IV solutions , including continuous calcium - containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone - calcium ( see CONTRAINDICATIONS ) .
+Pediatric Patients For the treatment of skin and skin structure infections , the recommended total daily dose is 50 to 75 mg / kg given once a day ( or in equally divided doses twice a day ) .
+The total daily dose should not exceed 2 grams .
+For the treatment of serious miscellaneous infections other than meningitis , the recommended total daily dose is 50 to 75 mg / kg , given in divided doses every 12 hours .
+The total daily dose should not exceed 2 grams .
+In the treatment of meningitis , it is recommended that the initial therapeutic dose be 100 mg / kg ( not to exceed 4 grams ) .
+Thereafter , a total daily dose of 100 mg / kg / day ( not to exceed 4 grams daily ) is recommended .
+The daily dose may be administered once a day ( or in equally divided doses every 12 hours ) .
+The usual duration of therapy is 7 to 14 days .
+Adults The usual adult daily dose is 1 to 2 grams given once a day ( or in equally divided doses twice a day ) depending on the type and severity of infection .
+For infections caused by Staphylococcus aureus ( MSSA ) , the recommended daily dose is 2 to 4 grams , in order to achieve > 90 % target attainment .
+The total daily dose should not exceed 4 grams .
+If Chlamydia trachomatis is a suspected pathogen , appropriate antichlamydial coverage should be added , because ceftriaxone sodium has no activity against this organism .
+For preoperative use ( surgical prophylaxis ) , a single dose of 1 gram administered intravenously 1 / 2 to 2 hours before surgery is recommended .
+Generally , Ceftriaxone Injection , USP therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared .
+The usual duration of therapy is 4 to 14 days ; in complicated infections , longer therapy may be required .
+When treating infections caused by Streptococcus pyogenes , therapy should be continued for at least 10 days .
+No dosage adjustment is necessary for patients with impairment of hepatic impairment or mild to moderate renal impairment .
+DIRECTIONS FOR USE Ceftriaxone Injection , USP is for intravenous administration using sterile equipment .
+It should be administered intravenously by infusion over a period of 30 minutes .
+Do not add supplementary medication .
+Vancomycin , amsacrine , aminoglycosides , and fluconazole are physically incompatible with ceftriaxone in admixtures .
+When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion , it is recommended that they be given sequentially , with thorough flushing of the intravenous lines ( with one of the compatible fluids ) between the administrations .
+Storage Store in a freezer capable of maintaining a temperature of - 20 ° C / - 4 ° F . Thawing of Plastic Container Thaw frozen container at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+[ DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION . ]
+Check for minute leaks by squeezing container firmly .
+If leaks are detected , discard solution as sterility may be impaired .
+Do not add supplementary medication .
+Visually inspect the container .
+If the outlet port protector is damaged , detached , or not present , discard container as solution path sterility may be impaired .
+Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation .
+Potency is not affected .
+Agitate after solution has reached room temperature .
+If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted , or if any seals are not intact , the container should be discarded .
+The thawed solution is stable for 21 days under refrigeration ( 5 ° C / 41 ° F ) or 48 hours at room temperature ( 25 ° C / 77 ° F ) .
+Do not refreeze thawed antibiotics .
+Caution : Do not use plastic containers in series connections .
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete .
+Preparation for Intravenous Administration : • 1 .
+Suspend container from eyelet support .
+• 2 .
+Remove protector from outlet port at bottom of container .
+• 3 .
+Attach administration set .
+Refer to complete directions accompanying set .
+ANIMAL PHARMACOLOGY Concretions consisting of the precipitated calcium salt of ceftriaxone have been found in the gallbladder bile of dogs and baboons treated with ceftriaxone .
+These appeared as a gritty sediment in dogs that received 100 mg / kg / day for 4 weeks .
+A similar phenomenon has been observed in baboons but only after a protracted dosing period ( 6 months ) at higher dose levels ( 335 mg / kg / day or more ) .
+The likelihood of this occurrence in humans is considered to be low , since ceftriaxone has a greater plasma half - life in humans , the calcium salt of ceftriaxone is more soluble in human gallbladder bile and the calcium content of human gallbladder bile is relatively low .
+HOW SUPPLIED / STORAGE AND HANDLING Ceftriaxone Injection , USP is supplied premixed as a frozen , iso - osmotic , sterile , nonpyrogenic solution of ceftriaxone sodium in a case of 24 x 50 mL single dose GALAXY containers ( PL 2040 plastic ) .
+The following strengths are available : 1 gm equivalent of ceftriaxone , iso - osmotic with approximately 1 . 9 gm Dextrose Hydrous , USP , added ( NDC 0338 - 5002 - 41 ) .
+2 gm equivalent of ceftriaxone , iso - osmotic with approximately 1 . 2 gm Dextrose Hydrous , USP , added ( NDC 0338 - 5003 - 41 ) .
+NOTE : Store Ceftriaxone Injection , USP in the frozen state at or below - 20 ° C / - 4 ° F . See DIRECTIONS FOR USE : Handle frozen product containers with care .
+Product containers may be fragile in the frozen state .
+Baxter Healthcare Corporation Deerfield , IL 60015 USA Printed in USA Baxter and Galaxy are registered trademarks of Baxter International Inc .
+ATCC is a trademark of the American Type Culture Collection .
+07 - 19 - 03 - 865 Rev . January 2022 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] Container Label 1 g Baxter Ceftriaxone Injection , USP ( In Dextrose ) 1 g GALAXY Single Dose Container 50 mL Iso - osmotic NDC 0338 - 5002 - 41 Code 2G3505 Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 1 g ceftriaxone with approx .
+1 . 9 g Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual Dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks and solution clarity .
+Rx only .
+Store at or below - 20 ° C ( - 4 ° F ) .
+Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Baxter and GALAXY are trademarks of Baxter International Inc .
+Baxter Healthcare Corporation Deerfield , IL 60015 USA Made in USA PL 2040 Plastic 07 - 34 - 63 - 668 * BAR CODE POSITION ONLY 303385002417 [ MULTIMEDIA ] Carton Label - 1 g - Panel 1 Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Handle frozen product containers with care .
+Product containers may be fragile in the frozen state .
+Baxter and Galaxy are registered trademarks of Baxter International Inc .
+PL 2040 Plastic 07 - 04 - 65 - 179 Baxter Logo Ceftriaxone Injection , USP ( In Dextrose ) 12 - 50 mL Single - Dose Containers Iso - osmotic Store at or below - 20 ° C / - 4 ° F . Do not refreeze .
+Rx only 1 g Baxter Healthcare Corporation Deerfield , IL 60015 USA Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BYIMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Handle frozen product containers with care .
+Product containers may be fragile in the frozen state .
+Baxter and Galaxy are registered trademarks of Baxter International Inc .
+PL 2040 Plastic 07 - 04 - 65 - 179 Baxter Logo Ceftriaxone Injection , USP ( In Dextrose ) 12 - 50 mL Single - Dose Containers Iso - osmotic Store at or below - 20 ° C / - 4 ° F . Do not refreeze .
+Rx only 1 g Baxter Healthcare Corporation Deerfield , IL 60015 USA [ MULTIMEDIA ] Carton Label - 1 g - Panel 2 NDC 0338 - 5002 - 41 Code 2G3504 * FOR BAR CODE POSITION ONLY ( 01 ) 503385002412 GALAXY Container Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 1 g ceftriaxone with approx .
+1 . 9 g of Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks by squeezing thawed bag firmly .
+If leaks are found , discard bag as sterility may be impaired .
+Do not use unless solution is clear .
+NDC 0338 - 5002 - 41 Code 2G3504 * FOR BAR CODE POSITION ONLY ( 01 ) 503385002412 GALAXY Container Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 1 g ceftriaxone with approx .
+1 . 9 g of Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks by squeezing thawed bag firmly .
+If leaks are found , discard bag as sterility may be impaired .
+Do not use unless solution is clear .
+[ MULTIMEDIA ] Baxter Logo Ceftriaxone Injection , USP ( In Dextrose ) 2 g GALAXY Single Dose Container 50 mL Iso - osmotic NDC 0338 - 5003 - 41 Code 2G3505 Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 2 g ceftriaxone with approx .
+1 . 2 g of Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks and solution clarity .
+Rx only .
+Store at or below - 20 ° C ( - 4 ° F ) .
+Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Baxter and GALAXY are trademarks of Baxter International Inc .
+Baxter Healthcare Corporation Deerfield , IL 60015 USA Made in USA PL 2040 Plastic 07 - 34 - 63 - 670 * BAR CODE POSITION ONLY 303385003414 [ MULTIMEDIA ] Carton Label - 2 g - Panel 1 Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BYIMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Handle frozen product containers with care .
+Product containers may be fragile in the frozen state .
+Baxter and Galaxy are registered trademarks of Baxter International Inc .
+PL 2040 Plastic 07 - 04 - 65 - 180 Baxter Logo Ceftriaxone Injection , USP ( In Dextrose ) 12 - 50 mL Single - Dose Containers Iso - osmotic Store at or below - 20 ° C / - 4 ° F . Do not refreeze .
+Rx only 2 g Baxter Healthcare Corporation Deerfield , IL 60015 USA Thaw at room temperature ( 25 ° C / 77 ° F ) or under refrigeration ( 5 ° C / 41 ° F ) .
+DO NOT FORCE THAW BYIMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION .
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature .
+Do not refreeze .
+Handle frozen product containers with care .
+Product containers may be fragile in the frozen state .
+Baxter and Galaxy are registered trademarks of Baxter International Inc .
+PL 2040 Plastic 07 - 04 - 65 - 180 Baxter Logo Ceftriaxone Injection , USP ( In Dextrose ) 12 - 50 mL Single - Dose Containers Iso - osmotic Store at or below - 20 ° C / - 4 ° F . Do not refreeze .
+Rx only 2 g Baxter Healthcare Corporation Deerfield , IL 60015 USA [ MULTIMEDIA ] Carton Label - 2 g - Panel 2 NDC 0338 - 5003 - 41 Code 2G3505 * FOR BAR CODE POSITION ONLY ( 01 ) 503385003419 GALAXY Container Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 2 g ceftriaxone with approx .
+1 . 2 g of Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks by squeezing thawed bag firmly .
+If leaks are found , discard bag as sterility may be impaired .
+Do not use unless solution is clear .
+NDC 0338 - 5003 - 41 Code 2G3505 * FOR BAR CODE POSITION ONLY ( 01 ) 503385003419 GALAXY Container Sterile Nonpyrogenic Each 50 mL contains : Ceftriaxone Sodium , USP equivalent to 2 g ceftriaxone with approx .
+1 . 2 g of Dextrose Hydrous , USP , added to adjust osmolality .
+pH may have been adjusted with sodium hydroxide and / or hydrochloric acid .
+pH range 6 . 0 to 8 . 0 .
+Usual dosage : See package insert .
+Cautions : Administer IV using sterile equipment .
+Must not be used in series connections .
+Do not add supplementary medication .
+Check for minute leaks by squeezing thawed bag firmly .
+If leaks are found , discard bag as sterility may be impaired .
+Do not use unless solution is clear .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

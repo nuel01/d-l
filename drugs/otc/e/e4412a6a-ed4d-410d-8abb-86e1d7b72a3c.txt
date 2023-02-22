@@ -1,0 +1,259 @@
+DESCRIPTION Propafenone hydrochloride is an antiarrhythmic drug supplied in extended - release capsules of 225 mg , 325 mg and 425 mg for oral administration .
+The structural formula of propafenone HCl is given below : [ MULTIMEDIA ] Propafenone HCl has some structural similarities to beta - blocking agents .
+Propafenone HCl occurs as colorless crystals or white crystalline powder with a very bitter taste .
+It is slightly soluble in water ( 20ºC ) , chloroform and ethanol .
+Propafenone extended release are capsules filled with granules containing the following inactive ingredients : ethylcellulose , lactose anhydrous , magnesium stearate and povidone .
+The capsules consist of D & C Red # 28 , FD & C Blue # 1 , FD & C Red # 40 , FD & C Yellow # 5 , FD & C Yellow # 6 , gelatin and titanium dioxide .
+In addition the ink consists of D & C Yellow # 10 aluminum lake , iron oxide black , n - butyl alcohol , propylene glycol , FD & C Blue # 2 aluminum lake , FD & C Red # 40 aluminum lake , FD & C Blue # 1 aluminum lake and shellac glaze ~ 45 % ( 20 % esterfied ) in ethanol .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Propafenone is a Class 1 C antiarrhythmic drug with local anesthetic effects , and a direct stabilizing action on myocardial membranes .
+The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity ( Phase 0 ) of the monophasic action potential .
+In Purkinje fibers , and to a lesser extent myocardial fibers , propafenone reduces the fast inward current carried by sodium ions .
+Diastolic excitability threshold is increased and effective refractory period prolonged .
+Propafenone reduces spontaneous automaticity and depresses triggered activity .
+Studies in anesthetized dogs and isolated organ preparations show that propafenone has beta - sympatholytic activity at about 1 / 50 the potency of propranolol .
+Clinical studies employing isoproterenol challenge and exercise testing after single doses of propafenone indicate a beta - adrenergic blocking potency ( per mg ) about 1 / 40 that of propranolol in man .
+In clinical trials with the immediate release formulation , resting heart rate decreases of about 8 % were noted at the higher end of the therapeutic plasma concentration range .
+At very high concentrations in vitro , propafenone can inhibit the slow inward current carried by calcium , but this calcium antagonist effect probably does not contribute to antiarrhythmic efficacy .
+Moreover , propafenone inhibits a variety of cardiac potassium currents in in vitro studies ( i . e . the transient outward , the delayed rectifier , and the inward rectifier current ) .
+Propafenone has local anesthetic activity approximately equal to procaine .
+Compared to propafenone , the main metabolite , 5 - hydroxypropafenone , has similar sodium and calcium channel activity , but about 10 times less beta - blocking activity ( N - depropylpropafenone has weaker sodium channel activity but equivalent affinity for beta - receptors ) .
+Electrophysiology : Electrophysiology studies in patients with ventricular tachycardia ( VT ) have shown that propafenone prolongs atrioventricular ( AV ) conduction while having little or no effect on sinus node function .
+Both atrioventricular ( AV ) nodal conduction time ( AH interval ) and His - Purkinje conduction time ( HV interval ) are prolonged .
+Propafenone has little or no effect on the atrial functional refractory period , but AV nodal functional and effective refractory periods are prolonged .
+In patients with Wolff - Parkinson - White ( WPW ) syndrome , propafenone hydrochloride immediate release tablets reduce conduction and increase the effective refractory period of the accessory pathway in both directions ( see ADVERSE REACTIONS / Electrocardiograms ) .
+Hemodynamics : Studies in humans have shown that propafenone exerts a negative inotropic effect on the myocardium .
+Cardiac catheterization studies in patients with moderately impaired ventricular function ( mean C . I . = 2 . 61 L / min / m2 ) , utilizing intravenous propafenone infusions ( loading dose of 2 mg / kg over 10 min + followed by 2 mg / min for 30 min ) that gave mean plasma concentrations of 3 . 0 mcg / mL ( a dose that produces plasma levels of propafenone greater than does recommended oral dosing ) , showed significant increases in pulmonary capillary wedge pressure , systemic and pulmonary vascular resistances and depression of cardiac output and cardiac index .
+Pharmacokinetics and Metabolism : Absorption / Bioavailability Maximal plasma levels of propafenone are reached between three to eight hours following the administration of propafenone hydrochloride extended release .
+Propafenone is known to undergo extensive and saturable presystemic biotransformation which results in a dose and dosage form dependent absolute bioavailability ; e . g . , a 150 mg immediate release tablet had an absolute bioavailability of 3 . 4 % , while a 300 mg immediate release tablet had an absolute bioavailability of 10 . 6 % .
+Absorption from a 300 mg solution dose was rapid , with an absolute bioavailability of 21 . 4 % .
+At still larger doses , above those recommended , bioavailability of propafenone from immediate release tablets increased still further .
+Relative bioavailability assessments have been performed between propafenone HCl ER capsules and propafenone HCl immediate release tablets .
+In extensive metabolizers , the bioavailability of propafenone from the SR formulation was less than that of the immediate release formulation as the more gradual release of propafenone from the prolonged - release preparations resulted in an increase in overall first pass metabolism ( see Metabolism ) .
+As a result of the increased first pass effect , higher daily doses of propafenone were required from the SR formulation relative to the immediate release formulation , to obtain similar exposure to propafenone .
+The relative bioavailability of propafenone from the 325 twice daily regimens of propafenone ER approximates that of propafenone HCl immediate release 150 mg three times daily regimen .
+Mean exposure to 5 - hydroxypropafenone was about 20 - 25 % higher after SR capsule administration than after immediate - release tablet administration .
+Food increased the exposure to propafenone 4 - fold after single dose administration of 425 mg of propafenone HCl ER capsules .
+However , in the multiple dose study ( 425 mg dose BID ) , the difference between the fed and fasted state was not significant .
+Distribution ] Following intravenous administration of propafenone , plasma levels decline in a bi - phasic manner consistent with a two compartment pharmacokinetic model .
+The average distribution half - life corresponding to the first phase was about five minutes .
+The volume of the central compartment was about 88 liters ( 1 . 1 L / kg ) and the total volume of distribution about 252 liters .
+In serum , propafenone is greater than 95 % bound to proteins within the concentration range of 0 . 5 - 2 mcg / mL .
+Protein binding decreases to about 88 % in patients with severe hepatic dysfunction .
+Metabolism There are two genetically determined patterns of propafenone metabolism .
+In over 90 % of patients , the drug is rapidly and extensively metabolized with an elimination half - life from 2 - 10 hours .
+These patients metabolize propafenone into two active metabolites : 5 - hydroxypropafenone which is formed by CYP2D6 and N - depropylpropafenone ( norpropafenone ) which is formed by both CYP3A4 and CYP1A2 .
+In less than 10 % of patients , metabolism of propafenone is slower because the 5 - hydroxy metabolite is not formed or is minimally formed .
+In these patients , the estimated propafenone elimination half - life ranges from 10 - 32 hours .
+Decreased ability to form the 5 - hydroxy metabolite of propafenone is associated with a diminished ability to metabolize debrisoquine and a variety of other drugs such as encainide , metoprolol , and dextromethorphan whose metabolism is mediated by the CYP2D6 isozyme .
+In these patients , the N - depropylpropafenone metabolite occurs in quantities comparable to the levels occurring in extensive metabolizers .
+As a consequence of the observed differences in metabolism , administration of propafenone ER capsules to slow and extensive metabolizers results in significant differences in plasma concentrations of propafenone , with slow metabolizers achieving concentrations about twice those of the extensive metabolizers at daily doses of 850 mg / day .
+At low doses the differences are greater , with slow metabolizers attaining concentrations about three to four times higher than extensive metabolizers .
+In extensive metabolizers , saturation of the hydroxylation pathway ( CYP2D6 ) results in greater - than - linear increases in plasma levels following administration of propafenone ER capsules .
+In slow metabolizers , propafenone pharmacokinetics are linear .
+Because the difference decreases at high doses and is mitigated by the lack of the active 5 - hydroxy metabolite in the slow metabolizers , and because steady state conditions are achieved after four to five days of dosing in all patients , the recommended dosing regimen of propafenone ER capsules is the same for all patients .
+The large inter - subject variability in blood levels require that the dose of the drug be titrated carefully in patients with close attention paid to clinical and ECG evidence of toxicity ( see DOSAGE AND ADMINISTRATION ) .
+The 5 - hydroxypropafenone and norpropafenone metabolites have electrophysiologic properties similar to propafenone in vitro .
+In man after administration of propafenone ER capsules , the 5 - hydroxypropafenone metabolite is usually present in concentrations less than 40 % of propafenone .
+The norpropafenone metabolite is usually present in concentrations less than 10 % of propafenone .
+Inter - Subject Variability With propafenone , there is a considerable degree of inter - subject variability in pharmacokinetics which is due in large part to the first pass hepatic effect and non - linear pharmacokinetics in extensive metabolizers .
+A higher degree of inter - subject variability in pharmacokinetic parameters of propafenone was observed following both single and multiple dose administration of propafenone ER capsules .
+Inter - subject variability appears to be substantially less in the poor metabolizer group than in the extensive metabolizer group , suggesting that a large portion of the variability is intrinsic to CYP2D6 polymorphism rather than to the formulation .
+The clearance of propafenone is reduced and the elimination half - life increased in patients with significant hepatic dysfunction ( see PRECAUTIONS ) .
+Decreased liver function also increases the bioavailability of propafenone .
+Absolute bioavailability assessments have not been determined for the propafenone ER capsule formulation .
+Absolute bioavailability of propafenone HCl immediate release tablets has been demonstrated to be inversely related to indocyanine green clearance , reaching 60 - 70 % at clearances of 7 mL / min and below .
+Stereochemistry Propafenone ER capsule is a racemic mixture .
+The R - and S - enantiomers of propafenone display stereoselective disposition characteristics .
+In vitro and in vivo studies have shown that the R - isomer of propafenone is cleared faster than the S - isomer via the 5 - hydroxylation pathway ( CYP2D6 ) .
+This results in a higher ratio of S - propafenone to R - propafenone at steady state .
+Both enantiomers have equivalent potency to block sodium channels ; however , the S - enantiomer is a more potent ß - antagonist than the R - enantiomer .
+Following administration of propafenone HCl immediate release tablets or propafenone ER capsules , the S / R ratio for the area under the plasma concentration - time curve was about 1 . 7 .
+The S / R ratios of propafenone obtained after administration of 225 , 325 and 425 mg propafenone ER capsules are independent of dose .
+In addition , no difference in the average values of the S / R ratios is evident between genotypes or over time .
+Clinical Trials Propafenone ER capsules has been evaluated in patients with a history of electrocardiographically documented recurrent episodes of symptomatic atrial fibrillation in two randomized , double - blind , placebo controlled trials .
+RAFT ] In one U . S . multicenter study ( propafenone ER capsules Atrial Fibrillation Trial , RAFT ) , three doses of propafenone ER capsules ( 225 mg BID , 325 mg BID and 425 mg BID ) and placebo were compared in 523 patients with symptomatic , episodic atrial fibrillation .
+The patient population in this trial was 59 % male with a mean age of 63 years , 91 % White and 6 % Black .
+The patients had a median history of atrial fibrillation of 13 months , and documented symptomatic atrial fibrillation within 12 months of study entry .
+Over 90 % were NYHA Class I , and 21 % had a prior electrical cardioversion .
+At baseline , 24 % were treated with calcium channel blockers , 37 % with beta blockers , and 38 % with digoxin .
+Symptomatic arrhythmias after randomization were documented by transtelephonic electrocardiogram and centrally read and adjudicated by a blinded adverse event committee .
+Propafenone ER capsules administered for up to 39 weeks was shown to prolong significantly the time to the first recurrence of symptomatic atrial arrhythmia , predominantly atrial fibrillation , from Day 1 of randomization ( primary efficacy variable ) com pared to placebo , as shown in Table 1 .
+Table 1 : Analysis of tachycardia - free period ( days ) from Day 1 randomization * Fewer than 50 % of the patients had events .
+The median time is not calculable .
+† Terminating events comprised 91 % atrial fibrillation , 5 % atrial flutter , and 4 % PSVT Propafenone HCl ER Dose Parameter 225 mg BID ( N = 126 ) n ( % ) 325 mg BID ( N = 135 ) n ( % ) 425 mg BID ( N = 136 ) n ( % ) Placebo ( N = 126 ) n ( % ) Patients completing with terminating event † 66 ( 52 ) 56 ( 41 ) 41 ( 30 ) 87 ( 69 ) Comparison of tachycardia - free periods Kaplan - Meier Median 112 291 * 41 Range 0 - 285 0 - 293 0 - 300 0 - 289 p - Value ( Log - rank test ) 0 . 014 < 0 . 0001 < 0 . 0001 -- Hazard Ratio compared to Placebo 0 . 67 0 . 43 0 . 35 -- 95 % CI for Hazard Ratio ( 0 . 49 , 0 . 93 ) ( 0 . 31 , 0 . 61 ) ( 0 . 24 , 0 . 51 ) -- There was a dose response for propafenone ER for the tachycardia - free period as shown in the proportional hazard analysis and the Kaplan - Meier curves presented in Figure 1 .
+[ MULTIMEDIA ] In additional analyses , propafenone ER capsules ( 225 mg BID , 325 mg BID , and 425 mg BID ) was also shown to prolong time to the first recurrence of symptomatic atrial fibrillation from Day 5 ( steady state pharmacokinetics were attained ) .
+The antiarrhythmic effect of propafenone ER capsules was not influenced by age , gender , history of cardioversion , duration of atrial fibrillation , frequency of atrial fibrillation or use of medication that lowers heart rate .
+Similarly , the antiarrhythmic effect of propafenone ER capsules was not influenced by the individual use of calcium channel blockers , beta - blockers or digoxin .
+Too few non - White patients were enrolled to assess the influence of race on effects of propafenone ER capsules ( propafenone hydrochloride ) .
+No difference in the average heart rate during the first recurrence of symptomatic arrhythmia between propafenone ER capsules and placebo was observed .
+ERAFT In a European multicenter trial [ ( European Rythmonorm SR Atrial Fibrillation Trial ( ERAFT ) ] , two doses of propafenone ER capsules ( 325 mg BID and 425 mg BID ) and placebo were compared in 293 patients .
+The patient population in this trial was 61 % male , 100 % White with a mean age of 61 years .
+Patients had a median duration of atrial fibrillation of 3 . 3 years , and 61 % were taking medications that lowered heart rate .
+At baseline , 15 % of the patients were treated with calcium channel blockers ( verapamil and diltiazem ) , 42 % with beta - blockers and 8 % with digoxin .
+During a qualifying period of up to 28 days , patients had to have one ECG - documented incident of symptomatic atrial fibrillation .
+The double - blind treatment phase consisted of a four day loading peri od followed by a 91 - day efficacy period .
+Symptomatic arrhythmias were documented by electrocardiogram monitoring .
+In ERAFT , propafenone ER capsules were shown to prolong the time to the first recurrence of symptomatic atrial arrhythmia from Day 5 of randomization ( primary efficacy analysis ) .
+The proportional hazard analysis revealed that both propafenone ER capsules doses were superior to placebo .
+The antiarrhythmic effect of propafenone ER was not influenced by age , gender , duration of atrial fibrillation , frequency of atrial fibrillation or use of medication that lowers heart rate .
+It was also not influenced by the individual use of calcium channel blockers , beta - blockers or digoxin .
+Too few non - White patients were enrolled to assess the influence of race on the effects of propafenone ER capsules .
+There was a slight increase in the incidence of centrally diagnosed asymptomatic atrial fibrillation or atrial flutter in each of the two propafenone ER capsules treatment groups compared to placebo .
+[ MULTIMEDIA ] INDICATIONS AND USAGE Propafenone Extended Release Capsules are indicated to prolong the time to recurrence of symptomatic atrial fibrillation in patients without structural heart disease .
+The use of propafenone ER capsules in patients with permanent atrial fibrillation or in patients exclusively with atrial flutter or PSVT has not been evaluated .
+Propafenone ER capsules should not be used to control ventricular rate during atrial fibrillation .
+The effect of propafenone ER capsules on mortality has not been determined ( see black box WARNINGS ) .
+CONTRAINDICATIONS Propafenone ER capsules are contraindicated in the presence of congestive heart failure , cardiogenic shock , sinoatrial , atrioventricular and intraventricular disorders of impulse generation or conduction ( e . g . , sick sinus node syndrome , atrioventricular block ) in the absence of an artificial pacemaker , bradycardia , marked hypotension , bronchospastic disorders , electrolyte imbalance , or hypersensitivity to the drug .
+WARNINGS Mortality : In the National Heart , Lung and Blood Institute ’ s Cardiac Arrhythmia Suppression Trial ( CAST ) , a long - term , multi - center , randomized , double - blind study in patients with asymptomatic non - life - threatening ventricular arrhythmias who had a myocardial infarction more than six days but less than two years previously , an increased rate of death or reversed cardiac arrest rate ( 7 . 7 % ; 56 / 730 ) was seen in patients treated with encainide or flecainide ( Class 1 C antiarrhythmics ) compared with that seen in patients assigned to placebo ( 3 . 0 % ; 22 / 725 ) .
+The average duration of treatment with encainide or flecainide in this study was ten months .
+The applicability of the CAST results to other populations ( e . g . , those without recent myocardial infarction ) or other antiarrhythmic drugs is uncertain , but at present , it is prudent to consider any 1 C antiarrhythmic to have a significant risk in patients with structural heart disease .
+Given the lack of any evidence that these drugs improve survival , antiarrhythmic agents should generally be avoided in patients with non - life - threatening ventricular arrhythmias , even if the patients are experiencing unpleasant , but not life - threatening , symptoms or signs .
+Proarrhythmic Effects : Propafenone has caused new or worsened arrhythmias .
+Such proarrhythmic effects include sudden death and life - threatening ventricular arrhythmias such as ventricular fibrillation , ventricular tachycardia , asystole and Torsade de Pointes .
+It may also worsen premature ventricular contractions or supraventricular arrhythmias , and it may prolong the QT interval .
+It is therefore essential that each patient given propafenone ER capsules be evaluated electrocardiographically prior to and during therapy , to determine whether the response to propafenone ER capsules sup ports continued treatment .
+Because propafenone prolongs the QRS interval in the electrocardiogram , changes in the QT interval are difficult to interpret .
+In a 474 patient U . S . uncontrolled , open label multicenter trial using the immediate release formulation in patients with symptomatic SVT , 1 . 9 % ( 9 / 474 ) of these patients experienced ventricular tachycardia ( VT ) or ventricular fibrillation ( VF ) during the study .
+However , in four of the nine patients , the ventricular tachycardia was of atrial origin .
+Six of the nine patients that developed ventricular arrhythmias did so within 14 days of onset of therapy .
+About 2 . 3 % ( 11 / 474 ) of all patients had recurrence of SVT during the study which could have been a change in the patients ’ arrhythmia behavior or could represent a proarrhythmic event .
+Case reports in patients treated with propafenone HCl for atrial fibrillation / flutter have included increased PVCs , VT , VF , Torsade de Pointes , asystole , and death .
+In the RAFT study , there were five deaths , three in the pooled propafenone ER capsules group ( 0 . 8 % ) and two in the placebo group ( 1 . 6 % ) .
+In the overall propafenone ER capsules and propafenone HCl immediate release database of eight studies , the mortality rate was 2 . 5 % per year on propafenone HCl and 4 % per year on placebo .
+Concurrent use of propafenone with other antiarrhythmic agents has not been well studied .
+Use with Drugs that Prolong the QT Interval and Antiarrhythmic Agents : The use of propafenone ER capsules ( propafenone hydrochloride ) in conjunction with other drugs that prolong the QT interval has not been extensively studied and is not recommended .
+Such drugs may include many antiarrhythmics , some phenothiazines , cisapride , bepridil , tricyclic antidepressants and oral macrolides .
+Class Ia and III antiarrhythmic agents should be withheld for at least five half - lives prior to dosing with propafenone ER capsules .
+The use of propafenone with Class Ia and III antiarrhythmic agents ( including quinidine and amiodarone ) is not recommended .
+There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics .
+Nonallergic Bronchospasm ( e . g . , chronic bronchitis , emphysema ) Patients with bronchospastic disease should not , in general , receive propafenone or other agents with beta - adrenergic - blocking activity .
+Congestive Heart Failure Propafenone exerts a negative inotropic activity on the myocardium as well as beta - blockade effects and may provoke overt congestive heart failure .
+In the U . S . trial ( RAFT ) in patients with symptomatic atrial fibrillation , congestive heart failure was reported in four ( 1 % ) patients receiving propafenone ER capsules ( all doses ) , compared to one ( 0 . 8 % ) patient receiving placebo .
+Proarrhythmic effects are more likely to occur when propafenone is administered to patients with congestive heart failure ( NYHA III and IV ) or severe myocardial ischemia ( see CONTRAINDICATIONS ) .
+Conduction Disturbances : Propafenone causes dose - related first degree AV block .
+Average PR interval prolongation and increases in QRS duration are also dose - related .
+Propafenone should not be given to patients with atrioventricular and intraventricular conduction defects in the absence of a pacemaker ( see CONTRAINDICATIONS ) .
+In a U . S . trial ( RAFT ) in 523 patients with a history of symptomatic atrial fibrillation treated with propafenone ER capsules , electrocardiograms obtained in response to symptoms were associated with no patients having sinus rhythm with Mobitz Type I ( Wenckenbach ) second degree AV block , sinus rhythm with Mobitz Type II second degree AV block , or third degree AV block .
+Sinus bradycardia ( rate < 50 beats / min ) was reported with the same frequency with propafenone ER capsules and placebo .
+Effects on Pacemaker Threshold : Propafenone may alter both pacing and sensing thresholds of artificial pacemakers .
+Pacemakers should be monitored and programmed accordingly during therapy .
+Hematologic Disturbances : Agranulocytosis ( fever , chills , weakness , and neutropenia ) has been reported in patients receiving propafenone .
+Generally , the agranulocytosis occurred within the first two months of propafenone therapy and upon discontinuation of therapy , the white count usually normalized by 14 days .
+Unexplained fever and / or decrease in white cell count , particularly during the initial three months of therapy , warrant consideration of possible agranulocytosis or granulocytopenia .
+Patients should be instructed to report promptly the development of any signs of infection such as fever , sore throat , or chills .
+PRECAUTIONS Hepatic Dysfunction Propafenone is highly metabolized by the liver and should , therefore , be administered cautiously to patients with impaired hepatic function .
+Severe liver dysfunction increases the bioavailability of propafenone to approximately 70 % compared to 3 - 40 % in patients with normal liver function when given propafenone HCl immediate release tablets .
+In eight patients with moderate to severe liver disease administered propafenone HCl immediate release tablets , the mean half - life was approximately nine hours .
+No studies are currently available comparing bioavailability of propafenone from propafenone ER capsules in patients with normal and impaired hepatic function .
+Increased bioavailability of propafenone in these patients may result in excessive accumulation .
+Careful monitoring for excessive pharmacological effects ( see OVERDOSAGE ) should be performed for patients with impaired hepatic function .
+Renal Dysfunction Approximately 50 % of propafenone metabolites are excreted in the urine following administration of propafenone HCl immediate release tablets .
+No studies have been performed to assess the percentage of metabolites eliminated in the urine following the administration of propafenone ER capsules .
+Until further data are available , propafenone ER capsules should be administered cautiously to patients with impaired renal function .
+These patients should be carefully monitored for signs of overdosage ( see OVERDOSAGE ) .
+Information for Patients Medications and Supplements : Assessment of patients ’ medication history should include all over - the - counter , prescription and herbal / natural preparations with emphasis on preparations that may affect the pharmacodynamics or kinetics of propafenone ER capsules ( see WARNINGS / Use with Drugs that Prolong QT interval and Antiarrhythmic Agents ) .
+Patients should be instructed to notify their health care providers of any change in over - the - counter , prescription and supplement use .
+If a patient is hospitalized or is prescribed new medication for any condition , the patient must inform the health care provider of ongoing propafenone ER capsules therapy .
+Patients should also check with their health care providers prior to taking a new over - the - counter medicine .
+Electrolyte Imbalance : If patients experience symptoms that may be associated with altered electrolyte balance , such as excessive or prolonged diarrhea , sweating , vomiting , or loss of appetite or thirst , these conditions should be immediately reported to their health care provider .
+Dosing Schedule : Patients should be instructed NOT to double the next dose if a dose is missed .
+The next dose should be taken at the usual time .
+Elevated ANA Titers : Positive ANA titers have been reported in patients receiving propafenone .
+They have been reversible upon cessations of treatment and may disappear even in the face of continued propafenone therapy .
+These laboratory findings were usually not associated with clinical symptoms , but there is one published case of drug - induced lupus erythematosus ( positive rechallenge ) ; it resolved completely upon discontinuation of therapy .
+Patients who develop an abnormal ANA test should be carefully evaluated and , if persistent or worsening elevation of ANA titers is detected , consideration should be given to discontinuing therapy .
+The 225 mg capsules contain FD & C Yellow No . 5 ( tartrazine ) which may cause allergic - type reactions ( including bronchial asthma ) in certain susceptible persons .
+Although the overall incidence of FD & C Yellow No . 5 ( tartrazine ) sensitivity in the general population is low , it is frequently seen in patients who also have aspirin hypersensitivity .
+Impaired Spermatogenesis : Reversible disorders of spermatogenesis have been demonstrated in monkeys , dogs and rabbits after high dose intravenous administration of propafenone .
+Evaluation of the effects of short - term propafenone HCl administration on spermatogenesis in 11 normal subjects suggested that propafenone produced a reversible , short - term drop ( within normal range ) in sperm count .
+Subsequent evaluations in 11 patients receiving propafenone HCl chronically have found no effect of propafenone on sperm count .
+Neuromuscular Dysfunction Exacerbation of myasthenia gravis has been reported during propafenone HCl immediate release tablet therapy .
+Drug Interactions Propafenone is metabolized by CYP2D6 ( major pathway ) and CYP1A2 and CYP3A4 .
+Drugs that inhibit CYP2D6 ( such as desipramine , paroxetine , ritonavir , sertraline ) , CYP1A2 ( such as amiodarone ) , and CYP3A4 ( such as ketaconazole , ritonavir , saquinavir , erythromycin , and grapefruit juice ) can be expected to cause increased plasma levels of propafenone .
+Appropriate monitoring is recommended when propafenone ER capsules are used together with such drugs .
+In addition , propafenone is an inhibitor of CYP2D6 .
+Coadministration of propafenone with drugs metabolized by CYP2D6 ( such as desipramine , imipramine , haloperidol , venlafaxine ) might lead to increased plasma concentrations of these drugs .
+The effect of propafenone on the P - Glycoprotein transporter has not been studied .
+Quinidine : Small doses of quinidine completely inhibit the CYP2D6 hydroxylation metabolic pathway , making all patients , in effect , slow metabolizers ( see CLINICAL PHARMACOLOGY ) .
+Concomitant administration of quinidine ( 50 mg TID ) with 150 mg immediate release propafenone TID decreased the clearance of propafenone by 60 % in EM , making them PM .
+Steady state plasma concentrations increased by more than 2 - fold for propafenone , and decreased 50 % for 5 - OH - propafenone .
+A 100 mg dose of quinidine increased steady state con centrations of propafenone 3 - fold .
+Concomitant use of propafenone and quinidine is not recommended .
+Digoxin : Concomitant use of propafenone and digoxin increased steady state serum digoxin exposure ( AUC ) in patients by 60 to 270 % , and decreased the clearance of digoxin by 31 to 67 % .
+Plasma digoxin levels of patients receiving propafenone should be monitored and digoxin dosage adjusted as needed .
+Lidocaine : No significant effects on the pharmacokinetics of propafenone or lidocaine have been seen following their concomitant use in patients .
+However , concomitant use of propafenone and lido caine have been reported to increase the risks of central nervous sys tem side effects of lidocaine .
+Beta - Antagonists : Concomitant use of propafenone and propranolol in healthy subjects increased propranolol plasma concentrations at steady state by 113 % .
+In 4 patients , administration of metoprolol with propafenone increased the metoprolol plasma concentrations at steady state by 100 - 400 % .
+The pharmacokinetics of propafenone was not affected by the coadministration of either propranolol or metopro lol .
+In clinical trials using propafenone immediate release tablets , patients who were receiving beta - blockers concurrently did not expe rience an increased incidence of side effects .
+Warfarin : The concomitant administration of propafenone and warfarin increased warfarin plasma concentrations at steady state by 39 % in healthy volunteers and prolonged the prothrombin time in patients taking warfarin .
+Adjustment of the warfarin dose should be guided by monitoring of the prothrombin time .
+Cimetidine : Concomitant administration of propafenone immediate release tablets and cimetidine in 12 healthy subjects resulted in a 20 % increase in steady state plasma concentrations of propafenone .
+Rifampin : Concomitant administration of rifampin and propafenone in extensive metabolizers decreased the plasma concentrations of propafenone by 67 % with a corresponding decrease of 5 OH - propafenone by 65 % .
+The concentrations of norpropafenone increased by 30 % .
+In poor metabolizers , there was a 50 % decrease in propafenone plasma concentrations and increased the AUC and Cmax of norpropafenone by 74 and 20 % , respectively .
+Urinary excretion of propafenone and its metabolites decreased significantly .
+Similar results were noted in elderly patients : Both the AUC and Cmax propafenone decreased by 84 % , with a corresponding decrease in AUC and Cmax of 5 OH - propafenone by 69 and 57 % .
+Fluoxetine : Concomitant administration of propafenone and fluoxetine in extensive metabolizers increased the S propafenone Cmax and AUC by 39 and 50 % and the R propafenone Cmax and AUC by 71 and 50 % .
+Amiodarone : Concomitant administration of propafenone and amiodarone can affect conduction and repolarization and is not recommended .
+Post Marketing Reports : Orlistat may limit the fraction of propafenone available for absorption .
+In post marketing reports , abrupt cessation of orlistat in patients stabilized on propafenone has resulted in severe adverse events including convulsions , atrioventricular block and acute circulatory failure .
+Renal and Hepatic Toxicity in Animals : Renal changes have been observed in the rat following six months of oral administration of propafenone HCl at doses of 180 and 360 mg / kg / day ( about two and four times , respectively , the maximum recommended human daily dose [ MRHD ] on a mg / m ² basis ) .
+Both inflammatory and non - inflammatory changes in the renal tubules , with accompanying interstitial nephritis , were observed .
+These changes were reversible , as they were not found in rats allowed to recover for six weeks .
+Fatty degenerative changes of the liver were found in rats following longer durations of administration of propafenone HCl at a dose of 270 mg / kg / day ( about three times the MRHD on a mg / m ² basis ) .
+There were no renal or hepatic changes at 90 mg / kg / day ( equivalent to the MRHD on a mg / m ² basis ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility : Lifetime maximally tolerated oral dose studies in mice ( up to 360 mg / kg / day , about twice the maximum recommended human oral daily dose [ MRHD ] on a mg / m ² basis ) and rats ( up to 270 mg / kg / day , about three times the MRHD on a mg / m ² basis ) provided no evidence of a carcinogenic potential for propafenone HCl .
+Propafenone HCl tested negative for mutagenicity in the Ames ( salmonella ) test and in the in vivo mouse dominant lethal test .
+It tested negative for clastogenicity in the human lymphocyte chromosome aberration assay in vitro and in rat and Chinese hamster micronucleus tests , and other in vivo tests for chromosomal aberrations in rat bone marrow and Chinese hamster bone marrow and spermatogonia .
+Propafenone HCl , administered intravenously to rabbits , dogs , and monkeys , has been shown to decrease spermatogenesis .
+These effects were reversible , were not found following oral dosing of propafenone HCl , were seen at lethal or near lethal dose levels and were not seen in rats treated either orally or intravenously ( see PRECAUTIONS , Impaired Spermatogenesis ) .
+Treatment of male rabbits for 10 weeks prior to mating at an oral dose of 120 mg / kg / day ( about 2 . 4 times the MRHD on a mg / m ² basis ) or an intravenous dose of 3 . 5 mg / kg / day ( a spermatogenesis - impairing dose ) did not result in evidence of impaired fertility .
+Nor was there evidence of impaired fertility when propafenone HCl was administered orally to male and female rats at dose levels up to 270 mg / kg / day ( about 3 times the MRHD on a mg / m ² basis ) .
+Pregnancy Teratogenic Effects : Pregnancy Category C . Propafenone HCl has been shown to be embryotoxic ( decreased survival ) in rabbits and rats when given in oral maternally toxic doses of 150 mg / kg / day ( about three times the maximum recommended human dose [ MRHD ] on a mg / m ² basis ) and 600 mg / kg / day ( about six times the MRHD on a mg / m ² basis ) , respectively .
+Although maternally tolerated doses ( up to 270 mg / kg / day , about three times the MRHD on a mg / m ² basis ) produced no evidence of embryotoxicity in rats , post - implantation loss was ele vated in all rabbit treatment groups ( doses as low as 15 mg / kg / day , about 1 / 3 the MRHD on a mg / m ² basis ) .
+There are no adequate and well - controlled studies in pregnant women .
+Propafenone ER capsules ( propafenone hydrochloride ) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Non - Teratogenic Effects : In a study in which female rats received daily oral doses of propafenone HCl from mid - gestation through weaning of their offspring , doses as low as 90 mg / kg / day ( equivalent to the MRHD on a mg / m ² basis ) produced increases in maternal deaths .
+Doses of 360 or more mg / kg / day ( four or more times the MRHD on a mg / m ² basis ) resulted in reductions in neonatal survival , body weight gain and physiological development .
+Labor and Delivery It is not known whether the use of propafenone during labor or delivery has immediate or delayed adverse effects on the fetus , or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetrical intervention .
+Nursing Mothers Propafenone is excreted in human milk .
+Caution should be exercised when propafenone ER capsules are administered to a nursing mother .
+Pediatric Use The safety and effectiveness of propafenone in pediatric patients have not been established .
+Geriatric Use Of the total number of subjects in Phase III clinical studies of propafenone ER capsules ( propafenone hydrochloride ) 45 . 7 percent were 65 and over , while 15 . 7 percent were 75 and over .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , but greater sensitivity of some older individuals at higher doses cannot be ruled out .
+The effect of age on the pharmacokinetics and pharmacodynamics of propafenone has not been studied .
+ADVERSE REACTIONS The data described below reflect exposure to propafenone ER capsules 225 mg BID in 126 patients , to propafenone ER capsules 325 mg BID in 135 patients , to propafenone ER capsules 425 mg BID in 136 patients , and to placebo in 126 patients for up to 39 weeks in a placebo - controlled trial ( RAFT ) conducted in the U . S .
+The most commonly reported adverse events in the trial included dizziness , chest pain , palpitations , taste disturbance , dyspnea , nausea , constipation , anxiety , fatigue , upper respiratory tract infection , influenza , first degree heart block and vomiting .
+The frequency of discontinuation due to adverse events was highest during the first 14 days of treatment .
+The majority of the patients with serious adverse events who withdrew or were discontinued recovered without sequelae .
+Adverse events occurring in 2 % or more of the patients in any of the RAFT propafenone ER capsules treatment groups and more common with propafenone than with placebo , excluding those that are common in the population and those not plausibly related to drug therapy , are listed in Table 2 .
+Table 2 : Most common adverse events ( ≥ 2 % in any RAFT propafenone ER treatment group and more common on propafenone than on placebo ) Propafenone ER Capsules MeDRA Body System / Preferred Term 225 mg BID ( N = 126 ) n ( % ) 325 mg BID ( N = 135 ) n ( % ) 425 mg BID ( N = 136 ) n ( % ) Placebo ( N = 126 n ( % ) Mean exposure ( days ) 124 149 141 91 Cardiac disorders Angina pectoris 0 ( 0 ) 0 ( 0 ) 3 ( 2 ) 0 ( 0 ) Atrial flutter 3 ( 2 ) 2 ( 1 ) 0 ( 0 ) 1 ( 1 ) AV block first degree 3 ( 2 ) 3 ( 2 ) 4 ( 3 ) 0 ( 0 ) Bradycardia 4 ( 3 ) 4 ( 3 ) 6 ( 4 ) 1 ( 1 ) Cardiac failure congestive 0 ( 0 ) 1 ( 1 ) 3 ( 2 ) 1 ( 1 ) Cardiac murmur 2 ( 2 ) 3 ( 2 ) 6 ( 4 ) 0 ( 0 ) Edema 6 ( 5 ) 18 ( 13 ) 10 ( 7 ) 8 ( 6 ) Eye disorders Vision blurred 1 ( 1 ) 1 ( 1 ) 5 ( 4 ) 0 ( 0 ) Gastrointestinal disorders Constipation 10 ( 8 ) 19 ( 14 ) 16 ( 12 ) 3 ( 2 ) Diarrhea 2 ( 2 ) 3 ( 2 ) 5 ( 4 ) 3 ( 2 ) Dry mouth 1 ( 1 ) 1 ( 1 ) 5 ( 4 ) 1 ( 1 ) Flatulence 3 ( 2 ) 3 ( 2 ) 1 ( 1 ) 0 ( 0 ) Nausea 11 ( 9 ) 15 ( 11 ) 23 ( 17 ) 11 ( 9 ) Vomiting 1 ( 1 ) 0 ( 0 ) 8 ( 6 ) 3 ( 2 ) General disorder and administration site Fatigue 14 ( 11 ) 17 ( 13 ) 17 ( 13 ) 7 ( 6 ) Weakness 4 ( 3 ) 6 ( 4 ) 6 ( 4 ) 3 ( 2 ) Infections and Infestations Upper respiratory tract infection 11 ( 9 ) 16 ( 12 ) 11 ( 8 ) ) 7 ( 6 ) Investigations Blood alkaline phosphatase increased 0 ( 0 ) 0 ( 0 ) 4 ( 3 ) 0 ( 0 ) Cardioactive drug level above therapeutic 1 ( 1 ) 1 ( 1 ) 3 ( 2 ) 1 ( 1 ) Hematuria 2 ( 2 ) 2 ( 1 ) 4 ( 3 ) 3 ( 2 ) Musculoskeletal , connective tissue and bone Muscle weakness 1 ( 1 ) 5 ( 4 ) 1 ( 1 ) 0 ( 0 ) Nervous system disorders Dizziness ( excluding vertigo ) 29 ( 23 ) 28 ( 21 ) 29 ( 21 ) 18 ( 14 ) Headache 8 ( 6 ) 12 ( 9 ) 14 ( 10 ) 11 ( 9 ) Taste disturbance 7 ( 6 ) 18 ( 13 ) 30 ( 22 ) 1 ( 1 ) Tremor 2 ( 2 ) 0 ( 0 ) 3 ( 2 ) 1 ( 1 ) Somnolence 1 ( 1 ) 1 ( 1 ) 4 ( 3 ) 0 ( 0 ) Psychiatric disorders Anxiety 12 ( 10 ) 17 ( 13 ) 16 ( 12 ) 13 ( 10 ) Depression 1 ( 1 ) 4 ( 3 ) 0 ( 0 ) 2 ( 2 ) Respiratory , thoracic and mediastinal disorder Dyspnea 16 ( 13 ) 23 ( 17 ) 17 ( 13 ) 9 ( 7 ) Rales 2 ( 2 ) 1 ( 1 ) 3 ( 2 ) 0 ( 0 ) Wheezing 0 ( 0 ) 0 ( 0 ) 3 ( 2 ) 0 ( 0 ) Skin & subcutaneous tissue disorders Ecchymosis 2 ( 2 ) 3 ( 2 ) 5 ( 4 ) 0 ( 0 ) No clinically important differences in incidence of adverse reactions were noted by age , or gender .
+Too few non - White patients were enrolled to assess adverse events according to race .
+Adverse events occurring in 2 % or more of the patients in any of the ERAFT propafenone ER treatment groups and not listed in Table 2 include the following : bundle branch block left , bundle branch block right , conduction disorders , sinus bradycardia and hypotension .
+Other adverse events reported with propafenone clinical trials not already listed in Table 2 include the following adverse events by body and preferred term .
+Blood and lymphatic system disorders : anemia ; lymphadenopathy ; spleen disorder ; thrombocytopenia ; Cardiac disorders : angina unstable ; arrhythmia ; atrial hypertrophy ; atrioventricular block ; bundle branch block left ; bundle branch block right ; cardiac arrest ; cardiac disorder ; conduction disorder ; coronary artery disease ; extrasystoles ; myocardial infarction ; nodal arrhythmia ; palpitations ; pericarditis ; sinoatrial block ; sinus arrest ; sinus arrhythmia ; sinus bradycardia ; supraventricular extrasystoles ; supraventricular tachycardia ; ventricular arrhythmia ; ventricular extrasystoles ; ventricu lar hypertrophy ; Ear and labyrinth disorders : hearing impaired ; tinnitus ; vertigo ; Eye disorders : eye hemorrhage ; eye inflammation ; eyelid ptosis ; miosis ; retinal disorder ; visual acuity reduced ; Gastrointestinal disorders : abdominal distension ; abdominal pain ; dry throat ; duodenitis ; dyspepsia ; dysphagia ; eructation ; gastritis ; gastroesophageal reflux disease ; gingival bleeding ; glossitis ; glossodynia ; gum pain ; halitosis ; intestinal obstruction ; melena ; mouth ulceration ; pancreatitis ; peptic ulcer ; rectal bleeding ; sore throat ; General disorders and administration site conditions : chest pain ; feeling hot ; hemorrhage ; malaise ; pain ; pyrexia ; Hepato - biliary disorders : hepatomegaly ; Investigations : abnormal electrocardiogram ; abnormal heart sounds ; abnormal liver function tests ; abnormal pulse ; carotid bruit ; decreased blood chloride ; decreased blood pressure ; decreased blood sodium ; decreased hemoglobin ; decreased neutrophil count ; decreased platelet count ; decreased prothrombin level ; decreased red blood cell count ; decreased weight ; electrocardiogram QT prolonged ; glycosuria present ; heart rate irregular ; increased alanine aminotransferase ; increased aspartate aminotransferase ; increased blood bilirubin ; increased blood cholesterol ; increased blood creatinine ; increased blood glucose ; increased blood lactate dehydrogenase ; increased blood pressure ; increased blood prolactin ; increased blood triglycerides ; increased blood urea ; increased blood uric acid ; increased eosinophil count ; increased gamma - glutamyltransferase ; increased monocyte count ; increased prostatic specific antigen ; increased prothrombin level ; increased weight ; increased white blood cell count ; ketonuria present ; proteinuria present ; Metabolism and nutrition disorders : anorexia ; dehydration ; diabetes mellitus ; gout ; hypercholesterolemia ; hyperglycemia ; hyperlipidemia ; hypokalemia ; Musculoskeletal , connective tissue and bone disorders : arthritis ; bursitis ; collagen - vascular disease ; costochondritis ; joint disorder ; muscle cramps ; muscle spasms ; myalgia ; neck pain ; pain in jaw ; sciatica ; tendonitis ; Nervous system disorders : amnesia ; ataxia ; balance impaired ; brain damage ; cerebrovascular accident ; dementia ; gait abnormal ; hypertonia ; hypothesia ; insomnia ; paralysis ; paresthesia ; peripheral neuropathy ; speech disorder ; syncope ; tongue hypoesthesia ; Psychiatric disorders : decreased libido ; emotional disturbance ; mental disorder ; neurosis ; nightmare ; sleep disorder ; Renal and urinary disorders : dysuria ; nocturia ; oliguria ; pyuria ; renal failure ; urinary casts ; urinary frequency ; urinary incontinence ; urinary retention ; urine abnormal ; Reproductive system and breast disorders : breast pain ; impotence ; prostatism ; Respiratory , thoracic and mediastinal disorders : atelectasis ; breath sounds decreased ; chronic obstructive airways disease ; cough ; epistaxis ; hemoptysis ; lung disorder ; pleural effusion ; pulmonary congestion ; rales ; respiratory failure ; rhinitis ; throat tightness ; Skin and subcutaneous tissue disorders : alopecia ; dermatitis ; dry skin ; erythema ; nail abnormality ; petechiae ; pruritis ; sweating increased ; urticaria ; Vascular disorders : arterial embolism limb ; deep limb venous thrombosis ; flushing ; hematoma ; hypertension ; hypertensive crisis ; hypotension ; labile blood pressure ; pallor ; peripheral coldness ; peripheral vascular disease ; thrombosis .
+Laboratory : Electrocardiograms Propafenone prolongs the PR and QRS intervals in patients with atrial and ventricular arrhythmias .
+Prolongation of the QRS interval makes it difficult to interpret the effect of propafenone on the QT interval .
+Table 3 : Mean Change in 12 - Lead Electrocardiogram Results ( RAFT ) * Calculated using Bazett ’ s correction factor .
+Propafenone ER Capsules BID dosing 225 mg 325 mg 425 mg Placebo n = 126 n = 135 n = 136 n = 126 PR ( ms ) 9 ± 22 12 ± 23 21 ± 24 1 ± 16 QRS ( ms ) 4 ± 14 6 ± 15 6 ± 15 - 2 ± 12 QTc * ( ms ) 2 ± 30 5 ± 36 6 ± 37 5 ± 35 In RAFT , the distribution of the maximum changes in QTc compared to baseline over the study in each patient was similar in the propafenone ER capsules 225 mg BID , 325 mg BID , and 425 mg BID and placebo dose groups .
+Similar results were seen in the ERAFT study .
+Table 4 : Number of patients according to the range of maximum QTc change compared to baseline over the study in each dose group ( RAFT study ) Range of maximum QTc change Propafenone ER Capsules Placebo 225 mg BID 325 mg BID 425 mg BID N = 119 N = 129 N = 123 N = 100 n ( % ) n ( % ) n ( % ) n ( % ) > 20 % 1 ( 1 % ) 6 ( 5 % ) 3 ( 2 % ) 5 ( 4 % ) 10 - 20 % 19 ( 16 % ) 28 ( 22 % ) 32 ( 26 % ) 24 ( 20 % ) ≤ 10 % 99 ( 83 % ) 95 ( 74 % ) 88 ( 72 % ) 91 ( 76 % ) OVERDOSAGE The symptoms of overdosage may include hypotension , somnolence , bradycardia , intra - atrial and intraventricular conduction disturbances , and rarely convulsions and high grade ventricular arrhythmias .
+Defibrillation as well as infusion of dopamine and isoproterenol have been effective in controlling abnormal ventricular rhythm and blood pressure .
+Convulsions have been alleviated with intravenous diazepam .
+General supportive measures such as mechanical respira tory assistance and external cardiac massage may be necessary .
+The hemodialysis of propafenone in patients with an overdose is expected to be of limited value in the removal of propafenone as a result of both its high protein binding ( > 95 % ) and large volume of distribution .
+DOSAGE AND ADMINISTRATION The dose of propafenone ER capsules must be individually titrated on the basis of response and tolerance .
+Therapy should be initiated with propafenone ER capsules 225 mg given every twelve hours .
+Dosage may be increased at a minimum of five day interval to 325 mg given every twelve hours .
+If additional therapeutic effect is needed , the dose of propafenone ER capsules may be increased to 425 mg given every twelve hours .
+In patients with hepatic impairment or having significant widening of the QRS complex or second or third degree AV block , dose reduction should be considered .
+Propafenone ER capsules can be taken with or without food .
+Do not crush or further divide the contents of the capsule .
+HOW SUPPLIED Propafenone Extended Release Capsules , 325 mg are available as hard gelatin capsules containing 325 mg of propafenone HCl .
+The capsule is an orange opaque cap printed “ par / 210 ” in black ink and white opaque body printed “ par / 210 ” in black ink .
+NDC 49884 - 210 - 02 Bottles of 60 capsules NDC 49884 - 210 - 01 Bottles of 100 capsules NDC 49884 - 210 - 05 Bottles of 500 capsules NDC 49884 - 210 - 10 Bottles of 1000 capsules Storage : Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Dispense in a tight container as defined in the USP .
+Manufactured by : Par Pharmaceutical Companies , Inc .
+Spring Valley , NY 10977 I03 / 10 Repackaged by : Rebel Distributors Corp Thousand Oaks , CA 91320 PRINCIPAL DISPLAY PANEL – 325 MG [ MULTIMEDIA ] [ MULTIMEDIA ]

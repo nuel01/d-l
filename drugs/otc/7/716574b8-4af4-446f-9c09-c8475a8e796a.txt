@@ -1,0 +1,148 @@
+DESCRIPTION Ringer ’ s Injection , USP is a sterile , nonpyrogenic solution for fluid and electrolyte replenishment in single dose containers for intravenous administration .
+It contains no antimicrobial agents .
+The pH may have been adjusted with sodium hydroxide .
+Composition , osmolarity , pH and ionic concentration are shown in Table 1 .
+Table 1 .
+Size ( mL ) Composition ( g / L ) Osmolarity ( mOsmol / L ) ( calc ) pH Ionic Concentration ( mEq / L ) Sodium Chloride , USP ( NaCl ) Calcium Chloride , USP ( CaCl2 - 2H2O ) Potassium Chloride , USP ( KCl ) Sodium Potassium Calcium Chloride Ringer ’ s Injection , USP 1000 8 . 6 0 . 33 0 . 3 309 5 . 5 ( 5 . 0 to 7 . 5 ) 147 . 5 4 4 . 5 156 The VIAFLEX plastic container is fabricated from a specially formulated polyvinyl chloride ( PL 146 Plastic ) .
+The amount of water that can permeate from inside the container into the overwrap is insufficient to affect the solution significantly .
+Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period , e . g . , di - 2 - ethylhexyl phthalate ( DEHP ) , up to 5 parts per million .
+However , the safety of the plastic has been confirmed in tests in animals according to USP biological tests for plastic containers as well as by tissue culture toxicity studies .
+CLINICAL PHARMACOLOGY Ringer ’ s Injection has value as a source of water and electrolytes .
+It is capable of inducing diuresis depending on the clinical condition of the patient .
+INDICATIONS AND USAGE Ringer ’ s Injection is indicated as a source of water and electrolytes .
+CONTRAINDICATIONS Ringer ’ s Injection is contraindicated in : • - Patients with known hypersensitivity to the product or any ingredients in the formulation ( see WARNINGS ) .
+• - Newborns ( ≤ 28 days of age ) receiving concomitant treatment with ceftriaxone , even if separate infusion lines are used due to the risk of fatal ceftriaxone - calcium salt precipitation in the neonate ’ s bloodstream .
+• - In patients older than 28 days , including adults , ceftriaxone must not be administered simultaneously with intravenous calcium - containing solutions , including Ringer ’ s Injection through the same infusion line ( e . g . , via a Y - connector ) .
+If the same infusion line is used for sequential administration , the line must be thoroughly flushed between infusions with a compatible fluid .
+WARNINGS Hypersensitivity Hypersensitivity reactions , including anaphylaxis , have been reported with Ringer ’ s Injection .
+Stop the infusion immediately if signs or symptoms of a hypersensitivity reaction develop .
+Appropriate therapeutic countermeasures must be instituted as clinically indicated .
+Electrolyte Imbalances Hyperkalemia Potassium - containing solutions , including Ringer ’ s Injection , may increase the risk of hyperkalemia .
+Patient ’ s at increased risk of developing hyperkalemia include those : • • With conditions predisposing to hyperkalemia and / or associated with increased sensitivity to potassium , such as patients with severe renal impairment , acute dehydration , extensive tissue injury or burns , certain cardiac disorders such as congestive heart failure • • Treated concurrently or recently with agents or products that cause or increase the risk of hyperkalemia ( see DRUG INTERACTIONS ) .
+Avoid use of Ringer ’ s Injection in patients with , or at risk for , hyperkalemia .
+If use cannot be avoided , monitor serum potassium concentrations .
+Hypernatremia and Hyperchloremia Electrolyte imbalances such as hypernatremia , hyperchloremia , and metabolic acidosis may occur with Ringer ’ s Injection .
+Conditions that may increase the risk of hypernatremia , fluid overload and edema ( peripheral and / or pulmonary ) , include patients with aldosteronism ; hypertension , congestive heart failure , liver disease , and pre - eclampsia .
+Certain medications , such as corticosteroids or corticotropin , may also increase risk of sodium and fluid retention , see DRUG INTERACTIONS .
+Avoid Ringer ’ s Injection in patients with , or at risk for , hypernatremia or hyperchloremia .
+Administration of Ringer ’ s Injection may result in acute kidney injury ( AKI ) in patients with or at risk for hyperchloremia .
+If use cannot be avoided , monitor serum sodium and chloride concentrations acid - base balance , and renal function .
+Hyponatremia Ringer ’ s Injection may lead to hyponatremia in at - risk patients .
+Hyponatremia can lead to acute hyponatremic encephalopathy characterized by headache , nausea , seizures , lethargy , and vomiting .
+Patients with brain edema are at particular risk of severe , irreversible and life - threatening brain injury .
+The risk of hospital - acquired hyponatremia is increased in patients with cardiac or pulmonary failure , and in patients with non - osmotic vasopressin release ( including SIADH ) treated with high volume of hypotonic Ringer ’ s Injection .
+The risk for hyponatremia is increased in pediatric patients , elderly patients , postoperative patients , those with psychogenic polydipsia , and in patients treated with medications that increase the risk of hyponatremia ( such as diuretics , certain antiepileptic and psychotropic medications ) .
+See DRUG INTERACTIONS .
+Patients at increased risk for developing complications of hyponatremia such as hyponatremic encephalopathy , include pediatric patients , women ( in particular , premenopausal women ) , patients with hypoxemia , and patients with underlying central nervous system disease .
+Avoid Ringer ’ s Injection in patients with or at risk for hyponatremia .
+If use cannot be avoided , monitor serum sodium concentrations .
+Rapid correction of hyponatremia is potentially dangerous with risk of serious neurologic complications .
+Brain adaptations reducing risk of cerebral edema make the brain vulnerable to injury when chronic hyponatremia is too rapidly corrected , which is known as osmotic demyelination syndrome ( ODS ) .
+To avoid complications , monitor serum sodium and chloride concentrations , fluid status , acid - base balance , and signs of neurologic complications .
+Fluid Overload Depending on the volume and rate of infusion , the patient ’ s underlying clinical condition , the intravenous administration of Ringer ’ s Injection can cause electrolyte disturbances such as overhydration and congested states including pulmonary congestion and edema .
+Avoid Ringer ’ s Injection in patients with or at risk for fluid and / or solute overloading .
+If use cannot be avoided , monitor fluid balance , electrolyte concentrations and acid base balance , as needed and especially during prolonged use .
+Hypercalcemia Ringer ’ s Injection may cause hypercalcemia .
+Avoid intravenous administration of Ringer ’ s Injection in patients with : hypercalcemia or conditions predisposing to hypercalcemia ; and in patients with calcium renal calculi or a history of such calculi .
+PRECAUTIONS Patients with Severe Renal Impairment Administration of Ringer ’ s Injection in patients with or at risk of severe renal impairment , may result in hyperkalemia , hypernatremia , hyperchloremia and / or fluid overload ( see WARNINGS ) .
+Avoid Ringer ’ s Injection in patients with severe renal impairment .
+If use cannot be avoided , monitor patients with severe renal impairment for development of these adverse reactions .
+Pregnancy Animal reproduction studies have not been conducted with Ringer ’ s Injection .
+It is also not known whether Ringer ’ s Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Ringer ’ s Injection should be given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus .
+Pediatric Use The use of Ringer ’ s Injection in pediatric patients is based on clinical practice .
+Pediatric patients are at increased risk of developing hyponatremia as well as for developing encephalopathy as a complication of hyponatremia ( see WARNINGS ) .
+Geriatric Use Geriatric patients are at increased risk of developing electrolyte imbalances .
+Ringer ' s Injection is known to be substantially excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Therefore , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+Consider monitoring renal function in elderly patients .
+DRUG INTERACTIONS Ceftriaxone For information on interaction with ceftriaxone – See CONTRAINDICATIONS .
+Other Products that Cause Hyperkalemia Administration of Ringer ’ s Injection in patients treated concurrently or recently with products that are associated with hyperkalemia increases the risk of severe and potentially fatal hyperkalemia , in particular in the presence of other risk factors for hyperkalemia .
+Avoid use of Ringer ’ s Injection in patients receiving such products ( e . g , potassium sparing diuretics , ACE inhibitors , angiotensin II receptor antagonists , or the immunosuppressants cyclosporine and tacrolimus ) .
+If use cannot be avoided , monitor serum potassium concentrations Digoxin Administration of calcium may increase the effects of digitalis and lead to serious or fatal cardiac arrhythmia .
+In patients treated with digoxin , consider reducing the volume , and / or rate of administration .
+Other Products that Affect Fluid and / or Electrolyte Balance Administration of Ringer ’ s Injection in patients treated concomitantly with medications associated with sodium and fluid retention may increase the risk of hypernatremia and volume overload .
+Avoid use of Ringer ’ s Injection in patients receiving such products , such as corticosteroids or corticotropin .
+If use cannot be avoided , monitor serum electrolytes , fluid balance , and acid - base balance .
+Other Drugs that Increase the Risk of Hyponatremia Administration of Ringer ’ s Injection in patients treated concomitantly with medications associated with hyponatremia may increase the risk of developing hyponatremia .
+Avoid use of Ringer ’ s Injection in patients receiving products , such as diuretics , and certain antiepileptic and psychotropic medications .
+Drugs that increase the vasopressin effect reduce renal electrolyte free water excretion and may also increase the risk of hyponatremia following treatment with intravenous fluids .
+If use cannot be avoided , monitor serum sodium concentrations .
+Other Drugs that Increase the Risk of Hypercalcemia Avoid Ringer ’ s Injection in patients treated with thiazide diuretics or vitamin D , as these can increase the risk of hypercalcemia .
+ADVERSE REACTIONS The following adverse reactions associated with the use of Ringer ’ s Injection were identified in clinical trials or postmarketing reports .
+Because these reactions were reported voluntarily from a population of uncertain size , it is not always possible to estimate their frequency , reliably , or to establish a causal relationship to drug exposure .
+Hypersensitivity reactions : anaphylaxis , shortness of breath , palpitations , erythema , hives , urticaria , chills , and pyrexia Metabolism and nutritional disorders : electrolyte imbalance , fluid overload , and hyponatremia Nervous System Disorders : hyponatremic encephalopathy .
+If an adverse reaction does occur , discontinue the infusion , evaluate the patient , institute appropriate therapeutic countermeasures , and save the remainder of the fluid for examination if deemed necessary .
+OVERDOSAGE Excessive administration of Ringer ’ s Injection can cause : • • hyperkalemia and hypernatremia , especially in patients with severe renal impairment .
+• • hyperchloremia .
+• • loss of bicarbonate with an acidifying effect .
+• • hypercalcemia .
+• • fluid overload ( which can lead to pulmonary and / or peripheral edema ) .
+See WARNINGS and ADVERSE REACTIONS .
+When assessing an overdose , any additives in the solution must also be considered .
+The effects of an overdose may require immediate medical attention and treatment .
+Interventions include discontinuation of Ringer ’ s Injection administration , dose reduction , and other measures as indicated for the specific clinical constellation ( e . g . , monitoring of fluid balance , electrolyte concentrations and acid base balance ) .
+DOSAGE AND ADMINISTRATION Important Administration Instructions • • Ringer ’ s Injection is intended for intravenous administration using sterile equipment .
+• • Do not connect flexible plastic containers in series in order to avoid air embolism due to possible residual air contained in the primary container .
+• • Set the vent to the closed position on a vented intravenous administration set to prevent air embolism .
+• • Use a dedicated line without any connections to avoid air embolism .
+• • Do not pressurize intravenous solutions contained in flexible plastic containers to increase flow rates in order to avoid air embolism due to incomplete evacuation of residual air in the container .
+• • Prior to infusion , visually inspect the solution for particulate matter and discoloration .
+The solution should be clear and there should be no precipitates .
+Do not administer unless solution is clear and container is undamaged .
+• • Do not administer Ringer ’ s Injection simultaneously with citrate anticoagulated / preserved blood through the same administration set because of the likelihood of coagulation precipitated by the calcium content of Ringer ’ s Injection .
+Dosing Information The choice of product , dosage , volume , rate , and duration of administration is dependent upon the age , weight and clinical condition of the patient and concomitant therapy , and administration should be determined by a physician experienced in intravenous fluid therapy .
+Introduction of Additives Additives may be incompatible .
+Evaluate all additions to the plastic container for compatibility and stability of the resulting preparation .
+Consult with a pharmacist , if available .
+Additives known to be incompatible with Ringer ’ s Injection due to precipitate formation are : amphotericin B , cortisone , erythromycin lactobionate , etamivan , ethyl alcohol , thiopental sodium , disodium edetate .
+If , in the informed judgment of the physician , it is deemed advisable to introduce additives , use aseptic technique .
+Mix thoroughly when additives have been introduced .
+After addition , if there is a discoloration and / or the appearance of precipitates , insoluble complexes or crystals , do not use .
+Do not store solutions containing additives .
+Discard any unused portion .
+HOW SUPPLIED Ringer ’ s Injection , USP in VIAFLEX plastic container is available as follows : Code Size ( mL ) NDC 2B2304 1000 0338 - 0105 - 04 Exposure of pharmaceutical products to heat should be minimized .
+Avoid excessive heat .
+It is recommended the product be stored between 20ºC to 25 ° C ( 68º F to 77 ° F ) .
+[ See USP controlled room temperature . ]
+; brief exposure up to 40 ° C ( 104 ° F ) does not adversely affect the product .
+DIRECTIONS FOR USE OF VIAFLEX PLASTIC CONTAINER For information on risk of air embolism – see PRECAUTIONS .
+To Open Tear overwrap down side at slit and remove solution container .
+Visually inspect the container .
+If the outlet port protector is damaged , detached , or not present , discard container as solution path sterility may be impaired .
+Some opacity of the plastic due to moisture absorption during the sterilization process may be observed .
+This is normal and does not affect the solution quality or safety .
+The opacity will diminish gradually .
+Check for minute leaks by squeezing inner bag firmly .
+If leaks are found , discard solution as sterility may be impaired .
+If supplemental medication is desired , follow directions below .
+Preparation for Administration • 1 .
+Suspend container from eyelet support .
+• 2 .
+Remove protector from outlet port at bottom of container .
+• 3 .
+Attach administration set .
+Refer to complete directions accompanying set .
+To Add Medication WARNING : Additives may be incompatible To add medication before solution administration • 1 .
+Prepare medication site .
+• 2 .
+Using syringe with 19 to 22 gauge needle , puncture medication port and inject .
+• 3 .
+Mix solution and medication thoroughly .
+For high density medication such as potassium chloride , squeeze ports while ports are upright and mix thoroughly .
+To add medication during solution administration • 1 .
+Close clamp on the set .
+• 2 .
+Prepare medication site .
+• 3 .
+Using syringe with 19 to 22 gauge needle , puncture resealable medication port and inject .
+• 4 .
+Remove container from IV pole and / or turn to an upright position .
+• 5 .
+Evacuate both ports by squeezing them while container is in the upright position .
+• 6 .
+Mix solution and medication thoroughly .
+• 7 .
+Return container to in use position and continue administration .
+Baxter Healthcare Corporation Deerfield , IL 60015 USA Printed in USA 07 - 19 - 00 - 0097 Rev . February 2019 Baxter and Viaflex are trademarks of Baxter International Inc .
+PRINCIPAL DISPLAY PANEL - PACKAGING LABELING [ MULTIMEDIA ] LOT EXP 2B2304 NDC 0338 - 0105 - 04 Ringer ' s Injection USP 1000 mL EACH 100 mL CONTAINS 860 mg SODIUM CHLORIDE USP 33 mg CALCIUM CHLORIDE USP 30 mg POTASSIUM CHLORIDE USP pH 5 . 5 ( 5 . 0 TO 7 . 5 ) pH MAY BE ADJUSTED WITH SODIUM HYDROXIDE mEq / L SODIUM 147 . 5 POTASSIUM 4 CALCIUM 4 . 5 CHLORIDE 156 OSMOLARITY 309 mOsmol / L ( CALC ) STERILE NONPYROGENIC SINGLE DOSE CONTAINER ADDITIVES MAY BE INCOMPATIBLE CONSULT WITH PHARMACIST IF AVAILABLE WHEN INTRODUCING ADDITIVES USE ASEPTIC TECHNIQUE MIX THOROUGHLY DO NOT STORE DOSAGE INTRAVENOUSLY AS DIRECTED BY A PHYSICIAN SEE DIRECTIONS CAUTIONS SQUEEZE AND INSPECT INNER BAG WHICH MAINTAINS PRODUCT STERILITY DISCARD IF LEAKS ARE FOUND MUST NOT BE USED IN SERIES CONNECTIONS DO NOT ADMINISTER SIMULTANEOUSLY WITH BLOOD DO NOT USE UNLESS SOLUTION IS CLEAR RX ONLY STORE UNIT IN MOISTURE BARRIER OVERWRAP AT ROOM TEMPERATURE ( 25ºC / 77ºF ) UNTIL READY TO USE AVOID EXCESSIVE HEAT SEE INSERT VIAFLEX CONTAINER PL 146 PLASTIC BAXTER VIAFLEX AND PL 146 ARE TRADEMARKS OF BAXTER INTERNATIONAL INC FOR PRODUCT INFORMATION 1 - 800 - 933 - 0303 Baxter Logo Baxter Healthcare Corporation Deerfield , IL 60015 USA Made in USA 1 2 3 4 5 6 7 8 9 [ MULTIMEDIA ] 2B2304Q 24 - 1000 ML VIAFLEX ® CONTAINER RINGER ' S INJECTION , USP EXP XXXXX SECONDARY BAR CODE ( 17 ) YYMM00 ( 10 ) XXXXX LOT XXXXX PRIMARY BAR CODE ( 01 ) 50303380105040 [ MULTIMEDIA ] [ MULTIMEDIA ]

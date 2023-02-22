@@ -1,0 +1,238 @@
+DESCRIPTION Targretin ® ( bexarotene ) gel 1 % contains bexarotene and is intended for topical application only .
+Bexarotene is a member of a subclass of retinoids that selectively activate retinoid X receptors ( RXRs ) .
+These retinoid receptors have biologic activity distinct from that of retinoic acid receptors ( RARs ) .
+The chemical name is 4 - [ 1 - ( 5 , 6 , 7 , 8 - tetrahydro - 3 , 5 , 5 , 8 , 8 - pentamethyl - 2 - naphthalenyl ) ethenyl ] benzoic acid , and the structural formula is as follows : [ MULTIMEDIA ] Bexarotene is an off - white to white powder with a molecular weight of 348 . 48 and a molecular formula of C24H28O2 .
+It is insoluble in water and slightly soluble in vegetable oils and ethanol , USP .
+Targretin gel is a clear gelled solution containing 1 . 0 % ( w / w ) bexarotene in a base of dehydrated alcohol , USP , polyethylene glycol 400 , NF , hydroxypropyl cellulose , NF , and butylated hydroxytoluene , NF .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Bexarotene selectively binds and activates retinoid X receptor subtypes ( RXRα , RXRβ , RXRγ ) .
+RXRs can form heterodimers with various receptor partners such as retinoic acid receptors ( RARs ) , vitamin D receptor , thyroid receptor , and peroxisome proliferator activator receptors ( PPARs ) .
+Once activated , these receptors function as transcription factors that regulate the expression of genes that control cellular differentiation and proliferation .
+Bexarotene inhibits the growth in vitro of some tumor cell lines of hematopoietic and squamous cell origin .
+It also induces tumor regression in vivo in some animal models .
+The exact mechanism of action of bexarotene in the treatment of cutaneous T - cell lymphoma ( CTCL ) is unknown .
+Pharmacokinetics General Plasma concentrations of bexarotene were determined during clinical studies in patients with CTCL or following repeated single or multiple - daily dose applications of Targretin gel 1 % for up to 132 weeks .
+Plasma bexarotene concentrations were generally less than 5 ng / mL and did not exceed 55 ng / mL .
+However , only two patients with very intense dosing regimens ( > 40 % BSA lesions and QID dosing ) were sampled .
+Plasma bexarotene concentrations and the frequency of detecting quantifiable plasma bexarotene concentrations increased with increasing percent body surface area treated and increasing quantity of Targretin gel applied .
+The sporadically observed and generally low plasma bexarotene concentrations indicated that , in patients receiving doses of low to moderate intensity , there is a low potential for significant plasma concentrations following repeated application of Targretin gel .
+Bexarotene is highly bound ( > 99 % ) to plasma proteins .
+The plasma proteins to which bexarotene binds have not been elucidated , and the ability of bexarotene to displace drugs bound to plasma proteins and the ability of drugs to displace bexarotene binding have not been studied ( see PRECAUTIONS , Protein Binding ) .
+The uptake of bexarotene by organs or tissues has not been evaluated .
+Metabolism Four bexarotene metabolites have been identified in plasma following oral administration of bexarotene : 6 - and 7 - hydroxy - bexarotene and 6 - and 7 - oxo - bexarotene .
+In vitro studies suggest that cytochrome P450 3A4 is the major cytochrome P450 responsible for formation of the oxidative metabolites and that the oxidative metabolites may be glucuronidated .
+The oxidative metabolites are active in in vitro assays of retinoid receptor activation , but the relative contribution of the parent and any metabolites to the efficacy and safety of Targretin gel is unknown .
+Elimination The renal elimination of bexarotene and its metabolites was examined in patients with Type 2 diabetes mellitus following oral administration of bexarotene .
+Neither bexarotene nor its metabolites were excreted in urine in appreciable amounts .
+Special Populations Elderly , Gender , Race : Because of a large number of immeasurable plasma concentrations ( < 1 ng / mL ) , any potential pharmacokinetic differences between Special Populations could not be assessed .
+Pediatric : Studies to evaluate bexarotene pharmacokinetics in the pediatric population have not been conducted ( see PRECAUTIONS , Pediatric Use ) .
+Renal Insufficiency : No formal studies have been conducted with Targretin gel in patients with renal insufficiency .
+Urinary elimination of bexarotene and its known metabolites is a minor excretory pathway ( < 1 % of an orally administered dose ) , but because renal insufficiency can result in significant protein binding changes , pharmacokinetics may be altered in patients with renal insufficiency ( see PRECAUTIONS , Renal Insufficiency ) .
+Hepatic Insufficiency : No specific studies have been conducted with Targretin gel in patients with hepatic insufficiency .
+Because less than 1 % of the dose of oral bexarotene is excreted in the urine unchanged and there is in vitro evidence of extensive hepatic contribution to bexarotene elimination , hepatic impairment would be expected to lead to greatly decreased clearance ( see PRECAUTIONS , Hepatic Insufficiency ) .
+Drug - Drug Interactions No formal studies to evaluate drug interactions with bexarotene or Targretin gel have been conducted .
+Bexarotene oxidative metabolites appear to be formed through cytochrome P450 3A4 .
+Drugs that affect levels or activity of cytochrome P450 3A4 may potentially affect the disposition of bexarotene .
+Concomitant gemfibrozil was associated with increased bexarotene concentrations following oral administration of bexarotene .
+Clinical Studies Targretin gel was evaluated for the treatment of patients with early stage ( Stage IA - IIA ) CTCL in one multicenter , open - label , clinical trial as well as in a Phase I - II program ( dose - seeking trials with different response criteria than the multicenter trial ) .
+These clinical studies enrolled a total of 117 patients .
+In the multicenter , open - label clinical trial , Targretin gel was evaluated for the treatment of patients with early stage CTCL who were refractory to , intolerant to , or reached a response plateau for at least six months on at least two prior therapies .
+The study was conducted in the U . S . , Canada , Europe , and Australia and enrolled a total of 50 patients ; 46 % of these patients were male , 80 % were Caucasian , and the median age was 64 years ( range 13 to 85 ) .
+Targretin gel was also evaluated for the treatment of patients with CTCL in a U . S . Phase I - II program involving patients with early stage CTCL .
+This program enrolled a total of 67 patients ; 55 % of these patients were male , 85 % were Caucasian , and the median age was 61 years ( range 30 to 87 ) .
+In the multicenter , open - label clinical trial , considering prior systemic , irradiation , and topical treatments , patients had been exposed to a median of three prior therapies ( range 2 - 7 ) .
+All patients failed at least two treatments ; the majority ( 68 % ) of patients were either refractory to two or more therapies or were refractory to one therapy and intolerant to at least one therapy .
+Patients were treated with Targretin gel 1 % for a planned 16 - week period with an option to continue provided that no unacceptable toxicity was occurring .
+Tumor response was assessed in the multicenter study by observation of up to five baseline - defined index lesions using a Composite Assessment of Index Lesion Disease Severity ( CA ) .
+This endpoint was based on a summation of the grades , for all index lesions , of erythema , scaling , plaque elevation , hypopigmentation or hyperpigmentation , and area of involvement .
+New cutaneous lesions or tumors and extracutaneous disease manifestations were not considered in response or disease progression assessments .
+All tumor responses required confirmation over at least two assessments separated by at least four weeks .
+A partial response was defined as an improvement of at least 50 % in the index lesions .
+A complete clinical response required complete disappearance of the index lesions , but did not require confirmation by biopsy .
+Targretin gel produced an overall response rate of 26 % ( 13 / 50 ) with a corresponding exact 95 % confidence interval from 14 . 6 % to 40 . 3 % by the Composite Assessment of Index Lesion Severity .
+For the Stage IA and IB patients , the response rate was 28 % ( 13 / 47 ) with a corresponding exact 95 % confidence interval from 15 . 6 % to 42 . 6 % .
+For the Stage II patients the response rate was 0 % ( 0 / 3 ) .
+Two percent of patients ( 1 / 50 ) had a clinical complete response .
+The median time to best response on the Composite Assessment of Index Lesion Severity ( n = 13 ) was 85 days ( range : 36 - 154 ) .
+The rate of relapse in responding patients by the Composite Assessment of Index Lesion Severity was 23 % ( 3 / 13 ) over a median observation period of 149 days ( range 56 - 342 ) .
+Fourteen patients developed new lesions in untreated areas ( 14 / 50 ; 28 % ) .
+Four patients developed clinically abnormal lymph nodes ( ≥ 1 cm diam ) ( 4 / 50 ; 8 % ) .
+One patient developed a cutaneous tumor ( 1 / 50 ; 2 % ) .
+The Phase I - II program ( dose - seeking trials with different response criteria than the multicenter trial ) was supportive of the multicenter study results .
+INDICATIONS AND USAGE Targretin ( bexarotene ) gel 1 % is indicated for the topical treatment of cutaneous lesions in patients with CTCL ( Stage IA and IB ) who have refractory or persistent disease after other therapies or who have not tolerated other therapies .
+CONTRAINDICATIONS Targretin gel 1 % is contraindicated in patients with a known hypersensitivity to bexarotene or other components of the product .
+Pregnancy Targretin gel 1 % may cause fetal harm when administered to a pregnant woman .
+Targretin gel must not be given to a pregnant woman or a woman who intends to become pregnant .
+If a woman becomes pregnant while taking Targretin gel , Targretin gel must be stopped immediately and the woman given appropriate counseling .
+Bexarotene caused malformations when administered orally to pregnant rats during days 7 - 17 of gestation .
+Developmental abnormalities included incomplete ossification at 4 mg / kg / day and cleft palate , depressed eye bulge / microphthalmia , and small ears at 16 mg / kg / day .
+At doses greater than 10 mg / kg / day , bexarotene caused developmental mortality .
+The no - effect oral dose in rats was 1 mg / kg / day .
+Plasma bexarotene concentrations in patients with CTCL applying Targretin gel 1 % were generally less than one hundredth the Cmax associated with dysmorphogenesis in rats , although some patients had Cmax levels that were approximately one eighth the concentration associated with dysmorphogenesis in rats .
+Women of child - bearing potential should be advised to avoid becoming pregnant when Targretin gel is used .
+The possibility that a woman of child - bearing potential is pregnant at the time therapy is instituted should be considered .
+A negative pregnancy test ( e . g . , serum beta - human chorionic gonadotropin , beta - HCG ) with a sensitivity of at least 50 mIU / L should be obtained within one week prior to Targretin gel therapy , and the pregnancy test must be repeated at monthly intervals while the patient remains on Targretin gel .
+Effective contraception must be used for one month prior to the initiation of therapy , during therapy and for at least one month following discontinuation of therapy ; it is recommended that two reliable forms of contraception be used simultaneously unless abstinence is the chosen method .
+Male patients with sexual partners who are pregnant , possibly pregnant , or who could become pregnant must use condoms during sexual intercourse while applying Targretin gel and for at least one month after the last dose of drug .
+Targretin gel therapy should be initiated on the second or third day of a normal menstrual period .
+No more than a one month supply of Targretin gel should be given to the patient so that the results of pregnancy testing can be assessed and counseling regarding avoidance of pregnancy and birth defects can be reinforced .
+PRECAUTIONS Pregnancy : See CONTRAINDICATIONS .
+General : Targretin gel should be used with caution in patients with a known hypersensitivity to other retinoids .
+No clinical instances of cross - reactivity have been noted .
+Vitamin A Supplementation : In clinical studies , patients were advised to limit vitamin A intake to ≤ 15 , 000 IU / day .
+Because of the relationship of bexarotene to vitamin A , patients should be advised to limit vitamin A supplements to avoid potential additive toxic effects .
+Photosensitivity : Retinoids as a class have been associated with photosensitivity .
+In vitro assays indicate that bexarotene is a potential photosensitizing agent .
+There were no reports of photosensitivity in patients in the clinical studies .
+Patients should be advised to minimize exposure to sunlight and artificial ultraviolet light during the use of Targretin gel .
+Information for Patients Please see accompanying “ Patient ’ s Instructions for Use ” .
+Drug - Drug Interactions Patients who are applying Targretin gel should not concurrently use products that contain DEET ( N , N - diethyl - m - toluamide ) , a common component of insect repellent products .
+An animal toxicology study showed increased DEET toxicity when DEET was included as part of the formulation .
+No formal studies to evaluate drug interactions with bexarotene have been conducted .
+Bexarotene oxidative metabolites appear to be formed through cytochrome P450 3A4 .
+On the basis of the metabolism of bexarotene by cytochrome P450 3A4 , concomitant ketoconazole , itraconazole , erythromycin and grapefruit juice could increase bexarotene plasma concentrations .
+Similarly , based on data that gemfibrozil increases bexarotene concentrations following oral bexarotene administration , concomitant gemfibrozil could increase bexarotene plasma concentrations .
+However , due to the low systemic exposure to bexarotene after low to moderately intense gel regimens ( see CLINICAL PHARMACOLOGY ) , increases that occur are unlikely to be of sufficient magnitude to result in adverse effects .
+No drug interaction data are available on concomitant administration of Targretin gel and other CTCL therapies .
+Renal Insufficiency No formal studies have been conducted with Targretin gel in patients with renal insufficiency .
+Urinary elimination of bexarotene and its known metabolites is a minor excretory pathway for bexarotene ( < 1 % of an orally administered dose ) , but because renal insufficiency can result in significant protein binding changes , and bexarotene is > 99 % protein bound , pharmacokinetics may be altered in patients with renal insufficiency .
+Hepatic Insufficiency No specific studies have been conducted with Targretin gel in patients with hepatic insufficiency .
+Because less than 1 % of the dose of oral bexarotene is excreted in the urine unchanged and there is in vitro evidence of extensive hepatic contribution to bexarotene elimination , hepatic impairment would be expected to lead to greatly decreased clearance .
+Protein Binding Bexarotene is highly bound ( > 99 % ) to plasma proteins .
+The plasma proteins to which bexarotene binds have not been elucidated , and the ability of bexarotene to displace drugs bound to plasma proteins and the ability of drugs to displace bexarotene binding have not been studied .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Long - term studies in animals to assess the carcinogenic potential of bexarotene have not been conducted .
+Bexarotene was not mutagenic to bacteria ( Ames assay ) or mammalian cells ( mouse lymphoma assay ) .
+Bexarotene was not clastogenic in vivo ( micronucleus test in mice ) .
+No formal fertility studies were conducted with bexarotene .
+Bexarotene caused testicular degeneration when oral doses of 1 . 5 mg / kg / day were given to dogs for 91 days .
+Use in Nursing Mothers It is not known whether bexarotene is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from bexarotene , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Of the total patients with CTCL in clinical studies of Targretin gel , 62 % were under 65 years and 38 % were 65 years or older .
+No overall differences in safety were observed between patients 65 years of age or older and younger patients , but greater sensitivity of some older individuals to Targretin gel cannot be ruled out .
+Responses to Targretin gel were observed across all age group decades , without preference for any individual age group decade .
+ADVERSE REACTIONS The safety of Targretin gel has been assessed in clinical studies of 117 patients with CTCL who received Targretin gel for up to 172 weeks .
+In the multicenter open - label study , 50 patients with CTCL received Targretin gel for up to 98 weeks .
+The mean duration of therapy for these 50 patients was 199 days .
+The most common adverse events reported with an incidence at the application site of at least 10 % in patients with CTCL were rash , pruritus , skin disorder , and pain .
+Adverse events leading to dose reduction or study drug discontinuation in at least two patients were rash , contact dermatitis , and pruritus .
+Of the 49 patients ( 98 % ) who experienced any adverse event , most experienced events categorized as mild ( 9 patients , 18 % ) or moderate ( 27 patients , 54 % ) .
+There were 12 patients ( 24 % ) who experienced at least one moderately severe adverse event .
+The most common moderately severe events were rash ( 7 patients , 14 % ) and pruritus ( 3 patients , 6 % ) .
+Only one patient ( 2 % ) experienced a severe adverse event ( rash ) .
+In the patients with CTCL receiving Targretin gel , adverse events reported regardless of relationship to study drug at an incidence of ≥ 5 % are presented in Table 1 .
+A similar safety profile for Targretin gel was demonstrated in the Phase I - II program .
+For the 67 patients enrolled in the Phase I - II program , the mean duration of treatment was 436 days ( range 12 - 1203 days ) .
+As in the multicenter study , the most common adverse events regardless of relationship to study drug in the Phase I - II program were rash ( 78 % ) , pain ( 40 % ) , and pruritus ( 40 % ) .
+Table 1 .
+Incidence of All Adverse Events * and Application Site Adverse Events with Incidence ≥ 5 % for All Application Frequencies of Targretin Gel in the Multicenter CTCL Study * Regardless of association with treatment Includes Investigator terms such as : 1 Contact dermatitis , irritant contact dermatitis , irritant dermatitis 2 Pruritus , itching , itching of lesion 3 Erythema , scaling , irritation , redness , rash , dermatitis 4 Skin inflammation , excoriation , sticky or tacky sensation of skin ; NOS = Not Otherwise Specified To report SUSPECTED ADVERSE REACTIONS , contact Bausch Health US , LLC at 1 - 800 - 321 - 4576 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+All Adverse Events Application Site Adverse Events COSTART 5 Body System / Preferred Term N = 50 n ( % ) N = 50 n ( % ) Skin and Appendages Contact Dermatitis1 7 ( 14 ) 4 ( 8 ) Exfoliative Dermatitis 3 ( 6 ) 0 Pruritus2 18 ( 36 ) 9 ( 18 ) Rash3 36 ( 72 ) 28 ( 56 ) Maculopapular Rash 3 ( 6 ) 0 Skin Disorder ( NOS ) 4 13 ( 26 ) 9 ( 18 ) Sweating 3 ( 6 ) 0 Body as a Whole Asthenia 3 ( 6 ) 0 Headache 7 ( 14 ) 0 Infection 9 ( 18 ) 0 Pain 15 ( 30 ) 9 ( 18 ) Cardiovascular Edema 5 ( 10 ) 0 Peripheral Edema 3 ( 6 ) 0 Hemic and Lymphatic Leukopenia 3 ( 6 ) 0 Lymphadenopathy 3 ( 6 ) 0 WBC Abnormal 3 ( 6 ) 0 Metabolic and Nutritional Hyperlipemia 5 ( 10 ) 0 Nervous Paresthesia 3 ( 6 ) 3 ( 6 ) Respiratory Cough Increased 3 ( 6 ) 0 Pharyngitis 3 ( 6 ) 0 OVERDOSAGE Systemic toxicity following acute overdosage with topical application of Targretin gel is unlikely because of low systemic plasma levels observed with normal therapeutic doses .
+There is no specific antidote for overdosage .
+There has been no experience with acute overdose of Targretin gel in humans .
+Any overdose with Targretin gel should be treated with supportive care for the signs and symptoms exhibited by the patient .
+DOSAGE AND ADMINISTRATION Targretin gel should be initially applied once every other day for the first week .
+The application frequency should be increased at weekly intervals to once daily , then twice daily , then three times daily and finally four times daily according to individual lesion tolerance .
+Generally , patients were able to maintain a dosing frequency of two to four times per day .
+Most responses were seen at dosing frequencies of two times per day and higher .
+If application site toxicity occurs , the application frequency can be reduced .
+Should severe irritation occur , application of drug can be temporarily discontinued for a few days until the symptoms subside .
+See CONTRAINDICATIONS , Pregnancy .
+Sufficient gel should be applied to cover the lesion with a generous coating .
+The gel should be allowed to dry before covering with clothing .
+Because unaffected skin may become irritated , application of the gel to normal skin surrounding the lesions should be avoided .
+In addition , do not apply the gel near mucosal surfaces of the body .
+A response may be seen as soon as four weeks after initiation of therapy but most patients require longer application .
+With continued application , further benefit may be attained .
+The longest onset time for the first response among the responders was 392 days based on the Composite Assessment of Index Lesion Severity in the multicenter study .
+In clinical trials , Targretin gel was applied for up to 172 weeks .
+Targretin gel should be continued as long as the patient is deriving benefit .
+Occlusive dressings should not be used with Targretin gel .
+Targretin gel is a topical therapy and is not intended for systemic use .
+Targretin gel has not been studied in combination with other CTCL therapies .
+HOW SUPPLIED Targretin gel is supplied in tubes containing 60 g ( 600 mg active bexarotene ) .
+60 g tube … … … … … … … … … … … … … … … NDC 0187 - 5525 - 60 Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ see USP Controlled Room Temperature ] .
+Avoid exposing to high temperatures and humidity after the tube is opened .
+Protect from light .
+• Distributed by : Bausch Health US , LLC Bridgewater , NJ 08807 USA • Manufactured by : DPT Laboratories , Ltd .
+San Antonio , TX 78215 USA Targretin is a trademark of Bausch Health Companies Inc . or its affiliates .
+© 2020 Bausch Health Companies Inc . or its affiliates Rev . 02 / 2020 9553902 Patient ’ s Instructions for Use Targretin ® ( bexarotene ) 1 % gel ( For Topical Use Only ) To help you get the full benefits from this medicine , you should read this leaflet carefully and ask your doctor to explain anything you do not understand .
+What are the most important things I should know about Targretin ® gel ?
+Do not use Targretin gel if you are pregnant or if you plan to become pregnant .
+• • Targretin gel may harm your fetus ( unborn baby ) .
+You should contact your doctor immediately if you believe or suspect you are pregnant while you are using Targretin gel and until one month after you stop using Targretin gel .
+• • If you are capable of becoming pregnant , you must have a pregnancy test , within one week before you start Targretin gel therapy and monthly while you are using Targretin gel , confirming you are not pregnant .
+• • You must use effective contraception ( birth control ) continuously starting one month before beginning treatment with Targretin gel until one month after you stop using Targretin gel .
+It is recommended that two reliable forms of contraception be used together .
+• • If you are male and your partner is pregnant or capable of becoming pregnant , you should discuss with your doctor the precautions you should take .
+What is Targretin gel ?
+Targretin ( tar - GRET - in ) gel contains bexarotene ( beks - AIR - oh - teen ) .
+Targretin gel belongs to a class of medicines known as retinoids .
+What are the uses for Targretin gel ?
+This medicine is used to treat the skin problems arising from a disease called cutaneous T - cell lymphoma , or CTCL .
+Your health care provider has prescribed Targretin for the topical treatment of the cutaneous T - cell lymphoma ( CTCL ) , or mycosis fungoides ( MF ) , lesions ( sometimes referred to as patches or plaques ) on your skin .
+Your doctor must instruct you on the proper use of Targretin gel .
+The following instructions will help you successfully begin and continue your treatment .
+Do not use Targretin gel if you are allergic to this medicine .
+Do not use Targretin gel if you are pregnant or believe you may be pregnant .
+If you have any of the following conditions , make sure you have discussed them with your doctor before you start to take this medicine .
+• • If you are breast feeding .
+• • If you are allergic to retinoid medications ( for example : Accutane [ isotretinoin ] , Soriatane [ acitretin ] , Tegison [ etretinate ] , Vesinoid [ tretinoin ] ) .
+When should you be extra careful while using Targretin gel ?
+• • Because vitamin A in large doses may cause some side effects which are similar to those seen in patients applying Targretin gel , do not take more than the recommended daily dietary allowance of vitamin A ( 4000 to 5000 International Units ) .
+If you take vitamins , check the label to see how much vitamin A they contain .
+If you are not sure , ask your doctor or pharmacist .
+• • Your skin may become more sensitive to sunlight while using this medicine .
+Minimize exposure to sunlight and do not use a sunlamp .
+WARNINGS For external use only .
+DO NOT apply the gel on or near mucosal surfaces of the body such as eyes , nostrils , mouth , lips , vagina , tip of the penis , rectum , or anus .
+DO NOT use insect repellents containing DEET ( N , N - diethyl - m - toluamide ) or other products containing DEET while using Targretin gel .
+Keep out of reach of children .
+Product contains alcohol and should be kept away from open flame .
+DO NOT use Targretin gel if you are pregnant or breastfeeding .
+Speak to your health care provider if you have any questions or need more information .
+HOW TO APPLY Apply Targretin gel to your CTCL lesions using a clean washed finger .
+Place a generous coating of gel over the entire surface of each lesion .
+You should not apply gel to the healthy skin around the lesion .
+The extra effort you take in carefully applying the gel only to the area of the CTCL lesion will help to lessen any irritation or redness that may occur .
+Proper application should leave some gel visible on the surface of the lesion when you are finished with the application .
+Immediately following application , wipe the finger ( s ) you have used to apply the gel with a disposable tissue and wash your hands using soap and water .
+Allow five ( 5 ) to ten ( 10 ) minutes for the gel to dry before covering a treated area with clothing .
+A mild non - deodorant soap is recommended when bathing or showering .
+If you apply Targretin gel after your shower or bath , you should wait 20 minutes before application .
+WHEN TO APPLY Targretin gel should be applied at an initial frequency of once every other day for the first week .
+The frequency of application should then be increased as tolerated at weekly intervals to once daily , then twice daily , then three times daily , and finally four times daily .
+Your health care provider may instruct you to apply Targretin gel at a different frequency .
+YOU SHOULD AVOID . . . You should avoid applying Targretin gel to areas of healthy skin around a CTCL lesion .
+Exposure of healthy skin to Targretin gel may cause unnecessary irritation or redness .
+You should avoid showering , bathing , or swimming until at least three ( 3 ) hours after any application , if possible .
+You should avoid covering the CTCL lesions treated with Targretin gel with any bandage or material other than loose clothing .
+You should avoid prolonged exposure of the treated area to sunlight or other ultraviolet ( UV ) light ( such as tanning lamps ) .
+You should avoid the use of other topical products on your treated CTCL lesions .
+You should avoid scratching the treated areas .
+WHAT SIDE EFFECTS DOES TARGRETIN GEL HAVE ?
+While using Targretin gel , you may experience some local effects such as redness , itching , burning , irritation , and scaling at the area of application .
+In clinical trials , the majority of these effects were mild or moderate , but some patients did experience more severe rash , itching , irritation , and inflammation .
+A few patients discontinued treatment due to these types of effects .
+Should these or other effects become troublesome to you , consult your health care provider .
+He or she can provide information on how to manage these effects .
+All medications have side effects .
+You should call your physician regarding any questions or concerns you may have when using Targretin gel .
+HOW QUICKLY CAN I EXPECT TARGRETIN GEL TO WORK ?
+Be patient .
+Targretin gel takes time to work .
+In clinical trials , some patients began to respond as early as 4 weeks , but most patients did not experience their best response until 48 to 62 weeks of treatment .
+Do not stop treatment at the first sign of improvement .
+Continue to use Targretin gel as instructed by your health care provider .
+OTHER INFORMATION The opening of the Targretin gel tube is covered by a metal safety seal .
+If this seal has been punctured or is not visible when you first open the package , DO NOT USE this tube and promptly return the product to your pharmacy or place of purchase .
+To open , use the pointed portion of the cap to puncture the metal safety seal .
+Always use the cap to close the tube tightly after each use .
+Store at room temperature .
+Keep away from heat or flame .
+The gel should not be used after the expiration date printed on the tube .
+Keep this medicine out of the reach and sight of children .
+IF YOU HAVE QUESTIONS . . . . If you have questions about your treatment , talk with your health care provider .
+All other product / brand names are trademarks of their respective owners .
+Distributed by : Bausch Health US , LLC Bridgewater , NJ 08807 USA Manufactured by : DPT Laboratories , Ltd .
+San Antonio , TX 78215 USA Targretin is a trademark of Bausch Health Companies Inc . or its affiliates .
+© 2020 Bausch Health Companies Inc . or its affiliates Rev . 02 / 2020 9553902 PRINCIPAL DISPLAY PANEL - Carton 60 grams NDC 0187 - 5525 - 60 Rx only Targretin ® ( bexarotene ) 1 % gel Net Wt .
+60 grams Not for Ophthalmic Use For Topical Use Only Ortho Dermatologics [ MULTIMEDIA ] [ MULTIMEDIA ]

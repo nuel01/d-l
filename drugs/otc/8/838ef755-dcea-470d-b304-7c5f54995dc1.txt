@@ -1,0 +1,359 @@
+DESCRIPTION Metoprolol tartrate is a selective beta1 - adrenoreceptor blocking agent , available as 50 and 100 mg tablets for oral administration .
+Metoprolol tartrate is 1 - ( isopropylamino ) - 3 - [ p - ( 2 - methoxyethyl ) phenoxy ] - 2 - propanol ( 2 : 1 ) dextro - tartrate salt , and its structural formula is : [ MULTIMEDIA ] ( C15H25NO3 ) 2 - C4H6O6 M . W . 684 . 82 Metoprolol tartrate is a white , practically odorless , crystalline powder .
+It is very soluble in water ; freely soluble in methylene chloride , in chloroform , and in alcohol ; slightly soluble in acetone ; and insoluble in ether . Metoprolol tartrate tablets USP , for oral administration , are available as tablets containing 50 mg or 100 mg of metoprolol tartrate .
+Inaddition each tablet contains the inactive ingredients : colloidal silicon dioxide , hypromellose , lactose ( hydrous ) , magnesium stearate , polyethylene glycol , povidone , propylene glycol , sodium starch glycolate , talc , titanium dioxide ; and in the 50 mg tablets DandC RedNo .
+30 aluminum lake and in the 100 mg tablets FDandC Blue No . 1 aluminum lake and FDandC Blue No . 2 aluminum lake .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Metoprolol tartrate is a beta - adrenergic receptor blocking agent .
+In vitro and in vivo animal studies have shown that it has a preferential effect on beta1 adrenoreceptors , chiefly located in cardiac muscle .
+This preferential effect is not absolute , however , and at higher doses , metoprolol tartrate also inhibits beta2 adrenoreceptors , chiefly located in the bronchial and vascular musculature .
+Clinical pharmacology studies have confirmed the beta - blocking activity of metoprolol in man , as shown by ( 1 ) reduction in heart rate and cardiac output at rest and upon exercise , ( 2 ) reduction of systolic blood pressure upon exercise , ( 3 ) inhibition of isoproterenol - induced tachycardia , and ( 4 ) reduction of reflex orthostatic tachycardia .
+Relative beta1 selectivity has been confirmed by the following : ( 1 ) In normal subjects , metoprolol is unable to reverse the beta2 - mediated vasodilating effects of epinephrine .
+This contrasts with the effect of nonselective ( beta1 plus beta2 ) beta blockers , which completely reverse the vasodilating effects of epinephrine .
+( 2 ) In asthmatic patients , metoprolol reduces FEV1 and FVC significantly less than a nonselective beta blocker , propranolol , at equivalent beta1 - receptor blocking doses .
+Metoprolol has no intrinsic sympathomimetic activity , and membrane - stabilizing activity is detectable only at doses much greater than required for beta blockade .
+Metoprolol crosses the blood - brain barrier and has been reported in the CSF in a concentration 78 % of the simultaneous plasma concentration .
+Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction .
+In controlled clinical studies , metoprolol tartrate has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide - type diuretics , at dosages of 100 to 450 mg daily .
+In controlled , comparative , clinical studies , metoprolol has been shown to be as effective an antihypertensive agent as propranolol , methyldopa , and thiazide - type diuretics , and to be equally effective in supine and standing positions .
+The mechanism of the antihypertensive effects of beta - blocking agents has not been elucidated .
+However , several possible mechanisms have been proposed : ( 1 ) competitive antagonism of catecholamines at peripheral ( especially cardiac ) adrenergic neuron sites , leading to decreased cardiac output ; ( 2 ) a central effect leading to reduced sympathetic outflow to the periphery ; and ( 3 ) suppression of renin activity .
+By blocking catecholamine - induced increases in heart rate , in velocity and extent of myocardial contraction , and in blood pressure , metoprolol reduces the oxygen requirements of the heart at any given level of effort , thus making it useful in the long - term management of angina pectoris .
+However , in patients with heart failure , beta - adrenergic blockade may increase oxygen requirements by increasing left ventricular fiber length and end - diastolic pressure .
+Although beta - adrenergic receptor blockade is useful in the treatment of angina and hypertension , there are situations in which sympathetic stimulation is vital .
+In patients with severely damaged hearts , adequate ventricular function may depend on sympathetic drive .
+In the presence of AV block , beta blockade may prevent the necessary facilitating effect of sympathetic activity on conduction .
+Beta2 - adrenergic blockade results in passive bronchial constriction by interfering with endogenous adrenergic bronchodilator activity in patients subject to bronchospasm and may also interfere with exogenous bronchodilators in such patients .
+In controlled clinical trials , metoprolol tartrate , administered two or four times daily , has been shown to be an effective antianginal agent , reducing the number of angina attacks and increasing exercise tolerance .
+The dosage used in these studies ranged from 100 to 400 mg daily .
+A controlled , comparative , clinical trial showed that metoprolol was indistinguishable from propranolol in the treatment of angina pectoris .
+In a large ( 1 , 395 patients randomized ) , double - blind , placebo - controlled clinical study , metoprolol was shown to reduce 3 month mortality by 36 % in patients with suspected or definite myocardial infarction .
+Patients were randomized and treated as soon as possible after their arrival in the hospital , once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated .
+Subjects were ineligible if they had hypotension , bradycardia , peripheral signs of shock , and / or more than minimal basal rales as signs of congestive heart failure .
+Initial treatment consisted of intravenous followed by oral administration of metoprolol tartrate or placebo , given in a coronary care or comparable unit .
+Oral maintenance therapy with metoprolol or placebo was then continued for 3 months .
+After this double - blind period , all patients were given metoprolol tartrate and followed up to 1 year .
+The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the metoprolol - and placebo - treatment groups .
+Among patients treated with metoprolol , there were comparable reductions in 3 month mortality for those treated early  ( ≤ 8 hours ) and those in whom treatment was started later .
+Significant reductions in the incidence of ventricular fibrillation and in chest pain following initial intravenous therapy were also observed with metoprolol and were independent of the interval between onset of symptoms and initiation of therapy .
+The precise mechanism of action of metoprolol in patients with suspected or definite myocardial infarction is not known .
+In this study , patients treated with metoprolol received the drug both very early ( intra - venously ) and during a subsequent 3 month period , while placebo patients received no beta - blocker treatment for this period .
+The study thus was able to show a benefit from the overall metoprolol regimen but cannot separate the benefit of very early intravenous treatment from the benefit of later beta - blocker therapy .
+Nonetheless , because the overall regimen showed a clear beneficial effect on survival without evidence of an early adverse effect on survival , one acceptable dosage regimen is the precise regimen used in the trial .
+Because the specific benefit of very early treatment remains to be defined however , it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta blockers .
+Pharmacokinetics In man , absorption of metoprolol is rapid and complete .
+Plasma levels following oral administration , however , approximate 50 % of levels following intravenous administration , indicating about 50 % first - pass metabolism .
+Plasma levels achieved are highly variable after oral administration .
+Only a small fraction of the drug ( about 12 % ) is bound to human serum albumin .
+Metoprolol is a racemic mixture of R - and S - enantiomers .
+Less than 5 % of an oral dose of metoprolol is recovered unchanged in the urine ; the rest is excreted by the kidneys as metabolites that appear to have no clinical significance .
+The systemic availability and half - life of metoprolol in patients with renal failure do not differ to a clinically significant degree from those in normal subjects .
+Consequently , no reduction in dosage is usually needed in patients with chronic renal failure .
+Metoprolol is extensively metabolized by the cytochrome P450 enzyme system in the liver .
+The oxidative metabolism of metoprolol is under genetic control with a major contribution of the polymorphic cytochrome P450 isoform 2D6 ( CYP2D6 ) .
+There are marked ethnic differences in the prevalence of the poor metabolizers ( PM ) phenotype .
+Approximately 7 % of Caucasians and less than 1 % Asian are poor metabolizers .
+Poor CYP2D6 metabolizers exhibit several - fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity .
+The elimination half - life of metoprolol is about 7 . 5 hours in poor metabolizers and 2 . 8 hours in extensive metabolizers .
+However , the CYP2D6 dependent metabolism of metoprolol seems to have little or no effect on safety or tolerability of the drug .
+None of the metabolites of metoprolol contribute significantly to its beta - blocking effect .
+Significant beta - blocking effect ( as measured by reduction of exercise heart rate ) occurs within 1 hour after oral administration , and its duration is dose - related .
+For example , a 50 % reduction of the maximum registered effect after single oral doses of 20 , 50 , and 100 mg occurred at 3 . 3 , 5 . 0 , and 6 . 4 hours , respectively , in normal subjects .
+After repeated oral dosages of 100 mg twice daily , a significant reduction in exercise systolic blood pressure was evident at 12 hours .
+Following intravenous administration of metoprolol , the urinary recovery of unchanged drug is approximately 10 % .
+When the drug was infused over a 10 minute period , in normal volunteers , maximum beta blockade was achieved at approximately 20 minutes .
+Doses of 5 mg and 15 mg yielded a maximal reduction in exercise - induced heart rate of approximately 10 % and 15 % , respectively .
+The effect on exercise heart rate decreased linearly with time at the same rate for both doses , and disappeared at approximately 5 hours and 8 hours for the 5 mg and 15 mg doses , respectively .
+Equivalent maximal beta - blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2 . 5 : 1 .
+There is a linear relationship between the log of plasma levels and reduction of exercise heart rate .
+However , antihypertensive activity does not appear to be related to plasma levels .
+Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to dose , selection of proper dosage requires individual titration .
+In several studies of patients with acute myocardial infarction , intravenous followed by oral administration of metoprolol caused a reduction in heart rate , systolic blood pressure , and cardiac output .
+Stroke volume , diastolic blood pressure , and pulmonary artery end diastolic pressure remained unchanged .
+In patients with angina pectoris , plasma concentration measured at 1 hour is linearly related to the oral dose within the range of 50 to 400 mg .
+Exercise heart rate and systolic blood pressure are reduced in relation to the logarithm of the oral dose of metoprolol .
+The increase in exercise capacity and the reduction in left ventricular ischemia are also significantly related to the logarithm of the oral dose .
+In elderly subjects with clinically normal renal and hepatic function , there are no significant differences in metoprolol pharmacokinetics compared to young subjects .
+INDICATIONS AND USAGE Hypertension Metoprolol tartrate tablets are indicated for the treatment of hypertension .
+They may be used alone or in combination with other antihypertensive agents .
+Angina Pectoris Metoprolol tartrate tablets are indicated in the long - term treatment of angina pectoris .
+Myocardial Infarction Metoprolol tartrate tablets are indicated in the treatment of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality .
+Treatment with intravenous metoprolol tartrate can be initiated as soon as the patient ' s clinical condition allows ( see DOSAGE AND ADMINISTRATION , CONTRAINDICATIONS , and WARNINGS ) .
+Alternatively , treatment can begin within 3 to 10 days of the acute event ( see DOSAGE AND ADMINISTRATION ) .
+CONTRAINDICATIONS Hypertension and Angina Metoprolol tartrate is contraindicated in sinus bradycardia , heart block greater than first degree , cardiogenic shock , and overt cardiac failure ( see WARNINGS ) .
+Hypersensitivity to metoprolol and related derivatives , or to any of the excipients ; hypersensitivity to other beta blockers ( cross sensitivity between beta blockers can occur ) .
+Sick - sinus syndrome .
+Severe peripheral arterial circulatory disorders .
+Myocardial Infarction Metoprolol is contraindicated in patients with a heart rate less than 45 beats / min ; second - and third - degree heart block ; significant first - degree heart block ( P - R interval greater than or equal to 0 . 24 sec ) ; systolic blood pressure less than 100 mmHg ; or moderate - to - severe cardiac failure ( see WARNINGS ) .
+WARNINGS Hypertension and Angina Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure , and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure .
+In hypertensive and angina patients who have congestive heart failure controlled by digitalis and diuretics , metoprolol should be administered cautiously .
+In Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta - blocking agents over a period of time can , in some cases , lead to cardiac failure .
+At the first sign or symptom of impending cardiac failure , patients should be fully digitalized and / or given a diuretic .
+The response should be observed closely .
+If cardiac failure continues , despite adequate digitalization and diuretic therapy , metoprolol should be withdrawn .
+Bronchospastic Diseases PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD , IN GENERAL , NOT RECEIVE BETA BLOCKERS , including metoprolol .
+Because of its relative beta1 selectivity , however , metoprolol may be used with caution in patients with bronchospastic disease who do not respond to , or cannot tolerate , other antihypertensive treatment .
+Since beta1 selectivity is not absolute , a beta2 - stimulating agent should be administered concomitantly , and the lowest possible dose of metoprolol tartrate should be used .
+In these circumstances it would be prudent initially to administer metoprolol in smaller doses three times daily , instead of larger doses two times daily , to avoid the higher plasma levels associated with the longer dosing interval ( see DOSAGE AND ADMINISTRATION ) .
+Major Surgery The necessity or desirability of withdrawing beta - blocking therapy , including metoprolol , prior to major surgery is controversial ; the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures .
+Metoprolol , like other beta blockers , is a competitive inhibitor of beta - receptor agonists , and its effects can be reversed by administration of such agents , e . g . , dobutamine or isoproterenol .
+However , such patients may be subject to protracted severe hypotension .
+Difficulty in restarting and maintaining the heart beat has also been reported with beta blockers .
+Diabetes and Hypoglycemia Metoprolol should be used with caution in diabetic patients if a beta - blocking agent is required .
+Beta blockers may mask tachycardia occurring with hypoglycemia , but other manifestations such as dizziness and sweating may not be significantly affected .
+Pheochromocytoma If metoprolol is used in the setting of pheochromocytoma , it should be given in combination with an alpha blocker , and only after the alpha blocker has been initiated .
+Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta - mediated vasodilatation in skeletal muscle .
+Thyrotoxicosis Beta - adrenergic blockade may mask certain clinical signs ( e . g . , tachycardia ) of hyperthyroidism .
+Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta blockade , which might precipitate a thyroid storm .
+Myocardial Infarction Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function , and beta blockade carries the potential hazard of depressing myocardial contractility and precipitating or exacerbating minimal cardiac failure .
+During treatment with metoprolol , the hemodynamic status of the patient should be carefully monitored .
+If heart failure occurs or persists despite appropriate treatment , metoprolol should be discontinued .
+Bradycardia Metoprolol produces a decrease in sinus heart rate in most patients ; this decrease is greatest among patients with high initial heart rates and least among patients with low initial heart rates .
+Acute myocardial infarction ( particularly inferior infarction ) may in itself produce significant lowering of the sinus rate .
+If the sinus rate decreases to less than 40 beats / min , particularly if associated with evidence of lowered cardiac output , atropine ( 0 . 25 to 0 . 5 mg ) should be administered intravenously .
+If treatment with atropine is not successful , metoprolol should be discontinued , and cautious administration of isoproterenol or installation of a cardiac pacemaker should be considered .
+AV Block Metoprolol slows AV conduction and may produce significant first - ( P - R interval greater than or equal to 0 . 26 sec ) , second - , or third - degree heart block .
+Acute myocardial infarction also produces heart block .
+If heart block occurs , metoprolol should be discontinued and atropine ( 0 . 25 to 0 . 5 mg ) should be administered intravenously .
+If treatment with atropine is not successful , cautious administration of isoproterenol or installation of a cardiac pacemaker should be considered .
+Hypotension If hypotension ( systolic blood pressure less than or equal to 90 mmHg ) occurs , metoprolol should be discontinued , and the hemodynamic status of the patient and the extent of myocardial damage carefully assessed .
+Invasive monitoring of central venous , pulmonary capillary wedge , and arterial pressures may be required .
+Appropriate therapy with fluids , positive inotropic agents , balloon counterpulsation , or other treatment modalities should be instituted .
+If hypotension is associated with sinus bradycardia or AV block , treatment should be directed at reversing these ( see above ) .
+Bronchospastic Diseases PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD , IN GENERAL , NOT RECEIVE BETA BLOCKERS , including metoprolol .
+Because of its relative beta1 selectivity , metoprolol may be used with extreme caution in patients with bronchospastic disease .
+Because it is unknown to what extent beta2 - stimulating agents may exacerbate myocardial ischemia and the extent of infarction , these agents should not be used prophylactically .
+If bronchospasm not related to congestive heart failure occurs , metoprolol should be discontinued .
+A theophylline derivative or a beta2 agonist may be administered cautiously , depending on the clinical condition of the patient .
+Both theophylline derivatives and beta2 agonists may produce serious cardiac arrhythmias .
+Ischemic Heart Disease Following abrupt cessation of therapy with certain beta - blocking agents , exacerbations of angina pectoris and , in some cases , myocardial infarction have occurred .
+When discontinuing chronically administered metoprolol , particularly in patients with ischemic heart disease , the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored .
+If angina markedly worsens or acute coronary insufficiency develops , metoprolol administration should be reinstated promptly , at least temporarily , and other measures appropriate for the management of unstable angina should be taken .
+Patients should be warned against interruption or discontinuation of therapy without the physician ' s advice .
+Because coronary artery disease is common and may be unrecognized , it may be prudent not to discontinue metoprolol therapy abruptly even in patients treated only for hypertension .
+PRECAUTIONS General Metoprolol should be used with caution in patients with impaired hepatic function .
+Information for Patients Patients should be advised to take metoprolol regularly and continuously , as directed , with or immediately following meals .
+If a dose should be missed , the patient should take only the next scheduled dose ( without doubling it ) .
+Patients should not discontinue metoprolol without consulting the physician .
+Patients should be advised ( 1 ) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient ' s response to therapy with metoprolol has been determined ; ( 2 ) to contact the physician if any difficulty in breathing occurs ; ( 3 ) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol .
+Drug Interactions Catecholamine - depleting drugs ( e . g . , reserpine ) may have an additive effect when given with beta - blocking agents .
+Patients treated with metoprolol plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia , which may produce vertigo , syncope , or postural hypotension .
+Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate .
+Concomitant use can increase the risk of bradycardia .
+Risk of Anaphylactic Reaction While taking beta blockers , patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge , either accidental , diagnostic , or therapeutic .
+Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction .
+General Anesthetics Some inhalation anesthetics may enhance the cardiodepressant effect of beta blockers ( see WARNINGS , Major Surgery ) .
+CYP2D6 Inhibitors Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol .
+Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer ( see Pharmacokinetics ) .
+Caution should therefore be exercised when coadministering potent CYP2D6 inhibitors with metoprolol .
+Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluoxetine , paroxetine or bupropion , antipsychotics such as thioridazine , antiarrhythmics such as quinidine or propafenone , antiretrovirals such as ritonavir , antihistamines such as diphenhydramine , antimalarials such as hydroxychloroquine or quinidine , antifungals such as terbinafine and medications for stomach ulcers such as cimetidine .
+Clonidine If a patient is treated with clonidine and metoprolol concurrently , and clonidine treatment is to be discontinued , metoprolol should be stopped several days before clonidine is withdrawn .
+Rebound hypertension that can follow withdrawal of clonidine may be increased in patients receiving concurrent beta - blocker treatment .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Long - term studies in animals have been conducted to evaluate carcinogenic potential .
+In a 2 year study in rats at three oral dosage levels of up to 800 mg / kg per day , there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type .
+The only histologic changes that appeared to be drug related were an increased incidence of generally mild focal accumulation of foamy macrophages in pulmonary alveoli and a slight increase in biliary hyperplasia .
+In a 21 month study in Swiss albino mice at three oral dosage levels of up to 750 mg / kg per day , benign lung tumors ( small adenomas ) occurred more frequently in female mice receiving the highest dose than in untreated control animals .
+There was no increase in malignant or total ( benign plus malignant ) lung tumors , or in the overall incidence of tumors or malignant tumors .
+This 21 month study was repeated in CD - 1 mice , and no statistically or biologically significant differences were observed between treated and control mice of either sex for any type of tumor .
+All mutagenicity tests performed ( a dominant lethal study in mice , chromosome studies in somatic cells , a Salmonella / mammalian - microsome mutagenicity test , and a nucleus anomaly test in somatic interphase nuclei ) were negative .
+No evidence of impaired fertility due to metoprolol was observed in a study performed in rats at doses up to 55 . 5 times the maximum daily human dose of 450 mg .
+Pregnancy Category C Metoprolol has been shown to increase postimplantation loss and decrease neonatal survival in rats at doses up to 55 . 5 times the maximum daily human dose of 450 mg .
+Distribution studies in mice confirm exposure of the fetus when metoprolol is administered to the pregnant animal .
+These studies have revealed no evidence of impaired fertility or teratogenicity .
+There are no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+Nursing Mothers Metoprolol is excreted in breast milk in a very small quantity .
+An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug .
+Caution should be exercised when metoprolol is administered to a nursing woman .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Clinical trials of metoprolol tartrate in hypertension did not include sufficient numbers of elderly patients to determine whether patients over 65 years of age differ from younger subjects in their response to metoprolol tartrate .
+Other reported clinical experience in elderly hypertensive patients has not identified any difference in response from younger patients .
+In worldwide clinical trials of metoprolol tartrate in myocardial infarction , where approximately 478 patients were over 65 years of age ( 0 over 75 years of age ) , no age - related differences in safety and effectiveness were found .
+Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients .
+However , greater sensitivity of some elderly individuals taking metoprolol tartrate cannot be categorically ruled out .
+Therefore , in general , it is recommended that dosing proceed with caution in this population .
+ADVERSE REACTIONS Hypertension and Angina Most adverse effects have been mild and transient .
+Central Nervous System Tiredness and dizziness have occurred in about 10 of 100 patients .
+Depression has been reported in about 5 of 100 patients .
+Mental confusion and short - term memory loss have been reported .
+Headache , nightmares , and insomnia have also been reported .
+Cardiovascular Shortness of breath and bradycardia have occurred in approximately 3 of 100 patients .
+Cold extremities ; arterial insufficiency , usually of the Raynaud type ; palpitations ; congestive heart failure ; peripheral edema ; and hypotension have been reported in about 1 of 100 patients .
+Gangrene in patients with preexisiting severe peripheral circulatory disorders has also been reported very rarely ( see CONTRAINDICATIONS , WARNINGS , and PRECAUTIONS ) .
+Respiratory Wheezing ( bronchospasm ) and dyspnea have been reported in about 1 of 100 patients ( see WARNINGS ) .
+Rhinitis has also been reported .
+Gastrointestinal Diarrhea has occurred in about 5 of 100 patients .
+Nausea , dry mouth , gastric pain , constipation , flatulence , and heartburn have been reported in about 1 of 100 patients .
+Vomiting was a common occurrence .
+Postmarketing experience reveals very rare reports of hepatitis , jaundice and non - specific hepatic dysfunction .
+Isolated cases of transaminase , alkaline phosphatase , and lactic dehydrogenase elevations have also been reported .
+Hypersensitive Reactions Pruritus or rash have occurred in about 5 of 100 patients .
+Very rarely , photosensitivity and worsening of psoriasis has been reported .
+Miscellaneous Peyronie ' s disease has been reported in fewer than 1 of 100 , 000 patients .
+Musculoskeletal pain , blurred vision , and tinnitus have also been reported .
+There have been rare reports of reversible alopecia , agranulocytosis , and dry eyes .
+Discontinuation of the drug should be considered if any such reaction is not otherwise explicable .
+There have been very rare reports of weight gain , arthritis , and retroperitoneal fibrosis ( relationship to metoprolol has not been definitely established ) .
+The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with metoprolol .
+Myocardial Infarction Central Nervous System Tiredness has been reported in about 1 of 100 patients .
+Vertigo , sleep disturbances , hallucinations , headache , dizziness , visual disturbances , confusion , and reduced libido have also been reported , but a drug relationship is not clear .
+Cardiovascular In the randomized comparison of metoprolol and placebo described in the CLINICAL PHARMACOLOGY section , the following adverse reactions were reported : Metoprolol Placebo Hypotension ( systolic BP less than 90 mmHg ) 27 . 4 % 23 . 2 % Bradycardia ( heart rate less than 40 beats / min ) 15 . 9 % 6 . 7 % Second - or third - degree heart block 4 . 7 % 4 . 7 % First - degree heart block ( P - R 0 . 26 sec ) 5 . 3 % 1 . 9 % Heart failure 27 . 5 % 29 . 6 % Respiratory Dyspnea of pulmonary origin has been reported in fewer than 1 of 100 patients .
+Gastrointestinal Nausea and abdominal pain have been reported in fewer than 1 of 100 patients .
+Dermatologic Rash and worsened psoriasis have been reported , but a drug relationship is not clear .
+Miscellaneous Unstable diabetes and claudication have been reported , but a drug relationship is not clear .
+Potential Adverse Reactions A variety of adverse reactions not listed above have been reported with other beta - adrenergic blocking agents and should be considered potential adverse reactions to metoprolol .
+Central Nervous System Reversible mental depression progressing to catatonia ; an acute reversible syndrome characterized by disorientation for time and place , short - term memory loss , emotional lability , slightly clouded sensorium , and decreased performance on neuropsychometrics .
+Cardiovascular Intensification of AV block ( see CONTRAINDICATIONS ) .
+Hematologic Agranulocytosis , nonthrombocytopenic purpura , thrombocytopenic purpura .
+Hypersensitivity Reactions Fever combined with aching and sore throat , laryngospasm , and respiratory distress .
+Postmarketing Experience The following adverse reactions have been reported during postapproval use of metoprolol : confusional state , an increase in blood triglycerides and a decrease in High Density Lipoprotein ( HDL ) .
+Because these reports are from a population of uncertain size and are subject to confounding factors , it is not possible to reliably estimate their frequency .
+OVERDOSAGE Acute Toxicity Several cases of overdosage have been reported , some leading to death .
+Oral LD50 ' s ( mg / kg ) : mice , 1158 to 2460 ; rats , 3090 to 4670 .
+Signs and Symptoms Potential signs and symptoms associated with overdosage with metoprolol are bradycardia , hypotension , bronchospasm , and cardiac failure .
+Treatment There is no specific antidote .
+In general , patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly ( see WARNINGS , Myocardial Infarction ) .
+On the basis of the pharmacologic actions of metoprolol , the following general measures should be employed : Elimination of the Drug Gastric lavage should be performed .
+Bradycardia Atropine should be administered .
+If there is no response to vagal blockade , isoproterenol should be administered cautiously .
+Hypotension A vasopressor should be administered , e . g . , levarterenol or dopamine .
+Bronchospasm A beta2 - stimulating agent and / or a theophylline derivative should be administered .
+Cardiac Failure A digitalis glycoside and diuretic should be administered .
+In shock resulting from inadequate cardiac contractility , administration of dobutamine , isoproterenol , or glucagon may be considered .
+DOSAGE AND ADMINISTRATION Hypertension The dosage of metoprolol tartrate tablets USP should be individualized .
+Metoprolol tartrate tablets should be taken with or immediately following meals .
+The usual initial dosage of metoprolol tartrate tablets USP is 100 mg daily in single or divided doses , whether used alone or added to a diuretic .
+The dosage may be increased at weekly ( or longer ) intervals until optimum blood pressure reduction is achieved .
+In general , the maximum effect of any given dosage level will be apparent after 1 week of therapy .
+The effective dosage range of metoprolol tartrate tablets USP is 100 to 450 mg per day .
+Dosages above 450 mg per day have not been studied .
+While once - daily dosing is effective and can maintain a reduction in blood pressure throughout the day , lower doses ( especially 100 mg ) may not maintain a full effect at the end of the 24 hour period , and larger or more frequent daily doses may be required .
+This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day .
+Beta1 selectivity diminishes as the dose of metoprolol is increased .
+Angina Pectoris The dosage of metoprolol tartrate tablets USP should be individualized .
+Metoprolol tartrate tablets should be taken with or immediately following meals .
+The usual initial dosage of metoprolol tartrate tablets USP 100 mg daily , given in two divided doses .
+The dosage may be gradually increased at weekly intervals until optimum clinical response has been obtained or there is pronounced slowing of the heart rate .
+The effective dosage range of metoprolol tartrate tablets USP is 100 to 400 mg per day .
+Dosages above 400 mg per day have not been studied .
+If treatment is to be discontinued , the dosage should be reduced gradually over a period of 1 to 2 weeks ( see WARNINGS ) .
+Myocardial Infarction Early Treatment During the early phase of definite or suspected acute myocardial infarction , treatment with metoprolol tartrate can be initiated as soon as possible after the patient ' s arrival in the hospital .
+Such treatment should be initiated in a coronary care or similar unit immediately after the patient ' s hemodynamic condition has stabilized .
+Treatment in this early phase should begin with the intravenous administration of three bolus injections of 5 mg of metoprolol tartrate each ; the injections should be given at approximately 2 minute intervals .
+During the intravenous administration of metoprolol , blood pressure , heart rate , and electrocardiogram should be carefully monitored .
+In patients who tolerate the full intravenous dose ( 15 mg ) , metoprolol tartrate tablets USP , 50 mg every 6 hours , should be initiated 15 minutes after the last intravenous dose and continued for 48 hours .
+Thereafter , patients should receive a maintenance dosage of 100 mg twice daily ( see Late Treatment below ) .
+Patients who appear not to tolerate the full intravenous dose should be started on metoprolol tartrate tablets USP either 25 mg or 50 mg every 6 hours ( depending on the degree of intolerance ) 15 minutes after the last intravenous dose or as soon as their clinical condition allows .
+In patients with severe intolerance , treatment with metoprolol should be discontinued ( see WARNINGS ) .
+Late Treatment Patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction , patients who appear not to tolerate the full early treatment , and patients in whom the physician wishes to delay therapy for any other reason should be started on metoprolol tartrate tablets USP , 100 mg twice daily , as soon as their clinical condition allows .
+Therapy should be continued for at least 3 months .
+Although the efficacy of metoprolol beyond 3 months has not been conclusively established , data from studies with other beta blockers suggest that treatment should be continued for 1 to 3 years .
+Note : Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+HOW SUPPLIED Metoprolol tartrate tablets , USP are available as : 50 mg tablets - round , biconvex , film - coated , pink , scored tablets , debossed " 93 " - " 733 " on the scored side , and plain on the other side .
+Packaged in bottles of 100 and 1000 .
+100 mg tablets - round , biconvex , film - coated , mottled - blue , scored tablets , debossed " 93 " - " 734 " on the scored side , and plain on the other side .
+Packaged in bottles of 100 and 1000 .
+Store at 20 o to 25 oC ( 68 o to 77 oF ) [ See USP Controlled Room Temperature ] .
+Protect from moisture .
+Dispense contents in a tight , light - resistant container as defined in the USP , with a child - resistant closure ( as required ) .
+Manufactured In India By : EMCURE PHARMACEUTICALS LTD .
+Hinjwadi , Pune , India Manufactured For : TEVA PHARMACEUTICALS USA Sellersville , PA 18960 Rev . J 11 / 2009 NDC 0093 - 0733 - 10 METOPROLOL TARTRATE Tablets USP 50 mg Each tablet contains : metoprolol tartrate , USP 50 mg R only 1000 TABLETS TEVN Usual Dosage : See package insert for full prescribing information .
+Store at 20 o to 25 oC ( 68 o to 77 oF ) [ See USP Controlled Room Temperature ] .
+Protect from moisture .
+This is a bulk package .
+Dispense contents in a tight , light - resistant container as defined in the USP , with a child - resistant closure ( as required ) .
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN .
+Code No . : MH / DRUGS / PD / 149 Rev . D 3 / 2006 Manufactured In India By : Emcure Pharmaceuticals LTD .
+Hinjwadi , Pune , India Manufactured For : TEVA PHARMACEUTICALS USA Sellersville , PA 18960 LOT : EXP : N3 0093 - 0733 - 10 9 510270035IN01 Hypertensa ™ PRODUCT INFORMATION Hypertensa ( U . S . patent pending ) capsules by oral administration .
+A specially formulated Medical Food product , consisting of a proprietary blend of amino acids and polyphenol ingredients in specific proportions , for the dietary management of the metabolic processes associated with hypertension ( HT ) .
+Must be administered under physician supervision .
+Medical Foods Medical Food products are often used in hospitals ( e . g . , for burn victims or kidney dialysis patients ) and outside of a hospital setting under a physician ’ s care ( e . g . , for PKU , AIDS patients , cardiovascular disease , sleep disorders ) for the dietary management of diseases in patients with particular medical or metabolic needs due to their disease or condition .
+Congress defined " Medical Food " in the Orphan Drug Act and Amendments of 1988 as " a system which is formulated to be consumed or administered enterally [ or orally ] under the supervision of a physician and which is intended for the specific dietary management f a disease or condition for which distinctive nutritional requirements , based on recognized scientific principles , are established by medical evaluation . "
+Medical Foods are complex formulated products , requiring sophisticated and exacting technology .
+Hypertensa has been developed , manufactured , and labeled in accordance with both the statutory and the FDA regulatory definition of a Medical Food .
+Hypertensa must be used while the patient is under the ongoing care of a physician .
+HYPERTENSION ( HT ) HT as a Metabolic Deficiency Disease A critical component of the definition of a Medical Food is the requirement for a distinctive nutritional deficiency .
+FDA scientists have proposed a physiologic definition of a distinctive nutritional deficiency as follows : “ the dietary management of patients with specific diseases requires , in some instances , the ability to meet nutritional requirements that differ substantially from the needs of healthy persons .
+For example , in establishing the recommended dietary allowances f r general , healthy population , the Food and Nutrition Board of the Institute of Medicine National Academy of Sciences , recognized that different or distinctive physiologic requirements may exist for certain persons with " special nutritional needs arising from metabolic disorders , chronic diseases , injuries , premature birth , other medical conditions and drug therapies .
+Thus , the distinctive nutritional needs associated with a disease reflect the total amount needed by a healthy person to support life or maintain homeostasis , adjusted for the distinctive changes in the nutritional needs of the patient as a result of the effects of the disease process on absorption , metabolism and excretion . ”
+It was also proposed that in patients with certain disease states who respond to nutritional therapies , a physiologic deficiency of the nutrient is assumed to exist .
+For example , if a patient with hypertension responds to an arginine formulation by decreasing the blood pressure , a deficiency of arginine is assumed to exist .
+Patients with hypertension are known to have nutritional deficiencies of arginine , choline , flavonoids , and certain antioxidants .
+Patients with hypertension frequently exhibit reduced plasma levels of arginine and have been shown to respond to oral administration of an arginine formulation .
+Research has shown that arginine reduced diets result in a fall of circulating arginine .
+Patients with hypertension have activation of the arginase pathway that diverts arginine from the production of nitric oxide to production of deleterious nitrogen molecules such as peroxynitrite leading to a reduced level of production of nitric oxide for a given arginine blood level .
+Research has also shown that a genetic predisposition can lead to increased arginine requirements in certain patients with hypertension .
+Arginine is required to fully potentiate nitric oxide synthesis by the arterioles .
+A deficiency of arginine leads to reduced nitric oxide production by the arterioles .
+Low fat diets , frequently used by patients with hypertension , are usually arginine deficient .
+Flavonoids potentiate the production of nitric oxide by the arterioles thereby reducing blood pressure in hypertensive patients .
+Low fat diets and diets deficient in flavonoid rich foods result in inadequate arginine and flavonoid concentrations , impeding nitric oxide production in certain patients with hypertension .
+Provision of arginine , choline , and flavonoids with antioxidants , in the correct proportions can restore the production of beneficial nitric oxide , thereby reducing blood pressure .
+PRODUCT DESCRIPTION Primary Ingredients Hypertensa consists of a proprietary blend of amino acids , cocoa , cinnamon and flavonoids in specific proportions .
+These ingredients fall into the category of Generally Regarded as Safe ” ( GRAS ) as defined by the Food and Drug Administration ( FDA ) ( Sections 201 ( s ) and 409 of the Federal Food , Drug , and Cosmetic Act ) .
+A GRAS substance is distinguished from a food additive on the basis of the common knowledge about the safety of the substance for its intended use .
+The standard for an ingredient to achieve GRAS status requires not only technical demonstration of non - toxicity and safety , but also general recognition of safety through widespread usage and agreement of that safety by experts in the field .
+Many ingredients have been determined by the U . S . Food and Drug Administration ( FDA ) to be GRAS , and are listed as such by regulation , in Volume 21 Code of Federal Regulations ( CFR ) Sections 182 , 184 , and 186 .
+Amino Acids Amino Acids are the building blocks of proteins .
+All amino acids are GRAS listed as they have been ingested by humans for thousands of years .
+The doses of the amino acids in Hypertensa are equivalent to those found in the usual human diet .
+Patients with hypertension may require an increased amount of certain amino acids that cannot be obtained from normal diet alone .
+Arginine , for example , is a conditional amino acid .
+The body can make arginine in the liver , but the liver produced arginine can only be used in the liver itself .
+Arginine is needed to produce nitric oxide ( NO ) .
+NO is required to dilate the constricted blood vessels that are the cause of high blood pressure .
+Patients with hypertension have an increase in the enzyme , arginase that degrades arginine before it can be used to produce NO .
+Some patients with hypertension have a resistance to the use of arginine that is similar to the mechanism found in insulin resistance that is genetically determined .
+Patients with hypertension cannot acquire sufficient arginine from the diet without ingesting a prohibitively large amount of calories , particularly calories from protein .
+.
+Flavonoids Flavonoids are a group of phytochemical compounds found in all vascular plants including fruits and vegetables .
+They are a part of a larger class of compounds known as polyphenols .
+Many of the therapeutic or health benefits of colored fruits and vegetables , cocoa , red wine , and green tea are directly related to their flavonoid content .
+The specially formulated flavonoids found in Hypertensa cannot be obtained from conventional foods in the necessary proportions to elicit a therapeutic response .
+Other Ingredients Hypertensa contains the following “ inactive ” or other ingredients , as fillers , excipients , and colorings : magnesium stearate , microcrystalline cellulose , Maltodextrin NF , gelatin ( as the capsule material ) , Physical Description Hypertensa is a yellow to light brown powder .
+Hypertensa contains L - Glutamine , L - Histadine , L - Arginine , L - Leucine , L - Cysteine , Whey Protein Hydrolysate , Choline Bitartrate , Cinnamon , Caffeine , Cocoa , Ginseng , and Grape Extract .
+CLINICAL PHARMACOLOGY Mechanism of Action Hypertensa acts by restoring and maintaining the balance of NO in patients with hypertension .
+Metabolism The amino acids in Hypertensa are primarily absorbed by the stomach and small intestines .
+All cells metabolize the amino acids in Hypertensa .
+Circulating arginine and choline blood levels determine the production of NO and acetylcholine .
+Excretion Hypertensa is not an inhibitor of cytochrome P450 1A2 , 2C9 , 2C19 , 2D6 , or 3A4 .
+These isoenzymes are principally responsible for 95 % of all detoxification of drugs , with CYP3A4 being responsible for detoxification of roughly 50 % of drugs .
+Amino acids do not appear to have an effect on drug metabolizing enzymes .
+INDICATIONS FOR USE Hypertensa is intended for the clinical dietary management of the metabolic processes in patients with hypertension .
+CLINICAL EXPERIENCE Administration of Hypertensa has demonstrated significant functional improvements in blood pressure when used for the dietary management of the metabolic processes associated with hypertension .
+Administration of Hypertensa results in the reduction of blood pressure in hypertensive patients .
+Hypertensa has no effect on normal blood pressure .
+PRECAUTIONS AND CONTRAINDICATIONS Hypertensa is contraindicated in an extremely small number of patients with hypersensitivity to any of the nutritional components of Hypertensa .
+ADVERSE REACTIONS Oral supplementation with L - arginine at high doses up to 15 grams daily is generally well tolerated .
+The most commonly reported adverse reactions at higher doses — from 15 to 30 grams daily — are nausea , abdominal cramps , and diarrhea .
+Some patients may experience these symptoms at lower doses .
+The total combined amount of amino acids in each Hypertensa capsule does not exceed 400 mg .
+DRUG INTERACTIONS Hypertensa does not directly influence the pharmacokinetics of prescription drugs .
+Clinical experience has shown that administration of Hypertensa may allow for lowering the dose of co - administered drugs under physician supervision .
+POST - MARKETING SURVEILLANCE Post - marketing surveillance has shown no serious adverse reactions .
+Reported cases of mild rash and itching may have been associated with allergies to Hypertensa flavonoid ingredients , including cocoa and chocolate .
+The reactions were transient in nature and subsided within 24 hours .
+OVERDOSE There is a negligible risk of overdose with Hypertensa as the total dosage of amino acids in a one month supply ( 90 capsules ) is less than 36 grams .
+Overdose symptoms may include diarrhea , weakness , and nausea DOSAGE AND ADMINISTRATION Recommended Administration For the dietary management of the metabolic processes associated with hypertension .
+Take ( 2 ) capsules once or twice daily , as directed by physician .
+As with most amino acid formulations Hypertensa should be taken without food to increase the absorption of key ingredients .
+How Supplied Hypertensa is supplied in green and white , size 0 capsules in bottles of 60 and 90 capsules .
+Physician Supervision Hypertensa is a Medical Food product available by prescription only , and must be used while the patient is under ongoing physician supervision .
+U . S . patent pending .
+Manufactured by Arizona Nutritional Supplements , Inc .
+Chandler AZ 85225 Distributed by Physician Therapeutics LLC , Los Angeles , CA 90077 .
+www . ptlcentral . com © Copyright 2003 - 2006 , Physician Therapeutics LLC , all rights reserved NDC : 68405 - 1007 - 02 NDC : 68405 - 1007 - 03 Storage Store at room temperature , 59 - 86 OF ( 15 - 30 OC ) Protect from light and moisture .
+Hypertensa is supplied to physicians in a recyclable plastic bottle with a child - resistant cap .
+PHYSICIAN THERAPEUTICS HYPERTENSA Medical Food Rx only 90 Capsules Directions for use : Must be administered under physician supervision .
+For adults only .
+As a Medical Food , take two ( 2 ) capsules four times daily in between meals or as directed by physician .
+For the dietary management of hypertension .
+Contains no added sugar , starch , wheat , yeast , preservatives , artifical flavor .
+Storage : Keep tightly closed in a cool dry place 8 - 320 C ( 45 - 900 F ) , relative humidity , below 50 % .
+Warning : Keep this product out of the reach of children .
+NDC # 68405 - 1007 - 03 Ingredients : Each serving ( per 2 capsules ) contains : Proprietary Amino Acid Blend L - Glutamine L - Histadine , L - Arginine , L - Leucine , L - Cysteine , Whey Protein Hydrolysate , Choline Bitatarate , Cinnamon ( bark ) , Caffeine , Cocoa ( 6 % Theobromine ) ( fruit ) , Ginseng , Grape Extract ( 20 % Polyphenol ) ( seed ) other indgredients : Tricalcium phosphate , gelatin , silicon dioxide , vegetable magnesium stearate , microcrystalline cellulose , chlorophyllin copper complex , titanium dioxide .
+Distributed exclusive by : A Division of Targeted Medical Pharma , Inc Los Angeles , CA 90077 www . ptlcentral . com Patent Pending For the Dietary Management of Hypertension .
+Two capsules twice daily or as directed by physician .
+See product label and insert .
+Hypertensa Medical Food A Convenience Packed Medical Food And Drug Hypertensolol PHYSICIAN THERAPEUTICS > Hypertensa 90 Capsules > Metoprolol 50 mg 30 Tablets No Refills without Physician Authorization Rx Only NDC # 68405 - 398 - 36 of this co - pack FRONT VIEW As prescribed by physician .
+See product label and product information insert .
+Metoprolol 50 mg Rx Drug 68405 - 8017 - 38 BACK VIEW [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

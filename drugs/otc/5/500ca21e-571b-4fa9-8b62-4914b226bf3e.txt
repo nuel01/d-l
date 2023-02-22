@@ -1,0 +1,222 @@
+DESCRIPTION Atenolol , a synthetic , beta1 - selective ( cardioselective ) adrenoreceptor blocking agent , may be chemically described as benzeneacetamide , 4 - [ 2 ’ - hydroxy - 3 ’ - [ ( 1 - methylethyl ) amino ] propoxy ] - .
+CLINICAL PHARMACOLOGY Atenolol is a beta1 - selective ( cardioselective ) beta - adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic ( partial agonist ) activities .
+This preferential effect is not absolute , however , and at higher doses , atenolol inhibits beta2 - adrenoreceptors , chiefly located in the bronchial and vascular musculature Pharmacokinetics and Metabolism In man , absorption of an oral dose is rapid and consistent but incomplete .
+Approximately 50 % of an oral dose is absorbed from the gastrointestinal tract , the remainder being excreted unchanged in the feces .
+Peak blood levels are reached between two ( 2 ) and four ( 4 ) hours after ingestion .
+Unlike propranolol or metoprolol , but like nadolol , atenolol undergoes little or no metabolism by the liver , and the absorbed portion is eliminated primarily by renal excretion .
+Over 85 % of an intravenous dose is excreted in urine within 24 hours compared with approximately 50 % for an oral dose .
+Atenolol also differs from propranolol in that only a small amount ( 6 % to 16 % ) is bound to proteins in the plasma .
+This kinetic profile results in relatively consistent plasma drug levels with about a fourfold interpatient variation .
+The elimination half - life of oral atenolol is approximately 6 to 7 hours , and there is no alteration of the kinetic profile of the drug by chronic administration .
+Following intravenous administration , peak plasma levels are reached within 5 minutes .
+Declines from peak levels are rapid ( 5 - to 10 - fold ) during the first 7 hours ; thereafter , plasma levels decay with a half - life similar to that of orally administered drug .
+Following oral doses of 50 mg or 100 mg , both beta - blocking and antihypertensive effects persist for at least 24 hours .
+When renal function is impaired , elimination of atenolol is closely related to the glomerular filtration rate ; significant accumulation occurs when the creatinine clearance falls below 35 mL / min / 1 . 73 m2 .
+( See DOSAGE AND ADMINISTRATION . )
+trend that the elimination of renally excreted drugs is decreased with increasing age INDICATIONS AND USAGE Hypertension Atenolol is indicated in the management of hypertension .
+It may be used alone or concomitantly with other antihypertensive agents , particularly with a thiazide - type diuretic .
+Angina Pectoris Due to Coronary Atherosclerosis Atenolol is indicated for the long - term management of patients with angina pectoris .
+Acute Myocardial Infarction Atenolol is indicated in the management of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality .
+Treatment can be initiated as soon as the patient ’ s clinical condition allows ( see DOSAGE AND ADMINISTRATION , CONTRAINDICATIONS , and WARNINGS ) .
+In general , there is no basis for treating patients like those who were excluded from the ISIS - 1 trial ( blood pressure less than 100 mm Hg systolic , heart rate less than 50 bpm ) or have other reasons to avoid beta - blockade .
+As noted above , some subgroups ( e . g . , elderly patients with systolic blood pressure below 120 mm Hg ) seemed less likely to benefit .
+CONTRAINDICATIONS Atenolol is contraindicated in sinus bradycardia , heart block greater than first degree , cardiogenic shock , and overt cardiac failure ( see WARNINGS ) .
+Atenolol is contraindicated in those patients with a history of hypersensitivity to the atenolol or any of the drug product ’ s components .
+WARNINGS Anaphylactoid and Possibly Related Reactions Presumably because angiotensin - converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides , including endogenous bradykinin , patients receiving ACE inhibitors ( including ALTACE ) may be subject to a variety of adverse reactions , some of them serious .
+Head and Neck Angioedema Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor .
+( See also CONTRAINDICATIONS . )
+Angioedema of the face , extremities , lips , tongue , glottis , and larynx has been reported in patients treated with angiotensin converting enzyme inhibitors .
+Angioedema associated with laryngeal edema can be fatal .
+If laryngeal stridor or angioedema of the face , tongue , or glottis occurs , treatment with ALTACE should be discontinued and appropriate therapy instituted immediately .
+Where there is involvement of the tongue , glottis , or larynx , likely to cause airway obstruction , appropriate therapy , e . g . , subcutaneous epinephrine solution 1 : 1 , 000 ( 0 . 3 mL to 0 . 5 mL ) should be promptly administered .
+( See ADVERSE REACTIONS . )
+Intestinal Angioedema Intestinal angioedema has been reported in patients treated with ACE inhibitors .
+These patients presented with abdominal pain ( with or without nausea or vomiting ) ; in some cases there was no prior history of facial angioedema and C - 1 esterase levels were normal .
+The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound , or at surgery , and symptoms resolved after stopping the ACE inhibitor .
+Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain .
+In a large U . S . postmarketing study , angioedema ( defined as reports of angio , face , larynx , tongue , or throat edema ) was reported in 3 / 1523 ( 0 . 20 % ) of black patients and in 8 / 8680 ( 0 . 09 % ) of white patients .
+These rates were not different statistically .
+Anaphylactoid reactions during desensitization : Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life - threatening anaphylactoid reactions .
+In the same patients , these reactions were avoided when ACE inhibitors were temporarily withheld , but they reappeared upon inadvertent rechallenge .
+Anaphylactoid reactions during membrane exposure : Anaphylactoid reactions have been reported in patients dialyzed with high - flux membranes and treated concomitantly with an ACE inhibitor .
+Anaphylactoid reactions have also been reported in patients undergoing low - density lipoprotein apheresis with dextran sulfate absorption .
+Hypotension ALTACE can cause symptomatic hypotension , after either the initial dose or a later dose when the dosage has been increased .
+Ramipril has been only rarely associated with hypotension in uncomplicated hypertensive patients .
+Symptomatic hypotension is most likely to occur in patients who have been volume - and / or salt - depleted as a result of prolonged diuretic therapy , dietary salt restriction , dialysis , diarrhea , or vomiting .
+Volume and / or salt depletion should be corrected before initiating therapy with ALTACE .
+In patients with congestive heart failure , with or without associated renal insufficiency , ACE inhibitor therapy may cause excessive hypotension , which may be associated with oliguria or azotemia and , rarely , with acute renal failure and death .
+In such patients , ALTACE therapy should be started under close medical supervision ; they should be followed closely for the first 2 weeks of treatment and whenever the dose of ramipril or diuretic is increased .
+If hypotension occurs , the patient should be placed in a supine position and , if necessary , treated with intravenous infusion of physiological saline .
+ALTACE treatment usually can be continued following restoration of blood pressure and volume .
+Hepatic Failure Rarely , ACE inhibitors , including ALTACE , have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and ( sometimes ) death .
+The mechanism of this syndrome is not understood .
+Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow - up .
+Neutropenia / Agranulocytosis As with other ACE inhibitors , rarely , a mild - in isolated cases severe - reduction in the red blood cell count and hemoglobin content , white blood cell or platelet count may develop .
+In isolated cases , agranulocytosis , pancytopenia , and bone marrow depression may occur .
+Hematological reactions to ACE inhibitors are more likely to occur in patients with collagen vascular disease ( e . g . systemic lupus erythematosus , scleroderma ) and renal impairment .
+Monitoring of white blood cell counts should be considered in patients with collagen vascular disease , especially if the disease is associated with impaired renal function .
+Fetal / Neonatal Morbidity and Mortality ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women .
+Several dozen cases have been reported in the world literature .
+When pregnancy is detected , ACE inhibitors should be discontinued as soon as possible .
+The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury , including hypotension , neonatal skull hypoplasia , anuria , reversible or irreversible renal failure , and death .
+Oligohydramnios has also been reported , presumably resulting from decreased fetal renal function ; oligohydramnios in this setting has been associated with fetal limb contractures , craniofacial deformation , and hypoplastic lung development .
+Prematurity , intrauterine growth retardation , and patent ductus arteriosus have also been reported , although it is not clear whether these occurrences were due to the ACE inhibitor exposure .
+In a published retrospective epidemiological study , infants whose mothers had taken an ACE inhibitor during their first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs .
+The number of cases of birth defects is small and the findings of this study have not yet been confirmed .
+Rarely ( probably less often than once in every thousand pregnancies ) , no alternative to ACE inhibitors will be found .
+In these rare cases , the mothers should be apprised of the potential hazards to their fetuses , and serial ultrasound examinations should be performed to assess the intraamniotic environment .
+If oligohydramnios is observed , ALTACE should be discontinued unless it is considered life - saving for the mother .
+Contraction stress testing ( CST ) , a non - stress test ( NST ) , or biophysical profiling ( BPP ) may be appropriate , depending upon the week of pregnancy .
+Patients and physicians should be aware , however , that oligohydramnios may not appear until after the fetus has sustained irreversible injury .
+Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension , oliguria , and hyperkalemia .
+If oliguria occurs , attention should be directed toward support of blood pressure and renal perfusion .
+Exchange transfusion or dialysis may be required as means of reversing hypotension and / or substituting for disordered renal function .
+ALTACE which crosses the placenta can be removed from the neonatal circulation by these means , but limited experience has not shown that such removal is central to the treatment of these infants .
+No teratogenic effects of ALTACE ( ramipril ) were seen in studies of pregnant rats , rabbits , and cynomolgus monkeys .
+On a body surface area basis , the doses used were up to approximately 400 times ( in rats and monkeys ) and 2 times ( in rabbits ) the recommended human dose .
+PRECAUTIONS Impaired Renal Function : As a consequence of inhibiting the renin - angiotensin - aldosterone system , changes in renal function may be anticipated in susceptible individuals .
+In patients with severe congestive heart failure whose renal function may depend on the activity of the renin - angiotensin - aldosterone system , treatment with angiotensin converting enzyme inhibitors , including ALTACE , may be associated with oliguria and / or progressive azotemia and ( rarely ) with acute renal failure and / or death .
+In hypertensive patients with unilateral or bilateral renal artery stenosis , increases in blood urea nitrogen and serum creatinine may occur .
+Experience with another angiotensin converting enzyme inhibitor suggests that these increases are usually reversible upon discontinuation of ALTACE and / or diuretic therapy .
+In such patients renal function should be monitored during the first few weeks of therapy .
+Some hypertensive patients with no apparent pre - existing renal vascular disease have developed increases in blood urea nitrogen and serum creatinine , usually minor and transient , especially when ALTACE has been given concomitantly with a diuretic .
+This is more likely to occur in patients with pre - existing renal impairment .
+Dosage reduction of ALTACE and / or discontinuation of the diuretic may be required .
+Evaluation of the hypertensive patient should always include assessment of renal function .
+( See DOSAGE AND ADMINISTRATION . )
+Hyperkalemia : In clinical trials , hyperkalemia ( serum potassium greater than 5 . 7 mEq / L ) occurred in approximately 1 % of hypertensive patients receiving ALTACE .
+In most cases , these were isolated values , which resolved despite continued therapy .
+None of these patients was discontinued from the trials because of hyperkalemia .
+Risk factors for the development of hyperkalemia include renal insufficiency , diabetes mellitus , and the concomitant use of potassium - sparing diuretics , potassium supplements , and / or potassium - containing salt substitutes , which should be used cautiously , if at all , with ALTACE .
+( See Drug Interactions . )
+Cough : Presumably due to the inhibition of the degradation of endogenous bradykinin , persistent nonproductive cough has been reported with all ACE inhibitors , always resolving after discontinuation of therapy .
+ACE inhibitor - induced cough should be considered in the differential diagnosis of cough .
+Impaired Liver Function : Since ramipril is primarily metabolized by hepatic esterases to its active moiety , ramiprilat , patients with impaired liver function could develop markedly elevated plasma levels of ramipril .
+No formal pharmacokinetic studies have been carried out in hypertensive patients with impaired liver function .
+However , since the renin - angiotensin system may be activated in patients with severe liver cirrhosis and / or ascites , particular caution should be exercised in treating these patients .
+Surgery / Anesthesia : In patients undergoing surgery or during anesthesia with agents that produce hypotension , ramipril may block angiotensin II formation that would otherwise occur secondary to compensatory renin release .
+Hypotension that occurs as a result of this mechanism can be corrected by volume expansion .
+Information for Patients Pregnancy : Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors during pregnancy .
+These patients should be asked to report pregnancies to their physicians as soon as possible .
+Angioedema : Angioedema , including laryngeal edema , can occur with treatment with ACE inhibitors , especially following the first dose .
+Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema ( swelling of face , eyes , lips , or tongue , or difficulty in breathing ) and to take no more drug until they have consulted with the prescribing physician .
+Symptomatic Hypotension : Patients should be cautioned that lightheadedness can occur , especially during the first days of therapy , and it should be reported .
+Patients should be told that if syncope occurs , ALTACE should be discontinued until the physician has been consulted .
+All patients should be cautioned that inadequate fluid intake or excessive perspiration , diarrhea , or vomiting can lead to an excessive fall in blood pressure , with the same consequences of lightheadedness and possible syncope .
+Hyperkalemia : Patients should be told not to use salt substitutes containing potassium without consulting their physician .
+Neutropenia : Patients should be told to promptly report any indication of infection ( e . g . , sore throat , fever ) , which could be a sign of neutropenia .
+Drug Interactions Gold : Nitritoid reactions ( symptoms include facial flushing , nausea , vomiting and hypotension ) have been reported rarely in patients on therapy with injectable gold ( sodium aurothiomalate ) and concomitant ACE inhibitor therapy including ALTACE .
+With nonsteroidal anti - inflammatory agents : Rarely , concomitant treatment with ACE inhibitors and nonsteroidal anti - inflammatory agents have been associated with worsening of renal failure and an increase in serum potassium .
+With diuretics : Patients on diuretics , especially those in whom diuretic therapy was recently instituted , may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ALTACE .
+The possibility of hypotensive effects with ALTACE can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with ALTACE .
+If this is not possible , the starting dose should be reduced .
+( See DOSAGE AND ADMINISTRATION . )
+With potassium supplements and potassium - sparing diuretics : ALTACE can attenuate potassium loss caused by thiazide diuretics .
+Potassium - sparing diuretics ( spironolactone , amiloride , triamterene , and others ) or potassium supplements can increase the risk of hyperkalemia .
+Therefore , if concomitant use of such agents is indicated , they should be given with caution , and the patient ’ s serum potassium should be monitored frequently .
+With lithium : Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium .
+These drugs should be coadministered with caution , and frequent monitoring of serum lithium levels is recommended .
+If a diuretic is also used , the risk of lithium toxicity may be increased .
+Other : Neither ALTACE nor its metabolites have been found to interact with food , digoxin , antacid , furosemide , cimetidine , indomethacin , and simvastatin .
+The combination of ALTACE and propranolol showed no adverse effects on dynamic parameters ( blood pressure and heart rate ) .
+The co - administration of ALTACE and warfarin did not adversely affect the anticoagulant effects of the latter drug .
+Additionally , co - administration of ALTACE with phenprocoumon did not affect minimum phenprocoumon levels or interfere with the subjects ’ state of anti - coagulation .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No evidence of a tumorigenic effect was found when ramipril was given by gavage to rats for up to 24 months at doses of up to 500 mg / kg / day or to mice for up to 18 months at doses of up to 1000 mg / kg / day .
+( For either species , these doses are about 200 times the maximum recommended human dose when compared on the basis of body surface area . )
+No mutagenic activity was detected in the Ames test in bacteria , the micronucleus test in mice , unscheduled DNA synthesis in a human cell line , or a forward gene - mutation assay in a Chinese hamster ovary cell line .
+Several metabolites and degradation products of ramipril were also negative in the Ames test .
+A study in rats with dosages as great as 500 mg / kg / day did not produce adverse effects on fertility .
+Pregnancy Pregnancy Categories C ( first trimester ) and D ( second and third trimesters ) .
+See WARNINGS : Fetal / Neonatal Morbidity and Mortality .
+Nursing Mothers Ingestion single 10 mg oral dose of ALTACE resulted in undetectable amounts of ramipril and its metabolites in breast milk .
+However , because multiple doses may produce low milk concentrations that are not predictable from single doses , women receiving ALTACE should not breast feed .
+Geriatric Use Of the total number of patients who received ramipril in US clinical studies of ALTACE 11 . 0 % were 65 and over while 0 . 2 % were 75 and over .
+No overall differences in effectiveness or safety were observed between these patients and younger patients , and other , reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals cannot be ruled out .
+One pharmacokinetic study conducted in hospitalized elderly patients indicated that peak ramiprilat levels and area under the plasma concentration time curve ( AUC ) for ramiprilat are higher in older patients .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Irreversible kidney damage has been observed in very young rats given a single dose of ramipril .
+ADVERSE REACTIONS Hypertension ALTACE has been evaluated for safety in over 4 , 000 patients with hypertension ; of these , 1 , 230 patients were studied in US controlled trials , and 1 , 107 were studied in foreign controlled trials .
+Almost 700 of these patients were treated for at least one year .
+The overall incidence of reported adverse events was similar in ALTACE and placebo patients .
+The most frequent clinical side effects ( possibly or probably related to study drug ) reported by patients receiving ALTACE in US placebo - controlled trials were : headache ( 5 . 4 % ) , “ dizziness ” ( 2 . 2 % ) and fatigue or asthenia ( 2 . 0 % ) , but only the last was more common in ALTACE patients than in patients given placebo .
+Generally , the side effects were mild and transient , and there was no relation to total dosage within the range of 1 . 25 to 20 mg .
+Discontinuation of therapy because of a side effect was required in approximately 3 % of US patients treated with ALTACE .
+The most common reasons for discontinuation were : cough ( 1 . 0 % ) , “ dizziness ” ( 0 . 5 % ) , and impotence ( 0 . 4 % ) .
+Of observed side effects considered possibly or probably related to study drug that occurred in US placebo - controlled trials in more than 1 % of patients treated with ALTACE , only asthenia ( fatigue ) was more common on ALTACE than placebo ( 2 % vs 1 % ) .
+PATIENTS IN US PLACEBO CONTROLLED STUDIES ALTACE ( n = 651 ) Placebo ( n = 286 ) n % n % Asthenia ( Fatigue ) 13 2 2 1 In placebo - controlled trials , there was also an excess of upper respiratory infection and flu syndrome in the ramipril group , not attributed at that time to ramipril .
+As these studies were carried out before the relationship of cough to ACE inhibitors was recognized , some of these events may represent ramipril - induced cough .
+In a later 1 - year study , increased cough was seen in almost 12 % of ramipril patients , with about 4 % of these patients requiring discontinuation of treatment .
+Heart Failure Post Myocardial Infarction Adverse reactions ( except laboratory abnormalities ) considered possibly / probably related to study drug that occurred in more than one percent of patients and more frequently on ramipril are shown below .
+The incidences represent the experiences from the AIRE study .
+The follow - up time was between 6 and 46 months for this study .
+Percentage of Patients with Adverse Events Possibly / Probably Related to Study Drug Placebo - Controlled ( AIRE ) Mortality Study : Adverse Event RAMIPRIL ( N = 1004 ) PLACEBO ( N = 982 ) Hypotension 11 5 Cough Increased 8 4 Dizziness 4 3 Angina Pectoris 3 2 Nausea 2 1 Postural Hypotension 2 1 Syncope 2 1 Vomiting 2 0 . 5 Vertigo 2 0 . 7 Abnormal Kidney Function 1 0 . 5 Diarrhea 1 0 . 4 HOPE Study : Safety data in the HOPE trial were collected as reasons for discontinuation or temporary interruption of treatment .
+The incidence of cough was similar to that seen in the AIRE trial .
+The rate of angioedema was the same as in previous clinical trials ( see WARNINGS ) .
+RAMIPRIL ( N = 4645 ) PLACEBO ( N = 4652 ) % % Discontinuation at any time 34 32 Permanent discontinuation 29 28 Reasons for stopping Cough 7 2 Hypotension or Dizziness 1 . 9 1 . 5 Angioedema 0 . 3 0 . 1 Other adverse experiences reported in controlled clinical trials ( in less than 1 % of ramipril patients ) , or rarer events seen in postmarketing experience , include the following ( in some , a causal relationship to drug use is uncertain ) : Body As a Whole : Anaphylactoid reactions .
+( See WARNINGS . )
+Cardiovascular : Symptomatic hypotension ( reported in 0 . 5 % of patients in US trials ) ( See WARNINGS and PRECAUTIONS ) , syncope and palpitations .
+Hematologic : Pancytopenia , hemolytic anemia and thrombocytopenia .
+Renal : Some hypertensive patients with no apparent pre - existing renal disease have developed minor , usually transient , increases in blood urea nitrogen and serum creatinine when taking ALTACE , particularly when ALTACE was given concomitantly with a diuretic .
+( See WARNINGS . )
+Acute renal failure .
+Angioneurotic Edema : Angioneurotic edema has been reported in 0 . 3 % of patients in US clinical trials .
+( See WARNINGS . )
+Gastrointestinal : Hepatic failure , hepatitis , jaundice , pancreatitis , abdominal pain ( sometimes with enzyme changes suggesting pancreatitis ) , anorexia , constipation , diarrhea , dry mouth , dyspepsia , dysphagia , gastroenteritis , increased salivation and taste disturbance .
+Dermatologic : Apparent hypersensitivity reactions ( manifested by urticaria , pruritus , or rash , with or without fever ) , photosensitivity , purpura , onycholysis , pemphigus , pemphigoid , erythema multiforme , toxic epidermal necrolysis , and Stevens - Johnson syndrome .
+Neurologic and Psychiatric : Anxiety , amnesia , convulsions , depression , hearing loss , insomnia , nervousness , neuralgia , neuropathy , paresthesia , somnolence , tinnitus , tremor , vertigo , and vision disturbances .
+Miscellaneous : As with other ACE inhibitors , a symptom complex has been reported which may include a positive ANA , an elevated erythrocyte sedimentation rate , arthralgia / arthritis , myalgia , fever , vasculitis , eosinophilia , photosensitivity , rash and other dermatologic manifestations .
+Additionally , as with other ACE inhibitors , eosinophilic pneumonitis has been reported .
+Fetal / Neonatal Morbidity and Mortality .
+See WARNINGS : Fetal / Neonatal Morbidity and Mortality .
+Other : Arthralgia , arthritis , dyspnea , edema , epistaxis , impotence , increased sweating , malaise , myalgia , and weight gain .
+Post - Marketing Experience : In addition to adverse events reported from clinical trials , there have been rare reports of hypoglycemia reported during ALTACE therapy when given to patients concomitantly taking oral hypoglycemic agents or insulin .
+The causal relationship is unknown .
+Clinical Laboratory Test Findings Creatinine and Blood Urea Nitrogen : Increases in creatinine levels occurred in 1 . 2 % of patients receiving ALTACE alone , and in 1 . 5 % of patients receiving ALTACE and a diuretic .
+Increases in blood urea nitrogen levels occurred in 0 . 5 % of patients receiving ALTACE alone and in 3 % of patients receiving ALTACE with a diuretic .
+None of these increases required discontinuation of treatment .
+Increases in these laboratory values are more likely to occur in patients with renal insufficiency or those pretreated with a diuretic and , based on experience with other ACE inhibitors , would be expected to be especially likely in patients with renal artery stenosis .
+( See WARNINGS and PRECAUTIONS . )
+Since ramipril decreases aldosterone secretion , elevation of serum potassium can occur .
+Potassium supplements and potassium - sparing diuretics should be given with caution , and the patient ’ s serum potassium should be monitored frequently .
+( See WARNINGS and PRECAUTIONS . )
+Hemoglobin and Hematocrit : Decreases in hemoglobin or hematocrit ( a low value and a decrease of 5 g / dL or 5 % respectively ) were rare , occurring in 0 . 4 % of patients receiving ALTACE alone and in 1 . 5 % of patients receiving ALTACE plus a diuretic .
+No US patients discontinued treatment because of decreases in hemoglobin or hematocrit .
+Other ( causal relationships unknown ) : Clinically important changes in standard laboratory tests were rarely associated with ALTACE administration .
+Elevations of liver enzymes , serum bilirubin uric acid , and blood glucose have been reported , as have cases of hyponatremia and scattered incidents of leukopenia , eosinophilia , and proteinuria .
+In US trials , less than 0 . 2 % of patients discontinued treatment for laboratory abnormalities ; all of these were cases of proteinuria or abnormal liver - function tests .
+OVERDOSAGE Overdosage with atenolol has been reported with patients surviving acute doses as high as 5 g .
+One death was reported in a man who may have taken as much as 10 g acutely .
+The predominant symptoms reported following atenolol overdose are lethargy , disorder of respiratory drive , wheezing , sinus pause and bradycardia .
+Additionally , common effects associated with overdosage of any beta - adrenergic blocking agent and which might also be expected in atenolol overdose are congestive heart failure , hypotension , bronchospasm and / or hypoglycemia .
+Treatment of overdose should be directed to the removal of any unabsorbed drug by induced emesis , gastric lavage , or administration of activated charcoal .
+Atenolol can be removed from the general circulation by hemodialysis .
+Other treatment modalities should be employed at the physician ’ s discretion and may include : BRADYCARDIA : Atropine intravenously .
+If there is no response to vagal blockade , give isoproterenol cautiously .
+In refractory cases , a transvenous cardiac pacemaker may be indicated .
+HEART BLOCK ( SECOND OR THIRD DEGREE ) : Isoproterenol or transvenous cardiac pacemaker .
+CARDIAC FAILURE : Digitalize the patient and administer a diuretic .
+Glucagon has been reported to be useful .
+HYPOTENSION : Vasopressors such as dopamine or norepinephrine ( levarterenol ) .
+Monitor blood pressure continuously .
+BRONCHOSPASM : A beta2 stimulant such as isoproterenol or terbutaline and / or aminophylline .
+HYPOGLYCEMIA : Intravenous glucose .
+Based on the severity of symptoms , management may require intensive support care and facilities for applying cardiac and respiratory support .
+DOSAGE AND ADMINISTRATION Blood pressure decreases associated with any dose of ALTACE depend , in part , on the presence or absence of volume depletion ( e . g . , past and current diuretic use ) or the presence or absence of renal artery stenosis .
+If such circumstances are suspected to be present , the initial starting dose should be 1 . 25 mg once daily .
+Reduction in Risk of Myocardial Infarction , Stroke , and Death from Cardiovascular Causes ALTACE should be given at an initial dose of 2 . 5 mg , once a day for 1 week , 5 mg , once a day for the next 3 weeks , and then increased as tolerated , to a maintenance dose of 10 mg , once a day .
+If the patient is hypertensive or recently post myocardial infarction , it can also be given as a divided dose .
+Hypertension The recommended initial dose for patients to be treated for hypertension , not receiving a diuretic is 2 . 5 mg once a day .
+Dosage should be adjusted according to the blood pressure response .
+The usual maintenance dosage range is 2 . 5 to 20 mg per day administered as a single dose or in two equally divided doses .
+In some patients treated once daily , the antihypertensive effect may diminish toward the end of the dosing interval .
+In such patients , an increase in dosage or twice daily administration should be considered .
+If blood pressure is not controlled with ALTACE alone , a diuretic can be added HOW SUPPLIED Atenolol Tablets , USP Each 25 mg atenolol tablet , USP is available as white to off - white round , flat face , beveled edge tablet , debossed with ' RE ' on one side and ‘ 19 ’ on the other side .
+They are supplied as follows : NDC 21695 - 322 - 30 Bottles of 30 NDC 21695 - 322 - 90 Bottles of 90 Store at 20 - 25 ° C ( 68 - 77 ° F ) .
+( See USP Controlled Room Temperature ) .
+Dispense in well - closed , light - resistant containers .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+Manufactured for : Ranbaxy Pharmaceuticals Inc .
+Jacksonville , FL 32257 USA by : Ipca Laboratories Limited 48 , Kandivli Ind .
+Estate , Mumbai 400 067 , India April 2009 Repackaged by : Rebel Distributors Corp .
+Thousand Oaks , CA 91320 Principal Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ]

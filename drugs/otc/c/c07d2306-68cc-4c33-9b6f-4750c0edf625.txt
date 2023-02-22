@@ -1,0 +1,74 @@
+DESCRIPTION Sodium Iodide I 123 ( Na123I ) for diagnostic use is supplied in capsules for oral administration .
+The capsules are available in strengths of 3 . 7 and 7 . 4 megabecquerels ( MBq ) ( 100 and 200 μCi ) I 123 at time of calibration .
+Each capsule contains 0 . 3 µg - 3 µg Sodium Thiosulfate as a stabilizer .
+The radionuclidic composition at calibration is not less than 97 . 0 percent I 123 , not more than 2 . 9 percent I 125 and not more than 0 . 1 percent all others ( I 121 or Te 121 . )
+The radionuclidic composition at expiration time is not less than 87 . 2 percent I 123 , not more than 12 . 4 percent I 125 and not more than 0 . 4 percent all others .
+The ratio of the concentration of I 123 and I 125 changes with time .
+Graph 1 shows the maximum concentration of each as a function of time .
+[ MULTIMEDIA ] Physical Characteristics Sodium Iodide I 123 decays by electron capture with a physical half - life of 13 . 2 hours .
+The photon that is useful for detection and imaging studies is listed in Table 1 .
+Table 1 Principal Radiation Emission Data11 Kocher , David C . , Radioactive Decay Data Tables , DOE / TIC - 11026 , 122 , ( 1981 ) Radiation Mean % / Disintegration Mean Energy ( keV ) Gamma - 2 83 . 4 159 External Radiation The specific gamma ray constant for I 123 is 1 . 6 R / hr - mCi at 1 cm .
+The first half value thickness of lead ( Pb ) for I 123 is 0 . 005 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from the interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 1 . 63 cm of lead will decrease the external radiation exposure by a factor of about 1 , 000 .
+Table 2 Radiation Attenuation by Lead Shielding22 Shleien , Bernard , The Health Physics and Radiological Health Handbook , Table 6 . 1 . 2 , 169 , ( 1992 ) Shield Thickness ( Pb ) , cm Coefficient of Attenuation 0 . 036 0 . 5 0 . 120 10 - 1 0 . 240 10 - 2 0 . 358 10 - 3 0 . 477 10 - 4 Note that these estimates of attenuation do not take into consideration the presence of contaminants .
+To correct for physical decay of I 123 , the fractions that remain at selected intervals after the time of calibration are shown in Table 3 .
+Table 3 Sodium Iodide I 123 Decay Chart : Half - Life 13 . 2 Hours * Time of Calibration Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 18 . 389 3 . 854 21 . 332 6 . 730 24 . 284 9 . 623 27 . 242 12 . 535 30 . 207 15 . 455 [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Sodium Iodide I 123 is readily absorbed from the upper gastrointestinal tract .
+Following absorption , the iodide is distributed primarily within the extracellular fluid of the body .
+It is trapped and organically bound by the thyroid and concentrated by the stomach , choroid plexus and salivary glands .
+It is excreted by the kidneys .
+The fraction of the administered dose which is accumulated in the thyroid gland may be a measure of thyroid function in the absence of unusually high or low iodine intake or administration of certain drugs which influence iodine accumulation by the thyroid gland .
+Accordingly , the patient should be questioned carefully regarding previous medication and / or procedures involving radiographic media .
+Normal subjects can accumulate approximately 10 - 50 % of the administered iodine dose in the thyroid gland , however , the normal and abnormal ranges are established by individual physician ' s criteria .
+The mapping ( imaging ) of Sodium Iodide I 123 distribution in the thyroid gland may provide useful information concerning thyroid anatomy and definition of normal and / or abnormal functioning of tissue within the gland .
+INDICATION AND USE Administration of Sodium Iodide I 123 is indicated as a diagnostic procedure to be used in evaluating thyroid function and / or morphology .
+CONTRAINDICATIONS To date there are no known contraindications to the use of Sodium Iodide I 123 capsules .
+WARNINGS Females of childbearing age and children under 18 should not be studied unless the benefits anticipated from the performance of the test outweigh the possible risk of exposure to the amount of ionizing radiation associated with the test .
+PRECAUTIONS General The contents of the capsule are radioactive .
+Adequate shielding of the preparation must be maintained at all times .
+Do not use after the expiration time and date ( 30 hours after calibration time ) stated on the label .
+The prescribed Sodium Iodide I 123 dose should be administered as soon as practical from the time of receipt of product ( i . e . , as close to calibration time as possible ) in order to minimize the fraction of radiation exposure due to relative increase of radionuclidic contaminants with time .
+Sodium Iodide I 123 , as well as other radioactive drugs , must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel .
+Care should also be taken to minimize radiation exposure to the patient consistent with proper patient management .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential , mutagenic potential , or whether Sodium Iodide I 123 affects fertility in males or females .
+Pregnancy Animal reproduction studies have not been conducted with this drug .
+It is also not known whether Sodium Iodide I 123 can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+Sodium Iodide I 123 should be given to a pregnant woman only if clearly needed .
+Ideally examinations using radiopharmaceuticals , especially those elective in nature , in women of childbearing capability should be performed during the first few ( approximately ten ) days following the onset of menses .
+Nursing Mothers Since I 123 is excreted in human milk , formula - feeding should be substituted for breast - feeding if the agent must be administered to the mother during lactation .
+Pediatric Use Safety and effectiveness in children have not been established .
+ADVERSE REACTIONS Although rare , reactions associated with the administration of Sodium Iodide isotopes for diagnostic use include , in decreasing order of frequency , nausea , vomiting , chest pain , tachycardia , itching skin , rash and hives .
+DOSAGE AND ADMINISTRATION The recommended oral dose for the average patient ( 70 kg ) is 3 . 7 to 14 . 8 MBq ( 100 - 400 µCi ) .
+The lower part of the dosage range 3 . 7 MBq ( 100 µCi ) is recommended for uptake studies alone , and the higher part 14 . 8 MBq ( 400 µCi ) for thyroid imaging .
+The determination of I 123 concentration in the thyroid gland may be initiated at six hours after administering the dose and should be measured in accordance with standardized procedures .
+The patient dose should be measured by a suitable radioactive calibration system immediately prior to administration .
+The capsules can be utilized up to thirty ( 30 ) hours after calibration time and date .
+Thereafter , discard the capsules in accordance with standard safety procedures .
+The user should wear waterproof gloves at all times when handling the capsules or container .
+Radiation Dosimetry The estimated absorbed radiation doses to several organs of an average patient ( 70 kg ) from oral administration of the maximum dose of 14 . 8 MBq ( 400 µCi ) of I 123 are shown in Table 4 for thyroid uptakes of 5 , 15 , and 25 % .
+For comparison at these three values of thyroid uptake , the estimated radiation doses from doses of 3 . 7 MBq ( 100 µCi ) I 131 , also used as thyroid imaging agent , are also included .
+Table 4 Radiation Dose Estimates as a Function of Maximum Thyroid Uptake for I 123 * Sodium Iodide At Time of Calibration and Expiry Compared to I 131 * Concentration at Time of Calibration : 97 % I 123 , 2 . 9 % I 125 , 0 . 1 % Te 121 Concentration at Time of Expiry : 87 . 2 % I 123 , 12 . 4 % I 125 , 0 . 4 % Te 121 All Iodine Kinetics treated as in MIRD Dose Estimate Report 5 .
+Bladder voiding interval , 4 . 8 hours .
+Tellurium 121 dosimetry taken from ICRP 30 .
+Target Organ Maximum Thyroid Uptake ( % ) Estimated Radiation Absorbed Doses I 123 mGy / 14 . 8 MBq ( rads / 400 µCi ) I 131 mGy / 3 . 7 MBq ( rads / 100 µCi ) TOC TOE Thyroid 5 25 ( 2 . 5 ) 75 ( 7 . 5 ) 260 ( 26 ) 15 77 ( 7 . 7 ) 230 ( 23 ) 780 ( 78 ) 25 130 ( 13 ) 410 ( 41 ) 1300 ( 130 ) Liver 5 0 . 089 ( 0 . 0089 ) 0 . 13 ( 0 . 013 ) 0 . 16 ( 0 . 016 ) 15 0 . 10 ( 0 . 010 ) 0 . 18 ( 0 . 018 ) 0 . 28 ( 0 . 028 ) 25 0 . 11 ( 0 . 011 ) 0 . 24 ( 0 . 024 ) 0 . 41 ( 0 . 041 ) Ovaries 5 0 . 18 ( 0 . 018 ) 0 . 19 ( 0 . 019 ) 0 . 18 ( 0 . 018 ) 15 0 . 17 ( 0 . 017 ) 0 . 18 ( 0 . 018 ) 0 . 18 ( 0 . 018 ) 25 0 . 16 ( 0 . 016 ) 0 . 18 ( 0 . 018 ) 0 . 17 ( 0 . 017 ) Red Marrow 5 0 . 12 ( 0 . 012 ) 0 . 16 ( 0 . 016 ) 0 . 15 ( 0 . 015 ) 15 0 . 12 ( 0 . 012 ) 0 . 18 ( 0 . 018 ) 0 . 21 ( 0 . 021 ) 25 0 . 13 ( 0 . 013 ) 0 . 19 ( 0 . 019 ) 0 . 27 ( 0 . 027 ) Stomach Wall 5 0 . 96 ( 0 . 096 ) 0 . 98 ( 0 . 098 ) 1 . 7 ( 0 . 17 ) 15 0 . 89 ( 0 . 089 ) 0 . 91 ( 0 . 091 ) 1 . 5 ( 0 . 15 ) 25 0 . 82 ( 0 . 082 ) 0 . 85 ( 0 . 085 ) 1 . 4 ( 0 . 14 ) Small Intestine 5 0 . 70 ( 0 . 070 ) 0 . 71 ( 0 . 071 ) 1 . 2 ( 0 . 12 ) 15 0 . 65 ( 0 . 065 ) 0 . 67 ( 0 . 067 ) 1 . 1 ( 0 . 11 ) 25 0 . 60 ( 0 . 060 ) 0 . 62 ( 0 . 062 ) 0 . 99 ( 0 . 099 ) Testes 5 0 . 076 ( 0 . 0076 ) 0 . 089 ( 0 . 0089 ) 0 . 12 ( 0 . 012 ) 15 0 . 072 ( 0 . 0072 ) 0 . 087 ( 0 . 0087 ) 0 . 12 ( 0 . 012 ) 25 0 . 068 ( 0 . 0068 ) 0 . 085 ( 0 . 0085 ) 0 . 12 ( 0 . 012 ) Bladder 5 1 . 7 ( 0 . 17 ) 1 . 7 ( 0 . 17 ) 2 . 9 ( 0 . 29 ) 15 1 . 6 ( 0 . 16 ) 1 . 6 ( 0 . 16 ) 2 . 7 ( 0 . 27 ) 25 1 . 4 ( 0 . 14 ) 1 . 5 ( 0 . 15 ) 2 . 4 ( 0 . 24 ) Skeleton 5 0 . 11 ( 0 . 011 ) 0 . 16 ( 0 . 016 ) 0 . 12 ( 0 . 012 ) 15 0 . 12 ( 0 . 012 ) 0 . 18 ( 0 . 018 ) 0 . 18 ( 0 . 018 ) 25 0 . 14 ( 0 . 014 ) 0 . 21 ( 0 . 021 ) 0 . 24 ( 0 . 024 ) Total Body 5 0 . 11 ( 0 . 011 ) 0 . 16 ( 0 . 016 ) 0 . 24 ( 0 . 024 ) 15 0 . 14 ( 0 . 014 ) 0 . 25 ( 0 . 025 ) 0 . 47 ( 0 . 047 ) 25 0 . 17 ( 0 . 017 ) 0 . 35 ( 0 . 035 ) 0 . 70 ( 0 . 070 ) HOW SUPPLIED Sodium Iodide I 123 is supplied as capsules for oral administration in strengths of 3 . 7 MBq ( 100 µCi ) and 7 . 4 MBq ( 200 µCi ) at time of calibration .
+Each gelatin capsule contains 0 . 45 - 0 . 65 g of sucrose .
+The capsules are packaged in plastic vials containing either one or five capsules of a single strength per vial .
+The plastic vial is packaged in a lead shield with a label identical to that affixed to the plastic vial .
+A package insert is supplied with each lead shield .
+The - I ( Iodine ) content for a 100 µCi capsule is 5 . 2 ng and the - I content for a 200 µCi capsule is 10 . 4 ng at TOC .
+Dispense and preserve capsules in well - closed containers that are adequately shielded .
+Store at room temperature , below 86 ° F .
+The contents of the capsules are radioactive .
+Adequate shielding and handling precautions must be maintained .
+THIS PACKAGE INSERT ISSUED APRIL 2018 CardinalHealth Denver , CO 80011 ( 303 ) 343 - 6800 Sodium Iodide I 123 1 - 020 - 16 PRINCIPAL DISPLAY PANEL - 100 µCi CAPSULE [ MULTIMEDIA ] CardinalHealth Denver , CO 80011 NUMBER OF CAPSULES : 1 ASSAY : 3 . 7 MBq ( 100 uCi ) Per Capsule TOTAL ACTIVITY : 3 . 7 MBq ( 100 uCi ) CALIB .
+DATE : CALIB .
+TIME : BATCH NO . : SODIUM IODIDE I 123 3 . 7 MBq ( 100 uCi ) CAPSULES DIAGNOSTIC FOR ORAL USE ONLY EXPIRATION : 30 hours from the Date and Time of Calibration .
+Rx only READ PACKAGE INSERT FOR DIRECTIONS FOR USE .
+Iodine 123 Radioactive Half - life 13 . 2 hours , carrier free .
+Calculate correct dosage from Date and Time of Calibration STORE AT ROOM TEMPERATURE ( BELOW 86 ° F ) CAUTION RADIOACTIVE MATERIAL 1 - 001 - 10 [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 200 µCi CAPSULE [ MULTIMEDIA ] CardinalHealth Denver , CO 80011 NUMBER OF CAPSULES : 1 ASSAY : 7 . 4 MBq ( 200 uCi ) Per Capsule TOTAL ACTIVITY : 7 . 4 MBq ( 200 uCi ) CALIB .
+DATE : CALIB .
+TIME : BATCH NO . : SODIUM IODIDE I 123 7 . 4 MBq ( 200 uCi ) CAPSULES DIAGNOSTIC FOR ORAL USE ONLY EXPIRATION : 30 hours from the Date and Time of Calibration .
+Rx only READ PACKAGE INSERT FOR DIRECTIONS FOR USE .
+Iodine 123 Radioactive Half - life 13 . 2 hours , carrier free .
+Calculate correct dosage from Date and Time of Calibration STORE AT ROOM TEMPERATURE ( BELOW 86 ° F ) CAUTION RADIOACTIVE MATERIAL 1 - 002 - 10 [ MULTIMEDIA ]

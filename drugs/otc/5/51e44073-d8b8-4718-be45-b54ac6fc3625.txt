@@ -1,0 +1,261 @@
+Diagnostic Radiopharmaceutical For intravenous use only DESCRIPTION The Ceretec kit is supplied as five packs of three vials for use in the preparation of a technetium Tc99m exametazime intravenous injection as a diagnostic radiopharmaceutical for use as an adjunct in the detection of altered regional cerebral perfusion and for the radiolabeling of autologous leukocytes .
+Each vial of Ceretec contains a pre - dispensed sterile , non - pyrogenic , lyophilized mixture of 0 . 5 mg exametazime [ ( RR , SS ) - 4 . 8 - diaza - 3 , 6 , 6 , 9 - tetramethylundecane - 2 , 10 - dione bisoxime ] , 7 . 6 µg stannous chloride dihydrate ( minimum stannous tin 0 . 6 µg ; maximum total stannous and stannic tin 4 . 0 µg per vial ) and 4 . 5 mg sodium chloride , sealed under nitrogen atmosphere with a rubber closure .
+The product contains no antimicrobial preservative .
+In addition , each package contains five 1 mL vials of Methylene Blue Injection USP 1 % containing 10 mg methylene blue USP in Water for Injection q . s . pH adjusted with sodium hydroxide and / or hydrochloric acid , when necessary .
+Methylene Blue Injection USP is a sterile , non - pyrogenic solution of phenothiazin - 5 - ium , 3 , 7 - bis ( dimethylamino ) - chloride , trihydrate .
+Each package also contains five 4 . 5 mL vials of 0 . 003 M Monobasic Sodium Phosphate USP and Dibasic Sodium Phosphate USP in 0 . 9 % Sodium Chloride Injection USP .
+The solution is sterile and non - pyrogenic .
+Each mL contains 0 . 276 mg monobasic sodium phosphate monohydrate ( equivalent to 0 . 312 mg monobasic sodium phosphate dihydrate ) , 0 . 142 mg dibasic sodium phosphate anhydrous ( equivalent to 0 . 178 mg dibasic sodium phosphate dihydrate ) and 9 mg sodium chloride in Water for Injection q . s .
+The total calculated osmolarity of the 0 . 003 M Monobasic Sodium Phosphate USP and Dibasic Sodium Phosphate USP in 0 . 9 % Sodium Chloride Injection USP is 317 mOsmol / L .
+Each mL provides 0 . 285 mg ( 3 mM ) of phosphate , 0 . 157 mEq of sodium and 0 . 154 mEq of chloride .
+When used according to the preparation instructions ( see DOSAGE AND ADMINISTRATION ) , Methylene Blue Sodium Phosphates / Sodium Chloride mixture acts as a stabilizer .
+Prior to publication of the USAN , exametazime was formerly known as hexamethylpropylene amine oxime ( HM - PAO ) .
+The name HM - PAO appears in many publications .
+The structural formula of exametazime is : [ MULTIMEDIA ] When sterile pyrogen - free sodium pertechnetate Tc99m in isotonic saline is added to the vial of Ceretec , a Tc99m complex of exametazime is formed .
+Administration is by intravenous injection for diagnostic use .
+Physical Characteristics Technetium Tc99m decays by isomeric transition with a physical half - life of 6 . 03 hours .
+( 1 ) Photons that are useful for imaging studies are listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data - technetium Tc99mRadiation Mean % / Disintegration Mean Energy ( keV ) ( 1 ) Dillman , L . T . and Von der Lage , F . C . Radionuclide decay schemes and nuclear parameters for use in radiation - dose estimation .
+MIRD Phamphlet No . 10 , p . 62 , 1975 .
+Gamma 2 87 . 87 140 . 5 External radiation The specific gamma ray constant for technetium Tc99m is 206 microCoulomb kg - 1 / 37 MBq - h , ( 0 . 8 R / millicurie - h ) at 1 cm .
+The first half - value thickness of lead ( Pb ) for technetium Tc99m is 0 . 2 mm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of a 2 . 7 mm thickness of Pb will decrease the external radiation exposure by a factor of 1 , 000 .
+Table 2 .
+Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) mm Coefficient of Attenuation 0 . 2 0 . 5 0 . 95 10 – 1 1 . 8 10 – 2 2 . 7 10 – 3 3 . 6 10 – 4 4 . 5 10 – 5 To correct for physical decay of this radionuclide , the fractions that remain at selected intervals relative to the time of calibration are shown in Table 3 .
+Table 3 .
+Physical Decay Chart – Tc99m half - life 6 . 03 hoursHours Fraction Remaining Hours Fraction Remaining 0 [ 1 ] 1 . 000 7 0 . 447 1 0 . 891 8 0 . 399 2 0 . 795 9 0 . 355 3 0 . 708 10 0 . 317 4 0 . 631 11 0 . 282 5 0 . 563 12 0 . 252 6 0 . 502 24 0 . 063 [ 1 ] Calibration time ( time of preparation ) [ MULTIMEDIA ] CLINICAL PHARMACOLOGY General When technetium Tc99m pertechnetate is added to exametazime in the presence of stannous reductant , a lipophilic technetium Tc99m complex is formed .
+This lipophilic complex is the active moiety .
+It converts at approximately 12 % / hour to less lipophilic species .
+When the secondary complex is separated from the lipophilic species , it is unable to cross the blood - brain - barrier .
+The useful life of the reconstituted agent is limited to 30 minutes .
+The in vitro addition of methylene blue to the Tc99m - exametazime will stabilize the complex for 4 - 6 hours .
+Methylene blue may be added to Tc99m for cerebral imaging .
+Methylene blue should not be used in the preparation of Tc99m - exametazime labeled leukocytes .
+( See section on Preparation and Handling ) .
+Pharmacokinetics Studies in normal volunteers have shown that the technetium Tc99m complex of the RR , SS ( d , l ) diastereoisomer of exametazime is rapidly cleared from the blood after intravenous injection .
+Uptake in the brain reaches a maximum of 3 . 5 - 7 . 0 % of the injected dose within one minute of injection .
+Up to 15 % of the activity is eliminated from the brain by 2 minutes post injection , after which little activity is lost for the following 24 hours except by physical decay of technetium Tc99m .
+The activity not associated with the brain is widely distributed throughout the body , particularly in muscle and soft tissue .
+About 30 % of the injected dose is found in the gastrointestinal tract immediately after injection and about 50 % of this is excreted through the intestinal tract over 48 hours .
+Also , about 40 % of the injected dose is excreted through the kidneys and urine over the 48 hours after injection .
+The use of methylene blue for stabilization prior to injection does not appear to affect the pharmacokinetic handling or distribution of Tc99m exametazime .
+Leukocyte The lipophilic Tc99m exametazime complex ( that is not stabilized by methylene blue ) is taken up by leukocytes , and selectively retained in neutrophils .
+Label elution rate is up to 10 % in the first hour .
+Pharmacodynamics Tc99m - labeled leukocyte : Based upon in vivo recovery and very low lung and liver uptake , the labeled leukocytes are still functional .
+Following reinjection of the Tc99m labeled leukocytes the circulating granulocyte activity as a percentage of labeled granulocyte activity at 40 minutes after injection gave a mean of 37 % ( range 10 - 47 % ) .
+During the first hour following injection of Tc99m labeled leukocytes , activity is seen in the lungs , liver , spleen , blood pool , bone marrow and the bladder .
+The kidneys ( parenchyma and / or renal pelvis ) and gall bladder may also be visualized .
+Over the first 1 - 6 hours , the Tc99m is visualized in the bowel .
+At 24 hours post - injection substantial colonic activity is seen .
+The normal areas visualized in earlier scans are still visible .
+CLINICAL TRIALS Two clinical trials were performed in a total of 88 patients who had suspected intra - abdominal infection or inflammation .
+Subjects received both Tc99m labeled leukocytes and In111 - labeled leukocytes .
+Images were obtained at 2 and 30 minutes and at 2 and 4 hours and 24 hours .
+In two other clinical trials , in a total of 127 patients with suspected abdominal inflammation or infection received Tc99m labeled leukocytes .
+Imaging was at 24 hours in one study and at 1 , 3 and 24 hours in the other .
+In all four studies images were blindly evaluated and the findings were confirmed by surgery , biopsy or other clinical data .
+Based on the above 4 studies , between 2 to 4 hours Tc99m labeled leukocytes had 95 - 100 % sensitivity and 62 - 85 % specificity with similar numbers of false positive and false negative findings .
+The value of the 24 hour Tc99m labeled leukocyte images is inconsistent .
+In all studies the false positive and false negatives relate to the bowel background , the location of the site of infection / inflammation and whether or not it is contiguous with the bowel .
+The 24 hour films should be interpreted with great caution because of a high bowel background ; false negatives were noted in both Tc99m and In111 labeled leukocytes .
+Other studies suggest that the interpretation of the images could be affected by the presence of tumors , infarction and peritonitis , etc .
+Liver abscess may be missed because of the bowel background .
+Caution should be exercised in making the final diagnosis .
+INDICATIONS AND USAGE Technetium Tc99m exametazime scintigraphy ( with or without methylene blue stabilization ) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke .
+Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra - abdominal infection and inflammatory bowel disease .
+CONTRAINDICATIONS None known .
+PRECAUTIONS As with any injected product , acute hypersensitivity or allergic reactions are possible .
+Limited reports have been received of hypersensitivity reactions following administration of Tc99m labeled leukocytes prepared using Tc99m exametazime .
+However , the materials used in leukocyte cell separation may cause hypersensitivity reactions .
+It is essential that cells are washed free of sedimentation agents before they are reinjected into the patient .
+In case of side effects following administration of radio - pharmaceuticals , users should ensure the availability of appropriate medical treatment at the time of administration of any radiopharmaceutical to the patient .
+A thorough knowledge of the normal distribution of intravenously administered technetium Tc99m exametazime injection is essential in order to interpret pathologic studies accurately .
+Caution should be exercised in making the final diagnosis .
+Results can be affected by the presence of tumor , infarction , peritonitis , non - gastrointestinal or bony sites of inflammatory cell collections .
+The contents of the Ceretec vial are not radioactive .
+After the sodium pertechnetate Tc99m is added , the product is radioactive and adequate shielding of the final preparation must be maintained .
+The contents of the Ceretec vial are intended only for use in preparation of technetium Tc99m exametazime injection and are NOT to be administered directly to the patient .
+General The contents of the Ceretec vial are sterile and pyrogen free .
+The vial contains no bacteriostatic preservative .
+It is essential that the user follow the directions carefully and adhere to strict aseptic procedures during preparation of the radiopharmaceutical .
+Radiopharmaceuticals should be used only by or under the control of physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+To minimize radiation dose to the bladder , the patient should be encouraged to void when the examination is completed and as often thereafter as possible .
+Adequate hydration should be encouraged to permit frequent voiding .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Long term animal studies have not been performed to evaluate carcinogenic potential or whether exametazime affects fertility in males or females .
+When evaluated in the Ames test , exametazime increased the apparent rate of gene mutation in the TA100 strain of S . typhimurium .
+Exametazime did not cause chromosomal aberrations in vitro ( Chinese Hamster Ovary cells ) or in vivo ( rat bone marrow ) .
+Pregnancy Category C Animal reproduction studies have not been conducted with Tc99m exametazime .
+It is also not known whether Tc99m exametazime can cause fetal harm when administered to a pregnant woman or if it can affect reproductive capacity .
+Therefore , Tc99m exametazime should not be administered to a pregnant woman unless the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Technetium Tc99m is excreted in human milk during lactation .
+It is not known whether exametazime is excreted in human milk .
+Therefore , formula feedings should be substituted for breast feeding for 60 hours .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Clinical studies of Ceretec ™ did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal or cardiac function , and of concomitant disease or other drug therapy .
+This drug is known to be substantially excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function .
+ADVERSE REACTIONS Rash with generalized erythema , facial edema and fever has been reported in less than 1 % of patients .
+A transient increase in blood pressure was seen in 8 % of patients .
+DOSAGE AND ADMINISTRATION Tc99m labeled leukocytes for adjunctive localization of intra - abdominal infection or inflammation .
+The normal adult ( 70 kg ) dose is 0 . 259 - 0 . 925 GBq ( 7 - 25 mCi ) as Tc99m labeled leukocytes by intravenous injection .
+Optimal planar imaging is between 2 - 4 hours .
+Do not use methylene blue in the preparation of the Tc99m labeled leukocytes ( See preparation and handling section ) .
+Cerebral Scintigraphy The recommended dose range for i . v . administration , of reconstituted sodium pertechnetate Tc99m exametazime ( with or without methylene blue ) in the average adult ( 70 kg ) is 370 - 740 MBq ( 10 - 20 mCi ) .
+Dynamic imaging may be performed between 0 to 10 minutes following injection .
+Static imaging may be performed from 15 minutes up to 6 hours after injection .
+INSTRUCTIONS FOR PREPARATION AND USE GENERAL PREPARATION PRECAUTIONS The technetium Tc99m labeling reaction involved in preparing technetium Tc99m exametazime injection depends on maintaining tin in the divalent ( reduced ) state .
+Any oxidant present in the sodium pertechnetate Tc99m employed may adversely affect the quality of the preparation .
+Sodium pertechnetate Tc99m containing oxidants should not be used for the preparation of the labeled product .
+To meet the last requirement , a generator must be eluted within 24 hours prior to obtaining any elute for reconstitution with the Ceretec kit .
+Sodium Chloride Injection , USP must be used as the diluent .
+Do not use bacteriostatic sodium chloride as a diluent for sodium pertechnetate Tc99m injection because it will increase the oxidation products and adversely affect the biological distribution of Ceretec .
+The contents of the Ceretec vial are sterile and pyrogen free .
+The vial contains no bacteriostatic preservative .
+It is essential that the user follow the directions carefully and adhere to strict aseptic procedures during preparation of the radiopharmaceutical .
+Technetium Tc99m exametazime injection , like other radioactive drugs , must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel .
+Care should also be taken to minimize radiation exposure to the patient consistent with proper patient management .
+Care should be taken when handling blood specimens to be labeled using this radiopharmaceutical .
+Even if the subject has been tested , no method can offer complete assurance that Hepatitis B Virus , Human Immuno - deficiency Virus ( HIV ) or other infectious agents are absent .
+All human blood samples should be considered potentially infectious .
+Precautions for handling are as those for handling radioactive materials .
+Procedure for the preparation of Tc99m exametazime with Methylene Blue Stabilizer for intravenous injection use in cerebral scintigraphy NOTE : DO NOT USE THIS PROCEDURE FOR LEUKOCYTE LABELING .
+SEE PROCEDURE FOR THE RADIOLABELING OF AUTOLOGOUS LEUKOCYTES WITH TECHNETIUM Tc99m EXAMETAZIME INJECTION .
+Note : Sterile technique must be used throughout .
+The user should wear waterproof gloves during the handling and administration procedure .
+• 1 ) Withdraw 0 . 5 mL Methylene Blue Injection USP 1 % into a sterile syringe and inject into 4 . 5 mL vial of 0 . 003 M Monobasic Sodium Phosphate USP and Dibasic Sodium Phosphate USP in 0 . 9 % Sodium Chloride Injection USP .
+Gently swirl and withdraw 2 mL of Methylene Blue / Phosphate Buffer mixture into a syringe .
+This mixture must be used within 30 minutes of preparation .
+• 2 ) Reconstitute Ceretec with Technetium Tc99m according to the preparation procedure for Preparation of Tc99m Exametazime Injection Without Methylene Blue Stabilizer .
+0 . 37 GBq to 2 . 0 GBq ( 10 mCi to 54 mCi ) technetium Tc99m may be added to the vial .
+Immediately proceed to Step 3 .
+• 3 ) Add methylene blue stabilizing solution from Step 1 to the reconstituted Ceretec vial within 2 minutes of reconstitution .
+• 4 ) Determine the radiochemical purity of the solution ( see Radiochemical Purity Measurement section ) .
+A radiochemical purity greater than 80 % is necessary for product acceptance .
+• 5 ) Maintain adequate shielding of the radioactive preparation .
+• 6 ) The injection may be used for up to 4 hours in cerebral scintigraphy studies .
+• 7 ) Prior to patient injection , attach enclosed syringe filter .
+• 8 ) The pH of the prepared injection is 6 . 5 - 7 . 5 .
+• 9 ) Also see section on Cautionary Notes for all Preparations .
+Procedure for the Preparation of Technetium Tc99m Exametazime Injection Without Methylene Blue Stabilizer Note : Sterile technique must be used throughout .
+The user should wear waterproof gloves during the handling and administration procedure .
+• 1 ) Place one of the vials in a suitable shielding container and sanitize the rubber septum with an isopropyl alcohol swab .
+• 2 ) Using a 10 mL syringe , inject into the shielded vial 5 mL of sterile eluate from a technetium Tc99m generator ( see notes 1 - 3 ) .
+Before withdrawing the syringe from the vial , withdraw 5 mL of gas from the space above the solution to normalize the pressure in the vial .
+Gently invert the shielded vial for 10 seconds to ensure complete dissolution of the powder .
+• 3 ) Assay the total activity and calculate the volume to be injected .
+The patient dose should be measured in a suitable radioactivity calibration system immediately prior to administration .
+• 4 ) Complete the label provided and attach to the vial shield .
+The technetium Tc99m exametazime injection is ready for quality control .
+• 5 ) Maintain adequate shielding of the radioactive preparation .
+• 6 ) Do not use the preparation more than 30 minutes after time of formulation .
+Discard any unused material .
+• 7 ) Visually inspect the reconstituted material at a safe distance behind lead glass , and do not use if there is evidence of foreign matter .
+• 8 ) The injection may be prepared for use in cerebral scintigraphy or for use in the preparation of Tc99m labeled WBCs .
+• 9 ) The pH of the prepared injection is 9 . 0 - 9 . 8 .
+• 10 ) Also see section on Cautionary Notes for all Preparations .
+Procedure for Radiolabeling of Autologous Leukocytes with Technetium Tc99m Exametazime Injection Note : Sterile technique must be used throughout .
+The user should wear waterproof gloves during the handling and administration procedure .
+• 1 ) Prepare a 60 mL syringe containing 10 mL acid citrate dextrose solution .
+• 2 ) Using aseptic venipuncture technique and the prepared syringe ( from Step 1 ) fitted with a 19 or 20 gauge needle , withdraw approximately 40 mL whole blood from the patient .
+( Blood withdrawal should be smooth and slow so as not to produce bubbles or foaming ) .
+Cap syringe after withdrawing blood .
+• 3 ) Gently mix the contents of the syringe .
+• 4 ) Clamp the syringe barrel to the ring stand in an upright ( needle side up ) position and tilt the syringe 10 - 20 degrees from its position perpendicular to the bench .
+• 5 ) Allow the red cells to sediment 30 - 60 minutes , depending upon when the supernatant [ leukocyte rich plasma ( LRP ) ] looks clear of red blood cells .
+• 6 ) Replace the capped needle with a winged infusion set .
+• 7 ) Collect the plasma ( LRP ) into a centrifuge tube marked " WBC " by expressing the LRP through the infusion set tubing assuring the red cells do not enter the container .
+• 8 ) Immediately centrifuge the capped WBC tube at 400 - 450 g for 5 minutes .
+• 9 ) Transfer the supernatant to the leukocyte poor plasma " LPP " tube allowing enough supernatant to cover the white cell button .
+( Note : the button often contains a small number of red cells and may appear red . )
+Reserve LPP for later use ( steps 12 , 16 , 19 ) .
+• 10 ) Wash the white cell button with approximately 5 . 0 mL Sodium Chloride Injection , USP ( 0 . 9 % ) .
+Cap the tube and resuspend the button by gently swirling .
+• 11 ) Centrifuge the capped " WBC " tube at 150 g for 8 minutes and discard all but 0 . 5 - 1 . 0 mL of the supernate to cover the cells .
+• 12 ) Add 1 . 0 mL of " LPP " to the white cell button and resuspend the cells by gentle swirling .
+• 13 ) Reconstitute a vial of Ceretec with approximately 30 mCi of Tc99m pertechnetate in 5 . 0 mL Sodium Chloride ( 0 . 9 % ) Injection , according to the procedure outlined below .
+Generator eluate more than 2 hours old should not be used .
+Do not use methylene blue or phosphate buffer .
+Parenteral drug products should be inspected visually for particulate matter and discoloration before administration .
+• 14 ) Add the Tc99m Ceretec to the " WBC " tube .
+Swirl gently to mix .
+• 15 ) Set a lab timer for 15 minutes and allow the white cells to incubate .
+Swirl periodically during the incubation .
+• 16 ) After incubation , withdraw about 10 mL of the LPP and add to the white cell suspension in the " WBC " tube .
+• 17 ) Cap the " WBC " tube , gently swirl , and then centrifuge at 450 g for 5 minutes .
+• 18 ) Decant the supernatant in the " WBC " tube into the " Wash " tube and leave the labeled white cells in the " WBC " tube .
+• 19 ) Add approximately 5 mL of LPP to the " WBC " tube .
+Resuspend the cells by gentle swirling .
+• 20 ) When the cells are in suspension , withdraw the cells into a syringe .
+Cap the syringe and assay the amount of radioactivity in a dose calibrator .
+• 21 ) Place the syringe in a lead shielded container .
+• 22 ) Administer the Tc99m labeled leukocyte suspension using a 19 G needle as soon as possible after labeling .
+• 23 ) Also see section of Cautionary Notes for all Preparations .
+Cautionary Notes for all Preparations • 1 ) 0 . 37 GBq up to 2 . 00 GBq ( 10 mCi up to 54 mCi ) technetium Tc99m may be added to the vial .
+Before reconstitution the technetium Tc99m generator eluate may be adjusted to the correct radioactive concentration to a volume of 5 mL by dilution with preservative - free , non - bacteriostatic saline for injection .
+• 2 ) Use only eluate from a technetium Tc99m generator which was previously eluted within 24 hours .
+For brain imaging when using stabilizing protocol , generator eluate more than 30 minutes old should not be used .
+For the highest radiochemical purity reconstitute with freshly eluted technetium Tc99m generator eluate .
+For white blood cell labeling , generator elute more than 2 hours old should not be used .
+• 3 ) Radiochemical purity testing must be performed prior to patient administration .
+A radiochemical purity greater than 80 % is necessary for product acceptance .
+• 4 ) Do not use the final radiopharmaceutical preparation for stabilized Ceretec more than 4 hours after the time of reconstitution .
+Do not use the final radiopharmaceutical preparation for unstabilized Ceretec more than 30 minutes after the time of reconstitution .
+Discard any unused material .
+Quality Control Radiochemical purity determination must be performed before administration to the patient .
+Three potential radiochemical impurities may be present in the prepared injection of the lipophilic technetium Tc99m exametazime complex .
+These are a secondary technetium Tc99m exametazime complex , free pertechnetate , and reduced - hydrolyzed - technetium Tc99m .
+A combination of 3 chromatographic systems is necessary for the complete definition of the radiochemical composition of the injection .
+The following protocol has been designed to enable analysis of the radiochemical purity of Ceretec ( 99 mTc - exametazime ) .
+It should be started within 2 minutes of reconstitution .
+The entire procedure takes approximately 15 minutes .
+Equipment and Eluents • 1 ) Quality control kit which includes all necessary components • 2 ) Individual supplies : SA ITLC strips 20 cm × 2 . 0 cm Whatman No . 1 strips 6 cm × 0 . 7 cm MEK ( methyl ethyl ketone [ butanone ] ) ( 99 . 9 + % HPLC Grade ) 0 . 9 % aqueous sodium chloride ( non - bacteriostatic ) 50 % aqueous acetonitrile ( 99 . 9 + % HPLC Grade ) Dilute with non - bacteriostatic Water for Injection Glass test tubes ( 12 × 75 mm ) Glass measuring cylinders ( 100 ml ) with covers 1 mL syringes with 25 gauge needles • 3 ) Suitable counting equipment .
+Method • 1 ) Prepare one chromatography tube containing 0 . 2 - 0 . 3 mL of 50 % acetonitrile .
+Prepare two 100 ml cylinders each containing a 1 cm depth of fresh MEK and 0 . 9 % sodium chloride , respectively .
+Identify the solvent in each cylinder .
+• 2 ) Prepare two SA ITLC strips and one Whatman No . 1 paper strip .
+Mark the Whatman strip 1 . 0 cm from the bottom as the point of origin .
+Mark the SA ITLC strips 2 . 5 cm from the bottom as the point of origin .
+Mark both the SA ITLC strips at 14 cm above the origin ( solvent front ) .
+• 3 ) Reconstitute a Ceretec vial according to this insert .
+• 4 ) Apply at least 5 µL samples of Ceretec to the origin of the 3 strips within 15 minutes of reconstitution .
+Immediately place one SA ITLC strip into the MEK tank , the second SA ITLC strip into the saline tank and the Whatman No . 1 paper strip into the 50 % acetonitrile tube .
+Make sure strips are not adhering to the sides of the container .
+• 5 ) The SA ITLC MEK strip takes approximately 15 minutes to run .
+When the eluate has reached the solvent front mark remove the strip from the tube with forceps and immediately cut 1 . 0 cm above the origin .
+• 6 ) The SA ITLC saline strip takes approximately 15 minutes to run .
+When the eluate has reached the solvent front mark remove the strip from the tube with forceps and immediately cut 2 . 5 cm above the origin .
+• 7 ) The Whatman No . 1 paper CH3CN strip takes approximately 100 seconds to run .
+When the eluate has reached the solvent front remove the strip from the tube with forceps and immediately cut 0 . 5 cm above the origin .
+• 8 ) Count the separate sections of each strip to determine the activity distribution .
+Make sure proper counting geometry is maintained attempting to reduce any interference from equipment dead time .
+• 9 ) Determine : % bottom of saline strip – % bottom of MEK strip ( = % lipophilic exametazime complex ) % top of saline strip ( = % pertechnetate ) % bottom of Whatman No . 1 paper strip ( = % reduced - hydrolyzed - Tc ) A radiochemical purity of > 80 % may be expected provided the measurement has been carried out within 4 hours of reconstitution for stabilized Ceretec and 30 minutes for Ceretec used for WBC labeling .
+Interpretation of Chromatogram System 1 ( SA ITLC : MEK [ butanone ] ) Secondary Tc exametazime complex and reduced - hydrolyzed - Tc remain at the origin .
+Lipophilic Tc exametazime complex and pertechnetate migrate at Rf 0 . 8 - 1 . 0 .
+System 2 ( SA ITLC : 0 . 9 % sodium chloride ) Lipophilic - Tc exametazime complex , secondary Tc exametazime complex and reduced - hydrolyzed - Tc remain at the origin .
+Pertechnetate migrates at Rf 0 . 8 - 1 . 0 .
+System 3 ( Whatman No . 1 1 : 50 % aqueous acetonitrile ) Reduced - hydrolyzed - Tc remains at the origin .
+Lipophilic Tc exametazime complex , secondary Tc exametazime complex and pertechnetate migrate at Rf 0 . 8 - 1 . 0 .
+RADIATION DOSIMETRY Based on human data , the absorbed radiation doses to an average human adult ( 70 kg ) from an intravenous injection of this product are estimated below .
+The values are listed as µGy / MBq , rads / mCi with urination every 2 hours .
+Bladder wall dose is 19 µGy / MBq , 0 . 07 rads / mCi with 4 hour urination and 89 µGy / MBq , 0 . 33 rads / mCi with no urination .
+Table 4 .
+Estimated Absorbed Radiation Dose [ 1 ] for Cerebral ScintigraphyTarget Organ Absorbed radiation dose Tc99m exametazime injection µGy / MBq rads / mCi mGy / 740 MBq rads / 20 mCi Lachrymal Glands 69 . 4 0 . 258 51 . 36 5 . 16 Gallbladder Wall 51 . 0 0 . 19 37 . 74 3 . 80 Kidney 35 . 0 0 . 13 25 . 90 2 . 60 Thyroid 27 . 0 0 . 10 19 . 98 2 . 00 Upper Large 21 . 0 0 . 079 15 . 54 1 . 58 Intestine Wall Liver 15 . 0 0 . 054 11 . 10 1 . 08 Small Intestine Wall 12 . 0 0 . 044 8 . 88 0 . 88 Lower Large 15 . 0 0 . 054 11 . 10 1 . 08 Intestine Wall Urinary Bladder Wall 13 . 0 0 . 047 9 . 62 0 . 94 Brain 6 . 9 0 . 026 5 . 11 0 . 52 Ovaries 6 . 3 0 . 023 4 . 66 0 . 46 Testes 1 . 8 0 . 007 1 . 33 0 . 14 Whole Body 3 . 6 0 . 013 2 . 66 0 . 26 Red Marrow 3 . 4 0 . 013 2 . 52 0 . 26 Bone Surfaces 4 . 8 0 . 018 3 . 55 0 . 36 Eyes 6 . 9 0 . 026 5 . 11 0 . 52 [ 1 ] Data supplied by Oak Ridge Associated Universities , Radiopharmaceutical Internal Dose Information Center .
+Table 5 .
+In vivo Localization of Tc99m Labeled LeukocytesThe estimated absorbed radiation doses to various organs following the intravenous administration of Tc99m labeled leukocytes given by ICRP 53 [ 1 ] are as follows ( bladder voiding every 3 . 5 hours ) Target Organ Absorbed Radiation Dose ( mGy per 200 MBq ) rads / 25 mCi Effective Dose Equivalent ( EDE ) 3 . 4 mSv / 200 MBq .
+Spleen 30 13 . 89 Red Marrow 4 . 4 2 . 04 Liver 4 1 . 85 Pancreas 2 . 8 1 . 3 Ovaries 0 . 84 0 . 39 Testes 0 . 34 0 . 16 Uterus 0 . 76 0 . 35 [ 1 ] International Commission on Radiological Protection , " Radiation Dose to Patients from Radiopharmaceuticals " , ICRP 53 , 1988 .
+HOW SUPPLIED The kit comprises five individual vials of sterile , non - pyrogenic , freeze - dried mixture of exametazime , stannous chloride dihydrate and sodium chloride , ten radiation labels , five radiochemical purity worksheets , five labeling efficiency worksheets , one package insert , five individual vials of Methylene Blue Injection USP 1 % , five individual vials of 0 . 003 M Monobasic Sodium Phosphate USP and Dibasic Sodium Phosphate USP in 0 . 9 % Sodium Chloride Injection USP and fifteen 0 . 45 µM syringe filters .
+NDC 17156 - 023 - 05 Storage Store the kit at 15 ° - 25 ° C ( 59 ° - 77 ° F ) .
+Store the formulated drug at 20 ° - 25 ° C ( 68 ° - 77 ° F ) using appropriate radiation shielding .
+Do not freeze .
+This reagent kit is approved for use by persons licensed by the Illinois Emergency Management Agency pursuant to 32 Ill .
+Code Adm . Section , Section 330 . 260 ( a ) and 335 . 4010 or under equivalent licenses of the U . S . Nuclear Regulatory Commission , or an Agreement State .
+Patent No . 4 , 789 , 736 Distributed by : GE Healthcare Medi - Physics , Inc .
+Arlington Heights , IL 60004 Customer Service : 1 - 800 - 292 - 8514 Professional Services : 1 - 800 - 654 - 0118 Manufactured by : GE Healthcare AS Oslo , Norway Ceretec is a trademark of GE Healthcare .
+GE and the GE Monogram are trademarks of General Electric Company .
+© 2013 General Electric Company – All rights reserved .
+43 - 9159 I - OSLO Revised March 2013 PRINCIPAL DISPLAY PANEL - Kit Carton GE Healthcare NDC 17156 - 023 - 05 CERETEC ™ ( Technetium Tc99m Exametazime Injection ) NOT FOR RESALE 5 - vial kit Manufactured for : GE Healthcare Medi - Physics , Inc .
+Arlington Heights , IL 60004 By : GE Healthcare AS Oslo , Norway [ MULTIMEDIA ] [ MULTIMEDIA ]

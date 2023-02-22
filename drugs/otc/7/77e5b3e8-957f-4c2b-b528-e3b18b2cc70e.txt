@@ -1,0 +1,83 @@
+Rx only Store at Controlled Room Temperature .
+Protect from freezing .
+Avoid excessive heat .
+Definition of " Controlled Room Temperature " : " A temperature maintained thermostatically that encompasses the usual and customary working environment of 20 ° to 25 ° C ( 68 ° to 77 ° F ) ; that results in a mean kinetic temperature calculated to be not more than 25 ° C ; and that allows for excursions between 15 ° C and 30 ° C ( 59 ° and 86 ° F ) that are experienced in pharmacies , hospitals , and warehouses .
+Provided the mean kinetic temperature remains in the allowed range , transient spikes up to 40 ° C are permitted as long as they do not exceed 24 hours ... The mean kinetic temperature is a calculated value that may be used as an isothermal storage temperature that simulates the non isothermal effects of storage temperature variations . "
+Reference : United States Pharmacopeia , General Notices .
+United States Pharmacopeial Convention , Inc . 12601 Twinbrook Parkway , Rockville , MD .
+Dispose of waste in appropriate biohazard container or according to local regulatory requirements .
+Indications and Usage : InterSol solution is an isotonic solution designed to replace a proportion of the plasma used in the storage of leukoreduced apheresis platelets under standard blood banking conditions .
+There is no direct therapeutic effect to be expected from the formulation .
+The solution should never be infused directly into a patient .
+InterSol platelets are leukocyte - reduced apheresis platelet concentrates that are stored in a mix of 65 % InterSol and 35 % plasma , nominal .
+InterSol platelets prepared within the ranges described in the apheresis system Operator ' s Manuals may be stored for up to 5 days at 20 - 24 ° C , with continuous agitation .
+Dosage and Administration : InterSol solution is to be used with the AMICUS Separator System or the TRIMA ACCEL system .
+For full instructions on the use of InterSol solution , see the Operator ' s Manual for the respective platelet collection system .
+Dosage Forms and Strengths : InterSol solution is provided as a 500 mL sterile and non - pyrogenic solution in a non - PVC plastic container with a sterile and non - pyrogenic fluid path .
+Each 100 mL contains 305 mg Dibasic Sodium Phosphate , Anhydrous , USP ; 93 mg Monobasic Sodium Phosphate , Monohydrate , USP ; 318 mg Sodium Citrate , Dihydrate , USP ; 442 mg Sodium Acetate , Trihydrate , USP ; 452 mg Sodium Chloride , USP ; Water for Injection , USP quantity sufficient .
+Contraindications : InterSol solution is added to apheresis - derived leukoreduced platelet concentrates after the apheresis procedure is complete .
+It is not for direct intravenous infusion .
+There are no known contraindications associated with the use of InterSol solution for the preparation of InterSol platelets .
+Warnings and Precautions : • • InterSol solution is NOT FOR DIRECT INTRAVENOUS INFUSION .
+• • Do not use if particulate matter is present or if the solution is cloudy .
+• • Do not use if the container is damaged , leaking or if there is any visible sign of deterioration .
+• • Do not vent .
+• • Do not reuse .
+Discard unused or partially used InterSol solution .
+• • Protect from sharp objects .
+• • Verify that the InterSol solution has been securely attached to the PAS Connector line to avoid disconnection and leaks .
+Adverse Reactions : InterSol solution is added to leukoreduced platelet concentrates after the apheresis procedure is complete .
+It is not for direct intravenous infusion .
+InterSol solution is not expected to cause adverse events other than those normally associated with platelet transfusion .
+Drug Abuse / Dependence : InterSol solution is used as a storage solution for platelet concentrates and has no pharmacological effect .
+Overdosage : InterSol solution is used as a storage solution for platelet concentrates and it is not for direct intravenous infusion .
+Description : InterSol solution is an isotonic solution designed to replace a proportion of the plasma used in the storage of platelets .
+The solution contains constituents that are naturally occurring components present in many cellular systems : sodium acetate as a nutrient , sodium citrate to prevent platelet clumping and activation , sodium phosphate for buffering and sodium chloride for osmolarity .
+InterSol solution does not have a pharmacological effect in vivo , but rather acts to provide the appropriate environment and nutrients in lieu of a portion of the plasma normally used for the storage of platelets .
+Clinical Pharmacology : InterSol solution is used as a storage solution for platelet concentrates and it is not for direct intravenous infusion .
+This solution has no pharmacological effect .
+Clinical Studies : In Vitro Biochemical and Functional Evaluations AMICUS - derived , leukoreduced platelets InterSol platelet concentrates ( n = 70 ) prepared using the AMICUS separator and stored for 5 days showed a median and mean pH value on Day 5 of 7 . 2 and 7 . 2 ± 0 . 1 ( range : 6 . 9 - 7 . 5 ) , respectively , with a lower non - parametric 95 % / 95 % tolerance limit of 6 . 9 .
+Supplemental in vitro assessments of InterSol platelets and AMICUS - derived leukoreduced platelets stored in 100 % plasma are presented in Table 2 .
+InterSol platelets irradiated ( n = 18 ) at either 2500 or 2800 cGray ( dependent on site procedures ) were compared to non - irradiated InterSol platelets .
+At the end of storage on Day 5 the platelet yields of the irradiated products were concentrated between 2 . 5 x 1011 to 3 . 5 x 1011 and included one product with a yield less than2 . 5 x 1011 and two products with yields greater than 3 . 5 x 1011 .
+In vitro testing is not predictive of in vivo performance , which was not evaluated .
+Summary statistics are presented in Table 3 .
+In Vivo Recovery and Survival in Healthy Subjects AMICUS - derived , leukoreduced platelets In vivo evaluation of InterSol platelets at Day 5 ( n = 33 ) compared to a fresh platelet control resulted in a mean percent recovery of 46 . 4 ± 11 . 9 percent and 58 . 0 ± 10 . 7 percent and mean survival of 5 . 7 ± 1 . 4 days and 8 . 0 ± 1 . 4 days , respectively .
+The in vivo data collected were used to calculate the upper limit of a two - sided 95 % confidence interval of the mean percent recovery of the algebraic expression ( 0 . 66 x Fresh – 5 Day ) , and of the mean percent survival ( days ) of the algebraic expression ( 0 . 58 x Fresh – 5 Day ) .
+The upper bound of the two - sided 95 % confidence intervals for recovery and survival on Day 5 was – 4 . 6 and – 0 . 6 respectively and met the requirement of less than 0 .
+Post - Market Transfusion - Related Adverse Events ( AE ) Study AMICUS - derived , leukoreduced platelets An open label , non - randomized , retrospective medical record review study was performed in 6 centers to demonstrate that the overall rate of transfusion - related AEs in patients receiving InterSol Platelet transfusions was not more than double the rate in patients receiving apheresis platelets stored in 100 % plasma ( Plasma Platelets ) .
+The study categorized adverse transfusion reactions according to the definitions outlined by the Biovigilance Component of the National Healthcare Safety Network ( NHSN ) System .
+All sites that participated were required to have systems in place to observe transfusion - related AEs and to record when no transfusion - related AE was observed .
+An independent Clinical Events Committee ( CEC ) blinded to platelet type and study site adjudicated the reported events .
+Patients were prescribed platelet transfusions per each site ’ s standard practice .
+The type of platelet unit the patient received was based on the site ’ s inventory at the time the transfusion was ordered .
+Site personnel observed the platelet transfusion recipient following their standard procedures .
+Signs and symptoms of a potential transfusion - related reaction were noted using existing reporting systems .
+A total of 14 , 005 transfusions from 6 study sites were included in the final analysis .
+A total of 4 , 160 InterSol Platelet transfusions were given to a total of 1 , 444 patients , and 9 , 845 Plasma Platelet transfusions were given to 2 , 202 patients .
+There were 165 CEC - adjudicated adverse reactions reported .
+Of those , 23 events were associated with InterSol Platelets and 142 events were associated with Plasma Platelets .
+Overall , 1 . 13 % of all transfusions resulted in an AE .
+The percentage of InterSol Platelet transfusions which led to AEs was 0 . 55 % , while 1 . 37 % of Plasma Platelet transfusions resulted in AEs .
+The 97 . 5 % upper confidence limit for the relative risk of transfusion - related AE associated with InterSol Platelets relative to Plasma Platelets was 0 . 66 , indicating that the study objective of ruling out a doubling of transfusion - related AEs for InterSol vs . Plasma Platelets was met .
+The majority of the 165 CEC - adjudicated reactions were Allergic ( n = 93 ) or Febrile Non - Hemolytic Transfusions Reactions ( FNHTR , n = 56 ) , at 0 . 66 % and 0 . 40 % of total transfusions , respectively .
+There were allergic reactions associated with 0 . 29 % of InterSol Platelet transfusions and 0 . 82 % of Plasma Platelet transfusions .
+FNHTR events were associated with 0 . 17 % of InterSol Platelet transfusions and 0 . 50 % of Plasma Platelet transfusions .
+No InterSol Platelet transfusion was associated with more than one reaction .
+Seven ( 7 ) Plasma Platelet transfusions ( 0 . 07 % of total transfusions ) were associated with two ( 2 ) separate adverse reactions each .
+Two ( 2 ) InterSol Platelet and five ( 5 ) Plasma Platelet adverse reactions were classified as severe .
+All other reactions were classified as non - severe .
+All adverse reactions were reported with an outcome of “ Minor or No Sequelae ” .
+No adverse safety trends were identified after review of all the AEs by the independent Clinical Events Committee .
+[ MULTIMEDIA ] [ MULTIMEDIA ] In Vitro Biochemical and Functional Evaluations , TRIMA ACCEL - derived , leukoreduced platelets InterSol platelet concentrates ( n = 60 ) prepared using the Trima Apheresis system and stored for 5 days showed a mean pH value on Day 5 of 7 . 2 ± 0 . 1 ( range 7 . 0 – 7 . 3 ) , with a lower one - sided 95 % confidence interval of 0 . 951 .
+Supplemental in vitro assessments of TRIMA ACCEL - derived leukoreduced platelets stored in InterSol platelet and 100 % plasma are presented in Table 3 .
+In Vivo Recovery and Survival in Healthy Subjects , TRIMA ACCEL - derived , leukoreduced platelets In vivo evaluations of TRIMA ACCEL - derived platelets stored in InterSol at Day 5 ( n = 24 ) compared to fresh platelet control resulted in a mean percent recovery of 45 . 2 ± 12 . 3 percent and 56 . 0 ± 13 . 2 percent and a mean survival of 5 . 4 ± 1 . 0 days and 7 . 9 ± 1 . 5 days , respectively .
+The in vivo data collected were used to calculate the upper limit of a one - sided 97 . 5 % confidence interval of the mean percent recovery of the algebraic expression of ( 0 . 66 x Fresh – 5 Day ) and the mean percent survival ( days ) of the algebraic expression ( 0 . 58 x Fresh – 5 Day ) .
+The lower limit of the one - sided 97 . 5 % confidence intervals for recovery and survival on Day 5 was 4 . 0 and 0 . 4 respectively and met the requirement of greater than 0 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] How Supplied / Storage and Handling : 500 mL sterile solution in a non - PVC plastic container with a sterile , non - pyrogenic fluid path .
+The InterSol solution container is supplied in a vented plastic overwrap covering that serves as a dust cover for the container .
+The dust cover is not a sterility barrier and is not an element that defines the expiration date of the InterSol product .
+[ MULTIMEDIA ] TRIMA ACCEL is a trademarks of Terumo BCT , Inc .
+© 2018 Fresenius Kabi AG .
+All rights reserved .
+Fresenius Kabi AG 61346 Bad Homburg / Germany Tel . : + 49 ( 0 ) 61 72 / 686 - 0 www . fresenius - kabi . com [ MULTIMEDIA ] PACKAGE / LABEL PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] [ MULTIMEDIA ]

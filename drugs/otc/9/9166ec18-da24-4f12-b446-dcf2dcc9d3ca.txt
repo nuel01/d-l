@@ -1,0 +1,682 @@
+DESCRIPTION Filgrastim is a human granulocyte colony - stimulating factor ( G - CSF ) ‚ produced by recombinant DNA technology .
+NEUPOGEN ® is the Amgen Inc . trademark for Filgrastim ‚ which has been selected as the name for recombinant methionyl human granulocyte colony - stimulating factor ( r - metHuG - CSF ) .
+NEUPOGEN ® is a 175 amino acid protein manufactured by recombinant DNA technology . 1 NEUPOGEN ® is produced by Escherichia coli ( E coli ) bacteria into which has been inserted the human granulocyte colony - stimulating factor gene .
+NEUPOGEN ® has a molecular weight of 18 ‚ 800 daltons .
+The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis ‚ except for the addition of an N - terminal methionine necessary for expression in E coli .
+Because NEUPOGEN ® is produced in E coli ‚ the product is nonglycosylated and thus differs from G - CSF isolated from a human cell .
+NEUPOGEN ® is a sterile ‚ clear ‚ colorless ‚ preservative - free liquid for parenteral administration containing Filgrastim at a specific activity of 1 . 0 ± 0 . 6 x 108 U / mg ( as measured by a cell mitogenesis assay ) .
+The product is available in single use vials and prefilled syringes .
+The single use vials contain either 300 mcg or 480 mcg Filgrastim at a fill volume of 1 . 0 mL or 1 . 6 mL , respectively .
+The single use prefilled syringes contain either 300 mcg or 480 mcg Filgrastim at a fill volume of 0 . 5 mL or 0 . 8 mL , respectively .
+See table below for product composition of each single use vial or prefilled syringe .
+300 mcg / 1 . 0 mL Vial 480 mcg / 1 . 6 mL Vial 300 mcg / 0 . 5 mL Syringe 480 mcg / 0 . 8 mL Syringe Filgrastim 300 mcg 480 mcg 300 mcg 480 mcg Acetate 0 . 59 mg 0 . 94 mg 0 . 295 mg 0 . 472 mg Sorbitol 50 . 0 mg 80 . 0 mg 25 . 0 mg 40 . 0 mg Polysorbate 80 0 . 04 mg 0 . 064 mg 0 . 02 mg 0 . 032 mg Sodium 0 . 035 mg 0 . 056 mg 0 . 0175 mg 0 . 028 mg Water for Injection USP q . s . ad 1 . 0 mL 1 . 6 mL 0 . 5 mL 0 . 8 mL CLINICAL PHARMACOLOGY Colony - stimulating FactorsColony - stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation ‚ differentiation commitment ‚ and some end - cell functional activation .
+Endogenous G - CSF is a lineage specific colony - stimulating factor which is produced by monocytes ‚ fibroblasts , and endothelial cells .
+G - CSF regulates the production of neutrophils within the bone marrow and affects neutrophil progenitor proliferation ‚ 2 ‚ 3 differentiation , 2 ‚ 4 and selected end - cell functional activation ( including enhanced phagocytic ability ‚ 5 priming of the cellular metabolism associated with respiratory burst ‚ 6 antibody dependent killing , 7 and the increased expression of some functions associated with cell surface antigens8 ) .
+G - CSF is not species specific and has been shown to have minimal direct in vivo or in vitro effects on the production of hematopoietic cell types other than the neutrophil lineage .
+Preclinical ExperienceFilgrastim was administered to monkeys ‚ dogs ‚ hamsters ‚ rats ‚ and mice as part of a preclinical toxicology program which included single - dose acute ‚ repeated - dose subacute ‚ subchronic ‚ and chronic studies .
+Single - dose administration of Filgrastim by the oral ‚ intravenous ( IV ) ‚ subcutaneous ( SC ) ‚ or intraperitoneal ( IP ) routes resulted in no significant toxicity in mice ‚ rats ‚ hamsters ‚ or monkeys .
+Although no deaths were observed in mice ‚ rats ‚ or monkeys at dose levels up to 3450 mcg / kg or in hamsters using single doses up to approximately 860 mcg / kg ‚ deaths were observed in a subchronic ( 13 - week ) study in monkeys .
+In this study ‚ evidence of neurological symptoms was seen in monkeys treated with doses of Filgrastim greater than 1150 mcg / kg / day for up to 18 days .
+Deaths were seen in 5 of the 8 treated animals and were associated with 15 - to 28 - fold increases in peripheral leukocyte counts ‚ and neutrophil - infiltrated hemorrhagic foci were seen in both the cerebrum and cerebellum .
+In contrast ‚ no monkeys died following 13 weeks of daily IV administration of Filgrastim at a dose level of 115 mcg / kg .
+In an ensuing 52 - week study ‚ one 115 mcg / kg dosed female monkey died after 18 weeks of daily IV administration of Filgrastim .
+Death was attributed to cardiopulmonary insufficiency .
+In subacute ‚ repeated - dose studies ‚ changes observed were attributable to the expected pharmacological actions of Filgrastim ( ie ‚ dose - dependent increases in white cell counts ‚ increased circulating segmented neutrophils ‚ and increased myeloid : erythroid ratio in bone marrow ) .
+In all species ‚ histopathologic examination of the liver and spleen revealed evidence of ongoing extramedullary granulopoiesis ; increased spleen weights were seen in all species and appeared to be dose - related .
+A dose - dependent increase in serum alkaline phosphatase was observed in rats ‚ and may reflect increased activity of osteoblasts and osteoclasts .
+Changes in serum chemistry values were reversible following discontinuation of treatment .
+In rats treated at doses of 1150 mcg / kg / day for 4 weeks ( 5 of 32 animals ) and for 13 weeks at doses of 100 mcg / kg / day ( 4 of 32 animals ) and 500 mcg / kg / day ( 6 of 32 animals ) ‚ articular swelling of the hind legs was observed .
+Some degree of hind leg dysfunction was also observed ; however ‚ symptoms reversed following cessation of dosing .
+In rats ‚ osteoclasis and osteoanagenesis were found in the femur ‚ humerus ‚ coccyx ‚ and hind legs ( where they were accompanied by synovitis ) after IV treatment for 4 weeks ( 115 to 1150 mcg / kg / day ) ‚ and in the sternum after IV treatment for 13 weeks ( 115 to 575 mcg / kg / day ) .
+These effects reversed to normal within 4 to 5 weeks following cessation of treatment .
+In the 52 - week chronic ‚ repeated - dose studies performed in rats ( IP injection up to 57 . 5 mcg / kg / day ) ‚ and cynomolgus monkeys ( IV injection of up to 115 mcg / kg / day ) ‚ changes observed were similar to those noted in the subacute studies .
+Expected pharmacological actions of Filgrastim included dose - dependent increases in white cell counts ‚ increased circulating segmented neutrophils and alkaline phosphatase levels ‚ and increased myeloid : erythroid ratios in the bone marrow .
+Decreases in platelet counts were also noted in primates .
+In no animals tested were hemorrhagic complications observed .
+Rats displayed dose - related swelling of the hind limb ‚ accompanied by some degree of hind limb dysfunction ; osteopathy was noted microscopically .
+Enlarged spleens ( both species ) and livers ( monkeys ) ‚ reflective of ongoing extramedullary granulopoiesis ‚ as well as myeloid hyperplasia of the bone marrow ‚ were observed in a dose - dependent manner .
+Pharmacologic Effects of NEUPOGEN ® In phase 1 studies involving 96 patients with various nonmyeloid malignancies ‚ NEUPOGEN ® administration resulted in a dose - dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg / kg / day . 9 - 11 This increase in neutrophil counts was observed whether NEUPOGEN ® was administered IV ( 1 to 70 mcg / kg twice daily ) ‚ 9 SC ( 1 to 3 mcg / kg once daily ) ‚ 11 or by continuous SC infusion ( 3 to 11 mcg / kg / day ) . 10 With discontinuation of NEUPOGEN ® therapy ‚ neutrophil counts returned to baseline ‚ in most cases within 4 days .
+Isolated neutrophils displayed normal phagocytic ( measured by zymosan - stimulated chemoluminescence ) and chemotactic ( measured by migration under agarose using N - formyl - methionyl - leucyl - phenylalanine [ fMLP ] as the chemotaxin ) activity in vitro .
+The absolute monocyte count was reported to increase in a dose - dependent manner in most patients receiving NEUPOGEN ® ; however ‚ the percentage of monocytes in the differential count remained within the normal range .
+In all studies to date ‚ absolute counts of both eosinophils and basophils did not change and were within the normal range following administration of NEUPOGEN ® .
+Increases in lymphocyte counts following NEUPOGEN ® administration have been reported in some normal subjects and cancer patients .
+White blood cell ( WBC ) differentials obtained during clinical trials have demonstrated a shift towards earlier granulocyte progenitor cells ( left shift ) ‚ including the appearance of promyelocytes and myeloblasts ‚ usually during neutrophil recovery following the chemotherapy - induced nadir .
+In addition ‚ Dohle bodies ‚ increased granulocyte granulation ‚ and hypersegmented neutrophils have been observed .
+Such changes were transient and were not associated with clinical sequelae , nor were they necessarily associated with infection .
+PharmacokineticsAbsorption and clearance of NEUPOGEN ® follows first - order pharmacokinetic modeling without apparent concentration dependence .
+A positive linear correlation occurred between the parenteral dose and both the serum concentration and area under the concentration - time curves .
+Continuous IV infusion of 20 mcg / kg of NEUPOGEN ® over 24 hours resulted in mean and median serum concentrations of approximately 48 and 56 ng / mL ‚ respectively .
+Subcutaneous administration of 3 . 45 mcg / kg and 11 . 5 mcg / kg resulted in maximum serum concentrations of 4 and 49 ng / mL ‚ respectively ‚ within 2 to 8 hours .
+The volume of distribution averaged 150 mL / kg in both normal subjects and cancer patients .
+The elimination half - life ‚ in both normal subjects and cancer patients ‚ was approximately 3 . 5 hours .
+Clearance rates of NEUPOGEN ® were approximately 0 . 5 to 0 . 7 mL / minute / kg .
+Single parenteral doses or daily IV doses ‚ over a 14 - day period ‚ resulted in comparable half - lives .
+The half - lives were similar for IV administration ( 231 minutes ‚ following doses of 34 . 5 mcg / kg ) and for SC administration ( 210 minutes ‚ following NEUPOGEN ® doses of 3 . 45 mcg / kg ) .
+Continuous 24 - hour IV infusions of 20 mcg / kg over an 11 - to 20 - day period produced steady - state serum concentrations of NEUPOGEN ® with no evidence of drug accumulation over the time period investigated .
+Pharmacokinetic data in geriatric patients ( ≥ 65 years ) are not available .
+CLINICAL EXPERIENCE Cancer Patients Receiving Myelosuppressive ChemotherapyNEUPOGEN ® has been shown to be safe and effective in accelerating the recovery of neutrophil counts following a variety of chemotherapy regimens .
+In a phase 3 clinical trial in small cell lung cancer ‚ patients received SC administration of NEUPOGEN ® ( 4 to 8 mcg / kg / day ‚ days 4 to 17 ) or placebo .
+In this study ‚ the benefits of NEUPOGEN ® therapy were shown to be prevention of infection as manifested by febrile neutropenia ‚ decreased hospitalization ‚ and decreased IV antibiotic usage .
+No difference in survival or disease progression was demonstrated .
+In the phase 3 ‚ randomized ‚ double - blind ‚ placebo - controlled trial conducted in patients with small cell lung cancer ‚ patients were randomized to receive NEUPOGEN ® ( n = 99 ) or placebo ( n = 111 ) starting on day 4 ‚ after receiving standard dose chemotherapy with cyclophosphamide ‚ doxorubicin ‚ and etoposide .
+A total of 210 patients were evaluated for efficacy and 207 evaluated for safety .
+Treatment with NEUPOGEN ® resulted in a clinically and statistically significant reduction in the incidence of infection ‚ as manifested by febrile neutropenia ; the incidence of at least one infection over all cycles of chemotherapy was 76 % ( 84 / 111 ) for placebo - treated patients ‚ versus 40 % ( 40 / 99 ) for NEUPOGEN ® - treated patients ( p less than 0 . 001 ) .
+The following secondary analyses were also performed .
+The requirements for in - patient hospitalization and antibiotic use were also significantly decreased during the first cycle of chemotherapy ; incidence of hospitalization was 69 % ( 77 / 111 ) for placebo - treated patients in cycle 1 ‚ versus 52 % ( 51 / 99 ) for NEUPOGEN ® - treated patients ( p = 0 . 032 ) .
+The incidence of IV antibiotic usage was 60 % ( 67 / 111 ) for placebo - treated patients in cycle 1 ‚ versus 38 % ( 38 / 99 ) for NEUPOGEN ® - treated patients ( p = 0 . 003 ) .
+The incidence ‚ severity ‚ and duration of severe neutropenia ( absolute neutrophil count [ ANC ] less than 500 / mm3 ) following chemotherapy were all significantly reduced .
+The incidence of severe neutropenia in cycle 1 was 84 % ( 83 / 99 ) for patients receiving NEUPOGEN ® versus 96 % ( 106 / 110 ) for patients receiving placebo ( p = 0 . 004 ) .
+Over all cycles ‚ patients randomized to NEUPOGEN ® had a 57 % ( 286 / 500 cycles ) rate of severe neutropenia versus 77 % ( 416 / 543 cycles ) for patients randomized to placebo .
+The median duration of severe neutropenia in cycle 1 was reduced from 6 days ( range 0 to 10 days ) for patients receiving placebo to 2 days ( range 0 to 9 days ) for patients receiving NEUPOGEN ® ( p less than 0 . 001 ) .
+The mean duration of neutropenia in cycle 1 was 5 . 64 ± 2 . 27 days for patients receiving placebo versus 2 . 44 ± 1 . 90 days for patients receiving NEUPOGEN ® .
+Over all cycles ‚ the median duration of neutropenia was 3 days for patients randomized to placebo versus 1 day for patients randomized to NEUPOGEN ® .
+The median severity of neutropenia ( as measured by ANC nadir ) was 72 / mm3 ( range 0 / mm3 to 7912 / mm3 ) in cycle 1 for patients receiving NEUPOGEN ® versus 38 / mm3 ( range 0 / mm3 to 9520 / mm3 ) for patients receiving placebo ( p = 0 . 012 ) .
+The mean severity of neutropenia in cycle 1 was 496 / mm3 ± 1382 / mm3 for patients receiving NEUPOGEN ® versus 204 / mm3 ± 953 / mm3 for patients receiving placebo .
+Over all cycles ‚ the ANC nadir for patients randomized to NEUPOGEN ® was 403 / mm3 ‚ versus 161 / mm3 for patients randomized to placebo .
+Administration of NEUPOGEN ® resulted in an earlier ANC nadir following chemotherapy than was experienced by patients receiving placebo ( day 10 vs day 12 ) .
+NEUPOGEN ® was well tolerated when given SC daily at doses of 4 to 8 mcg / kg for up to 14 consecutive days following each cycle of chemotherapy ( see ADVERSE REACTIONS ) .
+Several other phase 1 / 2 studies ‚ which did not directly measure the incidence of infection ‚ but which did measure increases in neutrophils ‚ support the efficacy of NEUPOGEN ® .
+The regimens are presented to provide some background on the clinical experience with NEUPOGEN ® .
+No claim regarding the safety or efficacy of the chemotherapy regimens is made .
+The effects of NEUPOGEN ® on tumor growth or on the anti - tumor activity of the chemotherapy were not assessed .
+The doses of NEUPOGEN ® used in these studies are considerably greater than those found to be effective in the phase 3 study described above .
+Such phase 1 / 2 studies are summarized in the following table .
+Type of Malignacy Regimen Chemotherapy Dose No .
+Pts .
+Trial Phase NEUPOGEN ® Daily Dosage * Small Cell Lung Cancer Cyclophosphamide 1 g / m2 / day 210 3 4 - 8 mcg / kg SC Doxorubicin 50 mg / m2 / day days 4 - 17 Etoposide 120 mg / m2 / day x 3 q 21 days Small Cell Lung Cancer11 Ifosfamide 5 g / m2 / day 12 1 / 2 5 . 75 - 46 mcg / kg IV Doxorubicin 50 mg / m2 / day days 4 - 17 Etoposide 120 mg / m2 / day x 3 Mesna 8 g / m2 / day q 21 days Urothelial | Cancer12 Methotrexate 30 mg / m2 / day x 2 40 1 / 2 3 . 45 - 69 mcg / kg IV Vinblastine 3 mg / m2 / day x 2 days 4 - 11 Doxorubicin 30 mg / m2 / day Cisplatin 70 mg / m2 / day q 28 days Various | Nonmyeloid | Malignancies13 Cyclophosphamide 2 . 5 g / m2 / day x 2 18 1 / 2 23 - 69 mcg / kg † IV Etoposide 500 mg / m2 / day x 3 days 8 - 28 Cisplatin 50 mg / m2 / day x 3 q 28 days Breast / Ovarian | Cancer14 Doxorubicin ‡ 75 mg / m2 21 2 11 . 5 mcg / kg IV 100 mg / m2 days 2 - 9 125 mg / m2 5 . 75 mcg / kg IV 150 mg / m2 days 10 - 12 q 14 days Neuroblastoma Cyclophosphamide 150 mg / m2 x 7 12 2 5 . 45 - 17 . 25 mcg / kg SC Doxorubicin 35 mg / m2 days 6 - 19 75 mg / m2 Cisplatin 90 mg / m2 q 28 days ( cycles 1 ‚ 3 ‚ 5 ) § * NEU ® doses were those that accelerated neutrophil production .
+Doses which provided no additional acceleration beyond that achieved at the next lower dose are not reported .
+† Lowest dose ( s ) tested in the study .
+‡ Patients received doxorubicin at either 75 ‚ 100 ‚ 125 ‚ or 150 mg / m2 .
+§ Cycles 2 ‚ 6 = cyclophosphamide 150 mg / m2 x 7 and etoposide 280 mg / m2 x 3 .
+Cycle 4 = cisplatin 90 mg / m2 x 1 and etoposide 280 mg / m2 x 3 .
+Patients With Acute Myeloid Leukemia Receiving Induction or Consolidation ChemotherapyIn a randomized , double - blind ‚ placebo - controlled ‚ multi - center ‚ phase 3 clinical trial ‚ 521 patients ( median age 54 ‚ range 16 to 89 years ) were treated for de novo acute myeloid leukemia ( AML ) .
+Following a standard induction chemotherapy regimen comprising daunorubicin , cytosine arabinoside , and etoposide15 ( DAV 3 + 7 + 5 ) , patients received either NEUPOGEN ® at 5 mcg / kg / day or placebo , SC , from 24 hours after the last dose of chemotherapy until neutrophil recovery ( ANC 1000 / mm3 for 3 consecutive days or 10 , 000 / mm3 for 1 day ) or for a maximum of 35 days .
+Treatment with NEUPOGEN ® significantly reduced the median time to ANC recovery and the median duration of fever , antibiotic use , and hospitalization following induction chemotherapy .
+In the NEUPOGEN ® - treated group ‚ the median time from initiation of chemotherapy to ANC recovery ( ANC greater than or equal to 500 / mm3 ) was 20 days ( vs 25 days in the control group , p = 0 . 0001 ) , the median duration of fever was reduced by 1 . 5 days ( p = 0 . 009 ) , and there were statistically significant reductions in the durations of IV antibiotic use and hospitalization .
+During consolidation therapy ( DAV 2 + 5 + 5 ) , patients treated with NEUPOGEN ® also experienced significant reductions in the incidence of severe neutropenia , time to neutrophil recovery , the incidence and duration of fever , and the durations of IV antibiotic use and hospitalization .
+Patients treated with a further course of standard ( DAV 2 + 5 + 5 ) or high - dose cytosine arabinoside consolidation also experienced significant reductions in the duration of neutropenia .
+There were no statistically significant differences between NEUPOGEN ® and placebo groups in complete remission rate ( 69 % NEUPOGEN ® vs 68 % placebo , p = 0 . 77 ) , disease - free survival ( median 342 days NEUPOGEN ® [ n = 178 ] , 322 days placebo [ n = 177 ] , p = 0 . 99 ) , time to progression of all randomized patients ( median 165 days NEUPOGEN ® , 186 days placebo , p = 0 . 87 ) , or overall survival ( median 380 days NEUPOGEN ® , 425 days placebo , p = 0 . 83 ) .
+Cancer Patients Receiving Bone Marrow TransplantIn two separate randomized ‚ controlled trials ‚ patients with Hodgkin ’ s disease ( HD ) and non - Hodgkin ’ s lymphoma ( NHL ) were treated with myeloablative chemotherapy and autologous bone marrow transplantation ( ABMT ) .
+In one study ( n = 54 ) ‚ NEUPOGEN ® was administered at doses of 10 or 30 mcg / kg / day ; a third treatment group in this study received no NEUPOGEN ® .
+A statistically significant reduction in the median number of days of severe neutropenia ( ANC less than 500 / mm3 ) occurred in the NEUPOGEN ® - treated group versus the control group ( 23 days in the control group ‚ 11 days in the 10 mcg / kg / day group ‚ and 14 days in the 30 mcg / kg / day group [ 11 days in the combined treatment groups ‚ p = 0 . 004 ] ) .
+In the second study ( n = 44 ‚ 43 patients evaluable ) ‚ NEUPOGEN ® was administered at doses of 10 or 20 mcg / kg / day ; a third treatment group in this study received no NEUPOGEN ® .
+A statistically significant reduction in the median number of days of severe neutropenia occurred in the NEUPOGEN ® - treated group versus the control group ( 21 . 5 days in the control group and 10 days in both treatment groups ‚ p less than 0 . 001 ) .
+The number of days of febrile neutropenia was also reduced significantly in this study ( 13 . 5 days in the control group ‚ 5 days in the 10 mcg / kg / day group ‚ and 5 . 5 days in the 20 mcg / kg / day group [ 5 days in the combined treatment groups ‚ p less than 0 . 0001 ] ) .
+Reductions in the number of days of hospitalization and antibiotic use were also seen ‚ although these reductions were not statistically significant .
+There were no effects on red blood cell or platelet levels .
+In a randomized ‚ placebo - controlled trial ‚ 70 patients with myeloid and nonmyeloid malignancies were treated with myeloablative therapy and allogeneic bone marrow transplant followed by 300 mcg / m2 / day of a Filgrastim product .
+A statistically significant reduction in the median number of days of severe neutropenia occurred in the treated group versus the control group ( 19 days in the control group and 15 days in the treatment group ‚ p less than 0 . 001 ) and time to recovery of ANC to greater than or equal to 500 / mm3 ( 21 days in the control group and 16 days in the treatment group ‚ p less than 0 . 001 ) .
+In three nonrandomized studies ( n = 119 ) ‚ patients received ABMT and treatment with NEUPOGEN ® .
+One study ( n = 45 ) involved patients with breast cancer and malignant melanoma .
+A second study ( n = 39 ) involved patients with HD .
+The third study ( n = 35 ) involved patients with NHL ‚ acute lymphoblastic leukemia ( ALL ) ‚ and germ cell tumor .
+In these studies ‚ the recovery of the ANC to greater than or equal to 500 / mm3 ranged from a median of 11 . 5 to 13 days .
+None of the conditioning regimens used in the ABMT studies included radiation therapy .
+While these studies were not designed to compare survival ‚ this information was collected and evaluated .
+The overall survival and disease progression of patients receiving NEUPOGEN ® in these studies were similar to those observed in the respective control groups and to historical data .
+Peripheral Blood Progenitor Cell Collection and Therapy in Cancer PatientsAll patients in the Amgen - sponsored trials received a similar mobilization / collection regimen : NEUPOGEN ® was administered for 6 to 7 days ‚ with an apheresis procedure on days 5 ‚ 6 , and 7 ( except for a limited number of patients receiving apheresis on days 4 ‚ 6 , and 8 ) .
+In a non - Amgen - sponsored study ‚ patients underwent mobilization to a target number of mononuclear cells ( MNC ) ‚ with apheresis starting on day 5 .
+There are no data on the mobilization of peripheral blood progenitor cells ( PBPC ) after days 4 to 5 that are not confounded by leukapheresis .
+Mobilization : Mobilization of PBPC was studied in 50 heavily pretreated patients ( median number of prior cycles = 9 . 5 ) with NHL ‚ HD , or ALL ( Amgen study 1 ) .
+CFU - GM was used as the marker for engraftable PBPC .
+The median CFU - GM level on each day of mobilization was determined from the data available ( CFU - GM assays were not obtained on all patients on each day of mobilization ) .
+These data are presented below .
+The data from Amgen study 1 were supported by data from Amgen study 2 in which 22 pretreated breast cancer patients ( median number of prior cycles = 3 ) were studied .
+Both the CFU - GM and CD34 + cells reached a maximum on day 5 at greater than 10 - fold over baseline and then remained elevated with leukapheresis .
+Progenitor Cell Levels in Peripheral Blood by Mobilization Day No .
+Samples Median ( 25 % - 75 % ) No .
+Samples Median ( 25 % - 75 % ) No .
+Samples Median ( 25 % - 75 % ) Day 1 11 18 ( 13 - 62 ) 20 42 ( 15 - 151 ) 20 0 . 13 ( 0 . 02 - 0 . 66 ) Day 2 7 22 ( 3 - 61 ) n / a * n / a * n / a * n / a * Day 3 10 138 ( 39 - 364 ) n / a * n / a * n / a * n / a * Day 4 18 365 ( 158 - 864 ) 18 576 ( 108 - 1819 ) 17 2 . 11 ( 0 . 58 - 3 . 93 ) Day 5 36 781 ( 391 - 1608 ) 21 960 ( 72 - 1677 ) 22 3 . 16 ( 1 . 08 - 6 . 11 ) Day 6 46 505 ( 199 - 1397 ) 22 756 ( 70 - 3486 ) 22 2 . 67 ( 1 . 09 - 4 . 40 ) Day 7 37 333 ( 111 - 938 ) 22 597 ( 118 - 2009 ) 21 2 . 64 ( 0 . 78 - 4 . 22 ) Day 8 15 383 ( 94 - 815 ) 12 51 ( 10 - 746 ) 12 1 . 61 ( 0 . 38 - 4 . 31 ) * n / a = not available In three studies of patients with prior exposure to chemotherapy ‚ the median CFU - GM yield in the leukapheresis product ranged from 20 . 9 to 32 . 7 x 104 / kg body weight ( n = 105 ) .
+In two of these studies where CD34 + yields in the leukapheresis product were also determined ‚ the median CD34 + yields were 3 . 11 and 2 . 80 x 106 / kg , respectively ( n = 56 ) .
+In an additional study of 18 chemotherapy - naive patients ‚ the median CFU - GM yield was 123 . 4 x 104 / kg .
+Engraftment : Engraftment following NEUPOGEN ® - mobilized PBPC is summarized for 101 patients in the following table .
+In all studies , a Cox regression model showed that the total number of CFU - GM and / or CD34 + cells collected was a significant predictor of time to platelet recovery .
+In a randomized , unblinded study of patients with HD or NHL undergoing myeloablative chemotherapy ( Amgen study 3 ) ‚ 27 patients received NEUPOGEN ® - mobilized PBPC followed by NEUPOGEN ® and 31 patients received ABMT followed by NEUPOGEN ® .
+Patients randomized to the NEUPOGEN ® - mobilized PBPC group compared to the ABMT group had significantly fewer days of platelet transfusions ( median 6 vs 10 days ) ‚ a significantly shorter time to a sustained platelet count greater than 20 ‚ 000 / mm3 ( median 16 vs 23 days ) ‚ a significantly shorter time to recovery of a sustained ANC greater than or equal to 500 / mm3 ( median 11 vs 14 days ) ‚ significantly fewer days of red blood cell transfusions ( median 2 vs 3 days ) and a significantly shorter duration of posttransplant hospitalization .
+Amgen - sponsored Study 1 N = 13 Amgen - sponsored Study 2 N = 22 Amgen - sponsored Study 3 N = 27 Non - Amgen - sponsored Study N = 39 Median PBPC / kg Collected MNC 9 . 5 x 108 9 . 5 x 108 8 . 1 x 108 10 . 3 x 108 CD34 + n / a * 3 . 1 x 106 2 . 8 x 106 6 . 2 x 106 CFU - GM 63 . 9 x 104 25 . 3 x 104 32 . 6 x 104 n / a * Days to ANC ≥ 500 / mm3 Median 9 10 11 10 Range 8 - 10 8 - 15 9 - 38 7 - 40 Days to Plt .
+≥ 20 , 00 / mm3 Median 10 12 . 5 16 15 . 5 Range 7 - 16 10 - 30 8 - 52 7 - 63 * n / a = not available Three of the 101 patients ( 3 % ) did not achieve the criteria for engraftment as defined by a platelet count greater than or equal to 20 ‚ 000 / mm3 by day 28 .
+In clinical trials of NEUPOGEN ® for the mobilization of PBPC ‚ NEUPOGEN ® was administered to patients at 5 to 24 mcg / kg / day after reinfusion of the collected cells until a sustainable ANC ( greater than or equal to 500 / mm3 ) was reached .
+The rate of engraftment of these cells in the absence of NEUPOGEN ® posttransplantation has not been studied .
+Patients With Severe Chronic NeutropeniaSevere chronic neutropenia ( SCN ) ( idiopathic ‚ cyclic ‚ and congenital ) is characterized by a selective decrease in the number of circulating neutrophils and an enhanced susceptibility to bacterial infections .
+The daily administration of NEUPOGEN ® has been shown to be safe and effective in causing a sustained increase in the neutrophil count and a decrease in infectious morbidity in children and adults with the clinical syndrome of SCN . 16 In the phase 3 trial ‚ summarized in the following table ‚ daily treatment with NEUPOGEN ® resulted in significant beneficial changes in the incidence and duration of infection ‚ fever ‚ antibiotic use ‚ and oropharyngeal ulcers .
+In this trial ‚ 120 patients with a median age of 12 years ( range 1 to 76 years ) were treated .
+Overall Significant Changes in Clinical Endpoints Median Incidence * ( events ) or Duration ( days ) per 28 - day Period Control Patients † NEUPOGEN ® - treated Patients p - value Incidence of Infection 0 . 50 0 . 20 less than 0 . 001 Incidence of Fever 0 . 25 0 . 20 less than 0 . 001 Duration of Fever 0 . 63 0 . 20 0 . 005 Incidence of Oropharyngeal Ulcers 0 . 26 0 . 00 less than 0 . 001 Incidence of Antibiotic Use 0 . 49 0 . 20 less than 0 . 001 * Incidence values were calculated for each patient ‚ and are defined as the total number of events experienced divided by the number of 28 - day periods of exposure ( on - study ) .
+Median incidence values were then reported for each patient group .
+† Control patients were observed for a 4 - month period .
+The incidence for each of these 5 clinical parameters was lower in the NEUPOGEN ® arm compared to the control arm for cohorts in each of the 3 major diagnostic categories .
+All 3 diagnostic groups showed favorable trends in favor of treatment .
+An analysis of variance showed no significant interaction between treatment and diagnosis ‚ suggesting that efficacy did not differ substantially in the different diseases .
+Although NEUPOGEN ® substantially reduced neutropenia in all patient groups ‚ in patients with cyclic neutropenia ‚ cycling persisted but the period of neutropenia was shortened to 1 day .
+As a result of the lower incidence and duration of infections ‚ there was also a lower number of episodes of hospitalization ( 28 hospitalizations in 62 patients in the treated group vs 44 hospitalizations in 60 patients in the control group over a 4 - month period [ p = 0 . 0034 ] ) .
+Patients treated with NEUPOGEN ® also reported a lower number of episodes of diarrhea ‚ nausea ‚ fatigue ‚ and sore throat .
+In the phase 3 trial ‚ untreated patients had a median ANC of 210 / mm3 ( range 0 to 1550 / mm3 ) .
+NEUPOGEN ® therapy was adjusted to maintain the median ANC between 1500 and 10 ‚ 000 / mm3 .
+Overall ‚ the response to NEUPOGEN ® was observed in 1 to 2 weeks .
+The median ANC after 5 months of NEUPOGEN ® therapy for all patients was 7460 / mm3 ( range 30 to 30 ‚ 880 / mm3 ) .
+NEUPOGEN ® dosing requirements were generally higher for patients with congenital neutropenia ( 2 . 3 to 40 mcg / kg / day ) than for patients with idiopathic ( 0 . 6 to 11 . 5 mcg / kg / day ) or cyclic ( 0 . 5 to 6 mcg / kg / day ) neutropenia .
+INDICATIONS AND USAGE Cancer Patients Receiving Myelosuppressive ChemotherapyNEUPOGEN ® is indicated to decrease the incidence of infection ‚ as manifested by febrile neutropenia ‚ in patients with nonmyeloid malignancies receiving myelosuppressive anti - cancer drugs associated with a significant incidence of severe neutropenia with fever ( see CLINICAL EXPERIENCE ) .
+A complete blood count ( CBC ) and platelet count should be obtained prior to chemotherapy ‚ and twice per week ( see LABORATORY MONITORING ) during NEUPOGEN ® therapy to avoid leukocytosis and to monitor the neutrophil count .
+In phase 3 clinical studies ‚ NEUPOGEN ® therapy was discontinued when the ANC was ≥ 10 ‚ 000 / mm3 after the expected chemotherapy - induced nadir .
+Patients With Acute Myeloid Leukemia Receiving Induction or Consolidation ChemotherapyNEUPOGEN ® is indicated for reducing the time to neutrophil recovery and the duration of fever , following induction or consolidation chemotherapy treatment of adults with AML .
+Cancer Patients Receiving Bone Marrow TransplantNEUPOGEN ® is indicated to reduce the duration of neutropenia and neutropenia - related clinical sequelae ‚ eg ‚ febrile neutropenia ‚ in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by marrow transplantation ( see CLINICAL EXPERIENCE ) .
+It is recommended that CBCs and platelet counts be obtained at a minimum of 3 times per week ( see LABORATORY MONITORING ) following marrow infusion to monitor the recovery of marrow reconstitution .
+Patients Undergoing Peripheral Blood Progenitor Cell Collection and TherapyNEUPOGEN ® is indicated for the mobilization of hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis .
+Mobilization allows for the collection of increased numbers of progenitor cells capable of engraftment compared with collection by leukapheresis without mobilization or bone marrow harvest .
+After myeloablative chemotherapy ‚ the transplantation of an increased number of progenitor cells can lead to more rapid engraftment ‚ which may result in a decreased need for supportive care ( see CLINICAL EXPERIENCE ) .
+Patients With Severe Chronic NeutropeniaNEUPOGEN ® is indicated for chronic administration to reduce the incidence and duration of sequelae of neutropenia ( eg ‚ fever ‚ infections ‚ oropharyngeal ulcers ) in symptomatic patients with congenital neutropenia ‚ cyclic neutropenia ‚ or idiopathic neutropenia ( see CLINICAL EXPERIENCE ) .
+It is essential that serial CBCs with differential and platelet counts ‚ and an evaluation of bone marrow morphology and karyotype be performed prior to initiation of NEUPOGEN ® therapy ( see WARNINGS ) .
+The use of NEUPOGEN ® prior to confirmation of SCN may impair diagnostic efforts and may thus impair or delay evaluation and treatment of an underlying condition ‚ other than SCN ‚ causing the neutropenia .
+CONTRAINDICATIONS NEUPOGEN ® is contraindicated in patients with known hypersensitivity to E coli - derived proteins ‚ Filgrastim ‚ or any component of the product .
+WARNINGS Allergic ReactionsAllergic - type reactions occurring on initial or subsequent treatment have been reported in less than 1 in 4000 patients treated with NEUPOGEN ® .
+These have generally been characterized by systemic symptoms involving at least 2 body systems ‚ most often skin ( rash ‚ urticaria ‚ facial edema ) ‚ respiratory ( wheezing ‚ dyspnea ) ‚ and cardiovascular ( hypotension ‚ tachycardia ) .
+Some reactions occurred on initial exposure .
+Reactions tended to occur within the first 30 minutes after administration and appeared to occur more frequently in patients receiving NEUPOGEN ® IV .
+Rapid resolution of symptoms occurred in most cases after administration of antihistamines ‚ steroids ‚ bronchodilators ‚ and / or epinephrine .
+Symptoms recurred in more than half the patients who were rechallenged .
+SPLENIC RUPTURESPLENIC RUPTURE , INCLUDING FATAL CASES , HAS BEEN REPORTED FOLLOWING THE ADMINISTRATION OF NEUPOGEN ® .
+INDIVIDUALS RECEIVING NEUPOGEN ® WHO REPORT LEFT UPPER ABDOMINAL AND / OR SHOULDER TIP PAIN SHOULD BE EVALUATED FOR AN ENLARGED SPLEEN OR SPLENIC RUPTURE .
+Acute Respiratory Distress Syndrome ( ARDS ) Acute respiratory distress syndrome ( ARDS ) has been reported in patients receiving NEUPOGEN ® , and is postulated to be secondary to an influx of neutrophils to sites of inflammation in the lungs .
+Patients receiving NEUPOGEN ® who develop fever , lung infiltrates , or respiratory distress should be evaluated for the possibility of ARDS .
+In the event that ARDS occurs , NEUPOGEN ® should be withheld until resolution of ARDS or discontinued .
+Patients should receive appropriate medical management for this condition .
+Alveolar Hemorrhage and HemoptysisAlveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization has been reported in healthy donors undergoing peripheral blood progenitor cell ( PBPC ) mobilization .
+Hemoptysis resolved with discontinuation of NEUPOGEN ® .
+The use of NEUPOGEN ® for PBPC mobilization in healthy donors is not an approved indication .
+Sickle Cell DisordersSevere sickle cell crises , in some cases resulting in death , have been associated with the use of NEUPOGEN ® in patients with sickle cell disorders .
+Only physicians qualified by specialized training or experience in the treatment of patients with sickle cell disorders should prescribe NEUPOGEN ® for such patients , and only after careful consideration of the potential risks and benefits .
+Patients With Severe Chronic NeutropeniaThe safety and efficacy of NEUPOGEN ® in the treatment of neutropenia due to other hematopoietic disorders ( eg ‚ myelodysplastic syndrome [ MDS ] ) have not been established .
+Care should be taken to confirm the diagnosis of SCN before initiating NEUPOGEN ® therapy .
+MDS and AML have been reported to occur in the natural history of congenital neutropenia without cytokine therapy . 17 Cytogenetic abnormalities , transformation to MDS , and AML have also been observed in patients treated with NEUPOGEN ® for SCN .
+Based on available data including a postmarketing surveillance study , the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia ( see ADVERSE REACTIONS ) .
+Abnormal cytogenetics and MDS have been associated with the eventual development of myeloid leukemia .
+The effect of NEUPOGEN ® on the development of abnormal cytogenetics and the effect of continued NEUPOGEN ® administration in patients with abnormal cytogenetics or MDS are unknown .
+If a patient with SCN develops abnormal cytogenetics or myelodysplasia ‚ the risks and benefits of continuing NEUPOGEN ® should be carefully considered .
+PRECAUTIONS GeneralSimultaneous Use With Chemotherapy and Radiation TherapyThe safety and efficacy of NEUPOGEN ® given simultaneously with cytotoxic chemotherapy have not been established .
+Because of the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy ‚ do not use NEUPOGEN ® in the period 24 hours before through 24 hours after the administration of cytotoxic chemotherapy ( see DOSAGE AND ADMINISTRATION ) .
+The efficacy of NEUPOGEN ® has not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression ( eg , nitrosoureas ) or with mitomycin C or with myelosuppressive doses of antimetabolites such as 5 - fluorouracil .
+The safety and efficacy of NEUPOGEN ® have not been evaluated in patients receiving concurrent radiation therapy .
+Simultaneous use of NEUPOGEN ® with chemotherapy and radiation therapy should be avoided .
+Potential Effect on Malignant CellsNEUPOGEN ® is a growth factor that primarily stimulates neutrophils .
+However ‚ the possibility that NEUPOGEN ® can act as a growth factor for any tumor type cannot be excluded .
+In a randomized study evaluating the effects of NEUPOGEN ® versus placebo in patients undergoing remission induction for AML , there was no significant difference in remission rate , disease - free , or overall survival ( see CLINICAL EXPERIENCE ) .
+The safety of NEUPOGEN ® in chronic myeloid leukemia ( CML ) and myelodysplasia has not been established .
+When NEUPOGEN ® is used to mobilize PBPC ‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product .
+The effect of reinfusion of tumor cells has not been well studied ‚ and the limited data available are inconclusive .
+LeukocytosisCancer Patients Receiving Myelosuppressive ChemotherapyWhite blood cell counts of 100 ‚ 000 / mm3 or greater were observed in approximately 2 % of patients receiving NEUPOGEN ® at doses above 5 mcg / kg / day .
+There were no reports of adverse events associated with this degree of leukocytosis .
+In order to avoid the potential complications of excessive leukocytosis ‚ a CBC is recommended twice per week during NEUPOGEN ® therapy ( see LABORATORY MONITORING ) .
+Premature Discontinuation of NEUPOGEN ® TherapyCancer Patients Receiving Myelosuppressive ChemotherapyA transient increase in neutrophil counts is typically seen 1 to 2 days after initiation of NEUPOGEN ® therapy .
+However ‚ for a sustained therapeutic response ‚ NEUPOGEN ® therapy should be continued following chemotherapy until the post nadir ANC reaches 10 ‚ 000 / mm3 .
+Therefore ‚ the premature discontinuation of NEUPOGEN ® therapy ‚ prior to the time of recovery from the expected neutrophil nadir ‚ is generally not recommended ( see DOSAGE AND ADMINISTRATION ) .
+ImmunogenicityAs with all therapeutic proteins , there is a potential for immunogenicity .
+The incidence of antibody development in patients receiving NEUPOGEN ® has not been adequately determined .
+While available data suggest that a small proportion of patients developed binding antibodies to Filgrastim , the nature and specificity of these antibodies has not been adequately studied .
+In clinical studies comparing NEUPOGEN ® and Neulasta ® , the incidence of antibodies binding to NEUPOGEN ® was 3 % ( 11 / 333 ) .
+In these 11 patients , no evidence of a neutralizing response was observed using a cell - based bioassay .
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay , and the observed incidence of antibody positivity in an assay may be influenced by several factors including timing of sampling , sample handling , concomitant medications , and underlying disease .
+Therefore , comparison of the incidence of antibodies to NEUPOGEN ® with the incidence of antibodies to other products may be misleading .
+Cytopenias resulting from an antibody response to exogenous growth factors have been reported on rare occasions in patients treated with other recombinant growth factors .
+There is a theoretical possibility that an antibody directed against Filgrastim may cross - react with endogenous G - CSF , resulting in immune - mediated neutropenia ; however , this has not been reported in clinical studies or in post - marketing experience .
+Patients who develop hypersensitivity to Filgrastim ( NEUPOGEN ® ) may have allergic or hypersensitivity reactions to other E coli - derived proteins .
+Cutaneous VasculitisCutaneous vasculitis has been reported in patients treated with NEUPOGEN ® .
+In most cases ‚ the severity of cutaneous vasculitis was moderate or severe .
+Most of the reports involved patients with SCN receiving long - term NEUPOGEN ® therapy .
+Symptoms of vasculitis generally developed simultaneously with an increase in the ANC and abated when the ANC decreased .
+Many patients were able to continue NEUPOGEN ® at a reduced dose .
+Information for Patients and CaregiversPatients should be referred to the “ Information for Patients and Caregivers ” labeling included with the package insert in each dispensing pack of NEUPOGEN ® vials or NEUPOGEN ® prefilled syringes .
+The “ Information for Patients and Caregivers ” labeling provides information about neutrophils and neutropenia and the safety and efficacy of NEUPOGEN ® .
+It is not intended to be a disclosure of all known or possible effects .
+Laboratory MonitoringCancer Patients Receiving Myelosuppressive ChemotherapyA CBC and platelet count should be obtained prior to chemotherapy ‚ and at regular intervals ( twice per week ) during NEUPOGEN ® therapy .
+Following cytotoxic chemotherapy ‚ the neutrophil nadir occurred earlier during cycles when NEUPOGEN ® was administered ‚ and WBC differentials demonstrated a left shift ‚ including the appearance of promyelocytes and myeloblasts .
+In addition ‚ the duration of severe neutropenia was reduced ‚ and was followed by an accelerated recovery in the neutrophil counts .
+Cancer Patients Receiving Bone Marrow TransplantFrequent CBCs and platelet counts are recommended ( at least 3 times per week ) following marrow transplantation .
+Patients With Severe Chronic NeutropeniaDuring the initial 4 weeks of NEUPOGEN ® therapy and during the 2 weeks following any dose adjustment ‚ a CBC with differential and platelet count should be performed twice weekly .
+Once a patient is clinically stable ‚ a CBC with differential and platelet count should be performed monthly during the first year of treatment .
+Thereafter , if clinically stable , routine monitoring with regular CBCs ( ie , as clinically indicated but at least quarterly ) is recommended .
+Additionally , for those patients with congenital neutropenia , annual bone marrow and cytogenetic evaluations should be performed throughout the duration of treatment ( see WARNINGS , ADVERSE REACTIONS ) .
+In clinical trials ‚ the following laboratory results were observed : • Cyclic fluctuations in the neutrophil counts were frequently observed in patients with congenital or idiopathic neutropenia after initiation of NEUPOGEN ® therapy .
+• Platelet counts were generally at the upper limits of normal prior to NEUPOGEN ® therapy .
+With NEUPOGEN ® therapy ‚ platelet counts decreased but usually remained within normal limits ( see ADVERSE REACTIONS ) .
+• Early myeloid forms were noted in peripheral blood in most patients ‚ including the appearance of metamyelocytes and myelocytes .
+Promyelocytes and myeloblasts were noted in some patients .
+• Relative increases were occasionally noted in the number of circulating eosinophils and basophils .
+No consistent increases were observed with NEUPOGEN ® therapy .
+• As in other trials ‚ increases were observed in serum uric acid ‚ lactic dehydrogenase ‚ and serum alkaline phosphatase .
+Drug InteractionDrug interactions between NEUPOGEN ® and other drugs have not been fully evaluated .
+Drugs which may potentiate the release of neutrophils ‚ such as lithium ‚ should be used with caution .
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes .
+This should be considered when interpreting bone - imaging results .
+Carcinogenesis , Mutagenesis , Impairment of FertilityThe carcinogenic potential of NEUPOGEN ® has not been studied .
+NEUPOGEN ® failed to induce bacterial gene mutations in either the presence or absence of a drug metabolizing enzyme system .
+NEUPOGEN ® had no observed effect on the fertility of male or female rats ‚ or on gestation at doses up to 500 mcg / kg .
+Pregnancy Category CNEUPOGEN ® has been shown to have adverse effects in pregnant rabbits when given in doses 2 to 10 times the human dose .
+Since there are no adequate and well - controlled studies in pregnant women , the effect , if any , of NEUPOGEN ® on the developing fetus or the reproductive capacity of the mother is unknown .
+However , the scientific literature describes transplacental passage of NEUPOGEN ® when administered to pregnant rats during the latter part of gestation18 and apparent transplacental passage of NEUPOGEN ® when administered to pregnant humans by ≤ 30 hours prior to preterm delivery ( ≤ 30 weeks gestation ) . 19 NEUPOGEN ® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+In rabbits ‚ increased abortion and embryolethality were observed in animals treated with NEUPOGEN ® at 80 mcg / kg / day .
+NEUPOGEN ® administered to pregnant rabbits at doses of 80 mcg / kg / day during the period of organogenesis was associated with increased fetal resorption ‚ genitourinary bleeding ‚ developmental abnormalities ‚ decreased body weight ‚ live births ‚ and food consumption .
+External abnormalities were not observed in the fetuses of dams treated at 80 mcg / kg / day .
+Reproductive studies in pregnant rats have shown that NEUPOGEN ® was not associated with lethal ‚ teratogenic ‚ or behavioral effects on fetuses when administered by daily IV injection during the period of organogenesis at dose levels up to 575 mcg / kg / day .
+In Segment III studies in rats ‚ offspring of dams treated at > 20 mcg / kg / day exhibited a delay in external differentiation ( detachment of auricles and descent of testes ) and slight growth retardation ‚ possibly due to lower body weight of females during rearing and nursing .
+Offspring of dams treated at 100 mcg / kg / day exhibited decreased body weights at birth ‚ and a slightly reduced 4 - day survival rate .
+Nursing MothersIt is not known whether NEUPOGEN ® is excreted in human milk .
+Because many drugs are excreted in human milk ‚ caution should be exercised if NEUPOGEN ® is administered to a nursing woman .
+Pediatric UseIn a phase 3 study to assess the safety and efficacy of NEUPOGEN ® in the treatment of SCN , 120 patients with a median age of 12 years were studied .
+Of the 120 patients , 12 were infants ( 1 month to 2 years of age ) , 47 were children ( 2 to 12 years of age ) , and 9 were adolescents ( 12 to 16 years of age ) .
+Additional information is available from a SCN postmarketing surveillance study , which includes long - term follow - up of patients in the clinical studies and information from additional patients who entered directly into the postmarketing surveillance study .
+Of the 531 patients in the surveillance study as of 31 December 1997 , 32 were infants , 200 were children , and 68 were adolescents ( see CLINICAL EXPERIENCE , INDICATIONS AND USAGE , LABORATORY MONITORING , DOSAGE AND ADMINISTRATION ) .
+Pediatric patients with congenital types of neutropenia ( Kostmann ’ s syndrome , congenital agranulocytosis , or Schwachman - Diamond syndrome ) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN ® treatment .
+The relationship of these events to NEUPOGEN ® administration is unknown ( see WARNINGS , ADVERSE REACTIONS ) .
+Long - term follow - up data from the postmarketing surveillance study suggest that height and weight are not adversely affected in patients who received up to 5 years of NEUPOGEN ® treatment .
+Limited data from patients who were followed in the phase 3 study for 1 . 5 years did not suggest alterations in sexual maturation or endocrine function .
+The safety and efficacy in neonates and patients with autoimmune neutropenia of infancy have not been established .
+In the cancer setting ‚ 12 pediatric patients with neuroblastoma have received up to 6 cycles of cyclophosphamide ‚ cisplatin ‚ doxorubicin ‚ and etoposide chemotherapy concurrently with NEUPOGEN ® ; in this population ‚ NEUPOGEN ® was well tolerated .
+There was one report of palpable splenomegaly associated with NEUPOGEN ® therapy ; however ‚ the only consistently reported adverse event was musculoskeletal pain ‚ which is no different from the experience in the adult population .
+Geriatric UseAmong 855 subjects enrolled in 3 randomized , placebo - controlled trials of NEUPOGEN ® use following myelosuppressive chemotherapy , there were 232 subjects age 65 or older , and 22 subjects age 75 or older .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other clinical experience has not identified differences in the responses between elderly and younger patients .
+Clinical studies of NEUPOGEN ® in other approved indications ( ie , bone marrow transplant recipients , PBPC mobilization , and SCN ) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects .
+ADVERSE REACTIONS Clinical Trial ExperienceCancer Patients Receiving Myelosuppressive ChemotherapyIn clinical trials involving over 350 patients receiving NEUPOGEN ® following nonmyeloablative cytotoxic chemotherapy ‚ most adverse experiences were the sequelae of the underlying malignancy or cytotoxic chemotherapy .
+In all phase 2 and 3 trials ‚ medullary bone pain ‚ reported in 24 % of patients ‚ was the only consistently observed adverse reaction attributed to NEUPOGEN ® therapy .
+This bone pain was generally reported to be of mild - to - moderate severity ‚ and could be controlled in most patients with non - narcotic analgesics ; infrequently ‚ bone pain was severe enough to require narcotic analgesics .
+Bone pain was reported more frequently in patients treated with higher doses ( 20 to 100 mcg / kg / day ) administered IV ‚ and less frequently in patients treated with lower SC doses of NEUPOGEN ® ( 3 to 10 mcg / kg / day ) .
+In the randomized ‚ double - blind ‚ placebo - controlled trial of NEUPOGEN ® therapy following combination chemotherapy in patients ( n = 207 ) with small cell lung cancer ‚ the following adverse events were reported during blinded cycles of study medication ( placebo or NEUPOGEN ® at 4 to 8 mcg / kg / day ) .
+Events are reported as exposure - adjusted since patients remained on double - blind NEUPOGEN ® a median of 3 cycles versus 1 cycle for placebo .
+% of Blinded Cycles With Events NEUPOGEN ® N = 384 Patient Cycles Placebo N = 257 Patient Cycles Event Nausea / Vomiting 57 64 Skeletal Pain 22 11 Alopecia 18 27 Diarrhea 14 23 Neutropenic Fever 13 35 Mucositis 12 20 Fever 12 11 Fatigue 11 16 Anorexia 9 11 Dyspnea 9 11 Headache 7 9 Cough 6 8 Skin Rash 6 9 Chest Pain 5 6 Generalized Weakness 4 7 Sore Throat 4 9 Stomatitis 5 10 Constipation 5 10 Pain ( Unspecified ) 2 7 In this study ‚ there were no serious ‚ life - threatening ‚ or fatal adverse reactions attributed to NEUPOGEN ® therapy .
+Specifically ‚ there were no reports of flu - like symptoms ‚ pleuritis ‚ pericarditis ‚ or other major systemic reactions to NEUPOGEN ® .
+Spontaneously reversible elevations in uric acid ‚ lactate dehydrogenase ‚ and alkaline phosphatase occurred in 27 % to 58 % of 98 patients receiving blinded NEUPOGEN ® therapy following cytotoxic chemotherapy ; increases were generally mild - to - moderate .
+Transient decreases in blood pressure ( less than 90 / 60 mmHg ) ‚ which did not require clinical treatment ‚ were reported in 7 of 176 patients in phase 3 clinical studies following administration of NEUPOGEN ® .
+Cardiac events ( myocardial infarctions ‚ arrhythmias ) have been reported in 11 of 375 cancer patients receiving NEUPOGEN ® in clinical studies ; the relationship to NEUPOGEN ® therapy is unknown .
+No evidence of interaction of NEUPOGEN ® with other drugs was observed in the course of clinical trials ( see PRECAUTIONS ) .
+There has been no evidence for the development of antibodies or of a blunted or diminished response to NEUPOGEN ® in treated patients ‚ including those receiving NEUPOGEN ® daily for almost 2 years .
+Patients With Acute Myeloid LeukemiaIn a randomized phase 3 clinical trial , 259 patients received NEUPOGEN ® and 262 patients received placebo postchemotherapy .
+Overall , the frequency of all reported adverse events was similar in both the NEUPOGEN ® and placebo groups ( 83 % vs 82 % in Induction 1 ; 61 % vs 64 % in Consolidation 1 ) .
+Adverse events reported more frequently in the NEUPOGEN ® - treated group included : petechiae ( 17 % vs 14 % ) , epistaxis ( 9 % vs 5 % ) , and transfusion reactions ( 10 % vs 5 % ) .
+There were no significant differences in the frequency of these events .
+There were a similar number of deaths in each treatment group during induction ( 25 NEUPOGEN ® vs 27 placebo ) .
+The primary causes of death included infection ( 9 vs 18 ) , persistent leukemia ( 7 vs 5 ) , and hemorrhage ( 6 vs 3 ) .
+Of the hemorrhagic deaths , 5 cerebral hemorrhages were reported in the NEUPOGEN ® group and 1 in the placebo group .
+Other serious nonfatal hemorrhagic events were reported in the respiratory tract ( 4 vs 1 ) , skin ( 4 vs 4 ) , gastrointestinal tract ( 2 vs 2 ) , urinary tract ( 1 vs 1 ) , ocular ( 1 vs 0 ) , and other nonspecific sites ( 2 vs 1 ) .
+While 19 ( 7 % ) patients in the NEUPOGEN ® group and 5 ( 2 % ) patients in the placebo group experienced severe or fatal hemorrhagic events , overall , hemorrhagic adverse events were reported at a similar frequency in both groups ( 40 % vs 38 % ) .
+The time to transfusion - independent platelet recovery and the number of days of platelet transfusions were similar in both groups .
+Cancer Patients Receiving Bone Marrow TransplantIn clinical trials ‚ the reported adverse effects were those typically seen in patients receiving intensive chemotherapy followed by bone marrow transplant ( BMT ) .
+The most common events reported in both control and treatment groups included stomatitis , nausea , and vomiting ‚ generally of mild - to - moderate severity and were considered unrelated to NEUPOGEN ® .
+In the randomized studies of BMT involving 167 patients who received study drug ‚ the following events occurred more frequently in patients treated with Filgrastim than in controls : nausea ( 10 % vs 4 % ) ‚ vomiting ( 7 % vs 3 % ) ‚ hypertension ( 4 % vs 0 % ) ‚ rash ( 12 % vs 10 % ) ‚ and peritonitis ( 2 % vs 0 % ) .
+None of these events were reported by the investigator to be related to NEUPOGEN ® .
+One event of erythema nodosum was reported moderate in severity and possibly related to NEUPOGEN ® .
+Generally ‚ adverse events observed in nonrandomized studies were similar to those seen in randomized studies ‚ occurred in a minority of patients , and were of mild - to - moderate severity .
+In one study ( n = 45 ) ‚ 3 serious adverse events reported by the investigator were considered possibly related to NEUPOGEN ® .
+These included 2 events of renal insufficiency and 1 event of capillary leak syndrome .
+The relationship of these events to NEUPOGEN ® remains unclear since they occurred in patients with culture - proven infection with clinical sepsis who were receiving potentially nephrotoxic antibacterial and antifungal therapy .
+Cancer Patients Undergoing Peripheral Blood Progenitor Cell Collection and TherapyIn clinical trials ‚ 126 patients received NEUPOGEN ® for PBPC mobilization .
+In this setting ‚ NEUPOGEN ® was generally well tolerated .
+Adverse events related to NEUPOGEN ® consisted primarily of mild - to - moderate musculoskeletal symptoms ‚ reported in 44 % of patients .
+These symptoms were predominantly events of medullary bone pain ( 33 % ) .
+Headache was reported related to NEUPOGEN ® in 7 % of patients .
+Transient increases in alkaline phosphatase related to NEUPOGEN ® were reported in 21 % of the patients who had serum chemistries measured ; most were mild - to - moderate .
+All patients had increases in neutrophil counts during mobilization ‚ consistent with the biological effects of NEUPOGEN ® .
+Two patients had a WBC count greater than 100 ‚ 000 / mm3 .
+No sequelae were associated with any grade of leukocytosis .
+Sixty - five percent of patients had mild - to - moderate anemia and 97 % of patients had decreases in platelet counts ; 5 patients ( out of 126 ) had decreased platelet counts to less than 50 ‚ 000 / mm3 .
+Anemia and thrombocytopenia have been reported to be related to leukapheresis ; however ‚ the possibility that NEUPOGEN ® mobilization may contribute to anemia or thrombocytopenia has not been ruled out .
+Patients With Severe Chronic NeutropeniaMild - to - moderate bone pain was reported in approximately 33 % of patients in clinical trials .
+This symptom was readily controlled with non - narcotic analgesics .
+Generalized musculoskeletal pain was also noted in higher frequency in patients treated with NEUPOGEN ® .
+Palpable splenomegaly was observed in approximately 30 % of patients .
+Abdominal or flank pain was seen infrequently , and thrombocytopenia ( less than 50 ‚ 000 / mm3 ) was noted in 12 % of patients with palpable spleens .
+Fewer than 3 % of all patients underwent splenectomy ‚ and most of these had a prestudy history of splenomegaly .
+Fewer than 6 % of patients had thrombocytopenia ( less than 50 ‚ 000 / mm3 ) during NEUPOGEN ® therapy ‚ most of whom had a pre - existing history of thrombocytopenia .
+In most cases ‚ thrombocytopenia was managed by NEUPOGEN ® dose reduction or interruption .
+An additional 5 % of patients had platelet counts between 50 ‚ 000 and 100 ‚ 000 / mm3 .
+There were no associated serious hemorrhagic sequelae in these patients .
+Epistaxis was noted in 15 % of patients treated with NEUPOGEN ®‚ but was associated with thrombocytopenia in 2 % of patients .
+Anemia was reported in approximately 10 % of patients ‚ but in most cases appeared to be related to frequent diagnostic phlebotomy ‚ chronic illness , or concomitant medications .
+Other adverse events infrequently observed and possibly related to NEUPOGEN ® therapy were : injection site reaction ‚ rash ‚ hepatomegaly ‚ arthralgia ‚ osteoporosis ‚ cutaneous vasculitis ‚ hematuria / proteinuria ‚ alopecia ‚ and exacerbation of some pre - existing skin disorders ( eg ‚ psoriasis ) .
+Cytogenetic abnormalities , transformation to MDS , and AML have been observed in patients treated with NEUPOGEN ® for SCN ( see WARNINGS , PRECAUTIONS : Pediatric Use ) .
+As of 31 December 1997 , data were available from a postmarketing surveillance study of 531 SCN patients with an average follow - up of 4 . 0 years .
+Based on analysis of these data , the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia .
+A life - table analysis of these data revealed that the cumulative risk of developing leukemia or MDS by the end of the 8 th year of NEUPOGEN ® treatment in a patient with congenital neutropenia was 16 . 5 % ( 95 % C . I . = 9 . 8 % , 23 . 3 % ) ; this represents an annual rate of approximately 2 % .
+Cytogenetic abnormalities , most commonly involving chromosome 7 , have been reported in patients treated with NEUPOGEN ® who had previously documented normal cytogenetics .
+It is unknown whether the development of cytogenetic abnormalities , MDS , or AML is related to chronic daily NEUPOGEN ® administration or to the natural history of congenital neutropenia .
+It is also unknown if the rate of conversion in patients who have not received NEUPOGEN ® is different from that of patients who have received NEUPOGEN ® .
+Routine monitoring through regular CBCs is recommended for all SCN patients .
+Additionally , annual bone marrow and cytogenetic evaluations are recommended in all patients with congenital neutropenia ( see LABORATORY MONITORING ) .
+Postmarketing ExperienceThe following adverse reactions have been identified during postapproval of NEUPOGEN ® .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+• splenic rupture ( see WARNINGS : Splenic Rupture ) • acute respiratory distress syndrome ( ARDS ) ( see WARNINGS : Acute Respiratory Distress Syndrome ) • alveolar hemorrhage and hemoptysis ( see WARNINGS : Alveolar Hemorrhage and Hemoptysis ) • sickle cell crisis ( see WARNINGS : Sickle Cell Disorders ) • cutaneous vasculitis ( see PRECAUTIONS : Cutaneous Vasculitis ) • Sweet ’ s syndrome ( acute febrile neutrophilic dermatosis ) OVERDOSAGE In cancer patients receiving NEUPOGEN ® as an adjunct to myelosuppressive chemotherapy ‚ it is recommended ‚ to avoid the potential risks of excessive leukocytosis ‚ that NEUPOGEN ® therapy be discontinued if the ANC surpasses 10 ‚ 000 / mm3 after the chemotherapy - induced ANC nadir has occurred .
+Doses of NEUPOGEN ® that increase the ANC beyond 10 ‚ 000 / mm3 may not result in any additional clinical benefit .
+The maximum tolerated dose of NEUPOGEN ® has not been determined .
+Efficacy was demonstrated at doses of 4 to 8 mcg / kg / day in the phase 3 study of nonmyeloablative chemotherapy .
+Patients in the BMT studies received up to 138 mcg / kg / day without toxic effects ‚ although there was a flattening of the dose response curve above daily doses of greater than 10 mcg / kg / day .
+In NEUPOGEN ® clinical trials of cancer patients receiving myelosuppressive chemotherapy ‚ WBC counts > 100 ‚ 000 / mm3 have been reported in less than 5 % of patients ‚ but were not associated with any reported adverse clinical effects .
+In cancer patients receiving myelosuppressive chemotherapy ‚ discontinuation of NEUPOGEN ® therapy usually results in a 50 % decrease in circulating neutrophils within 1 to 2 days ‚ with a return to pretreatment levels in 1 to 7 days .
+DOSAGE AND ADMINISTRATION NEUPOGEN ® is supplied in either vials or in prefilled syringes with UltraSafe ® Needle Guards .
+Following administration of NEUPOGEN ® from the prefilled syringe , the UltraSafe ® Needle Guard should be activated to prevent accidental needle sticks .
+To activate the UltraSafe ® Needle Guard , place your hands behind the needle , grasp the guard with one hand , and slide the guard forward until the needle is completely covered and the guard clicks into place .
+NOTE : If an audible click is not heard , the needle guard may not be completely activated .
+The prefilled syringe should be disposed of by placing the entire prefilled syringe with guard activated into an approved puncture - proof container .
+Cancer Patients Receiving Myelosuppressive ChemotherapyThe recommended starting dose of NEUPOGEN ® is 5 mcg / kg / day ‚ administered as a single daily injection by SC bolus injection ‚ by short IV infusion ( 15 to 30 minutes ) ‚ or by continuous SC or continuous IV infusion .
+A CBC and platelet count should be obtained before instituting NEUPOGEN ® therapy ‚ and monitored twice weekly during therapy .
+Doses may be increased in increments of 5 mcg / kg for each chemotherapy cycle ‚ according to the duration and severity of the ANC nadir .
+NEUPOGEN ® should be administered no earlier than 24 hours after the administration of cytotoxic chemotherapy .
+NEUPOGEN ® should not be administered in the period 24 hours before the administration of chemotherapy ( see PRECAUTIONS ) .
+NEUPOGEN ® should be administered daily for up to 2 weeks ‚ until the ANC has reached 10 ‚ 000 / mm3 following the expected chemotherapy - induced neutrophil nadir .
+The duration of NEUPOGEN ® therapy needed to attenuate chemotherapy - induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed .
+NEUPOGEN ® therapy should be discontinued if the ANC surpasses 10 ‚ 000 / mm3 after the expected chemotherapy - induced neutrophil nadir ( see PRECAUTIONS ) .
+In phase 3 trials ‚ efficacy was observed at doses of 4 to 8 mcg / kg / day .
+Cancer Patients Receiving Bone Marrow TransplantThe recommended dose of NEUPOGEN ® following BMT is 10 mcg / kg / day given as an IV infusion of 4 or 24 hours ‚ or as a continuous 24 - hour SC infusion .
+For patients receiving BMT ‚ the first dose of NEUPOGEN ® should be administered at least 24 hours after cytotoxic chemotherapy and at least 24 hours after bone marrow infusion .
+During the period of neutrophil recovery ‚ the daily dose of NEUPOGEN ® should be titrated against the neutrophil response as follows : Absolute Neutrophil Count NEUPOGEN ® Dose Adjustment When ANC greater than 1000 / mm3 for 3 consecutive days Reduce to 5 mcg / kg / day * then : If ANC remains greater than 1000 / mm3 for 3 more consecutive days Discontinue NEUPOGEN ® then : If ANC decreases to less than 1000 / mm3 Resume at 5 mcg / kg / day * If ANC decreases to less than 1000 / mm3 at any time during the 5 mcg / kg / day administration ‚ NEUPOGEN ® should be increased to 10 mcg / kg / day ‚ and the above steps should then be followed .
+Peripheral Blood Progenitor Cell Collection and Therapy in Cancer PatientsThe recommended dose of NEUPOGEN ® for the mobilization of PBPC is 10 mcg / kg / day SC ‚ either as a bolus or a continuous infusion .
+It is recommended that NEUPOGEN ® be given for at least 4 days before the first leukapheresis procedure and continued until the last leukapheresis .
+Although the optimal duration of NEUPOGEN ® administration and leukapheresis schedule have not been established ‚ administration of NEUPOGEN ® for 6 to 7 days with leukaphereses on days 5 ‚ 6 ‚ and 7 was found to be safe and effective ( see CLINICAL EXPERIENCE for schedules used in clinical trials ) .
+Neutrophil counts should be monitored after 4 days of NEUPOGEN ® , and NEUPOGEN ® dose modification should be considered for those patients who develop a WBC count greater than 100 ‚ 000 / mm3 .
+In all clinical trials of NEUPOGEN ® for the mobilization of PBPC ‚ NEUPOGEN ® was also administered after reinfusion of the collected cells ( see CLINICAL EXPERIENCE ) .
+Patients With Severe Chronic NeutropeniaNEUPOGEN ® should be administered to those patients in whom a diagnosis of congenital ‚ cyclic ‚ or idiopathic neutropenia has been definitively confirmed .
+Other diseases associated with neutropenia should be ruled out .
+Starting Dose : Congenital Neutropenia : The recommended daily starting dose is 6 mcg / kg BID SC every day .
+Idiopathic or Cyclic Neutropenia : The recommended daily starting dose is 5 mcg / kg as a single injection SC every day .
+Dose Adjustments : Chronic daily administration is required to maintain clinical benefit .
+Absolute neutrophil count should not be used as the sole indication of efficacy .
+The dose should be individually adjusted based on the patients ’ clinical course as well as ANC .
+In the SCN postmarketing surveillance study , the reported median daily doses of NEUPOGEN ® were : 6 . 0 mcg / kg ( congenital neutropenia ) , 2 . 1 mcg / kg ( cyclic neutropenia ) , and 1 . 2 mcg / kg ( idiopathic neutropenia ) .
+In rare instances , patients with congenital neutropenia have required doses of NEUPOGEN ® greater than or equal to 100 mcg / kg / day .
+DilutionIf required ‚ NEUPOGEN ® may be diluted in 5 % dextrose .
+NEUPOGEN ® diluted to concentrations between 5 and 15 mcg / mL should be protected from adsorption to plastic materials by the addition of Albumin ( Human ) to a final concentration of 2 mg / mL .
+When diluted in 5 % dextrose or 5 % dextrose plus Albumin ( Human ) ‚ NEUPOGEN ® is compatible with glass bottles ‚ PVC and polyolefin IV bags ‚ and polypropylene syringes .
+Dilution of NEUPOGEN ® to a final concentration of less than 5 mcg / mL is not recommended at any time .
+Do not dilute with saline at any time ; product may precipitate .
+StorageNEUPOGEN ® should be stored in the refrigerator at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Avoid shaking .
+Prior to injection ‚ NEUPOGEN ® may be allowed to reach room temperature for a maximum of 24 hours .
+Any vial or prefilled syringe left at room temperature for greater than 24 hours should be discarded .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration ‚ whenever solution and container permit ; if particulates or discoloration are observed ‚ the container should not be used .
+HOW SUPPLIED NEUPOGEN ® : Use only one dose per vial ; do not re - enter the vial .
+Discard unused portions .
+Do not save unused drug for later administration .
+Use only one dose per prefilled syringe .
+Discard unused portions .
+Do not save unused drug for later administration .
+VialsSingle - dose ‚ preservative - free vials containing 300 mcg ( 1 mL ) of Filgrastim ( 300 mcg / mL ) .
+1 Vial ( NDC 54868 - 2522 - 0 ) ; Dispensing packs of 10 ( NDC 54868 - 2522 - 1 ) .
+Prefilled Syringes ( SingleJect ® ) Single - dose ‚ preservative - free , prefilled syringes with 27 gauge , ½ inch needles with an UltraSafe ® Needle Guard , containing 300 mcg ( 0 . 5 mL ) of Filgrastim ( 600 mcg / mL ) .
+Dispensing packs of 10 ( NDC 54868 - 5020 - 0 ) .
+Single - dose ‚ preservative - free , prefilled syringes with 27 gauge , ½ inch needles with an UltraSafe ® Needle Guard , containing 480 mcg ( 0 . 8 mL ) of Filgrastim ( 600 mcg / mL ) .
+Dispensing packs of 10 ( NDC 54868 - 3050 - 0 ) .
+The needle cover of the prefilled syringe contains dry natural rubber ( a derivative of latex ) .
+NEUPOGEN ® should be stored at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Avoid shaking .
+REFERENCES • Zsebo KM ‚ Cohen AM ‚ Murdock DC ‚ et al .
+Recombinant human granulocyte colony - stimulating factor : Molecular and biological characterization .
+Immunobiol .
+1986 ; 172 : 175 - 184 .
+• Welte K ‚ Bonilla MA ‚ Gillio AP ‚ et al .
+Recombinant human G - CSF : Effects on hematopoiesis in normal and cyclophosphamide treated primates .
+J Exp Med .
+1987 ; 165 : 941 - 948 .
+• Duhrsen U ‚ Villeval JL ‚ Boyd J ‚ et al .
+Effects of recombinant human granulocyte colony - stimulating factor on hematopoietic progenitor cells in cancer patients .
+Blood .
+1988 ; 72 : 2074 - 2081 .
+• Souza LM ‚ Boone TC ‚ Gabrilove J ‚ et al .
+Recombinant human granulocyte colony - stimulating factor : Effects on normal and leukemic myeloid cells .
+Science .
+1986 ; 232 : 61 - 65 .
+• Weisbart RH ‚ Kacena A ‚ Schuh A ‚ Golde DW .
+GM - CSF induces human neutrophil IgA - mediated phagocytosis by an IgA Fc receptor activation mechanism .
+Nature .
+1988 ; 332 : 647 - 648 .
+• Kitagawa S ‚ Yuo A ‚ Souza LM ‚ Saito M ‚ Miura Y ‚ Takaku F . Recombinant human granulocyte colony - stimulating factor enhances superoxide release in human granulocytes stimulated by chemotactic peptide .
+Biochem Biophys Res Commun .
+1987 ; 1443 : 1146 .
+• Glaspy JA ‚ Baldwin GC ‚ Robertson PA ‚ et al .
+Therapy for neutropenia in hairy cell leukemia with recombinant human granulocyte colony - stimulating factor .
+Ann Int Med .
+1988 ; 109 : 789 - 795 .
+• Yuo A ‚ Kitagawa S ‚ Ohsaka A ‚ et al .
+Recombinant human granulocyte colony - stimulating factor as an activator of human granulocytes : Potentiation of responses triggered by receptor - mediated agonists and stimulation of C3bi receptor expression and adherence .
+Blood .
+1989 ; 74 : 2144 - 2149 .
+• Gabrilove JL ‚ Jakubowski A ‚ Fain K ‚ et al .
+Phase I study of granulocyte colony - stimulating factor in patients with transitional cell carcinoma of the urothelium .
+J Clin Invest .
+1988 ; 82 : 1454 - 1461 .
+• Morstyn G ‚ Souza L ‚ Keech J ‚ et al .
+Effect of granulocyte colony - stimulating factor on neutropenia induced by cytotoxic chemotherapy .
+Lancet .
+1988 ; 1 : 667 - 672 .
+• Bronchud MH ‚ Scarffe JH ‚ Thatcher N ‚ et al .
+Phase I / II study of recombinant human granulocyte colony - stimulating factor in patients receiving intensive chemotherapy for small cell lung cancer .
+Br J Cancer .
+1987 ; 56 : 809 - 813 .
+• Gabrilove JL ‚ Jakubowski A ‚ Scher H ‚ et al .
+Effect of granulocyte colony - stimulating factor on neutropenia and associated morbidity due to chemotherapy for transitional cell carcinoma of the urothelium .
+N Engl J Med .
+1988 ; 318 : 1414 - 1422 .
+• Neidhart J ‚ Mangalik A ‚ Kohler W ‚ et al .
+Granulocyte colony - stimulating factor stimulates recovery of granulocytes in patients receiving dose - intensive chemotherapy without bone - marrow transplantation .
+J Clin Oncol .
+1989 ; 7 : 1685 - 1691 .
+• Bronchud MH ‚ Howell A ‚ Crowther D ‚ et al .
+The use of granulocyte colony - stimulating factor to increase the intensity of treatment with doxorubicin in patients with advanced breast and ovarian cancer .
+Br J Cancer .
+1989 ; 60 : 121 - 128 .
+• Heil G , Hoelzer D , Sanz MA , et al .
+A randomized , double - blind , placebo - controlled , phase III study of Filgrastim in remission induction and consolidation therapy for adults with de novo Acute Myeloid Leukemia .
+Blood .
+1997 ; 90 : 4710 - 4718 .
+• Dale DC ‚ Bonilla MA ‚ Davis MW ‚ et al .
+A randomized controlled phase III trial of recombinant human granulocyte colony - stimulating factor ( Filgrastim ) for treatment of severe chronic neutropenia .
+Blood .
+1993 ; 81 : 2496 - 2502 .
+• Schroeder TM and Kurth R . Spontaneous chromosomal breakage and high incidence of leukemia in inherited disease .
+Blood .
+1971 ; 37 : 96 - 112 .
+• Medlock ES , Kaplan DL , Cecchini M , Ulich TR , del Castillo J , Andresen J . Granulocyte colony - stimulating factor crosses the placenta and stimulates fetal rat granulopoiesis .
+Blood .
+1993 ; 81 : 916 - 922 .
+• Calhoun DA , Rosa C , Christensen RD .
+Transplacental passage of recombinant human granulocyte colony - stimulating factor in women with an imminent preterm delivery .
+Am J Obstet Gynecol .
+1996 ; 174 : 1306 - 1311 .
+This product and its use are covered by the following US Patent Nos . : 4 , 810 , 643 ; 4 , 999 , 291 ; 5 , 582 , 823 ; 5 , 580 , 755 .
+[ AMGEN LOGO ] Manufactured by : Amgen Manufacturing , Limited , a subsidiary of Amgen Inc .
+One Amgen Center Drive Thousand Oaks , California 91320 - 1799 3 xxxxxx © 1991 - 2007 Amgen Inc .
+All rights reserved .
+v . 20 . 2 - Issue Date : 09 / 2007 NEUPOGEN ® ( Filgrastim ) Information for Patients and CaregiversThis patient package insert provides information and instructions for people who will be receiving NEUPOGEN ® and their caregivers .
+This patient package insert does not tell you everything about NEUPOGEN ® .
+You should discuss any questions you have about treatment with NEUPOGEN ® with your doctor .
+What is NEUPOGEN ® ?
+NEUPOGEN ® is a man - made form of granulocyte colony - stimulating factor ( G - CSF ) , which is made using the bacteria E coli .
+G - CSF is a substance naturally produced by the body .
+It stimulates the growth of neutrophils ( nu - tro - fils ) , a type of white blood cell important in the body ’ s fight against infection .
+What is NEUPOGEN ® used for ?
+NEUPOGEN ® is used to treat neutropenia ( nu - tro - peen - ee - ah ) , a condition where the body makes too few neutrophils .
+Neutropenia may be a long - standing condition where your body does not make enough neutrophils , or it may be caused by drugs used to treat cancer .
+In some cases , your body may make enough neutrophils , but as part of your treatment for cancer , your doctor may want to increase the number of certain blood cells ( CD34 cells ) and collect them .
+The cells are collected using a process called apheresis ( ay - fer - ree - sis ) .
+These collected cells are given back to you after you receive very high doses of treatment for cancer to make your blood counts get back to normal more quickly .
+How does NEUPOGEN ® work ?
+NEUPOGEN ® works by helping your body make more neutrophils .
+To make sure NEUPOGEN ® is working , your doctor will ask that you have regular blood tests to count the number of neutrophils you have .
+It is important that you follow your doctor ’ s instructions about getting these tests .
+Who should not take NEUPOGEN ® ?
+Do not take NEUPOGEN ® if you are : • Allergic to NEUPOGEN ® ( Filgrastim ) or any of its ingredients .
+See the end of this leaflet for a list of ingredients in NEUPOGEN ® .
+• Allergic to other medicines made using the bacteria E coli .
+Ask your doctor if you are not sure .
+What important information do I need to know about taking NEUPOGEN ® ?
+NEUPOGEN ® may reduce your chance of getting an infection , but does not prevent all infections .
+An infection can still happen during the short time when your / your child ' s neutrophil levels are low .
+You must be alert and look for some of the common signs or symptoms of infection , such as fever , chills , rash , sore throat , diarrhea , or redness , swelling , or pain around a cut or sore .
+If you / your child has any of these signs or symptoms during treatment with NEUPOGEN ® , tell your doctor or nurse immediately .
+There is a possibility that you could have a reaction at an injection site .
+If there is a lump , swelling , or bruising at an injection site that does not go away , call your doctor .
+If you have a sickle cell disorder , make sure that you tell your doctor before you start taking NEUPOGEN ® .
+If you have a sickle cell crisis after getting NEUPOGEN ® , tell your doctor right away .
+Make sure your doctor knows about all medicines , and herbal or vitamin supplements you are taking before starting NEUPOGEN ® .
+If you are taking lithium you may need more frequent blood tests .
+If you / your child are receiving NEUPOGEN ® because you are also receiving chemotherapy , the last dose of NEUPOGEN ® should be injected at least 24 hours before your next dose of chemotherapy .
+There is more information about NEUPOGEN ® in the Physician Package Insert .
+If you have any questions , you should talk to your doctor .
+What are possible serious side effects of NEUPOGEN ® ?
+• Spleen Rupture .
+Your spleen may become enlarged and can rupture while taking NEUPOGEN ® .
+A ruptured spleen can cause death .
+The spleen is located in the upper left section of your stomach area .
+Call your doctor right away if you or your child has pain in the left upper stomach area or left shoulder tip area .
+This pain could mean your or your child ’ s spleen is enlarged or ruptured .
+• Serious Allergic Reactions .
+NEUPOGEN ® can cause serious allergic reactions .
+These reactions can cause a rash over the whole body , shortness of breath , wheezing , dizziness , swelling around the mouth or eyes , fast pulse , and sweating .
+If you or your child starts to have any of these symptoms , stop using NEUPOGEN and call your doctor or seek emergency care right away .
+If you or your child has an allergic reaction during the injection of NEUPOGEN ® , stop the injection right away .
+• A serious lung problem called acute respiratory distress syndrome ( ARDS ) .
+Call your doctor or seek emergency care right away if you or your child has shortness of breath , trouble breathing or a fast rate of breathing .
+What are the most common side effects of NEUPOGEN ® ?
+The most common side effect you / your child may experience is aching in the bones and muscles .
+This aching can usually be relieved by taking a non - aspirin pain reliever such as acetaminophen .
+Some people experience redness , swelling , or itching at the site of injection .
+This may be an allergy to the ingredients in NEUPOGEN ® , or it may be a local reaction .
+If you are giving an injection to a child , look for signs of redness , swelling , or itching at the site of injection because they may not be able to tell you they are experiencing a reaction .
+If you notice any signs of a local reaction , call your doctor .
+What about pregnancy or breastfeeding ?
+NEUPOGEN ® has not been studied in pregnant women , and its effects on unborn babies are not known .
+If you take NEUPOGEN ® while you are pregnant , it is possible that small amounts of it may get into your baby ’ s blood .
+It is not known if NEUPOGEN ® can get into human breast milk .
+If you are pregnant , plan to become pregnant , think you may be pregnant , or are breast feeding , you should tell your doctor before using NEUPOGEN ® .
+How to prepare and give a NEUPOGEN ® injection NEUPOGEN ® should be injected at the same time each day .
+If you miss a dose contact your doctor or nurse .
+You must always use the correct dose of NEUPOGEN ® .
+Too little NEUPOGEN ® may not protect you against infections , and too much NEUPOGEN ® may cause too many neutrophils to be in your blood .
+Your doctor will determine your / your child ’ s correct dose based on your / your child ' s body weight .
+If you are giving someone else NEUPOGEN ® injections , it is important that you know how to inject NEUPOGEN ® , how much to inject , and how often to inject NEUPOGEN ® .
+NEUPOGEN ® is available as a liquid in vials or in prefilled syringes .
+When you receive your NEUPOGEN ® , always check to see that : • The name NEUPOGEN ® appears on the package and vial or prefilled syringe label .
+• The expiration date on the vial or prefilled syringe label has not passed .
+You should not use a vial or prefilled syringe after the date on the label .
+• The strength of the NEUPOGEN ® ( number of micrograms in the colored dot on the package containing the vial or prefilled syringe ) is the same as your doctor prescribed .
+• The NEUPOGEN ® liquid in the vial or in the prefilled syringe is clear and colorless .
+Do not use NEUPOGEN ® if the contents of the vial or prefilled syringe appear discolored or cloudy , or if the vial or prefilled syringe appears to contain lumps , flakes , or particles .
+only use the syringe that your doctor prescribes .
+Your doctor or nurse will give you instructions on how to measure the correct dose of NEUPOGEN ® .
+This dose will be measured in milliliters .
+You should only use a syringe that is marked in tenths of milliliters , or mL ( for example , 0 . 2 mL ) .
+The doctor or nurse may refer to an mL as a cc ( 1 mL = 1 cc ) .
+If you do not use the correct syringe , you or your child could receive too much or too little NEUPOGEN ® .
+Only use disposable syringes and needles .
+Use the syringes only once and dispose of them as instructed by your doctor or nurse .
+IMPORTANT : TO HELP AVOID POSSIBLE INFECTION , YOU SHOULD FOLLOW THESE INSTRUCTIONS .
+Setting up for an injection • Find a clean flat working surface , such as a table .
+• Remove the vial or prefilled syringe of NEUPOGEN ® from the refrigerator .
+Allow NEUPOGEN ® to reach room temperature ( this takes about 30 minutes ) .
+Vials or prefilled syringes should be used only once .
+DO NOT SHAKE THE VIAL OR PREFILLED SYRINGE .
+Shaking may damage the NEUPOGEN ® .
+If the vial or prefilled syringe has been shaken vigorously , the solution may appear foamy and it should not be used .
+• Assemble the supplies you will need for an injection : • NEUPOGEN ® vial and disposable syringe and needle [ MULTIMEDIA ] [ MULTIMEDIA ] • NEUPOGEN ® prefilled syringe with transparent ( clear ) plastic orange needle guard attached [ MULTIMEDIA ] • two alcohol swabs and one cotton ball or gauze pad [ MULTIMEDIA ] • puncture - proof disposal container [ MULTIMEDIA ] 4 .
+Wash your hands with soap and warm water .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] HOW TO PREPARE THE DOSE OF NEUPOGEN ® IN VIALS OR PREFILLED SYRINGES If you are using NEUPOGEN ® in a vial , follow the instructions in Section A .
+If you are using NEUPOGEN ® in a prefilled syringe , go to Section B . Section A . Preparing the dose of NEUPOGEN ® in a vial 1 .
+Take the cap off the vial .
+Clean the rubber stopper with one alcohol swab .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 2 .
+Check the package containing the syringe .
+If the package has been opened or damaged , do not use that syringe .
+Dispose of that syringe in the puncture - proof disposal container .
+If the syringe package is undamaged , open the package and remove the syringe .
+3 .
+Pull the needle cover straight off the syringe .
+Then , pull back the plunger and draw air into the syringe .
+The amount of air drawn into the syringe should be the same amount ( mL or cc ) as the dose of NEUPOGEN ® that your doctor prescribed .
+[ MULTIMEDIA ] 4 .
+Keep the vial on your flat working surface and insert the needle straight down through the rubber stopper .
+Do not put the needle through the rubber stopper more than once .
+5 .
+Push the plunger of the syringe down and inject the air from the syringe into the vial of NEUPOGEN ® .
+[ MULTIMEDIA ] 6 .
+Keeping the needle in the vial , turn the vial upside down .
+Make sure that the NEUPOGEN ® liquid is covering the tip of the needle .
+[ MULTIMEDIA ] 7 .
+Keeping the vial upside down , slowly pull back on the plunger to fill the syringe with NEUPOGEN ® liquid to the number ( mL or cc ) that matches the dose your doctor prescribed .
+8 .
+Keeping the needle in the vial , check for air bubbles in the syringe .
+If there are air bubbles , gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe .
+Then slowly push the plunger up to force the air bubbles out of the syringe .
+9 .
+Keeping the tip of the needle in the liquid , once again pull the plunger back to the number on the syringe that matches your dose .
+Check again for air bubbles .
+The air in the syringe will not hurt you , but too large an air bubble can reduce your dose of NEUPOGEN ® .
+If there are still air bubbles , repeat the steps above to remove them .
+10 .
+Check again to make sure that you have the correct dose in the syringe .
+It is important that you use the exact dose prescribed by your doctor .
+Remove the syringe from the vial but do not lay it down or let the needle touch anything .
+( Go to “ Injecting the dose of NEUPOGEN ® ” ) .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] Section B . Preparing the dose of NEUPOGEN ® in a prefilled syringe • Remove the syringe from the package and the tray .
+Check to see that the plastic orange needle guard is covering the barrel of the glass syringe .
+DO NOT push the orange needle guard over the needle cover before injection .
+This may activate or lock the needle guard .
+If the orange needle guard is covering the needle that means it has been activated .
+Do NOT use that syringe .
+Dispose of that syringe in the puncture - proof disposal container .
+Use a new syringe from the package .
+• Hold the syringe barrel through the needle guard windows with the needle pointing up .
+Holding the syringe with the needle pointing up helps to prevent medicine from leaking out of the needle .
+Carefully pull the needle cover straight off .
+• Check the syringe for air bubbles .
+If there are air bubbles , gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe .
+Slowly push the plunger up to force the air bubbles out of the syringe .
+• Push the plunger up to the number ( mL ) on the syringe that matches the dose of NEUPOGEN ® that your doctor prescribed .
+• Check again to make sure the correct dose of NEUPOGEN ® is in the syringe .
+• Gently place the prefilled syringe with the window flat on your clean working surface so that the needle does not touch anything .
+Selecting and preparing the injection site • Choose an injection site .
+Four recommended injection sites for NEUPOGEN ® are : • The outer area of your upper arms • The abdomen , except for the two inch area around your navel • The front of your middle thighs • The upper outer areas of your buttocks [ MULTIMEDIA ] Choose a new site each time you inject NEUPOGEN ® .
+Choosing a new site can help avoid soreness at any one site .
+Do not inject NEUPOGEN ® into an area that is tender , red , bruised , or hard or that has scars or stretch marks .
+• Clean the injection site with a new alcohol swab .
+[ MULTIMEDIA ] Injecting the dose of NEUPOGEN ® • For injecting the dose of NEUPOGEN ® from a vial , remove the syringe and needle from the vial .
+For injecting the dose of NEUPOGEN ® from a prefilled syringe , pick up the prefilled syringe from your clean flat working surface by grabbing the sides of the needle guard with your thumb and forefinger .
+• Hold the syringe in the hand you will use to inject NEUPOGEN ® .
+Use the other hand to pinch a fold of skin at the cleaned injection site .
+Note : If using a prefilled syringe with a needle guard , hold the syringe barrel through the needle guard windows when giving the injection .
+[ MULTIMEDIA ] • Holding the syringe like a pencil , use a quick “ dart - like ” motion to insert the needle either straight up and down ( 90 degree angle ) or at a slight angle ( 45 degrees ) into the skin .
+[ MULTIMEDIA ] • After the needle is inserted , let go of the skin .
+Pull the plunger back slightly .
+If no blood appears , slowly push down on the plunger all the way , until all the NEUPOGEN ® is injected .
+If blood comes into the syringe , do not inject NEUPOGEN ® , because the needle has entered a blood vessel .
+Withdraw the syringe and discard it in the puncture - proof container .
+Repeat the steps to prepare a new syringe ( or get a new prefilled syringe ) and choose and clean a new injection site .
+Remember to check again for blood before injecting NEUPOGEN ® .
+[ MULTIMEDIA ] • When the syringe is empty , pull the needle out of the skin and place a cotton ball or gauze over the injection site and press for several seconds .
+[ MULTIMEDIA ] • Use a prefilled syringe with the needle guard or a syringe and vial only once .
+If you are using a syringe , DO NOT put the needle cover ( the cap ) back on the needle .
+Discard the vial with any remaining NEUPOGEN ® liquid .
+Activating the Needle Guard for the prefilled syringe after the injection has been given • After injecting NEUPOGEN ® from the prefilled syringe , do not recap the needle .
+Keep your hands behind the needle at all times .
+While holding the clear plastic finger grip of the syringe with one hand , grasp the orange needle guard with your free hand and slide the orange needle guard over the needle until the needle is completely covered and the needle guard clicks into place .
+NOTE : If an audible click is not heard , the needle guard may not be completely activated .
+[ MULTIMEDIA ] [ MULTIMEDIA ] • Place the prefilled syringe with the activated needle guard into a puncture - proof container for proper disposal as described below .
+Disposal of syringes , needles , vials and needle guards You should always follow the instructions given by your doctor , nurse , or pharmacist on how to properly dispose of containers with used syringes , needles , vials and needle guards .
+There may be special state and local laws for disposal of used needles and syringes .
+• Place all used needles , needle covers , syringes , and vials ( empty or unused contents ) into a “ Sharps ” container given to you by your doctor or pharmacist or in a hard - plastic container with a screw - on cap , or a metal container with a plastic lid , such as a coffee can , labeled “ used syringes . ”
+If a metal container is used , cut a small hole in the plastic lid and tape the lid to the metal container .
+If a hard - plastic container is used , always screw the cap on tightly after each use .
+• Do not use glass or clear plastic containers .
+• When the container is full , tape around the cap or lid to make sure the cap or lid does not come off .
+Do not throw the container in the household trash .
+Do not recycle .
+• Always keep the container out of the reach of children .
+How should NEUPOGEN ® be stored ?
+NEUPOGEN ® should be stored in the refrigerator at 2º to 8ºC ( 36º to 46ºF ) , but not in the freezer .
+Avoid shaking NEUPOGEN ® .
+If NEUPOGEN ® is accidentally frozen , allow it to thaw in the refrigerator before giving the next dose .
+However , if it is frozen a second time , do not use it and contact your doctor or nurse for further instructions .
+NEUPOGEN ® can be left out at room temperature for up to 24 hours .
+Do not leave NEUPOGEN ® in direct sunlight .
+If you have any questions about storage or how to carry NEUPOGEN ® when you travel , contact your doctor , nurse , or pharmacist .
+What are the ingredients in NEUPOGEN ® ?
+Each syringe and vial contains Filgrastim in a sterile , clear , colorless , preservative - free solution containing acetate , sorbitol , polysorbate 80 , and sodium .
+The needle cover on the single - use prefilled syringe contains dry natural rubber ( latex ) , which should not be handled by persons sensitive to this substance .
+[ Amgen Logo ] Manufactured by : Amgen Manufacturing , Limited , a subsidiary of Amgen Inc .
+One Amgen Center Drive Thousand Oaks , California 91320 - 1799 U . S . A . 3 xxxxxx © 1991 - 2007 Amgen Inc .
+All rights reserved .
+v8 . 1 - Issue Date : 09 / 2007 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL NEUPOGEN ® : [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,586 @@
+1 INDICATIONS AND USAGE INVIRASE in combination with ritonavir and other antiretroviral agents is indicated for the treatment of HIV - 1 infection in adults ( over the age of 16 years ) .
+The following points should be considered when initiating therapy with INVIRASE / ritonavir : • – The twice daily administration of INVIRASE in combination with ritonavir is supported by safety data from the MaxCmin 1 trial [ see Adverse Reactions ( 6 . 1 ) ] and pharmacokinetic data [ see Clinical Pharmacology ( 12 . 3 ) ] .
+• – The efficacy of INVIRASE with ritonavir has not been compared against the efficacy of antiretroviral regimens currently considered standard of care .
+• – The number of baseline primary protease inhibitor mutations affects the virologic response to INVIRASE / ritonavir .
+INVIRASE is an HIV - 1 protease inhibitor indicated for the treatment of HIV - 1 infection in combination with ritonavir and other antiretroviral agents in adults ( over the age of 16 years ) .
+( 1 ) 2 DOSAGE AND ADMINISTRATION • INVIRASE must be administered in combination with ritonavir .
+( 2 . 1 ) • Adults ( over the age of 16 years ) : INVIRASE 1 , 000 mg twice daily ( 2 × 500 mg tablets ) in combination with ritonavir 100 mg twice daily .
+( 2 . 1 ) • Treatment - naïve patients initiating treatment with INVIRASE / ritonavir : First 7 days of treatment : INVIRASE 500 mg twice daily with ritonavir 100 mg twice daily .
+After 7 days : INVIRASE 1 , 000 mg twice daily with ritonavir 100 mg twice daily .
+( 2 . 1 ) • See Full Prescribing Information for dosing recommendations for patients switching immediately from treatment with another protease inhibitor taken with ritonavir or from a non - nucleoside reverse transcriptase inhibitor based regimen , without a wash - out period .
+( 2 . 1 ) • INVIRASE and ritonavir should be taken within 2 hours after a meal .
+( 2 . 1 ) 2 . 1 Recommended Dose INVIRASE must be used in combination with ritonavir because ritonavir significantly inhibits saquinavir ' s metabolism to provide increased plasma saquinavir levels .
+Cobicistat is not interchangeable with ritonavir to increase systemic exposure of saquinavir [ see Warnings and Precautions ( 5 . 1 ) ] .
+• The standard recommended dose of INVIRASE is 1 , 000 mg twice daily in combination with ritonavir 100 mg twice daily .
+• For treatment - naïve patients initiating treatment with INVIRASE / ritonavir , the recommended starting dose of INVIRASE is 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days of treatment .
+After 7 days , the recommended dose of INVIRASE is 1 , 000 mg twice daily with ritonavir 100 mg twice daily [ see Warnings and Precautions ( 5 . 4 ) and Clinical Pharmacology ( 12 . 2 ) ] .
+• Patients switching immediately ( no washout period ) from treatment with another ritonavir containing regimen or from a non - nucleoside reverse transcriptase inhibitor ( NNRTI ) based regimen ( not including delavirdine , rilpivirine ) should initiate and continue INVIRASE / ritonavir at the standard recommended dose of 1 , 000 mg twice daily with ritonavir 100 mg twice daily .
+For patients switching from a regimen containing delavirdine , the recommended dose is 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days of treatment [ see Warnings and Precautions ( 5 . 4 ) and Drug Interactions ( 7 . 3 ) ] .
+• Ritonavir should be taken at the same time as INVIRASE .
+• INVIRASE and ritonavir should be taken within 2 hours after a meal .
+• For patients already taking ritonavir 100 mg twice daily as part of their antiretroviral regimen , no additional ritonavir is needed .
+• Pediatric dose recommendations that are both reliably effective and below thresholds of concern for QT and PR interval prolongation could not be determined .
+3 DOSAGE FORMS AND STRENGTHS Tablets : 500 - mg light orange to greyish or brownish orange , oval cylindrical , biconvex film - coated with ROCHE and SQV 500 imprinted on the tablet face • Tablets : 500 mg ( 3 ) 4 CONTRAINDICATIONS INVIRASE / ritonavir is contraindicated in patients with congenital long QT syndrome , those with refractory hypokalemia or hypomagnesemia , and in combination with drugs that both increase saquinavir plasma concentrations and prolong the QT interval [ see Warnings and Precautions ( 5 . 4 ) and Clinical Pharmacology ( 12 . 2 ) ] .
+INVIRASE / ritonavir is contraindicated in patients with complete atrioventricular ( AV ) block without implanted pacemakers , or patients who are at high risk of complete AV block [ see Warnings and Precautions ( 5 . 3 ) ] .
+INVIRASE / ritonavir is contraindicated in patients with clinically significant hypersensitivity ( e . g . , anaphylactic reaction , Stevens - Johnson syndrome ) to saquinavir , saquinavir mesylate , or any of its ingredients .
+INVIRASE / ritonavir is contraindicated in patients with severe hepatic impairment .
+INVIRASE / ritonavir is contraindicated with drugs that are CYP3A substrates for which increased plasma levels may result in serious or life - threatening reactions [ see Warnings and Precautions ( 5 . 2 ) , Drug Interactions ( 7 ) and Clinical Pharmacology ( 12 . 3 ) ] .
+INVIRASE / ritonavir is contraindicated in patients receiving the following co - administered drugs ; however , it should be noted that this list is not intended to be exhaustive [ see Drug Interactions ( 7 ) and Clinical Pharmacology ( 12 . 3 ) ] • - Alpha 1 - adrenoreceptor antagonist : alfuzosin • - Antiarrhythmics : amiodarone , bepridil , dofetilide , flecainide , lidocaine ( systemic ) , propafenone , quinidine • - Antidepressant : trazodone • - Anti - infectives : clarithromycin , erythromycin , halofantrine , pentamidine • - Antimycobacterial Agents : rifampin • - Antipsychotics : lurasidone , clozapine , haloperidol , pimozide , sertindole , ziprasidone , phenothiazines ( e . g . chlorpromazine , mesoridazine , thioridazine ) .
+• - Ergot Derivatives : dihydroergotamine , ergonovine , ergotamine , methylergonovine • - HIV - 1 Protease Inhibitor : atazanavir • - HMG - CoA Reductase Inhibitors : lovastatin , simvastatin • - Immunosuppressant : tacrolimus • - Non - nucleoside reverse transcriptase inhibitor ( NNRTI ) : rilpivirine ( concomitant use and switching from rilpivirine to INVIRASE / ritonavir without a washout period of at least 2 weeks is contraindicated ) • - PDE5 Inhibitors : sildenafil ( Revatio ® ) [ for treatment of pulmonary arterial hypertension ] • - Sedative / Hypnotics : triazolam , and orally administered midazolam • - Tyrosine kinase inhibitors : dasatinib , sunatinib • - Other drugs that are CYP3A substrates : disopyramide , quinine • INVIRASE / ritonavir is contraindicated in patients with congenital or documented acquired QT prolongation , patients with refractory hypokalemia or hypomagnesemia , or those on concomitant therapy with other drugs that prolong the QT interval .
+( 4 ) • INVIRASE is contraindicated in patients with complete atrioventricular ( AV ) block without implanted pacemakers , or patients who are at high risk of complete AV block .
+( 4 ) • INVIRASE is contraindicated in patients with clinically significant hypersensitivity ( e . g . , anaphylactic reaction , Stevens - Johnson syndrome ) to saquinavir , saquinavir mesylate , or any of its ingredients .
+( 4 ) • INVIRASE / ritonavir is contraindicated in patients with severe hepatic impairment .
+( 4 ) • INVIRASE / ritonavir is contraindicated with CYP3A substrates for which increased plasma levels may result in serious or life - threatening reactions .
+( 4 ) • INVIRASE / ritonavir is contraindicated to be coadministered with rifampin due to the risk of severe hepatotoxicity .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • INVIRASE must be used in combination with ritonavir .
+Cobicistat is not interchangeable with ritonavir and is not recommended for use in combination with INVIRASE .
+( 5 . 1 ) • The concomitant use of INVIRASE / ritonavir and certain other drugs may result in known or potentially significant drug interactions .
+Consult the full prescribing information prior to and during treatment for potential drug interactions .
+( 5 . 2 , 7 . 3 ) • QT and PR interval prolongations have been observed in a healthy volunteer study .
+Use with caution in patients with preexisting conduction system abnormalities and certain heart diseases .
+( 5 . 3 , 5 . 4 , 12 . 2 ) • Patients on INVIRASE therapy may develop new onset or exacerbations of diabetes mellitus ( 5 . 5 ) , hyperglycemia ( 5 . 5 ) , elevated cholesterol and / or triglyceride concentrations ( 5 . 6 ) , redistribution / accumulation of body fat ( 5 . 10 ) , and immune reconstitution syndrome ( 5 . 11 ) .
+Monitor cholesterol and triglycerides prior to therapy and periodically thereafter .
+( 5 . 8 ) • In patients with underlying hepatitis B or C , cirrhosis , chronic alcoholism and / or other underlying liver abnormalities there have been reports of worsening liver disease .
+( 5 . 6 ) • Hemophilia : Spontaneous bleeding may occur and additional factor VIII may be required .
+( 5 . 7 ) • Each tablet contains lactose monohydrate .
+INVIRASE is not recommended in patients with rare hereditary problems of galactose intolerance , the Lapp lactase deficiency or glucose - galactose malabsorption .
+( 5 . 9 ) • Various degrees of cross - resistance have been observed .
+( 5 . 12 ) 5 . 1 Importance of Co - administration with Ritonavir INVIRASE must be used in combination with ritonavir .
+Refer to the ritonavir full prescribing information for additional precautionary measures .
+INVIRASE is not recommended for use in combination with cobicistat .
+Dosing recommendations for this combination have not been established .
+Cobicistat is also not recommended in combination with regimens containing ritonavir due to similar effects of cobicistat and ritonavir on CYP3A .
+Refer to the cobicistat full prescribing information for additional precautionary measures .
+5 . 2 Risk of Serious Adverse Reactions Due to Drug Interactions Initiation of INVIRASE / ritonavir , a CYP3A inhibitor , in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving INVIRASE / ritonavir , may increase plasma concentrations of medications metabolized by CYP3A .
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of INVIRASE / ritonavir , respectively .
+These interactions may lead to : • Clinically significant adverse reactions potentially leading to severe , life threatening , or fatal events from greater exposures of concomitant medications .
+• Clinically significant adverse reactions from greater exposures of INVIRASE / ritonavir .
+• Loss of therapeutic effect of INVIRASE / ritonavir and possible development of resistance .
+See Table 2 for steps to prevent or manage these possible and known significant drug interactions , including dosing recommendations [ see Drug Interactions ( 7 ) ] .
+Consider the potential for drug interactions prior to and during INVIRASE / ritonavir therapy ; review concomitant medications during INVIRASE / ritonavir therapy ; and monitor for the adverse reactions associated with the concomitant medications [ see Contraindications ( 4 ) and Drug Interactions ( 7 ) ] .
+If a serious or severe toxicity occurs during treatment with INVIRASE / ritonavir , discontinue INVIRASE / ritonavir .
+For concomitantly used drugs including antiretroviral agents used in combination with INVIRASE / ritonavir , prescribers should refer to the complete product information for these drugs for dose adjustment recommendations and for information regarding drug - associated adverse reactions .
+5 . 3 PR Interval Prolongation INVIRASE / ritonavir prolongs the PR interval in a dose - dependent fashion .
+Cases of second or third degree atrioventricular block have been reported rarely .
+Patients with underlying structural heart disease , pre - existing conduction system abnormalities , cardiomyopathies and ischemic heart disease may be at increased risk for developing cardiac conduction abnormalities .
+ECG monitoring is recommended in these patients [ see Warnings and Precautions ( 5 . 4 ) ] .
+Discontinue INVIRASE / ritonavir if significant arrhythmias , QT or PR prolongation occur .
+The impact on the PR interval of coadministration of INVIRASE / ritonavir with other drugs that prolong the PR interval ( including calcium channel blockers , beta - adrenergic blockers , digoxin and atazanavir ) has not been evaluated .
+As a result , coadministration of INVIRASE / ritonavir with these drugs should be undertaken with caution , particularly with those drugs metabolized by CYP3A , and clinical monitoring is recommended [ see Clinical Pharmacology ( 12 . 2 ) ] .
+For concomitantly used drugs , including antiretroviral agents used in combination with INVIRASE / ritonavir , physicians should refer to the complete product information for these drugs for dose adjustment recommendations and for information regarding drug - associated adverse reactions .
+5 . 4 QT Interval Prolongation INVIRASE / ritonavir causes dose - dependent QT prolongation .
+Torsade de pointes has been reported rarely post - marketing .
+Avoid INVIRASE / ritonavir in patients with long QT syndrome .
+ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure , bradyarrhythmias , hepatic impairment and electrolyte abnormalities .
+Correct hypokalemia or hypomagnesemia prior to initiating INVIRASE / ritonavir and monitor these electrolytes periodically during therapy .
+Do not use in combination with drugs that both increase saquinavir plasma concentrations and prolong the QT interval ( see Table 2 ) [ see Clinical Pharmacology ( 12 . 2 ) ] .
+For concomitantly used drugs , including antiretroviral agents used in combination with INVIRASE / ritonavir , refer to the complete product information for these drugs for dose adjustment recommendations and for information regarding drug - associated adverse reactions [ see Contraindications ( 4 ) and Drug Interactions ( 7 ) ] .
+Discontinue INVIRASE / ritonavir if significant arrhythmias , QT or PR prolongation occurs .
+Patients initiating therapy with INVIRASE / ritonavir : An ECG should be performed prior to initiation of treatment .
+Patients with a QT interval ≥ 450 msec should not initiate treatment with INVIRASE / ritonavir .
+Treatment - naïve patients initiating treatment with INVIRASE / ritonavir should receive a reduced starting dose of INVIRASE 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days of treatment followed by INVIRASE / ritonavir 1000 / 100 mg twice daily due to potential for an increased risk of PR and QT interval prolongation with the standard 1000 / 100 mg twice daily dose [ see Clinical Pharmacology ( 12 . 2 ) ] .
+For patients with a baseline QT interval < 450 msec , an on - treatment ECG is recommended after approximately 10 days of therapy .
+Discontinue INVIRASE / ritonavir in patients with a QT interval prolongation > 20 msec over pre - treatment .
+Patients requiring treatment with medications with the potential to increase the QT interval and concomitant INVIRASE / ritonavir : Such combinations should only be used where no alternative therapy is available , and the potential benefits outweigh the potential risks .
+An ECG should be performed prior to initiation of the concomitant therapy , and patients with a QT interval > 450 msec should not initiate the concomitant therapy .
+If baseline QT interval < 450 msec , an on - treatment ECG should be performed after 3 – 4 days of therapy .
+For patients demonstrating a subsequent increase in QT interval by > 20 msec after commencing concomitant therapy , the physician should use best clinical judgment to discontinue either INVIRASE / ritonavir or the concomitant therapy or both .
+A cardiology consult is recommended if drug discontinuation or interruption is being considered on the basis of ECG assessment .
+5 . 5 Diabetes Mellitus / Hyperglycemia New onset of diabetes mellitus , exacerbation of preexisting diabetes mellitus and hyperglycemia have been reported during postmarketing surveillance in HIV - 1 - infected patients receiving protease - inhibitor therapy .
+Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for the treatment of these events .
+In some cases , diabetic ketoacidosis has occurred .
+In those patients who discontinued protease - inhibitor therapy , hyperglycemia persisted in some cases .
+Because these events have been reported voluntarily during clinical practice , estimates of frequency cannot be made and a causal relationship between protease - inhibitor therapy and these events has not been established .
+5 . 6 Hepatotoxicity In patients with underlying hepatitis B or C , cirrhosis , chronic alcoholism or other underlying liver abnormalities , there have been reports of worsening of the underlying liver disease and development of portal hypertension after starting INVIRASE / ritonavir .
+Jaundice and exacerbation of chronic liver disease with grade 4 elevated liver function tests were also observed .
+No dosage adjustment is necessary for patients with mild or moderate hepatic impairment based on limited data [ see Clinical Pharmacology ( 12 . 3 ) ] .
+INVIRASE / ritonavir is contraindicated in patients with severe hepatic impairment [ see Contraindications ( 4 ) ] .
+If a serious or severe toxicity occurs during treatment with INVIRASE / ritonavir , discontinue INVIRASE / ritonavir .
+5 . 7 Hemophilia There have been reports of spontaneous bleeding in patients with hemophilia A and B treated with protease inhibitors .
+In some patients , additional factor VIII was required .
+In the majority of reported cases , treatment with protease inhibitors was continued or restarted .
+A causal relationship between protease inhibitor therapy and these episodes has not been established .
+5 . 8 Hyperlipidemia Elevated cholesterol and / or triglyceride levels have been observed in some patients taking saquinavir in combination with ritonavir .
+Marked elevation in triglyceride levels is a risk factor for development of pancreatitis .
+Cholesterol and triglyceride levels should be monitored prior to initiating combination dosing regimen of INVIRASE / ritonavir , and at periodic intervals while on such therapy .
+In these patients , lipid disorders should be managed as clinically appropriate .
+5 . 9 Lactose Intolerance Each tablet contains lactose ( monohydrate ) 38 . 5 mg .
+INVIRASE is not recommended in patients with rare hereditary problems of galactose intolerance , the Lapp lactase deficiency or glucose - galactose malabsorption ( autosomal recessive disorder ) .
+5 . 10 Fat Redistribution Redistribution / accumulation of body fat including central obesity , dorsocervical fat enlargement ( buffalo hump ) , facial wasting , peripheral wasting , breast enlargement , and " cushingoid appearance " have been observed in patients receiving antiretroviral therapy .
+The mechanism and long - term consequences of these events are currently unknown .
+A causal relationship has not been established .
+5 . 11 Immune Reconstitution Syndrome Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy , including INVIRASE / ritonavir .
+During the initial phase of combination antiretroviral treatment , patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections ( such as Mycobacterium avium infection , cytomegalovirus , Pneumocystis jiroveci pneumonia [ PCP ] , or tuberculosis ) , which may necessitate further evaluation and treatment .
+Autoimmune disorders ( such as Graves ' disease , polymyositis , and Guillain - Barré syndrome ) have also been reported to occur in the setting of immune reconstitution ; however , the time to onset is more variable and can occur many months after initiation of treatment .
+5 . 12 Resistance / Cross - resistance Varying degrees of cross - resistance among HIV - 1 protease inhibitors have been observed .
+Continued administration of INVIRASE / ritonavir therapy following loss of viral suppression may increase the likelihood of cross - resistance to other protease inhibitors [ see Microbiology ( 12 . 4 ) ] .
+6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling : • PR Interval Prolongation [ see Warnings and Precautions ( 5 . 3 ) ] • QT Interval Prolongation [ see Warnings and Precautions ( 5 . 4 ) ] The most common adverse reactions are nausea , vomiting , diarrhea , fatigue , pneumonia , lipodystrophy and abdominal pain .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Genentech at 1 - 888 - 835 - 2555 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trial Experience in Adult Subjects Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice .
+The original INVIRASE safety database consisted of a total of 574 adult subjects who received 600 mg of saquinavir mesylate capsules ( hard gel ) alone or in combination with zidovudine ( ZDV ) or zalcitabine ( ddC ) .
+Combination dosing with ritonavir is based on 352 HIV - 1 infected subjects and 166 healthy subjects who received various combinations of either saquinavir mesylate capsules ( hard gel or soft gel ) with ritonavir .
+The recommended dose of INVIRASE is 1 , 000 mg twice daily co - administered with ritonavir 100 mg twice daily .
+Table 1 lists Grade 2 , 3 and 4 adverse events that occurred in ≥ 2 % of subjects receiving saquinavir mesylate capsules ( soft gel ) with ritonavir ( 1000 / 100 mg bid ) .
+Table 1 Grade 2 , 3 and 4 Adverse Events ( All Causality [ 1 ] ) Reported in ≥ 2 % of Adult Subjects in the MaxCmin 1 Study of Saquinavir Mesylate Capsules ( soft gel ) in Combination with Ritonavir 1000 / 100 mg Twice a DayAdverse Events Saquinavir Mesylate Capsules ( soft gel ) 1000 mg plus Ritonavir 100 mg bid ( 48 weeks ) N = 148 n ( % = n / N ) Endocrine Disorders Diabetes mellitus / hyperglycemia 4 ( 3 ) Lipodystrophy 8 ( 5 ) Gastrointestinal Disorders Nausea 16 ( 11 ) Vomiting 11 ( 7 ) Diarrhea 12 ( 8 ) Abdominal Pain 9 ( 6 ) Constipation 3 ( 2 ) General Disorders and Administration Site Conditions Fatigue 9 ( 6 ) Fever 5 ( 3 ) Musculoskeletal Disorders Back Pain 3 ( 2 ) Respiratory Disorders Pneumonia 8 ( 5 ) Bronchitis 4 ( 3 ) Influenza 4 ( 3 ) Sinusitis 4 ( 3 ) Dermatological Disorders Rash 5 ( 3 ) Pruritus 5 ( 3 ) Dry lips / skin 3 ( 2 ) Eczema 3 ( 2 ) [ 1 ] Includes events with unknown relationship to study drug Limited experience is available from three trials investigating the pharmacokinetics of the INVIRASE 500 - mg film - coated tablet compared to the 200 - mg saquinavir mesylate capsules ( hard gel ) in healthy volunteers ( n = 140 ) .
+In two of these trials , saquinavir was combined with ritonavir ; in the other trial , saquinavir was administered as single drug .
+The INVIRASE tablet and the saquinavir mesylate capsule ( hard gel ) were similarly tolerated .
+The most common adverse events were gastrointestinal disorders ( nausea , vomiting , and diarrhea ) .
+Similar bioavailability was demonstrated and no clinically significant differences in saquinavir exposures were seen .
+Thus , similar safety profiles are expected between the two INVIRASE formulations .
+A study investigating the drug - drug interaction of rifampin 600 mg / day daily and INVIRASE 1000 mg / ritonavir 100 mg twice daily enrolled 28 healthy volunteers .
+Eleven of 17 ( 65 % ) healthy volunteers exposed concomitantly to rifampin and INVIRASE / ritonavir developed severe hepatocellular toxicity which presented as increased hepatic transaminases .
+In some subjects , transaminases increased up to > 20 - fold the upper limit of normal and were associated with gastrointestinal symptoms , including abdominal pain , gastritis , nausea , and vomiting .
+Following discontinuation of all three drugs , clinical symptoms abated and hepatic transaminases normalized [ see Contraindications ( 4 ) ] .
+Additional Adverse Reactions Reported During Clinical Trials with Saquinavir Blood and lymphatic system disorders : anemia , hemolytic anemia , leukopenia , lymphadenopathy , neutropenia , pancytopenia , thrombocytopenia Cardiac disorders : heart murmur , syncope Ear and labyrinth disorders : tinnitus Eye disorders : visual impairment Gastrointestinal disorders : abdominal discomfort , ascites , dyspepsia , dysphagia , eructation , flatulence , gastritis , gastrointestinal hemorrhage , intestinal obstruction , mouth dry , mucosal ulceration , pancreatitis General disorders and administration site conditions : anorexia , asthenia , chest pain , edema , lethargy , wasting syndrome , weight increased Hepatobiliary disorders : chronic active hepatitis , hepatitis , hepatomegaly , hyperbilirubinemia , jaundice , portal hypertension Immune system disorders : allergic reaction Investigations : ALT increase , AST increase , blood creatine phosphokinase increased , increased alkaline phosphatase , GGT increase , raised amylase , raised LDH Metabolism and nutrition disorders : increased or decreased appetite , dehydration , hypertriglyceridemia Musculoskeletal and connective tissue disorders : arthralgia , muscle spasms , myalgia , polyarthritis Neoplasms benign , malignant and unspecified ( including cysts and polyps ) : acute myeloid leukemia , papillomatosis Nervous system disorders : confusion , convulsions , coordination abnormal , dizziness , dysgeusia , headache , hypoesthesia , intracranial hemorrhage leading to death , loss of consciousness , paresthesia , peripheral neuropathy , somnolence , tremor Psychiatric disorders : anxiety , depression , insomnia , libido disorder , psychotic disorder , sleep disorder , suicide attempt Renal and urinary disorders : nephrolithiasis Respiratory , thoracic and mediastinal disorders : cough , dyspnea Skin and subcutaneous tissue disorders : acne , alopecia , dermatitis bullous , drug eruption , erythema , severe cutaneous reaction associated with increased liver function tests , Stevens - Johnson syndrome , sweating increased , urticaria Vascular disorders : hypertension , hypotension , thrombophlebitis , peripheral vasoconstriction 6 . 2 Clinical Trial Experience in Pediatric Subjects Limited safety data are available from two pediatric clinical trials of saquinavir mesylate capsules ( hard gel ) ( approximately 50 mg per kg twice daily ) used in combination with either low dose ritonavir or lopinavir / ritonavir .
+These trials enrolled pediatric subjects aged 4 months to 16 years old .
+In the HIVNAT 017 study ( saquinavir mesylate capsules ( hard gel ) + lopinavir / ritonavir ) , adverse events were reported in 90 % of the 50 subjects enrolled .
+The most commonly reported adverse events considered related to study treatment were diarrhea ( 18 % ) and vomiting ( 10 % ) .
+In the NV20911 study ( saquinavir mesylate capsules ( hard gel ) + ritonavir ) , 4 subjects ( 22 % of 18 enrolled ) experienced adverse events that were considered related to INVIRASE + ritonavir .
+These events ( n ) were vomiting ( 3 ) , abdominal pain ( 1 ) and diarrhea ( 1 ) .
+All reported adverse events were mild or moderate in intensity .
+The adverse reaction profile of INVIRASE in the pediatric trials is similar to that observed in adult trials .
+6 . 3 Postmarketing Experience Additional adverse events identified during postmarketing use are similar to those observed in clinical trials with INVIRASE , saquinavir mesylate capsules ( hard gel and soft gel ) alone or in combination with ritonavir .
+Because these events are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to INVIRASE exposure .
+In addition , torsade de pointes has been reported rarely [ see Warnings and Precautions ( 5 . 4 ) ] .
+7 DRUG INTERACTIONS Drug interaction studies have been completed with INVIRASE and saquinavir mesylate capsules ( hard gel and soft gel ) .
+Observations from drug interaction studies with saquinavir mesylate capsules ( soft gel ) may not be predictive for INVIRASE / ritonavir .
+Because ritonavir is coadministered with INVIRASE , prescribers should also refer to the prescribing information for ritonavir regarding drug interactions associated with this agent .
+• INVIRASE / ritonavir is a potent inhibitor of CYP3A , significantly increasing the exposure of drugs primarily metabolized by CYP3A .
+( 7 . 1 ) • Coadministration of INVIRASE / ritonavir with drugs that induce CYP3A may result in decreased plasma concentrations of saquinavir and reduced efficacy .
+( 7 . 2 ) • Certain drugs or drug classes should not be coadministered with INVIRASE / ritonavir based on drug interaction studies or predicted drug interactions .
+( 5 . 2 , 7 . 2 , 7 . 3 ) 7 . 1 Potential for INVIRASE / Ritonavir to Affect Other Drugs The combination INVIRASE / ritonavir is a potent inhibitor of CYP3A and may significantly increase the exposure of drugs primarily metabolized by CYP3A .
+Drugs that are contraindicated specifically due to the observed or expected magnitude of interaction and potential for serious or life - threatening adverse events are listed in Section 4 Contraindications [ see Contraindications ( 4 ) ] .
+Coadministration with other CYP3A substrates may require a dose adjustment or additional monitoring ( see Table 2 ) .
+7 . 2 Potential for Other Drugs to Affect INVIRASE / Ritonavir The metabolism of saquinavir is mediated primarily by CYP3A .
+Additionally , saquinavir is a substrate for P - glycoprotein ( P - gp ) .
+Therefore , drugs that affect CYP3A and / or P - gp may modify the pharmacokinetics of saquinavir .
+Coadministration with drugs that are potent inducers of CYP3A ( e . g . , phenobarbital , phenytoin , carbamazepine ) may result in decreased plasma concentrations of saquinavir and reduced therapeutic effect .
+7 . 3 Established and Other Potentially Significant Drug Interactions Based on the finding of dose - dependent prolongations of QT and PR intervals in healthy volunteers receiving INVIRASE / ritonavir , additive effects on QT and / or PR interval prolongation may occur with certain members of the following drug classes : antiarrhythmics class IA or class III , neuroleptics , antidepressants , PDE5 inhibitors ( when used for pulmonary arterial hypertension ) , antimicrobials , antihistaminics and others .
+This effect might lead to an increased risk of ventricular arrhythmias , notably torsade de pointes .
+Therefore , concurrent administration of these agents with INVIRASE / ritonavir is contraindicated [ see Contraindications ( 4 ) ] .
+Table 2 provides examples of established or potentially clinically significant drug interactions .
+This table includes potentially significant interactions but is not all inclusive .
+Alteration in dose or avoidance of the combination may be recommended depending on the interaction .
+Table 2 Established and Other Potentially Significant Drug Interactions : Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or on Predicted Interaction with INVIRASE / Ritonavir [ 1 ] Concomitant Drug Class : Drug Name Effect [ 2 ] on Concentration of Saquinavir or Concomitant Drug Clinical Comment HIV - 1 Antiviral Agents Non - nucleoside reverse transcriptase inhibitor : Rilpivirine ↑ Rilpivirine Co - administration with INVIRASE / ritonavir and switching from rilpivirine to Invirase / ritonavir within 2 weeks is contraindicated due to the potential for life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Non - nucleoside reverse transcriptase inhibitor : Delavirdine [ 3 ] ↑ Saquinavir Effect on delavirdine is not well established Appropriate doses of the combination with respect to safety and efficacy have not been established .
+Co - administration is not recommended .
+Liver function should be monitored frequently if this combination is prescribed .
+Efavirenz [ 4 ] , nevirapine null ↓ Saquinavir ↔ Efavirenz Appropriate doses of the combination of efavirenz or nevirapine and INVIRASE / ritonavir with respect to safety and efficacy have not been established .
+Co - administration is not recommended .
+HIV - 1 protease inhibitor : Atazanavir ↑ Saquinavir ↑ Ritonavir ↑ Atazanavir Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+HIV - 1 protease inhibitor : Indinavir null ↑ Saquinavir ↑ Indinavir Appropriate doses of the combination of indinavir and INVIRASE / ritonavir with respect to safety and efficacy have not been established .
+Co - administration is not recommended .
+Increased concentrations of indinavir may result in nephrolithiasis .
+For further details see complete prescribing information for indinavir .
+Lopinavir / ritonavir null ( coformulated tablet ) ↔ Saquinavir ↔ Lopinavir ↓ Ritonavir Evidence from several clinical trials indicates that saquinavir concentrations achieved with the saquinavir and lopinavir / ritonavir combination are similar to those achieved following INVIRASE / ritonavir 1000 / 100 mg .
+The recommended dose for this combination is INVIRASE 1000 mg plus lopinavir / ritonavir 400 / 100 mg bid .
+Lopinavir / ritonavir in combination with INVIRASE should be used with caution .
+Additive effects on QT and / or PR interval prolongation may occur with INVIRASE [ see Warnings and Precautions ( 5 . 3 , 5 . 4 ) ] .
+Nelfinavir null ↑ Saquinavir Combining saquinavir / ritonavir with nelfinavir is not recommended Tipranavir / ritonavir null ↓ Saquinavir Combining saquinavir with tipranavir / ritonavir is not recommended .
+HIV - 1 CCR5 antagonist : Maraviroc ↑ Maraviroc Maraviroc dose should be 150 mg twice daily when co - administered with INVIRASE / ritonavir .
+For further details see complete prescribing information for Selzentry ® ( maraviroc ) .
+Other Agents Alpha 1 - adrenoreceptor antagonist : Alfuzosin ↑ Alfuzosin Co - administration is contraindicated with INVIRASE / ritonavir as potentially increased alfuzosin concentrations can result in hypotension , and potentially life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Antiarrhythmics : Amiodarone , bepridil , dofetilide , flecainide , lidocaine ( systemic ) , propafenone , quinidine ↑ Amiodarone ↑ Bepridil ↑ Dofetilide ↑ Flecainide ↑ Lidocaine ( systemic ) ↑ Propafenone ↑ Quinidine Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Antiarrhythmics : Ibutilide null Sotalol null Effects on ibutilide , sotalol , and saquinavir concentrations are not well - established Additive effects on QT and / or PR interval prolongation may occur with INVIRASE / ritonavir [ see Contraindications ( 4 ) and Warnings and Precautions ( 5 . 3 , 5 . 4 ) ] .
+Co - administration of INVIRASE / ritonavir and ibutilide or sotalol is not recommended .
+Anticoagulant : Warfarin null ↑ Warfarin Concentrations of warfarin may be affected .
+It is recommended that INR ( international normalized ratio ) be monitored .
+Anticonvulsants : Carbamazepine null , phenobarbital null , phenytoin null ↓ Saquinavir Effect on carbamazepine , phenobarbital , and phenytoin is not well established Saquinavir may be less effective due to decreased saquinavir plasma concentrations in patients taking these agents concomitantly .
+Co - administration is not recommended .
+Antidepressant : Trazodone ↑ Trazodone Co - administration is contraindicated with INVIRASE / ritonavir as increased trazodone concentrations can result in potentially life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Tricyclic antidepressants null Amitriptyline , clomipramine , imipramine , maprotiline ↑ Tricyclics Therapeutic concentration monitoring is recommended for tricyclic antidepressants when co - administered with INVIRASE / ritonavir .
+Other antidepressants : Nefazodone null ↑ Saquinavir Use with caution due to possible cardiac arrhythmias .
+Clinical monitoring for saquinavir toxicity is recommended .
+Antifungals : Ketoconazole null , ↔ Saquinavir ↔ Ritonavir ↑ Ketoconazole When INVIRASE / ritonavir and ketoconazole are co - administered , plasma concentrations of ketoconazole are increased ( see Table 5 ) .
+Hence , doses of ketoconazole or itraconazole > 200 mg / day are not recommended .
+Itraconazole null ↑ Itraconazole ↑ Saquinavir Clinical monitoring for saquinavir toxicity is recommended .
+Use with caution due to possible cardiac arrhythmias .
+Anti - gout : Colchicine ↑ Colchicine Treatment of gout flares - co - administration of colchicine in patients on INVIRASE / ritonavir : 0 . 6 mg ( 1 tablet ) × 1 dose , followed by 0 . 3 mg ( half tablet ) 1 hour later .
+Dose to be repeated no earlier than 3 days .
+Treatment of familial Mediterranean fever ( FMF ) co - administration of colchicine in patients on INVIRASE / ritonavir : Maximum daily dose of 0 . 6 mg ( may be given as 0 . 3 mg twice a day ) .
+Prophylaxis of gout flares - co - administration of colchicine in patients on INVIRASE / ritonavir : If the original colchicine regimen was 0 . 6 mg twice a day , the regimen should be adjusted to 0 . 3 mg once a day .
+If the original colchicine regimen was 0 . 6 mg once a day , the regimen should be adjusted to 0 . 3 mg once every other day .
+Patients with renal or hepatic impairment should not be given colchicine with INVIRASE / ritonavir .
+Anti - infectives : Clarithromycin , Erythromycin Halofantrine Pentamidine ↑ Clarithromycin ↑ Erythromycin ↑ Halofantrine ↔ Pentamidine Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Anti - infectives : Streptogramin antibiotics ( quinupristin / dalfopristin null ) Streptogramin antibiotics such as quinupristin / dalfopristin inhibit CYP3A4 ; saquinavir concentrations may be increased Monitoring for saquinavir toxicity is recommended .
+Use with caution due to possible cardiac arrhythmias .
+Fusidic Acid ↑ Saquinavir ↑ Fusidic Acid ↑ Ritonavir Concomitant use of fusidic acid and INVIRASE / ritonavir is not recommended due to potential for increased mutual toxicities .
+The interaction between INVIRASE / ritonavir and fusidic acid has not been formally evaluated .
+Co - administration of fusidic acid and INVIRASE / ritonavir can cause increased plasma concentrations of fusidic acid , saquinavir and ritonavir .
+Antimycobacterial : Rifabutin null Dapsone null ↔ Saquinavir ↑ Rifabutin ↔ Ritonavir ↑ Dapsone No dose adjustment of INVIRASE / ritonavir ( 1000 / 100 mg bid ) is required if INVIRASE / ritonavir is administered in combination with rifabutin .
+Dosage reduction of rifabutin by at least 75 % of the usual dose of 300 mg / day is recommended ( i . e . , a maximum dose of 150 mg every other day or three times per week ) .
+Increased monitoring for adverse events including neutropenia and liver enzyme levels is warranted in patients receiving the combination .
+Consider monitoring rifabutin concentrations to ensure adequate exposure .
+Co - administration of saquinavir / ritonavir with drugs that are metabolized by CYP3A4 pathway may result in elevated plasma concentrations of these drugs .
+Co - administration with oral dapsone is not recommended .
+Antimycobacterial : Rifampin ↑ Rifampin Co - administration is contraindicated with INVIRASE / ritonavir as part of an ART regimen due to the risk of severe hepatocellular toxicity [ see Contraindications ( 4 ) ] .
+Antipsychotic : Quetiapine ↑ Quetiapine Initiation of INVIRASE with ritonavir in patients taking quetiapine : Consider alternative antiretroviral therapy to avoid increases in quetiapine drug exposures .
+If co - administration is necessary , reduce the quetiapine dose to 1 / 6 of the current dose and monitor for quetiapine - associated adverse reactions .
+Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring .
+Initiation of quetiapine in patients taking INVIRASE with ritonavir : Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine .
+Antipsychotic : Lurasidone ↑ Lurasidone Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening reactions [ see Contraindications ( 4 ) ] .
+Antipsychotics : clozapine , haloperidol , pimozide , sertindole , ziprasidone , phenothiazines ( e . g . chlorpromazine , mesoridazine , thioridazine ) .
+↑ Clozapine ↑ Haloperidol ↑ Pimozide ↑ Ziprasidone ↑ Chlorpromazine ↑ Mesoridazine ↑ Sertindole ↑ Thioridazine Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening reactions such as cardiac arrhythmias [ see Contraindications ( 4 ) ] .
+Benzodiazepine : Triazolam , orally administered Midazolam ↑ Midazolam ↑ Triazolam Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening reactions such as prolonged or increased sedation or respiratory depression [ see Contraindications ( 4 ) ] .
+Benzodiazepines null : Alprazolam , clorazepate , diazepam , flurazepam ↑ Benzodiazepines Clinical significance is unknown .
+Careful monitoring of patients for benzodiazepine effects is warranted ; a decrease in benzodiazepine dose may be needed .
+Intravenously administered Midazolam ↑ Midazolam If INVIRASE / ritonavir is co - administered with parenteral midazolam , close clinical monitoring for respiratory depression and / or prolonged sedation should be exercised and dosage adjustment should be considered .
+Calcium channel blockers null : Diltiazem , felodipine , nifedipine , nicardipine , nimodipine , verapamil , amlodipine , nisoldipine , isradipine ↑ Calcium channel blockers Close clinical monitoring of patients is recommended .
+Systemic / Inhaled / Nasal / Ophthalmic Corticosteroids : e . g . betamethasone , budesonide , ciclesonide , dexamethasone null , fluticasone null , methylprednisolone , mometasone , prednisone , triamcinolone ↓ Saquinavir Co - administration of INVIRASE / ritonavir with systemic dexamethasone or other systemic corticosteroids that induce CYP3A may result in loss of therapeutic effect and development of resistance to saquinavir .
+Consider alternative corticosteroids .
+↑ Corticosteroids Co - administration of INVIRASE / ritonavir with corticosteroids of which exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing ' s syndrome and adrenal suppression .
+Alternative corticosteroids including beclomethasone and prednisolone ( for which PK and / or PD are less affected by strong CYP3A inhibitors relative to other steroids ) should be considered , particularly for long term use .
+Digitalis Glycosides : Digoxin null ↑ Digoxin Increases in serum digoxin concentration were greater in female subjects as compared to male subjects when digoxin was coadministered with INVIRASE / ritonavir .
+Caution should be exercised when INVIRASE / ritonavir and digoxin are co - administered ; serum digoxin concentrations should be monitored and the dose of digoxin may need to be reduced when co - administered with INVIRASE / ritonavir .
+Endothelin receptor antagonists : Bosentan ↑ Bosentan Co - administration of bosentan in patients on INVIRASE / ritonavir : In patients who have been receiving INVIRASE / ritonavir for at least 10 days , start bosentan at 62 . 5 mg once daily or every other day based upon individual tolerability .
+Co - administration of INVIRASE / ritonavir in patients on bosentan : Discontinue use of bosentan at least 36 hours prior to initiation of INVIRASE / ritonavir .
+After at least 10 days following the initiation of INVIRASE / ritonavir , resume bosentan at 62 . 5 mg once daily or every other day based upon individual tolerability .
+Ergot derivatives : Dihydroergotamine , ergonovine , ergotamine , methylergonovine ↑ Dihydroergotamine , ↑ Ergonovine , ↑ Ergotamine , ↑ Methylergonovine Co - administration is contraindicated in INVIRASE / ritonavir due to the potential for serious and life - threatening reactions such as ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues [ see Contraindications ( 4 ) ] .
+Herbal Product : St . John ' s wort null ( hypericum perforatum ) ↓ Saquinavir Herbal products containing St . John ' s wort should not be used concomitantly with INVIRASE / ritonavir because co - administration may lead to loss of virologic response and possible resistance to INVIRASE or to the class of protease inhibitors .
+Garlic Capsules null Co - administration of garlic capsules and saquinavir is not recommended due to the potential for garlic capsules to induce the metabolism of saquinavir which may result in sub - therapeutic saquinavir concentrations .
+HMG - CoA reductase inhibitors : Lovastatin , Simvastatin ↑ Lovastatin ↑ Simvastatin Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for myopathy including rhabdomyolysis [ see Contraindications ( 4 ) ] .
+HMG - CoA reductase inhibitors null : Atorvastatin ↑ Atorvastatin Titrate atorvastatin dose carefully and use the lowest dose necessary ; do not exceed atorvastatin 20 mg / day .
+Patients should be carefully monitored for signs and symptoms of myopathy ( e . g . , muscle weakness , muscle pain , rising creatine kinase ) .
+Immunosuppressants : Tacrolimus ↑ Tacrolimus Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Immunosuppressants : Cyclosporine null , rapamycin null ↑ Immunosuppressants Therapeutic concentration monitoring is recommended for immunosuppressant agents when co - administered with INVIRASE / ritonavir .
+Inhaled beta agonist : Salmeterol ↑ Salmeterol Concurrent administration of salmeterol with INVIRASE / ritonavir is not recommended .
+The combination may result in increased risk of cardiovascular adverse events associated with salmeterol , including QT prolongation , palpitations and sinus tachycardia .
+Narcotic analgesic : Methadone null ↓ Methadone Dosage of methadone may need to be increased when co - administered with INVIRASE / ritonavir .
+Use with caution .
+Additive effects on QT and / or PR interval prolongation may occur with INVIRASE / ritonavir [ see Contraindications ( 4 ) and Warnings and Precautions ( 5 . 3 , 5 . 4 ) ] .
+Oral contraceptives : Ethinyl estradiol null ↓ Ethinyl estradiol Alternative or additional contraceptive measures should be used when estrogen - based oral contraceptives and INVIRASE / ritonavir are co - administered .
+PDE5 inhibitors ( phosphodiesterase type 5 inhibitors ) : Sildenafil null , vardenafil null , tadalafil null ↑ Sildenafil ↔ Saquinavir ↑ Vardenafil ↑ Tadalafil Only the combination of sildenafil with saquinavir mesylate capsules ( soft gel ) has been studied at doses used for treatment of erectile dysfunction .
+May result in an increase in PDE5 inhibitor - associated adverse events , including hypotension , syncope , visual disturbances , and priapism .
+Use of PDE - 5 inhibitors for pulmonary arterial hypertension ( PAH ) : • Co - administration is contraindicated with INVIRASE / ritonavir when sildenafil ( Revatio ) is used for the treatment of pulmonary arterial hypertension ( PAH ) [ see Contraindications ( 4 ) ] .
+The following dose adjustments are recommended for use of tadalafil ( Adcirca ® ) with INVIRASE / ritonavir : Co - administration of Adcirca in patients on INVIRASE / ritonavir : In patients receiving INVIRASE / ritonavir for at least one week , start Adcirca at 20 mg once daily .
+Increase to 40 mg once daily based upon individual tolerability .
+Co - administration of INVIRASE / ritonavir in patients on Adcirca : Avoid use of Adcirca during the initiation of INVIRASE / ritonavir .
+Stop Adcirca at least 24 hours prior to starting INVIRASE / ritonavir .
+After at least one week following the initiation of INVIRASE / ritonavir , resume Adcirca at 20 mg once daily .
+Increase to 40 mg once daily based upon individual tolerability .
+Use of PDE5 inhibitors for erectile dysfunction : Use sildenafil with caution at reduced doses of 25 mg every 48 hours with increased monitoring of adverse events when administered concomitantly with INVIRASE / ritonavir .
+Use vardenafil with caution at reduced doses of no more than 2 . 5 mg every 72 hours with increased monitoring of adverse events when administered concomitantly with INVIRASE / ritonavir .
+Use tadalafil with caution at reduced doses of no more than 10 mg every 72 hours with increased monitoring of adverse events when administered concomitantly with INVIRASE / ritonavir .
+Proton pump inhibitors : Omeprazole null ↑ Saquinavir When INVIRASE / ritonavir is co - administered with omeprazole , saquinavir concentrations are increased significantly .
+If omeprazole or another proton pump inhibitor is taken concomitantly with INVIRASE / ritonavir , caution is advised and monitoring for potential saquinavir toxicities is recommended , particularly gastrointestinal symptoms , increased triglycerides , deep vein thrombosis , and QT prolongation .
+Use with caution due to possible cardiac arrhythmias .
+Tyrosine kinase inhibitors : Dasatinib Sunitinib ↑ Dasatinib ↑ Sunitinib Co - administration is contraindicated with INVIRASE / ritonavir due to potentially life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] Vasodilators ( peripheral ) : Intravenously administered Vincamine ↑ Vincamine Monitoring for vincamine toxicity is recommended .
+Use with caution due to potential cardiac arrhythmias .
+Other drugs that are substrates of CYP3A : Disopyramide Quinine ↑ Disopyramide ↑ Quinine Co - administration is contraindicated with INVIRASE / ritonavir due to the potential for serious and / or life - threatening cardiac arrhythmia [ see Contraindications ( 4 ) ] .
+Other drugs that are substrates of CYP3A : Fentanyl null Alfentanil null ↑ Fentanyl ↑ Alfentanil Co - administration with these drugs may accentuate the side effects reported with use of fentanyl or alfentanil including respiratory depression , apnea and bradycardia .
+[ 1 ] This list provides examples of established or potentially clinically significant drug interactions drugs with INVIRASE / ritonavir and may not be exhaustive [ 2 ] Observed or predicted effect .
+[ 3 ] INVIRASE / ritonavir interaction has not been evaluated .
+[ 4 ] See Pharmacokinetics , Drug Interactions ( 12 . 3 ) , Table 5 and Table 6 for magnitude of interactions .
+7 . 4 Drugs without Clinically Significant Interactions with INVIRASE / Ritonavir Based on drug interaction studies conducted with INVIRASE / ritonavir , no clinically significant effect was observed for saquinavir when coadministered with fosamprenavir .
+No clinically significant effect was observed for enfuvirtide when coadministered with INVIRASE / ritonavir .
+8 USE IN SPECIFIC POPULATIONS • Pregnancy : Use during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+( 8 . 1 ) • Lactation : Breastfeeding is not recommended due to risk of HIV - 1 transmission .
+( 8 . 2 ) • Geriatric Use : Caution should be exercised due to greater frequency of decreased hepatic , renal or cardiac function in elderly population .
+( 8 . 5 ) 8 . 1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to antiretrovirals during pregnancy .
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry ( APR ) at 1 - 800 - 258 - 4263 .
+Risk Summary Prospective pregnancy data from the APR are not sufficient to adequately assess a drug - associated risk of birth defects or fetal outcomes .
+Limited number of reports on the use of saquinavir during pregnancy has been submitted to the APR and the number of exposures to saquinavir is insufficient to make a risk assessment compared to a reference population .
+All pregnancies have a background risk of birth defect , loss , or other adverse outcomes .
+The estimated background rate for major birth defects is 2 . 7 % in the U . S . reference population of the Metropolitan Atlanta Congenital Defects Program ( MACDP ) .
+The estimated rate of miscarriage is not reported in the APR .
+The estimated background rate of miscarriage in the U . S . general population is 15 – 20 % .
+In animal reproduction studies with saquinavir , no evidence of adverse developmental effects were observed at the highest achievable plasma exposures ( AUC ) in both rats and rabbits , resulting in exposures approximately 25 % of those obtained in humans at the recommended human dose ( RHD ) combined with ritonavir .
+Saquinavir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus ( see Data ) .
+Data Human Data Based on prospective reports to the APR following exposure to saquinavir - containing regimens , there were 7 birth defects reported in 183 first trimester exposures and 9 birth defects reported in 221 second and third trimester exposures .
+Insufficient numbers of pregnancies with exposure to saquinavir have been reported to the APR to calculate the prevalence ( 95 % CI ) or for a detailed assessment about the risk of saquinavir with regard to birth defects in this population .
+The background rate for major birth defects is 2 . 7 % in a U . S . reference population of the MACDP .
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to saquinavir are compared with the U . S . background major birth defect rate .
+Methodological limitations of the APR include the use of the MACDP as the external comparator group .
+Limitations of using an external comparator include differences in methodology and populations as well as confounding due to the underlying disease .
+Animal Data In animal reproduction studies , no evidence of harm to the fetus was detected when saquinavir was administered orally to pregnant rats and rabbits twice - daily during the period of organogenesis at dose levels up to 1200 ( rats ) or 1000 ( rabbits ) mg / kg / day .
+However , because of limited bioavailability of saquinavir in animals and / or dosing limitations , plasma exposures ( AUC ) in these species were only 29 % ( rat ) and 21 % ( rabbits ) of those obtained in humans at the RHD combined with ritonavir .
+In a pre - and postnatal development study , saquinavir was administered orally to pregnant rats ( up to 1600 mg / kg / day ) from gestation day 15 to post - partum day 20 .
+No adverse effects were observed in the offspring exposed daily from before birth through lactation at maternal exposures ( AUC ) approximately 27 % of those obtained in humans at the RHD combined with ritonavir .
+8 . 2 Lactation The Centers for Disease Control and Prevention recommends that HIV - infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV - 1 .
+There are no data available regarding the presence of saquinavir in human milk , the effects on the breastfed infant , or the effects on milk production .
+Because of the potential for ( 1 ) HIV - 1 transmission ( in HIV - negative infants ) , ( 2 ) developing viral resistance ( in HIV - positive infants ) and ( 3 ) adverse reactions in breastfed infants similar to those seen in adults , instruct mothers not to breastfeed if they are receiving INVIRASE .
+8 . 4 Pediatric Use The safety and activity of INVIRASE have been evaluated in 68 pediatric subjects 4 months to less than 16 years of age treated with saquinavir mesylate capsules ( hard gel ) combined with either ritonavir or with lopinavir / ritonavir in two clinical trials .
+Data from the NV20911 trial demonstrated that saquinavir mesylate capsules ( hard gel ) combined with low dose ritonavir provided plasma levels of saquinavir that were significantly higher than those historically observed in adults at the approved dose [ see Clinical Pharmacology ( 12 . 3 ) ] .
+The HIVNAT 017 trial provided long term 96 - week activity and safety data ; however , pharmacokinetic data from this study could not be validated .
+HIVNAT 017 was an open - label , single - arm trial at two centers in Thailand that evaluated the use of saquinavir mesylate capsules ( hard gel ) ( 50 mg per kg twice daily given as 200 - mg capsules ) with lopinavir / ritonavir ( 230 / 57 . 5 mg / m2 twice daily ) for 96 weeks .
+Fifty subjects 4 years to less than 16 years of age were enrolled .
+In this trial population , treatment resulted in HIV - 1 RNA < 400 copies / mL at week 96 in 78 % of subjects ( HIV - 1 RNA < 50 copies per mL at week 96 in 66 % ) .
+Mean CD4 lymphocyte percentage increased from 8 % at screening to 22 % at week 96 .
+NV20911 was an open - label , multinational trial that evaluated the pharmacokinetics , safety , and activity of saquinavir mesylate capsules ( hard gel ) ( 50 mg per kg twice daily as 200 - mg capsules , up to the adult dose of 1 , 000 mg twice daily ) and ritonavir oral solution plus ≥ 2 background ARVs .
+Eighteen subjects 4 months to less than 6 years of age were enrolled .
+Treatment with INVIRASE / ritonavir resulted in HIV - 1 RNA < 400 copies per mL at week 48 in 72 % of subjects ( HIV - 1 RNA < 50 copies per mL at week 48 in 61 % ) .
+The percentage of subjects with HIV - 1 RNA < 50 copies per mL at week 48 was 61 % .
+Mean CD4 lymphocyte percentage increased from 29 % at screening to 34 % at week 48 .
+Steady - state saquinavir exposures observed in pediatric trials were substantially higher than historical data in adults where dose - and exposure - dependent QTc and PR prolongation were observed [ see Warnings and Precautions ( 5 . 3 , 5 . 4 ) , Clinical Pharmacology ( 12 . 2 , 12 . 3 ) ] .
+Although electrocardiogram abnormalities were not reported in these pediatric trials , the trials were small and not designed to evaluate QT or PR intervals .
+Modeling and simulation assessment of pharmacokinetic / pharmacodynamic relationships in pediatric subjects suggest that reducing the INVIRASE dose to minimize risk of QT prolongation is likely to reduce antiviral efficacy .
+In addition , no clinical efficacy data are available at INVIRASE doses less than 50 mg per kg in pediatric subjects .
+Therefore , pediatric dose recommendations that are both reliably effective and below thresholds of concern with respect to QT and PR prolongation could not be determined .
+8 . 5 Geriatric Use Clinical trials of INVIRASE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+In general , dosing INVIRASE / ritonavir in elderly patients should be undertaken with caution keeping in mind the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+8 . 6 Impaired Renal Function Renal clearance is a minor elimination pathway ; the principal route of excretion for saquinavir is by hepatic metabolism .
+Therefore , no initial dose adjustment is necessary for patients with renal impairment .
+However , patients with severe renal impairment or end - stage renal disease ( ESRD ) have not been studied , and caution should be exercised when prescribing INVIRASE / ritonavir in this population .
+8 . 7 Impaired Hepatic Function No dosage adjustment is necessary for HIV - 1 - infected patients with mild or moderate hepatic impairment based on limited data .
+In patients with underlying hepatitis B or C , cirrhosis , chronic alcoholism and / or other underlying liver abnormalities , there have been reports of worsening liver disease [ see Clinical Pharmacology ( 12 . 3 ) ] .
+INVIRASE / ritonavir is contraindicated in patients with severe hepatic impairment [ see Contraindications ( 4 ) ] .
+10 OVERDOSAGE There is limited experience of overdose with saquinavir .
+No acute toxicities or sequelae were noted in one subject who ingested 8 grams of INVIRASE as a single dose .
+The subject was treated with induction of emesis within 2 to 4 hours after ingestion .
+A second subject ingested 2 . 4 grams of INVIRASE in combination with 600 mg of ritonavir and experienced pain in the throat that lasted for 6 hours and then resolved .
+In an exploratory Phase II study of oral dosing with INVIRASE at 7 , 200 mg per day ( 1 , 200 mg q4h ) , there were no serious toxicities reported through the first 25 weeks of treatment .
+Treatment of overdose with saquinavir should consist of general supportive measures , including monitoring of vital signs and ECG and observations of the patient ' s clinical status .
+Since saquinavir is highly protein bound , dialysis is unlikely to be beneficial in significant removal of the active substance .
+11 DESCRIPTION INVIRASE brand of saquinavir mesylate is an inhibitor of the human immunodeficiency virus type 1 ( HIV - 1 ) protease .
+The chemical name for saquinavir mesylate is N - tert - butyl - decahydro - 2 - [ 2 ( R ) - hydroxy - 4 - phenyl - 3 ( S ) - [ [ N - ( 2 - quinolylcarbonyl ) - L - asparaginyl ] amino ] butyl ] - ( 4 aS , 8 aS ) - isoquinoline - 3 ( S ) - carboxamide methanesulfonate with a molecular formula C38H50N6O5 ∙ CH4O3S and a molecular weight of 766 . 96 .
+The molecular weight of the free base is 670 . 86 .
+Saquinavir mesylate has the following structural formula : [ MULTIMEDIA ] Saquinavir mesylate is a white to off - white , very fine powder with an aqueous solubility of 2 . 22 mg per mL at 25 ° C . INVIRASE tablets are available as light orange to greyish - or brownish - orange , oval cylindrical , biconvex film - coated tablet for oral administration in 500 - mg strength ( as saquinavir free base ) .
+Each tablet also contains the inactive ingredients lactose , microcrystalline cellulose , povidone K30 , croscarmellose sodium , and magnesium stearate .
+Each film coat contains hypromellose , titanium dioxide , talc , iron oxide yellow , iron oxide red , and triacetin .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action INVIRASE is an antiretroviral agent [ see Microbiology ( 12 . 4 ) ] 12 . 2 Pharmacodynamics QTcS interval was evaluated in a randomized , placebo and active ( moxifloxacin 400 mg once daily ) controlled crossover study in 59 healthy adults , with ECG measurements on Day 3 .
+The maximum mean ( 95 % upper confidence bound ) differences in QTcS interval from placebo after baseline - correction were 18 . 9 ( 22 . 0 ) and 30 . 2 ( 33 . 4 ) ms for 1000 / 100 mg twice daily and supratherapeutic 1500 / 100 mg twice daily of INVIRASE / ritonavir , respectively .
+There is a delayed effect between QTc interval change and drug concentrations , with the maximum placebo - adjusted baseline - corrected QTcS observed at about 12 - 20 hours post - dose .
+INVIRASE / ritonavir 1500 / 100 mg twice daily resulted in a Day 3 mean Cmax of INVIRASE approximately 40 % higher than the mean Cmax observed on Day 3 with the approved therapeutic dose in healthy volunteers ( within the same study ) .
+QTcS in this study was QT / RR0 . 319 for males and QT / RR0 . 337 for females , which are similar to Fridericia ' s correction ( QTcF = QT / RR0 . 3333 ) .
+PR and QRS interval prolongations were also noted in subjects receiving INVIRASE / ritonavir in the same study on Day 3 .
+The maximum mean ( 95 % upper confidence bound ) difference from placebo in the PR interval after baseline - correction were 28 . 6 ( 31 . 6 ) and 38 . 4 ( 41 . 4 ) ms for 1000 / 100 mg twice daily and supratherapeutic 1500 / 100 mg twice daily saquinavir / ritonavir respectively .
+The maximum mean ( 95 % upper confidence bound ) difference from placebo in QRS interval after baseline correction were 2 . 9 ( 3 . 9 ) and 4 . 4 ( 5 . 3 ) ms for 1000 / 100 mg twice daily and supratherapeutic 1500 / 100 mg twice daily INVIRASE / ritonavir respectively .
+In this study using healthy subjects , PR interval prolongation of > 200 ms was also observed in 40 % and 47 % of subjects receiving INVIRASE / ritonavir 1000 / 100 mg bid and 1500 / 100 mg bid , respectively , on Day 3 .
+Three ( 3 % ) subjects in the active control moxifloxacin arm and 5 % in the placebo arm experienced PR prolongation of > 200 ms . The effect of treatment initiation with a dosing regimen of INVIRASE / ritonavir 500 / 100 mg twice daily in combination with two nucleoside reverse transcriptase inhibitors ( NRTIs ) for the first 7 days of treatment followed by INVIRASE / ritonavir 1000 / 100 mg twice daily in combination with two NRTIs in the subsequent 7 days on QTc interval , PK , and viral load was evaluated in an open - label 2 - week observational study in 23 HIV - 1 infected , treatment - naive patients .
+ECG and PK measurements were collected on Days 3 , 4 , 7 , 10 , and 14 of treatment .
+Two of 21 ( 9 % ) patients across all study days had maximum QTcF change from dense predose baseline ≥ 30 msec following administration of the modified INVIRASE / ritonavir regimen and the maximum mean change from dense predose baseline in the QTcF was < 10 msec across all study days .
+The proportion of patients with a reported PR interval prolongation > 200 msec in this study ranged from 3 / 22 ( 14 % ) ( Day 3 ) to 8 / 21 ( 38 % ) ( Day14 ) .
+These results suggest that the risk of QTc interval prolongation is reduced with the modified INVIRASE / ritonavir dosing regimen , based on a cross - study comparison to the moxifloxacin - controlled QTc study described above .
+12 . 3 Pharmacokinetics The pharmacokinetics of INVIRASE / ritonavir 1000 / 100 mg twice daily have been evaluated in HIV - 1 - infected subjects and healthy subjects .
+Steady - state saquinavir AUC , Cmax , and Cmin in healthy subjects are approximately 50 % higher than observed in HIV - 1 - infected subjects .
+Adults Absorption and Bioavailability in Adults Similar bioavailability was demonstrated when 1 , 000 mg of INVIRASE tablets or 1 , 000 mg of saquinavir mesylate capsules ( hard gel ) was administered with low - dose ritonavir ( 100 mg ) under fed conditions .
+The ratio of mean exposures ( 90 % confidence intervals ) of tablets vs capsules was 1 . 10 ( 1 . 04 - 1 . 16 ) for AUC0 - ∞ and 1 . 19 ( 1 . 14 - 1 . 25 ) for Cmax .
+Absolute bioavailability of saquinavir administered as saquinavir mesylate capsules ( hard gel ) averaged 4 % ( CV 73 % , range : 1 % to 9 % ) in 8 healthy volunteers who received a single 600 mg dose ( 3 × 200 - mg ) of saquinavir mesylate following a high - fat breakfast ( 48 g protein , 60 g carbohydrate , 57 g fat ; 1006 kcal ) .
+The low bioavailability is thought to be due to a combination of incomplete absorption and extensive first - pass metabolism .
+INVIRASE / ritonavir at a dose of 1000 / 100 mg twice daily provides saquinavir systemic exposures over a 24 - hour period that are similar to those achieved with saquinavir soft gel capsules with ritonavir 1000 / 100 mg twice daily and greater than that achieved with saquinavir soft gel capsules 1200 mg three times daily ( see Table 3 ) .
+Table 3 Pharmacokinetic Parameters of Saquinavir at Steady - State after Administration of Different Regimens in HIV - 1 - Infected SubjectsDosing Regimen N AUCτ ( ng ∙ h / mL ) AUC24h ( ng ∙ h / mL ) Cmin ( ng / mL ) τ is the dosing interval ( i . e . , 8 h if three times daily and 12 h if twice daily ) Saquinavir mesylate capsules ( hard gel ) 600 mg tid ( arithmetic mean , % CV ) 10 866 ( 62 ) 2598 79 Saquinavir mesylate capsules ( soft gel ) 1 , 200 mg tid ( arithmetic mean ) 31 7249 21747 216 Saquinavir mesylate capsules ( hard gel ) 1000 mg bid + ritonavir 100 mg bid ( geometric mean and 95 % CI ) 24 14607 ( 10218 - 20882 ) 29214 371 ( 245 - 561 ) Saquinavir mesylate capsules ( soft gel ) 1000 mg bid + ritonavir 100 mg bid ( geometric mean and 95 % CI ) 24 19085 ( 13943 - 26124 ) 38170 433 ( 301 - 622 ) In treatment - naïve HIV - 1 infected patients initiating INVIRASE / ritonavir treatment with a modified INVIRASE / ritonavir dosing regimen of INVIRASE 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days of treatment followed by an increase in the INVIRASE dose to 1000 mg twice daily with ritonavir 100 mg twice daily for an additional 7 days , saquinavir systemic exposures on Day 3 were approximately 70 % lower compared to INVIRASE / ritonavir 1000 / 100 mg twice daily regimen on Day 3 in healthy volunteers .
+Saquinavir systemic exposures across study days generally approached or exceeded the range of historical steady - state values with the standard INVIRASE / ritonavir 1000 mg / 100 mg twice daily dosing regimen ( see Table 3 and Table 4 ) .
+Table 4 : Mean ( CV % ) PK Parameters Following Administration of the Modified INVIRASE / ritonavir Regimen in Treatment Naïve HIV - 1 infected Patients Initiating Treatment with INVIRASE / ritonavirParameter Day 3 500 / 100 mg ( n = 22 ) Day 7 500 / 100 mg ( n = 21 ) Day 14 1000 / 100 mg ( n = 21 ) TQT Study Day 3 [ 1 ] ( 1000 / 100 mg ) ( n = 57 ) AUCτ ( ng * hr / ml ) 27100 ( 35 . 7 ) 12600 ( 54 . 5 ) 31100 ( 49 . 6 ) 94800 ( 32 . 2 ) Cmax ( ng / ml ) 4030 ( 29 . 1 ) 1960 ( 53 . 3 ) 4860 ( 46 . 8 ) 11200 ( 29 . 2 ) C12 ( ng / ml ) 899 ( 64 . 9 ) 416 ( 98 . 5 ) 1120 ( 80 . 9 ) - [ 1 ] Historical data from the thorough QT study with INVIRASE / ritonavir 1000 / 100 mg BID conducted in healthy volunteers Food Effect The mean 24 - hour AUC after a single 600 mg oral dose ( 6 × 100 mg ) in healthy volunteers ( n = 6 ) was increased from 24 ng ∙ h / mL ( CV 33 % ) , under fasting conditions , to 161 ng ∙ h / mL ( CV 35 % ) when INVIRASE was given following a high - fat breakfast ( 48 g protein , 60 g carbohydrate , 57 g fat ; 1006 kcal ) .
+Saquinavir 24 - hour AUC and Cmax ( n = 6 ) following the administration of a higher calorie meal ( 943 kcal , 54 g fat ) were on average 2 times higher than after a lower calorie , lower fat meal ( 355 kcal , 8 g fat ) .
+The effect of food has been shown to persist for up to 2 hours .
+INVIRASE / ritonavir should be taken within 2 hours after a meal .
+Distribution The mean steady - state volume of distribution following intravenous administration of a 12 - mg dose of saquinavir ( n = 8 ) was 700 L ( CV 39 % ) , suggesting saquinavir partitions into tissues .
+Saquinavir was approximately 98 % bound to plasma proteins over a concentration range of 15 to 700 ng / mL .
+In two subjects receiving saquinavir mesylate 600 mg three times daily , cerebrospinal fluid concentrations were negligible when compared to concentrations from matching plasma samples .
+Metabolism and Elimination In vitro studies using human liver microsomes have shown that the metabolism of saquinavir is cytochrome P450 mediated with the specific isoenzyme , CYP3A4 , responsible for more than 90 % of the hepatic metabolism .
+Based on in vitro studies , saquinavir is rapidly metabolized to a range of mono - and di - hydroxylated inactive compounds .
+In a mass balance study using 600 mg 14 C saquinavir mesylate ( n = 8 ) , 88 % and 1 % of the orally administered radioactivity was recovered in feces and urine , respectively , within 5 days of dosing .
+In an additional 4 subjects administered 10 . 5 mg 14 C - saquinavir intravenously , 81 % and 3 % of the intravenously administered radioactivity was recovered in feces and urine , respectively , within 5 days of dosing .
+In mass balance studies , 13 % of circulating radioactivity in plasma was attributed to unchanged drug after oral administration and the remainder attributed to saquinavir metabolites .
+Following intravenous administration , 66 % of circulating radioactivity was attributed to unchanged drug and the remainder attributed to saquinavir metabolites , suggesting that saquinavir undergoes extensive first - pass metabolism .
+Systemic clearance of saquinavir was rapid , 1 . 14 L / h / kg ( CV 12 % ) after intravenous doses of 6 , 36 , and 72 mg .
+The mean residence time of saquinavir was 7 hours ( n = 8 ) .
+Special Populations Renal Impairment Saquinavir pharmacokinetics in patients with renal impairment has not been investigated .
+Only 1 % of saquinavir is excreted in the urine , so the impact of renal impairment on saquinavir elimination would likely be minimal .
+However , subjects with severe renal impairment or end - stage renal disease ( ESRD ) have not been studied , and concentrations of saquinavir may be elevated in these populations .
+Hepatic Impairment The effect of hepatic impairment on the steady state pharmacokinetics of INVIRASE / ritonavir ( 1000 / 100 mg bid for 14 days ) was investigated in 7 HIV - 1 - infected subjects with moderate liver impairment ( 6 with Child - Pugh score of 7 and 1 with Child - Pugh score of 9 ) .
+The study included a control group consisting of 7 HIV - 1 - infected subjects with normal hepatic function matched with hepatically impaired subjects for age , gender , weight and tobacco use .
+The mean ( % coefficient of variation in parentheses ) values for INVIRASE AUC0 - 12 and Cmax were 24 . 3 ( 102 % ) µg ∙ hr / mL and 3 . 6 ( 83 % ) µg / mL , respectively , for HIV - 1 - infected subjects with moderate hepatic impairment .
+The corresponding values in the control group were 28 . 5 ( 71 % ) µg ∙ hr / mL and 4 . 3 ( 68 % ) µg / mL .
+The geometric mean ratio ( ratio of pharmacokinetic parameters in hepatically impaired subjects to subjects with normal liver function ) ( 90 % confidence interval ) was 0 . 7 ( 0 . 3 to 1 . 6 ) for both AUC0 - 12 and Cmax , which suggests approximately 30 % reduction in saquinavir exposure in subjects with moderate hepatic impairment .
+No dose adjustment is warranted for INVIRASE / ritonavir in HIV - 1 - infected patients with mild or moderate hepatic impairment [ see Warnings and Precautions ( 5 . 6 ) ] .
+Gender , Race , and Age A gender difference was observed , with females showing higher saquinavir exposure than males ( mean AUC 56 % higher , mean Cmax 26 % higher ) , in the relative bioavailability study comparing 1 , 000 mg of INVIRASE tablets to 1 , 000 mg of saquinavir mesylate capsules ( hard gel ) in combination with ritonavir .
+There was no evidence that age and body weight explained the gender difference in this study .
+A clinically significant difference in safety and efficacy between men and women has not been reported with the approved dosage regimen ( saquinavir 1 , 000 mg / ritonavir 100 mg twice daily ) .
+The effect of race on the pharmacokinetics of saquinavir has not been investigated .
+The pharmacokinetics of saquinavir have not been evaluated in the elderly .
+Pediatric Subjects Steady - state pharmacokinetic information is available from HIV - 1 infected pediatric subjects from study NV20911 .
+In this study , five subjects less than 2 years of age and 13 subjects between 2 and less than 6 years of age received 50 mg per kg saquinavir twice daily ( not to exceed 1000 mg twice daily ) combined with ritonavir at 3 mg / kg for subjects with body weight ranging from 5 to < 15 kg or 2 . 5 mg per kg for subjects with body weight ranging from 15 to 40 kg ( not to exceed 100 mg twice daily ) .
+For subjects unable to swallow the saquinavir mesylate capsules ( hard gel ) , the contents of saquinavir mesylate capsules ( hard gel ) were mixed with sugar syrup , or sorbitol syrup ( for subjects with Type I diabetes or glucose intolerance ) , jam , or baby formula .
+The mean steady state saquinavir PK parameters for pediatric subjects 2 to less than 6 years of age were : AUC0 - 12 h 37269 ± 18232 ng ∙ h / mL ; Ctrough 1811 ± 998 ng / mL ; Cmax 5464 ± 2782 ng / mL , and day 3 exposures may be within the range of exposure associated with QT and PR prolongation [ see Clinical Pharmacology ( 12 . 2 ) ] .
+The subject number was too low and the pharmacokinetic data too variable in subjects less than 2 years to establish an appropriate dosing recommendation for this age group .
+Pharmacokinetic data for subjects ages 6 to 16 years were not available for comparisons with observations from NV20911 , as the data from HIVNAT 017 could not be validated [ see Use in Specific Populations ( 8 . 4 ) ] .
+Drug Interactions Table 5 summarizes the effect of saquinavir mesylate capsules ( soft gel ) and INVIRASE with and without ritonavir on the geometric mean AUC and Cmax of coadministered drugs .
+Table 6 summarizes the effect of coadministered drugs on the geometric mean AUC and Cmax of saquinavir .
+Table 5 Effect of Saquinavir ( + / - Ritonavir ) on the Pharmacokinetics of Coadministered DrugsCoadministered Drug Saquinavir Mesylate Capsules ( soft gel ) with and without Ritonavir N % Change for Coadministered Drug Dosage AUC ( 95 % CI ) Cmax ( 95 % CI ) ↑ Denotes an average increase in exposure by the percentage indicated .
+↓ Denotes an average decrease in exposure by the percentage indicated .
+↔ Denotes no statistically significant change in exposure was observed .
+V Healthy Volunteers M Methadone - dependent , HIV negative subjects .
+None of the 12 subjects experienced withdrawal symptoms .
+NA Not Available Clarithromycin 500 mg bid × 7 days Clarithromycin 14 - OH clarithromycin metabolite 1200 mg tid × 7 days 12 V ↑ 45 % ( 17 - 81 % ) ↓ 24 % ( 5 - 40 % ) ↑ 39 % ( 10 - 76 % ) ↓ 34 % ( 14 - 50 % ) Sildenafil 100 - mg single dose 1200 mg tid × 8 days 27 V ↑ 210 % ( 150 - 300 % ) ↑ 140 % ( 80 - 230 % ) Efavirenz 600 mg qd 1200 mg tid 13 V ↓ 12 % ↓ 13 % INVIRASE / ritonavir Dosage Digoxin 0 . 5 mg single dose 1000 / 100 mg bid × 16 days 16 V ↑ 49 % ( 32 - 69 % ) [ 1 ] ↑ 27 % ( 5 - 54 % ) null R - Methadone 60 - 120 mg qd 1000 / 100 mg bid × 14 days 12 M ↓ 19 % ( 9 - 29 % ) null NA Ketoconazole 200 mg / day 1000 / 100 mg bid 12 V ↑ 168 % ( 146 - 193 % ) null ↑ 45 % ( 32 - 59 % ) null Midazolam 7 . 5 mg oral single dose 1000 / 100 mg bid 16 V ↑ 1144 % ( 975 - 1339 % ) null ↑ 327 % ( 264 - 402 % ) null Rifabutin 150 mg q4d 1000 / 100 mg bid 11 V ↑ 60 % [ 2 ] [ 3 ] ( 43 - 79 % ) null ↔ [ 4 ] ( - 10 to 13 % ) null ↑ 111 % null null ( 75 - 153 % ) null ↑ 68 % null ( 38 - 105 % ) null [ 1 ] 90 % Confidence Interval [ 2 ] AUC0 - 96 hr and Cmax of the active moiety ( rifabutin + 25 - O - desacetyl rifabutin ) [ 3 ] Compared to rifabutin 150 mg QD [ 4 ] AUC0 - 96 hr and Cmax for rifabutin only Table 6 Effect of Coadministered Drugs on Saquinavir Pharmacokinetics ↑ Denotes an average increase in exposure by the percentage indicated .
+↓ Denotes an average decrease in exposure by the percentage indicated .
+↔ Mean change < 10 % S Subjects V Healthy Volunteers Coadministered Drug Saquinavir Mesylate Capsules ( soft gel ) with and without ritonavir N % Change for Saquinavir Dosage AUC ( 95 % CI ) Cmax ( 95 % CI ) Clarithromycin 500 mg bid × 7 days 1200 mg tid × 7 days 12 V ↑ 177 % ( 108 - 269 % ) ↑ 187 % ( 105 - 300 % ) Efavirenz 600 mg qd 1200 mg tid 13 V ↓ 62 % ↓ 50 % Indinavir 800 mg q8h × 2 days 1200 mg single dose 6 V ↑ 364 % ( 190 - 644 % ) ↑ 299 % ( 138 - 568 % ) Ritonavir 400 mg bid × 14 days 400 mg bid × 14 days [ 1 ] 8 V ↑ 121 % ( 7 - 359 % ) ↑ 64 % [ 2 ] Lopinavir / ritonavir Evidence from several clinical trials indicates that saquinavir concentrations achieved with saquinavir 1000 mg + lopinavir / ritonavir 400 / 100 mg BID are similar to those achieved following saquinavir / ritonavir 1000 / 100 mg BID .
+Coadministered Drug Saquinavir Mesylate Capsules ( hard gel ) or INVIRASE with and without ritonavir N % Change for Saquinavir Dosage AUC ( 95 % CI ) Cmax ( 95 % CI ) Atazanavir 300 mg qd 1600 / 100 mg qd 18 S ↑ 60 % ( 16 - 122 % ) ↑ 42 % ( 10 - 84 % ) Ritonavir 100 mg bid 1000 mg bid [ 3 ] 24 S ↑ 1124 % ↑ 1325 % Tenofovir 300 mg qd 1000 mg bid / 100 mg bid 18 S ↔ ↔ Tipranavir 500 mg + ritonavir 200 mg bid 600 mg bid / 100 mg bid 20 S ↓ 76 % ( 68 - 81 % ) [ 4 ] ↓ 70 % ( 60 - 77 % ) null Omeprazole 40 mg qd × 5 days 1000 / 100 mg bid × 15 days 19 V ↑ 82 % ( 37 - 234 % ) null ↑ 75 % ( 31 - 234 % ) null Ketoconazole 200 mg / day 1000 mg bid / 100 mg bid 20 V ↔ null ↔ Rifabutin 150 mg q3d 1000 mg bid / 100 mg bid 19 V ↓ 13 % ( - 31 % to 9 % ) null ↓ 15 % ( - 32 % to 7 % ) null [ 1 ] Compared to saquinavir mesylate capsules ( soft gel ) 1200 mg tid regimen ( n = 33 ) .
+[ 2 ] Did not reach statistical significance .
+[ 3 ] Compared to saquinavir mesylate capsules ( hard gel ) 600 mg tid regimen ( n = 114 ) .
+[ 4 ] 90 % Confidence Interval The HIV - 1 antiviral drugs didanosine , tenofovir , and zidovudine are not predicted to have any clinically significant effect on the pharmacokinetics of saquinavir with and without ritonavir .
+No clinically significant effect on the pharmacokinetic parameters of enfuvirtide was observed with coadministration of INVIRASE / ritonavir .
+No clinically significant effect on the pharmacokinetic parameters of saquinavir was observed with coadministration of fosamprenavir .
+12 . 4 Microbiology Mechanism of Action Saquinavir is an inhibitor of HIV - 1 protease .
+HIV - 1 protease is an enzyme required for the proteolytic cleavage of viral polyprotein precursors into individual functional proteins found in HIV - 1 particles .
+Saquinavir is a peptide - like substrate analogue that binds to the protease active site and inhibits the activity of the enzyme .
+Saquinavir inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature noninfectious viral particles .
+Antiviral Activity The antiviral activity of saquinavir was assessed in lymphoblastoid and monocytic cell lines and in peripheral blood lymphocytes in cell culture .
+Saquinavir inhibited HIV - 1 activity in both acutely and chronically infected cells .
+EC50 and EC90 values ( 50 % and 90 % inhibitory concentrations ) ranged from 1 to 30 nM and 5 to 80 nM , respectively .
+In the presence of 40 % human serum , the mean EC50 value of saquinavir against laboratory strain HIV - 1 RF in MT4 cells was 37 . 7 ± 5 nM representing a 4 - fold increase in the EC50 value .
+Saquinavir displayed antiviral activity in cell culture against HIV - 1 clades A – H ( EC50 values ranged from 0 . 9 to 2 . 5 nM ) .
+In cell culture , saquinavir was not antagonistic in combination with the protease inhibitors amprenavir , atazanavir and lopinavir , the non - nucleoside reverse transcriptase inhibitor nevirapine , and the nucleoside analog reverse transcriptase inhibitors didanosine , lamivudine , stavudine and zidovudine .
+The EC50 and EC90 values of saquinavir against HIV - 2 isolates in cell culture ranged from 0 . 25 nM to 14 . 6 nM and 4 . 65 nM to 28 . 6 nM , respectively .
+Resistance HIV - 1 isolates with reduced susceptibility to saquinavir have been selected during passage in cell culture .
+Genotypic analyses of these isolates showed several amino acid substitutions in the HIV - 1 protease .
+Only the G48V and L90M substitutions were associated with reduced susceptibility to saquinavir and conferred an increase in the EC50 value of 8 - and 3 - fold , respectively .
+HIV - 1 isolates with reduced susceptibility ( ≥ 4 - fold increase in the EC50 value ) to saquinavir emerged in some subjects treated with INVIRASE .
+Genotypic analysis of these isolates identified resistance conferring primary amino acid substitutions in the protease G48V and L90M , and secondary substitutions L10I / R / V , I54V / L , A71V / T , G73S , V77I , V82A and I84V that contributed additional resistance to saquinavir .
+Forty - one isolates from 37 subjects failing therapy with INVIRASE had a median decrease in susceptibility to saquinavir of 4 . 3 - fold .
+The degree of reduction in cell culture susceptibility to saquinavir of clinical isolates bearing substitutions G48V and L90M depends on the number of secondary substitutions present .
+In general , higher levels of resistance are associated with greater number of substitutions only in association with either or both of the primary substitutions G48V and L90M .
+No data are currently available to address the development of resistance in patients receiving saquinavir / ritonavir .
+Cross - resistance Among protease inhibitors , variable cross - resistance has been observed .
+In one clinical study , 22 HIV - 1 isolates with reduced susceptibility ( > 4 - fold increase in the EC50 value ) to saquinavir following therapy with INVIRASE were evaluated for cross - resistance to amprenavir , indinavir , nelfinavir and ritonavir .
+Six of the 22 isolates ( 27 % ) remained susceptible to all 4 protease inhibitors , 12 of the 22 isolates ( 55 % ) retained susceptibility to at least one of the protease inhibitors and 4 out of the 22 isolates ( 18 % ) displayed broad cross - resistance to all protease inhibitors .
+Sixteen ( 73 % ) and 11 ( 50 % ) of the 22 isolates remained susceptible ( < 4 - fold ) to amprenavir and indinavir , respectively .
+Four of 16 ( 25 % ) and nine of 21 ( 43 % ) with available data remained susceptible to nelfinavir and ritonavir , respectively .
+After treatment failure with amprenavir , cross - resistance to saquinavir was evaluated .
+HIV - 1 isolates from 22 / 22 subjects failing treatment with amprenavir and containing one or more substitutions M46L / I , I50V , I54L , V32I , I47V , and I84V were susceptible to saquinavir .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Carcinogenicity studies found no indication of carcinogenic activity in rats and mice administered saquinavir for approximately 2 years .
+Because of limited bioavailability of saquinavir in animals , the plasma exposures ( AUC values ) in the respective species were approximately 29 % ( using rat ) and 65 % ( using mouse ) of those obtained in humans at the recommended clinical dose combined with ritonavir .
+Mutagenesis Mutagenicity and genotoxicity studies , with and without metabolic activation where appropriate , have shown that saquinavir has no mutagenic activity in vitro in either bacterial ( Ames test ) or mammalian cells ( Chinese hamster lung V79 / HPRT test ) .
+Saquinavir does not induce chromosomal damage in vivo in the mouse micronucleus assay or in vitro in human peripheral blood lymphocytes , and does not induce primary DNA damage in vitro in the unscheduled DNA synthesis test .
+Impairment of Fertility No adverse effects were reported in fertility and reproductive performance study conducted in rats .
+Because of limited bioavailability of saquinavir in animals , the maximal plasma exposures achieved in rats were approximately 26 % of those obtained in humans at the recommended clinical dose combined with ritonavir .
+14 CLINICAL STUDIES 14 . 1 Description of Clinical Studies in Adults In a randomized , double - blind clinical study NV14256 in zidovudine - experienced , HIV - 1 - infected adult subjects , saquinavir mesylate capsules ( hard gel ) in combination with zalcitabine [ 1 ] was shown to be superior to monotherapy with either saquinavir mesylate capsules ( hard gel ) or zalcitabine in decreasing the cumulative incidence of clinical disease progression to AIDS - defining events or death .
+In another randomized study ACTG229 / NV14255 , subjects with advanced HIV - 1 infection with history of prolonged zidovudine treatment were administered saquinavir mesylate capsules ( hard gel ) 600 mg ( three times daily ) + zidovudine + zalcitabine .
+Subjects receiving this regimen experienced greater increases in CD4 + cell counts as compared to those who received saquinavir mesylate capsules ( hard gel ) + zidovudine or zalcitabine + zidovudine .
+It should be noted the HIV treatment regimens that were used in these clinical trials are no longer considered standard of care .
+In the MaxCmin1 trial , saquinavir gel capsule 1 , 000 mg twice daily coadministered with ritonavir 100 mg twice daily was evaluated in a heterogeneous population of 148 HIV - 1 - infected subjects .
+A total of 42 subjects enrolled were treatment naïve , and 106 subjects were treatment experienced ( of which 52 subjects had HIV - 1 RNA < 400 copies / mL at baseline ) .
+Results showed that 91 / 148 ( 61 % ) subjects achieved and / or sustained an HIV - 1 RNA < 400 copies per mL at the completion of 48 weeks of treatment .
+[ 1 ] No longer available in the US .
+16 HOW SUPPLIED / STORAGE AND HANDLING INVIRASE 500 - mg film - coated tablets are light orange to greyish or brownish orange , oval cylindrical , biconvex tablets with ROCHE and SQV 500 imprinted on the tablet face — bottles of 120 ( NDC 0004 - 0244 - 51 ) .
+INVIRASE tablets should be stored at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ see USP Controlled Room Temperature ] in tightly closed bottles .
+17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Medication Guide ) .
+Important Dosing Instructions Advise patients that INVIRASE must be used in combination with ritonavir , which significantly inhibits saquinavir ' s metabolism to provide increased plasma saquinavir levels .
+Advise patients that INVIRASE administered with ritonavir should be taken within 2 hours after a meal [ see Clinical Pharmacology ( 12 . 3 ) ] .
+When INVIRASE / ritonavir is taken without food , concentrations of saquinavir in the blood are substantially reduced and may result in no antiviral activity .
+Advise patients of the importance of taking their medication every day , as prescribed , to achieve maximum benefit .
+Patients should not alter the dose or discontinue therapy without consulting their physician .
+If a dose is missed , patients should take the next dose as soon as possible ; however , the patient should not double the next dose .
+Risk of Serious Adverse Reactions Drug Interactions INVIRASE / ritonavir may interact with many drugs ; therefore , advise patients to report the use of any other prescription , nonprescription medication , or herbal products , particularly St . John ' s wort [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 2 ) , and Drug Interactions ( 7 ) ] .
+PR and QT Interval Prolongation Inform patients that INVIRASE / ritonavir may produce changes in the electrocardiogram ( PR interval or QT interval prolongation ) .
+Advise patients to consult their health care provider if they are experiencing symptoms such as dizziness , lightheadedness , or palpitations [ see Warnings and Precautions ( 5 . 3 , 5 . 4 ) ] .
+Diabetes Mellitus / Hyperglycemia Inform patients that new onset of diabetes or exacerbation of pre - existing diabetes mellitus , and hyperglycemia have been reported during INVIRASE / ritonavir use .
+Advise patients to notify their healthcare provider if they develop signs and symptoms of diabetes [ see Warnings and Precautions ( 5 . 5 ) ] .
+Hepatotoxicity Inform patients with underlying liver abnormalities that there have been reports of worsening liver disease and development of portal hypertension with INVIRASE / ritonavir .
+Advise patients about the signs and symptoms of liver problems [ see Warnings and Precautions ( 5 . 6 ) ] Hyperlipidemia Advise patients that treatment with INVIRASE / ritonavir can result in substantial increases in total cholesterol and triglycerides [ see Warnings and Precautions ( 5 . 8 ) ] Fat Redistribution Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy , including INVIRASE / ritonavir , and that the cause and long - term health effects of these conditions are not known at this time [ see Warnings and Precautions ( 5 . 10 ) ] .
+Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any symptoms of infection , as in some patients with advanced HIV infection ( AIDS ) , signs and symptoms of inflammation from previous infections may occur soon after anti - HIV treatment is started [ see Warnings and Precautions ( 5 . 11 ) ] .
+Pregnancy Exposure Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiretrovirals during pregnancy [ see Use in Specific Populations ( 8 . 1 ) ] .
+Lactation Instruct mothers with HIV - 1 infection not to breastfeed because HIV - 1 can be passed to the baby in breast milk [ see Use in Specific Populations ( 8 . 2 ) ] .
+This Medication Guide has been approved by the U . S . Food and Drug Administration .
+Revised : September 2020 Medication Guide INVIRASE ® ( in - ver - ase ) ( saquinavir mesylate ) Tablets Important : Ask your healthcare provider or pharmacist about medicines that should not be taken with INVIRASE .
+For more information , see the section " Who should not take INVIRASE ? "
+Read this Medication Guide before you start taking INVIRASE and each time you get a refill .
+There may be new information .
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment .
+You and your healthcare provider should talk about your treatment with INVIRASE before you start taking it and at regular checkups .
+You should stay under a healthcare provider ' s care when taking INVIRASE .
+Also read the Medication Guide for ritonavir .
+What is the most important information I should know about INVIRASE ?
+• INVIRASE must be taken along with ritonavir .
+• INVIRASE taken along with ritonavir should not be taken with cobicistat .
+INVIRASE may cause serious side effects including : • Interactions with other medicines .
+It is important to know the medicines that should not be taken with INVIRASE .
+See the section " What should I tell my healthcare provider before taking INVIRASE ? "
+• Changes in your heart rhythm and the electrical activity of your heart .
+These changes may be seen on an EKG ( electrocardiogram ) and can lead to serious heart problems .
+Your risk for these problems may be higher if you : • have a history of abnormal heart rhythm , including Congenital Long QT Syndrome , or other types of heart disease .
+• take other medicines that can affect your heart rhythm during treatment with INVIRASE .
+Tell your healthcare provider right away if you have any of these symptoms during treatment with INVIRASE : • dizziness • lightheadedness • fainting • sensation of abnormal heartbeats See the section below " What are the possible side effects of INVIRASE ? "
+for more information about serious side effects .
+What is INVIRASE ?
+INVIRASE is a prescription medicine used with ritonavir and other antiretroviral medicines to treat Human Immunodeficiency Virus - 1 ( HIV - 1 ) in people over 16 years of age .
+HIV is the virus that causes Acquired Immune Deficiency Syndrome ( AIDS ) .
+In children under 16 years of age , INVIRASE doses that are both effective and safe could not be determined .
+Do not take INVIRASE with ritonavir if you have the following conditions : • a condition called Congenital Long QT Syndrome .
+• complete AV ( atrioventricular ) heart block and you do not have a pacemaker , or you are at risk for complete AV heart block .
+• low potassium or low magnesium in your blood .
+• you have had a severe allergic reaction to saquinavir , saquinavir mesylate or any of the ingredients in INVIRASE .
+See the end of this Medication Guide for a complete list of ingredients in INVIRASE .
+• severe liver problems .
+• you have taken a medicine that contains rilpivirine within the last 2 weeks .
+Talk to your healthcare provider before taking INVIRASE if you have any of the conditions listed above .
+Taking INVIRASE with certain medicines can cause serious problems or life - threatening reactions .
+Do not take INVIRASE with ritonavir if you take any of the following medicines : • alfuzosin • amiodarone • atazanavir • bepridil • clarithromycin • clozapine • dasatinib • dofetilide • disopyramide • Ergot containing medicines , including : • dihydroergotamine • ergonovine , ergonovine and methylergonovine • ergotamine • erythromycin • flecainide • halofantrine • haloperidol • lidocaine • lovastatin • lurasidone • midazolam • pentamidine • Phenothiazine containing medicines , Including : • chlorpromazine • mesoridazine • thioridazine • pimozide • propafenone • quinidine • quinine • rifampin • rilpivirine • sertindole • sildenafil • simvastatin • sunitinib • tacrolimus • trazodone • triazolam • ziprasidone Talk to your healthcare provider before taking any medicines listed above during treatment with INVIRASE and ritonavir .
+Though not complete , this is a list of medicines that should not be taken when INVIRASE is taken with ritonavir .
+Before taking INVIRASE , tell your healthcare provider about all of your medical conditions , including if you : • have any heart problems , including a condition called Congenital Long QT Syndrome .
+• have diabetes .
+• have liver problems , including Hepatitis B or Hepatitis C . • a history of alcoholism .
+• have hemophilia .
+• are pregnant or plan to become pregnant .
+It is not known if INVIRASE will harm your unborn baby .
+Pregnancy Registry : There is a pregnancy registry for women who take antiretroviral medicines during pregnancy .
+The purpose of this registry is to collect information about the health of you and your baby .
+Talk to your healthcare provider about how you can take part in this registry .
+• are breastfeeding or plan to breastfeed .
+Do not breastfeed if you take INVIRASE .
+• You should not breastfeed if you have HIV - 1 because of the risk of passing HIV to your baby .
+• It is not known if INVIRASE passes into your breast milk .
+Talk to your healthcare provider about the best way to feed your baby .
+Tell your healthcare provider about all the medicines you take , including prescriptions and over - the - counter medicines , vitamins and herbal supplements .
+INVIRASE may affect the way other medicines work , and other medicines may affect how INVIRASE works .
+• You can ask your healthcare provider or pharmacist for a list of medicines that interact with INVIRASE .
+Do not start taking a new medicine without talking with your healthcare provider .
+Your healthcare provider can tell you if it is safe to take INVIRASE with other medicines .
+How should I take INVIRASE ?
+• Take INVIRASE exactly as your healthcare provider tells you .
+• Do not change your dose of INVIRASE or stop treatment without first talking with your healthcare provider .
+• Stay under the care of your healthcare provider during treatment with INVIRASE .
+• Take INVIRASE and ritonavir at the same time .
+• Take INVIRASE and ritonavir 2 times each day .
+• Take INVIRASE and ritonavir within 2 hours after a meal .
+• Do not miss a dose of INVIRASE .
+It is very important to take your medicine every day .
+If you skip doses or take less than the prescribed dose , the medicine will not work as well , and the virus may become harder to treat .
+• If you miss a dose of INVIRASE , you should take the next dose as soon as possible .
+Do not double your dose .
+• If you take too much INVIRASE , call your healthcare provider or go to the nearest hospital emergency room right away .
+What are the possible side effects of INVIRASE ?
+INVIRASE can cause serious side effects .
+See " What is the most important information I should know about INVIRASE ? "
+• Diabetes and high blood sugar .
+Some people who take protease inhibitors including INVIRASE get new or more serious diabetes , or high blood sugar .
+Tell your healthcare provider if you notice an increase in thirst or urinate more often than normal during treatment with INVIRASE .
+• Liver problems .
+People with liver problems such as Hepatitis B or C , cirrhosis or have a history of alcoholism may have worsening liver problems .
+Tell your healthcare provider right away if you have any of these signs and symptoms of liver problems : • loss of appetite • yellowing of your skin or whites of your eyes ( jaundice ) • dark - colored urine • pale colored stools ( bowel movements ) • itchy skin • stomach area ( abdominal ) pain • Increased bleeding in people with hemophilia .
+Some people with hemophilia have increased bleeding with protease inhibitors including INVIRASE .
+• Increase in certain fat ( cholesterol and triglycerides ) levels in your blood .
+Your healthcare provider will check your blood for high levels of cholesterol and triglycerides before you start INVIRASE and during treatment with INVIRASE .
+• Changes in body fat can happen in people who take HIV - 1 medicine .
+These changes may include increased amount of fat in the upper back and neck ( " buffalo hump " ) , breasts , and around the middle of your body ( trunk ) .
+Loss of fat from the legs , arms and face may also happen .
+The exact cause and long - term health effects of these conditions are not known .
+Changes in your immune system ( Immune Reconstitution Syndrome ) can happen when you start taking HIV - 1 medicines .
+Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time .
+Tell your healthcare provider if you start having new or worse symptoms of infection after starting your HIV - 1 medicine .
+The most common side effects of INVIRASE include : • nausea • vomiting • diarrhea • stomach area ( abdominal ) pain • tiredness • pneumonia • changes in body fat These are not all of the possible side effects of INVIRASE .
+For more information , ask your healthcare provider or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+You may also report side effects to Genentech at 1 - 888 - 835 - 2555 .
+How should I store INVIRASE ?
+• Store INVIRASE at room temperature between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+• Keep INVIRASE in a tightly closed container .
+Keep INVIRASE and all medicine out of the reach of children .
+General information about the safe and effective use of INVIRASE .
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use INVIRASE for a condition for which it was not prescribed .
+Do not give INVIRASE to other people even if they have the same condition you have .
+It may harm them .
+You can ask your pharmacist or healthcare provider for information about INVIRASE that is written for health professionals .
+Active ingredient : saquinavir mesylate Inactive ingredients : 500 mg Tablet : lactose , microcrystalline cellulose , povidone K30 , croscarmellose sodium , and magnesium stearate .
+Film coat : hypromellose , titanium dioxide , talc , iron oxide yellow , iron oxide red , and triacetin .
+INVIRASE is a registered trademark of Hoffmann - La Roche Inc .
+Distributed by : Genentech , Inc . , A Member of the Roche Group , 1 DNA Way , South San Francisco , CA 94080 - 4990 © 2020 Genentech , Inc .
+All rights reserved .
+For more information , go to http : / / www . gene . com / gene / products / information / invirase or call 1 - 877 - 436 - 3683 .
+Representative sample of labeling ( see the HOW SUPPLIED section for complete listing ) : PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label NDC 0004 - 0244 - 51 Invirase ® ( saquinavir mesylate ) Tablets 500 mg Each tablet contains saquinavir mesylate equivalent to 500 mg saquinavir ( free base ) .
+ALERT : Find out about medicines that should NOT be taken with INVIRASE .
+Rx only Attention Pharmacist : Dispense the enclosed Medication Guide to each patient .
+Do not cover ALERT box with pharmacy label .
+120 tablets Genentech 10172487 [ MULTIMEDIA ] [ MULTIMEDIA ]

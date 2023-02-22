@@ -1,0 +1,103 @@
+Enter section text here CLINICAL PHARMACOLOGY Human Pharmacology : Serum level studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration .
+An average peak serum level of 2 . 50 mcg / mL was reached in 45 minutes ; serum levels averaged 1 . 51 mcg / mL at 3 hours and 0 . 70 mcg / mL at 6 hours .
+Absorption of an oral dose is virtually complete ( 90 % ) , and the concomitant administration of food does not appreciably modify the serum concentrations ; serum levels have been uniform and predictable from person to person and dose to dose .
+Serum level studies following multiple doses of clindamycin hydrochloride for up to 14 days show no evidence of accumulation or altered metabolism of drug .
+Serum half - life of clindamycin is increased slightly in patients with markedly reduced renal function .
+Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum .
+Concentrations of clindamycin in the serum increased linearly with increased dose .
+Serum levels exceed the MIC ( minimum inhibitory concentration ) for most indicated organisms for at least six hours following administration of the usually recommended doses .
+Clindamycin is widely distributed in body fluids and tissues ( including bones ) .
+The average biological half - life is 2 . 4 hours .
+Approximately 10 % of the bioactivity is excreted in the urine and 3 . 6 % in the feces ; the remainder is excreted as bioinactive metabolites .
+Doses of up to 2 grams of clindamycin per day for 14 days have been well tolerated by healthy volunteers , except that the incidence of gastrointestinal side effects is greater with the higher doses .
+No significant levels of clindamycin are attained in the cerebrospinal fluid , even in the presence of inflamed meninges .
+Pharmacokinetic studies in elderly volunteers ( 61 - 79 years ) and younger adults ( 18 - 39 years ) indicate that age alone does not alter clindamycin pharmacokinetics ( clearance , elimination half - life , volume of distribution , and area under the serum concentration - time curve ) after IV administration of clindamycin phosphate .
+After oral administration of clindamycin hydrochloride , elimination half - life is increased to approximately 4 . 0 hours ( range 3 . 4 - 5 . 1 h ) in the elderly compared to 3 . 2 hours ( range 2 . 1 - 4 . 2 h ) in younger adults .
+The extent of absorption , however , is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal ( age - adjusted ) renal functio Microbiology : Clindamycin inhibits bacterial protein synthesis by binding to the 50 S subunit of the ribosome .
+It has activity against Gram - positive aerobes and anaerobes as well as the Gram - negative anaerobes .
+Clindamycin is bacteriostatic .
+Cross - resistance between clindamycin and lincomycin is complete .
+Antagonism in vitro has been demonstrated between clindamycin and erythromycin .
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms , both in vitro and in clinical infections , as described in the INDICATIONS AND USAGE section .
+Gram - positive aerobes Staphylococcus aureus ( methicillin - susceptible strains ) Streptococcus pneumoniae ( penicillin - susceptible strains ) Streptococcus pyogenes Anaerobes Prevotella melaninogenica Fusobacterium necrophorum Fusobacterium nucleatum Peptostreptococcus anaerobius Clostridium perfringens The following in vitro data are available , but their clinical significance is unknown .
+At least 90 % of the following microorganisms exhibit an in vitro minimum inhibitory concentration ( MIC ) less than or equal to the susceptible breakpoint for clindamycin .
+However , the safety and effectiveness of clindamycin in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Gram - positive aerobes Staphylococcus epidermidis ( methicillin - susceptible strains ) Streptococcus agalactiae Streptococcus anginosus Streptococcus oralis Streptococcus mitis Anaerobes Prevotella intermedia Prevotella bivia Propionibacterium acnes Micromonas ( “ Peptostreptococcus ” ) micros Finegoldia ( “ Peptostreptococcus ” ) magna Actinomyces israelii Clostridium clostridioforme Eubacterium lentum INDICATIONS AND USAGE Clindamycin is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria .
+Clindamycin is also indicated in the treatment of serious infections due to susceptible strains of streptococci , pneumococci , and staphylococci .
+Its use should be reserved for penicillin - allergic patients or other patients for whom , in the judgment of the physician , a penicillin is inappropriate .
+Because of the risk of colitis , as described in the WARNING box , before selecting clindamycin the physician should consider the nature of the infection and the suitability of less toxic alternatives ( e . g . , erythromycin ) .
+Anaerobes : Serious respiratory tract infections such as empyema , anaerobic pneumonitis and lung abscess ; serious skin and soft tissue infections ; septicemia ; intra - abdominal infections such as peritonitis and intra - abdominal abscess ( typically resulting from anaerobic organisms resident in the normal gastrointestinal tract ) ; infections of the female pelvis and genital tract such as endometritis , nongonococcal tubo - ovarian abscess , pelvic cellulitis and postsurgical vaginal cuff infection .
+Streptococci : Serious respiratory tract infections ; serious skin and soft tissue infections .
+Staphylococci : Serious respiratory tract infections ; serious skin and soft tissue infections .
+Pneumococci : Serious respiratory tract infections .
+Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to clindamycin .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of clindamycin hydrochloride and other antibacterial drugs , clindamycin hydrochloride should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+CONTRAINDICATIONSClindamycin hydrochloride capsules are contraindicated in individuals with a history of hypersensitivity to preparations containing clindamycin or lincomycin .
+WARNINGS See WARNING box .
+Pseudomembranous colitis has been reported with nearly all antibacterial agents , including clindamycin , and may range in severity from mild to life - threatening .
+Therefore , it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents .
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia .
+Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “ antibiotic - associated colitis . ”
+After the diagnosis of pseudomembranous colitis has been established , therapeutic measures should be initiated .
+Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone .
+In moderate to severe cases , consideration should be given to management with fluids and electrolytes , protein supplementation , and treatment with an antibacterial drug clinically effective against C . difficile colitis .
+A careful inquiry should be made concerning previous sensitivities to drugs and other allergens .
+Usage in Meningitis – Since clindamycin does not diffuse adequately into the cerebrospinal fluid , the drug should not be used in the treatment of meningitis .
+PRECAUTIONS General Review of experience to date suggests that a subgroup of older patients with associated severe illness may tolerate diarrhea less well .
+When clindamycin is indicated in these patients , they should be carefully monitored for change in bowel frequency .
+Clindamycin hydrochloride should be prescribed with caution in individuals with a history of gastrointestinal disease , particularly colitis .
+Clindamycin hydrochloride should be prescribed with caution in atopic individuals .
+Indicated surgical procedures should be performed in conjunction with antibiotic therapy .
+The use of clindamycin hydrochloride occasionally results in overgrowth of nonsusceptible organisms – particularly yeasts .
+Should superinfections occur , appropriate measures should be taken as indicated by the clinical situation .
+Clindamycin dosage modification may not be necessary in patients with renal disease .
+In patients with moderate to severe liver disease , prolongation of clindamycin half - life has been found .
+However , it was postulated from studies that when given every eight hours , accumulation should rarely occur .
+Therefore , dosage modification in patients with liver disease may not be necessary .
+However , periodic liver enzyme determinations should be made when treating patients with severe liver disease .
+Prescribing clindamycin hydrochloride in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+ADVERSE REACTIONS The following reactions have been reported with the use of clindamycin .
+GastrointestinalAbdominal pain , pseudomembranous colitis , esophagitis , nausea , vomiting and diarrhea ( see WARNING box ) .
+The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment ( see WARNINGS ) .
+Hypersensitivity ReactionsGeneralized mild to moderate morbilliform - like ( maculopapular ) skin rashes are the most frequently reported adverse reactions .
+Vesiculobullous rashes , as well as urticaria , have been observed during drug therapy .
+Rare instances of erythema multiforme , some resembling Stevens - Johnson syndrome , and a few cases of anaphylactoid reactions have also been reported .
+Skin and Mucous MembranesPruritus , vaginitis , and rare instances of exfoliative dermatitis have been reported .
+( See Hypersensitivity Reactions . )
+LiverJaundice and abnormalities in liver function tests have been observed during clindamycin therapy .
+RenalAlthough no direct relationship of clindamycin to renal damage has been established , renal dysfunction as evidenced by azotemia , oliguria , and / or proteinuria has been observed in rare instances .
+HematopoieticTransient neutropenia ( leukopenia ) and eosinophilia have been reported .
+Reports of agranulocytosis and thrombocytopenia have been made .
+No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing .
+MusculoskeletalRare instances of polyarthritis have been reported .
+OVERDOSAGESignificant mortality was observed in mice at an intravenous dose of 855 mg / kg and in rats at an oral or subcutaneous dose of approximately 2618 mg / kg .
+In the mice , convulsions and depression were observed .
+Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum .
+DOSAGE AND ADMINISTRATION If significant diarrhea occurs during therapy , this antibiotic should be discontinued ( see WARNING box ) .
+Adults : Serious infections – 150 to 300 mg every 6 hours .
+More severe infections – 300 to 450 mg every 6 hours .
+Pediatric Patients : Serious infections – 8 to 16 mg / kg / day ( 4 to 8 mg / lb / day ) divided into three or four equal doses .
+More severe infections – 16 to 20 mg / kg / day ( 8 to 10 mg / lb / day ) divided into three or four equal doses .
+To avoid the possibility of esophageal irritation , clindamycin hydrochloride capsules should be taken with a full glass of water .
+Serious infections due to anaerobic bacteria are usually treated with clindamycin phosphate injection .
+However , in clinically appropriate circumstances , the physician may elect to initiate treatment or continue treatment with clindamycin hydrochloride capsules .
+In cases of β - hemolytic streptococcal infections , treatment should continue for at least 10 days .
+HOW SUPPLIEDClindamycin Hydrochloride Capsules USP ( equivalent to 150 mg of Clindamycin ) are opaque gray and opaque pink capsules imprinted DAN 5708 supplied in bottles of 100 .
+Clindamycin Hydrochloride Capsules USP ( equivalent to 300 mg of Clindamycin ) are opaque pink capsules imprinted DAN 3120 supplied in bottles of 16 and 100 .
+Information for PatientsPatients should be counseled that antibacterial drugs including clindamycin hydrochloride should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When clindamycin hydrochloride is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by clindamycin hydrochloride or other antibacterial drugs in the future .
+WARNINGPseudomembranous colitis has been reported with nearly all antibacterial agents , including clindamycin , and may range in severity from mild to life - threatening .
+Therefore , it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents .
+Because clindamycin therapy has been associated with severe colitis which may end fatally , it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate , as described in the INDICATIONS AND USAGE section .
+It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections .
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia .
+Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “ antibiotic - associated colitis ” .
+After the diagnosis of pseudomembranous colitis has been established , therapeutic measures should be initiated .
+Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone .
+In moderate to severe cases , consideration should be given to management with fluids and electrolytes , protein supplementation , and treatment with an antibacterial drug clinically effective against C . difficile colitis .
+Diarrhea , colitis , and pseudomembranous colitis have been observed to begin up to several weeks following cessation of therapy with clindamycin .
+Image of label [ MULTIMEDIA ] [ MULTIMEDIA ]

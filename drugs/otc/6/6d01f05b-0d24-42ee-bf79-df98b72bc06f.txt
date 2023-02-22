@@ -1,0 +1,141 @@
+RECENT MAJOR CHANGES Adverse Reactions , Post Marketing Experience ( 6 . 3 ) 07 / 2016 Warnings and Precautions , Risk of Extravasation and Tissue Damage ( 5 . 4 ) 07 / 2016 1 INDICATIONS AND USAGE Thallous Chloride Tl 201 Injection is a diagnostic radiopharmaceutical indicated for • Myocardial perfusion imaging with planar scintigraphy or single - photon emission computed tomography ( SPECT ) for the diagnosis of coronary artery disease by localization of : • Non - reversible defects ( myocardial infarction ) which may have prognostic value regarding survival .
+• Reversible defects ( myocardial ischemia ) when used in conjunction with exercise or pharmacologic stress .
+• Localization of sites of parathyroid hyperactivity pre - and post - operatively in patients with elevated serum calcium and parathyroid hormone levels .
+Thallous Chloride Tl 201 Injection is a diagnostic radiopharmaceutical indicated for • Myocardial perfusion imaging with planar scintigraphy or single - photon emission computed tomography ( SPECT ) for the diagnosis of coronary artery disease by localization of : • Non - reversible defects ( myocardial infarction ) • Reversible defects ( myocardial ischemia ) when used in conjunction with exercise or pharmacologic stress .
+( 1 ) • Localization of sites of parathyroid hyperactivity pre - and post - operatively in patients with elevated serum calcium and parathyroid hormone levels .
+( 1 ) 2 DOSAGE AND ADMINISTRATION Thallous Chloride Tl 201 Injection emits radiation and must be handled with appropriate safety measures .
+Measure patient dose by a suitable radioactivity calibration system immediately before administration .
+• For myocardial imaging in adults : • Planar 37 to 74 MBq ( 1 to 2 mCi ) ( 2 . 2 ) • SPECT 74 to 111 MBq ( 2 to 3 mCi ) ( 2 . 2 ) • For localization of parathyroid hyperactivity , planar or SPECT – imaging , 75 to 130 MBq ( 2 to 3 . 5 mCi ) ( 2 . 2 ) 2 . 1 Radiation Safety Thallous Chloride Tl 201 Injection emits radiation and must be handled with appropriate safety measures and in accordance with the “ as low as reasonably achievable ” ( ALARA ) principle of radioactivity dosing .
+Use the lowest dose of Thallous Chloride Tl 201 Injection necessary to obtain the intended diagnostic image .
+Individualize the dose and consider factors such as body size , and the equipment and technique to be employed .
+2 . 2 Recommended Dose Myocardial perfusion • Planar scintigraphy : 37 to 74 MBq ( 1 to 2 mCi ) administered intravenously • SPECT : 74 to 111 MBq ( 2 to 3 mCi ) administered intravenously Parathyroid hyperactivity localization Planar or SPECT : 75 to 130 MBq ( 2 to 3 . 5 mCi ) administered intravenously 2 . 3 Drug Administration and Imaging For resting myocardial studies , begin imaging 10 to 20 minutes after injection of Thallous Chloride Tl 201 .
+Myocardial - to - background ratios are improved when patients are injected upright and in the fasting state ; the upright position reduces the hepatic and gastric thallium Tl - 201 concentration .
+For exercise stress testing administer Thallous Chloride Tl 201 Injection at the start of a period of maximum stress which is sustained for approximately 30 seconds after injection .
+Begin imaging within ten minutes after administration to obtain maximum target - to - background ratios .
+Within two hours after the completion of the stress testing the target - to - background ratios may decrease in lesions that are attributable to transient ischemia .
+For localization of parathyroid hyperactivity , administer Thallous Chloride Tl 201 Injection before , with or after a minimal dose of a thyroid imaging agent such as sodium pertechnetate Tc 99 m or sodium iodide I - 123 to enable thyroid subtraction imaging .
+2 . 4 Radiation Dosimetry The estimated absorbed radiation doses at calibration time to a 70 kg patient from an intravenous injection of Thallous Chloride Tl 201 are shown in Table 1 .
+The estimates were calculated based on human data from Krahwinkel et al . 1 and Thomas et al . 2 Assumed percentages of 98 . 3 % 201 Tl , 0 . 3 % 200 Tl , 1 . 2 % 202 Tl , and 0 . 2 % 203 Pb .
+The effective dose was calculated using ICRP 103 tissue weighting factors and assumptions on the biodistribution data based on data from Krahwinkel et al . and Thomas et al .
+Table 1 .
+Radiation Dose Estimates for Thallous Chloride Tl 201 ( includes contaminants ) Organ Estimated Radiation Dose mGy / MBq rad / mCi Adrenals 6 . 33 E - 02 2 . 34 E - 01 Brain 5 . 68 E - 02 2 . 10 E - 01 Breasts 3 . 39 E - 02 1 . 25 E - 01 GB Wall 8 . 31 E - 02 3 . 07 E - 01 LLI Wall 2 . 96 E - 01 1 . 09 E + 00 Small Intestine 3 . 79 E - 01 1 . 40 E + 00 Stomach 1 . 71 E - 01 6 . 34 E - 01 ULI Wall 2 . 97 E - 01 1 . 10 E + 00 Heart Wall 2 . 47 E - 01 9 . 14 E - 01 Kidneys 4 . 10 E - 01 1 . 52 E + 00 Liver 9 . 39 E - 02 3 . 47 E - 01 Lungs 4 . 73 E - 02 1 . 75 E - 01 Muscle 4 . 59 E - 02 1 . 70 E - 01 Ovaries 1 . 02 E - 01 3 . 76 E - 01 Pancreas 7 . 52 E - 02 2 . 78 E - 01 Red Marrow 4 . 44 E - 02 1 . 64 E - 01 Bone Surfaces 9 . 37 E - 02 3 . 47 E - 01 Skin 3 . 16 E - 02 1 . 17 E - 01 Spleen 1 . 66 E - 01 6 . 14 E - 01 Testes 2 . 09 E - 01 7 . 73 E - 01 Thymus 4 . 60 E - 02 1 . 70 E - 01 Thyroid 5 . 42 E - 01 2 . 00 E + 00 Urinary Bladder Wall 6 . 25 E - 02 2 . 31 E - 01 Uterus 8 . 63 E - 02 3 . 19 E - 01 Total Body Effective Dose 5 . 77 E - 02 0 . 145 mSv / MBq 2 . 14 E - 01 0 . 535 rem / mCi 2 . 5 Drug Handling • Do not use this drug after six ( 6 ) days from the calibration date , or nine ( 9 ) days from date of manufacture , whichever comes first .
+• Limit the use of this drug , to physicians who are qualified by training and experience in the safe use and handling of radionuclides .
+• Wear waterproof gloves during the handling procedures .
+• Aseptically withdraw the material for use with a shielded sterile syringe .
+• Measure the patient dose with a suitable radioactivity calibration system immediately prior to administration .
+• Visually inspect the drug for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Do not use if contents are turbid .
+• Minimize radiation exposure to the patient and ensure minimum radiation exposure to occupational workers .
+3 DOSAGE FORMS AND STRENGTHS Thallous Chloride Tl 201 Injection is supplied as a sterile , non - pyrogenic solution for intravenous administration .
+Table 2 .
+Strengths Available Total Radioactivity * per Vial ( * At time of calibration ) MBq mCi 103 . 6 2 . 8 207 . 2 5 . 6 233 . 1 6 . 3 366 . 3 9 . 9 Thallous Chloride Tl 201 is supplied in vials as a sterile , non - pyrogenic solution for intravenous administration containing the following strengths at calibration ( 3 ) : • 103 . 6 MBq ( 2 . 8 mCi ) • 207 . 2 MBq ( 5 . 6 mCi ) • 233 . 1 MBq ( 6 . 3 mCi ) • 366 . 3 MBq ( 9 . 9 mCi ) 4 CONTRAINDICATIONS None .
+None 5 WARNINGS AND PRECAUTIONS • Anaphylactoid reactions ( hypotension , pruritus , flushing , and diffuse rash ) have been reported .
+( 5 . 1 ) • Induction of cardiovascular stress may be associated with myocardial infarction , arrhythmia , hypotension , bronchoconstriction , cerebrovascular events and other serious adverse events .
+( 5 . 2 ) 5 . 1 Anaphylactoid Reactions Anaphylactoid reactions ( hypotension , pruritus , flushing , and diffuse rash ) have been reported .
+5 . 2 Risks Associated with Stress Testing Perform stress testing only under the supervision of a qualified physician and in a laboratory equipped with appropriate resuscitation and support equipment .
+Patients suspected or known to have myocardial infarction or ischemia , require continuous clinical monitoring and treatment in accordance with safe , accepted procedures .
+Induction of cardiovascular stress might be associated with serious adverse events such as myocardial infarction , arrhythmia , hypotension or hypertension , ECG abnormalities , chest pain , bronchoconstriction , and cerebrovascular events .
+Perform pharmacologic stress when indicated and in accordance with the pharmacologic stress agent ’ s prescribing information .
+5 . 3 Radiation Risks Thallous Chloride Tl 201 contributes to the cumulative radiation exposure .
+When considering administration of Thallous Chloride Tl 201 Injection to women of child - bearing potential , consider the radiation risks for a fetus [ see Use in Specific Populations ( 8 . 1 ) ] .
+Use the lowest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration ( 2 . 1 ) ( 2 . 5 ) ] .
+5 . 4 Risk of Extravasation and Tissue Damage Inject Thallous Chloride Tl 201 strictly intravenously to avoid local tissue accumulation and irradiation .
+Confirm intravenous patency before injection [ see Adverse Reactions ( 6 . 3 ) ] .
+6 ADVERSE REACTIONS Serious adverse reactions associated with myocardial perfusion testing including myocardial infarction , arrhythmia , hypotension , bronchoconstriction , and cerebrovascular events have been reported in patients who have undergone stress testing .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Curium US LLC at 1 - 866 - 789 - 2211 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Serious Reactions • Anaphylactoid Reactions Following the administration of Thallous Chloride Tl 201 Injection , anaphylactoid reactions have been reported ( characterized by cardiovascular , respiratory and cutaneous symptoms ) , some considered serious and severe enough to require treatment .
+Hypotension , pruritus , flushing , and diffuse rash which responds to antihistamines have been reported .
+• Stress Testing Serious reactions reported in patients who have undergone stress testing include myocardial infarction , arrhythmia , hypotension , bronchoconstriction , and cerebrovascular events [ see Warnings ( 5 ) ] .
+6 . 2 Common Reactions The most frequently reported reactions were itching , nausea , vomiting , mild diarrhea , tremor , shortness of breath , chills , fever , conjunctivitis , sweating , and blurred vision .
+6 . 3 Postmarketing Experience The following adverse reactions have been identified during post - approval use of Thallous Chloride Tl 201 .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure : Injection site reactions and extravasation of Tl - 201 have been reported : burning , pain , redness , swelling , warmth , and , in one case , tissue damage with chronic ulcer formation 7 DRUG INTERACTIONS Drugs that increase or decrease myocardial blood flow or potassium uptake might correspondingly alter the biodistribution of Thallous Chloride Tl 201 .
+Drugs that increase or decrease myocardial blood flow or potassium uptake might correspondingly alter the biodistribution of Thallous Chloride Tl 201 ( 7 ) .
+8 USE IN SPECIFIC POPULATIONS • Pregnancy : Administer only if clearly needed .
+( 8 . 1 ) • Nursing Mothers : Discontinue nursing or express and discard milk for a minimum of 2 weeks after administration .
+( 8 . 3 ) • Pediatrics : Safety and effectiveness have not been established in pediatric patients .
+( 8 . 4 ) 8 . 1 Pregnancy Category C There are no adequate or well - controlled studies of Thallous Chloride Tl 201 Injection use in pregnant women .
+Studies using human placentas demonstrate that Thallous Chloride Tl 201 crosses the placenta .
+Animal reproductive studies have not been conducted .
+Administer Thallous Chloride Tl 201 Injection to a pregnant woman only if clearly needed .
+8 . 3 Nursing Mothers Thallous Chloride Tl 201 is excreted in human milk .
+Advise patients who continue to breastfeed to express and discard milk for a minimum of 2 weeks after administration of Thallous Chloride Tl 201 .
+Minimize close contact with infants if the administered dose would result in an effective dose greater than 1 mSv ( 0 . 1 rem ) to the infant .
+8 . 4 Pediatric Use Safety and effectiveness of Thallous Chloride Tl 201 Injection in pediatric patients have not been established .
+8 . 6 Females of Reproductive Potential Assess the pregnancy status of women of childbearing potential prior to performing imaging procedures with Thallous Chloride Tl 201 Injection [ see Warnings and Precautions ( 5 . 3 ) ] .
+10 OVERDOSAGE In the event of the administration of a radiation overdose with Thallous Chloride Tl 201 , the absorbed dose to the patient should be reduced where possible by increasing the elimination of the radionuclide from the body by forced diuresis with frequent voiding and stimulation of the gastrointestinal passage .
+11 DESCRIPTION 11 . 1 Chemical Characteristics Thallous Chloride Tl 201 Injection is supplied in an isotonic solution as a sterile , non - pyrogenic diagnostic radiopharmaceutical for intravenous administration .
+Each milliliter contains 37 MBq ( 1 mCi ) Thallous Chloride Tl 201 at calibration time , made isotonic with 9 milligrams sodium chloride and preserved with 0 . 9 % ( v / v ) benzyl alcohol .
+The pH is adjusted to between 4 . 5 to 7 . 0 with hydrochloric acid and / or sodium hydroxide .
+Thallium Tl - 201 is cyclotron produced .
+At the time of calibration it contains no more than 1 . 0 % thallium Tl - 200 , no more than 1 . 0 % thallium Tl - 202 , no more than 0 . 25 % lead Pb - 203 , and no less than 98 % thallium Tl - 201 as a percentage of total activity .
+No carrier has been added .
+It is recommended to administer Thallous Chloride Tl 201 Injection close to calibration time to minimize the effect of higher levels of radionuclidic contaminants present at pre - and post - calibration dates .
+The concentration of each radionuclidic contaminant changes with time .
+Figure 1 shows maximum concentration of each radionuclidic contaminant as a function of time .
+Figure 1 .
+Radionuclidic Contaminants [ MULTIMEDIA ] [ MULTIMEDIA ] 11 . 2 Physical Characteristics Thallium Tl - 201 , with a physical half - life of 72 . 9 hours , decays by electron capture to mercury Hg - 201 .
+Photons that are useful for detection and imaging are listed in Table 3 .
+The lower energy x - rays obtained from the mercury Hg - 201 daughter of thallium Tl - 201 are recommended for myocardial imaging , because the mean percent disintegration at 68 . 9 to 80 . 3 keV is much greater than the combination of gamma - 4 and gamma - 6 mean percent disintegration .
+Table 3 .
+Principal Radiation Emission Data Radiation Mean Percent / Disintegration Energy ( keV ) Gamma - 4 2 . 7 135 . 3 Gamma - 6 10 . 0 167 . 4 Mercury x - rays 94 . 4 68 . 9 - 80 . 3 From : Stabin MG , da Luz CQPL .
+New Decay Data for Internal and External Dose Assessment , 2002 , Health Phys .
+83 ( 4 ) : 471 - 4753 .
+11 . 3 External Radiation The specific gamma ray constant for thallium Tl - 201 is 4 . 64 R / mCi - hr at 1 cm .
+The first half - value thickness of lead ( Pb ) is 0 . 0006 cm .
+A range of values for the radiation emitted by this radionuclide with the corresponding exposure rate at 1 cm that results from interposition of various thicknesses of lead is shown in Table 4 .
+For example , the use of 0 . 21 cm of lead will decrease the external radiation exposure by a factor of about 1 , 000 .
+Table 4 .
+Radiation Attenuation by Lead Shielding cm of Lead ( Pb ) Coefficient of Attenuation 0 . 0005 0 . 5 0 . 026 10 - 1 0 . 081 10 - 2 0 . 18 10 - 3 0 . 31 10 - 4 Data supplied by Oak Ridge Associated Universities , Radiopharmaceutical Internal Dose Information Center , Oak Ridge , TN , 1994 .
+Includes 10 keV x - rays4 .
+To correct for physical decay of the radionuclide , the fractions that remain at selected intervals after calibration time are shown in Table 5 .
+Table 5 .
+Thallous Chloride Tl 201 Decay Chart ; Half - Life 72 . 9 Hours Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 00 66 0 . 53 6 0 . 95 72 0 . 50 12 0 . 89 78 0 . 48 18 0 . 84 84 0 . 45 24 0 . 80 90 0 . 43 30 0 . 75 96 0 . 40 36 0 . 71 108 0 . 36 42 0 . 67 120 0 . 32 48 0 . 63 132 0 . 29 54 0 . 60 144 0 . 25 60 0 . 57 * Calibration Time 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Thallous Chloride Tl 201 with no carrier added accumulates in viable myocardium in a manner analogous to that of potassium .
+Experiments in human volunteers using labeled microspheres have shown that the myocardial distribution of Thallous Chloride Tl 201 correlates well with regional perfusion .
+In clinical studies , Thallous Chloride Tl 201 images have been found to visualize areas of infarction as “ cold ” or nonlabeled regions which are confirmed by electrocardiographic and enzyme changes .
+Regions of transient myocardial ischemia corresponding to areas perfused by coronary arteries with partial stenoses have been visualized when Thallous Chloride Tl 201 was administered in conjunction with an exercise stress test .
+Anatomic configurations may interfere with visualization of the right coronary artery .
+12 . 3 Pharmacokinetics After intravenous administration , Thallous Chloride Tl 201 clears rapidly from the blood with maximal concentration by normal myocardium occurring at about 10 minutes .
+It will , in addition , localize in parathyroid adenomas ; it is not specific since it will localize to a lesser extent in sites of parathyroid hyperplasia and other abnormal tissues such as thyroid adenoma , neoplasia ( e . g . , parathyroid carcinoma ) and sarcoid .
+Biodistribution is generally proportional to organ blood flow at the time of injection .
+Blood clearance of Thallous Chloride Tl 201 is primarily by the myocardium , thyroid , liver , kidneys and stomach with the remainder distributing fairly uniformly throughout the body .
+The dosimetry data in Table 1 reflect this distribution pattern and are based on a biological half - life of 2 . 4 days .
+Thallous Chloride Tl 201 is excreted slowly and to an equal extent in both feces and urine .
+Five minutes after intravenous administration only 5 to 8 percent of injected activity remained in the blood .
+A biexponential disappearance curve was obtained , with 91 . 5 percent of the blood radioactivity disappearing with a half - time of about 5 minutes .
+The remainder had a half - time of about 40 hours .
+Approximately 4 to 8 percent of the injected dose was excreted in the urine in the first 24 hours .
+The whole body disappearance half - time was 9 . 8 ± 2 . 5 days .
+Kidney concentration was found to be about 3 percent of the injected activity and the testicular content was 0 . 15 percent .
+Net thyroid activity was determined to be only 0 . 2 percent of the injected dose , and the activity disappeared in 24 hours .
+From anterior and posterior whole - body scans , it was determined that about 45 percent of the injected dose was in the large intestines and contiguous structures ( liver , kidneys , abdominal musculature ) .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential , mutagenic potential or whether this drug affects fertility in males or females .
+15 REFERENCES 1 Krahwinkel W , Herzog H , Feinendegen LE .
+Pharmacokinetics of thallium - 201 in normal individuals after routine myocardial scintigraphy .
+J Nucl Med , 1988 ; 29 , 1582 – 1586 .
+2 Thomas SR , Stabin MG , Castronovo FP .
+Radiation - absorbed dose from 201 Tl - thallous chloride .
+J Nucl Med , 2005 ; 46 ( 3 ) , 502 - 508 .
+3 Stabin MG , da Luz CQPL .
+New Decay Data for Internal and External Dose Assessment , Health Phys , 2002 ; 83 ( 4 ) , 471 - 475 .
+4 Data supplied by Oak Ridge Associated Universities , Radiopharmaceutical Internal Dose Information Center , Oak Ridge , TN , 1994 .
+16 HOW SUPPLIED / STORAGE AND HANDLING 16 . 1 How Supplied Thallous Chloride Tl 201 Injection is supplied in a sterile , non - pyrogenic solution for intravenous administration ( Table 6 ) .
+Each mL contains 37 MBq ( 1 mCi ) Thallous Chloride Tl 201 at calibration time , 9 mg sodium chloride and 0 . 9 percent ( v / v ) benzyl alcohol .
+The pH is adjusted to between 4 . 5 to 7 . 0 with hydrochloric acid and / or sodium hydroxide solution .
+Table 6 .
+Thallous Chloride TI 201 Injection NDC Vial Volume Activity mL megabecquerels millicuries 69945 - 120 - 28 2 . 8 mL 103 . 6 2 . 8 69945 - 120 - 56 5 . 6 mL 207 . 2 5 . 6 69945 - 120 - 63 6 . 3 mL 233 . 1 6 . 3 69945 - 120 - 99 9 . 9 mL 366 . 3 9 . 9 16 . 2 Handling The contents of the vial are radioactive .
+Adequate shielding and handling precautions must be maintained .
+16 . 3 Storage and Disposal Store this drug at controlled room temperature , 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+Storage and disposal of Thallous Chloride Tl 201 Injection should be controlled in a manner that is in compliance with the appropriate regulations of the government agency authorized to license the use of this radionuclide .
+17 PATIENT COUNSELING INFORMATION Advise patients to inform their physician or healthcare provider if they are pregnant or breast - feeding .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA A120I0 Issued R12 / 2018 CURIUM ™ PRINCIPAL DISPLAY PANEL Thallous Chlloride TI 201 Injection DIAGNOSTIC Sterile , Non - Pyrogenic Solution For Intravenous Administration Store at Controlled Room Temperature 20º to 25ºC ( 68º to 77ºF ) [ see USP ] .
+Each milliliter contains 37 MBq ( 1 mCi ) Thallous Chloride TI 201 ( no carrier added ) at date and time of calibration .
+9 mg sodium chloride , and 0 . 9 % ( v / v ) benzyl alcohol as a preservative .
+Sodium hydroxide and / or hydrochloric acid are added for pH adjustment .
+The pH is between 4 . 5 and 7 . 0 .
+For information on dosage , administration and indications see package insert .
+Rx only WARNING : Radioactive drugs must be handled only by qualified personnel in conformity with regulation of the U . S . Nuclear Regulatory Commission or state regulatory agencies where applicable .
+Bottle containing drug should be kept in this container or within a heavier shield .
+CAUTION RADIOACTIVE MATERIAL Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUM ™ A120C0 R12 / 2018 [ MULTIMEDIA ] [ MULTIMEDIA ]

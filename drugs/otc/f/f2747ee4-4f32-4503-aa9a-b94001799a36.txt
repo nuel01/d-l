@@ -1,0 +1,529 @@
+1 INDICATIONS AND USAGE Everolimus is a kinase inhibitor indicated for the treatment of : • • Adults with advanced renal cell carcinoma ( RCC ) after failure of treatment with sunitinib or sorafenib .
+( 1 . 3 ) • • Adults with renal angiomyolipoma and tuberous sclerosis complex ( TSC ) , not requiring immediate surgery .
+( 1 . 4 ) 1 . 3 Renal Cell Carcinoma ( RCC ) Everolimus is indicated for the treatment of adult patients with advanced RCC after failure of treatment with sunitinib or sorafenib .
+1 . 4 Tuberous Sclerosis Complex ( TSC ) - Associated Renal Angiomyolipoma Everolimus is indicated for the treatment of adult patients with renal angiomyolipoma and TSC , not requiring immediate surgery .
+2 DOSAGE AND ADMINISTRATION Everolimus is available in tablets for oral administration Modify the dose for patients with hepatic impairment or for patients taking drugs that inhibit or induce P - glycoprotein ( P - gp ) and CYP3A4 .
+( 2 . 1 ) RCC : • • 10 mg orally once daily ( 2 . 4 ) TSC - Associated Renal Angiomyolipoma : • • 10 mg orally once daily .
+( 2 . 5 ) 2 . 1 Important Dosage Information • • Modify the dosage for patients with hepatic impairment or for patients taking drugs that inhibit or induce P - glycoprotein ( P - gp ) and CYP3A4 [ see Dosage and Administration ( 2 . 11 , 2 . 12 ) ] .
+2 . 4 Recommended Dosage for Renal Cell Carcinoma ( RCC ) The recommended dosage of Everolimus is 10 mg orally once daily until disease progression or unacceptable toxicity .
+2 . 5 Recommended Dosage for Tuberous Sclerosis Complex ( TSC ) - Associated Renal Angiomyolipoma The recommended dosage of Everolimus is 10 mg orally once daily until disease progression or unacceptable toxicity .
+2 . 9 Dosage Modifications for Adverse Reactions Table 2 summarizes recommendations for dosage modifications of Everolimus for the management of adverse reactions .
+Table 2 : Recommended Dosage Modifications for Everolimus for Adverse Reactions Adverse Reaction Severity Dosage Modification Non - infectious pneumonitis [ see Warnings and Precautions ( 5 . 1 ) ] Grade 2 Withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Permanently discontinue if toxicity does not resolve or improve to Grade 1 within 4 weeks .
+Grade 3 Withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+If toxicity recurs at Grade 3 , permanently discontinue .
+Grade 4 Permanently discontinue .
+Stomatitis [ see Warnings and Precautions ( 5 . 5 ) ] Grade 2 Withhold until improvement to Grade 0 or 1 .
+Resume at same dose .
+If recurs at Grade 2 , withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Grade 3 Withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Grade 4 Permanently discontinue .
+Metabolic events ( e . g . , hyperglycemia , dyslipidemia ) [ see Warnings and Precautions ( 5 . 9 ) ] Grade 3 Withhold until improvement to Grade 0 , 1 , or 2 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Grade 4 Permanently discontinue .
+Other non - hematologic toxicities Grade 2 If toxicity becomes intolerable , withhold until improvement to Grade 0 or 1 .
+Resume at same dose .
+If toxicity recurs at Grade 2 , withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Grade 3 Withhold until improvement to Grade 0 or 1 .
+Consider resuming at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+If recurs at Grade 3 , permanently discontinue .
+Grade 4 Permanently discontinue .
+Thrombocytopenia [ see Warnings and Precautions ( 5 . 10 ) ] Grade 2 Withhold until improvement to Grade 0 or 1 .
+Resume at same dose .
+Grade 3 OR Grade 4 Withhold until improvement to Grade 0 or 1 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Neutropenia [ see Warnings and Precautions ( 5 . 10 ) ] Grade 3 Withhold until improvement to Grade 0 , 1 , or 2 .
+Resume at same dose .
+Grade 4 Withhold until improvement to Grade 0 , 1 , or 2 .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Febrile neutropenia [ see Warnings and Precautions ( 5 . 10 ) ] Grade 3 Withhold until improvement to Grade 0 , 1 , or 2 , and no fever .
+Resume at 50 % of previous dose ; change to every other day dosing if the reduced dose is lower than the lowest available strength .
+Grade 4 Permanently discontinue .
+2 . 10 Dosage Modifications for Hepatic Impairment The recommended dosages of Everolimus for patients with hepatic impairment are described in Table 3 [ seeUse in Specific Populations ( 8 . 6 ) ] : Table 3 : Recommended Dosage Modifications for Patients with Hepatic Impairment Indication Dose Modification for Everolimus RCC and TSC - Associated Renal Angiomyolipoma • • Mild hepatic impairment ( Child - Pugh class A ) – 7 . 5 mg orally once daily ; decrease the dose to 5 mg orally once daily if a dose of 7 . 5 mg once daily is not tolerated .
+• • Moderate hepatic impairment ( Child - Pugh class B ) – 5 mg orally once daily ; decrease the dose to 2 . 5 mg orally once daily if a dose of 5 mg once daily is not tolerated .
+• • Severe hepatic impairment ( Child - Pugh class C ) – 2 . 5 mg orally once daily if the desired benefit outweighs the risk ; do not exceed a dose of 2 . 5 mg once daily .
+Abbreviations : RCC , Renal Cell Carcinoma ; TSC , Tuberous Sclerosis Complex .
+2 . 11 Dosage Modifications for P - gp and CYP3A4 Inhibitors • • Avoid the concomitant use of P - gp and strong CYP3A4 inhibitors [ seeDrug Interactions ( 7 . 1 ) ] .
+• • Avoid ingesting grapefruit and grapefruit juice .
+• • Reduce the dose for patients taking Everolimus with a P - gp and moderate CYP3A4 inhibitor as recommended in Table 4 [ seeDrug Interactions ( 7 . 1 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 4 : Recommended Dosage Modifications for Concurrent Use of Everolimus with a P - gp and Moderate CYP3A4 Inhibitor Indication Dose Modification for Everolimus RCC and TSC - Associated Renal Angiomyolipoma • • Reduce dose to 2 . 5 mg once daily .
+• • May increase dose to 5 mg once daily if tolerated .
+• • Resume dose administered prior to inhibitor initiation , once the inhibitor is discontinued for 3 days .
+2 . 12 Dosage Modifications for P - gp and CYP3A4 Inducers • • Avoid concomitant use of St . John ’ s Wort ( Hypericum perforatum ) .
+• • Increase the dose for patients taking Everolimus with a P - gp and strong CYP3A4 inducer as recommended in Table 5 [ seeDrug Interactions ( 7 . 1 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 5 : Recommended Dosage Modifications for Concurrent Use of Everolimus with P - gp and Strong CYP3A4 Inducers Indication Dose Modification for Everolimus RCC and TSC - Associated Renal Angiomyolipoma • • Avoid coadministration where alternatives exist .
+• • If coadministration cannot be avoided , double the daily dose using increments of 5 mg or less .
+Multiple increments may be required .
+• • Resume the dose administered prior to inducer initiation , once an inducer is discontinued for 5 days .
+2 . 13 Administration and Preparation • • Administer Everolimus at the same time each day .
+• • Administer Everolimus consistently either with or without food [ seeClinical Pharmacology ( 12 . 3 ) ] .
+• • If a dose of Everolimus is missed , it can be administered up to 6 hours after the time it is normally administered .
+After more than 6 hours , the dose should be skipped for that day .
+The next day , Everolimus should be administered at its usual time .
+Double doses should not be administered to make up for the dose that was missed .
+• • Everolimus should be swallowed whole with a glass of water .
+Do not break or crush tablets .
+3 DOSAGE FORMS AND STRENGTHS Everolimus tablets are available as 2 . 5 mg , 5 mg , 7 . 5 mg , and 10 mg tablets for oral administration .
+Everolimus Tablets : 2 . 5 mg , 5 mg , 7 . 5 mg , and 10 mg tablets .
+( 3 ) 4 CONTRAINDICATIONS Everolimus is contraindicated in patients with clinically significant hypersensitivity to everolimus or to other rapamycin derivatives [ see Warnings and Precautions ( 5 . 3 ) ] .
+Clinically significant hypersensitivity to everolimus or to other rapamycin derivatives .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • • Non - infectious Pneumonitis : Monitor for clinical symptoms or radiological changes .
+Withhold or permanently discontinue based on severity .
+( 2 . 9 , 5 . 1 ) • • Infections : Monitor for signs and symptoms of infection .
+Withhold or permanently discontinue based on severity .
+( 2 . 9 , 5 . 2 ) • • Severe Hypersensitivity Reactions : Permanently discontinue for clinically significant hypersensitivity .
+( 5 . 3 ) • • Angioedema : Patients taking concomitant angiotensin - converting - enzyme ( ACE ) inhibitors may be at increased risk for angioedema .
+Permanently discontinue for angioedema .
+( 5 . 4 , 7 . 2 ) • • Stomatitis : Initiate dexamethasone alcohol - free mouthwash when starting treatment .
+( 5 . 5 , 6 . 1 ) • • Renal Failure : Monitor renal function prior to treatment and periodically thereafter .
+( 5 . 6 ) • • Risk of Impaired Wound Healing : Withhold for at least 1 week prior to elective surgery .
+Do not administer for at least 2 weeks following major surgery and until adequate wound healing .
+The safety of resumption of treatment after resolution of wound healing complications has not been established .
+( 5 . 7 ) • • Metabolic Disorders : Monitor serum glucose and lipids prior to treatment and periodically thereafter .
+Withhold or permanently discontinue based on severity .
+( 2 . 9 , 5 . 9 ) • • Myelosuppression : Monitor hematologic parameters prior to treatment and periodically thereafter .
+Withhold or permanently discontinue based on severity .
+( 2 . 9 , 5 . 10 ) • • Risk of Infection or Reduced Immune Response with Vaccination : Avoid live vaccines and close contact with those who have received live vaccines .
+Complete recommended childhood vaccinations prior to starting treatment .
+( 5 . 11 ) • • Radiation Sensitization and Radiation Recall : Severe radiation reactions may occur .
+( 5 . 12 , 6 . 2 ) • • Embryo - Fetal Toxicity : Can cause fetal harm .
+Advise patients of reproductive potential of the potential risk to a fetus and to use effective contraception .
+( 5 . 13 , 8 . 1 , 8 . 3 ) 5 . 1 Non - infectious Pneumonitis Non - infectious pneumonitis is a class effect of rapamycin derivatives .
+Non - infectious pneumonitis was reported in up to 19 % of patients treated with Everolimus in clinical trials , some cases were reported with pulmonary hypertension ( including pulmonary arterial hypertension ) as a secondary event .
+The incidence of Grade 3 and 4 non - infectious pneumonitis was up to 4 % and up to 0 . 2 % , respectively [ see Adverse Reactions ( 6 . 1 ) ] .
+Fatal outcomes have been observed .
+Consider a diagnosis of non - infectious pneumonitis in patients presenting with non - specific respiratory signs and symptoms .
+Consider opportunistic infections such as pneumocystis jiroveci pneumonia ( PJP ) in the differential diagnosis .
+Advise patients to report promptly any new or worsening respiratory symptoms .
+Continue Everolimus without dose alteration in patients who develop radiological changes suggestive of non - infectious pneumonitis and have few or no symptoms .
+Imaging appears to overestimate the incidence of clinical pneumonitis .
+For Grade 2 to 4 non - infectious pneumonitis , withhold or permanently discontinue Everolimus based on severity [ seeDosage and Administration ( 2 . 9 ) ] .
+Corticosteroids may be indicated until clinical symptoms resolve .
+Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required .
+The development of pneumonitis has been reported even at a reduced dose .
+5 . 2 Infections Everolimus has immunosuppressive properties and may predispose patients to bacterial , fungal , viral , or protozoal infections , including infections with opportunistic pathogens [ seeAdverse Reactions ( 6 . 1 ) ] .
+Localized and systemic infections , including pneumonia , mycobacterial infections , other bacterial infections , invasive fungal infections ( e . g . , aspergillosis , candidiasis , or PJP ) , and viral infections ( e . g . , reactivation of hepatitis B virus ) have occurred .
+Some of these infections have been severe ( e . g . , sepsis , septic shock , or resulting in multisystem organ failure ) or fatal .
+The incidence of Grade 3 and 4 infections was up to 10 % and up to 3 % , respectively .
+Complete treatment of preexisting invasive fungal infections prior to starting treatment .
+Monitor for signs and symptoms of infection .
+Withhold or permanently discontinue Everolimus based on severity of infection [ seeDosage and Administration ( 2 . 9 ) ] .
+Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required .
+5 . 3 Severe Hypersensitivity Reactions Hypersensitivity reactions to Everolimus have been observed and include anaphylaxis , dyspnea , flushing , chest pain , and angioedema ( e . g . , swelling of the airways or tongue , with or without respiratory impairment ) [ seeContraindications ( 4 ) ] .
+The incidence of Grade 3 hypersensitivity reactions was up to 1 % .
+Permanently discontinue Everolimus for the development of clinically significant hypersensitivity .
+5 . 4 Angioedema with Concomitant Use of Angiotensin - Converting Enzyme ( ACE ) Inhibitors Patients taking concomitant ACE inhibitors with Everolimus may be at increased risk for angioedema ( e . g . , swelling of the airways or tongue , with or without respiratory impairment ) .
+In a pooled analysis of randomized double - blind oncology clinical trials , the incidence of angioedema in patients taking Everolimus with an ACE inhibitor was 6 . 8 % compared to 1 . 3 % in the control arm with an ACE inhibitor .
+Permanently discontinue Everolimus for angioedema .
+5 . 5 Stomatitis Stomatitis , including mouth ulcers and oral mucositis , has occurred in patients treated with Everolimus at an incidence ranging from 44 % to 78 % across clinical trials .
+Grades 3 - 4 stomatitis was reported in 4 % to 9 % of patients [ seeAdverse Reactions ( 6 . 1 ) ] .
+Stomatitis most often occurs within the first 8 weeks of treatment .
+When starting Everolimus , initiating dexamethasone alcohol - free oral solution as a swish and spit mouthwash reduces the incidence and severity of stomatitis [ see Adverse Reactions ( 6 . 1 ) ] .
+If stomatitis does occur , mouthwashes and / or other topical treatments are recommended .
+Avoid alcohol - , hydrogen peroxide - , iodine - , or thyme - containing products , as they may exacerbate the condition .
+Do not administer antifungal agents , unless fungal infection has been diagnosed .
+5 . 6 Renal Failure Cases of renal failure ( including acute renal failure ) , some with a fatal outcome , have occurred in patients taking Everolimus .
+Elevations of serum creatinine and proteinuria have been reported in patients taking Everolimus [ seeAdverse Reactions ( 6 . 1 ) ] .
+The incidence of Grade 3 and 4 elevations of serum creatinine was up to 2 % and up to 1 % , respectively .
+The incidence of Grade 3 and 4 proteinuria was up to 1 % and up to 0 . 5 % , respectively .
+Monitor renal function prior to starting Everolimus and annually thereafter .
+Monitor renal function at least every 6 months in patients who have additional risk factors for renal failure .
+5 . 7 Risk of Impaired Wound Healing Impaired wound healing can occur in patients who receive drugs that inhibit the VEGF signaling pathway .
+Therefore , Everolimus has the potential to adversely affect wound healing .
+Withhold Everolimus for at least 1 week prior to elective surgery .
+Do not administer for at least 2 weeks following major surgery and until adequate wound healing .
+The safety of resumption of treatment upon resolution of wound healing complications has not been established .
+5 . 9 Metabolic Disorders Hyperglycemia , hypercholesterolemia , and hypertriglyceridemia have been reported in patients taking Everolimus at an incidence up to 75 % , 86 % , and 73 % , respectively .
+The incidence of these Grade 3 and 4 laboratory abnormalities was up to 15 % and up to 0 . 4 % , respectively [ seeAdverse Reactions ( 6 . 1 ) ] .
+In non - diabetic patients , monitor fasting serum glucose prior to starting Everolimus and annually thereafter .
+In diabetic patients , monitor fasting serum glucose more frequently as clinically indicated .
+Monitor lipid profile prior to starting Everolimus and annually thereafter .
+When possible , achieve optimal glucose and lipid control prior to starting Everolimus .
+For Grade 3 to 4 metabolic events , withhold or permanently discontinue Everolimus based on severity [ seeDosage and Administration ( 2 . 9 ) ] .
+5 . 10 Myelosuppression Anemia , lymphopenia , neutropenia , and thrombocytopenia have been reported in patients taking Everolimus .
+The incidence of these Grade 3 and 4 laboratory abnormalities was up to 16 % and up to 2 % , respectively [ see Adverse Reactions ( 6 . 1 ) ] .
+Monitor complete blood count ( CBC ) prior to starting Everolimus every 6 months for the first year of treatment and annually thereafter .
+Withhold or permanently discontinue Everolimus based on severity [ seeDosage andAdministration ( 2 . 9 ) ] .
+5 . 11 Risk of Infection or Reduced Immune Response with Vaccination The safety of immunization with live vaccines during Everolimus therapy has not been studied .
+Due to the potential increased risk of infection , avoid the use of live vaccines and close contact with individuals who have received live vaccines during treatment with Everolimus .
+Due to the potential increased risk of infection or reduced immune response with vaccination , complete the recommended childhood series of vaccinations according to American Council on Immunization Practices ( ACIP ) guidelines prior to the start of therapy .
+An accelerated vaccination schedule may be appropriate .
+5 . 12 Radiation Sensitization and Radiation Recall Radiation sensitization and recall , in some cases severe , involving cutaneous and visceral organs ( including radiation esophagitis and pneumonitis ) have been reported in patients treated with radiation prior to , during , or subsequent to everolimus treatment [ see Adverse Reactions ( 6 . 2 ) ] .
+Monitor patients closely when everolimus is administered during or sequentially with radiation treatment .
+5 . 13 Embryo - Fetal Toxicity Based on animal studies and the mechanism of action , Everolimus can cause fetal harm when administered to a pregnant woman .
+In animal studies , everolimus caused embryo - fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg once daily .
+Advise pregnant women of the potential risk to a fetus .
+Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception during treatment with Everolimus and for 8 weeks after the last dose .
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Everolimus and for 4 weeks after the last dose [ seeUse in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling : • • Non - infectious Pneumonitis [ see Warnings and Precautions ( 5 . 1 ) ] .
+• • Infections [ see Warnings and Precautions ( 5 . 2 ) ] .
+• • Severe Hypersensitivity Reactions [ seeWarnings and Precautions ( 5 . 3 ) ] .
+• • Angioedema with Concomitant Use of ACE Inhibitors [ see Warnings and Precautions ( 5 . 4 ) ] .
+• • Stomatitis [ see Warnings and Precautions ( 5 . 5 ) ] .
+• • Renal Failure [ see Warnings and Precautions ( 5 . 6 ) ] .
+• • Impaired Wound Healing [ see Warnings and Precautions ( 5 . 7 ) ] .
+• • Metabolic Disorders [ see Warnings and Precautions ( 5 . 9 ) ] .
+• • Myelosuppression [ seeWarnings and Precautions ( 5 . 10 ) ] .
+• • Radiation Sensitization and Radiation Recall [ see Warnings and Precautions ( 6 . 2 ) ] .
+• • RCC : Most common adverse reactions ( incidence ≥ 30 % ) include stomatitis , infections , rash , fatigue , diarrhea , edema , abdominal pain , nausea , fever , asthenia , cough , headache and decreased appetite .
+( 6 . 1 ) • • TSC - Associated Renal Angiomyolipoma : Most common adverse reaction ( incidence ≥ 30 % ) is stomatitis .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Hikma Pharmaceuticals USA Inc . at 1 - 800 - 962 - 8364 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice .
+The data described below reflect exposure to Everolimus ( n = 274 ) and placebo ( n = 137 ) in a randomized , controlled trial ( RECORD - 1 ) in patients with metastatic RCC who received prior treatment with sunitinib and / or sorafenib .
+The median age of patients was 61 years ( 27 to 85 years ) , 88 % were white , and 78 % were male .
+The median duration of blinded study treatment was 141 days ( 19 to 451 days ) for patients receiving Everolimus .
+The most common adverse reactions ( incidence ≥ 30 % ) were stomatitis , infections , asthenia , fatigue , cough , and diarrhea .
+The most common Grade 3 to 4 adverse reactions ( incidence ≥ 3 % ) were infections , dyspnea , fatigue , stomatitis , dehydration , pneumonitis , abdominal pain , and asthenia .
+The most common laboratory abnormalities ( incidence ≥ 50 % ) were anemia , hypercholesterolemia , hypertriglyceridemia , hyperglycemia , lymphopenia , and increased creatinine .
+The most common Grade 3 to 4 laboratory abnormalities ( incidence ≥ 3 % ) were lymphopenia , hyperglycemia , anemia , hypophosphatemia , and hypercholesterolemia .
+Deaths due to acute respiratory failure ( 0 . 7 % ) , infection ( 0 . 7 % ) , and acute renal failure ( 0 . 4 % ) were observed on the Everolimus arm .
+The rate of adverse reactions resulting in permanent discontinuation was 14 % for the Everolimus group .
+The most common adverse reactions leading to treatment discontinuation were pneumonitis and dyspnea .
+Infections , stomatitis , and pneumonitis were the most common reasons for treatment delay or dose reduction .
+The most common medical interventions required during Everolimus treatment were for infections , anemia , and stomatitis .
+Adverse reactions reported with an incidence of ≥ 10 % for patients receiving Everolimus vs . placebo are presented in Table 12 .
+Laboratory abnormalities are presented in Table 13 .
+Table 12 : Adverse Reactions Reported in ≥ 10 % of Patients with RCC and at a Higher Rate in the Everolimus Arm than in the Placebo Arm in RECORD - 1 Everolimus N = 274 Placebo N = 137 All Grades Grades 3 - 4 All Grades Grades 3 - 4 % % % % Gastrointestinal Stomatitis [ 1 ] 44 4 8 0 Diarrhea 30 2 [ 2 ] 7 0 Nausea 26 2 null 19 0 Vomiting 20 2 null 12 0 Infections [ 3 ] 37 10 18 2 General Asthenia 33 4 23 4 Fatigue 31 6 null 27 4 Edema peripheral 25 < 1 null 8 < 1 null Pyrexia 20 < 1 null 9 0 Mucosal inflammation 19 2 null 1 0 Respiratory , Thoracic and Mediastinal Cough 30 < 1 null 16 0 Dyspnea 24 8 15 3 null Epistaxis 18 0 0 0 Pneumonitis [ 4 ] 14 44 0 0 Skin and Subcutaneous Tissue Rash 29 1 null 7 0 Pruritus 14 < 1 null 7 0 Dry skin 13 < 1 null 5 0 Metabolism and Nutrition Anorexia 25 2 null 14 < 1 null Nervous System Headache 19 1 9 < 1 null Dysgeusia 10 0 2 0 Musculoskeletal and connective tissue Pain in extremity 10 1 null 7 0 Grading according to NCI CTCAE Version 3 . 0 .
+[ 1 ] Stomatitis ( including aphthous stomatitis ) , and mouth and tongue ulceration .
+[ 2 ] No Grade 4 adverse reactions were reported .
+[ 3 ] Includes all reported infections including , but not limited to , respiratory tract ( upper and lower ) infections , urinary tract infections , and skin infections .
+[ 4 ] Includes pneumonitis , interstitial lung disease , lung infiltration , pulmonary alveolar hemorrhage , pulmonary toxicity , and alveolitis .
+Other notable adverse reactions occurring more frequently with Everolimus than with placebo , but with an incidence of < 10 % include : • Gastrointestinal : Abdominal pain ( 9 % ) , dry mouth ( 8 % ) , hemorrhoids ( 5 % ) , dysphagia ( 4 % ) • General : Weight loss ( 9 % ) , chest pain ( 5 % ) , chills ( 4 % ) , impaired wound healing ( < 1 % ) • Respiratory , Thoracic and Mediastinal : Pleural effusion ( 7 % ) , pharyngolaryngeal pain ( 4 % ) , rhinorrhea ( 3 % ) • Skin and Subcutaneous Tissue : Hand - foot syndrome ( reported as palmar - plantar erythrodysesthesia syndrome ) ( 5 % ) , nail disorder ( 5 % ) , erythema ( 4 % ) , onychoclasis ( 4 % ) , skin lesion ( 4 % ) , acneiform dermatitis ( 3 % ) , angioedema ( < 1 % ) • Metabolism and Nutrition : Exacerbation of pre - existing diabetes mellitus ( 2 % ) , new onset of diabetes mellitus ( < 1 % ) • Psychiatric : Insomnia ( 9 % ) • Nervous System : Dizziness ( 7 % ) , paresthesia ( 5 % ) • Ocular : Eyelid edema ( 4 % ) , conjunctivitis ( 2 % ) • Vascular : Hypertension ( 4 % ) , deep vein thrombosis ( < 1 % ) • Renal and Urinary : Renal failure ( 3 % ) • Cardiac : Tachycardia ( 3 % ) , congestive cardiac failure ( 1 % ) • Musculoskeletal and Connective Tissue : Jaw pain ( 3 % ) • Hematologic : Hemorrhage ( 3 % ) Table 13 : Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the Everolimus Arm Than the Placebo Arm in RECORD - 1 Laboratory Parameter Everolimus N = 274 Placebo N = 137 All Grades Grade 3 - 4 All Grades Grade 3 - 4 % % % % Hematology [ 1 ] Anemia 92 13 79 6 Lymphopenia 51 18 28 5 [ 2 ] Thrombocytopenia 23 1 null 2 < 1 Neutropenia 14 < 1 4 0 Chemistry Hypercholesterolemia 77 4 null 35 0 Hypertriglyceridemia 73 < 1 null 34 0 Hyperglycemia 57 16 25 2 null Increased creatinine increased 50 2 null 34 0 Hypophosphatemia 37 6 null 8 0 Increased AST 25 1 7 0 Increased ALT 21 1 null 4 0 Hyperbilirubinemia 3 1 2 0 Grading according to NCI CTCAE Version 3 . 0 .
+[ 1 ] Reflects corresponding adverse drug reaction reports of anemia , leukopenia , lymphopenia , neutropenia , and thrombocytopenia ( collectively pancytopenia ) , which occurred at lower frequency .
+[ 2 ] No Grade 4 laboratory abnormalities were reported .
+Tuberous Sclerosis Complex ( TSC ) - Associated Renal Angiomyolipoma The data described below are based on a randomized ( 2 : 1 ) , double - blind , placebo - controlled trial ( EXIST - 2 ) of Everolimus in 118 patients with renal angiomyolipoma as a feature of TSC ( n = 113 ) or sporadic lymphangioleiomyomatosis ( n = 5 ) .
+The median age of patients was 31 years ( 18 to 61 years ) , 89 % were white , and 34 % were male .
+The median duration of blinded study treatment was 48 weeks ( 2 to 115 weeks ) for patients receiving Everolimus .
+The most common adverse reaction reported for Everolimus ( incidence ≥ 30 % ) was stomatitis .
+The most common Grade 3 to 4 adverse reactions ( incidence ≥ 2 % ) were stomatitis and amenorrhea .
+The most common laboratory abnormalities ( incidence ≥ 50 % ) were hypercholesterolemia , hypertriglyceridemia , and anemia .
+The most common Grade 3 to 4 laboratory abnormality ( incidence ≥ 3 % ) was hypophosphatemia .
+The rate of adverse reactions resulting in permanent discontinuation was 3 . 8 % in the Everolimus - treated patients .
+Adverse reactions leading to permanent discontinuation in the Everolimus arm were hypersensitivity / angioedema / bronchospasm , convulsion , and hypophosphatemia .
+Dose adjustments ( interruptions or reductions ) due to adverse reactions occurred in 52 % of Everolimus - treated patients .
+The most common adverse reaction leading to Everolimus dose adjustment was stomatitis .
+Adverse reactions reported with an incidence of ≥ 10 % for patients receiving Everolimus and occurring more frequently with Everolimus than with placebo are presented in Table 14 .
+Laboratory abnormalities are presented in Table 15 .
+Table 14 : Adverse Reactions Reported in ≥ 10 % of Everolimus - Treated Patients with TSC - Associated Renal Angiomyolipoma in EXIST - 2 Everolimus N = 79 Placebo N = 39 All Grades Grade 3 - 4 All Grades Grade 3 - 4 % % % % Gastrointestinal • Stomatitis 78 6 [ 1 ] 23 0 • [ 2 ] Vomiting 15 0 5 0 • Diarrhea 14 0 5 0 General • Peripheral edema 13 0 8 0 Infections • Upper respiratory tract infection 11 0 5 0 Musculoskeletal and connective tissue • Arthralgia 13 0 5 0 Respiratory , thoracic and mediastinal • Cough 20 0 13 0 Skin and subcutaneous tissue Acne 22 0 5 0 Grading according to NCI CTCAE Version 3 . 0 [ 1 ] No Grade 4 adverse reactions were reported [ 2 ] Includes stomatitis , aphthous stomatitis , mouth ulceration , gingival pain , glossitis , and glossodynia .
+Amenorrhea occurred in 15 % of Everolimus - treated females ( 8 of 52 ) .
+Other adverse reactions involving the female reproductive system were menorrhagia ( 10 % ) , menstrual irregularities ( 10 % ) , and vaginal hemorrhage ( 8 % ) .
+The following additional adverse reactions occurred in less than 10 % of Everolimus - treated patients : epistaxis ( 9 % ) , decreased appetite ( 6 % ) , otitis media ( 6 % ) , depression ( 5 % ) , abnormal taste ( 5 % ) , increased blood luteinizing hormone ( LH ) levels ( 4 % ) , increased blood follicle stimulating hormone ( FSH ) levels ( 3 % ) , hypersensitivity ( 3 % ) , ovarian cyst ( 3 % ) , pneumonitis ( 1 % ) , and angioedema ( 1 % ) .
+Table 15 : Selected Laboratory Abnormalities Reported in Everolimus - Treated Patients with TSC - Associated Renal Angiomyolipoma in EXIST - 2 Everolimus N = 79 Placebo N = 39 All Grades Grade 3 - 4 All Grades Grade 3 - 4 % % % % Hematology • Anemia 61 0 49 0 • Leukopenia 37 0 21 0 • Neutropenia 25 1 26 0 • Lymphopenia 20 1 [ 1 ] 8 0 • Thrombocytopenia 19 0 3 0 Chemistry • Hypercholesterolemia 85 1 null 46 0 • Hypertriglyceridemia 52 0 10 0 • Hypophosphatemia 49 5 null 15 0 • Increased alkaline phosphatase 32 1 null 10 0 • Increased AST 23 1 null 8 0 • Increased ALT 20 1 null 15 0 • Hyperglycemia ( fasting ) 14 0 8 0 Grading according to NCI CTCAE Version 3 . 0 [ 1 ] No Grade 4 laboratory abnormalities were reported .
+Updated safety information from 112 patients treated with Everolimus for a median duration of 3 . 9 years identified the following additional adverse reactions and selected laboratory abnormalities : increased partial thromboplastin time ( 63 % ) , increased prothrombin time ( 40 % ) , decreased fibrinogen ( 38 % ) , urinary tract infection ( 31 % ) , proteinuria ( 18 % ) , abdominal pain ( 16 % ) , pruritus ( 12 % ) , gastroenteritis ( 12 % ) , myalgia ( 11 % ) , and pneumonia ( 10 % ) .
+6 . 2 Postmarketing Experience The following adverse reactions have been identified during postapproval use of Everolimus .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure : • • Blood and lymphatic disorders : Thrombotic microangiopathy • • Cardiac : Cardiac failure with some cases reported with pulmonary hypertension ( including pulmonary arterial hypertension ) as a secondary event • • Gastrointestinal : Acute pancreatitis • • Hepatobiliary : Cholecystitis and cholelithiasis • • Infections : Sepsis and septic shock • • Nervous System : Reflex sympathetic dystrophy • • Vascular : Arterial thrombotic events , lymphedema • • Injury , poisoning and procedural complications : Radiation Sensitization and Radiation Recall 7 DRUG INTERACTIONS • • P - gp and strong CYP3A4 Inhibitors : Avoid concomitant use .
+( 2 . 11 , 7 . 1 ) • • P - gp and moderate CYP3A4 Inhibitors : Reduce the dose as recommended .
+( 2 . 11 , 7 . 1 ) • • P - gp and strong CYP3A4 Inducers : Increase the dose as recommended .
+( 2 . 12 , 7 . 1 ) 7 . 1 Effect of Other Drugs on Everolimus Inhibitors Avoid the concomitant use of P - gp and strong CYP3A4 inhibitors [ see Dosage and Administration ( 2 . 11 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Reduce the dose for patients taking Everolimus with a P - gp and moderate CYP3A4 inhibitor as recommended [ see Dosage and Administration ( 2 . 11 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Inducers Increase the dose for patients taking Everolimus with a P - gp and strong CYP3A4 inducer as recommended [ see Dosage and Administration ( 2 . 12 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+7 . 2 Effects of Combination Use of Angiotensin Converting Enzyme ( ACE ) Inhibitors Patients taking concomitant ACE inhibitors with Everolimus may be at increased risk for angioedema .
+Avoid the concomitant use of ACE inhibitors with Everolimus [ see Warnings and Precautions ( 5 . 4 ) ] .
+8 USE IN SPECIFIC POPULATIONS • • For RCC or TSC - associated renal angiomyolipoma patients with hepatic impairment , reduce the dose .
+( 2 . 10 , 8 . 6 ) 8 . 1 Pregnancy Risk Summary Based on animal studies and the mechanism of action [ see Clinical Pharmacology ( 12 . 1 ) ] , Everolimus can cause fetal harm when administered to a pregnant woman .
+There are limited case reports of Everolimus use in pregnant women ; however , these reports are not sufficient to inform about risks of birth defects or miscarriage .
+In animal studies , everolimus caused embryo - fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the recommended dose of Everolimus 10 mg orally once daily [ see Data ] .
+Advise pregnant women of the potential risk to the fetus .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage is 2 % to 4 % and 15 % to 20 % of clinically recognized pregnancies , respectively .
+Data Animal Data : In animal reproductive studies , oral administration of everolimus to female rats before mating and through organogenesis induced embryo - fetal toxicities , including increased resorption , pre - implantation and post - implantation loss , decreased numbers of live fetuses , malformation ( e . g . , sternal cleft ) , and retarded skeletal development .
+These effects occurred in the absence of maternal toxicities .
+Embryo - fetal toxicities in rats occurred at doses ≥ 0 . 1 mg / kg ( 0 . 6 mg / m2 ) with resulting exposures of approximately 4 % of the human exposure at the recommended dose of Everolimus 10 mg orally once daily based on area under the curve ( AUC ) .
+In rabbits , embryo - toxicity evident as an increase in resorptions occurred at an oral dose of 0 . 8 mg / kg ( 9 . 6 mg / m2 ) .
+The effect in rabbits occurred in the presence of maternal toxicities .
+In a pre - and post - natal development study in rats , animals were dosed from implantation through lactation .
+At the dose of ≥ 0 . 1 mg / kg ( 0 . 6 mg / m2 ) , there were no adverse effects on delivery and lactation or signs of maternal toxicity ; however , there were reductions in body weight ( up to 9 % reduction from the control ) and in survival of offspring ( ~ 5 % died or missing ) .
+There were no drug - related effects on the developmental parameters ( morphological development , motor activity , learning , or fertility assessment ) in the offspring .
+8 . 2 Lactation Risk Summary There are no data on the presence of everolimus or its metabolites in human milk , the effects of everolimus on the breastfed infant or on milk production .
+Everolimus and its metabolites passed into the milk of lactating rats at a concentration 3 . 5 times higher than in maternal serum .
+Because of the potential for serious adverse reactions in breastfed infants from everolimus , advise women not to breastfeed during treatment with Everolimus and for 2 weeks after the last dose .
+8 . 3 Females and Males of Reproductive Potential Pregnancy Testing Verify the pregnancy status of females of reproductive potential prior to starting Everolimus [ see Use in Specific Populations ( 8 . 1 ) ] .
+Contraception Everolimus can cause fetal harm when administered to pregnant women [ see Use in Specific Populations ( 8 . 1 ) ] .
+Females : Advise female patients of reproductive potential to use effective contraception during treatment with Everolimus and for 8 weeks after the last dose .
+Males : Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Everolimus and for 4 weeks after the last dose .
+Infertility Females : Menstrual irregularities , secondary amenorrhea , and increases in luteinizing hormone ( LH ) and follicle stimulating hormone ( FSH ) occurred in female patients taking Everolimus .
+Based on these findings , Everolimus may impair fertility in female patients [ see Adverse Reactions ( 6 . 1 ) and Nonclinical Toxicology ( 13 . 1 ) ] .
+Males : Cases of reversible azoospermia have been reported in male patients taking Everolimus .
+In male rats , sperm motility , sperm count , plasma testosterone levels and fertility were diminished at AUC similar to those of the clinical dose of Everolimus 10 mg orally once daily .
+Based on these findings , Everolimus may impair fertility in male patients [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+8 . 4 Pediatric Use The safety and effectiveness of Everolimus in pediatric patients have not been established in : • • Renal Cell Carcinoma ( RCC ) • • TSC - associated renal angiomyolipoma 8 . 5 Geriatric Use In RECORD - 1 , 41 % of patients with renal cell carcinoma treated with Everolimus were ≥ 65 years of age , while 7 % were ≥ 75 years of age .
+No overall differences in safety or effectiveness were observed between elderly and younger patients .
+8 . 6 Hepatic Impairment Everolimus exposure may increase in patients with hepatic impairment [ see Clinical Pharmacology ( 12 . 3 ) ] .
+For patients with RCC and TSC - associated renal angiomyolipoma who have hepatic impairment , reduce the Everolimus dose as recommended [ seeDosage and Administration ( 2 . 10 ) ] .
+11 DESCRIPTION Everolimus is a kinase inhibitor .
+The chemical name of everolimus is ( 1 R , 9 S , 12 S , 15 R , 16 E , 18 R , 19 R , 21 R , 23 S , 24 E , 26 E , 28 E , 30 S , 32 S , 35 R ) - 1 , 18 - dihydroxy - 12 - { ( 1 R ) - 2 - [ ( 1 S , 3 R , 4 R ) - 4 - ( 2 - hydroxyethoxy ) - 3 - methoxycyclohexyl ] - 1 - methylethyl } - 19 , 30 - dimethoxy - 15 , 17 , 21 , 23 , 29 , 35 - hexamethyl - 11 , 36 - dioxa - 4 - aza - tricyclo [ 30 . 3 . 1 . 04 , 9 ] - hexatriaconta - 16 , 24 , 26 , 28 - tetraene - 2 , 3 , 10 , 14 , 20 - pentaone .
+The molecular formula is C53H83NO14 and the molecular weight is 958 . 2 g / mol .
+The structural formula is : [ MULTIMEDIA ] Everolimus tablets for oral administration contains 2 . 5 mg , 5 mg , 7 . 5 mg , or 10 mg of everolimus and the following inactive ingredients : anhydrous lactose , butylated hydroxytoluene , crospovidone , hypromellose , and magnesium stearate .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Everolimus is an inhibitor of mammalian target of rapamycin ( mTOR ) , a serine - threonine kinase , downstream of the PI3K / AKT pathway .
+The mTOR pathway is dysregulated in several human cancers and in tuberous sclerosis complex ( TSC ) .
+Everolimus binds to an intracellular protein , FKBP - 12 , resulting in an inhibitory complex formation with mTOR complex 1 ( mTORC1 ) and thus inhibition of mTOR kinase activity .
+Everolimus reduced the activity of S6 ribosomal protein kinase ( S6K1 ) and eukaryotic initiation factor 4 E - binding protein ( 4 E - BP1 ) , downstream effectors of mTOR , involved in protein synthesis .
+S6K1 is a substrate of mTORC1 and phosphorylates the activation domain 1 of the estrogen receptor which results in ligand - independent activation of the receptor .
+In addition , everolimus inhibited the expression of hypoxia - inducible factor ( e . g . , HIF - 1 ) and reduced the expression of vascular endothelial growth factor ( VEGF ) .
+Inhibition of mTOR by everolimus has been shown to reduce cell proliferation , angiogenesis , and glucose uptake in in vitro and / or in vivo studies .
+Two regulators of mTORC1 signaling are the oncogene suppressors tuberin - sclerosis complexes 1 and 2 ( TSC1 , TSC2 ) .
+Loss or inactivation of either TSC1 or TSC2 leads to activation of downstream signaling .
+In TSC , a genetic disorder , inactivating mutations in either the TSC1 or the TSC2 gene lead to hamartoma formation throughout the body as well as seizures and epileptogenesis .
+Overactivation of mTOR results in neuronal dysplasia , aberrant axonogenesis and dendrite formation , increased excitatory synaptic currents , reduced myelination , and disruption of the cortical laminar structure causing abnormalities in neuronal development and function .
+12 . 2 Pharmacodynamics Cardiac Electrophysiology In a randomized , placebo - controlled , cross - over study , 59 healthy subjects were administered a single oral dose of Everolimus ( 20 mg and 50 mg ) and placebo .
+Everolimus at single doses up to 50 mg did not prolong the QT / QTc interval .
+12 . 3 Pharmacokinetics Absorption After administration of Everolimus tablets in patients with advanced solid tumors , peak everolimus concentrations are reached 1 to 2 hours after administration of oral doses ranging from 5 mg to 70 mg .
+Following single doses , Cmax is dose - proportional with daily dosing between 5 mg and 10 mg .
+With single doses of 20 mg and higher , the increase in Cmax is less than dose - proportional ; however , AUC shows dose - proportionality over the 5 mg to 70 mg dose range .
+Steady - state was achieved within 2 weeks following once - daily dosing .
+Effect of Food : In healthy subjects , a high - fat meal ( containing approximately 1000 calories and 55 grams of fat ) reduced systemic exposure to Everolimus 10 mg ( as measured by AUC ) by 22 % and the peak blood concentration Cmax by 54 % .
+Light - fat meals ( containing approximately 500 calories and 20 grams of fat ) reduced AUC by 32 % and Cmax by 42 % .
+Distribution The blood - to - plasma ratio of everolimus , which is concentration - dependent over the range of 5 to 5000 ng / mL , is 17 % to 73 % .
+The amount of everolimus confined to the plasma is approximately 20 % at blood concentrations observed in cancer patients given Everolimus 10 mg orally once daily .
+Plasma protein binding is approximately 74 % both in healthy subjects and in patients with moderate hepatic impairment .
+Elimination The mean elimination half - life of everolimus is approximately 30 hours .
+Metabolism : Everolimus is a substrate of CYP3A4 .
+Following oral administration , everolimus is the main circulating component in human blood .
+Six main metabolites of everolimus have been detected in human blood , including three monohydroxylated metabolites , two hydrolytic ring - opened products , and a phosphatidylcholine conjugate of everolimus .
+These metabolites were also identified in animal species used in toxicity studies , and showed approximately 100 - times less activity than everolimus itself .
+Excretion : No specific elimination studies have been undertaken in cancer patients .
+Following the administration of a 3 mg single dose of radiolabeled everolimus in patients who were receiving cyclosporine , 80 % of the radioactivity was recovered from the feces , while 5 % was excreted in the urine .
+The parent substance was not detected in urine or feces .
+Specific Populations No relationship was apparent between oral clearance and age or sex in patients with cancer .
+Patients with Renal Impairment : No significant influence of creatinine clearance ( 25 to 178 mL / min ) was detected on oral clearance ( CL / F ) of everolimus .
+Patients with Hepatic Impairment : Compared to normal subjects , there was a 1 . 8 - fold , 3 . 2 - fold , and 3 . 6 - fold increase in AUC for subjects with mild ( Child - Pugh class A ) , moderate ( Child - Pugh class B ) , and severe ( Child - Pugh class C ) hepatic impairment , respectively .
+In another study , the average AUC of everolimus in subjects with moderate hepatic impairment ( Child - Pugh class B ) was twice that found in subjects with normal hepatic function [ seeDosage and Administration ( 2 . 10 ) , Use in Specific Populations ( 8 . 6 ) ] .
+Race or Ethnicity : Based on a cross - study comparison , Japanese patients had on average exposures that were higher than non - Japanese patients receiving the same dose .
+Oral clearance ( CL / F ) is on average 20 % higher in black patients than in white patients .
+Drug Interaction Studies Effect of CYP3A4 and P - glycoprotein ( P - gp ) Inhibitors on Everolimus : Everolimus exposure increased when Everolimus was coadministered with : • • ketoconazole ( a P - gp and strong CYP3A4 inhibitor ) - Cmax and AUC increased by 3 . 9 - and 15 - fold , respectively .
+• • erythromycin ( a P - gp and moderate CYP3A4 inhibitor ) - Cmax and AUC increased by 2 - and 4 . 4 - fold , respectively .
+• • verapamil ( a P - gp and moderate CYP3A4 inhibitor ) - Cmax and AUC increased by 2 . 3 - and 3 . 5 - fold , respectively .
+Effect of CYP3A4 and P - gp Inducers on Everolimus : The coadministration of Everolimus with rifampin , a P - gp and strong inducer of CYP3A4 , decreased everolimus AUC by 63 % and Cmax by 58 % compared to Everolimus alone [ see Dosage and Administration ( 2 . 12 ) ] .
+Effect of Everolimus on CYP3A4 Substrates : No clinically significant pharmacokinetic interactions were observed between Everolimus and the HMG - CoA reductase inhibitors atorvastatin ( a CYP3A4 substrate ) , pravastatin ( a non - CYP3A4 substrate ) , and simvastatin ( a CYP3A4 substrate ) .
+The coadministration of an oral dose of midazolam ( sensitive CYP3A4 substrate ) with Everolimus resulted in a 25 % increase in midazolam Cmax and a 30 % increase in midazolam AUC0 - inf .
+The coadministration of Everolimus with long acting octreotide increased octreotide Cmin by approximately 50 % .
+Effect of Everolimus on Antiepileptic Drugs ( AEDs ) : Everolimus increased pre - dose concentrations of the carbamazepine , clobazam , oxcarbazepine , and clobazam ’ s metabolite N - desmethylclobazam by about 10 % .
+Everolimus had no impact on pre - dose concentrations of AEDs that are substrates of CYP3A4 ( e . g . , clonazepam and zonisamide ) or other AEDs , including valproic acid , topiramate , phenobarbital , and phenytoin .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Administration of everolimus for up to 2 years did not indicate oncogenic potential in mice and rats up to the highest doses tested ( 0 . 9 mg / kg ) corresponding respectively to 3 . 9 and 0 . 2 times the estimated human exposure based on AUC at the recommended dose of Everolimus l0 mg orally once daily .
+Everolimus was not genotoxic in a battery of in vitro assays ( Ames mutation test in Salmonella , mutation test in L5178Y mouse lymphoma cells , and chromosome aberration assay in V79 Chinese hamster cells ) .
+Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg / kg / day ( 1500 mg / m2 / day , approximately 255 - fold the recommended dose of Everolimus 10 mg orally once daily , administered as 2 doses , 24 hours apart .
+Based on non - clinical findings , Everolimus may impair male fertility .
+In a 13 - week male fertility study in rats , testicular morphology was affected at doses of 0 . 5 mg / kg and above .
+Sperm motility , sperm count , and plasma testosterone levels were diminished in rats treated with 5 mg / kg .
+The exposures at these doses ( 52 ng • hr / mL and 414 ng • hr / mL , respectively ) were within the range of human exposure at the recommended dose of Everolimus 10 mg orally once daily ( 560 ng ● hr / mL ) and resulted in infertility in the rats at 5 mg / kg .
+Effects on male fertility occurred at AUC0 - 24 h values 10 % to 81 % lower than human exposure at the recommended dose of Everolimus 10 mg orally once daily .
+After a 10 to 13 week non - treatment period , the fertility index increased from zero ( infertility ) to 60 % .
+Oral doses of everolimus in female rats at ≥ 0 . 1 mg / kg ( approximately 4 % the human exposure based on AUC at the recommended dose of Everolimus 10 mg orally once daily ) resulted in increased incidence of pre - implantation loss , suggesting that the drug may reduce female fertility .
+13 . 2 Animal Toxicology and / or Pharmacology In juvenile rat toxicity studies , dose - related delayed attainment of developmental landmarks including delayed eye - opening , delayed reproductive development in males and females and increased latency time during the learning and memory phases were observed at doses as low as 0 . 15 mg / kg / day .
+14 CLINICAL STUDIES 14 . 3 Renal Cell Carcinoma ( RCC ) An international , multi - center , randomized , double - blind trial ( RECORD - 1 , NCT00410124 ) comparing Everolimus 10 mg once daily and placebo , both in conjunction with BSC , was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib , sorafenib , or both sequentially .
+Prior therapy with bevacizumab , interleukin 2 , or interferon - α was also permitted .
+Randomization was stratified according to prognostic score and prior anticancer therapy .
+The major efficacy outcome measure for the trial was PFS evaluated by RECIST , based on a blinded , independent , central radiologic review .
+After documented radiological progression , patients randomized to placebo could receive open - label Everolimus .
+Other outcome measures included OS .
+In total , 416 patients were randomized 2 : 1 to receive Everolimus ( n = 277 ) or placebo ( n = 139 ) .
+Demographics were well balanced between the arms ( median age 61 years ; 77 % male , 88 % white , 74 % received prior sunitinib or sorafenib , and 26 % received both sequentially ) .
+Everolimus was superior to placebo for PFS ( Table 23 and Figure 4 ) .
+The treatment effect was similar across prognostic scores and prior sorafenib and / or sunitinib .
+Final OS results yield a hazard ratio of 0 . 90 ( 95 % CI : 0 . 71 , 1 . 14 ) , with no statistically significant difference between the arms .
+Planned cross - over from placebo due to disease progression to open - label Everolimus occurred in 80 % of the 139 patients and may have confounded the OS benefit .
+Table 23 : Progression - Free Survival and Objective Response Rate by Central Radiologic Review in RCC in RECORD - 1 Everolimus N = 277 Placebo N = 139 Hazard Ratio ( 95 % CI ) p - value [ 1 ] Median Progression - free Survival ( 95 % CI ) 4 . 9 Months ( 4 . 0 , 5 . 5 ) 1 . 9 Months ( 1 . 8 , 1 . 9 ) 0 . 33 ( 0 . 25 , 0 . 43 ) < 0 . 0001 Objective Response Rate 2 % 0 % n / a [ 2 ] n / a null [ 1 ] Log - rank test stratified by prognostic score .
+[ 2 ] Not applicable .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 14 . 4 Tuberous Sclerosis Complex ( TSC ) - Associated Renal Angiomyolipoma A randomized ( 2 : 1 ) , double - blind , placebo - controlled trial ( EXIST - 2 , NCT00790400 ) of Everolimus was conducted in 118 patients with renal angiomyolipoma as a feature of TSC ( n = 113 ) or sporadic lymphangioleiomyomatosis ( n = 5 ) .
+The key eligibility requirements for this trial were at least one angiomyolipoma of ≥ 3 cm in longest diameter on CT / MRI based on local radiology assessment , no immediate indication for surgery , and age ≥ 18 years .
+Patients received Everolimus 10 mg or matching placebo orally once daily until disease progression or unacceptable toxicity .
+CT or MRI scans for disease assessment were obtained at baseline , 12 , 24 , and 48 weeks and annually thereafter .
+Clinical and photographic assessment of skin lesions were conducted at baseline and every 12 weeks thereafter until treatment discontinuation .
+The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review , which was defined as a ≥ 50 % reduction in angiomyolipoma volume , absence of new angiomyolipoma lesion ≥ 1 cm , absence of kidney volume increase ≥ 20 % , and no angiomyolipoma related bleeding of ≥ Grade 2 .
+Key supportive efficacy outcome measures were time to angiomyolipoma progression and skin lesion response rate .
+The primary analyses of efficacy outcome measures were limited to the blinded treatment period and conducted 6 months after the last patient was randomized .
+The comparative angiomyolipoma response rate analysis was stratified by use of enzyme - inducing antiepileptic drugs ( EIAEDs ) at randomization ( yes vs . no ) .
+Of the 118 patients enrolled , 79 were randomized to Everolimus and 39 to placebo .
+The median age was 31 years ( 18 to 61 years ) , 34 % were male , and 89 % were white .
+At baseline , 17 % of patients were receiving EIAEDs .
+On central radiology review at baseline , 92 % of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter , 29 % had angiomyolipomas ≥ 8 cm , 78 % had bilateral angiomyolipomas , and 97 % had skin lesions .
+The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 ( 9 to 1612 cm3 ) and 120 cm3 ( 3 to 4520 cm3 ) in the Everolimus and placebo arms , respectively .
+Forty - six ( 39 % ) patients had prior renal embolization or nephrectomy .
+The median duration of follow - up was 8 . 3 months ( 0 . 7 to 24 . 8 months ) at the time of the primary analysis .
+The renal angiomyolipoma response rate was statistically significantly higher in Everolimus - treated patients ( Table 24 ) .
+The median response duration was 5 . 3 + months ( 2 . 3 + to 19 . 6 + months ) .
+There were 3 patients in the Everolimus arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review ( defined as a ≥ 25 % increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline , appearance of a new angiomyolipoma ≥ 1 cm in longest diameter , an increase in renal volume ≥ 20 % from nadir for either kidney and to a value greater than baseline , or Grade ≥ 2 angiomyolipoma - related bleeding ) .
+The time to angiomyolipoma progression was statistically significantly longer in the Everolimus arm ( HR 0 . 08 [ 95 % CI : 0 . 02 , 0 . 37 ] ; p < 0 . 0001 ) .
+Table 24 : Angiomyolipoma Response Rate in TSC - Associated Renal Angiomyolipoma in EXIST - 2 Everolimus N = 79 Placebo N = 39 p - value Primary analysis Angiomyolipoma response rate [ 1 ] – % 95 % CI 41 . 8 ( 30 . 8 , 53 . 4 ) 0 ( 0 . 0 , 9 . 0 ) < 0 . 0001 [ 1 ] Per independent central radiology review .
+Skin lesion response rates were assessed by local investigators for 77 patients in the Everolimus arm and 37 patients in the placebo arm who presented with skin lesions at study entry .
+The skin lesion response rate was statistically significantly higher in the Everolimus arm ( 26 % vs . 0 , p = 0 . 0011 ) ; all skin lesion responses were partial responses , defined as visual improvement in 50 % to 99 % of all skin lesions durable for at least 8 weeks ( Physician ' s Global Assessment of Clinical Condition ) .
+Patients randomized to placebo were permitted to receive Everolimus at the time of angiomyolipoma progression or after the time of the primary analysis .
+After the primary analysis , patients treated with Everolimus underwent additional follow - up CT or MRI scans to assess tumor status until discontinuation of treatment or completion of 4 years of follow - up after the last patient was randomized .
+A total of 112 patients ( 79 randomized to Everolimus and 33 randomized to placebo ) received at least one dose of Everolimus .
+The median duration of Everolimus treatment was 3 . 9 years ( 0 . 5 months to 5 . 3 years ) and the median duration of follow - up was 3 . 9 years ( 0 . 9 months to 5 . 4 years ) .
+During the follow - up period after the primary analysis , 32 patients ( in addition to the 33 patients identified at the time of the primary analysis ) had an angiomyolipoma response based upon independent central radiology review .
+Among the 65 responders out of 112 patients , the median time to angiomyolipoma response was 2 . 9 months ( 2 . 6 to 33 . 8 months ) .
+Fourteen percent of the 112 patients treated with Everolimus had angiomyolipoma progression by the end of the follow - up period .
+No patient underwent a nephrectomy for angiomyolipoma progression and one patient underwent renal embolization while treated with Everolimus .
+15 REFERENCES • OSHA Hazardous Drugs .
+OSHA .
+http : / / www . osha . gov / SLTC / hazardousdrugs / index . html .
+16 HOW SUPPLIED / STORAGE AND HANDLING Everolimus Tablets 2 . 5 mg tablets are supplied as a white to off white , uniform to lightly speckled , capsule - shaped , flat - face , beveled edge tablet with “ 54 [ space ] 391 ” debossed on one side and plain on the other side .
+NDC 0054 - 0480 - 13 : Bottle of 30 Tablets NDC 0054 - 0480 - 22 : Bottle of 90 Tablets NDC 0054 - 0480 - 14 : Blister Pack of 28 Tablets 5 mg tablets are supplied as a white to off white , uniform to lightly speckled , capsule - shaped , flat - face , beveled edge tablet with “ 54 [ space ] 451 ” debossed on one side and plain on the other side .
+NDC 0054 - 0481 - 13 : Bottle of 30 Tablets NDC 0054 - 0481 - 22 : Bottle of 90 Tablets NDC 0054 - 0481 - 14 : Blister Pack of 28 Tablets 7 . 5 mg tablets are supplied as a white to off white , uniform to lightly speckled , capsule - shaped , flat - face , beveled edge tablet with “ 54 [ space ] 627 ” debossed on one side and plain on the other side .
+NDC 0054 - 0497 - 13 : Bottle of 30 Tablets NDC 0054 - 0497 - 22 : Bottle of 90 Tablets NDC 0054 - 0497 - 14 : Blister Pack of 28 Tablets 10 mg tablets are supplied as a white to off white , uniform to lightly speckled , capsule - shaped , flat - face , beveled edge tablet with “ 54 [ space ] 701 ” debossed on one side and plain on the other side .
+NDC 0054 - 0482 - 13 : Bottle of 30 Tablets NDC 0054 - 0482 - 22 : Bottle of 90 Tablets NDC 0054 - 0482 - 14 : Blister Pack of 28 Tablets Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+[ See USP Controlled Room Temperature ] .
+Store in the original container ; protect from light and moisture .
+Follow special handling and disposal procedures for anticancer pharmaceuticals . 1 17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Patient Information ) .
+Non - infectious Pneumonitis Advise patients of the risk of developing non - infectious pneumonitis and to immediately report any new or worsening respiratory symptoms to their healthcare provider [ see Warnings and Precautions ( 5 . 1 ) ] .
+Infections Advise patients that they are more susceptible to infections and that they should immediately report any signs or symptoms of infections to their healthcare provider [ see Warnings and Precautions ( 5 . 2 ) ] .
+Hypersensitivity Reactions Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction including rash , itching , hives , difficulty breathing or swallowing , flushing , chest pain , or dizziness [ seeContraindications ( 4 ) , Warnings and Precautions ( 5 . 3 ) ] .
+Angioedema with Concomitant Use of ACE Inhibitors Advise patients to avoid ACE inhibitors and to promptly contact their healthcare provider or seek emergency care for signs or symptoms of angioedema [ see Warnings and Precautions ( 5 . 4 ) ] .
+Stomatitis Advise patients of the risk of stomatitis and to use alcohol - free mouthwashes during treatment [ see Warnings and Precautions ( 5 . 5 ) ] .
+Renal Impairment Advise patients of the risk of developing kidney failure and the need to monitor their kidney function periodically during treatment [ see Warnings and Precautions ( 5 . 6 ) ] .
+Risk of Impaired Wound Healing Advise patients that Everolimus may impair wound healing .
+Advise patients to inform their healthcare provider of any planned surgical procedure [ see Warnings and Precautions ( 5 . 7 ) ] .
+Metabolic Disorders Advise patients of the risk of metabolic disorders and the need to monitor glucose and lipids periodically during therapy [ see Warnings and Precautions ( 5 . 9 ) ] .
+Myelosuppression Advise patients of the risk of myelosuppression and the need to monitor CBCs periodically during therapy [ see Warnings and Precautions ( 5 . 10 ) ] .
+Risk of Infection or Reduced Immune Response with Vaccination Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [ see Warnings and Precautions ( 5 . 11 ) ] .
+Embryo - Fetal Toxicity Advise females of reproductive potential of the potential risk to a fetus .
+Advise females of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose .
+Advise patients to inform their healthcare provider of a known or suspected pregnancy .
+Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [ seeWarnings and Precautions ( 5 . 13 ) and Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+Radiation Sensitization and Radiation Recall Radiation sensitization and recall can occur in patients treated with radiation prior to , during , or subsequent to everolimus treatment .
+Advise patients to inform their health care provider if they have had or are planning to receive radiation therapy [ see Warning and Precautions ( 5 . 12 ) ] .
+Lactation Advise women not to breastfeed during treatment with Everolimus and for 2 weeks after the last dose [ see Use in Specific Populations ( 8 . 2 ) ] .
+Infertility Advise males and females of reproductive potential of the potential risk for impaired fertility [ seeUse in Specific Populations ( 8 . 3 ) ] .
+Distributed by : Hikma Pharmaceuticals USA Inc .
+Berkeley Heights , NJ 07922 C50001080 / 02 Revised May 2022 PATIENT INFORMATION Everolimus Tablets ( e ’ ver oh ’ li mus ) Read this Patient Information leaflet that comes with Everolimus Tablets before you start taking it and each time you get a refill .
+There may be new information .
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment .
+What is the most important information I should know about Everolimus Tablets ?
+Everolimus Tablets can cause serious side effects , including : • 1 .
+You may develop lung or breathing problems .
+In some people lung or breathing problems may be severe and can lead to death .
+Tell your healthcare provider right away if you have any of these symptoms : • • New or worsening cough • • Shortness of breath • • Chest pain • • Difficulty breathing or wheezing • 2 .
+You may be more likely to develop an infection , such as pneumonia , or a bacterial , fungal or viral infection .
+Viral infections may include active hepatitis B in people who have had hepatitis B in the past ( reactivation ) .
+In some people ( including adults and children ) these infections may be severe and can lead to death .
+You may need to be treated as soon as possible .
+Tell your healthcare provider right away if you have a temperature of 100 . 5 ° F or above , chills , or do not feel well .
+Symptoms of hepatitis B or infection may include the following : • • Fever • • Chills • • Skin rash • • Joint pain and swelling • • Tiredness • • Loss of appetite • • Nausea • • Pale stools or dark urine • • Yellowing of the skin • • Pain in the upper right side of the stomach • 3 .
+Severe allergic reactions .
+Call your healthcare provider or get medical help right away if you get signs and symptoms of a severe allergic reaction including : rash , itching , hives , flushing , trouble breathing or swallowing , chest pain or dizziness .
+• 4 .
+Possible increased risk for a type of allergic reaction called angioedema , in people who take an Angiotensin - Converting Enzyme ( ACE ) inhibitor medicine during treatment with Everolimus Tablets .
+Talk with your healthcare provider before taking Everolimus Tablets if you are not sure if you take an ACE inhibitor medicine .
+Get medical help right away if you have trouble breathing or develop swelling of your tongue , mouth , or throat during treatment with Everolimus Tablets .
+• 5 .
+Mouth ulcers and sores .
+Mouth ulcers and sores are common during treatment with everolimus but can also be severe .
+When you start treatment with everolimus , your healthcare provider may tell you to also start a prescription mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity .
+Follow your healthcare provider ’ s instructions on how to use this prescription mouthwash .
+If you develop pain , discomfort , or open sores in your mouth , tell your healthcare provider .
+Your healthcare provider may tell you to re - start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol , peroxide , iodine , or thyme .
+• 6 .
+You may develop kidney failure .
+In some people this may be severe and can lead to death .
+Your healthcare provider should do tests to check your kidney function before and during your treatment with Everolimus Tablets .
+If you have any of the serious side effects listed above , you may need to stop taking Everolimus Tablets for a while or use a lower dose .
+Follow your healthcare provider ’ s instructions .
+What are Everolimus Tablets ?
+Everolimus Tablets are a prescription medicine used to treat : • • Adults with advanced kidney cancer ( renal cell carcinoma or RCC ) when certain other medicines have not worked .
+• • people with the following types of tumors that are seen with a genetic condition called tuberous sclerosis complex ( TSC ) : • oadults with a kidney tumor called angiomyolipoma , when their kidney tumor does not require surgery right away .
+It is not known if Everolimus Tablets are safe and effective in children to treat : • • kidney cancer ( renal cell carcinoma ) • • a kidney tumor called angiomyolipoma , that can happen in children with a genetic condition called tuberous sclerosis complex ( TSC ) .
+Do not take Everolimus Tablets if you have had a severe allergic reaction to everolimus .
+Talk to your healthcare provider before taking this medicine if you are allergic to : • • a medicine that contains sirolimus • • a medicine that contains temsirolimus Ask your healthcare provider if you do not know .
+Before taking Everolimus Tablets , tell your healthcare provider about all of your medical conditions , including if you : • • Have or have had kidney problems • • Have or have had liver problems • • Have diabetes or high blood sugar • • Have high blood cholesterol levels • • Have any infections • • Previously had hepatitis B • • Are scheduled to receive any vaccinations .
+You should not receive a “ live vaccine ” or be around people who have recently received a “ live vaccine ” during your treatment with Everolimus Tablets .
+If you are not sure about the type of immunization or vaccine , ask your healthcare provider .
+• • Are pregnant , can become pregnant , or have a partner who can become pregnant .
+Everolimus Tablets can cause harm to your unborn baby .
+Females who are able to become pregnant : • o Your healthcare provider will give you a pregnancy test before you start treatment with Everolimus Tablets .
+• o You should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets .
+• Males with a female partner , you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets .
+• Talk to your healthcare provider about birth control methods that may be right for you during this time .
+If you become pregnant or think you are pregnant , tell your healthcare provider right away .
+• • Are breastfeeding or plan to breastfeed .
+It is not known if Everolimus passes into your breast milk .
+Do not breastfeed during treatment and for 2 weeks after your last dose of Everolimus Tablets .
+• • Are planning to have surgery or if you have had a recent surgery .
+You should stop taking Everolimus Tablets at least 1 week before planned surgery .
+See “ Whatare the possible side effects of Everolimus Tablets ? ”
+• • Have received radiation therapy or are planning to receive radiation therapy in the future .
+See “ What are the possible side effects of Everolimus Tablets ?
+Tell your healthcare provider about all of the medicines you take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+Everolimus Tablets may affect the way other medicines work , and other medicines can affect how Everolimus Tablets work .
+Taking Everolimus Tablets with other medicines can cause serious side effects .
+Know the medicines you take .
+Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine .
+Especially tell your healthcare provider if you take : • • St . John ’ s Wort ( Hypericum perforatum ) • • Medicine for : • oFungal infections • oBacterial infections • oTuberculosis • oSeizures • oHIV - AIDS • oHeart conditions or high blood pressure • • Medicines that weaken your immune system ( your body ’ s ability to fight infections and other problems ) Ask your healthcare provider or pharmacist if you are not sure if your medicine is one of those taken for the conditions listed above .
+If you are taking any medicines for the conditions listed above , your healthcare provider might need to prescribe a different medicine or your dose of Everolimus Tablets may need to be changed .
+You should also tell your healthcare provider before you start taking any new medicine .
+How should I take Everolimus Tablets ?
+• • Your healthcare provider will prescribe the dose of Everolimus Tablets that is right for you .
+• • Take Everolimus Tablets exactly as your healthcare provider tells you to .
+• • Your healthcare provider may change your dose of Everolimus Tablets or tell you to temporarily interrupt dosing , if needed .
+• • Use scissors to open the blister pack .
+• • Take Everolimus Tablets 1 time each day at about the same time .
+• • Take Everolimus Tablets the same way each time , either with food or without food .
+• • If you take too much Everolimus Tablets contact your healthcare provider or go to the nearest hospital emergency room right away .
+Take the bottle or blister pack of Everolimus Tablets with you .
+• • If you miss a dose of Everolimus Tablets , you may take it if it is less than 6 hours after the time you normally take it .
+If it is more than 6 hours after you normally take your Everolimus Tablets , skip the dose for that day .
+The next day , take Everolimus Tablets at your usual time .
+Do not take 2 doses to make up for a missed dose .
+If you are not sure about what to do , call your healthcare provider .
+• • You should have blood tests before you start Everolimus Tablets and as needed during your treatment .
+These will include tests to check your blood cell count , kidney and liver function , cholesterol , and blood sugar levels .
+• • Swallow Everolimus Tablets whole with a glass of water .
+Do not take any tablet that is broken or crushed .
+What should I avoid while taking Everolimus Tablets ?
+You should not drink grapefruit juice or eat grapefruit during your treatment with Everolimus Tablets .
+It may make the amount of Everolimus in your blood increase to a harmful level .
+What are the possible side effects of Everolimus Tablets ?
+Everolimus Tablets can cause serious side effects , including : • • See “ What is the most important information I should know about Everolimus Tablets ? ”
+for more information .
+• • Risk of wound healing problems .
+Wounds may not heal properly during Everolimus Tablets treatment .
+Tell your healthcare provider if you plan to have any surgery before starting or during treatment with Everolimus Tablets .
+• oYou should stop taking Everolimus Tablets at least 1 week before planned surgery .
+• oYour healthcare provider should tell you when you may start taking Everolimus Tablets again after surgery .
+• • Increased blood sugar and fat ( cholesterol and triglyceride ) levels in the blood .
+Your healthcare provider should do blood tests to check your fasting blood sugar , cholesterol , and triglyceride levels in the blood before you start and during treatment with Everolimus Tablets .
+• • Decreased blood cell counts .
+Everolimus Tablets can cause you to have decreased red blood cells , white blood cells , and platelets .
+Your healthcare provider should do blood tests to check your blood cell counts before you start and during treatment with Everolimus Tablets .
+• • Worsening side effects from radiation treatment , that can sometimes be severe .
+Tell your healthcare provider if you have had or are planning to receive radiation therapy .
+The most common side effects of Everolimus Tablets in people with advanced kidney cancer include : • • Infections • • Rash • • Feeling weak or tired • • Diarrhea • • Swelling of arms , hands , feet , ankles , face , or other parts of the body • • Stomach - area ( abdominal ) pain • • Nausea • • Fever • • Cough • • Headache • • Decreased appetite The most common side effects of Everolimus Tablets in people who have renal angiomyolipoma with TSC include respiratory tract infections .
+Other side effects that may occur with Everolimus Tablets : • • Absence of menstrual periods ( menstruation ) .
+You may miss 1 or more menstrual periods .
+Tell your healthcare provider if this happens .
+• • Everolimus Tablets may affect fertility in females and may affect your ability to become pregnant .
+Talk to your healthcare provider if this is a concern for you .
+• • Everolimus Tablets may affect fertility in males and may affect your ability to father a child .
+Talk to your healthcare provider if this is a concern for you .
+Tell your healthcare provider if you have any side effect that bothers you or does not go away .
+These are not all the possible side effects of Everolimus Tablets .
+For more information , ask your healthcare provider or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store Everolimus Tablets ?
+• • Store Everolimus Tablets at room temperature , between 68 ° to 77 ° F ( 20 ° to 25 ° C ) .
+• • Keep Everolimus Tablets in the container it comes in .
+• • Open the blister pack just before taking Everolimus Tablets .
+• • Keep Everolimus Tablets dry and away from light .
+• • Do not use Everolimus Tablets that is out of date or no longer needed .
+Keep Everolimus Tablets and all medicines out of the reach of children .
+General information about the safe and effective use of Everolimus Tablets .
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet .
+Do not use Everolimus Tablets for a condition for which it was not prescribed .
+Do not give Everolimus Tablets to other people , even if they have the same problem you have .
+It may harm them .
+This leaflet summarizes the most important information about Everolimus Tablets .
+If you would like more information , talk with your healthcare provider .
+You can ask your healthcare provider or pharmacist for information written for healthcare professionals .
+What are the ingredients in Everolimus Tablets ?
+Active ingredient : everolimus .
+Inactive ingredients : anhydrous lactose , butylated hydroxytoluene , crospovidone , hypromellose , and magnesium stearate .
+This Patient Information has been approved by the U . S . Food and Drug Administration .
+The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc .
+For more information call 1 - 800 - 962 - 8364 .
+Distributed by : Hikma Pharmaceuticals USA Inc .
+Berkeley Heights , NJ 07922 C50001080 / 02 Revised May 2022 PACKAGE / LABEL PRINCIPAL DISPLAY PANEL Everolimus Tablets 2 . 5 mg 30 Tablets NDC 0054 - 0480 - 13 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets 2 . 5 mg 28 Unit - Dose Tablets NDC 0054 - 0480 - 14 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets 5 mg 30 Tablets NDC 0054 - 0481 - 13 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets 5 mg 28 Unit - Dose Tablets NDC 0054 - 0481 - 14 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets 7 . 5 mg 30 Tablets NDC 0054 - 0497 - 13 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets 7 . 5 mg 28 Unit - Dose Tablets NDC 0054 - 0497 - 14 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets , 10 mg 30 Tablets NDC 0054 - 0482 - 13 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel Everolimus Tablets , 10 mg 28 Unit - Dose Tablets NDC 0054 - 0482 - 14 , Rx only [ MULTIMEDIA ] [ MULTIMEDIA ]

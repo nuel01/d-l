@@ -1,0 +1,80 @@
+Dipyridamole is a coronary vasodilator described as 2 , 6 bis - ( diethanolamino ) - 4 , 8 dipiperidino - pyrimido - ( 5 , 4 - d ) pyrimidine .
+The structural formula is : [ MULTIMEDIA ] C24H40N8O4 MW 504 . 63 Dipyridamole Injection , USP is a sterile , odorless , pale yellow liquid which can be diluted in sodium chloride injection or dextrose injection for intravenous administration .
+Each mL contains 5 mg dipyridamole , USP , 50 mg polyethylene glycol 600 and 2 mg tartaric acid in Water for Injection , USP .
+pH 2 . 2 - 3 . 2 ; hydrochloric acid added for pH adjustment .
+[ MULTIMEDIA ] Clinical Pharmacology In a study of 10 patients with angiographically normal or minimally stenosed ( less than 25 % luminal diameter narrowing ) coronary vessels , Dipyridamole Injection in a dose of 0 . 56 mg / kg infused over 4 minutes resulted in an average fivefold increase in coronary blood flow velocity compared to resting coronary flow velocity ( range 3 . 8 to 7 times resting velocity ) .
+The mean time to peak flow velocity was 6 . 5 minutes from the start of the 4 - minute infusion ( range 2 . 5 to 8 . 7 minutes ) .
+Cardiovascular responses to the intravenous administration of Dipyridamole Injection when given to patients in the supine position include a mild but significant increase in heart rate of approximately 20 % and mild but significant decreases in both systolic and diastolic blood pressure of approximately 2 - 8 % , with vital signs returning to baseline values in approximately 30 minutes .
+Mechanism of Action Dipyridamole is a coronary vasodilator in man .
+The mechanism of vasodilation has not been fully elucidated , but may result from inhibition of uptake of adenosine , an important mediator of coronary vasodilation .
+The vasodilatory effects of dipyridamole are abolished by administration of the adenosine receptor antagonist theophylline .
+How dipyridamole - induced vasodilation leads to abnormalities in thallium distribution and ventricular function is also uncertain but presumably represents a “ steal ” phenomenon in which relatively intact vessels dilate and sustain enhanced flow , leaving reduced pressure and flow across areas of hemodynamically important coronary vascular constriction .
+Pharmacokinetics and Metabolism Plasma dipyridamole concentrations decline in a triexponential fashion following intravenous infusion of dipyridamole , with halflives averaging 3 - 12 minutes , 33 - 62 minutes and 11 . 6 - 15 hours .
+Two minutes following a 0 . 568 mg / kg dose of Dipyridamole Injection administered as a 4 - minute infusion , the mean dipyridamole serum concentration is 4 . 6 ± 1 . 3 mcg / mL .
+The average plasma protein binding of dipyridamole is approximately 99 % , primarily toa1 - glycoprotein .
+Dipyridamole is metabolized in the liver to the glucuronic acid conjugate and excreted with the bile .
+The average total body clearance is 2 . 3 - 3 . 5 mL / min / kg , with an apparent volume of distribution at steady state of 1 - 2 . 5 L / kg and a central apparent volume of 3 - 5 liters .
+Indications and Usage Dipyridamole Injection is indicated as an alternative to exercise in thallium myocardial perfusion imaging for the evaluation of coronary artery disease in patients who cannot exercise adequately .
+In a study of about 1100 patients who underwent coronary arteriography and Dipyridamole Injection assisted thallium imaging , the results of both tests were interpreted blindly and the sensitivity and specificity of the dipyridamole thallium study in predicting the angiographic outcome were calculated .
+The sensitivity of the dipyridamole test ( true positive dipyridamole divided by the total number of patients with positive angiography ) was about 85 % .
+The specificity ( true negative divided by the number of patients with negative angiograms ) was about 50 % .
+In a subset of patients who had exercise thallium imaging as well as dipyridamole thallium imaging , sensitivity and specificity of the two tests were almost identical .
+Contraindications Hypersensitivity to dipyridamole .
+Warnings Serious adverse reactions associated with the administration of intravenous Dipyridamole Injection have included cardiac death , fatal and non - fatal myocardial infarction , ventricular fibrillation , symptomatic ventricular tachycardia , stroke , transient cerebral ischemia , seizures , anaphylactoid reaction and bronchospasm .
+There have been reported cases of asystole , sinus node arrest , sinus node depression and conduction block .
+Patients with abnormalities of cardiac impulse formation / conduction or severe coronary artery disease may be at increased risk for these events .
+In a study of 3911 patients given intravenous dipyridamole as an adjunct to thallium myocardial perfusion imaging , two types of serious adverse events were reported : 1 .
+four cases of myocardial infarction ( 0 . 1 % ) , two fatal ( 0 . 05 % ) and two non - fatal ( 0 . 05 % ) and 2 .
+six cases of severe bronchospasm ( 0 . 2 % ) .
+Although the incidence of these serious adverse events was small ( 0 . 3 % , 10 of 3911 ) , the potential clinical information to be gained through use of intravenous dipyridamole thallium imaging ( see INDICATIONS AND USAGE noting the rate of false positive and false negative results ) must be weighed against the risk to the patient .
+Patients with a history of unstable angina may be at a greater risk for severe myocardial ischemia .
+Patients with a history of asthma may be at a greater risk for bronchospasm during Dipyridamole Injection use .
+When thallium myocardial perfusion imaging is performed with intravenous dipyridamole , parenteral aminophylline should be readily available for relieving adverse events such as bronchospasm or chest pain .
+Vital signs should be monitored during , and for 10 - 15 minutes following , the intravenous infusion of dipyridamole and an electrocardiographic tracing should be obtained using at least one chest lead .
+Should severe chest pain or bronchospasm occur , parenteral aminophylline may be administered by slow intravenous injection ( 50 - 100 mg over 30 - 60 seconds ) in doses ranging from 50 to 250 mg .
+In the case of severe hypotension , the patient should be placed in a supine position with the head tilted down if necessary , before administration of parenteral aminophylline .
+If 250 mg of aminophylline does not relieve chest pain symptoms within a few minutes , sublingual nitroglycerin may be administered .
+If chest pain continues despite use of aminophylline and nitroglycerin , the possibility of myocardial infarction should be considered .
+If the clinical condition of a patient with an adverse event permits a one - minute delay in the administration of parenteral aminophylline , thallium - 201 may be injected and allowed to circulate for one minute before the injection of aminophylline .
+This will allow initial thallium perfusion imaging to be performed before reversal of the pharmacologic effects of dipyridamole on the coronary circulation .
+Precautions See WARNINGS .
+Drug Interactions Oral maintenance theophylline and other xanthine derivatives such as caffeine may abolish the coronary vasodilatation induced by intravenous Dipyridamole Injection administration .
+This could lead to a false negative thallium imaging result ( see CLINICAL PHARMACOLOGY – Mechanism of Action ) .
+Myasthenia gravis patients receiving therapy with cholinesterase inhibitors may experience worsening of their disease in the presence of dipyridamole .
+Carcinogenesis , Mutagenesis , Impairment of Fertility In studies in which dipyridamole was administered in the feed at doses of up to 75 mg / kg / day ( 9 . 4 times1 the maximum recommended daily human oral dose ) in mice ( up to 128 weeks in males and up to 142 weeks in females ) and rats ( up to 111 weeks in males and females ) , there was no evidence of drug - related carcinogenesis .
+Mutagenicity tests of dipyridamole with bacterial and mammalian cell systems were negative .
+There was no evidence of impaired fertility when dipyridamole was administered to male and female rats at oral doses up to 500 mg / kg / day ( 63 times 1 .
+the maximum recommended daily human oral dose ) .
+A significant reduction in number of corpora lutea with consequent reduction in implantations and live fetuses was , however , observed at 1250 mg / kg / day .
+1 Calculation based on assumed body weight of 50 kg Pregnancy Teratogenic Effects – Pregnancy Category B Reproduction studies performed in mice and rats at daily oral doses of up to 125 mg / kg ( 15 . 6 times1 the maximum recommended daily human oral dose ) and in rabbits at daily oral doses of up to 20 mg / kg ( 2 . 5 times1 the maximum recommended daily human oral dose ) have revealed no evidence of impaired embryonic development due to dipyridamole .
+There are , however , no adequate and wellcontrolled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human responses , this drug should be used during pregnancy only if clearly needed .
+1 Calculation based on assumed body weight of 50 kg Nursing MothersDipyridamole is excreted in human milk .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Adverse Reactions Adverse reaction information concerning intravenous Dipyridamole Injection is derived from a study of 3911 patients in which intravenous dipyridamole was used as an adjunct to thallium myocardial perfusion imaging and from spontaneous reports of adverse reactions and the published literature .
+Serious adverse events ( cardiac death , fatal and non - fatal myocardial infarction , ventricular fibrillation , asystole , sinus node arrest , symptomatic ventricular tachycardia , stroke , transient cerebral ischemia , seizures , anaphylactoid reaction and bronchospasm ) are described above ( seeWARNINGS ) .
+In a study of 3911 patients , the most frequent adverse reactions were : chest pain / angina pectoris ( 19 . 7 % ) , electrocardiographic changes ( most commonly ST - T changes ) ( 15 . 9 % ) , headache ( 12 . 2 % ) and dizziness ( 11 . 8 % ) .
+Adverse reactions occurring in greater than 1 % of the patients in the study are shown in the following table : [ MULTIMEDIA ] Less common adverse reactions occurring in 1 % or less of the patients within the study included : Cardiovascular System Electrocardiographic abnormalities unspecified ( 0 . 8 % ) , arrhythmia unspecified ( 0 . 6 % ) , palpitation ( 0 . 3 % ) , ventricular tachycardia ( 0 . 2 % - see WARNINGS ) , bradycardia ( 0 . 2 % ) , myocardial infarction ( 0 . 1 % – see WARNINGS ) , AV block ( 0 . 1 % ) , syncope ( 0 . 1 % ) , orthostatic hypotension ( 0 . 1 % ) , atrial fibrillation ( 0 . 1 % ) , supraventricular tachycardia ( 0 . 1 % ) , ventricular arrhythmia unspecified ( 0 . 03 % – see WARNINGS ) , heart block unspecified ( 0 . 03 % ) , cardiomyopathy ( 0 . 03 % ) , edema ( 0 . 03 % ) .
+Central and Peripheral Nervous System Hypothesia ( 0 . 5 % ) , hypertonia ( 0 . 3 % ) , nervousness / anxiety ( 0 . 2 % ) , tremor ( 0 . 1 % ) , abnormal coordination ( 0 . 03 % ) , somnolence ( 0 . 03 % ) , dysphonia ( 0 . 03 % ) , migraine ( 0 . 03 % ) , vertigo ( 0 . 03 % ) .
+Gastrointestinal System Dyspepsia ( 1 % ) , dry mouth ( 0 . 8 % ) , abdominal pain ( 0 . 7 % ) , flatulence ( 0 . 6 % ) , vomiting ( 0 . 4 % ) , eructation ( 0 . 1 % ) , dysphagia ( 0 . 03 % ) , tenesmus ( 0 . 03 % ) , appetite increase ( 0 . 03 % ) .
+Respiratory System Pharyngitis ( 0 . 3 % ) , bronchospasm ( 0 . 2 % – see WARNINGS ) , hyperventilation ( 0 . 1 % ) , rhinitis ( 0 . 1 % ) , coughing ( 0 . 03 % ) , pleural pain ( 0 . 03 % ) .
+Other Myalgia ( 0 . 9 % ) , back pain ( 0 . 6 % ) , injection site reaction unspecified ( 0 . 4 % ) , diaphoresis ( 0 . 4 % ) , asthenia ( 0 . 3 % ) , malaise ( 0 . 3 % ) , arthralgia ( 0 . 3 % ) , injection site pain ( 0 . 1 % ) , rigor ( 0 . 1 % ) , earache ( 0 . 1 % ) , tinnitus ( 0 . 1 % ) , vision abnormalities unspecified ( 0 . 1 % ) , dysgeusia ( 0 . 1 % ) , thirst ( 0 . 03 % ) , depersonalization ( 0 . 03 % ) , eye pain ( 0 . 03 % ) , renal pain ( 0 . 03 % ) , perineal pain ( 0 . 03 % ) , breast pain ( 0 . 03 % ) , intermittent claudication ( 0 . 03 % ) , leg cramping ( 0 . 03 % ) .
+In additional postmarketing experience , there have been rare reports of allergic reaction including urticaria , pruritus , dermatitis and rash .
+[ MULTIMEDIA ] Overdosage No cases of overdosage in humans have been reported .
+It is unlikely that overdosage will occur because of the nature of use ( i . e . , single intravenous administration in controlled settings ) .
+See WARNINGS .
+Dosage and Administration The dose of intravenous Dipyridamole Injection as an adjunct to thallium myocardial perfusion imaging should be adjusted according to the weight of the patient .
+The recommended dose is 0 . 142 mg / kg / min ( 0 . 57 mg / kg total ) infused over 4 minutes .
+Although the maximum tolerated dose has not been determined , clinical experience suggests that a total dose beyond 60 mg is not needed for any patient .
+Prior to intravenous administration , Dipyridamole Injection should be diluted in at least a 1 : 2 ratio with sodium chloride injection 0 . 45 % , sodium chloride injection 0 . 9 % or dextrose injection 5 % for a total volume of approximately 20 to 50 mL .
+Infusion of undiluted dipyridamole may cause local irritation .
+Thallium - 201 should be injected within 5 minutes following the 4 - minute infusion of dipyridamole .
+Do not mix Dipyridamole Injection with other drugs in the same syringe or infusion container .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+How Supplied Dipyridamole Injection , USP is available in : 10 mL ( 50 mg / 10 mL ) SINGLE DOSE vial packaged in 5 s ( NDC 0641 - 2569 - 44 ) Storage PROTECT FROM LIGHT : Keep covered in carton until time of use .
+Store between 15 ° to 25 ° C ( 59 ° to 77 ° F ) .
+Avoid freezing .
+To report SUSPECTED ADVERSE REACTIONS , contact Hikma Pharmaceuticals USA Inc . at 1 - 877 - 845 - 0689 , or the FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+For Product Inquiry call 1 - 877 - 845 - 0689 .
+Manufactured by : Hikma Pharmaceuticals USA Inc .
+Berkeley Heights , NJ 07922 Revised December 2019 462 - 341 - 03 Product repackaged by : Henry Schein , Inc . , Bastian , VA 24314 From Original Manufacturer / Distributor ' s NDC and Unit of Sale To Henry Schein Repackaged Product NDC and Unit of Sale Total Strength / Total Volume ( Concentration ) per unit NDC 0641 - 2569 - 44 10 mL SINGLE DOSE vials packaged in 5 s NDC 0404 - 9852 - 10 1 10 mL SINGLE DOSE vial in a bag ( Vial bears NDC 0641 - 2569 - 41 ) 50 mg / 10 mL Sample Package Label [ MULTIMEDIA ] [ MULTIMEDIA ]

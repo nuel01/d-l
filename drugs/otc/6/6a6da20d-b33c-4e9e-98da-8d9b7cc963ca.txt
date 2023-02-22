@@ -1,0 +1,175 @@
+DESCRIPTION This kit formulation consists of two nonradioactive vials : Vial A contains bicisate dihydrochloride ( N , N ' - 1 , 2 - ethylenediylbis - L - cysteine diethyl ester dihydrochloride ) and a reducing agent as a lyophilized solid and vial B contains a buffer solution .
+Both vials are sterile and non - pyrogenic .
+Vial A – Bicisate dihydrochloride ( ECD • 2 HCl ) 0 . 9 mg Edetate disodium , dihydrate 0 . 36 mg Mannitol 24 mg Stannous chloride , dihydrate , theoretical ( SnCl2 • 2H2O ) 72 µg Stannous chloride , dihydrate , minimum ( SnCl2 • 2H2O ) 12 µg Total Tin , ( stannous and stannic ) , dihydrate ( as SnCl2 • 2H2O ) 83 µg The contents of vial A are lyophilized and stored under nitrogen .
+The pH of the solution before lyophilization is 2 . 7 ± 0 . 25 .
+This vial is stored at 15 - 25 ° C . Protect from light .
+Vial B – Sodium phosphate dibasic heptahydrate 4 . 1 mg Sodium phosphate monobasic monohydrate 0 . 46 mg Water for Injection qs 1 mL The contents of vial B are stored under air .
+The pH of the solution is 7 . 6 ± 0 . 4 .
+This vial is stored at 15 - 25 ° C .
+This drug is administered by intravenous injection for diagnostic use after reconstitution with sterile , non - pyrogenic , oxidant - free Sodium Pertechnetate Tc99m Injection .
+The precise structure of the Technetium complex is [ N , N ' - ethylenedi - L - cysteinato ( 3 - ) ] oxo [ 99 mTc ] technetium ( V ) , diethyl ester .
+PHYSICAL CHARACTERISTICS Technetium Tc99m decays by isomeric transition with a physical half - life of 6 . 02 hrs1 .
+Photons useful for the detection and imaging studies are listed in Table 1 .
+Table 1 .
+Principle Radiation Emission DataRadiation Mean % / Disintegration Mean Energy ( KeV ) 1 Kocher , David C . , " Radioactive Decay Data Tables " , DOE / TIC 11026 , 108 ( 1981 ) .
+Gamma - 2 89 . 07 140 . 5 External Radiation The specific gamma ray constant for Tc99m is 5 . 4 microcoulombs / kg - MBq - hr ( 0 . 78 R / mCi - hr ) at 1 cm .
+The first half value layer is 0 . 017 cm of lead ( Pb ) .
+Relative attenuation of the radiation emitted by this radionuclide results from the interposition of various thicknesses of Pb .
+The corresponding attenuation is shown in Table 2 .
+To facilitate control of the radiation exposure from MBq ( mCi ) amounts of this radionuclide , a 0 . 25 cm thickness of Pb will attenuate the radiation by a factor of 1 , 000 .
+Table 2 .
+Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for the physical decay of this radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 3 .
+Table 3 .
+Physical Decay Chart ; Technetium Tc99m Half - Life 6 . 02 HoursHours Fraction Remaining Hours Fraction Remaining * Calibration Time 0 * 1 . 000 7 . 447 1 . 891 8 . 398 2 . 794 9 . 355 3 . 708 10 . 316 4 . 631 11 . 282 5 . 562 12 . 251 6 . 501 CLINICAL PHARMACOLOGY General Neurolite ® , Kit for the Preparation of Technetium Tc99m Bicisate for Injection forms a stable , lipophilic complex which can cross the blood brain barrier .
+Technetium Tc99m Bicisate crosses intact cell membranes and the intact blood brain barrier by passive diffusion .
+Five percent of the injected dose remains in the blood at one hour .
+The amount of Technetium Tc99m Bicisate in the brain is stable until about 6 hours .
+After background clearance , images of the brain can be obtained from 10 minutes to 6 hours after injection .
+Optimal images occur 30 - 60 minutes after injection .
+Technetium Tc99m Bicisate is cleared primarily by the kidneys .
+Pharmacokinetics In a study in 16 normals ( 13 men and 3 women , mean age of 31 ± 10 years ; mean weight of 72 ± 11 kg ) , the pharmacokinetic profile in blood best fits a three compartment model with half - lives of 43 seconds , 49 . 5 minutes and 533 minutes .
+The highest concentration of radioactivity measured in blood was found at 0 . 5 minutes after intravenous injection and was 13 . 9 % of the injected dose .
+Technetium Tc99m Bicisate and its major metabolites are not protein - bound .
+Metabolism Technetium Tc99m Bicisate is metabolized by endogenous enzymes to the mono - and di - acids of Technetium Tc99m Bicisate that can be detected in blood and urine .
+No studies have been performed to compare the concentration of Technetium Tc99m Bicisate or its metabolites in normal , ischemic and infarcted cells .
+Technetium Tc99m Bicisate is excreted primarily through the kidneys .
+Within two hours , 50 % of the injected dose is excreted and by 24 hours , 74 % is found in urine .
+It is not known whether the parent drug molecule or its metabolites are dialyzable .
+Fecal excretion accounts for 12 . 5 % of the injected dose after 48 hours .
+Pharmacodynamics Localization of the parent compound in the brain in part depends upon both perfusion of the region and uptake of Technetium Tc99m Bicisate by the cell .
+Once in the brain cells , the parent compound is metabolized to polar , less diffusible compounds .
+Studies in 21 normal volunteers show cellular uptake of 4 . 8 - 6 . 5 % of the injected dose at five minutes after injection .
+The degree of cell function or viability needed for uptake is not known .
+The degree of cell function or viability needed for metabolism of the parent compound to the less diffusible compounds has not been determined .
+The likelihood that the metabolic pathway is damaged by ischemia is not known .
+Whether or not and to what extent uptake correlates with viability or function is not known .
+The pharmacodynamics of Neurolite have not been evaluated for differences associated with age , gender , weight and liver or renal impairment .
+It is not known whether dosage adjustments for these factors are needed .
+Clinical Trials Two clinical trials were performed in a total of 359 subjects ( 273 with stroke , 86 normal ) .
+Of these 56 % were men and 44 % were women .
+The mean age was 60 . 2 years ( range 23 to 92 years ) .
+Subjects were 87 . 2 % Caucasian , 8 . 4 % Black , 2 . 2 % Hispanic , 1 . 7 % Oriental and 0 . 6 % other .
+Eligible patients had a confirmed stroke .
+Patients with other brain lesions were not evaluated .
+Subjects received Neurolite ( mean dose range 10 - 30 mCi ) and underwent SPECT imaging and either CT or MRI scans within 0 - 30 days of the onset of signs and symptoms of stroke .
+CT or MRI and the administration of Neurolite occurred at different and variable times after the onset of a stroke .
+The effect of the timing on the accuracy of the images cannot be evaluated .
+The Neurolite scan results were blindly compared to unblinded CT / MRI results , the short standardized neurologic examination ( SSNE ) and the final diagnosis ( e . g . , the overall combined clinical impression with CT / MRI and SSNE ) .
+In these studies , at least one of three blinded readers made a diagnosis of stroke in 190 ( 85 % ) of the Neurolite SPECT studies and in 238 ( 88 % ) CT / MRI studies .
+The Neurolite and CT / MRI imaging results versus the SSNE and final diagnosis were comparable .
+Neurolite had 11 false positive and 34 false negatives .
+CT / MRI had 0 false positive and 31 false negatives .
+Both Neurolite and CT / MRI missed strokes ( true positives ) that were identified by the other modality .
+The majority of the false negatives in either modality were within 15 days of the clinical stroke .
+The trials were not designed to determine when Neurolite or CT / MRI studies could become positive in relationship to the time of the stroke .
+The relevance of the Neurolite scan results to the prediction of neurologic function or brain cell viability is not known .
+Also , not known is the ability of the Neurolite findings to distinguish between a stroke and pre - existing CNS lesions .
+Neurolite should not be used for these purposes .
+( See Pharmacodynamics Section ) .
+INDICATIONS Neurolite single photon emission computerized tomography ( SPECT ) is indicated as an adjunct to conventional CT or MRI imaging in the localization of stroke in patients in whom stroke has already been diagnosed .
+Neurolite is not indicated for assessment of functional viability of brain tissue .
+Also , Neurolite is not indicated for distinguishing between stroke and other brain lesions .
+CONTRAINDICATIONS None known .
+WARNINGS None known .
+PRECAUTIONS General USE WITH CAUTION IN PATIENTS WITH RENAL OR HEPATIC IMPAIRMENT .
+TECHNETIUM Tc99m BICISATE IS ELIMINATED PRIMARILY BY RENAL EXCRETION .
+WHETHER TECHNETIUM Tc99m BICISATE IS DIALYZABLE IS NOT KNOWN .
+DOSE ADJUSTMENTS IN PATIENTS WITH RENAL OR HEPATIC IMPAIRMENT HAVE NOT BEEN STUDIED .
+Patients should be encouraged to drink fluids and to void frequently during the 2 - 6 hours immediately after injection to minimize radiation dose to the bladder and other target organs .
+Contents of the vials are intended only for use in the preparation of Technetium Tc99m Bicisate and are not to be administered directly to the patient without first undergoing the preparation procedure .
+The contents of each vial are sterile and non - pyrogenic .
+To maintain sterility , aseptic technique must be used during all operations in the manipulations and administration of Neurolite .
+Technetium Tc99m Bicisate should be used within six hours of the time of preparation .
+As with any other radioactive material , appropriate shielding should be used to avoid unnecessary radiation exposure to the patient , occupational workers , and other people .
+Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies have not been conducted to evaluate carcinogenic potential or effects on fertility .
+When tested in vitro , Neurolite prepared with decayed generator eluate induced unscheduled DNA synthesis in rat hepatocytes and caused an increased frequency of sister chromatid exchanges in CHO cells ; but , it did not induce chromosome aberrations in human lymphocytes or cause gene mutations in the Ames test or in a CHO / HGPRT test .
+Unreacted bicisate dihydrochloride increased the apparent rate of gene mutation of the TA 97 a strain of S . typhimurium in the Ames test ; but , it did not demonstrate clastogenic activity in an in vivo micronucleus assay in mice .
+Pregnancy : Teratogenic Effects Animal reproduction studies have not been conducted with Technetium Tc99m Bicisate .
+It is also not known whether Technetium Tc99m Bicisate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Therefore , Technetium Tc99m Bicisate should not be administered to a pregnant woman unless the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Technetium Tc99m Pertechnetate can be excreted in human milk .
+Therefore , formula should be substituted for breast milk until the technetium has cleared from the body of the nursing woman .
+Pediatric Use Safety and effectiveness in the pediatric population has not been established .
+Geriatric Use Of 808 patients in clinical studies of NEUROLITE ® , 421 patients were 65 or older and 190 were 75 or older .
+Based on the evaluation of the frequency of adverse events and review of vital signs and laboratory data , no overall differences in safety were observed between these subjects and younger subjects .
+Although reported clinical experience has not identified differences in response between elderly and younger patients , greater sensitivity of some older individuals cannot be ruled out .
+NEUROLITE ® is known to be substantially excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to assess renal function prior to administration .
+ADVERSE REACTIONS In clinical trials , Neurolite has been administered to 1063 subjects ( 255 normals , 808 patients ) .
+Of these , 566 ( 53 % ) were men and 494 ( 47 % ) were women .
+The mean age was 58 years ( range 17 to 92 years ) .
+In the 808 patients , who had experienced neurologic events , there were 11 ( 1 . 4 % ) deaths , none of which were clearly attributed to Neurolite .
+A total of 60 subjects experienced adverse reactions ; the adverse reaction rates were comparable in the < 65 year , and the > 65 year age groups .
+The following adverse effects were observed in ≤ 1 % of the subjects : headache , dizziness , seizure , agitation / anxiety , malaise / somnolence , parosmia , hallucinations , rash , nausea , syncope , cardiac failure , hypertension , angina , and apnea / cyanosis .
+In clinical trials of 197 patients , there were inconsistent changes in the serum calcium and phosphate levels .
+The cause of the changes has not been identified and their frequency and magnitude have not been clearly characterized .
+None of the changes required medical intervention .
+DOSAGE AND ADMINISTRATION Before administration , a patient should be well hydrated .
+After administration , the patient should be encouraged to drink fluids liberally and to void frequently .
+The recommended dose range for intravenous administration for a 70 kg patient is 370 - 1110 MBq ( 10 - 30 mCi ) .
+Dose adjustments for age , weight , gender or renal or hepatic impairment have not been studied .
+The dose for the patient should be measured by a suitable radioactivity calibration system immediately before administration to the patient .
+Radiochemical purity should be checked before administration to the patient .
+Neurolite , like other parenteral drug products , should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+Preparations containing particulate matter or discoloration should not be administered .
+They should be disposed of in a safe manner , in compliance with all applicable regulations .
+Prior to reconstitution , vial A and vial B are stored at 15 - 25 ° C . Protect vial A from light .
+Store at controlled room temperature after preparation .
+Aseptic techniques and effective shielding should be employed in withdrawing doses for administration to patients .
+Waterproof gloves and effective shielding should be worn when handling the product .
+RADIATION DOSIMETRY The radiation doses to organs and tissues of an average patient ( 70 kg ) for Technetium Tc99m Bicisate injected intravenously for 370 MBq ( 10 mCi ) are shown in Table 4 and for 1110 MBq ( 30 mCi ) are shown in Table 5 .
+Table 4 .
+Radiation Absorbed Doses From 370 MBq ( 10 mCi ) of Technetium Tc99m Bicisate Estimated Absorbed Radiation Dose 2 . 0 Hr .
+Void 4 . 8 Hr .
+Void mGy / rads / mGy / rads / 370 MBq 10 mCi 370 MBq 10 mCi Organ Bone Surfaces 1 . 26 0 . 13 1 . 41 0 . 14 Brain 2 . 04 0 . 20 2 . 04 0 . 20 Gallbladder Wall 9 . 25 0 . 91 9 . 25 0 . 92 Intestine Wall ( Lower Large ) 4 . 81 0 . 47 5 . 55 0 . 55 Intestine ( Small ) 3 . 48 0 . 35 3 . 70 0 . 38 Intestine Wall ( Upper Large ) 5 . 92 0 . 61 6 . 29 0 . 63 Kidneys 2 . 70 0 . 27 2 . 74 0 . 27 Liver 1 . 96 0 . 20 2 . 00 0 . 20 Lungs 0 . 74 0 . 08 0 . 74 0 . 08 Ovaries 2 . 00 0 . 22 2 . 96 0 . 30 Red Marrow 0 . 89 0 . 09 1 . 00 0 . 10 Testes 0 . 81 0 . 08 1 . 33 0 . 13 Thyroid 1 . 30 0 . 13 1 . 30 0 . 13 Urinary Bladder Wall 11 . 10 1 . 10 27 . 01 2 . 70 Total Body 0 . 89 0 . 09 1 . 07 0 . 11 Table 5 .
+Radiation Absorbed Doses From 1110 MBq ( 30 mCi ) of Technetium Tc99m Bicisate Estimated Absorbed Radiation Dose 2 . 0 Hr .
+Void 4 . 8 Hr .
+Void mGy / rads / mGy / rads / 1110 MBq 30 mCi 1110 MBq 30 mCi Radiation dosimetry calculations performed by Radiation Internal Dose Information Center , Oak Ridge Institute for Science and Education , PO Box 117 , Oak Ridge , TN 37831 - 0117 ( 865 ) 576 - 3448 .
+Organ Bone Surfaces 3 . 77 0 . 39 4 . 22 0 . 42 Brain 6 . 11 0 . 61 6 . 11 0 . 61 Gallbladder Wall 27 . 75 2 . 73 27 . 75 2 . 76 Intestine Wall ( Lower Large ) 14 . 43 1 . 41 16 . 65 1 . 65 Intestine ( Small ) 10 . 43 1 . 05 11 . 10 1 . 14 Intestine Wall ( Upper Large ) 17 . 76 1 . 83 18 . 87 1 . 89 Kidneys 8 . 10 0 . 81 8 . 21 0 . 81 Liver 5 . 88 0 . 60 5 . 99 0 . 60 Lungs 2 . 22 0 . 23 2 . 22 0 . 23 Ovaries 5 . 99 0 . 66 8 . 88 0 . 90 Red Marrow 2 . 66 0 . 26 3 . 00 0 . 29 Testes 2 . 44 0 . 24 4 . 00 0 . 39 Thyroid 3 . 89 0 . 39 3 . 89 0 . 39 Urinary Bladder Wall 33 . 33 3 . 33 81 . 03 8 . 10 Total Body 2 . 66 0 . 27 3 . 22 0 . 33 INSTRUCTIONS FOR PREPARATION OF TECHNETIUM Tc99m BICISATE Preparation of the Technetium Tc99m Bicisate from the NEUROLITE ® , Kit for the Preparation of Technetium Tc99m Bicisate Injection , is done by the following aseptic procedure : • Prior to adding the Sodium Pertechnetate Tc99m Injection to vial B ( the liquid vial ) , write the estimated activity , date , and time of preparation in the space provided on the vial label .
+Then tear off a radiation symbol and attach it to the neck of the vial .
+• Waterproof gloves should be worn during the preparation procedure .
+Remove the plastic disc from both vials and swab the top of each vial closure with alcohol to disinfect the surface .
+• Place vial B in a suitable radiation shield appropriately labeled with date , time of preparation , volume and activity .
+• With a sterile shielded syringe , aseptically add 3 . 70 GBq ( 100 mCi ) sterile , non - pyrogenic , oxidant - free Sodium Pertechnetate Tc99m Injection , in approximately 2 . 0 mL , to vial B . Without withdrawing the needle , remove an equal volume of air to maintain pressure within the vial .
+• With a sterile syringe , rapidly inject 3 . 0 mL of Sodium Chloride Injection ( 0 . 9 % ) into vial A ( the lyophilized vial ) to dissolve the contents .
+Without withdrawing the needle , remove an equal volume of air to maintain pressure within the vial .
+Shake the contents of the vial for a few seconds .
+• With another sterile syringe , immediately ( within 30 seconds ) withdraw 1 . 0 mL of vial A and inject it into vial B . Discard vial A immediately .
+• Swirl the contents of the vial B for a few seconds , and allow this mixture to stand for thirty ( 30 ) minutes at room temperature .
+• Examine the vial contents for particulates and discoloration prior to patient administration .
+If particulate matter and / or discoloration are seen , DO NOT USE .
+• Assay the reaction vial using a suitable radioactivity calibration system .
+Record the Technetium Tc99m concentration , total volume , assay time and date , expiration time and lot number on the vial shield label and affix the label to the shield .
+• Store the reaction vial containing the Technetium Tc99m Bicisate at controlled room temperature until use ; at such time the product should be aseptically withdrawn .
+The vial contains no preservative .
+Note : Adherence to the above product reconstitution instructions is recommended .
+Product should be used within 6 hours of preparation .
+DETERMINATION OF RADIOCHEMICAL PURITY The preparation and quality control of the agent should follow the procedure shown below .
+Materials for TLC Procedure Bakerflex silica gel IB - F , 2 . 5 x 7 . 5 cm , Baker # 4463 - 02 Solvent system : Ethyl Acetate , HPLC grade Dose calibrator or gamma counter for measuring radioactivity Small chromatographic developing tank Syringe and shielded vials , as needed TLC Procedure Establish the radiochemical purity ( RCP ) of the final solution by the thin layer chromatography ( TLC ) using Baker - Flex silica gel IB - F plates and a solvent system of ethyl acetate .
+The RCP should be ≥ 90 % .
+Procedure – Using fresh ethyl acetate pour enough solvent into the developing tank to a depth of 3 to 4 mm .
+Seal the tank with Parafilm and allow 15 to 30 minutes for solvent equilibration .
+It is important to pre - equilibrate and preserve the integrity of the headspace in the chromatographic tank , otherwise unreproducible TLC results are obtained .
+Note : Ethyl acetate is a skin / mucous membrane irritant and should be handled in a hood whenever possible .
+With a pencil , draw a faint line across the TLC plate at heights of two ( 2 ) cm , four and one half ( 4 . 5 ) cm and seven ( 7 ) cm from the bottom of the TLC plate .
+Place approximately 5 µL of the final solution at the center of the 2 cm mark .
+This can be accomplished by using a syringe fitted with a 25 or 27 gauge needle and allowing a drop to form while holding the syringe in a vertical position .
+The diameter of the spot should not be greater than 10 mm .
+Allow the spot to dry for 5 to 10 minutes , no longer .
+Place the plate in the pre - equilibrated TLC tank and develop to the 7 . 0 cm line ( about 15 minutes ) .
+Remove the plate and dry in a ventilated area .
+Quantification Cut the TLC plate at the 4 . 5 cm mark with scissors .
+Count the activity on each plate using a dose calibrator or a gamma counter .
+The top portion contains the Technetium Tc99m Bicisate and the bottom portion contains all radioimpurities .
+Calculate the radiochemical purity using the following equation : % Technetium Tc99m Bicisate = At x 100 At + Ab Where : At = activity of the top piece and Ab = activity of the bottom piece .
+HOW SUPPLIED Lantheus Medical Imaging , Inc .
+Neurolite ® Kit for the Preparation of Technetium Tc99m Bicisate for Injection , is supplied in kits of two ( 2 ) vials of A and two ( 2 ) vials of B ( NDC # 11994 - 006 - 02 ) ; and five ( 5 ) vials of A and five ( 5 ) vials of B ( NDC 11994 - 006 - 05 ) .
+Included in each kit are one ( 1 ) package insert and twelve ( 12 ) radiation labels .
+Prior to reconstitution , vial A and vial B are stored 15 - 25 ° C . Protect vial A from light .
+Store at controlled room temperature after preparation .
+Use within 6 hours of preparation .
+This reagent kit is approved for distribution to persons licensed pursuant to the Code of Massachusetts Regulations 105 CMR 120 . 500 for the uses listed in 105 CMR 120 . 547 or 120 . 552 or under equivalent regulations of the U . S . Nuclear Regulatory Commission , Agreement States or Licensing States .
+Distributed By Lantheus Medical Imaging 331 Treble Cove Road N . Billerica , Massachusetts 01862 USA For Ordering Tel : Toll Free 800 - 299 - 3431 All Other Business : 800 - 362 - 2668 ( For Massachusetts and International , call 978 - 667 - 9531 ) Printed in the U . S . A . 513073 - 0719 July 2019 PRINCIPAL DISPLAY PANEL - Kit Package Lantheus Medical Imaging ® NEUROLITE ® KIT FOR THE PREPARATION OF TECHNETIUM Tc99m BICISATE FOR INJECTION Rx only , IMPORTANT : Read enclosed Package Insert for full information on preparation , use and indications .
+WARNING : Radiopharmaceuticals should be used by persons who are qualified by specific training in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+[ MULTIMEDIA ] [ MULTIMEDIA ]

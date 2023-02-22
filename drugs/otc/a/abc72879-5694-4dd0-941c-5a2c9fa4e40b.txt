@@ -1,0 +1,207 @@
+1 INDICATIONS AND USAGE Neuraceq is indicated for Positron Emission Tomography ( PET ) imaging of the brain to estimate β - amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer ’ s Disease ( AD ) and other causes of cognitive decline .
+A negative Neuraceq scan indicates sparse to no amyloid neuritic plaques and is inconsistent with a neuropathological diagnosis of AD at the time of image acquisition ; a negative scan result reduces the likelihood that a patient ’ s cognitive impairment is due to AD .
+A positive Neuraceq scan indicates moderate to frequent amyloid neuritic plaques ; neuropathological examination has shown this amount of amyloid neuritic plaque is present in patients with AD , but may also be present in patients with other types of neurologic conditions as well as older people with normal cognition .
+Neuraceq is an adjunct to other diagnostic evaluations .
+Limitations of Use • A positive Neuraceq scan does not establish the diagnosis of AD or any other cognitive disorder .
+• Safety and effectiveness of Neuraceq have not been established for : o Predicting development of dementia or other neurologic conditions ; o Monitoring responses to therapies .
+Neuraceq ® is a radioactive diagnostic agent indicated for Positron Emission Tomography ( PET ) imaging of the brain to estimate β - amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer ’ s Disease ( AD ) and other causes of cognitive decline .
+A negative Neuraceq scan indicates sparse to no neuritic plaques and is inconsistent with a neuropathological diagnosis of AD at the time of image acquisition ; a negative scan result reduces the likelihood that a patient ’ s cognitive impairment is due to AD .
+A positive Neuraceq scan indicates moderate to frequent amyloid neuritic plaques ; neuropathological examination has shown this amount of amyloid neuritic plaque is present in patients with AD , but may also be present in patients with other types of neurologic conditions as well as older people with normal cognition .
+Neuraceq is an adjunct to other diagnostic evaluations .
+Limitations of Use • A positive Neuraceq scan does not establish the diagnosis of AD or any other cognitive disorder .
+• Safety and effectiveness of Neuraceq have not been established for : • Predicting development of dementia or other neurologic conditions • Monitoring responses to therapies 2 DOSAGE AND ADMINISTRATION Use appropriate radiation handling measures ( 2 . 1 ) .
+• The recommended dose is 300 MBq ( 8 . 1 mCi ) as a slow single intravenous bolus ( 6 sec / mL ) in a total volume of up to 10 mL .
+( 2 . 2 ) • Obtain 15 minute to 20 minute PET images starting from 45 minutes to 130 minutes after intravenous administration ( 2 . 3 ) • Image interpretation : refer to full prescribing information ( 2 . 4 ) • The radiation absorbed dose from a 300 MBq ( 8 . 1 mCi ) dose of Neuraceq is 5 . 8 mSv in an adult ( 2 . 5 ) .
+2 . 1 Radiation Safety - Drug Handling Neuraceq is a radioactive drug and should be handled with appropriate safety measures to minimize radiation exposure during administration [ see Warnings and Precautions ( 5 . 2 ) ] .
+Use waterproof gloves and effective shielding , including lead - glass syringe shields when handling and administering Neuraceq .
+Radiopharmaceuticals , including Neuraceq , should only be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radioactive materials , and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radiopharmaceuticals .
+2 . 2 Recommended Dosing and Administration Instructions The recommended dose of Neuraceq is 300 MBq ( 8 . 1 mCi ) , maximum 30 mcg mass dose , administered as a single slow intravenous bolus ( 6 sec / mL ) in a total volume of up to 10 mL .
+The dose may vary depending on the patient ’ s body weight , and image acquisition parameters [ see Clinical Studies ( 14 ) ] .
+- Inspect the radiopharmaceutical dose solution prior to administration and do not use it if it contains particulate matter - Use aseptic technique and radiation shielding to withdraw and administer Neuraceq solution .
+- Measure the activity of Neuraceq with a dose calibrator immediately prior to injection .
+- Do not dilute Neuraceq - The injection must be intravenous in order to avoid irradiation as a result of local extravasation , as well as imaging artifacts .
+Verify patency of the indwelling catheter by a saline test injection prior to administration of Neuraceq .
+- An injection ( 6 sec / mL ) into a large vein in the arm is recommended , followed by a saline flush of approximately 10 mL .
+- Dispose of unused product in a safe manner in compliance with applicable regulations 2 . 3 Image Acquisition Guideline Acquire PET images over 15 minutes to 20 minutes starting 45 minutes to 130 minutes after Neuraceq injection .
+Keep the patient supine with the head positioned to center the brain , including the cerebellum , in the PET scanner field of view .
+Reduce head movement with tape or other flexible head restraints if necessary .
+Reconstruction should include attenuation correction with resulting transaxial pixel sizes between 2 mm and 3 mm .
+2 . 4 Image Display and Interpretation Neuraceq images should be interpreted only by readers who successfully complete Electronic Media - or In - Person Training provided by the manufacturer [ seeWarnings and Precautions ( 5 . 1 ) ] .
+The objective of Neuraceq image interpretation is to estimate β - amyloid neuritic plaque density in brain gray matter , not to make a clinical diagnosis .
+Image interpretation is performed independently of a patient ’ s clinical features and relies upon the recognition of image features in certain brain regions .
+Image Display PET images should be displayed in the transaxial orientation using gray scale or inverse gray scale .
+The sagittal and coronal planes may be used for additional orientation purposes .
+CT or MR images may be helpful for anatomic reference purposes .
+However , visual assessment should be performed using the axial planes according to the recommended reading methodology .
+Image Interpretation Interpretation of the images is made by visually comparing the activity in cortical gray matter with activity in adjacent white matter .
+Regions displayed in the PET images which ‘ anatomically ’ correspond to white matter structures ( e . g . , the cerebellar white matter or the splenium ) should be identified to help the readers orient themselves .
+Images should be viewed and assessed in a systematic manner , starting with the cerebellum and scrolling up through the lateral temporal and frontal lobes , the posterior cingulate cortex / precuneus , and the parietal lobes .
+For a gray matter cortical region to be assessed as showing ‘ tracer uptake ’ , the majority of slices from the respective region must be affected .
+For each patient , the PET image assessment is categorized as either “ β - amyloid - positive ” or “ β - amyloid - negative ” .
+This determination is based on the assessment of tracer uptake in the gray matter of the following four brain regions : the temporal lobes , the frontal lobes , the posterior cingulate cortex / precuneus , and the parietal lobes ; according to the following ‘ rules for assessment ’ [ see Warnings and Precautions ( 5 . 1 . ) ]
+: • β - amyloid negative - tracer uptake ( i . e . , signal intensity ) in gray matter is lower than in white matter in all four brain regions ( no β - amyloid deposition ) • β - amyloid positive - smaller area ( s ) of tracer uptake equal to or higher than that present in white matter extending beyond the white matter rim to the outer cortical margin involving the majority of the slices within at least one of the four brain regions ( “ moderate ” β - amyloid deposition ) , or a large confluent area of tracer uptake equal to or higher than that present in white matter extending beyond the white matter rim to the outer cortical margin and involving the entire region including the majority of slices within at least one of the four brain regions ( “ pronounced ” β - amyloid deposition ) .
+There is no known clinical or histopathologic correlation distinguishing “ moderate ” from “ pronounced ” β - amyloid deposition .
+Examples of positive and negative scans for each of the four brain regions are illustrated in Figure 1 .
+Figure 1 Axial view of negative ( top row ) and positive ( bottom row ) Neuraceq PET scans [ MULTIMEDIA ] Cerebellum : A contrast between the white matter ( arrows ) and gray matter is seen in both negative and positive scans .
+Extracerebral tracer uptake in scalp and in the posterior sagittal sinus ( arrowhead ) can be seen .
+Lateral temporal lobes : Spiculated or “ mountainous ” appearance of the white matter ( arrows ) is seen in the negative scan , and radioactive signal does not reach the outer rim of the brain ( dashed line ) due to lower tracer uptake in the gray matter .
+The positive scan shows a “ plumped ” , smooth appearance of the outer border of the brain parenchyma ( dashed line ) due to tracer uptake in the gray matter .
+Frontal Lobes : Spiculated appearance of the white matter in the frontal lobes ( arrows ) is seen in the negative scan .
+The positive scan shows the tracer uptake in these regions has a “ plumped ” , smooth appearance due to the increased gray matter signal ( dashed line ) .
+Posterior cingulate / precuneus : Adjacent and posterior to the splenium ( arrow ) , these regions appear as a hypo - intense “ hole ” ( circle ) in the negative scan , whereas this hole is “ filled - up ” ( circle ) in the positive scan .
+Parietal lobes : In the negative scan , the midline between the parietal lobes can be easily identified ( long arrow ) ; white matter has a spiculated appearance ( short arrow ) with low signal near the outer rim of the brain ( dashed line ) .
+In the positive scan , the midline between the parietal lobes is much thinner .
+The cortical areas are “ filled - up ” and are smooth in appearance as tracer uptake extends to the outer rim of the brain .
+Some scans may be difficult to interpret due to image noise , atrophy with a thinned cortex , or image blur .
+If a co - registered computerized tomography ( CT ) image is available , the CT image may be used to clarify the relationship of the Neuraceq uptake and the gray matter anatomy .
+[ MULTIMEDIA ] 2 . 5 Radiation Dosimetry The estimated radiation absorbed doses for adults from intravenous injection of Neuraceq are shown in Table 1 .
+Table 1 Estimated Radiation Absorbed Doses from Intravenous Injection of NeuraceqOrgan / Tissue Mean Absorbed Radiation Dose per Unit Administered Activity [ mcGy / MBq ] Adrenals 13 Brain 13 Breasts 7 Gallbladder Wall 137 Heart Wall 14 Kidneys 24 Liver 39 Lower Large Intestine - Wall 35 Lungs 15 Muscle 10 Osteogenic Cells 15 Ovaries 16 Pancreas 14 Red Marrow 12 Skin 7 Small Intestine 31 Spleen 10 Stomach Wall 12 Testes 9 Thymus 9 Thyroid 8 Upper Large Intestine - Wall 38 Urinary Bladder Wall 70 Uterus 16 Total Body 11 Effective Dose ( mcSv / MBq ) 19 The effective dose resulting from a 300 MBq ( 8 . 1 mCi ) administration of Neuraceq in adult subjects is 5 . 8 mSv .
+The use of a CT scan to calculate attenuation correction for reconstruction of Neuraceq images ( as done in PET / CT imaging ) will add radiation exposure .
+Diagnostic head CT scans using helical scanners administer an average of 2 . 2 mSv ± 1 . 3 mSv effective dose ( CRCPD Publication E - 07 - 2 , 2007 ) .
+The actual radiation dose is operator and scanner dependent .
+Thus , the total combined radiation exposure from Neuraceq administration and subsequent scan on a PET / CT scanner is estimated to be 8 mSv .
+3 DOSAGE FORMS AND STRENGTHS Neuraceq is available in 50 mL multi - dose vials containing a clear solution at a strength of 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at end of synthesis .
+At time of administration 300 MBq ( 8 . 1 mCi ) are contained in up to 10 mL of solution for injection .
+50 mL multi - dose vials containing a clear injectable solution at a strength of 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at end of synthesis ( EOS ) .
+At time of administration 300 MBq ( 8 . 1 mCi ) are contained in up to 10 mL solution for injection .
+4 CONTRAINDICATIONS None None 5 WARNINGS AND PRECAUTIONS • Image interpretation errors ( especially false positives ) have been observed ( 5 . 1 ) .
+• Neuraceq , like all radiopharmaceuticals , contributes to a patient ’ s long - term cumulative radiation exposure .
+Ensure safe handling to protect patients and health care workers from unintentional radiation exposure ( 5 . 2 ) .
+5 . 1 Risk for Image Misinterpretation and Other Errors Errors may occur in the Neuraceq estimation of brain neuritic β - amyloid plaque density during image interpretation [ see Clinical Studies ( 14 ) ] .
+Image interpretation should be performed independently of the patient ’ s clinical information .
+The use of clinical information in the interpretation of Neuraceq images has not been evaluated and may lead to errors .
+Errors may also occur in cases with severe brain atrophy that limits the ability to distinguish gray and white matter on the Neuraceq scan .
+Errors may also occur due to motion artifacts that result in image distortion .
+Neuraceq scan results are indicative of the presence of brain neuritic β - amyloid plaques only at the time of image acquisition and a negative scan result does not preclude the development of brain neuritic β - amyloid plaques in the future .
+5 . 2 Radiation Risk Neuraceq , similar to other radiopharmaceuticals , contributes to a patient ' s overall long - term cumulative radiation exposure .
+Long - term cumulative radiation exposure is associated with an increased risk of cancer .
+Ensure safe handling to protect patients and health care workers from unintentional radiation exposure [ see Dosage and Administration ( 2 . 1 ) ] .
+6 ADVERSE REACTIONS The most commonly reported adverse reactions were : injection site reaction consisting of erythema ( 1 . 7 % ) , irritation ( 1 . 1 % ) , and pain ( 3 . 4 % ) .
+To report SUSPECTED ADVERSE REACTIONS , contact Life Molecular Imaging at 1 - 855 - 545 - 5245 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in clinical practice .
+The overall safety profile of Neuraceq is based on data from 1 , 090 administrations of Neuraceq to 872 subjects .
+No serious adverse reactions related to Neuraceq administration have been reported .
+The most frequently observed adverse drug reactions in subjects receiving Neuraceq were injection site reactions consisting of erythema , irritation and pain .
+All adverse reactions were mild to moderate in severity and of short duration .
+The most commonly reported adverse reactions ( occurring in at least 1 % of subjects ) during Neuraceq clinical trials are shown in Table 2 .
+Table 2 Adverse Reactions with a Frequency ≥ 1 % Reported in Clinical Trials ( n = 1 , 090 Administrations in 872 Subjects ) Adverse drug reaction n ( % ) Injection / application site erythema 18 ( 1 . 7 ) Injection site irritation 12 ( 1 . 1 ) Injection site pain 37 ( 3 . 4 ) 7 DRUG INTERACTIONS Drug - drug interaction studies have not been performed in patients to establish the extent , if any , to which concomitant medications may alter Neuraceq image results .
+8 USE IN SPECIFIC POPULATIONS 8 . 1 Pregnancy Risk Summary There are no available data on Neuraceq use in pregnant women to evaluate for a drug - associated risk of major birth defects , miscarriage , or adverse maternal or fetal outcomes .
+Animal reproduction studies have not been conducted with Neuraceq .
+All radiopharmaceuticals , including Neuraceq , have a potential to cause fetal harm depending on the stage of fetal development and the magnitude of the radiopharmaceutical dose .
+If considering Neuraceq administration to a pregnant woman , inform the patient about the potential for adverse pregnancy outcomes based on the radiation dose from the drug and the gestational timing of exposure .
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown .
+All pregnancies have a background risk of birth defect , loss , or other adverse outcomes .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+8 . 2 Lactation Risk Summary There are no data on the presence of florbetaben F 18 injection in human milk , the effects on the breastfed infant , or the effects of florbetaben F 18 injection on milk production .
+Exposure of Neuraceq to a breastfed infant can be minimized by temporary discontinuation of breastfeeding [ see Clinical Considerations ] .
+The developmental and health benefits of breastfeeding should be considered along with the mother ' s clinical need for Neuraceq and any potential adverse effects on the breastfed child from Neuraceq or from the underlying maternal condition .
+Clinical Considerations To decrease radiation exposure to the breastfed infant , advise a lactating woman to pump and discard breast milk for 24 hours after administration of Neuraceq .
+Lactation : A lactating woman may pump and discard breast milk for 24 hours after Neuraceq administration .
+8 . 4 Pediatric Use Neuraceq is not indicated for use in pediatric patients .
+8 . 5 Geriatric Use Of the 872 subjects in clinical studies of Neuraceq , 603 ( 69 % ) were 65 years or over , while 304 ( 35 % ) were 75 years or over .
+No overall differences in safety were observed between these subjects and younger subjects .
+10 OVERDOSAGE A pharmacological overdose of Neuraceq is unlikely given the relatively low doses used for diagnostic purposes .
+In the event of administration of a radiation overdose with Neuraceq , the absorbed organ dose to the patient should be reduced by increasing elimination of the radionuclide from the body by inducing frequent micturition .
+11 DESCRIPTION Neuraceq contains florbetaben F18 , a molecular imaging agent that binds to β - amyloid plaques in the brain , and is intended for use with PET imaging .
+Chemically , florbetaben F18 is described as 4 - [ ( E ) - 2 - ( 4 - { 2 - [ 2 - ( 2 - [ 18 F ] fluoroethoxy ) ethoxy ] ethoxy } phenyl ) vinyl ] - N - methylaniline .
+The molecular weight is 358 . 45 and the structural formula is : [ MULTIMEDIA ] Neuraceq is a sterile , non - pyrogenic radioactive diagnostic agent for intravenous injection .
+The clear solution is supplied ready to use .
+Each mL contains up to 3 micrograms and 50 MBq to 5 , 000 MBq ( 1 . 4 mCi to 135 mCi ) florbetaben F18 end of synthesis , 4 . 4 mg ascorbic acid , 118 mg ethanol , 200 mg macrogol 400 , 28 . 8 mg sodium ascorbate .
+The pH of the solution is between 4 . 5 and 7 .
+11 . 1 Physical Characteristics Neuraceq is radiolabeled with [ 18 F ] fluorine ( F18 ) that decays by positron ( ß + ) emission to O 18 and has a half - life of 109 . 8 minutes .
+The principal photons useful for diagnostic imaging are the coincident pair of 511 keV gamma photons resulting from the interaction of the emitted positron with an electron ( Table 3 ) .
+Table 3 : Principal Radiation Produced from Decay of Fluorine 18 Radiation Energy Level ( keV ) Abundance ( % ) Positron 249 . 8 96 . 7 Gamma 511 193 . 4 11 . 2 External Radiation The point source air - kerma coefficienta for F18 is 3 . 74 E - 17 Gy m2 / ( Bq s ) ; this coefficient was formerly defined as the specific gamma - ray constant of 5 . 7 R / hr / mCi at 1 cm .
+The first half - value thickness of lead for F18 - fluorine gamma rays is approximately 6 mmb .
+The relative reduction of radiation emitted by F18 - fluorine that results from various thicknesses of lead shielding is shown in Table 4 .
+The use of ~ 8 cm of lead ( Pb ) will decrease the radiation transmission ( i . e . exposure ) by a factor of about 10 , 000 .
+Table 4 : Radiation Attenuation of 511 keV Gamma Rays by Lead ShieldingShield Thickness cm of Lead ( Pb ) Coefficient of Attenuation 0 . 6 0 . 5 2 0 . 1 4 0 . 01 6 0 . 001 8 0 . 0001 aEckerman KF and A Endo .
+MIRD : Radionuclide Data and Decay Schemes , 2 nd Edition , 2008 .
+bDerived from data in NCRP Report No . 49 .
+1998 , Appendix C [ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Florbetaben F18 is a F18 - labeled stilbene derivative , which binds to β - amyloid plaques in the brain .
+The F 18 isotope produces a positron signal that is detected by a PET scanner .
+3 H - florbetaben in vitro binding experiments reveal two binding sites ( Kd of 16 nM and 135 nM ) in frontal cortex homogenates from patients with AD .
+Binding of florbetaben F18 to β - amyloid plaques in post - mortem brain sections from patients with AD using autoradiography correlates with both immunohistochemical and Bielschowsky silver stains .
+Florbetaben F 18 does not bind to tau or α - synuclein in tissue from patients with AD .
+Neither Neuraceq nor non - radioactive florbetaben F 19 bind to AT8 positive tau deposits in brain tissue from patients with frontotemporal dementia ( FTD ) , using autoradiography and immunohistochemistry , respectively .
+12 . 2 Pharmacodynamics Following intravenous administration , Neuraceq crosses the blood brain barrier and shows differential retention in brain regions that contain β - amyloid deposits .
+Differences in signal intensity between brain regions showing specific and non - specific Neuraceq uptake form the basis for the image interpretation method .
+12 . 3 Pharmacokinetics Ten minutes after intravenous bolus injection of 300 MBq of Neuraceq in human volunteers , approximately 6 % of the injected radioactivity was distributed to the brain .
+Florbetaben F 18 plasma concentrations declined by approximately 75 % at 20 minutes post - injection , and by approximately 90 % at 50 minutes .
+The F 18 in circulation during the 45 minute to 130 minute imaging window was principally associated with polar metabolites of florbetaben .
+Florbetaben F 18 was 98 . 5 % bound to plasma proteins and was eliminated from plasma primarily via the hepatobiliary route with a mean biological half - life of approximately 1 hour .
+In vitro studies show that metabolism of florbetaben is predominantly catalyzed by CYP2J2 and CYP4F2 .
+At 12 hours post - administration , approximately 30 % of the injected radioactivity had been excreted in urine .
+Almost all F18 radioactivity in urine was excreted as polar metabolites of florbetaben F18 and only trace amounts of florbetaben F18 were detected .
+In in vitro studies using human liver microsomes , florbetaben did not inhibit cytochrome P450 enzymes at concentrations present in vivo .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Animal studies have not been performed to evaluate the carcinogenic potential of florbetaben .
+Florbetaben did not demonstrate mutagenic potential in an in vitro bacterial mutation assay ( Ames test ) using five strains of Salmonella typhimurium and one strain of Escherichia coli or in an in vitro chromosomal aberration assay using human peripheral lymphocytes in the absence and presence of a metabolic activator .
+No study on impairment of male or female fertility and reproductive performance was conducted in animals .
+14 CLINICAL STUDIES Neuraceq ( doses ranging from 240 MBq to 360 MBq ) was evaluated in three single arm clinical studies ( Study A - C ) that examined images from adults with a range of cognitive function , including some end - of - life patients who had agreed to participate in a post - mortem brain donation program .
+Subjects underwent Neuraceq injection and scan , then had images interpreted by independent readers masked to all clinical information .
+The Standard of Truth ( SoT ) was based on the histopathologic examination using Bielschowsky silver staining ( BSS ) of six brain regions assessed by a Pathology Consensus Panel masked to all clinical information ( including PET scan results ) .
+Neuraceq PET imaging results ( negative or positive ) corresponded to a histopathology derived plaque score based on the Consortium to Establish a Registry for Alzheimer ’ s Disease ( CERAD ) criteria using neuritic plaque counts ( Table 5 ) .
+For the subject level SoT , if in any of the six regions β - amyloid neuritic plaques were more than sparse , the subject was classified as positive ; if in none of the regions the β - amyloid neuritic plaques were assessed as being more than sparse , the subject was classified as negative .
+Table 5 : ß - Amyloid Neuritic Plaque Counts Correlation to Image Results Plaque Counts CERAD Score Neuraceq PET Image Result < 1 None Negative 1 - 5 Sparse 6 - 19 Moderate Positive ≥ 20 Frequent Study A evaluated Neuraceq PET images from 205 subjects and compared the results to postmortem truth standard assessments of brain β - amyloid neuritic plaque density in subjects who died during the study .
+The median age was 79 years ( range 48 to 98 years ) and 52 % of the subjects were male .
+By medical history 137 study participants had AD , 31 had other non - AD dementia , 5 had dementia with Lewy Bodies ( DLB ) , and 32 had no clinical evidence of dementia .
+Interpretation of images from 82 autopsied subjects was compared to the subject level histopathology SoT .
+Three readers , after undergoing in - person tutoring , interpreted images using a clinically applicable image interpretation methodology [ see Dosage and Administration ( 2 . 4 ) ] .
+At autopsy , the subject level brain β - amyloid neuritic plaque density category was : frequent ( n = 31 ) ; moderate ( n = 21 ) ; sparse ( n = 17 ) ; or none ( n = 13 ) .
+Results from Study A are presented in Table 6 and Table 7 .
+In Study B five independent , blinded readers underwent the Electronic Media Training in the clinically applicable image interpretation methodology [ see Dosage and Administration ( 2 . 4 ) ] and assessed images from the same 82 end - of - life subjects who enrolled in Study A .
+The time interval between the Neuraceq scan and death was less than one year for 45 patients , between one and two years for 23 patients and more than two years for 14 patients .
+Results from Study B can also be found in Table 6 and Table 7 .
+Study C evaluated the reliability and reproducibility of the clinically applicable image interpretation methodology [ see Dosage and Administration ( 2 . 4 ) ] using the Electronic Media Training ; 461 images from previous clinical studies were included from subjects with a range of diagnoses .
+Five new readers assessed randomly provided images from subjects with a truth standard ( 54 subjects who underwent an autopsy ) and without a truth standard ( 51 subjects with mild cognitive impairment , 182 subjects with AD , 35 subjects with other dementias , 5 subjects with Parkinson ’ s Disease and 188 healthy volunteers ) .
+Among the 461 subjects , the median age was 72 years ( range 22 to 98 ) , 197 were females , and 359 were Caucasian .
+Image reproducibility data for various subject groups in Study C are presented in Table 8 .
+Inter - reader agreement across all 5 readers had a kappa coefficient of 0 . 79 ( 95 % CI 0 . 77 , 0 . 83 ) .
+The performance characteristics in 54 subjects with SoT were similar to those measured in Studies A and B . Additionally , intra - reader reproducibility was assessed from 46 images ( 10 % ) ; the percentage of intra - reader agreement for the 5 readers ranged from 91 % to 98 % .
+Table 6 : Neuraceq Results by Reader Training Method using BSS as Standard of TruthRead Result In - Person Training ( Study A ) Electronic Media Training ( Study B ) n = 82 n = 82 Sensitivity ( % ) Median 98 96 Range among the readers 96 - 98 90 - 100 Specificity ( % ) Median 80 77 Range among the readers 77 - 83 47 - 80 Table 7 : Neuraceq Correct and Erroneous Read Results by Reader Training MethodRead Result In - Person Training ( Study A ) Electronic Media Training ( Study B ) Reader Reader 1 2 3 4 5 6 7 8 Correct 75 74 75 73 65 71 73 69 False Negative 2 1 1 3 1 5 2 0 False Positive 5 7 6 6 16 6 7 13 BSS was the Histopathology Standard of Truth Table 8 : Reproducibility of Scan Results among Readers in Various Subject Groupsa Subject Group by Cognitive Status and Standard of Truth ( SoT ) Positive Scans nb Kappa ( 95 % CI ) Percent of Scans with Inter - reader Agreement 3 of 5 readers agreed 4 of 5 readers agreed 5 of 5 readers agreed All subjects ( n = 454 ) 212 0 . 80 ( 0 . 77 , 0 . 83 ) 6 15 78 Subjects without SoT ( n = 394 ) 175 0 . 80 ( 0 . 77 , 0 . 83 ) 6 15 79 Subjects with SoT ( n = 60 ) 37 0 . 75 ( 0 . 67 , 0 . 83 ) 10 15 75 AD ( n = 176 ) 139 0 . 77 ( 0 . 72 , 0 . 81 ) 7 10 83 HV ( n = 188 ) 26 0 . 55 ( 0 . 49 , 0 . 58 ) 7 15 77 MCI ( n = 50 , all without SoT ) 28 0 . 84 ( 0 . 75 , 0 . 92 ) 0 20 80 Other Dementias ( n = 40 ) 18 0 . 65 ( 0 . 55 , 0 . 74 ) 8 33 60 aSubjects with missing scan interpretation ( 2 % to 6 % per group ) were excluded from the analyses .
+bShown is the median number of scans interpreted as positive across the 5 readers for each group of subjects listed in the first column .
+Alzheimer ’ s disease ( AD ) , Mild cognitive impairment ( MCI ) , healthy volunteer ( HV ) .
+Other dementias include DLB , fronto - temporal lobe dementia , vascular dementia , and dementia associated with PD .
+16 HOW SUPPLIED / STORAGE AND HANDLING 16 . 1 How Supplied Neuraceq is supplied in a 50 mL glass vial containing up to 50 mL of a clear solution at a strength of 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at end of synthesis .
+Each vial contains multiple doses and is enclosed in a shielded container to minimize external radiation exposure .
+16 . 2 Storage and Handling Store Neuraceq at room temperature 25 ° C ( 77 ° F ) ; excursions permitted to 2 ° C to 42 ° C ( 36 ° F to 108 ° F ) .
+The product does not contain a preservative .
+Store Neuraceq within the original container or equivalent radiation shielding .
+Neuraceq must not be diluted .
+This preparation is approved for use by persons under license by the Nuclear Regulatory Commission or the relevant regulatory authority of an Agreement State .
+17 PATIENT COUNSELING INFORMATION • Instruct patients to inform their physician or healthcare provider if they are pregnant or breastfeeding .
+• Inform patients who are breastfeeding to use alternate infant nutrition sources ( e . g . stored breast milk or infant formula ) for 24 hours ( > 10 half - lives of radioactive decay for the F 18 isotope ) after administration of the drug or to avoid use of the drug .
+Manufactured for Life Molecular Imaging Ltd . , First Floor , The Woods , Opus 40 Business Park , Warwick , CV34 5 AH , UK Neuraceq is a registered trademark of Life Molecular Imaging .
+Neuraceq 50 mL Vial Label ( SOFIE Co . ) NDC 54828 - 001 - 50 Neuraceq ® Florbetaben F18 injection 50 mL Multiple - Dose Vial Sterile Non - Pyrogenic Rx ONLY CAUTION RADIOACTIVE MATERIAL Activity at * EOS _______ MBq ( _______ mCi ) in _______ mL at ___ : ___ on _________ .
+Expiration Date / Time __________ / _________ ( Expires 10 Hours after * EOS ) Diagnostic - For Intravenous Use Only Batch No . : ____________________________________ Date : __________________ Each mL contains up to 3 mcg of florbetaben and 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at * EOS , 4 . 4 mg ascorbic acid , 118 mg ethanol , 200 mg macrogol ( PEG400 ) , 28 . 8 mg sodium ascorbate , 677 . 5 mg water for injection .
+* EOS - End of Synthesis Store at room temperature 25 ° C ( 77 ° F ) ; excursions permitted to 2 ° C to 42 ° C ( 36 ° F to 108 ° F ) .
+Store upright .
+Store in original container or equivalent radiation shielding .
+Do not use if it is cloudy or contains particulate matter .
+Manufactured by SOFIE Co dba SOFIE . , 21000 Atlantic Blvd .
+Ste . 730 , Dulles , VA 20166 for Life Molecular Imaging Ltd .
+DOC - 848 - V6 . 2 [ MULTIMEDIA ] [ MULTIMEDIA ] Neuraceq 50 mL Vial Label ( N - Molecular ) NDC 54828 - 001 - 50 Neuraceq ® Florbetaben F18 injection 50 mL Multiple - Dose Vial Sterile Non - Pyrogenic Rx ONLY CAUTION RADIOACTIVE MATERIAL Activity at * EOS _______ MBq ( _______ mCi ) in _______ mL at ___ : ___ on _________ .
+Expiration Date / Time _____ / _________ ( Expires 10 Hours after * EOS ) Diagnostic - For Intravenous Use Only Batch No . : ____________________________________ Date : __________________ Each mL contains up to 3 mcg of florbetaben and 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at * EOS , 4 . 4 mg ascorbic acid , 118 mg ethanol , 200 mg macrogol ( PEG400 ) , 28 . 8 mg sodium ascorbate , 677 . 5 mg water for injection .
+* EOS - End of SynthesisStore at room temperature 25 ° C ( 77 ° F ) ; excursions permitted to 2 ° C to 42 ° C ( 36 ° F to 108 ° F ) .
+Store upright .
+Store in original container or equivalent radiation shielding .
+Do not use if it is cloudy or contains particulate matter .
+Manufactured by N - Molecular , Inc . dba SOFIE , 21000 Atlantic Blvd , Ste . 730 , Dulles , VA 20166 for Life Molecular Imaging Ltd .
+DOC - 848 - V6 . 2 [ MULTIMEDIA ] [ MULTIMEDIA ] Neuraceq Shield Label for 50 mL Vial ( SOFIE Co . ) NDC 54828 - 001 - 50 Neuraceq ® Florbetaben F18 injection 50 mL Multiple - Dose Vial Sterile Non - Pyrogenic Rx ONLY CAUTION RADIOACTIVE MATERIAL Activity at * EOS _______ MBq ( _______ mCi ) in _______ mL at ___ : ___ on _________ Batch No . : ____________________________________ Date : __________________ Expiration Date / Time _____ _________ Volume : 50 mL ( Expires 10 Hours after * EOS ) Concentration at * EOS ____________ mCi / mL Diagnostic - For Intravenous Use Only Each mL contains up to 3 mcg of florbetaben and 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at * EOS , 4 . 4 mg ascorbic acid , 118 mg ethanol , 200 mg macrogol ( PEG400 ) , 28 . 8 mg sodium ascorbate , 677 . 5 mg water for injection .
+Recommended dosage : See Prescribing Information .
+Dispense aseptically into a sterile syringe or other sterile container within a lead shielded secondary container .
+Store at room temperature 25 ° C ( 77 ° F ) ; excursions permitted to 2 ° C to 42 ° C ( 36 ° F to 108 ° F ) .
+Store upright .
+Store in original container or equivalent radiation shielding .
+Do not use if it is cloudy or contains particulate matter .
+* EOS - End of Synthesis Manufactured by SOFIE Co dba SOFIE , 21000 Atlantic Blvd .
+Ste . 730 , Dulles , VA 20166 for Life Molecular Imaging Ltd .
+DOC - 848 v6 . 2 - S [ MULTIMEDIA ] [ MULTIMEDIA ] Neuraceq Shield Label for 50 mL Vial ( N - Molecular ) NDC 54828 - 001 - 50 Neuraceq ® Florbetaben F18 injection 50 mL Multiple - Dose Vial Sterile Non - Pyrogenic Rx ONLY CAUTION RADIOACTIVE MATERIAL Activity at * EOS _______ MBq ( _______ mCi ) in _______ mL at ___ : ___ on _________ Batch No . : ____________________________________ Date : __________________ Expiration Date / Time _____ _________ ( Expires 10 Hours after * EOS ) Diagnostic - For Intravenous Use Only Each mL contains up to 3 mcg of florbetaben and 50 MBq / mL to 5 , 000 MBq / mL ( 1 . 4 mCi / mL to 135 mCi / mL ) florbetaben F18 at * EOS , 4 . 4 mg ascorbic acid , 118 mg ethanol , 200 mg macrogol ( PEG400 ) , 28 . 8 mg sodium ascorbate , 677 . 5 mg water for injection .
+Recommended dosage : See Prescribing Information .
+Dispense aseptically into a sterile syringe or other sterile container within a lead shielded secondary container .
+Store at room temperature 25 ° C ( 77 ° F ) ; excursions permitted to 2 ° C to 42 ° C ( 36 ° F to 108 ° F ) .
+Store upright .
+Store in original container or equivalent radiation shielding .
+Do not use if it is cloudy or contains particulate matter .
+* EOS - End of Synthesis Manufactured by N - Molecular , Inc . dba SOFIE , 21000 Atlantic Blvd .
+Ste . 730 , Dulles , VA 20166 for Life Molecular Imaging Ltd .
+DOC - 848 v6 . 2 - S [ MULTIMEDIA ] [ MULTIMEDIA ]

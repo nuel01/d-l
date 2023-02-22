@@ -1,0 +1,269 @@
+DESCRIPTION SECTION Budesonide , the active ingredient of ENTOCORT ® EC capsules , is a synthetic corticosteroid .
+It is designated chemically as ( RS ) - 11β , 16α , 17 , 21 - tetrahydroxypregna - 1 , 4 - diene - 3 , 20 - dione cyclic 16 , 17 - acetal with butyraldehyde .
+Budesonide is provided as a mixture of two epimers ( 22 R and 22 S ) .
+The empirical formula of budesonide is C25H34O6 and its molecular weight is 430 . 5 .
+Its structural formula is : [ MULTIMEDIA ] [ MULTIMEDIA ] Budesonide is a white to off - white , tasteless , odorless powder that is practically insoluble in water and heptane , sparingly soluble in ethanol , and freely soluble in chloroform .
+Its partition coefficient between octanol and water at pH 5 is 1 . 6 x 103 ionic strength 0 . 01 .
+Each capsule contains 3 mg of micronized budesonide with the following inactive ingredients : ethylcellulose , acetyltributyl citrate , methacrylic acid copolymer type C , triethyl citrate , antifoam M , polysorbate 80 , talc , and sugar spheres .
+The capsule shells have the following inactive ingredients : gelatin , iron oxide , and titanium dioxide .
+[ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Budesonide has a high topical glucocorticosteroid ( GCS ) activity and a substantial first pass elimination .
+The formulation contains granules which are coated to protect dissolution in gastric juice , but which dissolve at pH > 5 . 5 , ie , normally when the granules reach the duodenum .
+Thereafter , a matrix of ethylcellulose with budesonide controls the release of the drug into the intestinal lumen in a time - dependent manner .
+PHARMACOKINETICS Absorption The absorption of ENTOCORT EC seems to be complete , although Cmax and Tmax are variable .
+Time to peak concentration varies in individual patients between 30 and 600 minutes .
+Following oral administration of 9 mg of budesonide in healthy subjects , a peak plasma concentration of approximately 5 nmol / L is observed and the area under the plasma concentration time curve is approximately 30 nmol • hr / L .
+The systemic availability after a single dose is higher in patients with Crohn ' s disease compared to healthy volunteers , ( 21 % vs 9 % ) but approaches that in healthy volunteers after repeated dosing .
+Distribution The mean volume of distribution ( Vss ) of budesonide varies between 2 . 2 and 3 . 9 L / kg in healthy subjects and in patients .
+Plasma protein binding is estimated to be 85 to 90 % in the concentration range 1 to 230 nmol / L , independent of gender .
+The erythrocyte / plasma partition ratio at clinically relevant concentrations is about 0 . 8 .
+Metabolism Following absorption , budesonide is subject to high first pass metabolism ( 80 - 90 % ) .
+In vitro experiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed , mainly by CYP3A4 , to its 2 major metabolites , 6β - hydroxy budesonide and 16α - hydroxy prednisolone .
+The glucocorticoid activity of these metabolites is negligible ( < 1 / 100 ) in relation to that of the parent compound .
+In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and demonstrate that budesonide has a high plasma clearance , 0 . 9 - 1 . 8 L / min .
+Similarly , high plasma clearance values have been shown in patients with Crohn ’ s disease .
+These high plasma clearance values approach the estimated liver blood flow , and , accordingly , suggest that budesonide is a high hepatic clearance drug .
+The plasma elimination half - life , t1 / 2 , after administration of intravenous doses ranges between 2 . 0 and 3 . 6 hours , and does not differ between healthy adults and patients with Crohn ’ s disease .
+Excretion Budesonide is excreted in urine and feces in the form of metabolites .
+After oral as well as intravenous administration of micronized [ 3 H ] - budesonide , approximately 60 % of the recovered radioactivity is found in urine .
+The major metabolites , including 6β - hydroxy budesonide and 16α - hydroxy prednisolone , are mainly renally excreted , intact or in conjugated forms .
+No unchanged budesonide is detected in urine .
+Special Populations No significant pharmacokinetic differences have been identified due to sex .
+Hepatic Insufficiency In patients with liver cirrhosis , systemic availability of orally administered budesonide correlates with disease severity and is , on average , 2 . 5 - fold higher compared with healthy controls .
+Patients with mild liver disease are minimally affected .
+Patients with severe liver dysfunction were not studied .
+Absorption parameters are not altered , and for the intravenous dose , no significant differences in CL or Vss are observed .
+Renal Insufficiency The pharmacokinetics of budesonide in patients with renal impairment has not been studied .
+Intact budesonide is not renally excreted , but metabolites are to a large extent , and might therefore reach higher levels in patients with impaired renal function .
+However , these metabolites have negligible corticosteroid activity as compared with budesonide ( < 1 / 100 ) .
+Thus , patients with impaired renal function taking budesonide are not expected to have an increased risk of adverse effects .
+DRUG - DRUG INTERACTIONS Budesonide is metabolized via CYP3A4 .
+Potent inhibitors of CYP3A4 can increase the plasma levels of budesonide severalfold .
+Co - administration of ketoconazole results in an eight - fold increase in AUC of budesonide , compared to budesonide alone .
+Grapefruit juice , an inhibitor of gut mucosal CYP3A , approximately doubles the systemic exposure of oral budesonide .
+Conversely , induction of CYP3A4 can result in the lowering of budesonide plasma levels .
+Oral contraceptives containing ethinyl estradiol , which are also metabolized by CYP3A4 , do not affect the pharmacokinetics of budesonide .
+Budesonide does not affect the plasma levels of oral contraceptives ( ie , ethinyl estradiol ) .
+Since the dissolution of the coating of ENTOCORT EC is pH dependent ( dissolves at pH > 5 . 5 ) , the release properties and uptake of the compound may be altered after treatment with drugs that change the gastrointestinal pH . However , the gastric acid inhibitory drug omeprazole , 20 mg qd , does not affect the absorption or pharmacokinetics of ENTOCORT EC .
+When an uncoated oral formulation of budesonide is co - administered with a daily dose of cimetidine 1 g , a slight increase in the budesonide peak plasma concentration and rate of absorption occurs , resulting in significant cortisol suppression .
+Food Effects A mean delay in time to peak concentration of 2 . 5 hours is observed with the intake of a high - fat meal , with no significant differences in AUC .
+PHARMACODYNAMICS Budesonide has a high glucocorticoid effect and a weak mineralocorticoid effect , and the affinity of budesonide to GCS receptors , which reflects the intrinsic potency of the drug , is about 200 - fold that of cortisol and 15 - fold that of prednisolone .
+Treatment with systemically active GCS is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus - pituitary - adrenal ( HPA ) axis function .
+Markers , indirect and direct , of this are cortisol levels in plasma or urine and response to ACTH stimulation .
+Plasma cortisol suppression was compared following five days ’ administration of ENTOCORT EC capsules and prednisolone in a crossover study in healthy volunteers .
+The mean decrease in the integrated 0 - 24 hour plasma cortisol concentration was greater ( 78 % ) with prednisolone 20 mg / day compared to 45 % with ENTOCORT EC 9 mg / day .
+CLINICAL STUDIES The safety and efficacy of ENTOCORT EC were evaluated in 994 patients with mild to moderate active Crohn ’ s disease of the ileum and / or ascending colon in 5 randomized and double - blind studies .
+The study patients ranged in age from 17 to 85 ( mean 35 ) , 40 % were male and 97 % were white .
+Of the 651 patients treated with ENTOCORT EC , 17 ( 2 . 6 % ) were ≥ 65 years of age and none were > 74 years of age .
+The Crohn ’ s Disease Activity Index ( CDAI ) was the main clinical assessment used for determining efficacy in these 5 studies .
+The CDAI is a validated index based on subjective aspects rated by the patient ( frequency of liquid or very soft stools , abdominal pain rating and general well - being ) and objective observations ( number of extraintestinal symptoms , need for antidiarrheal drugs , presence of abdominal mass , body weight and hematocrit ) .
+Clinical improvement , defined as a CDAI score of ≤ 150 assessed after 8 weeks of treatment , was the primary efficacy variable in these 5 comparative efficacy studies of ENTOCORT EC capsules .
+Safety assessments in these studies included monitoring of adverse experiences .
+A checklist of potential symptoms of hypercorticism was used .
+One study ( Study 1 ) compared the safety and efficacy of ENTOCORT EC 9 mg qd in the morning to a comparator .
+At baseline , the median CDAI was 272 .
+ENTOCORT EC 9 mg qd resulted in a significantly higher clinical improvement rate at Week 8 than the comparator ( Table 1 ) .
+Table 1 Clinical Improvement Rates ( CDAI ≤ 150 ) After 8 weeks of TreatmentClinical Study ENTOCORT EC 9 mg QD 4 . 5 mg BID Comparator [ 1 ] Placebo Prednisolone 1 62 / 91 ( 69 % ) 37 / 83 ( 45 % ) 2 31 / 61 ( 51 % ) 13 / 64 ( 20 % ) 3 38 / 79 ( 48 % ) 41 / 78 ( 53 % ) 13 / 40 ( 33 % ) 4 35 / 58 ( 60 % ) 25 / 60 ( 42 % ) 35 / 58 ( 60 % ) 5 45 / 86 ( 52 % ) 56 / 85 ( 65 % ) [ 1 ] This drug is not approved for the treatment of Crohn ' s disease in the United States Two placebo - controlled clinical trials ( Studies 2 and 3 ) were conducted .
+Study 2 involved 258 patients and tested the effects of graded doses of ENTOCORT EC ( 1 . 5 mg bid , 4 . 5 mg bid , or 7 . 5 mg bid ) versus placebo .
+At baseline , the median CDAI was 290 .
+The 3 mg per day dose level ( data not shown ) could not be differentiated from placebo .
+The 9 mg per day arm was statistically different from placebo ( Table 1 ) , while no additional benefit was seen when the daily ENTOCORT EC dose was increased to 15 mg per day ( data not shown ) .
+In Study 3 , the median CDAI at baseline was 263 .
+Neither 9 mg qd nor 4 . 5 mg bid ENTOCORT EC dose levels was statistically different from placebo ( Table 1 ) .
+Two clinical trials ( Studies 4 and 5 ) compared ENTOCORT EC capsules with oral prednisolone ( initial dose 40 mg per day ) .
+At baseline , the median CDAI was 277 .
+Equal clinical improvement rates ( 60 % ) were seen in the ENTOCORT EC 9 mg qd and the prednisolone groups in Study 4 .
+In Study 5 , 13 % fewer patients in the ENTOCORT EC group experience clinical improvement than in the prednisolone group ( no statistical difference ) ( Table 1 ) .
+The proportion of patients with normal plasma cortisol values ( ≥ 150 nmol / L ) was significantly higher in the ENTOCORT EC groups in both trials ( 60 to 66 % ) than in the prednisolone groups ( 26 to 28 % ) at Week 8 .
+The efficacy and safety of ENTOCORT EC for maintenance of clinical remission were evaluated in four double - blind , placebo - controlled , 12 - month trials in which 380 patients were randomized and treated once daily with 3 mg or 6 mg ENTOCORT EC or placebo .
+Patients ranged in age from 18 to 73 ( mean 37 ) years .
+Sixty percent of the patients were female and 99 % were Caucasian .
+The mean CDAI at entry was 96 .
+Among the four clinical trials , approximately 75 % of the patients enrolled had exclusively ileal disease .
+Colonoscopy was not performed following treatment .
+ENTOCORT EC 6 mg / day prolonged the time to relapse , defined as an increase in CDAI of at least 60 units to a total score > 150 or withdrawal due to disease deterioration .
+The median time to relapse in the pooled population of the 4 studies was 154 days for patients taking placebo , and 268 days for patients taking ENTOCORT EC 6 mg / day .
+ENTOCORT EC 6 mg / day reduced the proportion of patients with loss of symptom control relative to placebo in the pooled population for the 4 studies at 3 months ( 28 % vs . 45 % for placebo ) .
+INDICATIONS & USAGE ENTOCORT EC is indicated for • the treatment of mild to moderate active Crohn ' s disease involving the iluem and / or the ascending colon and • the maintenance of clinical remission of mild to moderate Crohn ' s disease involving the ileum and / or the ascending colon for up to 3 months .
+CONTRAINDICATIONS ENTOCORT EC is contraindicated in patients with known hypersensitivity to budesonide .
+WARNINGS Glucocorticosteroids can reduce the response of the hypothalamus - pituitary - adrenal ( HPA ) axis to stress .
+In situations where patients are subject to surgery or other stress situations , supplementation with a systemic glucocorticosteroid is recommended .
+Since ENTOCORT EC is a glucocorticosteroid , general warnings concerning glucocorticoids should be followed .
+Care is needed in patients who are transferred from glucocorticosteroid treatment with high systemic effects to corticosteroids with lower systemic availability , since symptoms attributed to withdrawal of steroid therapy , including those of acute adrenal suppression or benign intracranial hypertension , may develop .
+Adrenocortical function monitoring may be required in these patients and the dose of systemic steroid should be reduced cautiously .
+Patients who are on drugs that suppress the immune system are more susceptible to infection than healthy individuals .
+Chicken pox and measles , for example , can have a more serious or even fatal course in susceptible patients or patients on immunosuppressant doses of glucocorticosteroids .
+In patients who have not had these diseases , particular care should be taken to avoid exposure .
+How the dose , route and duration of glucocorticosteroid administration affect the risk of developing a disseminated infection is not known .
+The contribution of the underlying disease and / or prior glucocorticosteroid treatment to the risk is also not known .
+If exposed , therapy with varicella zoster immune globulin ( VZIG ) or pooled intravenous immunoglobulin ( IVIG ) , as appropriate , may be indicated .
+If exposed to measles , prophylaxis with pooled intramuscular immunoglobulin ( IG ) may be indicated .
+( See the respective package insert for complete VZIG and IG prescribing information . )
+If chicken pox develops , treatment with antiviral agents may be considered .
+PRECAUTIONS General Caution should be taken in patients with tuberculosis , hypertension , diabetes mellitus , osteoporosis , peptic ulcer , glaucoma or cataracts , or with a family history of diabetes or glaucoma , or with any other condition where glucocorticosteroids may have unwanted effects .
+Replacement of systemic glucocorticosteroids with ENTOCORT EC capsules may unmask allergies , eg , rhinitis and eczema , which were previously controlled by the systemic drug .
+When ENTOCORT EC capsules are used chronically , systemic glucocorticosteroid effects such as hypercorticism and adrenal suppression may occur .
+Reduced liver function affects the elimination of glucocorticosteroids , and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis .
+Information for Patients ENTOCORT EC capsules should be swallowed whole and NOT CHEWED OR BROKEN .
+Patients should be advised to avoid the consumption of grapefruit juice for the duration of their ENTOCORT EC therapy .
+Patients should be given the patient package insert for additional information .
+Drug Interactions Concomitant oral administration of ketoconazole ( a known inhibitor of CYP3A4 activity in the liver and in the intestinal mucosa ) caused an eight - fold increase of the systemic exposure to oral budesonide .
+If treatment with inhibitors of CYP3A4 activity ( such as ketoconazole , intraconazole , ritonavir , indinavir , saquinavir , erythromycin , etc . ) is indicated , reduction of the budesonide dose should be considered .
+After extensive intake of grapefruit juice ( which inhibits CYP3A4 activity predominantly in the intestinal mucosa ) , the systemic exposure for oral budesonide increased about two times .
+As with other drugs primarily being metabolized through CYP3A4 , ingestion of grapefruit or grapefruit juice should be avoided in connection with budesonide administration .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenicity studies with budesonide were conducted in rats and mice .
+In a two - year study in Sprague - Dawley rats , budesonide caused a statistically significant increase in the incidence of gliomas in male rats at an oral dose of 50 mcg / kg ( approximately 0 . 05 times the maximum recommended human dose on a body surface area basis ) .
+In addition , there were increased incidences of primary hepatocellular tumors in male rats at 25 mcg / kg ( approximately 0 . 023 times the maximum recommended human dose on a body surface area basis ) and above .
+No tumorigenicity was seen in female rats at oral doses up to 50 mcg / kg ( approximately 0 . 05 times the maximum recommended human dose on a body surface area basis ) .
+In an additional two - year study in male Sprague - Dawley rats , budesonide caused no gliomas at an oral dose of 50 mcg / kg ( approximately 0 . 05 times the maximum recommended human dose on a body surface area basis ) .
+However , it caused a statistically significant increase in the incidence of hepatocellular tumors at an oral dose of 50 mcg / kg ( approximately 0 . 05 times the maximum recommended human dose on a body surface area basis ) .
+The concurrent reference corticosteroids ( prednisolone and triamcinolone acetonide ) showed similar findings .
+In a 91 - week study in mice , budesonide caused no treatment - related carcinogenicity at oral doses up to 200 mcg / kg ( approximately 0 . 1 times the maximum recommended human dose on a body surface area basis ) .
+Budesonide was not genotoxic in the Ames test , the mouse lymphoma cell forward gene mutation ( TK + / - ) test , the human lymphocyte chromosome aberration test , the Drosophila melanogaster sex - linked recessive lethality test , the rat hepatocyte UDS test and the mouse micronucleus test .
+In rats , budesonide had no effect on fertility at subcutaneous doses up to 80 mcg / kg ( approximately 0 . 07 times the maximum recommended human dose on a body surface area basis ) .
+However , it caused a decrease in prenatal viability and viability in pups at birth and during lactation , along with a decrease in maternal body - weight gain , at subcutaneous doses of 20 mcg / kg ( approximately 0 . 02 times the maximum recommended human dose on a body surface area basis ) and above .
+No such effects were noted at 5 mcg / kg ( approximately 0 . 005 times the maximum recommended human dose on a body surface area basis ) .
+Pregnancy Teratogenic Effects : Pregnancy Category C : As with other corticosteroids , budesonide was teratogenic and embryocidal in rabbits and rats .
+Budesonide produced fetal loss , decreased pup weights , and skeletal abnormalities at subcutaneous doses of 25 mcg / kg in rabbits ( approximately 0 . 05 times the maximum recommended human dose on a body surface area basis ) and 500 mcg / kg in rats ( approximately 0 . 5 times the maximum recommended human dose on a body surface area basis ) .
+There are no adequate and well - controlled studies in pregnant women .
+Budesonide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nonteratogenic Effects : Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy .
+Such infants should be carefully observed .
+Nursing Mothers The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum . 1 Systemic exposure to budesonide in these women appears to be comparable to that in non - lactating women with asthma from other studies .
+Breast milk obtained over eight hours post - dose revealed that the maximum budesonide concentration for the 400 and 800 mcg total daily doses was 0 . 39 and 0 . 78 nmol / L , respectively , and occurred within 45 minutes after inhalation .
+The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0 . 007 and 0 . 014 mcg / kg / day for the two dose regimens used in this study , which represents approximately 0 . 3 % to 1 % of the dose inhaled by the mother .
+Budesonide plasma concentrations obtained from five infants at about 90 minutes after breast feeding ( and about 140 minutes after drug administration to the mother ) were below quantifiable levels ( < 0 . 02 nmol / L in four infants and < 0 . 04 nmol / L in one infant ) .
+The recommended daily dose of ENTOCORT EC capsules is higher ( up to 9 mg daily ) compared with inhaled budesonide ( up to 800 μg daily ) given to mothers in the above study .
+The maximum budesonide plasma concentration following a 9 mg daily dose ( in both single - and repeated - dose pharmacokinetic studies ) of oral budesonide is approximately 5 - 10 nmol / L which is up to 10 times higher than the 1 - 2 nmol / L for a 800 μg daily dose of inhaled budesonide at steady state in the above inhalation study .
+Since there are no data from controlled trials on the use of ENTOCORT EC by nursing mothers or their infants , and because of the potential for serious adverse reactions in nursing infants from ENTOCORT EC , a decision should be made whether to discontinue nursing or to discontinue ENTOCORT EC , taking into account the clinical importance of ENTOCORT EC to the mother .
+Budesonide , like other corticosteroids , is secreted in human milk .
+Data from budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0 . 3 % to 1 % of the dose inhaled by the mother .
+Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels , at therapeutic doses of ENTOCORT EC , budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Clinical studies of ENTOCORT EC did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The safety of ENTOCORT EC was evaluated in 651 patients in five short - term , active disease state studies .
+They ranged in age from 17 to 74 ( mean 35 ) , 40 % were male and 97 % were white , 2 . 6 % were ≥ 65 years of age .
+Five hundred and twenty patients were treated with ENTOCORT EC 9 mg ( total daily dose ) .
+In general , ENTOCORT EC was well tolerated in these trials .
+The most common adverse events reported were headache , respiratory infection , nausea , and symptoms of hypercorticism .
+Clinical studies have shown that the frequency of glucocorticosteroid - associated adverse events was substantially reduced with ENTOCORT EC capsules compared with prednisolone at therapeutically equivalent doses .
+Adverse events occurring in ≥ 5 % of the patients are listed in Table 2 : Table 2 Adverse Events Occurring in ≥ 5 % of the Patients in any Treated Group ENTOCORT EC 9 mg n = 520 Placebo n = 107 Prednisolone 40 mg n = 145 Comparator null n = 88 Adverse Event Number ( % ) Number ( % ) Number ( % ) Number ( % ) Headache 107 ( 21 ) 19 ( 18 ) 31 ( 21 ) 11 ( 13 ) Respiratory Infection 55 ( 11 ) 7 ( 7 ) 20 ( 14 ) 5 ( 6 ) Nausea 57 ( 11 ) 10 ( 9 ) 18 ( 12 ) 7 ( 8 ) Back Pain 36 ( 7 ) 10 ( 9 ) 17 ( 12 ) 5 ( 6 ) Dyspepsia 31 ( 6 ) 4 ( 4 ) 17 ( 12 ) 3 ( 3 ) Dizziness 38 ( 7 ) 5 ( 5 ) 18 ( 12 ) 5 ( 6 ) Abdominal Pain 32 ( 6 ) 18 ( 17 ) 6 ( 4 ) 10 ( 11 ) Flatulence 30 ( 6 ) 6 ( 6 ) 12 ( 8 ) 5 ( 6 ) Vomiting 29 ( 6 ) 6 ( 6 ) 6 ( 4 ) 6 ( 7 ) Fatigue 25 ( 5 ) 8 ( 7 ) 11 ( 8 ) 0 ( 0 ) Pain 24 ( 5 ) 8 ( 7 ) 17 ( 12 ) 2 ( 2 ) The safety of ENTOCORT EC was evaluated in 233 patients in four long - term clinical trials ( 52 weeks ) .
+A total of 145 patients were treated with ENTOCORT EC 6 mg .
+A total of 8 % of ENTOCORT EC patients discontinued treatment due to adverse events compared with 10 % in the placebo group .
+The adverse event profile in long - term treatment of Crohn ’ s disease was similar to that of short - term treatment with ENTOCORT EC 9 mg in active Crohn ’ s disease .
+In the long - term clinical trials , the following adverse events occurred in ≥ 5 % of the 6 mg ENTOCORT EC patients and are not listed in Table 2 or by body system below : diarrhea ( 10 % ) ; sinusitis ( 8 % ) ; infection viral ( 6 % ) ; and arthralgia ( 5 % ) .
+Adverse events occurring in 520 patients treated with ENTOCORT EC 9 mg ( total daily dose ) in five short - term , active disease state studies .
+with an incidence < 5 % and greater than placebo ( n = 107 ) are listed below by body system : Body as a Whole : asthenia , C - Reactive protein increased , chest pain , dependent edema , face edema , flu - like disorder , malaise ; Cardiovascular : hypertension ; Central and Peripheral Nervous System : hyperkinesia , paresthesia , tremor , vertigo ; Gastrointestinal : anus disorder , Crohn ’ s disease aggravated , enteritis , epigastric pain , gastrointestinal fistula , glossitis , hemorrhoids , intestinal obstruction , tongue edema , tooth disorder ; Hearing and Vestibular : Ear infection - not otherwise specified ; Heart Rate and Rhythm : palpitation , tachycardia ; Metabolic and Nutritional : hypokalemia , weight increase ; Musculoskeletal : arthritis aggravated , cramps , myalgia ; Psychiatric : agitation , appetite increased , confusion , insomnia , nervousness , sleep disorder , somnolence ; Resistance Mechanism : moniliasis ; Reproductive , Female : intermenstrual bleeding , menstrual disorder ; Respiratory : bronchitis , dyspnea ; Skin and Appendages : acne , alopecia , dermatitis , eczema , skin disorder , sweating increased ; Urinary : dysuria , micturition frequency , nocturia ; Vascular : flushing ; Vision : eye abnormality , vision abnormal ; White Blood Cell : leukocytosis For the 145 patients treated with ENTOCORT EC 6 mg ( total daily dose ) in long - term studies , the following adverse events that are not included in the list above occurred with an incidence < 5 % but > 2 % and greater than for placebo : abscess , amnesia , dizziness , fever , pharynx disorder , purpura , rhinitis , and urinary tract infection .
+Glucocorticosteroid Adverse Reactions Table 3 displays the frequency and incidence of signs / symptoms of hypercorticism by active questioning of patients in short - term clinical trials .
+Table 3 Summary and Incidence of Signs / Symptoms of Hypercorticism in Short - Term Studies ENTOCORT EC 9 mg n = 427 Placebo n = 107 Prednisolone Taper 40 mg n = 145 Signs / Symptom Number ( % ) Number ( % ) Number ( % ) Acne 63 ( 15 ) 14 ( 13 ) 33 ( 23 ) [ 1 ] Bruising Easily 63 ( 15 ) 12 ( 11 ) 13 ( 9 ) Moon Face 46 ( 11 ) 4 ( 4 ) 53 ( 37 ) null Swollen Ankles 32 ( 7 ) 6 ( 6 ) 13 ( 9 ) Hirsutism 22 ( 5 ) 2 ( 2 ) 5 ( 3 ) Buffalo Hump 6 ( 1 ) 2 ( 2 ) 5 ( 3 ) Skin Striae 4 ( 1 ) 2 ( 2 ) 0 ( 0 ) [ 1 ] Statistically significantly different from ENTOCORT EC 9 mg Table 4 displays the frequency and incidence of signs / symptoms of hypercorticism by active questioning of patients in long - term clinical trials .
+Table 4 : Summary and Incidence of Signs / Symptoms of Hypercorticism in Long - Term Studies ENTOCORT EC 3 mg n - 88 ENTOCORT EC 6 mg n = 145 Placebo n = 143 Signs / Symptom Number ( % ) Number ( % ) Number ( % ) Bruising Easily Acne Moon Face Hirsutism Swollen Ankles Buffalo Hump Skin Striae 4 ( 5 ) 4 ( 5 ) 3 ( 3 ) 2 ( 2 ) 2 ( 2 ) 1 ( 1 ) 2 ( 2 ) 15 ( 10 ) 14 ( 10 ) 6 ( 4 ) 5 ( 3 ) 3 ( 2 ) 1 ( 1 ) 0 5 ( 4 ) 3 ( 2 ) 0 1 ( 1 ) 3 ( 2 ) 0 0 The incidence of signs / symptoms of hypercorticism as described above in long - term clinical trials was similar to that seen in the short - term clinical trials .
+A randomized , open , parallel - group multicenter safety study specifically compared the effect of ENTOCORT EC ( < 9 mg / day ) and prednisolone ( < 40 mg / day ) on bone mineral density over 2 years when used at doses adjusted to disease severity .
+Bone mineral density decreased significantly less with ENTOCORT EC than with prednisolone in steroid - naïve patients , whereas no difference could be detected between treatment groups for steroid - dependent patients and previous steroid users .
+The incidence of treatment - emergent symptoms of hypercorticism was significantly higher with prednisolone treatment .
+Postmarketing Experience The following adverse reactions have been identified during postapproval use of ENTOCORT EC .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Immune System Disorders : Anaphylactic reactions ; Nervous System Disorders : Benign intracranial hypertension .
+CLINICAL LABORATORY TEST FINDINGS The following potentially clinically significant laboratory changes in clinical trials , irrespective of relationship to ENTOCORT EC , were reported in ≥ 1 % of patients : hypokalemia , leukocytosis , anemia , hematuria , pyuria , erythrocyte sedimentation rate increased , alkaline phosphatase increased , atypical neutrophils , C - reactive protein increased , and adrenal insufficiency .
+OVERDOSAGE Reports of acute toxicity and / or death following overdosage of glucocorticosteroids are rare .
+Treatment consists of immediate gastric lavage or emesis followed by supportive and symptomatic therapy .
+If glucocorticosteroids are used at excessive doses for prolonged periods , systemic glucocorticosteroid effects such as hypercorticism and adrenal suppression may occur .
+For chronic overdosage in the face of severe disease requiring continuous steroid therapy , the dosage may be reduced temporarily .
+Single oral doses of 200 and 400 mg / kg were lethal in female and male mice , respectively .
+The signs of acute toxicity were decreased motor activity , piloerection and generalized edema .
+DOSAGE & ADMINISTRATION The recommended adult dosage for the treatment of mild to moderate active Crohn ' s disease involving the ileum and / or the ascending colon is 9 mg taken once daily in the morning for up to 8 weeks .
+Repeated 8 week courses of ENTOCORT EC can be given for recurring episodes of active disease .
+Following an 8 week course ( s ) of treatment for active disease and once the patient ’ s symptoms are controlled ( CDAI < 150 ) , ENTOCORT EC 6 mg is recommended once daily for maintenance of clinical remission up to 3 months .
+If symptom control is still maintained at 3 months an attempt to taper to complete cessation is recommended .
+Continued treatment with ENTOCORT EC 6 mg for more than 3 months has not been shown to provide substantial clinical benefit .
+Patients with mild to moderate active Crohn ’ s disease involving the ileum and / or ascending colon have been switched from oral prednisolone to ENTOCORT EC with no reported episodes of adrenal insufficiency .
+Since prednisolone should not be stopped abruptly , tapering should begin concomitantly with initiating ENTOCORT EC treatment .
+Hepatic Insufficiency : Patients with moderate to severe liver disease should be monitored for increased signs and / or symptoms of hypercorticism .
+Reducing the dose of ENTOCORT EC capsules should be considered in these patients .
+CYP3A4 inhibitors : If concomitant administration with ketoconazole , or any other CYP3A4 inhibitor , is indicated , patients should be closely monitored for increased signs and / or symptoms of hypercorticism .
+Reduction in the dose of ENTOCORT EC capsules should be considered .
+ENTOCORT EC capsules should be swallowed whole and not chewed or broken .
+HOW SUPPLIED ENTOCORT EC 3 mg capsules are hard gelatin capsules with an opaque light grey body and an opaque pink cap , coded with ENTOCORT EC 3 mg on the capsule .
+They are supplied as follows : Bottles of 10 NDC 54868 - 4910 - 0 Bottles of 30 NDC 54868 - 4910 - 3 Bottles of 90 NDC 54868 - 4910 - 1 Bottles of 100 NDC 54868 - 4910 - 2 STORAGE AND HANDLING SECTION Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ See USP Controlled Room Temperature ] .
+Keep container tightly closed .
+References 1 .
+Fält A , Bengtsson T , Kennedy B , et al .
+Exposure of infants to budesonide through breast milk of asthmatic mothers .
+J . Allergy Clin Immunol .
+2007 ; 120 ( 4 ) : 798 - 802 .
+ENTOCORT EC is a trademark of the AstraZeneca group of companies PROMETHEUS is a trademark of Prometheus Laboratories Inc .
+© AstraZeneca 2009 Manufactured by : AstraZeneca AB S - 151 85 Södertälje , Sweden Distributed by : Prometheus Laboratories Inc .
+San Diego , CA 92121 Product of Sweden June 2009 Relabeling and Repackaging by : Physicians Total Care , Inc .
+Tulsa , Oklahoma 74146 PATIENT PACKAGE INSERT ENTOCORT ® EC ( budesonide ) Capsules Read this information carefully before you begin treatment .
+Read the information you get whenever you get more medicine .
+There may be new information .
+This information does not take the place of talking with your doctor about your medical condition or your treatment .
+If you have any questions about ENTOCORT EC ( EN - toe - cort EE - CEE ) , ask your health care provider ( provider ) .
+Only your provider can determine if ENTOCORT EC is right for you .
+What is ENTOCORT EC ?
+ENTOCORT EC is a medicine to treat mild to moderate Crohn ’ s disease in many people .
+However , it does not work for everyone who takes it .
+ENTOCORT EC is a nonsystemic corticosteroid , which means it works mainly in one area of the body .
+The medicine in ENTOCORT EC is released in the intestine .
+Therefore , it controls the symptoms of Crohn ’ s disease even though 90 % of the drug does not go into the bloodstream .
+Because of this , it causes fewer severe side effects than other corticosteroids .
+( See the end of this Patient Information for information about Crohn ’ s disease . )
+Who should not take ENTOCORT EC ?
+Do not take ENTOCORT EC if : · you have had an allergic reaction to ENTOCORT EC or any of its ingredients To help your provider decide if ENTOCORT EC is right for you , tell your provider : · if you had an allergic reaction to any medicine in the past · the names of all the prescription and nonprescription medicines you now take .
+Be sure to tell your provider if you take ketoconazole , which can affect processing of ENTOCORT EC by the liver , steroids such as prednisone , or any other drug that suppresses your immune system · if you are pregnant , think you may be pregnant , or plan to get pregnant .
+Your provider will talk about whether ENTOCORT EC is right for you · if you are breast feeding talk with your provider because ENTOCORT EC is carried in human milk and it may harm the baby .
+Your provider should tell you whether you should stop breast feeding to take ENTOCORT EC or should use another treatment .
+· if you ever had liver problems .
+Liver problems affect the amount of ENTOCORT EC that stays in your system , and dosage may need to be changed · if you are about to have surgery for any reason .
+Your dosage may need to be changed · if you have chicken pox or measles , or any other condition that suppresses the immune system · if you or anyone in your family has had diabetes or glaucoma · if you ever had tuberculosis , high blood pressure , osteoporosis , ulcers , or cataracts .
+How should I take ENTOCORT EC ?
+Take ENTOCORT EC in the morning .
+Swallow each ENTOCORT EC capsule whole .
+Do not open , chew , or crush ENTOCORT EC capsules .
+Your provider will tell you how long to take ENTOCORT EC .
+What should I avoid while taking ENTOCORT EC ?
+Patients who take medicines that suppress the immune system , such as ENTOCORT EC , are more likely to get infections .
+Avoid people with infections .
+Also , if you never had chicken pox or measles , be careful to avoid people with these conditions .
+These conditions can be more serious if you get them while taking ENTOCORT EC .
+While you are taking ENTOCORT EC , do not drink grapefruit juice regularly .
+Grapefruit juice can increase the amount of ENTOCORT EC in your blood .
+Other juices , like orange juice or apple juice , do not have this effect .
+What are the side effects of ENTOCORT EC ?
+The most common side effects of ENTOCORT EC are headache , infection in your air passages ( respiratory infection ) , nausea , and symptoms of hypercorticism ( too much steroids in your body ) .
+These symptoms include an increase in the size of the face and neck , acne , and bruising .
+Most symptoms of too much steroids in your body occur less often with ENTOCORT EC than with other steroids .
+Call your provider right away if you notice itching , skin rash , fever , swelling of your face and neck , or trouble breathing while you are taking ENTOCORT EC .
+These may be signs that you are allergic to the medicine and you may need emergency medical help .
+Switching from a systemic medicine , like prednisone , to a nonsystemic medicine , such as ENTOCORT EC , can cause allergies controlled by the systemic medicine to come back .
+These allergies may include eczema ( a skin disease ) or rhinitis ( inflammation inside the nose ) .
+Call your provider if : · your Crohn ’ s disease symptoms worsen during treatment · you notice any side effects or any other symptoms that concern you These are not all the possible side effects of ENTOCORT EC .
+Ask your provider or pharmacist for a complete listing of all possible side effects of ENTOCORT EC .
+What is Crohn ’ s disease ?
+Crohn ’ s disease is an inflammatory bowel disease .
+The inflammation caused by Crohn ’ s disease is usually found in a part of the small intestine called the ileum and in the large intestine ( colon ) .
+It may also occur in any part of the gastrointestinal tract ( digestive system ) from the mouth to the anus ( rectum ) .
+The cause of Crohn ’ s disease is not yet known .
+There are many symptoms of Crohn ’ s disease .
+These include diarrhea , crampy abdominal ( stomach area ) pain , fever , and sometimes bleeding from the rectum .
+Appetite loss followed by weight loss may occur .
+There may also be redness and soreness of the eyes , joint pain , and sores on the skin .
+These symptoms may range from mild to severe .
+There is no cure yet for Crohn ’ s disease .
+However , it is possible for the disease to quiet down ( go into remission ) .
+During these periods of remission , there may be times when the symptoms get worse .
+In general , people with Crohn ’ s disease are able to lead productive lives .
+General advice about prescription medicines Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets .
+Do not use ENTOCORT EC for a condition for which it was not prescribed .
+Do not give ENTOCORT EC to other people , even if they have the same symptoms you have .
+It may harm them .
+Keep ENTOCORT EC and all medicines out of the reach of children .
+This leaflet summarizes the most important information about ENTOCORT EC .
+If you would like more information , talk with your provider .
+You can ask your pharmacist or provider for information about ENTOCORT EC that is written for health professionals .
+You can also visit the ENTOCORT EC Web site at ( www . EntocortEC . com ) or call the information center at AstraZeneca toll - free ( 1 - 800 - 237 - 8898 ) .
+ENTOCORT is a trademark of the AstraZeneca group of companies .
+PROMETHEUS is a trademark of Prometheus Laboratories Inc .
+© AstraZeneca 2009 Manufactured by : AstraZeneca AB S - 151 85 Södertälje , Sweden Distributed by : Prometheus Laboratories Inc .
+San Diego , CA 92121 Product of Sweden June 2009 PACKAGE LABEL . PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] [ MULTIMEDIA ]

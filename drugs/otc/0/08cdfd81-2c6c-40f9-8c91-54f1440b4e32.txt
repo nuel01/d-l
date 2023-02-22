@@ -1,0 +1,91 @@
+FOR DIAGNOSTIC USE DESCRIPTION Gallium Citrate Ga 67 Injection is supplied in isotonic solution as a sterile , non - pyrogenic diagnostic radiopharmaceutical for intravenous administration .
+Each milliliter of the isotonic solution contains 74 MBq ( 2 mCi ) of Gallium Ga 67 on the calibration date , as a complex formed from 9 ng Gallium Chloride Ga 67 , 2 mg of sodium citrate , 6 . 8 mg sodium chloride , and 9 mg benzyl alcohol / mL added as preservative .
+The pH is adjusted to between 4 . 5 - 8 with hydrochloric acid and / or sodium hydroxide solution .
+Gallium Ga 67 , with a half - life of 78 . 3 hours , is cyclotron produced by the proton irradiation of enriched zinc oxide , is essentially carrier - free and contains negligible concentrations of other radioactive isotopes .
+The radionuclidic composition at calibration time is ≥ 99 . 89 % Gallium Ga 67 , ≤ 0 . 01 % Gallium Ga 66 and ≤ 0 . 1 % due to other radiocontaminants , each expressed as a percentage of total activity .
+The radionuclidic composition at expiration time is ≥ 99 . 89 % Gallium Ga 67 , essentially zero ( 0 . 0002 % ) Gallium Ga 66 and essentially zero of other radiocontaminants each expressed as a percentage of total activity .
+The chemical structure for Gallium Citrate is shown below : [ MULTIMEDIA ] Physical Characteristics Gallium Ga 67 decays to stable Zinc Zn 67 by electron capture with a physical half - life of 78 . 3 hours .
+[ 1 ] TABLE 1 .
+Principal Radiation Emission DataRadiation Mean % / Disintegration Mean Energy ( keV ) Gamma - 3 35 . 7 93 . 3 Gamma - 4 19 . 7 184 . 6 Gamma - 6 16 . 0 300 . 2 [ 1 ] Kocher , David C . , " Radioactive Decay Data Tables " , DOE / TIC - 11026 ( 1981 ) .
+External Radiation The specific gamma ray constant for Gallium Ga 67 is 5 . 58 microcoulombs / Kg - hr - MBq ( 0 . 80 R / hr - mCi ) at 1 cm .
+The first half value thickness of lead is 0 . 066 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from the interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 0 . 41 cm of Pb will decrease the external radiation exposure by a factor of 10 .
+TABLE 2 .
+Radiation Attenuation By Lead Shieldingcm of Pb Radiation Attenuation Factor cm of Lead ( Pb ) Radiation Attenuation Factor 0 . 066 0 . 5 2 . 5 10 - 3 0 . 41 10 - 1 4 . 8 10 - 4 1 . 2 10 - 2 To correct for physical decay of this radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 3 .
+TABLE 3 .
+Gallium Ga 67 Decay Chart Half - Life 78 . 3 HoursHours Fraction Remaining Hours Fraction Remaining Hours Fraction Remaining 0 [ 1 ] 1 . 00 42 0 . 69 84 0 . 48 6 0 . 95 48 0 . 65 90 0 . 45 12 0 . 90 54 0 . 62 96 0 . 43 18 0 . 85 60 0 . 59 108 0 . 38 24 0 . 81 66 0 . 56 120 0 . 35 30 0 . 77 72 0 . 53 132 0 . 31 36 0 . 73 78 0 . 50 144 0 . 28 156 0 . 25 168 0 . 23 [ 1 ] Calibration Time [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Carrier - free Gallium Citrate Ga 67 Injection has been found to concentrate in certain viable primary and metastatic tumors , as well as focal site of infection .
+The mechanism of concentration is unknown , but investigational studies have shown that Gallium Ga 67 accumulates in lysosomes and is bound to a soluble intracellular protein .
+It has been reported in the scientific literature that following intravenous injection , the highest tissue concentration of Gallium Ga 67 – other than tumors and sites of infection – is in the renal cortex .
+After the first day , the maximum concentration shifts to bone and lymph nodes , and after the first week , to liver and spleen .
+Gallium is excreted relatively slowly from the body .
+The average whole body retention is 65 % after 7 days , with 26 % having been excreted in the urine and 9 % in the stools .
+INDICATIONS AND USAGES Gallium Citrate Ga 67 Injection may be useful in demonstrating the presence of the following malignancies : Hodgkins disease , lymphomas and bronchogenic carcinoma .
+Positive Ga 67 uptake in the absence of prior symptoms warrants follow - up as an indication of a potential disease state .
+Gallium Citrate Ga 67 Injection may be useful as an aid in detecting some acute inflammatory lesions .
+CONTRAINDICATIONS None known .
+WARNINGS Because of the benzyl alcohol content , caution should be used in administration to newborns , particularly infants born prematurely , and individuals with impaired liver function .
+The vial stopper contains dry natural rubber latex and may cause allergic reactions in providers or patients who are sensitive to latex .
+PRECAUTIONS General A thorough knowledge of the normal distribution of intravenously administered Gallium Citrate Ga 67 Injection is essential in order to accurately interpret pathologic studies .
+The finding in an abnormal gallium concentration usually implies the existence of underlying pathology , but further diagnostic studies should be done to distinguish benign from malignant lesions .
+Gallium Citrate Ga 67 Injection is intended for use as an adjunct in the diagnosis of certain neoplasms .
+Certain pathologic conditions may yield up to 40 % false negative gallium studies .
+Therefore , a negative study cannot be definitively interpreted as ruling out the presence of disease .
+Lymphocytic lymphoma frequently does not accumulate Gallium Ga 67 sufficiently for unequivocal imaging ; and the use of gallium with this histologic type of lymphoma is not recommended at this time .
+Gallium Ga 67 localization cannot differentiate between tumor and acute inflammation ; and other diagnostic studies must be added to define the underlying pathology .
+Gallium Citrate Ga 67 Injection , as well as any other radioactive drugs , must be handled with care , and appropriate safety measures should be used to minimize external radiation exposure to clinical personnel .
+Care should also be taken to minimize radiation exposure to patients consistent with proper patient management .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential or whether Gallium Citrate Ga 67 Injection affects fertility in males or females .
+Pregnancy Animal reproductive studies have not been conducted with Gallium Citrate Ga 67 Injection .
+It is also not known whether Gallium Citrate Ga 67 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Gallium Citrate Ga 67 Injection should be given to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , in a woman of childbearing capability , should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Gallium Citrate Ga 67 Injection is excreted in human milk during lactation ; therefore , formula feedings should be substituted for breast feedings .
+Pediatric Use Safety and effectiveness in the pediatric population has not been established .
+Geriatric Use Clinical studies of Gallium Citrate Ga67 Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Severe itching , erythema , and rash were observed in one patient of 300 studied .
+The rare occurrence of hypersensitivity reactions or allergic reactions , skin rash , and nausea have been reported in association with Gallium 67 use .
+DOSAGE AND ADMINISTRATION The recommended adult ( 70 kg ) dose of Gallium Citrate Ga 67 Injection is 74 - 185 MBq ( 2 - 5 mCi ) .
+Gallium Citrate Ga 67 Injection is intended for intravenous administration only .
+Approximately 10 % of the administered dose is excreted in the feces during the first week after injection .
+Daily laxatives and / or enemas are recommended during the first week after injection until the final images are obtained in order to cleanse the bowel of radioactive material and minimize the possibility of false positive studies .
+Studies indicate the optimal tumor to background concentration ratios are often obtained about 48 hours post - injection .
+However , considerable biological variability may occur in individuals , and acceptable images may be obtained as early as 6 hours and as late as 120 hours after injection .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+Waterproof gloves should be worn during the handling procedures .
+With a shielded sterile syringe , aseptically withdraw the material for use .
+The expiration date of the drug is fourteen days after the date of manufacture .
+Radiation Dosimetry The estimated absorbed radiation doses [ 1 ] from an intravenous injection of 185 MBq ( 5 mCi ) of Gallium Citrate Ga 67 are shown in Table 4 .
+TABLE 4 .
+Dosimetry of Gallium Citrate Ga 67 Injection for Maximal Dose of 185 MBq ( 5 mCi ) mGy / 185 MBq Rads / 5 mCi Whole Body 13 . 0 1 . 30 Skeleton 22 . 0 2 . 20 Liver 23 . 0 2 . 30 Bone Marrow 29 . 0 2 . 90 Spleen 26 . 5 2 . 65 Kidney 20 . 5 2 . 05 Ovaries 14 . 0 1 . 40 Testes 12 . 0 1 . 20 Gastrointestinal Tract Stomach 11 . 0 1 . 10 Small Intestine 18 . 0 1 . 80 Upper Large Intestine 28 . 0 2 . 80 Lower Large Intestine 45 . 0 4 . 50 [ 1 ] MIRD Dose Estimate Report No . 2 , J . Nucl .
+Med .
+14 : 755 - 6 ( 1973 ) .
+HOW SUPPLIED Gallium Citrate Ga 67 Injection is supplied sterile and non - pyrogenic for intravenous use .
+Each mL contains 74 MBq ( 2 mCi ) of Gallium Ga 67 on the calibration date , as a complex formed from 9 ng Gallium Chloride Ga 67 , 2 mg of sodium citrate , 6 . 8 mg sodium chloride , and 9 mg benzyl alcohol / mL as preservative .
+The pH is adjusted to between 4 . 5 - 8 with hydrochloric acid and / or sodium hydroxide solution .
+Vials are available in the following quantities of radioactivity : 244 . 2 , 325 . 6 , 488 . 4 , and 732 . 6 MBq ( 6 . 6 , 8 . 8 , 13 . 2 , and 19 . 8 mCi ) of Gallium Citrate Ga 67 at calibration .
+NDC Number 11994 - 121 Store at controlled room temperature 20 ° - 25 ° C ( 68 ° - 77 ° F ) [ See USP ] .
+The contents of the vial are radioactive and adequate shielding and handling precautions must be maintained .
+This radiopharmaceutical is approved for distribution to persons licensed pursuant to the Code of Massachusetts Regulations 105 CMR 120 . 100 for the uses listed in 105 CMR 120 . 547 or 120 . 552 or under equivalent regulations of the U . S . Nuclear Regulatory Commission , an Agreement State , or a Licensing State .
+Lantheus Medical Imaging , Inc .
+331 Treble Cove Road N . Billerica , MA 01862 USA For Ordering Tel .
+Toll Free : 800 - 299 - 3431 All Other Business : 800 - 362 - 2668 ( For Massachusetts and International , call 978 - 667 - 9531 ) Printed in U . S . A . 511945 - 0318 March 2018 PRINCIPAL DISPLAY PANEL - 2 mCi / mL Vial Label 515283 - 1018 Gallium Gallium Citrate Ga 67 Injection Sterile , Non - Pyrogenic Diagnostic Agent for Intravenous Injection Contents & Assay : 74 MBq / mL ( 2 mCi / mL ) , Gallium Chloride 9 ng / mL , Sodium Citrate 2 mg / mL , Sodium Chloride 6 . 8 mg / mL , Benzyl Alcohol 9 mg / mL .
+The pH is adjusted with NaOH & / or HCl .
+Rx only .
+DIN 02327759 AUST R 19144 See Package Insert for dosing information .
+Vial Stopper Contains Dry Natural Rubber Latex CAUTION : RADIOACTIVE MATERIAL Manufacturer : Lantheus Medical Imaging , Inc .
+USA Canadian License Holder : Lantheus MI Canada , Inc .
+Australian Sponsor : Global Medical Solutions Australia Pty Ltd .
+[ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 2 Part Outer Container Label 515284 - 1018 Gallium Gallium Citrate Ga 67 Injection Sterile , Non - Pyrogenic Diagnostic Agent for Intravenous Injection Contents & Assay : 74 MBq / mL ( 2 mCi / mL ) , Gallium Chloride 9 ng / mL , Sodium Citrate 2 mg / mL , Sodium Chloride 6 . 8 mg / mL , Benzyl Alcohol 9 mg / mL .
+The pH is adjusted with NaOH & / or HCl .
+Rx only .
+See Package Insert for dosing information .
+DIN 02327759 AUST R 19144 Store at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP ] .
+Vial Stopper Contains Dry Natural Rubber Latex CAUTION : RADIOACTIVE MATERIAL Manufacturer : Lantheus Medical Imaging , Inc .
+N . Billerica , MA 01862 USA Canadian Lic .
+Holder : Lantheus MI Canada , Inc .
+Montréal , Canada Australian Sponsor : Global Medical Solutions Australia Pty Ltd . 1 Hattersley Street Arncliffe , NSW - 2205 Australia [ MULTIMEDIA ] [ MULTIMEDIA ]

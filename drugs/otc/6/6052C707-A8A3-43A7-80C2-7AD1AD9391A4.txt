@@ -1,0 +1,181 @@
+1000 mg For Intravenous or Inhalation Administration Package Insert - Instruction for Use DESCRIPTION Pentetate calcium trisodium injection contains the sodium salt of calcium diethylenetriaminepentaacetate .
+Pentetate calcium trisodium is also known as trisodium calcium diethylenetriaminepentaacetate and is commonly referred to as Ca - DTPA .
+It has a molecular formula of Na3CaC14H18N3O10 and a molecular weight of 497 . 4 Daltons .
+It is represented by the following structural formula : [ MULTIMEDIA ] Ca - DTPA is supplied as a clear , colorless , hyperosmolar ( 1260 mOsmol / kg ) solution in a colorless ampoule containing 5 mL .
+The ampoule contents are sterile , non - pyrogenic and suitable for intravenous administration .
+Each mL of solution contains the equivalent of 200 mg pentetate calcium trisodium ( obtained from 158 . 17 mg pentetic acid , 40 . 24 mg calcium carbonate and NaOH ) in water for injection , USP .
+The pH of the solution is adjusted with NaOH and is between 7 . 3 - 8 . 3 .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY General Ca - DTPA forms stable chelates with metal ions by exchanging calcium for a metal of greater binding capacity .
+The radioactive chelates are then excreted by glomerular filtration into the urine .
+In animal studies , Ca - DTPA forms less stable chelates with uranium and neptunium in vivo resulting in the deposition of these elements in tissues including the bone .
+Ca - DTPA treatments are not expected to be effective for uranium and neptunium .
+Radioactive iodine is not bound by DTPA .
+Pharmacodynamics In a study of rodents internally contaminated with plutonium , the rate of plutonium elimination was measured after treatment with Ca - DTPA and Zn - DTPA given intravenously as a single dose of 10 to 1 , 000 µmol / kg ( 0 . 54 – 54 × maximum human dose , MHD ) .
+When treated within one hour of internal contamination , Ca - DTPA resulted in about a 10 - fold higher rate of elimination of plutonium in the urine as compared to Zn - DTPA .
+The chelating capacity of Ca - DTPA is greatest immediately and up to approximately 24 hours after internal contamination when the radiocontaminant is still circulating and readily available for chelation .
+After the first dose of Ca - DTPA , maintenance treatment with either Ca - DTPA or Zn - DTPA resulted in similar rates of elimination of radioactivity .
+However , at comparable doses , Ca - DTPA had more toxicity ( e . g . , more depletion of trace metals , higher rate of mortality , the presence of kidney and liver vacuolization , and small bowel hemorrhagic lesions ) .
+In another study , rodents contaminated with aerosolized plutonium and americium were treated with Ca - DTPA and Zn - DTPA .
+The treatment schedule involved inhalation of Ca - DTPA 2 µmol / kg ( 0 . 11 MHD ) 30 minutes after contamination followed by inhalation of Zn - DTPA 2 µmol / kg at approximately 6 hours , 1 , 2 , 3 , and 6 days , then twice weekly to day 26 or day 27 .
+The treatment regime reduced the lung deposit of plutonium and americium to 1 - 2 % of that in untreated animals .
+Systemic deposit in liver and skeleton were reduced by half .
+Literature and U . S . Registry data in humans indicate that intravenous administration of Ca - DTPA forms chelates with radioactive contaminants found in the circulation , interstitial fluid , and tissues .
+When Ca - DTPA is administered by inhalation within 24 hours of internal radioactive contamination , it can chelate transuranium elements .
+Expectoration is expected to decrease the amount of radioactive contaminant available for systemic absorption .
+The effectiveness of chelation decreases with time after internal contamination because the transuranium elements become incorporated into the tissues .
+Chelation treatment should be given as soon as possible after known or suspected internal contamination with transuranium elements has occurred .
+( See DOSAGE AND ADMINISTRATION ) Pharmacokinetics Plasma retention and urinary excretion data were obtained in 2 subjects that received 750 kBq of 14 C - DTPA .
+As shown in Figure 1 , the radiolabeled DTPA was rapidly distributed throughout the extracellular fluid space and was cleared by glomerular filtration .
+The plasma retention up to 7 hours post dosing was expressed by the sum of three exponential components with average half - lives of 1 . 4 min , 14 . 5 min , and 94 . 4 min .
+The level of activity in the plasma was below the limit of detection 24 hours after injection .
+During the study , no detectable activity was exhaled or excreted in the feces .
+By 24 hours , cumulative urinary excretion was more than 99 % of the injected dose .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Absorption Ca - DTPA is poorly absorbed in the GI tract .
+In animal studies , after oral administration , absorption was approximately 5 % .
+In a U . S . Registry of 18 patients who received a single inhaled or intravenous dose of 1 gram , urine data indicate that the inhaled product was absorbed and resulted in a comparable elimination of the radiocontaminant .
+One study of 2 human subjects that received Ca - DTPA with 14 C - DTPA by inhalation revealed approximately 20 % absorption from the lungs .
+Human or animal bioavailability comparisons for Ca - DTPA are not available after administration by inhalation and intravenous injection .
+( See CLINICAL PHARMACOLOGY , Clinical Trials ) Distribution Following intravenous administration , Ca - DTPA is rapidly distributed throughout the extracellular fluid space .
+No significant amount of Ca - DTPA penetrates into erythrocytes or other cells .
+No accumulation of Ca - DTPA in specific organs has been observed .
+There is little or no binding of the chelating agent by the renal parenchyma .
+Metabolism Ca - DTPA undergoes a minimal amount of metabolic change in the body .
+Adverse Metabolic Effects Studies in animals and humans showed that Ca - DTPA binds endogenous metals of the body ( i . e . , zinc ( Zn ) , magnesium ( Mg ) and manganese ( Mn ) ) .
+In an animal study , high doses of Ca - DTPA led to the loss of zinc and manganese mainly from the small intestine , skeleton , pancreas , and testes .
+Dosing over several days resulted in mobilization or binding of endogenous metals in exchange for calcium and a consequent impairment of metal - controlled or activated systems .
+The rate and amount of endogenous metal depletion increased with split daily dosing and with the length of treatment .
+Depletion of these endogenous metals can interfere with necessary mitotic cellular processes .
+Over longer time periods , depletion of zinc due to Ca - DTPA therapy may result in transient inhibition of a metalloenzyme - δ - aminolevulinic acid dehydrase ( ALAD ) in the blood and suppressed hematopoiesis .
+Elimination Ca - DTPA is cleared from the plasma in the first few hours after dosing through urinary excretion by glomerular filtration .
+Renal tubular excretion has not been documented .
+In stool samples tested , only a very small amount of radioactivity ( < 3 % ) was detected .
+Renal Impaired and / or Compromised Liver Function Patients Adequate and well - controlled pharmacokinetic and pharmacodynamic studies in renally impaired and / or hepatically impaired patients were not identified in the literature .
+Both Ca - DTPA and its radioactive chelates are excreted by glomerular filtration .
+Impaired renal function may decrease their rates of elimination and increase the serum half - life of Ca - DTPA .
+Clinical Trials All clinical data has come from the treatment of individuals who were accidentally contaminated .
+Observational data were maintained in a U . S . Registry of individuals with internal radioactive contamination primarily from acute occupational contamination with plutonium , americium , and curium .
+In 286 individuals , bioassays were available to measure urinary radioactivity elimination after chelation therapy .
+Of these 286 individuals , 18 had matched pre - and post - chelator urine radioactivity bioassay results available .
+Seventeen of these individuals received 1 gram of Ca - DTPA as the first dose .
+Of these , 9 individuals received the first dose by nebulization ( 1 : 1 Ca - DTPA and saline ) and 8 received Ca - DTPA intravenously .
+The elimination of radiocontaminants was measured using the ratio of the urine radioactivity before treatment to the maximum urine radioactivity after treatment ( the excretion enhancement factor , EEF ) .
+As shown in Table 1 , after one dose , the mean EEF was 25 . 7 .
+The descriptive results and variability for the intravenous , inhaled , and combined routes are considered to be similar .
+Table 1 : Urine Excretion Enhancement Factor ( EEF ) of Transuranium Elements after an Initial Dose of 1 g Ca - DTPA , N = 17 Results Intravenous Inhaled Combined Routes Mean 25 . 9 25 . 4 25 . 7 Median 12 . 5 19 . 3 12 . 8 SD 33 . 8 28 . 2 30 . 1 Range 1 . 1 - 396 . 1 0 . 5 - 80 . 0 0 . 5 - 396 . 1 After initial treatment with Ca - DTPA , maintenance treatment was continued with 1 gram Zn - DTPA doses over a period of days , months or years , depending upon the extent of internal contamination and individual response to therapy .
+Most patients received a single dose of Ca - DTPA .
+The longest treatment duration was approximately 6 . 5 years .
+Similar increases in urinary radioactivity elimination following chelator administration were supported by data from the remaining 268 individuals in the U . S . Registry and from the literature .
+INDICATIONS AND USAGE Ca - DTPA is indicated for treatment of individuals with known or suspected internal contamination with plutonium , americium , or curium to increase the rates of elimination .
+CONTRAINDICATIONS None known .
+WARNINGS Ca - DTPA is associated with depletion of endogenous trace metals ( e . g . , zinc , magnesium , manganese ) .
+The magnitude of depletion increases with split daily dosing , with increasing dose , and with increased treatment duration .
+( See CLINICAL PHARMACOLOGY , Pharmacodynamics , Adverse Metabolic Effects ) .
+Only a single initial dose of Ca - DTPA is recommended .
+After the initial single dose of Ca - DTPA , if additional chelation therapy is indicated , it is recommended that therapy be continued with Zn - DTPA .
+( See Zn - DTPA labeling ) If Zn - DTPA is not available , chelation therapy may continue with Ca - DTPA but mineral supplements containing zinc should be given concomitantly , as appropriate .
+Ca - DTPA should be used with caution in individuals with severe hemochromatosis .
+Deaths have been reported in patients with severe hemochromatosis that received up to 4 times the recommended daily dose , for more than 1 day , by IM injection .
+Causal association with these events and drug has not been established .
+( See OVERDOSE ) .
+Nebulized chelation therapy may be associated with exacerbation of asthma .
+Caution should be exercised when administering Ca - DTPA by the inhalation route .
+( See ADVERSE REACTIONS ) PRECAUTIONS Information for Patients Radioactive metals are known to be excreted in the urine , feces , and breast milk .
+In individuals with recent internal contamination with plutonium , americium , or curium , Ca - DTPA treatment increases excretion of radioactivity in the urine .
+Appropriate safety measures should be taken to minimize contamination of others .
+When possible , a toilet should be used instead of a urinal , and it should be flushed several times after each use .
+Spilled urine or feces should be cleaned up completely and patients should wash their hands thoroughly .
+If blood or urine comes in contact with clothing or linens , they should be washed separately .
+Patients should drink plenty of fluids and void frequently .
+If patients are coughing , any expectorant should be disposed of carefully .
+Swallowing the expectorant should be avoided if possible .
+Parents and child - care givers should take extra precaution in handling the urine , feces , and expectorants of children to avoid any additional exposure to either the care - giver or to the child .
+Nursing mothers should take extra precaution in disposing of breast milk .
+( See PRECAUTIONS , Nursing Mothers ) Laboratory Tests Serum electrolytes and essential metals should be closely monitored during Ca - DTPA treatment .
+Mineral or vitamin plus mineral supplements that contain zinc should be given as appropriate .
+( See WARNINGS ) Drug - Drug Interactions Adequate and well - controlled drug - drug interaction studies in humans were not identified in the literature .
+When an individual is contaminated with multiple radiocontaminants , or when the radiocontaminants are unknown , additional therapies may be needed ( e . g . , Prussian blue , potassium iodide ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies with Ca - DTPA to evaluate carcinogenesis , mutagenesis , and impairment of fertility have not been performed .
+Data for Ca - DTPA effects on spermatogenesis are not available .
+Teratogenic Effects Pregnancy Category C There are no human pregnancy outcome data from which to assess the risk of Ca - DTPA exposure on fetal development .
+Ca - DTPA is believed to be teratogenic based on animal data and because chelation therapy results in the depletion of body stores of zinc which is known to affect DNA and RNA synthesis in humans .
+There are no animal or human data evaluating the teratogenic effect of the administration of a single dose of Ca - DTPA .
+Based on its mechanism of action , the likelihood that a single dose or multiple doses of Ca - DTPA is teratogenic in humans cannot be ruled out .
+In mice , Ca - DTPA has been shown to be teratogenic and embryocidal following five daily injections of 720 - 2880 µmol Ca - DTPA / kg [ 2 - 8 times the recommended daily human dose of 1 gram based on body surface area ( BSA ) adjusted dose ] given during any period of gestation .
+The frequency of gross malformations ( e . g . , exencephaly , spina bifida , and cleft palate ) increased with dose , with higher susceptibility in early and mid gestation .
+Five daily doses of 360 µmol Ca - DTPA / kg in mice , approximately equivalent to the recommended daily human dose ( based on BSA ) produced no harmful effects .
+Studies of 2 pregnant dogs given daily injections of 30 µmol Ca - DTPA / kg ( approximately half the recommended daily human dose based on BSA ) from implantation until parturition showed severe teratogenic effects ( especially brain damage ) .
+Multiple doses of Ca - DTPA could result in an increased risk for adverse reproductive outcomes and thus are not recommended during pregnancy .
+Therefore , treatment of pregnant women should begin and continue with Zn - DTPA , if available , except in cases of high internal radioactive contamination .
+In these cases , the risk of immediate and delayed radiation - induced toxicity to both the mother and the fetus should be considered in comparison to the risk of Ca - DTPA toxicity .
+Also , because Ca - DTPA is more effective than Zn - DTPA in the first 24 hours after internal contamination , it may be appropriate to use a single dose of Ca - DTPA with vitamin or mineral supplements that contain zinc as the initial treatment .
+Nursing Mothers Studies to determine if Ca - DTPA is excreted in breast milk have not been conducted .
+Radiocontaminants are known to be excreted in breast milk .
+Women with known or suspected internal contamination with radiocontaminants should not breast feed , whether or not they are receiving chelation therapy .
+Precautions should be taken when discarding breast milk .
+( See PRECAUTIONS , Information for Patients ) Pediatric Use The safety and effectiveness of Ca - DTPA was established in the adult population and efficacy was extrapolated to the pediatric population for the intravenous route based on the comparability of pathophysiologic mechanisms .
+The dose is based on body size adjustment for an intravenous drug that is renally cleared .
+The safety and effectiveness of the nebulized route of administration has not been established in the pediatric population .
+ADVERSE REACTIONS In the U . S . Registry , a total of 646 individuals received at least one dose of either Ca - DTPA or Zn - DTPA .
+Of these , 632 received Ca - DTPA by one or more routes of administration .
+Three hundred and twenty - six individuals were dosed by inhalation , 293 by intravenous injection , and 60 by other or unknown routes of administration .
+Of the individuals that received Ca - DTPA , 393 / 632 ( 62 % ) received one dose and 65 ( 10 % ) received two doses .
+The remaining 174 individuals received three or more doses .
+The largest number of Ca - DTPA doses to a single individual was 338 delivered over 6 . 5 years .
+Overall , the presence or absence of adverse events was recorded in 310 / 646 individuals .
+Of these 19 ( 6 . 1 % ) individuals reported at least one adverse event .
+The total number of recorded adverse events was 20 .
+Of the 20 adverse events , 18 adverse events occurred after treatment with Ca - DTPA .
+Adverse events included headache , lightheadedness , chest pain , allergic reaction , dermatitis , metallic taste , nausea and diarrhea , and injection site reactions .
+Cough and / or wheezing were experienced by 2 individuals receiving nebulized Ca - DTPA , one of whom had a history of asthma .
+In the literature , prolonged treatment with Ca - DTPA resulted in depletion of zinc , magnesium , manganese and possibly metalloproteinases .
+( See WARNINGS ) OVERDOSAGE In previous clinical studies , three deaths were reported in patients with severe hemochromatosis who were treated with daily IM Ca - DTPA dosed up to 4 gram per day to reduce iron stores .
+One patient became comatose and died after receiving a total of 14 gram Ca - DTPA , and the other two died after two weeks of daily treatment .
+Causal association with these events and the drug has not been established .
+( See WARNINGS ) DOSAGE AND ADMINISTRATION Chelation treatment is most effective if administered within the first 24 hours after internal contamination and should be started as soon as possible after suspected or known internal contamination .
+However , even when treatment cannot be started right away , individuals should be given chelation treatment as soon as it becomes available .
+Chelation treatment is still effective even after time has elapsed following internal contamination however , the chelating effects of Ca - DTPA are greatest when radiocontaminants are still circulating or are in interstitial fluids .
+The effectiveness of chelation decreases with time following internal contamination as the radiocontaminants become sequestered in liver and bone .
+Individuals should drink plenty of fluids and void frequently to promote dilution of the radioactive chelate in the urine and minimize radiation exposure directly to the bladder .
+If internal contamination with radiocontaminants other than plutonium , americium , or curium , or unknown radiocontaminants is suspected , additional therapies may be needed ( e . g . , Prussian blue , potassium iodide ) .
+Initial Dose Adults and Adolescents A single 1 . 0 gram initial dose of Ca - DTPA administered intravenously .
+Pediatrics ( less than 12 years of age ) A single initial dose of 14 mg / kg administered intravenously not exceed 1 . 0 gram .
+Renally impaired patients No dose adjustment is needed .
+However , renal impairment may reduce the rate at which chelators remove radiocontaminants from the body .
+In heavily contaminated patients with renal impairment , dialysis may be used to increase the rate of elimination .
+High efficiency high flux dialysis is recommended .
+Because dialysis fluid will become radioactive , radiation precautions must be taken to protect personnel , other patients , and the general public .
+If Ca - DTPA is not available , proceed with treatment with Zn - DTPA as initial therapy .
+Maintenance Treatment AFTER THE INITIAL DOSE , ON THE NEXT DAY , IF ADDITIONAL CHELATION THERAPY IS INDICATED , IT IS PREFERABLE TO SWITCH TO ZN - DTPA , IF AVAILABLE ( SEE ZN - DTPA LABELING ) DUE TO THE SAFETY CONCERNS ASSOCIATED WITH PROLONGED CA - DTPA USE .
+IF ZN - DTPA IS NOT AVAILABLE , TREATMENT MAY CONTINUE WITH CA - DTPA , HOWEVER MINERAL SUPPLEMENTS CONTAINING ZINC SHOULD BE GIVEN CONCOMITANTLY , AS APPROPRIATE .
+Adults and Adolescents The recommended maintenance dose of Ca - DTPA is 1 . 0 gram once a day administered intravenously .
+Pediatrics ( less than 12 years of age ) The recommended maintenance dose of Ca - DTPA is 14 mg / kg once a day administered intravenously .
+The maximum daily dose should not exceed 1 . 0 gram per day .
+Renally impaired patients No dose adjustment is needed .
+The duration of chelation treatment depends on the amount of internal contamination and individual response to treatment .
+( See Monitoring ) Methods of Administration Intravenous administration of Ca - DTPA is recommended and should be used if the route of internal contamination is not known or if multiple routes of internal contamination are likely .
+Ca - DTPA solution ( 1 gram in 5 mL ) should be administered either with a slow intravenous push over a period of 3 - 4 minutes or by intravenous infusion diluted in 100 - 250 mL of 5 % dextrose in water ( D5W ) , Ringers Lactate , or Normal Saline .
+In individuals whose internal contamination is only by inhalation within the preceding 24 hours , Ca - DTPA can be administered by nebulized inhalation as an alternative route of administration .
+Ca - DTPA should be diluted for nebulization at a 1 : 1 ratio with sterile water or saline .
+After nebulization , individuals should be encouraged to avoid swallowing any expectorant .
+Some individuals may experience respiratory adverse events after inhalation therapy .
+( See WARNINGS ) The safety and effectiveness of the nebulized route of administration has not been established in the pediatric population .
+The safety and effectiveness of the intramuscular route of injection have not been established .
+( See OVERDOSE ) Handling OPC ampoule : to open , turn so that the point faces upward and break off the neck with a downward movement .
+[ MULTIMEDIA ] Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+The product may be filtered using a sterile filter if particles are seen subsequent to opening of the ampoule .
+[ MULTIMEDIA ] Monitoring When possible , obtain baseline blood and urine samples ( CBC with differential , BUN , serum chemistries and electrolytes , urinalysis , and blood and urine radioassays ) before initiating treatment .
+Ca - DTPA must be given with very careful monitoring of serum zinc and complete blood counts .
+When appropriate , vitamin or mineral supplements that contain zinc should be administered .
+( See WARNINGS ) To establish an elimination curve , a quantitative baseline estimate of the total internalized transuranium element ( s ) and measures of elimination of radioactivity should be obtained by appropriate whole - body counting , by bioassay ( e . g . , biodosimetry ) , or fecal / urine sample whenever possible .
+During Treatment • Measure the radioactivity in blood , urine , and fecal samples weekly to monitor the radioactive contaminant elimination rate .
+• Monitor CBC with differential , BUN , serum chemistries and electrolytes , and urinalysis regularly .
+If the individual is receiving more than one dose of Ca - DTPA , these laboratory tests should be very carefully monitored and consider mineral supplementation as appropriate .
+( See CLINICAL PHARMACOLOGY , Pharmacodynamics , Adverse Metabolic Effects ) • Record any adverse events from Ca - DTPA .
+HOW SUPPLIED Ca - DTPA is supplied as a sterile solution in 5 mL single - use clear glass ampoules at a concentration of 200 mg / mL for intravenous use .
+Each ampoule contains the equivalent of 1000 mg of pentetate calcium trisodium .
+NDC 52919 - 001 - 03 , 5 mL single - use ampoules , package of 10 .
+Storage Store between 15 - 30 ° C ( 59 - 86 ° F ) .
+COLLECTION OF PATIENT TREATMENT DATA To develop long - term response data and information on the risk of developing late malignancy detailed information on patient treatment should be provided to the manufacturer ( see Patient Treatment Data Form .
+In the case you need additional forms , please use the enclosed form as a template or see the following website : www . ca - dtpa . com ) .
+These data should include a record of the radioactive body burden and bioassay results at defined time intervals , a description of measurement methods to facilitate analysis of data , and adverse events .
+Questions regarding the use of Ca - DTPA for the treatment of internal contamination with transuranium elements may be referred to : hameln pharmaceuticals gmbh Langes Feld 13 31789 Hameln , Germany Tel . : + 49 - 5151 - 581 - 0 Fax . : + 49 - 5151 - 581 - 258 e - mail : welcome @ hm - ph . com contact person : Dr . Mathias Dewald Tel . : + 49 - 5151 - 581 - 214 Fax . : + 49 - 5151 - 581 - 581 e - mail : m . dewald @ hm - ph . com [ MULTIMEDIA ] [ MULTIMEDIA ] hameln pharmaceuticals 44641 / 19 / 05

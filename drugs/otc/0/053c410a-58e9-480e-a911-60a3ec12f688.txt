@@ -1,0 +1,498 @@
+1 INDICATIONS AND USAGE JULUCA is indicated as a complete regimen for the treatment of human immunodeficiency virus type 1 ( HIV - 1 ) infection in adults to replace the current antiretroviral regimen in those who are virologically suppressed ( HIV - 1 RNA less than 50 copies per mL ) on a stable antiretroviral regimen for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to the individual components of JULUCA .
+JULUCA , a two - drug combination of dolutegravir , an HIV - 1 integrase strand transfer inhibitor ( INSTI ) , and rilpivirine , an HIV - 1 non - nucleoside reverse transcriptase inhibitor ( NNRTI ) , is indicated as a complete regimen for the treatment of HIV - 1 infection in adults to replace the current antiretroviral regimen in those who are virologically suppressed ( HIV - 1 RNA less than 50 copies per mL ) on a stable antiretroviral regimen for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to the individual components of JULUCA .
+( 1 ) 2 DOSAGE AND ADMINISTRATION • • Pregnancy Testing : Pregnancy testing is recommended before initiation of JULUCA in individuals of childbearing potential .
+( 2 . 1 , 5 . 3 , 8 . 1 , 8 . 3 ) • • One tablet taken orally once daily with a meal .
+( 2 . 2 ) • • Rifabutin coadministration : Take an additional 25 - mg tablet of rilpivirine with JULUCA once daily with a meal for the duration of the rifabutin coadministration .
+( 2 . 3 ) 2 . 1 Pregnancy Testing before Initiation of JULUCA Pregnancy testing is recommended before initiation of JULUCA in individuals of childbearing potential [ see Warnings and Precautions ( 5 . 3 ) , Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+2 . 2 Recommended Dosage The recommended dosage of JULUCA is one tablet taken orally once daily with a meal [ see Clinical Pharmacology ( 12 . 3 ) ] .
+One tablet of JULUCA contains 50 mg of dolutegravir and 25 mg of rilpivirine .
+2 . 3 Recommended Dosage with Rifabutin Coadministration If JULUCA is coadministered with rifabutin , take an additional 25 - mg tablet of rilpivirine with JULUCA once daily with a meal for the duration of the rifabutin coadministration [ see Drug Interactions ( 7 . 4 ) ] .
+3 DOSAGE FORMS AND STRENGTHS JULUCA tablets are pink , oval , biconvex tablets debossed with “ SV J3T ” on one side .
+Each film - coated tablet contains 50 mg of dolutegravir ( equivalent to 52 . 6 mg dolutegravir sodium ) and 25 mg of rilpivirine ( equivalent to 27 . 5 mg rilpivirine hydrochloride ) .
+Each tablet contains : 50 mg of dolutegravir ( equivalent to 52 . 6 mg dolutegravir sodium ) and 25 mg of rilpivirine ( equivalent to 27 . 5 mg rilpivirine hydrochloride ) .
+( 3 ) 4 CONTRAINDICATIONS JULUCA is contraindicated in patients : • with previous hypersensitivity reaction to dolutegravir or rilpivirine [ see Warnings and Precautions ( 5 . 1 ) ] .
+• receiving dofetilide due to the potential for increased dofetilide plasma concentrations and the risk for serious and / or life - threatening events [ see Drug Interactions ( 7 ) ] .
+• receiving other coadministered drugs in Table 1 that significantly decrease rilpivirine plasma concentrations [ see Drug Interactions ( 7 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 1 .
+Drugs That are Contraindicated with JULUCADrug Class Contraindicated Drugs in Class Clinical Comment Antiarrhythmic Dofetilide Potential for serious and / or life - threatening events due to the potential for increased dofetilide plasma concentrations .
+Anticonvulsants Carbamazepine Oxcarbazepine Phenobarbital Phenytoin Potential for significant decreases in rilpivirine plasma concentrations due to cytochrome P450 ( CYP ) 3 A enzyme induction , which may result in loss of virologic response .
+Antimycobacterials Rifampin Rifapentine Glucocorticoid ( systemic ) Dexamethasone ( more than a single - dose treatment ) Herbal Products St John ’ s wort ( Hypericum perforatum ) Proton Pump Inhibitors e . g . , Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole Potential for significant decreases in rilpivirine plasma concentrations due to gastric pH increase , which may result in loss of virologic response .
+• • Previous hypersensitivity reaction to dolutegravir or rilpivirine .
+( 4 ) • • Coadministration with dofetilide .
+( 4 ) • • Coadministration with drugs where significant decreases in rilpivirine plasma concentrations may occur , which may result in loss of virologic response .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • • Severe skin and hypersensitivity reactions characterized by rash , constitutional findings , and sometimes organ dysfunction , including liver injury , have been reported with the individual components .
+Discontinue JULUCA immediately if signs or symptoms of severe skin or hypersensitivity reactions develop , as a delay in stopping treatment may result in a life - threatening reaction .
+( 5 . 1 ) • • Hepatotoxicity has been reported in patients receiving a dolutegravir - or rilpivirine - containing regimen .
+Monitoring for hepatotoxicity is recommended .
+( 5 . 2 ) • • Embryo - fetal toxicity may occur when used at the time of conception and in early pregnancy .
+Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester due to the risk of neural tube defects .
+Individuals of childbearing potential should be counseled on the consistent use of effective contraception .
+( 2 . 1 , 5 . 3 , 8 . 1 , 8 . 3 ) • • Depressive disorders have been reported with the use of rilpivirine - or dolutegravir - containing regimens .
+Immediate medical evaluation is recommended for severe depressive symptoms .
+( 5 . 4 , 6 . 1 ) 5 . 1 Skin and Hypersensitivity Reactions Hypersensitivity reactions have been reported with dolutegravir and were characterized by rash , constitutional findings , and sometimes organ dysfunction , including liver injury .
+These events were reported in less than 1 % of subjects receiving dolutegravir in Phase 3 clinical trials .
+Severe skin and hypersensitivity reactions have been reported during postmarketing experience , including cases of Drug Reaction with Eosinophilia and Systemic Symptoms ( DRESS ) , with rilpivirine - containing regimens .
+While some skin reactions were accompanied by constitutional symptoms such as fever , other skin reactions were associated with organ dysfunctions , including elevations in hepatic serum biochemistries .
+During the Phase 3 clinical trials of rilpivirine , treatment - related rashes with at least Grade 2 severity were reported in 3 % of subjects .
+No Grade 4 rash was reported [ see Adverse Reactions ( 6 . 2 ) ] .
+Discontinue JULUCA immediately if signs or symptoms of severe skin or hypersensitivity reactions develop ( including , but not limited to , severe rash or rash accompanied by fever , general malaise , fatigue , muscle or joint aches , blisters or peeling of the skin , mucosal involvement [ oral blisters or lesions ] , conjunctivitis , facial edema , hepatitis , eosinophilia , angioedema , difficulty breathing ) .
+Clinical status , including laboratory parameters with liver aminotransferases , should be monitored and appropriate therapy initiated .
+Delay in stopping treatment with JULUCA after the onset of hypersensitivity may result in a life - threatening reaction [ see Contraindications ( 4 ) ] .
+5 . 2 Hepatotoxicity Hepatic adverse events have been reported in patients receiving a dolutegravir - or rilpivirine - containing regimen [ see Adverse Reactions ( 6 . 1 ) ] .
+Patients with underlying hepatitis B or C or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations .
+Additionally , in some patients receiving dolutegravir - containing regimens , the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti - hepatitis therapy was withdrawn .
+Cases of hepatic toxicity , including elevated serum liver biochemistries and hepatitis , have also been reported in patients receiving a dolutegravir - or rilpivirine - containing regimen who had no pre - existing hepatic disease or other identifiable risk factors .
+Drug - induced liver injury leading to acute liver failure has been reported with dolutegravir - containing products , including liver transplant with TRIUMEQ ( abacavir , dolutegravir , and lamivudine ) .
+Monitoring for hepatotoxicity is recommended .
+5 . 3 Embryo - Fetal Toxicity An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy .
+As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use , inform individuals of childbearing potential , including those actively trying to become pregnant , about the potential increased risk of neural tube defects with JULUCA .
+Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [ see Use in Specific Populations ( 8 . 1 .
+8 . 3 ) ] .
+Pregnancy testing is recommended before initiation of JULUCA in individuals of childbearing potential [ see Dosage and Administration ( 2 . 1 ) ] .
+Individuals of childbearing potential should be counseled on the consistent use of effective contraception [ see Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+JULUCA may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus .
+5 . 4 Depressive Disorders Depressive disorders ( including depressed mood , depression , dysphoria , major depression , mood altered , negative thoughts , suicide attempt , and suicidal ideation ) have been reported with rilpivirine [ see Adverse Reactions ( 6 . 1 ) ] .
+For information regarding depressive disorders reported in patients taking dolutegravir , see Adverse Reactions ( 6 . 1 ) .
+Promptly evaluate patients with severe depressive symptoms to assess whether the symptoms are related to JULUCA and to determine whether the risks of continued therapy outweigh the benefits .
+5 . 5 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions The concomitant use of JULUCA and other drugs may result in known or potentially significant drug interactions , some of which may lead to [ see Contraindications ( 4 ) , Drug Interactions ( 7 . 4 ) ] : • • Loss of therapeutic effect of JULUCA and possible development of resistance .
+• • Possible clinically significant adverse reactions from greater exposures of concomitant drugs .
+In healthy subjects , 75 mg once daily of rilpivirine ( 3 times the dose in JULUCA ) and 300 mg once daily ( 12 times the dose in JULUCA ) have been shown to prolong the QTc interval of the electrocardiogram [ see Drug Interactions ( 7 . 3 ) , Clinical Pharmacology ( 12 . 2 ) ] .
+Consider alternatives to JULUCA when coadministered with a drug with a known risk of Torsade de Pointes .
+See Table 4 for steps to prevent or manage these possible and known significant drug interactions , including dosing recommendations .
+Consider the potential for drug interactions prior to and during therapy with JULUCA ; review concomitant medications during therapy with JULUCA ; and monitor for the adverse reactions associated with the concomitant drugs .
+6 ADVERSE REACTIONS The following adverse reactions are described below and in other sections of the labeling : • • Skin and hypersensitivity reactions [ see Warnings and Precautions ( 5 . 1 ) ] .
+• • Hepatotoxicity [ see Warnings and Precautions ( 5 . 2 ) ] .
+• • Depressive disorders [ see Warnings and Precautions ( 5 . 4 ) ] .
+The most common adverse reactions ( all grades ) observed in at least 2 % of subjects were diarrhea , headache , and nausea .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact ViiV Healthcare at 1 - 877 - 844 - 8872 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The safety assessment of JULUCA is based on the pooled primary Week 48 analyses of data from 2 identical , international , multicenter , open - label trials , SWORD - 1 and SWORD - 2 , including additional follow up through Week 148 .
+A total of 1 , 024 adult HIV - 1 – infected subjects who were on a stable suppressive antiretroviral regimen ( containing 2 nucleoside reverse transcriptase inhibitors [ NRTIs ] plus either an integrase strand transfer inhibitor [ INSTI ] , a non - nucleoside reverse transcriptase inhibitor [ NNRTI ] , or a protease inhibitor [ PI ] ) for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine , were randomized and received treatment .
+Subjects were randomized 1 : 1 to continue their current antiretroviral regimen or be switched to dolutegravir plus rilpivirine administered once daily .
+Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52 .
+In the pooled analyses , the proportion of subjects who discontinued treatment due to an adverse event through Week 48 was 4 % in subjects receiving dolutegravir plus rilpivirine once daily and less than 1 % in subjects who remained on their current antiretroviral regimen .
+The most common adverse events leading to discontinuation through Week 48 were psychiatric disorders : 2 % of subjects receiving dolutegravir plus rilpivirine and less than 1 % on the current antiretroviral regimen .
+In the pooled analyses , the proportion of subjects receiving dolutegravir plus rilpivirine who discontinued treatment due to an adverse event through Week 148 was 8 % .
+The most common adverse reactions ( ARs ) ( all grades ) reported in at least 2 % of subjects in the Week 48 pooled analyses from SWORD - 1 and SWORD - 2 are provided in Table 2 .
+Table 2 .
+Adverse Reactions ( Grades 1 to 4 ) Reported in at Least 2 % of Virologically Suppressed Subjects with HIV - 1 Infection in SWORD - 1 and SWORD - 2 Trials ( Week 48 Pooled Analyses ) Adverse Reaction Dolutegravir plus Rilpivirine ( n = 513 ) Current Antiretroviral Regimen ( n = 511 ) Diarrhea 2 % < 1 % Headache 2 % 0 In the Week 148 pooled analyses , the only adverse reaction ( all grades ) occurring in at least 2 % of subjects who received dolutegravir plus rilpivirine and that was not observed during the Week 48 analyses was nausea ( 2 % ) .
+Less Common Adverse Reactions The following ARs occurred in less than 2 % of subjects receiving dolutegravir plus rilpivirine or are from studies described in the prescribing information of the individual components , TIVICAY ( dolutegravir ) and EDURANT ( rilpivirine ) .
+Some events have been included because of their seriousness and assessment of potential causal relationship .
+General Disorders : Fatigue .
+Gastrointestinal Disorders : Abdominal pain , abdominal discomfort , flatulence , nausea , upper abdominal pain , vomiting .
+Hepatobiliary Disorders : Cholecystitis , cholelithiasis , hepatitis .
+Immune System Disorders : Immune reconstitution syndrome .
+Metabolism and Nutrition Disorders : Decreased appetite .
+Musculoskeletal Disorders : Myositis .
+Nervous System Disorders : Dizziness , somnolence .
+Psychiatric Disorders : Depressive disorders including depressed mood ; depression ; suicidal ideation , attempt , behavior , or completion .
+These events were observed primarily in subjects with a pre - existing history of depression or other psychiatric illness .
+Other reported psychiatric adverse reactions include anxiety , insomnia , sleep disorders , and abnormal dreams .
+Renal and Urinary Disorders : Glomerulonephritis membranous , glomerulonephritis mesangioproliferative , nephrolithiasis , renal impairment .
+Skin and Subcutaneous Tissue Disorders : Pruritus , rash .
+Laboratory Abnormalities Selected laboratory abnormalities with a worsening grade from baseline and representing the worst - grade toxicity in at least 2 % of subjects in the Week 48 pooled analysis are presented in Table 3 .
+Table 3 .
+Selected Laboratory Abnormalities ( Grades 2 and 3 to 4 ; Week 48 Pooled Analyses ) in SWORD - 1 and SWORD - 2 TrialsALT = Alanine aminotransferase ; AST = Aspartate aminotransferase ; ULN = Upper limit of normal .
+Laboratory Parameter Preferred Term Dolutegravir plus Rilpivirine ( n = 513 ) Current Antiretroviral Regimen ( n = 511 ) ALT Grade 2 ( > 2 . 5 - 5 . 0 x ULN ) 2 % < 1 % Grade 3 to 4 ( > 5 . 0 x ULN ) < 1 % < 1 % AST Grade 2 ( > 2 . 5 - 5 . 0 x ULN ) < 1 % 2 % Grade 3 to 4 ( > 5 . 0 x ULN ) < 1 % < 1 % Total Bilirubin Grade 2 ( 1 . 6 - 2 . 5 x ULN ) 2 % 4 % Grade 3 to 4 ( > 2 . 5 x ULN ) 0 3 % Creatine kinase Grade 2 ( 6 . 0 - 9 . 9 x ULN ) < 1 % < 1 % Grade 3 to 4 ( ≥ 10 . 0 x ULN ) 1 % 2 % Hyperglycemia Grade 2 ( 126 - 250 mg / dL ) 4 % 5 % Grade 3 to 4 ( > 250 mg / dL ) < 1 % < 1 % Lipase Grade 2 ( > 1 . 5 - 3 . 0 x ULN ) 5 % 5 % Grade 3 to 4 ( > 3 . 0 x ULN ) 2 % 2 % In the Week 148 pooled analyses , there were no additional selected laboratory abnormalities with dolutegravir plus rilpivirine compared with those shown in Table 3 .
+Changes in Serum Creatinine : Dolutegravir and rilpivirine have been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [ see Clinical Pharmacology ( 12 . 2 ) ] .
+Increases in serum creatinine occurred within the first 4 weeks of treatment with dolutegravir plus rilpivirine and remained stable through 148 weeks .
+Mean changes from baseline of 0 . 093 mg per dL ( range : - 0 . 30 to 0 . 58 mg per dL ) and 0 . 112 mg per dL ( range : - 0 . 24 to 0 . 81 mg per dL ) were observed after 48 and 148 weeks of treatment with dolutegravir plus rilpivirine , respectively .
+These changes are not considered to be clinically relevant .
+Serum Lipids : At 48 weeks , total cholesterol , HDL cholesterol , LDL cholesterol , triglycerides , and total cholesterol to HDL ratio were similar between the treatment arms , with no further notable changes beyond Week 48 .
+Bone Mineral Density Effects Mean bone mineral density ( BMD ) increased from baseline to Week 48 in subjects who switched from an antiretroviral treatment ( ART ) regimen containing tenofovir disoproxil fumarate ( TDF ) to dolutegravir plus rilpivirine ( 1 . 34 % total hip and 1 . 46 % lumbar spine ) compared with those who continued on treatment with a TDF - containing antiretroviral regimen ( 0 . 05 % total hip and 0 . 15 % lumbar spine ) in a dual - energy X - ray absorptiometry ( DXA ) substudy .
+BMD declines of 5 % or greater at the lumbar spine were experienced by 2 % of subjects receiving JULUCA and 5 % of subjects who continued their TDF - containing regimen .
+In subjects who received dolutegravir plus rilpivirine from study start and were continuing JULUCA at Week 148 , mean BMD increases from baseline were 0 . 98 % ( total hip ) and 0 . 53 % ( lumbar spine ) .
+The long - term clinical significance of these BMD changes is not known .
+Fractures ( excluding fingers and toes ) were reported in 3 ( 0 . 6 % ) subjects who switched to dolutegravir plus rilpivirine and 9 ( 1 . 8 % ) subjects who continued their current antiretroviral regimen through 48 weeks .
+Adrenal Function In the pooled Phase 3 trials results analysis of rilpivirine , at Week 96 , there was an overall mean change from baseline in basal cortisol of - 0 . 69 ( - 1 . 12 , 0 . 27 ) micrograms / dL in the rilpivirine group and of - 0 . 02 ( - 0 . 48 , 0 . 44 ) micrograms / dL in the efavirenz group .
+The clinical significance of the higher abnormal rate of 250 micrograms ACTH stimulation tests in the rilpivirine group is not known .
+Refer to the EDURANT ( rilpivirine ) Prescribing Information for additional information .
+6 . 2 Postmarketing Experience The following adverse reactions have been identified during postmarketing experience in patients receiving a dolutegravir - or rilpivirine - containing regimen .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Hepatobiliary Disorders Acute liver failure , hepatotoxicity .
+Investigations Weight increased .
+Musculoskeletal Disorders Arthralgia , myalgia .
+Renal and Genitourinary Disorders Nephrotic syndrome .
+Skin and Subcutaneous Tissue Disorders Severe skin and hypersensitivity reactions , including DRESS .
+7 DRUG INTERACTIONS • • Because JULUCA is a complete regimen , coadministration with other antiretroviral medications for the treatment of HIV - 1 infection is not recommended .
+( 7 . 1 ) • • Refer to the full prescribing information for important drug interactions with JULUCA .
+( 4 , 5 . 4 , 7 ) • • Drugs that induce or inhibit cytochrome P450 ( CYP ) 3A4 or uridine diphosphate glucuronosyltransferase ( UGT ) 1A1 may affect the plasma concentrations of the components of JULUCA .
+( 7 . 3 ) • • Drugs that increase gastric pH or containing polyvalent cations may decrease plasma concentrations of the components of JULUCA .
+( 4 , 7 . 3 , 7 . 4 ) • • Consider alternatives to prescribing JULUCA with drugs with a known risk of Torsade de Pointes .
+( 7 . 3 ) 7 . 1 Concomitant Use with Other Antiretroviral Medicines Because JULUCA is a complete regimen , coadministration with other antiretroviral medications for the treatment of HIV - 1 infection is not recommended [ see Indications and Usage ( 1 ) ] .
+Information regarding potential drug - drug interactions with other antiretroviral medications is not provided [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 5 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+7 . 2 Potential for JULUCA to Affect Other Drugs Dolutegravir , a component of JULUCA , inhibits the renal organic cation transporters ( OCT ) 2 and multidrug and toxin extrusion transporter ( MATE ) 1 , thus it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide , dalfampridine , and metformin [ see Contraindications ( 4 ) , Drug Interactions ( 7 . 4 ) ] .
+7 . 3 Potential for Other Drugs to Affect the Components of JULUCA Dolutegravir Dolutegravir is metabolized by uridine diphosphate ( UDP ) - glucuronosyl transferase ( UGT ) 1A1 with some contribution from cytochrome P450 ( CYP ) 3 A .
+Dolutegravir is also a substrate of UGT1A3 , UGT1A9 , breast cancer resistance protein ( BCRP ) , and P - glycoprotein ( P - gp ) in vitro .
+Drugs that induce those enzymes and transporters may decrease dolutegravir plasma concentrations and reduce the therapeutic effect of dolutegravir [ see Drug Interactions ( 7 . 4 ) ] .
+Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentrations .
+Coadministration of dolutegravir with polyvalent cation - containing products may lead to decreased absorption of dolutegravir [ see Drug Interactions ( 7 . 4 ) ] .
+Rilpivirine Rilpivirine is primarily metabolized by CYP3A , and drugs that induce or inhibit CYP3A may affect the clearance of rilpivirine .
+Coadministration of JULUCA and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [ see Contraindications ( 4 ) , Drug Interactions ( 7 . 4 ) ] .
+Coadministration of JULUCA and drugs that inhibit CYP3A may result in increased plasma concentrations of rilpivirine .
+Coadministration of JULUCA with drugs that increase gastric pH may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [ see Contraindications ( 4 ) , Drug Interactions ( 7 . 4 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+QT - Prolonging Drugs : In healthy subjects , 75 mg once daily of rilpivirine ( 3 times the dose in JULUCA ) and 300 mg once daily ( 12 times the dose in JULUCA ) have been shown to prolong the QTc interval of the electrocardiogram [ see Clinical Pharmacology ( 12 . 2 ) ] .
+Consider alternatives to JULUCA when coadministered with a drug with a known risk of Torsade de Pointes .
+7 . 4 Established and Other Potentially Significant Drug Interactions Information regarding potential drug interactions with dolutegravir and rilpivirine are provided in Table 4 .
+These recommendations are based on either drug interaction trials of individual components or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 5 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 4 .
+Established and Other Potentially Significant Drug Interactions : Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interactionsa ↑ = Increase , ↓ = Decrease , ↔ = No change .
+a This table is not all inclusive .
+b See Clinical Pharmacology ( 12 . 3 ) for magnitude of interaction .
+Concomitant Drug Class : Drug Name Effect on Concentration Clinical Comment Antacids ( e . g . , aluminum or magnesium hydroxide , calcium carbonate ) ↓ Rilpivirine Administer JULUCA 4 hours before or 6 hours after taking antacids .
+Antiarrhythmic : Dofetilide ↑ Dofetilide Coadministration is contraindicated with JULUCA [ see Contraindications ( 4 ) ] .
+Anticonvulsants : Carbamazepine Oxcarbazepine Phenobarbital Phenytoin ↓ Dolutegravir ↓ Rilpivirine Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [ see Contraindications ( 4 ) ] .
+Antidiabetic : Metforminb ↑ Metformin Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of JULUCA and metformin .
+Antimycobacterials : Rifampin Rifapentine ↓ Dolutegravir ↓ Rilpivirine Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [ see Contraindications ( 4 ) ] .
+Antimycobacterial : Rifabutinb ↔ Dolutegravir ↔ Rifabutin ↓ Rilpivirine An additional rilpivirine 25 - mg tablet should be taken with JULUCA once daily with a meal when rifabutin is coadministered .
+Glucocorticoid ( systemic ) : Dexamethasone ( more than a single - dose treatment ) ↓ Rilpivirine Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [ see Contraindications ( 4 ) ] .
+H2 - receptor antagonists : Famotidine Cimetidine Nizatidine Ranitidine ↔ Dolutegravir ↓ Rilpivirine JULUCA should only be administered at least 4 hours before or 12 hours after taking H2 - receptor antagonists .
+Herbal product : St John ’ s wort ( Hypericum perforatum ) ↓ Dolutegravir ↓ Rilpivirine Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [ see Contraindications ( 4 ) ] .
+Macrolide or ketolide antibiotics : Clarithromycin Erythromycin Telithromycin ↔ Dolutegravir ↑ Rilpivirine Where possible , consider alternatives , such as azithromycin .
+Medications containing polyvalent cations ( e . g . , Mg or Al ) : Cation - containing productsb or laxatives Sucralfate Buffered medications ↓ Dolutegravir Administer JULUCA 4 hours before or 6 hours after taking products containing polyvalent cations .
+Narcotic analgesic : Methadoneb ↔ Dolutegravir ↓ Methadone ↔ Rilpivirine No dose adjustments are required when starting coadministration of methadone with JULUCA .
+However , clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients .
+Oral calcium and iron supplements , including multivitamins containing calcium or ironb ( non - antacid ) ↓ Dolutegravir Administer JULUCA and supplements containing calcium or iron together with a meal or take JULUCA 4 hours before or 6 hours after taking these supplements .
+Potassium channel blocker : Dalfampridine ↑ Dalfampridine Elevated levels of dalfampridine increase the risk of seizures .
+The potential benefits of taking dalfampridine concurrently with JULUCA should be considered against the risk of seizures in these patients .
+Proton pump inhibitors : e . g . , Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole ↓ Rilpivirine Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [ see Contraindications ( 4 ) ] .
+8 USE IN SPECIFIC POPULATIONS • • Pregnancy : Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester or if pregnancy is confirmed in the first trimester due to the risk of neural tube defects .
+( 2 . 1 , 5 . 3 , 8 . 1 , 8 . 3 ) • • Rilpivirine exposure during pregnancy : Total rilpivirine exposures were generally lower during pregnancy compared with the postpartum period .
+( 8 . 1 , 12 . 3 ) .
+• • Lactation : Breastfeeding is not recommended due to the potential for HIV ‑ 1 transmission .
+( 8 . 2 ) • • Females and males of reproductive potential : Pregnancy testing is recommended in individuals of childbearing potential .
+Patients should be counseled on the consistent use of effective contraception .
+( 8 . 1 , 8 . 3 ) 8 . 1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to JULUCA during pregnancy .
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry ( APR ) at 1 - 800 - 258 - 4263 .
+Risk Summary Data from an ongoing birth outcome surveillance study has identified an increased risk of neural tube defects when dolutegravir , a component of JULUCA , is administered at the time of conception .
+As defects related to closure of the neural tube occur from conception through the first 6 weeks of gestation , embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk .
+Advise individuals of childbearing potential , including those actively trying to become pregnant , of the potential risk of neural tube defects with use of JULUCA .
+Assess the risks and benefits of JULUCA and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester .
+A benefit - risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen , tolerability , ability to maintain viral suppression , and risk of HIV ‑ 1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development [ see Warnings and Precaution ( 5 . 3 ) ] .
+There are insufficient human data on the use of JULUCA during pregnancy to definitively assess a drug - associated risk for birth defects and miscarriage .
+The background risk for major birth defects for the indicated population is unknown .
+In the U . S . general population , the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+In animal reproduction studies , no evidence of adverse developmental outcomes was observed with the components of JULUCA at systemic exposures ( AUC ) to dolutegravir less than ( rabbits ) and 38 times ( rats ) and exposures to rilpivirine 15 ( rats ) and 70 ( rabbits ) times the exposure at the recommended human dose ( RHD ) of JULUCA ( see Data ) .
+Data Human Data : Dolutegravir : In a birth outcome surveillance study in Botswana , there were 7 cases of neural tube defects reported out of 3 , 591 deliveries ( 0 . 19 % ) to women who were exposed to dolutegravir - containing regimens at the time of conception .
+In comparison , the neural tube defect prevalence rates were 0 . 11 % ( 21 / 19 , 361 deliveries ) in the non - dolutegravir arm and 0 . 07 % ( 87 / 119 , 630 deliveries ) in the HIV - uninfected arm .
+Seven cases reported with dolutegravir included 3 cases of myelomeningocele , 2 cases of encephalocele , and one case each of anencephaly and iniencephaly .
+In the same study , no increased risk of neural tube defects was identified in women who started dolutegravir during pregnancy .
+Two infants out of 4 , 448 ( 0 . 04 % ) deliveries to women who started dolutegravir during pregnancy had a neural tube defect , compared with 5 infants out of 6 , 748 ( 0 . 07 % ) deliveries to women who started non - dolutegravir - containing regimens during pregnancy .
+The reported risks of neural tube defects by treatment groups were based on interim analyses from the ongoing surveillance study in Botswana .
+It is unknown if baseline characteristics were balanced between the study treatment groups .
+The observed trends of association could change as data accumulate .
+Data analyzed to date from other sources including the APR , clinical trials , and postmarketing data are insufficient to definitively address the risk of neural tube defects with dolutegravir .
+Data from the birth outcome surveillance study described above and postmarketing sources with more than 1 , 000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes .
+Based on prospective reports to the APR of 842 exposures to dolutegravir during pregnancy resulting in live births ( including 512 exposed in the first trimester ) , the prevalence of defects in live births was 3 . 3 % ( 95 % CI : 1 . 9 % to 5 . 3 % ) following first - trimester exposure to dolutegravir - containing regimens and 4 . 8 % ( 95 % CI : 2 . 8 % to 7 . 8 % ) following second - / third - trimester exposure to dolutegravir - containing regimens .
+In the U . S . reference population of the Metropolitan Atlanta Congenital Defects Program ( MACDP ) , the background birth defect rate was 2 . 7 % .
+Dolutegravir has been shown to cross the placenta .
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily , the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1 . 21 ( range 0 . 51 - 2 . 11 ) ( n = 15 ) .
+Rilpivirine : Based on prospective reports to the APR of over 610 exposures to rilpivirine - containing regimens during pregnancy resulting in live births ( including over 420 exposed during the first trimester and over 190 exposed in the second / third trimester ) , there was no significant difference between the overall risk of birth defects for rilpivirine compared with the background birth defect rate of 2 . 7 % in the U . S . reference population of the MACDP .
+The prevalence of defects in live births was 1 . 4 % ( 95 % CI : 0 . 5 % to 3 . 0 % ) and 1 . 6 % ( 95 % CI : 0 . 3 % to 4 . 5 % ) following first and second / third trimester exposure , respectively , to rilpivirine - containing regimens .
+Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 HIV - 1 – infected pregnant subjects during the second and third trimesters and postpartum .
+Each of the subjects were on a rilpivirine - based regimen at the time of enrollment .
+Twelve subjects completed the trial through the postpartum period ( 6 to 12 weeks after delivery ) and pregnancy outcomes are missing for 6 subjects .
+The exposure ( C0h and AUC ) of total rilpivirine was approximately 30 % to 40 % lower during pregnancy compared with postpartum ( 6 to 12 weeks ) .
+The protein binding of rilpivirine was similar ( > 99 % ) during the second trimester , third trimester , and the postpartum period [ see Clinical Pharmacology ( 12 . 3 ) ] .
+One subject discontinued the trial following fetal death at 25 weeks ’ gestation due to suspected premature rupture of membranes .
+Among the 12 subjects who were virologically suppressed at baseline ( less than 50 copies / mL ) , virologic response was preserved in 10 subjects ( 83 . 3 % ) through the third trimester visit and in 9 subjects ( 75 % ) through the 6 - to 12 - week postpartum visit .
+Virologic outcomes during the third trimester visit were missing for 2 subjects who were withdrawn ( one subject was nonadherent to the study drug and one subject withdrew consent ) .
+Among the 10 infants with HIV test results available , born to 10 HIV - 1 – infected pregnant subjects , all had negative test results for HIV - 1 at the time of delivery and up to 16 weeks postpartum .
+All 10 infants received antiretroviral prophylactic treatment with zidovudine .
+Rilpivirine was well tolerated during pregnancy and postpartum .
+There were no new safety findings compared with the known safety profile of rilpivirine in HIV - 1 – infected adults .
+Animal Data : Dolutegravir : Dolutegravir was administered orally at up to 1 , 000 mg per kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18 , respectively , and to rats on Gestation Day 6 to Lactation / Post - partum Day 20 .
+No adverse effects on embryo - fetal ( rats and rabbits ) development were observed at up to the highest dose tested .
+During organogenesis , systemic exposures ( AUC ) to dolutegravir in rabbits were less than the exposure in humans , and in rats were approximately 38 times the exposure in humans ( 50 mg once daily ) .
+In the rat pre / post - natal development study , decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose ( approximately 32 times the human exposure with 50 mg once daily ) .
+Rilpivirine : Rilpivirine was administered orally to pregnant rats ( 40 , 120 , or 400 mg per kg per day ) and rabbits ( 5 , 10 , or 20 mg per kg per day ) through organogenesis ( on Gestation Days 6 through 17 , and 6 through 19 , respectively ) .
+No significant toxicological effects were observed in embryo - fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 ( rats ) and 70 ( rabbits ) times higher than the exposure in humans at the recommended dose of 25 mg once daily .
+In a pre / postnatal development study with rilpivirine , where rats were administered up to 400 mg per kg per day through lactation , no significant adverse effects directly related to drug were noted in the offspring .
+8 . 2 Lactation Risk Summary The Centers for Disease Control and Prevention recommends that HIV ‑ 1 ‑ infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV - 1 infection .
+Dolutegravir is present in human milk .
+It is not known whether dolutegravir affects human milk production or have effects on the breastfed infant .
+When administered to lactating rats , rilpivirine was present in milk ( see Data ) .
+Because of the potential for ( 1 ) HIV ‑ 1 transmission ( in HIV - negative infants ) , ( 2 ) developing viral resistance ( in HIV - positive infants ) , and ( 3 ) adverse reactions in a breastfed infant similar to those seen in adults , instruct mothers not to breastfeed if they are receiving JULUCA .
+Data Animal Data : Rilpivirine : In animals , no studies have been conducted to assess the excretion of rilpivirine into milk directly ; however , rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats ( dosed up to 400 mg per kg per day ) .
+8 . 3 Females and Males of Reproductive Potential In individuals of childbearing potential currently on JULUCA who are actively trying to become pregnant or if pregnancy is confirmed in the first trimester , assess the risks and benefits of continuing JULUCA and discuss with the patient if an alternative treatment should be considered [ see Warnings and Precautions ( 5 . 3 ) , Use in Specific Populations ( 8 . 1 ) ] .
+Pregnancy Testing Pregnancy testing is recommended in individuals of childbearing potential before initiation of JULUCA [ see Dosage and Administration ( 2 . 1 ) ] .
+Contraception Individuals of childbearing potential who are taking JULUCA should be counseled on the consistent use of effective contraception .
+8 . 4 Pediatric Use The safety and efficacy of JULUCA have not been established in pediatric patients .
+8 . 5 Geriatric Use Clinical trials of JULUCA did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects .
+In general , caution should be exercised in administration of JULUCA in elderly patients reflecting greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy [ see Clinical Pharmacology ( 12 . 3 ) ] .
+8 . 6 Renal Impairment No dosage adjustment is necessary for patients with mild or moderate renal impairment ( creatinine clearance greater than or equal to 30 mL / min ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+In patients with severe renal impairment ( creatinine clearance less than 30 mL / min ) or end - stage renal disease , increased monitoring for adverse effects is recommended .
+8 . 7 Hepatic Impairment No dosage adjustment is necessary for patients with mild to moderate hepatic impairment ( Child - Pugh Score A or B ) .
+The effect of severe hepatic impairment ( Child - Pugh Score C ) on the pharmacokinetics of dolutegravir or rilpivirine is unknown [ see Clinical Pharmacology ( 12 . 3 ) ] .
+10 OVERDOSAGE There is no known specific treatment for overdose with JULUCA .
+If overdose occurs , the patient should be monitored and standard supportive treatment applied as required , including monitoring of vital signs and ECG ( QT interval ) as well as observation of the clinical status of the patient .
+As both dolutegravir and rilpivirine are highly bound to plasma proteins , it is unlikely that either would be significantly removed by dialysis .
+11 DESCRIPTION JULUCA is a fixed - dose combination tablet containing dolutegravir ( as dolutegravir sodium ) , an INSTI , and rilpivirine ( as rilpivirine hydrochloride ) , an NNRTI .
+The chemical name of dolutegravir sodium is sodium ( 4 R , 12 aS ) - 9 - { [ ( 2 , 4 - difluorophenyl ) methyl ] carbamoyl } - 4 - methyl - 6 , 8 - dioxo - 3 , 4 , 6 , 8 , 12 , 12 a - hexahydro - 2 H - pyrido [ 1 ' , 2 ' : 4 , 5 ] pyrazino [ 2 , 1 - b ] [ 1 , 3 ] oxazin - 7 - olate .
+The empirical formula is C20H18F2N3NaO5 and the molecular weight is 441 . 36 g per mol .
+It has the following structural formula : [ MULTIMEDIA ] Dolutegravir sodium is a white to light yellow powder and is slightly soluble in water .
+The chemical name for rilpivirine hydrochloride is 4 - [ [ 4 - [ [ 4 - [ ( E ) - 2 - cyanoethenyl ] - 2 , 6 - dimethylphenyl ] amino ] - 2 - pyrimidinyl ] amino ] benzonitrile monohydrochloride .
+Its molecular formula is C22H18N6 • HCl and its molecular weight is 402 . 88 g per mol .
+Rilpivirine hydrochloride has the following structural formula : [ MULTIMEDIA ] Rilpivirine hydrochloride is a white to almost white powder .
+Rilpivirine hydrochloride is practically insoluble in water over a wide pH range .
+JULUCA tablets are for oral administration .
+Each film - coated tablet contains the active ingredients 50 mg of dolutegravir ( equivalent to 52 . 6 mg dolutegravir sodium ) and 25 mg of rilpivirine ( equivalent to 27 . 5 mg rilpivirine hydrochloride ) and the inactive ingredients croscarmellose sodium , D - mannitol , lactose monohydrate , magnesium stearate , microcrystalline cellulose , polysorbate 20 , povidone K29 / 32 and K30 , silicified microcrystalline cellulose , sodium starch glycolate , and sodium stearyl fumarate .
+The tablet film - coating contains the inactive ingredients iron oxide red , iron oxide yellow , macrogol / PEG , polyvinyl alcohol - part hydrolyzed , talc , and titanium dioxide .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action JULUCA is a fixed - dose combination of the HIV - 1 antiretroviral agents , dolutegravir and rilpivirine [ see Microbiology ( 12 . 4 ) ] .
+12 . 2 Pharmacodynamics Cardiac Electrophysiology The effect of JULUCA on the QT interval has not been studied .
+In a randomized , placebo - controlled , crossover trial , 42 healthy subjects received single - dose oral administration of placebo , dolutegravir 250 - mg suspension ( exposures approximately 3 - fold of the 50 - mg once - daily dose at steady state ) , and moxifloxacin 400 mg ( active control ) in random sequence .
+After baseline and placebo adjustment , the maximum mean QTc change based on Fridericia correction method ( QTcF ) for dolutegravir was 2 . 4 msec ( 1 - sided 95 % upper CI : 4 . 9 msec ) .
+Dolutegravir did not prolong the QTc interval over 24 hours postdose .
+The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized , placebo - and active - ( moxifloxacin 400 mg once daily ) controlled crossover study in 60 healthy adults , with 13 measurements over 24 hours at steady state .
+The maximum mean time - matched ( 95 % upper confidence bound ) differences in QTcF interval from placebo after baseline correction was 2 . 0 ( 5 . 0 ) milliseconds ( i . e . , below the threshold of clinical concern ) .
+When 75 mg and 300 mg once daily of rilpivirine ( 3 times and 12 times the recommended dosage in JULUCA , respectively ) were studied in healthy adults , the maximum mean time - matched ( 95 % upper confidence bound ) differences in QTcF interval from placebo after baseline correction were 10 . 7 ( 15 . 3 ) and 23 . 3 ( 28 . 4 ) milliseconds , respectively .
+Steady - state administration of rilpivirine 75 mg once daily and 300 mg once daily resulted in a mean steady - state Cmax approximately 2 . 6 - fold and 6 . 7 - fold , respectively , higher than the mean Cmax observed with the recommended 25 - mg once - daily dose of rilpivirine [ see Drug Interactions ( 7 . 4 ) ] .
+Effects on Renal Function The effect of dolutegravir on renal function was evaluated in an open - label , randomized , 3 - arm , parallel , placebo - controlled trial in healthy subjects ( n = 37 ) who received dolutegravir 50 mg once daily ( n = 12 ) , dolutegravir 50 mg twice daily ( n = 13 ) , or placebo once daily ( n = 12 ) for 14 days .
+A decrease in creatinine clearance , as determined by 24 - hour urine collection , was observed with both doses of dolutegravir after 14 days of treatment in subjects who received 50 mg once daily ( 9 % decrease ) and 50 mg twice daily ( 13 % decrease ) .
+Neither dose of dolutegravir had a significant effect on the actual glomerular filtration rate ( determined by the clearance of probe drug , iohexol ) or effective renal plasma flow ( determined by the clearance of probe drug , para - amino hippurate ) compared with the placebo .
+12 . 3 Pharmacokinetics Absorption , Distribution , Metabolism , and Excretion The pharmacokinetic ( PK ) properties of the components of JULUCA are provided in Table 5 .
+The multiple - dose pharmacokinetic parameters are provided in Table 6 .
+Table 5 .
+Pharmacokinetic Properties of the Components of JULUCAUGT = uridine diphosphate glucuronosyltransferase ; CYP = Cytochrome P450 .
+a Geometric mean ratio ( fed / fasted ) in PK parameters and ( 90 % confidence interval ) .
+High - calorie / high - fat meal = ~ 900 kcal , 56 % fat .
+Moderate - fat meal = ~ 625 kcal , 32 % fat .
+When rilpivirine was taken with only a protein - rich nutritional drink , exposures were 50 % lower than when taken with a meal .
+b Dosing in mass balance studies : single - dose administration of [ 14 C ] dolutegravir or [ 14 C ] rilpivirine .
+Dolutegravir Rilpivirine Absorption Tmax ( h ) 3 4 Effect of moderate - fat meal ( relative to fasting ) a AUC Ratio 1 . 87 ( 1 . 54 , 2 . 26 ) AUC Ratio 1 . 57 ( 1 . 24 , 1 . 98 ) Effect of high - fat meal ( relative to fasting ) a AUC Ratio 1 . 87 ( 1 . 53 , 2 . 29 ) AUC Ratio 1 . 72 ( 1 . 36 , 2 . 16 ) Distribution % Bound to human plasma proteins ~ 99 ~ 99 Source of protein binding data in vitro in vitro Blood - to - plasma ratio 0 . 5 0 . 7 Metabolism Primarily metabolized UGT1A1 CYP3A ( minor ) CYP3A Elimination Major route of elimination Metabolism Metabolism t1 / 2 ( h ) 14 50 % of dose excreted as total 14 C ( unchanged drug ) in urineb 31 ( < 1 ) 6 . 5 ( < 1 ) % of dose excreted as total 14 C ( unchanged drug ) in fecesb 64 ( 53 ) 85 ( 25 ) Table 6 .
+Multiple - Dose Pharmacokinetic Properties of the Components of JULUCAa Based on population pharmacokinetic analyses using pooled data from ART treatment - naïve adults receiving 50 mg dolutegravir once daily or 25 mg rilpivirine once daily .
+b Observed Cmax in a pharmacokinetic substudy in ART treatment - naïve adults receiving 25 mg rilpivirine once daily .
+Parameter Mean ( CV % ) Dolutegravira Rilpivirinea Cmax ( mcg / mL ) 3 . 67 ( 20 ) 0 . 13 ( 54 ) b AUCtau ( mcg / h / mL ) 53 . 6 ( 27 ) 2 . 2 ( 38 ) Ctrough ( mcg / mL ) 1 . 11 ( 46 ) 0 . 08 ( 44 ) Specific Populations Pediatric Patients : The pharmacokinetics of dolutegravir plus rilpivirine has not been studied in pediatric subjects [ see Use in Specific Populations ( 8 . 4 ) ] .
+Geriatric Patients : Population pharmacokinetic analyses from studies with the individual components indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir or rilpivirine .
+Pharmacokinetic data in subjects 65 years of age and older are limited [ see Use in Specific Populations ( 8 . 5 ) ] .
+Patients with Renal Impairment : Population pharmacokinetic analyses indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir .
+Dolutegravir AUC , Cmax , and C24 were lower by 40 % , 23 % , and 43 % , respectively , in subjects ( n = 8 ) with severe renal impairment ( creatinine clearance less than 30 mL / min ) as compared with matched healthy controls .
+There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis [ see Use in Specific Populations ( 8 . 6 ) ] .
+Population pharmacokinetic analyses indicated that mild renal impairment had no clinically relevant effect on the exposure of rilpivirine .
+There is limited or no information regarding the pharmacokinetics of rilpivirine in patients with moderate or severe renal impairment , end - stage renal disease , or patients requiring dialysis .
+Patients with Hepatic Impairment : Dolutegravir exposures were similar in subjects ( n = 8 ) with moderate hepatic impairment ( Child - Pugh Score B ) as compared with matched healthy controls .
+The effect of severe hepatic impairment ( Child - Pugh Score C ) on the pharmacokinetics of dolutegravir has not been studied .
+Rilpivirine exposure was 47 % higher in subjects ( n = 8 ) with mild hepatic impairment ( Child - Pugh Score A ) and 5 % higher in subjects ( n = 8 ) with moderate hepatic impairment ( Child - Pugh Score B ) compared with matched controls .
+The effect of severe hepatic impairment ( Child - Pugh Score C ) on the pharmacokinetics of rilpivirine has not been studied [ see Use in Specific Populations ( 8 . 7 ) ] .
+Patients with HBV / HCV Co - infection : Population pharmacokinetic analyses indicated that hepatitis C virus co - infection had no clinically relevant effect on the exposure of dolutegravir or rilpivirine .
+Subjects with hepatitis B co - infection were excluded from studies with dolutegravir plus rilpivirine .
+Gender and Race : Population pharmacokinetic analyses from studies with the individual components revealed that gender and race had no clinically relevant effect on the pharmacokinetics of dolutegravir or rilpivirine .
+Pregnancy and Postpartum : Rilpivirine : The exposure ( C0h and AUC24h ) to total rilpivirine after taking rilpivirine 25 mg once daily as part of an antiretroviral regimen was 30 % to 40 % lower during pregnancy ( similar for the second and third trimesters ) compared with postpartum ( see Table 7 ) .
+However , the exposure during pregnancy was not significantly different from exposures obtained in Phase 3 trials of rilpivirine - containing regimens .
+Based on the exposure - response relationship for rilpivirine , this decrease is not considered clinically relevant in patients who are virologically suppressed .
+The protein binding of rilpivirine was similar ( > 99 % ) during the second trimester , third trimester , and postpartum .
+Table 7 .
+Pharmacokinetic Results of Rilpivirine during the 2 nd and 3 rd Trimesters of Pregnancy and Postpartum Periodaa Total rilpivirine exposure after administration of rilpivirine 25 mg once daily as part of an antiretroviral regimen .
+Pharmacokinetics of Total Rilpivirine ( mean ± SD ) Postpartum ( 6 to 12 Weeks ) ( n = 11 ) 2 nd Trimester of Pregnancy ( n = 15 ) 3 rd Trimester of Pregnancy ( n = 13 ) C0h ( ng / mL ) 111 ± 69 . 2 65 . 0 ± 23 . 9 63 . 5 ± 26 . 2 Cmin ( ng / mL ) 84 . 0 ± 58 . 8 54 . 3 ± 25 . 8 52 . 9 ± 24 . 4 Cmax ( ng / mL ) 167 ± 101 121 ± 45 . 9 123 ± 47 . 5 Tmax ( h ) , median ( range ) 4 . 00 ( 2 . 03 - 25 . 08 ) 4 . 00 ( 1 . 00 - 9 . 00 ) 4 . 00 ( 2 . 00 - 24 . 93 ) AUC24h ( ng • h / mL ) 2 , 714 ± 1 , 535 1 , 792 ± 711 1 , 762 ± 662 Drug Interaction Studies Drug interaction trials were conducted with dolutegravir or rilpivirine as individual components and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions .
+In vitro , dolutegravir did not inhibit ( IC50 greater than 50 microM ) the following : CYP1A2 , CYP2A6 , CYP2B6 , CYP2C8 , CYP2C9 , CYP2C19 , CYP2D6 , CYP3A , UGT1A1 , UGT2B7 , P - gp , BCRP , bile salt export pump ( BSEP ) , organic anion transporter polypeptide ( OATP ) 1B1 , OATP1B3 , OCT1 , multidrug resistance protein ( MRP ) 2 , or MRP4 .
+In vitro , dolutegravir did not induce CYP1A2 , CYP2B6 , or CYP3A4 .
+In vitro , dolutegravir inhibited the renal OCT2 ( IC50 = 1 . 93 microM ) and MATE1 ( IC50 = 6 . 34 microM ) .
+In vivo , dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1 .
+Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide , dalfampridine , and metformin [ see Contraindications ( 4 ) , Drug Interactions ( 7 . 4 ) ] .
+In vitro , dolutegravir inhibited the basolateral renal transporters , organic anion transporter ( OAT ) 1 ( IC50 = 2 . 12 microM ) and OAT3 ( IC50 = 1 . 97 microM ) .
+However , in vivo , dolutegravir did not alter the plasma concentrations of tenofovir or para - amino hippurate , substrates of OAT1 and OAT3 .
+Dolutegravir is metabolized by UGT1A1 with some contribution from CYP3A .
+Dolutegravir is also a substrate of UGT1A3 , UGT1A9 , BCRP , and P - gp in vitro .
+In vitro , dolutegravir was not a substrate of OATP1B1 or OATP1B3 .
+Rilpivirine is primarily metabolized by CYP3A .
+Rilpivirine 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolized by CYP enzymes .
+Dosing recommendations as a result of established and other potentially significant drug - drug interactions with dolutegravir or rilpivirine are provided in Table 4 [ see Drug Interactions ( 7 . 4 ) ] .
+Table 8 .
+Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugsa The number of subjects represents the maximum number of subjects that were evaluated .
+Coadministered Drug ( s ) and Dose ( s ) Dose of Dolutegravir n Geometric Mean Ratio ( 90 % CI ) of Pharmacokinetic Parameters of Coadministered Drug with / without Dolutegravir No Effect = 1 . 00 Cmax AUC Cτ or C24 Daclatasvir 60 mg once daily 50 mg once daily 12 1 . 03 ( 0 . 84 to 1 . 25 ) 0 . 98 ( 0 . 83 to 1 . 15 ) 1 . 06 ( 0 . 88 to 1 . 29 ) Ethinyl estradiol 0 . 035 mg 50 mg twice daily 15 0 . 99 ( 0 . 91 to 1 . 08 ) 1 . 03 ( 0 . 96 to 1 . 11 ) 1 . 02 ( 0 . 93 to 1 . 11 ) Metformin 500 mg twice daily 50 mg once daily 15 a 1 . 66 ( 1 . 53 to 1 . 81 ) 1 . 79 ( 1 . 65 to 1 . 93 ) _ Metformin 500 mg twice daily 50 mg twice daily 15 a 2 . 11 ( 1 . 91 to 2 . 33 ) 2 . 45 ( 2 . 25 to 2 . 66 ) _ Methadone 16 to 150 mg 50 mg twice daily 11 1 . 00 ( 0 .
+94 to 1 . 06 ) 0 . 98 ( 0 . 91 to 1 . 06 ) 0 . 99 ( 0 . 91 to 1 . 07 ) Midazolam 3 mg 25 mg once daily 10 _ 0 . 95 ( 0 . 79 to 1 . 15 ) _ Norelgestromin 0 . 25 mg 50 mg twice daily 15 0 . 89 ( 0 . 82 to 0 . 97 ) 0 . 98 ( 0 . 91 to 1 . 04 ) 0 . 93 ( 0 . 85 to 1 . 03 ) Table 9 .
+Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravira Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily .
+b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily .
+c The number of subjects represents the maximum number of subjects that were evaluated .
+Coadministered Drug ( s ) and Dose ( s ) Dose of Dolutegravir n Geometric Mean Ratio ( 90 % CI ) of Dolutegravir Pharmacokinetic Parameters with / without Coadministered Drugs No Effect = 1 . 00 Cmax AUC Cτ or C24 Antacid ( MAALOX ) simultaneous administration 50 mg single dose 16 0 . 28 ( 0 . 23 to 0 . 33 ) 0 . 26 ( 0 . 22 to 0 . 32 ) 0 . 26 ( 0 . 21 to 0 . 31 ) Antacid ( MAALOX ) 2 h after dolutegravir 50 mg single dose 16 0 . 82 ( 0 . 69 to 0 . 98 ) 0 . 74 ( 0 . 62 to 0 . 90 ) 0 . 70 ( 0 . 58 to 0 . 85 ) Calcium carbonate 1 , 200 mg simultaneous administration ( fasted ) 50 mg single dose 12 0 . 63 ( 0 . 50 to 0 . 81 ) 0 . 61 ( 0 . 47 to 0 . 80 ) 0 . 61 ( 0 . 47 to 0 . 80 ) Calcium carbonate 1 , 200 mg simultaneous administration ( fed ) 50 mg single dose 11 1 . 07 ( 0 . 83 to 1 . 38 ) 1 . 09 ( 0 . 84 to 1 . 43 ) 1 . 08 ( 0 . 81 to 1 . 42 ) Calcium carbonate 1 , 200 mg 2 h after dolutegravir 50 mg single dose 11 1 . 00 ( 0 . 78 to 1 . 29 ) 0 . 94 ( 0 . 72 to 1 . 23 ) 0 . 90 ( 0 . 68 to 1 . 19 ) Carbamazepine 300 mg twice daily 50 mg once daily 16 c 0 . 67 ( 0 . 61 to 0 . 73 ) 0 . 51 ( 0 . 48 to 0 . 55 ) 0 . 27 ( 0 . 24 to 0 . 31 ) Daclatasvir 60 mg once daily 50 mg once daily 12 1 . 29 ( 1 . 07 to 1 . 57 ) 1 . 33 ( 1 . 11 to 1 . 59 ) 1 . 45 ( 1 . 25 to 1 . 68 ) Ferrous fumarate 324 mg simultaneous administration ( fasted ) 50 mg single dose 11 0 . 43 ( 0 . 35 to 0 . 52 ) 0 . 46 ( 0 . 38 to 0 . 56 ) 0 . 44 ( 0 . 36 to 0 . 54 ) Ferrous fumarate 324 mg simultaneous administration ( fed ) 50 mg single dose 11 1 . 03 ( 0 . 84 to 1 . 26 ) 0 . 98 ( 0 . 81 to 1 . 20 ) 1 . 00 ( 0 . 81 to 1 . 23 ) Ferrous fumarate 324 mg 2 h after dolutegravir 50 mg single dose 10 0 . 99 ( 0 . 81 to 1 . 21 ) 0 . 95 ( 0 . 77 to 1 . 15 ) 0 . 92 ( 0 . 74 to 1 . 13 ) Multivitamin ( One - A - Day ) simultaneous administration 50 mg single dose 16 0 . 65 ( 0 . 54 to 0 . 77 ) 0 . 67 ( 0 . 55 to 0 . 81 ) 0 . 68 ( 0 . 56 to 0 . 82 ) Omeprazole 40 mg once daily 50 mg single dose 12 0 . 92 ( 0 . 75 to 1 . 11 ) 0 . 97 ( 0 . 78 to 1 . 20 ) 0 . 95 ( 0 . 75 to 1 . 21 ) Prednisone 60 mg once daily with taper 50 mg once daily 12 1 . 06 ( 0 . 99 to 1 . 14 ) 1 . 11 ( 1 . 03 to 1 . 20 ) 1 . 17 ( 1 . 06 to 1 . 28 ) Rifampina 600 mg once daily 50 mg twice daily 11 0 . 57 ( 0 . 49 to 0 . 65 ) 0 . 46 ( 0 . 38 to 0 . 55 ) 0 . 28 ( 0 . 23 to 0 . 34 ) Rifampinb 600 mg once daily 50 mg twice daily 11 1 . 18 ( 1 . 03 to 1 . 37 ) 1 . 33 ( 1 . 15 to 1 . 53 ) 1 . 22 ( 1 . 01 to 1 . 48 ) Rifabutin 300 mg once daily 50 mg once daily 9 1 . 16 ( 0 . 98 to 1 . 37 ) 0 . 95 ( 0 . 82 to 1 . 10 ) 0 . 70 ( 0 . 57 to 0 . 87 ) Table 10 .
+Summary of Effect of Rilpivirine on the Pharmacokinetics of Coadministered Drugsn = Maximum number of subjects with data ; NA = Not available .
+a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine ( 25 mg once daily ) assessing the maximal effect on the coadministered drug .
+b N ( maximum number of subjects with data ) for AUC ( 0 - ∞ ) = 15 .
+c AUC ( 0 - last ) .
+Coadministered Drug ( s ) and Dose ( s ) Dose of Rilpivirine n Geometric Mean Ratio ( 90 % CI ) of Coadministered Drug Pharmacokinetic Parameters with / without EDURANT No Effect = 1 . 00 Cmax AUC Cmin Acetaminophen 500 mg single dose 150 mg once dailya 16 0 . 97 ( 0 . 86 to 1 . 10 ) 0 . 91 ( 0 . 86 to 0 . 97 ) NA Atorvastatin 40 mg once daily 150 mg once dailya 16 1 . 35 ( 1 . 08 to 1 . 68 ) 1 . 04 ( 0 . 97 to 1 . 12 ) 0 . 85 ( 0 . 69 to 1 . 03 ) 2 - hydroxy - atorvastatin 1 . 58 ( 1 . 33 to 1 . 87 ) 1 . 39 ( 1 . 29 to 1 . 50 ) 1 . 32 ( 1 . 10 to 1 . 58 ) 4 - hydroxy - atorvastatin 1 . 28 ( 1 . 15 to 1 . 43 ) 1 . 23 ( 1 . 13 to 1 . 33 ) NA Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine 150 mg once dailya 16 0 . 98 ( 0 . 85 to 1 . 13 ) 1 . 03 ( 0 . 95 to 1 . 13 ) NA Digoxin 0 . 5 mg single dose 25 mg once daily 22 1 . 06 ( 0 . 97 to 1 . 17 ) 0 . 98 ( 0 . 93 to 1 . 04 ) c NA Ethinylestradiol 0 . 035 mg once daily 25 mg once daily 17 1 . 17 ( 1 . 06 to 1 . 30 ) 1 . 14 ( 1 . 10 to 1 . 19 ) 1 . 09 ( 1 . 03 to 1 . 16 ) Norethindrone 1 mg once daily 0 . 94 ( 0 . 83 to 1 . 06 ) 0 . 89 ( 0 . 84 to 0 . 94 ) 0 . 99 ( 0 . 90 to 1 . 08 ) Ketoconazole 400 mg once daily 150 mg once dailya 14 0 . 85 ( 0 . 80 to 0 . 90 ) 0 . 76 ( 0 . 70 to 0 . 82 ) 0 . 34 ( 0 . 25 to 0 . 46 ) Methadone 60 - 100 mg once daily , individualized dose 25 mg once daily 13 R ( ‑ ) methadone 0 . 86 ( 0 . 78 to 0 . 95 ) 0 . 84 ( 0 . 74 to 0 . 95 ) 0 . 78 ( 0 . 67 to 0 . 91 ) S ( + ) methadone 0 . 87 ( 0 . 78 to 0 . 97 ) 0 . 84 ( 0 . 74 to 0 . 96 ) 0 . 79 ( 0 . 67 to 0 . 92 ) Metformin 850 mg single dose 25 mg once daily 20 1 . 02 ( 0 . 95 to - 1 . 10 ) 0 . 97 ( 0 . 90 to 1 . 06 ) b NA Omeprazole 20 mg once daily 150 mg once dailya 15 0 . 86 ( 0 . 68 to 1 . 09 ) 0 . 86 ( 0 . 76 to 0 . 97 ) NA Rifampin 600 mg once daily 150 mg once dailya 16 1 . 02 ( 0 . 93 to 1 . 12 ) 0 . 99 ( 0 . 92 to 1 . 07 ) NA 25 - desacetylrifampin 1 . 00 ( 0 . 87 to 1 . 15 ) 0 . 91 ( 0 . 77 to 1 . 07 ) NA Sildenafil 50 mg single dose 75 mg once dailya 16 0 . 93 ( 0 . 80 to 1 . 08 ) 0 . 97 ( 0 . 87 to 1 . 08 ) NA N - desmethyl - sildenafil 0 . 90 ( 0 . 80 to 1 . 02 ) 0 . 92 ( 0 . 85 to 0 . 99 ) c NA Simeprevir 150 mg once daily 25 mg once daily 21 1 . 10 ( 0 . 97 to 1 . 26 ) 1 . 06 ( 0 . 94 to 1 . 19 ) 0 . 96 ( 0 . 83 to 1 . 11 ) Table 11 .
+Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Rilpivirinen = Maximum number of subjects with data ; NA = Not available ; ↔ = No change .
+a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine ( 25 mg once daily ) assessing the maximal effect on the coadministered drug .
+b Comparison based on historic controls .
+Coadministered Drug ( s ) and Dose ( s ) Dose of Rilpivirine n Geometric Mean Ratio ( 90 % CI ) of Rilpivirine Pharmacokinetic Parameters with / without Coadministered Drugs No Effect = 1 . 00 Cmax AUC Cmin Acetaminophen 500 mg single dose 150 mg once dailya 16 1 . 09 ( 1 . 01 to 1 . 18 ) 1 . 16 ( 1 . 10 to 1 . 22 ) 1 . 26 ( 1 . 16 to 1 . 38 ) Atorvastatin 40 mg once daily 150 mg once dailya 16 0 . 91 ( 0 . 79 to 1 . 06 ) 0 . 90 ( 0 . 81 to 0 . 99 ) 0 . 90 ( 0 . 84 to 0 . 96 ) Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine 150 mg once dailya 16 1 . 17 ( 1 . 08 to 1 . 27 ) 1 . 25 ( 1 . 16 to 1 . 35 ) 1 . 18 ( 1 . 09 to 1 . 28 ) Ethinylestradiol / Norethindrone 0 . 035 mg once daily / 1 mg once daily 25 mg once daily 15 ↔ b ↔ b ↔ b Famotidine 40 mg single dose taken 12 hours before rilpivirine 150 mg single dosea 24 0 . 99 ( 0 . 84 to 1 . 16 ) 0 . 91 ( 0 . 78 to 1 . 07 ) NA Famotidine 40 mg single dose taken 2 hours before rilpivirine 150 mg single dosea 23 0 . 15 ( 0 . 12 to 0 . 19 ) 0 . 24 ( 0 . 20 to 0 . 28 ) NA Famotidine 40 mg single dose taken 4 hours after rilpivirine 150 mg single dosea 24 1 . 21 ( 1 . 06 to 1 . 39 ) 1 . 13 ( 1 . 01 to 1 . 27 ) NA Ketoconazole 400 mg once daily 150 mg once dailyb 15 1 . 30 ( 1 . 13 to 1 . 48 ) 1 . 49 ( 1 . 31 to 1 . 70 ) 1 . 76 ( 1 . 57 to 1 . 97 ) Methadone 60 - 100 mg once daily , individualized dose 25 mg once daily 12 ↔ b ↔ b ↔ b Omeprazole 20 mg once daily 150 mg once dailya 16 0 . 60 ( 0 . 48 to 0 . 73 ) 0 . 60 ( 0 . 51 to 0 . 71 ) 0 . 67 ( 0 . 58 to 0 . 78 ) Rifabutin 300 mg once daily 25 mg once daily 18 0 . 69 ( 0 . 62 to 0 . 76 ) 0 . 58 ( 0 . 52 to 0 . 65 ) 0 . 52 ( 0 . 46 to 0 . 59 ) Rifabutin 300 mg once daily 50 mg once daily 18 1 . 43 ( 1 . 30 to 1 . 56 ) 1 . 16 ( 1 . 06 to 1 . 26 ) 0 . 93 ( 0 . 85 to 1 . 01 ) ( reference arm for comparison was 25 - mg - once - daily rilpivirine administered alone ) Rifampin 600 mg once daily 150 mg once dailya 16 0 . 31 ( 0 . 27 to 0 . 36 ) 0 . 20 ( 0 . 18 to 0 . 23 ) 0 . 11 ( 0 . 10 to 0 . 13 ) Sildenafil 50 mg single dose 75 mg once dailya 16 0 . 92 ( 0 . 85 to 0 . 99 ) 0 . 98 ( 0 . 92 to 1 . 05 ) 1 . 04 ( 0 . 98 to 1 . 09 ) Simeprevir 150 mg once daily 25 mg once daily 23 1 . 04 ( 0 . 95 to 1 . 13 ) 1 . 12 ( 1 . 05 to 1 . 19 ) 1 . 25 ( 1 . 16 to 1 . 35 ) 12 . 4 Microbiology Mechanism of Action Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle .
+Strand transfer biochemical assays using purified HIV - 1 integrase and pre - processed substrate DNA resulted in IC50 values of 2 . 7 nM and 12 . 6 nM .
+Rilpivirine is a diarylpyrimidine NNRTI of HIV - 1 and inhibits HIV - 1 replication by non - competitive inhibition of HIV - 1 reverse transcriptase ( RT ) .
+Rilpivirine does not inhibit the human cellular DNA polymerases α , β , and γ .
+Antiviral Activity in Cell Culture Dolutegravir exhibited antiviral activity against laboratory strains of wild - type HIV - 1 with mean EC50 values of 0 . 5 nM to 2 . 1 nM ( 0 . 21 to 0 . 85 ng per mL ) in peripheral blood mononuclear cells ( PBMCs ) and MT - 4 cells .
+Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a mean EC50 value of 0 . 52 nM in a viral integrase susceptibility assay using the integrase coding region from clinical isolates .
+Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV - 1 clinical isolates ( 3 in each group of M [ clades A , B , C , D , E , F , and G ] and 3 in group O ) with EC50 values ranging from 0 . 02 nM to 2 . 14 nM .
+Rilpivirine exhibited activity against laboratory strains of wild - type HIV - 1 in an acutely infected T - cell line with a median EC50 value for HIV - 1 IIIB of 0 . 73 nM ( 0 . 27 ng per mL ) .
+Rilpivirine demonstrated antiviral activity against a broad panel of HIV - 1 group M ( clades A , B , C , D , F , G , H ) primary isolates with EC50 values ranging from 0 . 07 nM to 1 . 01 nM ( 0 . 03 to 0 . 37 ng / mL ) and was less active against group O primary isolates with EC50 values ranging from 2 . 88 to 8 . 45 nM ( 1 . 06 to 3 . 10 ng / mL ) .
+Antiviral Activity in Combination with Other Antiviral Agents Neither dolutegravir nor rilpivirine were antagonistic to all tested anti - HIV agents or with each other when tested in combination .
+Resistance Cell Culture : Dolutegravir - resistant viruses were selected in cell culture starting from different wild - type HIV ‑ 1 strains and clades .
+Amino acid substitutions E92Q , G118R , S153F or Y , G193E , or R263K emerged in different passages and conferred decreased susceptibility to dolutegravir of up to 4 - fold .
+Rilpivirine - resistant strains were selected in cell culture starting from wild - type HIV - 1 of different origins and clades as well as NNRTI - resistant HIV - 1 .
+The frequently observed amino acid substitutions that emerged and conferred decreased phenotypic susceptibility to rilpivirine included : L100I ; K101E ; V106I and A ; V108I ; E138K and G , Q , R ; V179F and I ; Y181C and I ; V189I ; G190E ; H221Y ; F227C ; and M230I and L . Virologically Suppressed Subjects : In the pooled SWORD - 1 and SWORD - 2 trials , 12 subjects ( 7 in SWORD - 1 and 5 in SWORD - 2 ) had confirmed virologic failure ( HIV - 1 RNA greater than 200 copies / mL ) while receiving dolutegravir plus rilpivirine at any time through Week 148 .
+Ten of the confirmed virologic failures had post - baseline resistance data , with 6 isolates showing evidence of rilpivirine resistance , and 2 with evidence of dolutegravir resistance substitutions .
+Six isolates showed genotypic and / or phenotypic resistance to rilpivirine with emergent NNRTI - resistance substitutions E138E / A ( rilpivirine 1 . 6 - fold change ) , M230M / L ( rilpivirine 2 - fold change ) , L100L / I , K101Q and E138A ( rilpivirine 4 . 1 - fold change ) , K101K / E ( rilpivirine 1 . 2 - fold change ) , K101K / E , M230M / L ( rilpivirine 2 - fold change ) , and L100L / V / M , M230M / L ( rilpivirine 31 - fold change ) .
+In addition , 1 virologic failure subject had NNRTI - resistance substitutions K103N and V179I at Week 88 with rilpivirine phenotypic fold change of 5 . 2 but had no baseline sample .
+One virologic failure isolate had emergent INSTI - resistance substitution V151V / I present post - baseline with baseline INSTI - resistance substitutions N155N / H and G163G / R ( by exploratory HIV proviral DNA archive sequencing ) ; no integrase phenotypic data were available for this isolate at virologic failure .
+One other subject had the dolutegravir - resistance substitution G193E at baseline and virologic failure , but no detectable phenotypic resistance ( fold change = 1 . 02 ) at Week 24 .
+No resistance - associated substitutions were observed for the 2 subjects meeting confirmed virologic failure in the comparative current antiretroviral regimen arms at Week 48 .
+Cross - Resistance Dolutegravir : The susceptibility of dolutegravir was tested against 60 INSTI - resistant site - directed mutant HIV - 1 viruses ( 28 with single substitutions and 32 with 2 or more substitutions ) .
+The single INSTI - resistance substitutions T66K , I151L , and S153Y conferred a greater than 2 - fold decrease in dolutegravir susceptibility ( range : 2 . 3 - fold to 3 . 6 - fold from reference ) .
+Combinations of multiple substitutions T66K / L74M ; E92Q / N155H ; G140C / Q148R ; G140S / Q148H , R or K ; Q148R / N155H ; T97A / G140S / Q148 , and substitutions at E138 / G140 / Q148 showed a greater than 2 - fold decrease in dolutegravir susceptibility ( range : 2 . 5 - fold to 21 - fold from reference ) .
+Rilpivirine : Considering all of the available cell culture and clinical data , any of the following amino acid substitutions , when present at baseline , are likely to decrease the antiviral activity of rilpivirine : K101E or P ; E138A , G , K , R , or Q ; V179L ; Y181C , I , or V ; Y188L ; H221Y ; F227C ; M230I or L . Cross - resistance in site - directed mutant virus has been observed among NNRTIs .
+The single NNRTI substitutions K101P , Y181I , and Y181V conferred 52 times , 15 times , and 12 times decreased susceptibility to rilpivirine , respectively .
+The combination of E138K and M184I showed 6 . 7 times reduced susceptibility to rilpivirine compared with 2 . 8 times for E138K alone .
+The K103N substitution did not show reduced susceptibility to rilpivirine by itself .
+However , the combination of K103N and L100I resulted in a 7 times reduced susceptibility to rilpivirine .
+In another study , the Y188L substitution resulted in a reduced susceptibility to rilpivirine of 9 times for clinical isolates and 6 times for site - directed mutants .
+Combinations of 2 or 3 NNRTI resistance - associated substitutions gave decreased susceptibility to rilpivirine ( fold - change range : 3 . 7 to 554 ) in 38 % and 66 % of mutants , respectively .
+Cross - resistance to efavirenz , etravirine , and / or nevirapine is likely after virologic failure and development of rilpivirine resistance .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Two - year carcinogenicity studies in mice and rats were conducted with dolutegravir .
+Mice were administered doses of up to 500 mg per kg and rats were administered doses of up to 50 mg per kg .
+In mice , no significant increases in the incidence of drug - related neoplasms were observed at the highest doses tested , resulting in dolutegravir AUC exposures approximately 20 times higher than those in humans at the recommended dose of 50 mg once daily .
+In rats , no increases in the incidence of drug - related neoplasms were observed at the highest dose tested , resulting in dolutegravir AUC exposures approximately 17 times higher than those in humans at the recommended dose of 50 mg once daily .
+Rilpivirine was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks .
+Daily doses of 20 , 60 , and 160 mg per kg per day were administered to mice and doses of 40 , 200 , 500 , and 1 , 500 mg per kg per day were administered to rats .
+In rats , there were no drug - related neoplasms .
+In mice , rilpivirine was positive for hepatocellular neoplasms in both males and females .
+The observed hepatocellular findings in mice may be rodent specific .
+At the lowest tested doses in the carcinogenicity studies , the systemic exposures ( based on AUC ) to rilpivirine were 21 ( mice ) and 3 ( rats ) times higher than those observed in humans at the recommended dose ( 25 mg once daily ) .
+Mutagenesis Dolutegravir was not genotoxic in the bacterial reverse mutation assay , mouse lymphoma assay , or in the in vivo rodent micronucleus assay .
+Rilpivirine tested negative in the absence and presence of a metabolic activation system in the in vitro Ames reverse mutation assay and the in vitro clastogenicity mouse lymphoma assay .
+Rilpivirine did not induce chromosomal damage in the in vivo micronucleus test in mice .
+Impairment of Fertility Dolutegravir did not affect male or female fertility in rats at doses associated with exposures approximately 33 times higher than the exposures in humans at the doses of 50 mg once daily .
+No human data on the effect of rilpivirine on fertility are available .
+In a study conducted in rats , there were no effects on mating or fertility with rilpivirine up to 400 mg per kg per day , a dose of rilpivirine that showed maternal toxicity .
+This dose is associated with an exposure that is approximately 40 times higher than the exposure in humans at the recommended dose of 25 mg once daily .
+14 CLINICAL STUDIES 14 . 1 Clinical Trials in Adult Subjects Switching to JULUCA The efficacy of JULUCA is supported by data from 2 open - label , controlled trials ( SWORD - 1 [ NCT02429791 ] and SWORD - 2 [ NCT02422797 ] ) in virologically suppressed patients switching from their current antiretroviral regimen to dolutegravir plus rilpivirine .
+SWORD - 1 and SWORD - 2 are identical 148 - week , Phase 3 , randomized , multicenter , parallel - group , non - inferiority trials .
+A total of 1 , 024 adult HIV - 1 – infected subjects who were on a stable suppressive antiretroviral regimen ( containing 2 NRTIs plus either an INSTI , an NNRTI , or a PI ) for at least 6 months ( HIV - 1 RNA less than 50 copies per mL ) , with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials .
+Subjects were randomized 1 : 1 to continue their current antiretroviral regimen ( n = 511 ) or be switched to dolutegravir plus rilpivirine administered once daily ( n = 513 ) .
+Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52 ( n = 477 ) .
+The primary efficacy endpoint for the SWORD trials was the proportion of subjects with plasma HIV - 1 RNA less than 50 copies per mL at Week 48 .
+At baseline , in the pooled analysis , the median age of subjects was 43 years ( range : 21 to 79 ) , 22 % female , 20 % non - white , 11 % were CDC Class C ( AIDS ) , and 11 % had CD4 + cell count less than 350 cells per mm3 ; these characteristics were similar between treatment arms .
+In the pooled analysis , 54 % , 26 % , and 20 % of subjects were receiving an NNRTI , PI , or INSTI , respectively , as their baseline third - treatment - agent class prior to randomization .
+This distribution was similar between treatment arms .
+The primary endpoint and other outcomes ( including outcomes by key baseline covariates ) for the pooled SWORD - 1 and SWORD - 2 trials are shown in Table 12 .
+The virologic outcome results for SWORD - 1 and SWORD - 2 were similar to the pooled SWORD - 1 and SWORD - 2 virologic outcome results .
+Table 12 .
+Pooled Virologic Outcomes of Randomized Treatment in SWORD - 1 and SWORD - 2 Trials at Week 48 in Virologically Suppressed Subjects Who Switched to JULUCA ( Snapshot Algorithm ) INSTI = Integrase strand transfer inhibitor ; NNRTI = Non - nucleoside reverse transcriptase inhibitor ; PI = Protease inhibitor .
+a Other includes reasons such as withdrew consent , loss to follow - up , moved , and protocol deviation .
+Pooled Data Dolutegravir plus Rilpivirine ( n = 513 ) Current Antiretroviral Regimen ( n = 511 ) HIV - 1 RNA < 50 copies / mL 95 % 95 % Treatment Difference - 0 . 2 % ( 95 % CI : - 3 . 0 % , 2 . 5 % ) HIV - 1 RNA ≥ 50 copies / mL < 1 % 1 % Treatment Difference - 0 . 6 % ( 95 % CI : - 1 . 7 % , 0 . 6 % ) Data in window not < 50 copies / mL 0 < 1 % Discontinued for lack of efficacy < 1 % < 1 % Discontinued for other reasons while not < 50 copies / mL < 1 % < 1 % Change in ART 0 < 1 % No virologic data at Week 48 window 5 % 4 % Discontinued due to adverse event or death 3 % < 1 % Discontinued for other reasonsa 1 % 3 % Missing data during window but on study 0 < 1 % Proportion ( % ) of Subjects with HIV - 1 RNA < 50 copies / mL by Baseline Category Baseline CD4 + ( cells / mm3 ) < 350 88 % ( n = 58 ) 88 % ( n = 52 ) ≥ 350 96 % ( n = 455 ) 96 % ( n = 459 ) Baseline Third - Treatment - Agent Class INSTI 94 % ( n = 105 ) 95 % ( n = 97 ) NNRTI 96 % ( n = 275 ) 95 % ( n = 278 ) PI 93 % ( n = 133 ) 94 % ( n = 136 ) Gender Male 95 % ( n = 393 ) 96 % ( n = 403 ) Female 93 % ( n = 120 ) 91 % ( n = 108 ) Race White 94 % ( n = 421 ) 95 % ( n = 400 ) African - America / African Heritage / Other 99 % ( n = 92 ) 95 % ( n = 111 ) Age ( years ) < 50 96 % ( n = 366 ) 94 % ( n = 369 ) ≥ 50 93 % ( n = 147 ) 96 % ( n = 142 ) Treatment differences were maintained across baseline characteristics including , CD4 + cell count , age , gender , race , and baseline third - treatment - agent class .
+At Week 148 in the pooled SWORD - 1 and SWORD - 2 trials , 84 % of subjects who received dolutegravir plus rilpivirine from study start had plasma HIV - 1 RNA less than 50 copies / mL ( Snapshot algorithm ) .
+In subjects who initially remained on their current antiretroviral regimen and switched to dolutegravir plus rilpivirine at Week 52 , 90 % had plasma HIV - 1 RNA less than 50 copies / mL at Week 148 ( Snapshot algorithm ) , which was comparable to the response rate ( 89 % ) observed at Week 100 ( similar exposure duration ) in subjects receiving dolutegravir plus rilpivirine from study start .
+16 HOW SUPPLIED / STORAGE AND HANDLING Each JULUCA tablet contains 50 mg of dolutegravir and 25 mg of rilpivirine , and is a pink , oval , film - coated , biconvex tablet debossed with “ SV J3T ” on one side .
+Bottle of 30 tablets with child - resistant closure ( contains a desiccant ) NDC 49702 - 242 - 13 .
+Store and dispense in the original package , protect from moisture , and keep the bottle tightly closed .
+Do not remove desiccant .
+Store at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) ; excursions permitted between 15 ° C and 30 ° C ( 59 ° F and 86 ° F ) [ See USP Controlled Room Temperature ] .
+17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Patient Information ) .
+Severe Skin and Hypersensitivity Reactions Advise patients to immediately contact their healthcare provider if they develop a rash .
+Instruct patients to immediately stop taking JULUCA and seek medical attention if they develop a rash associated with any of the following symptoms , as it may be a sign of a more serious reaction such as DRESS severe hypersensitivity : fever ; generally ill feeling ; extreme tiredness ; muscle or joint aches ; blisters or peeling of the skin ; oral blisters or lesions ; eye inflammation ; facial swelling ; swelling of the eyes , lips , tongue , or mouth ; breathing difficulty ; and / or signs and symptoms of liver problems ( e . g . , yellowing of the skin or whites of the eyes ; dark or tea - colored urine ; pale - colored stools or bowel movements ; nausea ; vomiting ; loss of appetite ; or pain , aching , or sensitivity on the right side below the ribs ) .
+Advise patients that if hypersensitivity occurs , they will be closely monitored , laboratory tests will be ordered , and appropriate therapy will be initiated [ see Warnings and Precautions ( 5 . 1 ) ] .
+Hepatotoxicity Inform patients that hepatotoxicity has been reported with rilpivirine and dolutegravir , components of JULUCA [ see Warnings and Precautions ( 5 . 2 ) , Adverse Reactions ( 6 . 1 ) ] .
+Inform patients that monitoring for hepatotoxicity is recommended .
+Embryo - Fetal Toxicity Advise individuals of childbearing potential , including those actively trying to become pregnant , to discuss the risks and benefits of JULUCA with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy .
+If pregnancy is confirmed in the first trimester , advise patients to contact their healthcare provider [ see Warnings and Precaution ( 5 . 3 ) , Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+Individuals of childbearing potential taking JULUCA should be counseled on the consistent use of effective contraception [ see Warnings and Precautions ( 5 . 3 ) , Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+Depressive Disorders Inform patients that depressive disorders ( depressed mood , depression , dysphoria , major depression , mood altered , negative thoughts , suicide attempt , suicidal ideation ) have been reported with the components of JULUCA .
+Advise patients to seek immediate medical evaluation if they experience depressive symptoms [ see Warnings and Precautions ( 5 . 4 ) , Adverse Reactions ( 6 . 1 ) ] .
+Drug Interactions JULUCA may interact with many drugs ; therefore , advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St . John ’ s wort [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 5 ) , Drug Interactions ( 7 ) ] .
+Administration Instruction Inform patients that it is important to take JULUCA once daily on a regular dosing schedule with a meal and to avoid missing doses as it can result in development of resistance .
+Instruct patients that if they miss a dose of JULUCA , to take it as soon as they remember with a meal .
+Advise patients not to double their next dose .
+Advise the patient a protein drink alone does not replace a meal [ see Clinical Pharmacology ( 12 . 3 ) ] .
+Pregnancy Registry Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes in those exposed to JULUCA during pregnancy [ see Use in Specific Populations ( 8 . 1 ) ] .
+Lactation Instruct mothers with HIV - 1 infection not to breastfeed because HIV - 1 can be passed to the baby in the breast milk [ seeUse in Specific Populations ( 8 . 2 ) ] .
+Storage Instruct patients to store JULUCA in the original bottle to protect from moisture and keep the bottle tightly closed .
+Do not remove desiccant [ see How Supplied / Storage and Handling ( 16 ) ] .
+JULUCA , TIVICAY , and TRIUMEQ are trademarks owned by or licensed to the ViiV Healthcare group of companies .
+The other brand listed is a trademark owned by or licensed to its respective owner and is not a trademark owned by or licensed to the ViiV Healthcare group of companies .
+The maker of this brand is not affiliated with and does not endorse the ViiV Healthcare group of companies or its products .
+Manufactured for : ViiV Healthcare Durham , NC 27701 by : GlaxoSmithKline Durham , NC 27701 © 2022 ViiV Healthcare group of companies or its licensor .
+JLC : 9 PI _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ PATIENT INFORMATION JULUCA ( Jah - LOO - kah ) ( dolutegravir and rilpivirine tablets ) What is JULUCA ?
+JULUCA is a prescription medicine that is used without other antiretroviral medicines to treat Human Immunodeficiency Virus - 1 ( HIV - 1 ) infection in adults to replace their current anti - HIV - 1 medicines when their healthcare provider determines that they meet certain requirements .
+HIV - 1 is the virus that causes Acquired Immune Deficiency Syndrome ( AIDS ) .
+It is not known if JULUCA is safe and effective in children .
+Do not take JULUCA if you : • • have ever had an allergic reaction to a medicine that contains dolutegravir or rilpivirine .
+• • are taking any of the following medicines : • odofetilide • ocarbamazepine • ooxcarbazepine • ophenobarbital • ophenytoin • orifampin • orifapentine • oproton pump inhibitors , including : • ▪ esomeprazole • ▪ lansoprazole • ▪ omeprazole • ▪ pantoprazole sodium • ▪ rabeprazole • oSt .
+John ' s wort ( Hypericum perforatum ) • omore than 1 dose of the steroid medicine dexamethasone or dexamethasone sodium phosphate Before you take JULUCA , tell your healthcare provider about all of your medical conditions , including if you : • • have ever had a severe skin rash or an allergic reaction to medicines that contain dolutegravir or rilpivirine .
+• • have or have had liver problems , including hepatitis B or C infection .
+• • have ever had a mental health problem .
+• • are pregnant or plan to become pregnant .
+One of the medicines in JULUCA called dolutegravir may harm your unborn baby .
+• oYour healthcare provider may prescribe a different medicine than JULUCA if you are planning to become pregnant or if pregnancy is confirmed during the first 12 weeks of pregnancy .
+• oIf you can become pregnant , your healthcare provider may perform a pregnancy test before you start treatment with JULUCA .
+• oIf you can become pregnant , you and your healthcare provider should talk about the use of effective birth control ( contraception ) during treatment with JULUCA .
+• oTell your healthcare provider right away if you are planning to become pregnant , you become pregnant , or think you may be pregnant during treatment with JULUCA .
+Pregnancy Registry .
+There is a pregnancy registry for individuals who take antiretroviral medicines , including JULUCA , during pregnancy .
+The purpose of this registry is to collect information about the health of you and your baby .
+Talk with your healthcare provider about how you can take part in this registry .
+• • are breastfeeding or plan to breastfeed .
+Do not breastfeed if you take JULUCA .
+• oYou should not breastfeed if you have HIV - 1 because of the risk of passing HIV - 1 to your baby .
+• oOne of the medicines in JULUCA passes to your baby in your breast milk .
+• Talk with your healthcare provider about the best way to feed your baby .
+Tell your healthcare provider about all the medicines you take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+Some medicines interact with JULUCA .
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine .
+• • You can ask your healthcare provider or pharmacist for a list of medicines that interact with JULUCA .
+• • Do not start taking a new medicine without telling your healthcare provider .
+Your healthcare provider can tell you if it is safe to take JULUCA with other medicines .
+How should I take JULUCA ?
+• • Take JULUCA 1 time a day exactly as your healthcare provider tells you .
+• • Always take JULUCA with a meal .
+A protein drink alone does not replace a meal .
+• • Do not change your dose or stop taking JULUCA without talking with your healthcare provider .
+• • If you take an H2 - receptor antagonist ( famotidine , cimetidine , nizatidine , or ranitidine ) , JULUCA should be taken at least 4 hours before or 12 hours after you take these medicines .
+• • If you take antacids , laxatives , or other products that contain aluminum , calcium carbonate , magnesium , or buffered medicines , JULUCA should be taken at least 4 hours before or 6 hours after you take these medicines .
+• • If you need to take iron or calcium supplements by mouth during treatment with JULUCA : • oYou may take these supplements at the same time that you take JULUCA with food .
+• oIf you do not take these supplements with JULUCA and food , take JULUCA at least 4 hours before or 6 hours after you take these supplements .
+• • Do not miss a dose of JULUCA .
+• • If you miss a dose of JULUCA , take it as soon as you remember with a meal .
+Do not take 2 doses at the same time .
+• • Stay under the care of a healthcare provider during treatment with JULUCA .
+• • Do not run out of JULUCA .
+The virus in your blood may increase and the virus may become harder to treat .
+When your supply starts to run low , get more from your healthcare provider or pharmacy .
+• • If you take too much JULUCA , call your healthcare provider or go to the nearest hospital emergency room right away .
+What are the possible side effects of JULUCA ?
+JULUCA can cause serious side effects , including : Severe skin rash and allergic reactions .
+Call your healthcare provider right away if you develop a rash with JULUCA .
+Stop taking JULUCA and get medical help right away if you develop a rash with any of the following signs or symptoms : • ofever • ogenerally ill feeling • otiredness • omuscle or joint aches • oblisters or sores in mouth • oblisters or peeling of the skin • oredness or swelling of the eyes • oswelling of the mouth , face , lips , or tongue • oproblems breathing • • Liver problems .
+People with a history of hepatitis B or C virus who have certain liver function test changes may have an increased risk of developing new or worsening changes in certain liver tests during treatment with JULUCA .
+Liver problems , including liver failure , have also happened in people without history of liver disease or other risk factors .
+Your healthcare provider may do blood tests to check your liver function .
+Call your healthcare provider right away if you develop any of the following signs or symptoms of liver problems : • oyour skin or the white part of your eyes turns yellow ( jaundice ) • odark or “ tea - colored ” urine • olight - colored stools ( bowel movements ) • onausea or vomiting • oloss of appetite • opain , aching , or tenderness on the right side of your stomach area • • Depression or mood changes .
+Tell your healthcare provider right away or get medical help if you have any of the following symptoms : • ofeeling sad or hopeless • ofeeling anxious or restless • ohave thoughts of hurting yourself ( suicide ) or have tried to hurt yourself • • The most common side effects of JULUCA include : • odiarrhea • onausea • oheadache These are not all the possible side effects of JULUCA .
+For more information , ask your healthcare provider or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store JULUCA ?
+• • Store JULUCA at room temperature between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+• • Store JULUCA tablets in the original bottle .
+Keep the bottle tightly closed and protected from moisture .
+• • The bottle of JULUCA contains a desiccant to help keep your medicine dry ( protect it from moisture ) .
+Keep the desiccant in the bottle .
+Do not remove the desiccant .
+Keep JULUCA and all medicines out of the reach of children .
+General information about the safe and effective use of JULUCA .
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet .
+Do not use JULUCA for a condition for which it was not prescribed .
+Do not give JULUCA to other people , even if they have the same symptoms that you have .
+It may harm them .
+You can ask your healthcare provider or pharmacist for information about JULUCA that is written for health professionals .
+What are the ingredients in JULUCA ?
+Active ingredients : dolutegravir and rilpivirine .
+Inactive ingredients : croscarmellose sodium , D - mannitol , lactose monohydrate , magnesium stearate , microcrystalline cellulose , polysorbate 20 , povidone K29 / 32 and K30 , silicified microcrystalline cellulose , sodium starch glycolate , and sodium stearyl fumarate .
+The tablet film - coating contains : iron oxide red , iron oxide yellow , macrogol / PEG , polyvinyl alcohol - part hydrolyzed , talc , and titanium dioxide .
+Manufactured for : ViiV Healthcare Durham , NC 27701 by : GlaxoSmithKline Durham , NC 27701 Trademarks are owned by or licensed to the ViiV Healthcare group of companies .
+© 2022 ViiV Healthcare group of companies or its licensor .
+JLC : 8 PIL For more information go to www . JULUCA . com or call 1 - 877 - 844 - 8872 .
+This Patient Information has been approved by the U . S . Food and Drug Administration .
+Revised : 10 / 2022 PRINCIPAL DISPLAY PANEL NDC 49702 - 242 - 13 JULUCA ( dolutegravir and rilpivirine ) Tablets 50 mg / 25 mg Rx Only Note to pharmacist : Do not cover ALERT box with pharmacy label .
+ALERT : Find out about medicines that should NOT be taken with JULUCA .
+30 tablets Each film - coated tablet contains 50 mg of dolutegravir ( equivalent to 52 . 6 mg dolutegravir sodium ) and 25 mg of rilpivirine ( equivalent to 27 . 5 mg rilpivirine hydrochloride ) .
+Store at 20ºC to 25ºC ( 68ºF to 77ºF ) ; excursions permitted between 15ºC and 30ºC ( 59ºF and 86ºF ) ( see USP Controlled Room Temperature ) .
+Store and dispense in the original package , protect from moisture , and keep the bottle tightly closed .
+Do not remove desiccant .
+See prescribing information for dosage information .
+Mfd for : ViiV Healthcare RTP , NC 27709 by : GlaxoSmithKline , RTP NC 27709 Made in UK Rev . 11 / 17 10000000146014 [ MULTIMEDIA ] [ MULTIMEDIA ]

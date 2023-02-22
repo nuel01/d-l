@@ -1,0 +1,322 @@
+IDkit Two Package Insert Package Insert IDkit Hp ™ Two for Exalenz BreathID ® Hp Lab System Breath Test for Detection of H . pylori SECTION 1 .
+PACKAGE INSERT This package insert includes information for conducting the H . pylori test using the BreathID ® Hp Lab System for analysis with the Breath Test Kit , IDkit Hp ™ Two .
+The following are trademarks of Exalenz Bioscience Ltd . : Exalenz ™ , MCS ™ , IDkit Hp ™ and BreathID ® .
+All reference to Exalenz in this document refers to the company Exalenz Bioscience Ltd .
+Note : No license , expressed or implied , is granted under any patents of Exalenz Bioscience Ltd .
+SECTION 2 .
+INTENDED USE The Exalenz BreathID ® Hp Lab System is intended for use to non - invasively measure changes in the 13CO2 / 12CO2 ratio of exhaled breath , which may be indicative of increased urease production associated with active Helicobacter pylori ( H . pylori ) infection in the stomach .
+The Exalenz BreathID ® Hp Lab System is indicated for use as an aid in the initial diagnosis and post treatment monitoring of H . pylori infection in adult patients and pediatric patients ages 3 - 17 years old .
+The Exalenz BreathID ® Hp Lab System consists of the appropriate IDkit Hp ™ kit and the BreathID ® Hp device , Auto Sampler and Lab Application .
+To be administered by trained personnel as ordered by a licensed healthcare practitioner .
+SECTION 3 .
+SUMMARY AND EXPLANATION Since the initial identification of H . pylori in the early 1980 s [ 1 ] , the management of upper gastrointestinal disease has changed dramatically .
+“ Helicobacter pylori is now recognized as an important pathogen and a causal relationship between H . pylori and chronic active gastritis , duodenal ulcer , and gastric ulcer is well documented ” [ 2 ] .
+Currently there are numerous H . pylori detection technologies for upper gastrointestinal disease including biopsy and serum analysis .
+These technologies depend on two general approaches for obtaining a sample for testing : invasive and non - invasive .
+The first invasive test method requires an endoscopic gastric biopsy .
+The tissue collected from the biopsy is then examined in a laboratory by microbiological culture of the organism , direct detection of urease activity in the tissue , or by histological examination of stained tissue .
+Biopsy - based methods present an element of patient risk and discomfort and may provide false negative results due to sampling errors .
+The second invasive test is a serological test ; this requires a blood sample which is used to detect serum antibodies to H . pylori .
+The disadvantage of this test is that it is difficult to distinguish between positive active infections and past exposure to infection , and therefore it is not a conclusive indicator of current H . pylori infection .
+13 C - urea breath tests provide a non - invasive and non - hazardous analysis of the exhaled breath .
+The BreathID ® test ( described in the next section ) measures the 12CO2 and 13CO2 components of the exhaled breath before and after the oral ingestion of 13 C - enriched urea .
+This establishes the baseline ratio of 13CO2 / 12CO2 and the post ingestion ratio of 13CO2 / 12CO2 in order to determine the Delta Over Baseline [ 1 ] ( change in the 13CO2 / 12CO2 ratio ) .
+SECTION 4 .
+PRINCIPLES OF THE EXALENZ BREATHID ® BREATH TEST The Exalenz BreathID ® non - invasive breath test is a diagnostic test that analyzes a breath sample before and after ingestion of 13 C - enriched urea ; it is used to identify those patients with H . pylori infection .
+The Exalenz BreathID ® breath test is performed as follows : a 75 mg 13 C - urea tablet and 4 . 3 g Citrica Powder are dissolved in water , and the resulting solution is ingested by the patient .
+The presence of the Citrica creates an acidic environment in the stomach and also delays the transfer of the ingested solution to the duodenum .
+These two characteristics facilitate the decomposition of the urea by H . pylori , if present .
+Thus , in the presence of urease associated with gastric H . pylori , 13 C - urea is decomposed to 13CO2 and NH3 according to the following equation : H . pylori urease 2 13 C - urea + 2 H2 O → 2 13CO2 + 2 NH3 The 13CO2 is absorbed into the blood and then exhaled in the breath .
+Absorption and distribution of 13CO2 is fast .
+Therefore , the cleavage of urea by the H . pylori urease that produces the 13CO2 occurs immediately after the solution is ingested and enables immediate detection of increased 13CO2 in the exhaled breath of H . pylori - positive patients .
+In the case of H . pylori - negative patients , the 13 C - urea does not produce 13CO2 in the stomach because there are no human enzymes that can decompose the urea in the stomach .
+4 . 1 .
+Description of the mode of operation of the BreathID ® device The test consists of two phases , the Sampling phase , at which time two Breath Sample Bags are inflated by the patient , and the Analysis phase as which time the two Breath Sample Bags are analyzed together using the BreathID ® Hp Lab System .
+Sampling phase begins with the collection of a baseline breath sample .
+The patient inflates the Baseline Breath Sample Bag .
+The patient then ingests a test drink consisting of 13 C - urea tablet 75 mg and 4 . 3 g of Citrica Powder ( 4 g citric acid ) .
+After 15 - 20 minutes a post - ingestion sample is collected by inflation of the Post Ingestion Breath Sample Bag .
+The analysis is performed with the BreathID ® Hp Lab System up to 14 days from sample collection , either locally or remotely .
+The 13CO2 / 12CO2 ratio is measured and the DOB computed .
+SECTION 5 .
+REAGENT 5 . 1 .
+DESCRIPTION OF THE 13 C - UREA DIAGNOSTIC COMPONENT The diagnostic drug component of the kit is 13 C - enriched urea prepared as a tablet .
+The tablet should be dissolved with Citrica Powder in a glass of water , providing a clear , colorless solution for oral administration .
+The 75 mg 13 C - urea component is supplied as a tablet in a sealed pouch .
+The 4 . 3 g of Citrica Powder ( 4 g citric acid , [ 3 , 4 , 5 ] , aspartame , and Tutti Frutti flavoring ) is supplied in a separate sealed pouch .
+An average adult body normally contains about 9 . 0 grams of urea , which is a product of protein metabolism .
+Urea in the body is referred to as a natural isotopic abundance urea since it is composed of 98 . 9 % 12 C - urea and 1 . 1 % 13 C - urea .
+Greater than or equal to 99 % of the carbon molecules in the supplied tablet are in the form of 13 C ; a stable , naturally occurring , non - radioactive isotope of carbon .
+13 C - urea is the diamide of 13 C carbonic acid and is highly soluble in water ( 1 gram per ml at 25 ° C ) .
+It has the following chemical formula : 13CH4N2O .
+5 . 2 WARNINGS AND PRECAUTIONS 1 .
+For in vitro diagnostic use only .
+The 13 C - urea tablet and Citrica Powder are dissolved in a glass of water and the resulting solution is taken orally as part of the diagnostic procedure .
+2 .
+Phenylketonurics : Contains Phenylalanine , 84 mg per dosage unit of Citrica Powder .
+3 .
+In the case of accidental overdose – drink water and call the physician .
+4 .
+A negative result does not rule out the possibility of H . pylori infection .
+False negative results can occur with this procedure .
+If clinical signs suggest H . pylori infection , retest with a new sample or an alternate method .
+5 .
+A false positive test may occur due to urease associated with other gastric spiral organisms observed in humans such as Helicobacter heilmanni .
+6 .
+A false positive test could occur in patients who have achlorhydria .
+7 .
+Antimicrobials , proton pump inhibitors , and bismuth preparations are known to suppress H . pylori .
+Ingesting these medications within two weeks prior to performing the breath test may produce false negative test results .
+8 .
+Tiny particles may remain visible in the reconstituted 13 C - urea and Citrica solution after thorough mixing for up to five minutes .
+However , if more substantial particulate matter is still present after five minutes of mixing , the solution should not be used , and a new kit should be opened .
+9 .
+Safety and effectiveness has not been assessed in children below the age of 3 years .
+5 . 3 .
+MIXING THE 13 C - UREA TABLET 1 .
+Dissolve the Citrica and the 13 C - enriched urea tablet in 150 to 200 ml ( 5 . 1 to 6 . 8 oz . )
+of tap water in a single drinking cup of at least 236 ml ( 8 oz . )
+in capacity .
+2 .
+Stir thoroughly with the provided straw for a few minutes , until the Citrica Powder and the urea tablet are completely dissolved .
+Note : Tiny particles may remain visible after thorough mixing .
+However , if more substantial particulate matter is still presentafter five minutes of stirring , discard the solution and repeat the procedure with a new kit .
+5 . 4 .
+SHELF LIFE AND STORAGE Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+The following components of the test kit have expiration dates : the 13 C - urea tablet and the Citrica Powder .
+Do not use either of these components beyond the expiration date stated on the respective labels .
+The earlier of the two expiry dates appears on the IDkit Hp ™ Two box .
+5 . 5 .
+PURIFICATION OR TREATMENT Purification or treatment for the 13 C - urea tablet is not required prior to use .
+5 . 6 .
+INSTABILITY OR DETERIORATION There are no known physical , biological , or chemical indications of instability or deterioration for the 13 C - urea tablet SECTION 6 .
+ADVERSE EVENTS 6 . 1 Following FDA clearance of the IDkit : Hp ™ One kits ( using the identical 13 C - urea tablet and Citrica powder ) , the following adverse events have been identified : anaphylactic reaction , diarrhea and vomiting .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to establish a causal relationship to drug exposure .
+6 . 2 In two clinical studies conducted in 465 patients ’ of at least 18 years - old and older to determine the initial diagnosis and post treatment monitoring of H . pylori infection using the IDkit Hp ™ Two kits , the following adverse events experienced by 1 . 5 % of these patients were nausea ( 0 . 6 % ) , throat burning ( 0 . 4 % ) and lightheadedness ( 0 . 4 % ) .
+The last one was reported after blowing into the bags .
+The potential adverse events were experienced by the patients within minutes of ingestion of the 13 C - urea tablet and Citrica powder .
+In a clinical study conducted in 53 pediatric patients , aged 3 to 17 years , using the IDkit Hp ™ Two kit one adverse event of vomiting was experienced by one subject ( 1 . 89 % ) .
+It resolved on the same day .
+SECTION 7 .
+INSTRUMENTS The Exalenz BreathID ® non - invasive breath test is a diagnostic test that analyzes a breath sample before and after ingestion of 13 C - enriched urea ; it is used to identify those patients with H . pylori infection .
+The samples need to be tested with the BreathID ® Hp Lab System .
+For detailed information on the BreathID ® Hp Lab System , reference the Operator Manual supplied with the BreathID ® Hp Lab System .
+7 . 1 USE AND FUNCTION OF BREATHID ® HP LAB SYSTEM The Exalenz BreathID ® Hp Lab System is intended for use to non - invasively measure changes in the 13CO2 / 12CO2 ratio of exhaled breath , which may be indicative of increased urease production associated with active Helicobacter pylori ( H . pylori ) infection in the stomach .
+The Exalenz BreathID ® Hp Lab System is indicated for use as an aid in the initial diagnosis and post treatment monitoring of H . pylori infection in adult patients and pediatric patients ages 3 - 17 years old .
+The Exalenz BreathID ® Hp Lab System consists of the IDkit Hp ™ Two kit and the BreathID ® Hp device , Auto Sampler and Lab Application .
+To be administered by trained personnel as ordered by a licensed healthcare practitioner .
+7 . 2 PRINCIPLE OF OPERATION The Exalenz BreathID ® breath test is performed as follows : a 75 mg 13 C - urea tablet and 4 . 3 g Citrica Powder are dissolved in water and the resulting solution is ingested by the patient .
+The presence of the Citrica creates an acidic environment in the stomach and also delays the transfer of the ingested solution to the duodenum .
+These two characteristics facilitate the decomposition of the urea by H . pylori , if present .
+The 13CO2 is absorbed into the blood and then exhaled in the breath .
+Absorption and distribution of 13CO2 is fast .
+Therefore , the cleavage of urea by the H . pylori urease that produces the 13CO2 occurs immediately after the solution is ingested and enables immediate detection of increased 13CO2 in the exhaled breath of H . pylori - positive patients .
+For detailed information on the principle of operation of the BreathID ® Breath Test , refer to section 4 .
+7 . 3 .
+PERFORMANCE CHARACTERISTICS Adults A multi - center , prospective , non - randomized , open label , validation , pivotal study , designed to confirm the efficacy of the IDkit Hp ™ Two as part of the BreathID ® Hp Lab System was performed for initial diagnosis ( pre - therapy ) and post eradication testing using 5 DOB diagnostic cut - off ( see section 10 . 3 ) versus composite biopsy results ( histology and RUT ) .
+The study included a total of 247 consecutive adult subjects evaluable for efficacy per protocol ( 179 initial diagnosis and 68 post eradication ) .
+The following efficacy measures were determined for initial diagnosis : Sensitivity : 100 % x 37 / 37 = 100 % [ 95 % CI ( 90 . 60 ; 100 . 00 ) ] Specificity : 100 % x 139 / 142 = 97 . 9 % [ 95 % CI ( 93 . 97 ; 99 . 28 ) ] Pediatrics A multi - center , non - randomized , open label study was conducted with the primary goal of confirming the safety of the 13 C - urea substrate in pediatric subjects , and a secondary goal of evaluating performance of the BreathID ® Hp Lab System in pediatric subjects with breath collection using IDkit Hp ™ Two in this population , compared to stool antigen testing .
+Supported by existing clinical performance in the adult population , device performance was assessed in a limited clinical study in a pediatric population as described below .
+The study was not powered to assess efficacy in pediatric subjects and the standard reference method ( i . e . composite results based on samples from endoscopy ) was not used as the comparator method .
+The study included a total of 53 consecutive pediatric subjects with 42 evaluable for efficacy .
+The positive percent agreement between the breath test and the stool antigen test results was 93 . 3 % [ 95 % CI : 68 . 05 ; 99 . 83 ] and the negative percent agreement was 100 % [ 95 % CI : 87 . 23 % ; 100 % ] .
+A detailed description of the performance characteristics of the BreathID ® Hp Lab device using IDkit Hp ™ Two in adult and pediatric patients is provided in section 13 .
+7 . 4 OPERATIONAL PRECAUTIONS AND LIMITATIONS The following precautions and limitations are applicable to the BreathID ® Hp Lab System : 1 .
+A negative result does not rule out the possibility of H . pylori infection .
+False negative results can occur with this procedure .
+If clinical signs suggest H . pylori infection , retest with a new sample or an alternate method .
+2 .
+A false positive test may ( rarely ) occur due to urease associated with other gastric spiral organisms observed in humans such as Helicobacter heilmanni .
+3 .
+A false positive test could occur in patients who have achlorhydria .
+4 .
+Antimicrobials , proton pump inhibitors , and bismuth preparations are known to suppress H . pylori .
+Ingesting these medications within two weeks prior to performing the breath test may produce false negative test results .
+5 .
+Do not clean or sterilize the Breath Sample Bags .
+The bags are intended for single patient use only .
+SECTION 8 .
+SPECIMEN COLLECTION AND PREPARATION 8 . 1 .
+PATIENT PREPARATION Remind the patient that the Citrica contains 84 mg of phenylalanine per packet of Citrica Powder .
+Phenylketonurics restrict dietary phenylalanine .
+The patient should have fasted at least one hour before administering the solution .
+The patient should not have taken antimicrobials , proton pump inhibitors or bismuth preparations within two weeks prior to administering the test .
+8 . 2 .
+ADDITIVES AND PRESERVATIVES The BreathID ® Hp Lab System does not require any additives , preservatives , etc . to maintain the integrity of the breath sample .
+8 . 3 .
+INTERFERING SUBSTANCES Potentially interfering substances typically found in a patient ’ s breath were tested using the original BreathID ® System to determine their effect on the test results .
+The potential sources tested were : Mouthwash Chewing gum Carbonated beverages Cigarette smoke Acetone ( to simulate the effect of ketone production that may result from some diets ) Alcohol There was no observation that these substances had any significant influence on the outcome of the test .
+8 . 4 .
+BREATH SAMPLE HANDLING INSTRUCTIONS The analysis of the breath samples should be conducted within 14 days after breath collection ; the filled Breath Sample Bags should be stored at 15 ° - 30 ° C ( 59 ° - 86 ° F ) protected from direct sunlight or sharp objects .
+If desired , use the provided sample transport bag for transport of the breath samples .
+SECTION 9 .
+PROCEDURE 9 . 1 .
+MATERIALS A single BreathID ® IDkit Hp ™ Two is provided to perform the Breath Test .
+Each IDkit Hp ™ Two for the Exalenz Breath Test with the BreathID ® Hp Lab System contains : One package insert One tablet of 13 C - enriched urea , 75 mg One packet of 4 . 3 g ( 4 g citric acid , aspartame , Tutti Frutti flavoring ) of Citrica Powder One straw for stirring and drinking One drinking cup One blue BASELINE Breath Sample Bag for BASELINE breath collection prior to ingestion of test substrate One gray POST INGESTION Breath Sample Bag for 15 minutes POST INGESTION breath collection One large sample transport bag provided to store / ship both Breath Sample Bags Four barcode labels ( one for each Breath Sample Bag and two for the requisition form ) One Quick User Guide showing the basic steps of administering the test Materials Needed But Not Provided : Tap water Timer 9 . 2 .
+STEP - BY - STEP PROCEDURE For performing the BreathID ® H . pylori test , use the IDkit Hp ™ Two single - use kit .
+1 .
+Verify that the patient has been prepared for the breath test as specified in Section 8 .
+2 .
+Verify that the entire package is intact and contains all the materials listed in Section 9 . 1 .
+3 .
+Identify the two Breath Sample Bags ( the blue BASELINE bag and the gray POST INGESTION bag ) .
+4 .
+Prior to sampling the patient ’ s breath , label each bag with the supplied barcode labels or write the necessary identification information in the appropriate fields on each bag .
+5 .
+Collection of the BASELINE breath sample : Remove the cap from the mouthpiece of the blue BASELINE bag .
+Instruct the patient to take a deep breath , hold their breath for 4 to 5 seconds and then exhale directly into the mouthpiece of the blue BASELINE breath bag until completely full .
+If the bag is not full repeat step II .
+Replace the cap on the bag mouthpiece and firmly press until it clicks and is securely locked into place .
+Note : If the patient has not held their breath for 4 - 5 seconds or does not fill the bag completely , there is a possibility a test resultwillnotbe obtainable .
+Note : Thebagisnotfully closed if the cap does not click into place .
+Not fully closing the bag my cause the breath sample to slowly leak out .
+6 .
+Preparing the test drink : Note : Administer the test drink within two hours of preparation , as this is the maximal time for maintaining solution stability .
+Dissolve the Citrica Powder and the 13 C - enriched urea tablet in 5 . 1 to 6 . 8 oz .
+( 150 to 200 ml ) of tap water in a single drinking cup of at least eight ounces ( 236 ml ) in capacity .
+Stir thoroughly with the provided straw for a few minutes , until the Citrica Powder and the 13 C - urea tablet are completely dissolved .
+Keep the stirring straw in the cup to serve for drinking .
+Note : Tiny particles may remain visible after thorough mixing .
+However , if more substantial particulate matter is still presentafter five minutes of stirring , discard the solution and repeat the procedure with a new kit .
+7 .
+Administering the test drink : Give the prepared test drink to the patient .
+Ensure that the patient drinks the solution through the straw .
+The patient , including pediatric patients aged 3 - 17 regardless of age and bodyweight , must drink the solution within two minutes and consume the entire amount .
+Start the timer for 15 minutes .
+After the patient finishes drinking the solution , record the present time plus ( + ) another 15 minutes in the Time to Fill field on the gray POST INGESTION bag .
+8 .
+Collection of the POST INGESTION breath sample : Fifteen minutes after the administration of the test drink ( but not later than 20 minutes after administration ) remove the cap from the mouthpiece of the gray POST INGESTION bag .
+Instruct the patient to take a deep breath , hold their breath for 4 to 5 seconds and then exhale directly into the mouthpiece of the gray POST INGESTION bag until it is full .
+If the bag is not full repeat step II .
+Replace the cap on the bag mouthpiece and firmly press until it clicks and is securely locked into place .
+Note : If the patient has not held their breath for 4 - 5 seconds or does not fill the bag completely , there is a possibility a test result will not be obtainable .
+Note : The bag is not fully closed if the cap does not click into place .
+Not fully closing the bag my cause the breath sample to slowly leak out .
+9 .
+Storage of Breath Sample Bags for future measurement : Assure both filled Breath Sample Bags are correctly labeled and all fields are complete for future identification .
+Place both filled Breath Sample Bags ( the blue BASELINE bag and the gray POST INGESTION bag ) into the provided sample transport bag .
+Until analyzed , Breath Sample Bags should be stored at room temperature ( 15 - 30 ° C , 59 - 86 ° F ) , protected from direct sunlight and sharp objects .
+Refrain from applying any external pressure on the Breath Sample Bags .
+A BreathID ® Hp Lab System should be used in order to measure the filled Breath Sample Bags .
+For more detailed information regarding the step - by - step procedure and device operation , refer to the BreathID ® Hp Lab Operator Manual .
+9 . 3 .
+CALIBRATION The calibration stability of the BreathID ® Hp Lab System is ensured by the Exalenz proprietary 12CO2 and 13CO2 Isotope Specific Infrared ( ISIR ) lamps .
+The physical process underlying gas discharge emissions supports this stability .
+The emissions are caused by molecular rotation - vibration transitions , each generating a spectral line at a specific wavelength , uniquely defined to an accuracy of better than 0 . 01 Å ( Angstrom ) .
+Five gas samples of known concentration and isotope ratio are used to adjust the absorption cell calibration curves , aiming to attain identical isotope ratios over the collection range of CO2 concentrations .
+This will ensure accurate readings in both negative and positive samples .
+In addition , quality checks as described below in section 9 . 4 are performed automatically by the BreathID ® Hp Lab device after every 75 tests in order to ensure the system performs within established limits , and calibration is performed if required .
+9 . 4 .
+QUALITY CONTROL The BreathID ® Hp Lab System undergoes rigorous quality assurance procedures before leaving the manufacturer .
+However , to ensure correct functioning of the system in the field , the BreathID ® Hp Lab System will automatically perform a SystemCheck after 75 tests are completed .
+This procedure confirms that the system is functional and is performing within specifications .
+Complete operating information including appropriate quality control activities is provided in the BreathID ® Hp Lab System Operator Manual .
+Additionally , each laboratory should follow its internal procedures for quality control .
+SECTION 10 .
+TEST RESULTS 10 . 1 .
+THE TEST METHOD The ratio of 13CO2 to 12CO2 in breath samples is determined by Molecular Correlation Spectrometry ( MCS ™ ) , which is utilized by the BreathID ® Hp Lab device software .
+10 . 2 .
+CALCULATION OF RESULTS The results are provided as Delta Over Baseline .
+Delta Over Baseline is the difference between the Delta values ( based on a ratio of 13CO2 / 12CO2 ) in the POST INGESTION Breath Sample Bag specimen and the corresponding BASELINE Breath Sample Bag specimen .
+There are no calculations required by the user .
+10 . 3 .
+DETERMINATION OF THE CUTOFF POINT The cutoff point is the level ( threshold ) used to discriminate between H . pylori - infected and uninfected individuals .
+The Delta Over Baseline cutoff point was determined to be five in a controlled study of 186 adult asymptomatic and symptomatic patients ( 101 infected and 85 uninfected ) .
+The study was conducted in Israel using a local reference standard called the Isotope Ratio Mass Spectrometer ( IRMS ) .
+The cutoff point was evaluated by determining the original BreathID ® test result ( DOB ) threshold at which positive and negative patients , as determined by the Isotope Ratio Mass Spectrometer , were best distinguished .
+Figure 1 shows the BreathID ® test cutoff point graphically , which distinguishes H . pylori - positive and negative patients Figure 1 : Cutoff for BreathID ® Test as Determined in an Initial Clinical Study The cutoff point was confirmed in a controlled pivotal clinical study where 300 subjects were enrolled .
+The study consisted of a pre - therapy and post - therapy phase .
+Patients enrolled in the pre - therapy phase had dyspeptic symptoms , active peptic ulcer disease , or a past history of peptic ulcer disease .
+To be eligible for the post - therapy phase , H . pylori - positive patients had to be treated for infection four weeks prior to enrollment ( some patients participated in both the pre - therapy and post - therapy phases ) .
+In the pre - therapy phase , 47 patients were found to be infected and 253 were found to be uninfected .
+Congruent results obtained by rapid urease test and histological examination of biopsy tissue were used as the reference standard .
+In the post - therapy phase , 22 patients were infected and 50 were uninfected .
+The reference standard was a positive finding by endoscopic test ( rapid urease or histology ) or urea breath test ( UBT ) .
+For more details , refer to section13 .
+Figure 2 below shows the BreathID ® Delta Over Baseline results .
+Figure 2 : Cutoff Point for BreathID ® Test as Determined for Pre - Therapy Patients in the Pivotal Clinical Study 10 . 4 .
+INTERPRETATION OF RESULTS A BreathID ® test result of greater than 5 Delta Over Baseline is interpreted as diagnostically positive , indicating the presence of urease associated with H . pylori .
+A BreathID ® test result of less than or equal to 5 Delta Over Baseline is interpreted as diagnostically negative , indicating the absence of urease associated with H . pylori .
+The 5 Delta Over Baseline cutoff point applies to both initial diagnosis and post treatment monitoring of H . pylori infection .
+For more details , refer to section 13 .
+SECTION 11 .
+LIMITATIONS OF THE TEST Post treatment monitoring of H . pylori should be performed after at least four weeks of treatment for H . pylori infection .
+Earlier assessment may give false results .
+Safety and effectiveness in patients under the age of 18 years have not yet been established .
+Data is insufficient for recommending the use of this test on patients with total or partial gastrectomy .
+Data is insufficient to recommend the use of this test on pregnant and lactating women .
+A correlation between the number of H . pylori organisms in the stomach and the BreathID ® test results has not been established .
+SECTION 12 .
+EXPECTED VALUES Delta Over Baseline values for the BreathID ® test were determined in a controlled clinical study of 186 adult asymptomatic and symptomatic patients ( 101 infected and 85 uninfected ) in Israel , using a known reference standard called the Isotope Ratio Mass Spectrometer ( IRMS ) and performed in a local Israeli laboratory .
+The range of Delta Over Baseline values for the uninfected patients was determined to be between ‑ 1 and 8 .
+A histogram of the distribution of Delta Over Baseline values from uninfected patients is shown in Figure 3 below . Figure 3 : Distribution of Data for Uninfected Patients as Determined in an Initial Clinical StudyDelta Over Baseline values , as determined by the BreathID ® in a pivotal clinical study , were used to confirm the initial clinical data . In the pre - therapy phase , there were 47 infected and 253 uninfected patients .
+Congruent results obtained by rapid urease test and histological examinations of biopsy tissue were used as the reference standard and were confirmed by the BreathID ® in the 47 infected patients .
+In the post therapy phase , 22 patients were infected and 50 were uninfected .
+The reference standard in this phase was at least one positive finding from either an endoscopic test ( rapid urease or histology ) or by a UBT . The following values were obtained for the data from the pivotal study : Upper 97 . 5 % percentile of the Negative patients : 2 . 245 Lower 2 . 5 % percentile of the Positive patients : 7 . 212 A histogram of the distribution of Delta Over Baseline values from pre - therapy uninfected ( first phase ) patients is shown in Figure 4 below . Figure 4 : Distribution of Data for Pre - Therapy Uninfected Patients as Determined in the Pivotal Study SECTION 13 .
+PERFORMANCE CHARACTERISTICS 13 . 1 .
+VALIDATION OF IDKIT HP ™ Two BREATH SAMPLE BAGS Experimental Design A multi - center , non - randomized , open label , validation , pivotal study , designed to confirm the efficacy of the IDkit Hp ™ Two as part of the BreathID ® Hp Lab System was performed for initial diagnosis and post eradication testing using the same 5 DOB diagnostic cut - off versus composite biopsy results ( histology and RUT or culture ) .
+Patients were asked to perform the urea breath test using two pairs of breath sample bags from the IDkit Hp ™ Two .
+The sample analysis was performed either on site or in a remote location using a BreathID ® Hp Lab System .
+Each pair of breath sample bags was analyzed at a different time point up to 14 days apart in order to assess the stability of the breath samples in the breath sample bags .
+At 11 United States clinical sites and 2 sites in Israel , 196 adult initial diagnosis patients and 76 post – therapy patients who were positive for infection and who had completed eradication therapy at least six weeks prior to participation in the study were recruited . Patients were evaluated by at least 3 diagnostic methods : 1 .
+Histopathology : Biopsy specimens , fixed with formalin , were cut into sections , stained with at least H & E and IHC stains , and examined by an experienced pathologist at a central laboratory . 2 .
+Rapid Urease Test ( RUT ) : Biopsy specimens were tested for urease activity with a FDA - cleared test according to the instructions in its package insert . 3 .
+Exalenz BreathID ® Hp Lab test : The Exalenz BreathID ® Hp Lab test was performed in accordance with the procedures described in the IDkit Hp ™ Two package insert . ResultsThe results are presented in two - way contingency tables .
+The exact binomial distribution was used to calculate the lower and upper limits of the 95 % confidence intervals of the performance statistic .
+Pre - Therapy In Table 1 , the BreathID ® Hp Lab System using IDkit Hp ™ Two outcome is compared to composite results from the two endoscopy biopsy - based methods ( rapid urease test and histological exam ) for initial diagnosis .
+Table 2 and Table 3 compare the BreathID ® Hp Lab test using IDkit Hp ™ Two to rapid urease tests ( RUT ) and histological exams , respectively . Table1 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Composite Reference Method ( RUT and histological exam ) Pre - Therapy BreathID ® HpLabtestusingIDkitHp ™ Two CompositeReferenceMethod * Positive Negative Total Positive 37 0 37 Negative 3 139 142 Total 40 139 179 * H . pyloripositiveisdefinedaspositiverapid urea test and positive histology .
+H . pylori negative is defined as negative rapid urea test and negative histology .
+Sensitivity : 100 % [ 95 % CI ( 90 . 60 ; 100 . 00 ) ] Specificity : 97 . 9 % [ 95 % CI ( 93 . 97 ; 99 . 28 ) ] Table2 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Rapid Urease Test ( RUT ) Pre - TherapyBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two RUT Positive Negative Total Positive 37 5 42 Negative 7 140 147 Total 44 145 189 Percent Positive Agreement : 88 . 1 % [ 95 % CI ( 75 . 00 ; 94 . 81 ) ] Percent Negative Agreement : 95 . 2 % [ 95 % CI ( 90 . 50 ; 97 . 67 ) ] Table3 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Histology Pre - TherapyBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two Histology Positive Negative Total Positive 41 1 42 Negative 3 144 147 Total 44 145 189 Percent Positive Agreement : 97 . 6 % [ 95 % CI ( 87 . 68 ; 99 . 58 ) ] Percent Negative Agreement : 98 . 0 % [ 95 % CI ( 94 . 17 ; 99 . 30 ) ] Post Therapy Table 4 compares the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Composite Reference Method ( rapid urease test and histological exam ) in patients after they completed the eradication therapy .
+Table 5 and Table 6 compare the BreathID ® Hp Lab test using IDkit Hp ™ Two to rapid urease tests ( RUT ) and histological exams , respectively . Table4 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Composite Reference Method Post - TherapyBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two CompositeReferenceMethod * Positive Negative Total Positive 12 1 13 Negative 0 55 55 Total 12 56 68 * H . pylori positive is defined as positive RUT or positive Histology H . pylori negative is defined as negative RUT and negative Histology Sensitivity : 92 . 3 % [ 95 % CI ( 66 . 69 ; 98 . 63 ) ] Specificity : 100 % [ 95 % CI ( 93 . 47 ; 100 . 00 ) ] Table5 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to RUT Post - TherapyBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two RUT Positive Negative Total Positive 11 0 11 Negative 1 56 57 Total 12 56 68 Percent Positive Agreement : 100 % [ 95 % CI ( 74 . 12 ; 100 ) ] Percent Negative Agreement : 98 . 25 % [ 95 % CI 90 . 71 ; 99 . 69 ) ] Table6 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to Histology Post - TherapyBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two Histology Positive Negative Total Positive 12 1 13 Negative 0 55 55 Total 12 56 68 Percent Positive Agreement : 92 . 3 % [ 95 % CI ( 66 . 69 ; 98 . 63 ) ] Percent Negative Agreement : 100 % [ 95 % CI ( 93 . 47 ; 100 ) ] 13 . 1 .
+CONFIRMATORY STUDY OF IDKIT HP ™ TWO IN THE PEDIATRIC POPULATION Experimental Design A multi - center , non - randomized , open label study was conducted with the primary goal of confirming the safety of the 13 C - urea substrate in pediatric subjects , and a secondary goal of evaluating performance of the BreathID ® Hp Lab System with IDkit Hp ™ Two breath sample bags in pediatric subjects aged 3 - 17 years using the same 5 DOB diagnostic cut - off , in this population compared to stool antigen testing .
+A central lab analyzed the stool specimens . The study was conducted at 6 clinical sites where the sites were geographically diverse , differing in size and diverse in experience representing both point of care testing as well as sites utilizing a clinical laboratory .
+Local site personnel were trained on administering the breath test .
+To represent point of care and clinical laboratory settings , the sample analysis was performed either on site or at a central laboratory using a BreathID ® Hp Lab System . ResultsA total number of 54 subjects were screened , 1 subject was a screening failure prior to any study related procedure .
+Fifty - three subjects were enrolled and followed for safety assessment , 42 of which completed the full study protocol requirements with evaluable endpoints .
+There were no reportable major safety concerns due to adverse events . Table 7 presents the diagnosis as assessed by the BreathID ® Hp Lab System using IDkit Hp ™ Two breath sample bags compared to the assessment by an FDA cleared H . pylori stool antigen test . Table7 : Comparison of the BreathID ® Hp Lab Test using IDkit Hp ™ Two to an FDA - cleared H . pylori stool antigen testBreathID ® HpLabtestusingIDkitHp ™ Two BreathID ® HpLabtestusingIDkitHp ™ Two Stoolantigenresults Positive Negative Total Positive 14 1 15 Negative 0 27 27 Total 14 28 42 Percent Positive Agreement : 93 . 3 % [ 95 % CI ( 68 . 05 ; 99 . 83 ) ] Percent Negative Agreement : 100 % [ 95 % CI ( 87 . 23 ; 100 ) ] 13 . 2 .
+STABILITY OF BREATH SAMPLES OVER TIME 193 initial diagnosis patients were asked to perform the urea breath test using two sets of IDkit Hp ™ Two .
+The sample analysis was performed either on site or in a remote location using a BreathID ® Hp Lab System .
+Each pair of breath sample bags was analyzed at a different time point up to 14 days apart in order to assess the stability of the breath samples in the bags .
+There were 191 subjects with two evaluable results for analysis .
+Out of 45 samples positive on the first measurement , 44 remained positive on the second measurement ( Percent Positive Agreement : 97 . 8 % [ 95 % CI ( 88 . 43 , 99 . 61 ) ] ) .
+Out of 146 samples negative on the first measurement , all 146 remained negative on the second measurement ( Percent Negative Agreement : 100 % [ 95 % CI ( 97 . 44 , 100 ) ] ) .
+13 . 3 .
+REPRODUCIBILITY AND REPEATABILITY RESULTS Analytical studies were conducted to evaluate the reproducibility and precision ( repeatability ) of results when measurements are made with the BreathID ® Hp Lab System by different technicians and / or using different BreathID ® Hp Lab systems , or when testing is done on different days and at different sites , and on samples that are stored up to 14 days at different temperature and humidity conditions .
+13 . 4 .
+REPRODUCIBILITY ANALYTICAL STUDY Three different accurate gas isotope pairs were used with Delta Over Baseline ( DOB ) values of 3 . 3 , 6 . 4 , and 15 . 5 in a bench study .
+Two operators were asked to operate each of three BreathID ® Hp Lab System at three different sites for five days , in order to measure the DOB values for samples from each of the three batches .
+The results demonstrated that the standard deviation and overall reproducibility were stable over different batches for both the operator , the devices and between days .
+The reproducibility standard deviation was 0 . 65 or less for all batches , and the between days , devices and operators standard deviation was 0 . 66 or less in all cases , which is less than the natural variability of the DOB measurement .
+Table 8 summarizes the results of the Reproducibility Analytical Study . Table 8 : Results of Reproducibility Analytical Study ExpectedDOB Parameter SDValue 95 % CI CV DOB : 3 . 3 ‰ Reproducibility 0 . 53 [ 0 . 46 - 0 . 63 ] 14 . 8 % Between Days Precision 0 . 54 [ 0 . 46 - 0 . 60 ] 14 . 9 % Between Devices Precision 0 . 54 [ 0 . 45 - 0 . 59 ] 14 . 9 % Between Operators Precision 0 . 53 [ 0 . 44 - 0 . 58 ] 14 . 8 % DOB : 6 . 4 ‰ Reproducibility 0 . 60 [ 0 . 52 - 0 . 71 ] 9 . 7 % Between Days Precision 0 . 62 [ 0 . 54 - 0 . 68 ] 10 . 0 % Between Devices Precision 0 . 60 [ 0 . 51 - 0 . 65 ] 9 . 7 % Between Operators Precision 0 . 60 [ 0 . 51 - 0 . 70 ] 9 . 7 % DOB : 15 . 5 ‰ Reproducibility 0 . 65 [ 0 . 57 - 0 . 77 ] 4 . 3 % Between Days Precision 0 . 65 [ 0 . 56 - 0 . 72 ] 4 . 3 % Between Devices Precision 0 . 66 [ 0 . 56 - 0 . 73 ] 4 . 4 % Between Operators Precision 0 . 65 [ 0 . 55 - 0 . 76 ] 4 . 3 % 13 . 5 .
+PRECISION ANALYTICAL STUDY ( REPEATABILITY ) Three different accurate gas isotope pairs were used with Delta Over Baseline ( DOB ) values of 3 . 3 , 6 . 4 , and 15 . 5 in a bench study .
+The DOB values for samples from each of the three batches were measured on the BreathID ® Hp Lab System twice a day for 12 days .
+The results demonstrated that the standard deviation and overall repeatability were stable over different batches and different days .
+The repeatability standard deviation was 0 . 64 or less and the overall between days standard deviation was 0 . 72 or less , which is less than the natural variability of the DOB measurement .
+Table 9 summarizes the results of the Precision Analytical Study . Table 9 : Results of the Precision Analytical Study ExpectedDOB Parameter SDValue 95 % CI CV DOB : 3 . 3 ‰ Repeatability 0 . 56 [ 0 . 44 - 0 . 78 ] 16 . 9 % Between Days Precision 0 . 63 [ 0 . 52 - 0 . 80 ] 17 . 4 % DOB : 6 . 4 ‰ Repeatability 0 . 59 [ 0 . 46 - 0 . 82 ] 9 . 2 % Between Days Precision 0 . 68 [ 0 . 56 - 0 . 87 ] 10 . 6 % DOB : 15 . 5 ‰ Repeatability 0 . 64 [ 0 . 50 - 0 . 89 ] 4 . 3 % Between Days Precision 0 . 72 [ 0 . 60 - 0 . 92 ] 4 . 8 % 13 . 7 BAGS STORAGE ANALYTICAL STUDYOne accurate gas isotope pair with Delta Over Baseline ( DOB ) value of 3 . 3 was used in a bench study .
+Breath sample bags were stored at two different storage conditions representing the two extreme temperatures of the recommended storage range , 15 ° C and 35 ° C , and at the high limit of the recommended relative humidity ( RH ) , 70 % .
+The DOB values for samples from each storage condition were measured on the BreathID ® Hp Lab System 7 times during 14 consecutive days for each storage condition , on days 2 , 4 , 8 , 9 , 10 , 11 and 14 .
+The results demonstrated that the standard deviation and overall repeatability were stable over different batches , different days and different storage conditions .
+The overall repeatability standard deviation and the between days precision standard deviation were 0 . 60 or less , which is less than the natural variability of the DOB measurement .
+Table 10 summarizes the results of the Bags Storage Analytical Study . Table 10 : Results of the Bags Storage Analytical Study per Storage Condition ExpectedDOB StorageCondition Parameter SDValue 95 % CI CV DOB : 3 . 3 ‰ 15 ° C Overall Repeatability 0 . 57 [ 0 . 45 - 0 . 78 ] 15 . 0 % Between Days Precision 0 . 57 [ 0 . 45 - 0 . 68 ] 15 . 0 % 35 ° C + RH 70 % Overall Repeatability 0 . 60 [ 0 . 48 - 0 . 82 ] 16 . 9 % Between Days Precision 0 . 60 [ 0 . 47 - 0 . 72 ] 16 . 9 % SECTION 14 .
+BIBLIOGRAPHY Marshall BJ , Warren JR .
+Unidentified curved bacilli on gastric epithelium in active chronic gastritis .
+Lancet 1983 ; 1 : 1273 – 5 .
+Suerbaum S , Michetti P . Helicobacter pylori infection .
+N Engl J Med 2002 ; 347 : 1175 - 86 .
+Dominguez - Munoz JE , Leodolter A , Sauerbruch T , et al .
+A citric acid solution is an optimal test drink in the 13 C - urea breath test for the diagnosis of Helicobacter pylori infection .
+Gut 1997 ; 40 : 459 – 62 .
+Leodolter A , Dominguez - Munoz JE , Von Armim U , et al . 13 C - urea breath test for the diagnosis of Helicobacter pylori infection .
+A further simplification for clinical practice .
+Scand J Gastroenterol 1998 ; 33 : 267 – 70 .
+Graham DY , Runke D , Anderson S , et al .
+Citric acid as the test meal for the 13 C - urea breath test .
+Am J Gastroenterol 1999 ; 94 : 1214 – 7 .
+Borriello SP , Reed PJ , Dolby JM , et al .
+Microbial and metabolic profile of achlorhydric stomach : comparison of pernicious anaemia and hypogammaglobulinaemia .
+J Clin Pathol 1985 ; 38 : 946 - 53 .
+This publication , in whole or in part , may not be reproduced , disclosed , translated into any language or computer language or distributed without the prior written consent of Exalenz Bioscience Ltd .
+Manufacturedby : Exalenz Bioscience Ltd . 4 Ha ’ Maayan St . Modiin , Israel 7177872 Tel : + 972 - 8 - 9737500 Fax : + 972 - 8 - 9737501 e - mail : contact @ exalenz . com USADistributor : Exalenz Bioscience Inc . 1313 N . Market St . Suite 5100 Wilmington , DE 19801 , USA Tel : 1 - 888 - EXALENZ www . BreathID . com Part Number : MLD01016 Revision : 03 Issued : March 2018 [ 1 ] Delta Over Baseline is defined as : { ( 13CO2 ( n ) / 12CO2 ( n ) - 13CO2 ( 0 ) / 12CO2 ( 0 ) ) * 1000 } / ( 13CO2 ( PDB ) / 12CO2 ( PDB ) ) where PDB is the standard 13 C / 12 C isotope ratio ( = 1 . 1273 % ) .
+( 0 ) is the baseline measurement and ( n ) is the measurement of interest .
+IDkit _ Two _ 5 Pack .
+jpg [ MULTIMEDIA ] [ MULTIMEDIA ]

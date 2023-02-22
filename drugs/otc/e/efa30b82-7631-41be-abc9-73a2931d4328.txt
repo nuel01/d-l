@@ -1,0 +1,192 @@
+DESCRIPTION Fludeoxyglucose F 18 Injection , USP is a positron emitting radiopharmaceutical containing no - carrier added radioactive 2 - deoxy - 2 - [ 18 F ] fluoro - D - g1ucose , which is used for diagnostic purposes in conjunction with Positron Emission Tomography ( PET ) .
+It is administered by intravenous injection .
+The active ingredient 2 - deoxy - 2 - [ 18 F ] fluoro - D - g1ucose ( Fludeoxyglucose F 18 ) , abbreviated [ 18 F ] FDG , has a molecular formula of C6H1118FO5 with a molecular weight of 181 . 26 Daltons , and has the following chemical structure : [ MULTIMEDIA ] Fludeoxyglucose F 18 Injection , USP is provided as a ready to use isotonic , sterile , pyrogen free , clear , colorless citrate buffered solution .
+Each mL contains between 0 . 37 to 3 . 7 GBq ( 10 . 0 – 100 mCi ) of 2 - deoxy - 2 - [ 18 F ] fluoro - D glucose at the end of synthesis ( EOS ) , 4 . 5 mg of sodium chloride and 7 . 2 mg of citrate ions .
+The pH of the solution is between 5 . 0 to 7 . 5 .
+The solution is packaged in a multiple - dose glass vial and does not contain any preservative .
+[ MULTIMEDIA ] Physical Characteristics Fluorine F 18 decays by positron ( β + ) emission and has a half - life of 109 . 7 minutes .
+The principal photons useful for diagnostic imaging are the 511 keV gamma photons , resulting from the interaction of the emitted positron with an electron ( Table 1 ) .
+Table 1 .
+Principal Radiation Emission Data for Fluorine F 18 Radiation / Emission % Per Disintegration Mean Energy Positron ( β + ) 96 . 73 249 . 8 keV Gamma ( ± ) [ 1 ] 193 . 46 511 . 0 keV [ 1 ] Produced by positron annihilationFrom : Kocher , D . C . " Radioactive Decay Tables " DOE / TIC - 11026 , 89 ( 1981 ) .
+External Radiation The specific gamma ray constant for fluorine F 18 is 6 . 0 R / hr / mCi ( 0 . 3 Gy / hr / kB ) at 1 cm .
+The half - value layer ( HVL ) for the 511 keV photons is 4 . 1 mm lead ( Pb ) .
+A range of values for the attenuation of radiation results from the interposition of various thickness of Pb .
+The range of attenuation coefficients for this radionuclide is shown in Table 2 .
+For example , the interposition of an 8 . 3 mm thickness of Pb , with a coefficient of attenuation of 0 . 25 , will decrease the external radiation by 75 % .
+Table 2 .
+Radiation Attenuation of 511 keV Photons by Lead ( Pb ) ShieldingShield thickness ( Pb ) mm Coefficient of attenuation 0 0 . 00 4 . 1 0 . 50 8 . 3 0 . 25 13 . 2 0 . 10 26 . 4 0 . 01 52 . 8 0 . 001 For use in correcting for physical decay of this radionuclide , the fractions remaining at selected intervals after calibration are shown in Table 3 .
+Table 3 .
+Physical Decay Chart for Fluorine F 18 Minutes Fraction Remaining 0 [ 1 ] 1 . 000 15 0 . 909 30 0 . 826 60 0 . 683 110 0 . 500 220 0 . 250 440 0 . 060 [ 1 ] Calibration time CLINICAL PHARMACOLOGY Mechanism of Action Fludeoxyglucose F 18 is a glucose analog that concentrates in cells that rely upon glucose as an energy source , or in cells whose dependence on glucose increases under pathophysiological conditions .
+Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [ 18 F ] FDG - 6 - phosphate by the enzyme hexokinase .
+Once phosphorylated it cannot exit until it is dephosphorylated by glucose - 6 - phosphatase .
+Therefore , within a given tissue or pathophysiological process , the retention and clearance of Fludeoxyglucose F 18 reflect a balance involving glucose transporter , hexokinase and glucose - 6 - phosphatase activities .
+When allowance is made for the kinetic differences between glucose and Fludeoxyglucose F 18 transport and phosphorylation ( expressed as the “ lumped constant ” ratio ) , Fludeoxyglucose F 18 is used to assess glucose metabolism .
+In comparison to background activity of the specific organ or tissue type , regions of decreased or absent uptake of Fludeoxyglucose F 18 reflect the decrease or absence of glucose metabolism .
+Regions of increased uptake of Fludeoxyglucose F 18 reflect greater than normal rates of glucose metabolism .
+Pharmacodynamics Fludeoxyglucose F 18 Injection is rapidly distributed to all organs of the body after intravenous administration .
+After background clearance of Fludeoxyglucose F 18 Injection , optimal PET imaging is generally achieved between 30 to 40 minutes after administration .
+In cancer , the cells are generally characterized by enhanced glucose metabolism partially due to ( 1 ) an increase in the activity of glucose transporters , ( 2 ) an increased rate of phosphorylation activity , ( 3 ) a reduction of phosphatase activity or , ( 4 ) a dynamic alteration in the balance among all these processes .
+However , glucose metabolism of cancer as reflected by Fludeoxyglucose F 18 accumulation shows considerable variability .
+Depending on tumor type , stage , and location , Fludeoxyglucose F 18 accumulation may be increased , normal , or decreased .
+Also , inflammatory cells can have the same variability of uptake of Fludeoxyglucose F 18 .
+In the heart , under normal aerobic conditions , the myocardium meets the bulk of its energy requirements by oxidizing free fatty acids .
+Most of the exogenous glucose taken up by the myocyte is converted into glycogen .
+However , under ischemic conditions , the oxidation of free fatty acids stimulated , and glucose taken up by the myocyte is metabolized immediately instead of being converted into glycogen .
+Under these conditions , phosphorylated Fludeoxyglucose F 18 accumulates in the myocyte and can be detected with PET imaging .
+Normally , the brain relies on anaerobic metabolism .
+In epilepsy , the glucose metabolism varies .
+Generally , during a seizure , glucose metabolism increases .
+Interictally , the seizure focus tends to be hypometabolic .
+Pharmacokinetics In four healthy male volunteers , receiving an intravenous administration of 30 seconds in duration , the arterial blood level profile for Fludeoxyglucose F 18 was described as a triexponential decay curve .
+The effective half - life ranges of the three phases were 0 . 2 - 0 . 3 minutes , 10 - 13 minutes with a mean and standard deviation ( STD ) of 11 . 6 ± 1 . 1 min , and 80 - 95 minutes with a mean and STD of 88 ±□ 4 min .
+Plasma Protein Binding The extent of binding of Fludeoxyglucose F 18 to plasma proteins is not known .
+Metabolism Fludeoxyglucose F 18 is transported into cells and phosphorylated to [ 18 F ] - FDG - 6 - phosphate at a rate proportional to the rate of glucose utilization within that tissue .
+[ 18 F ] - FDG - 6 - phosphate presumably is metabolized to 2 - deoxy - 2 - [ 18 F ] fluoro - 6 - phospho - D - mannose ( [ 18 F ] FDM - 6 - phosphate ) .
+Fludeoxyglucose F 18 Injection may contain several impurities ( e . g . , 2 - deoxy - 2 - chloro - D - glucose ( ClDG ) ) .
+Biodistribution and metabolism of C1DG are presumed to be similar to Fludeoxyglucose F 18 and would be expected to result in intracellular formation of 2 - deoxy - 2 - chloro - 6 - phospho - D - glucose ( C1DG - 6 - phosphate ) and 2 - deoxy - 2 - chloro - 6 - phospho - D - mannose ( ClDM - 6 - phosphate ) .
+The phosphorylated deoxyglucose compounds are dephosphorylated and the resulting compounds ( FDG , FDM , C1DG , and ClDM ) presumably leave cells by passive diffusion .
+Fludeoxyglucose F 18 and related compounds are cleared from non - cardiac tissues within 3 to 24 hours after administration .
+Clearance from the cardiac tissue may require more than 96 hours .
+Fludeoxyglucose F 18 that is not involved in glucose metabolism in any tissue is then excreted in the urine .
+Excretion Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine .
+Three elimination phases have been identified in the reviewed literature .
+Within 33 minutes , a mean of 3 . 9 % of the administrated radioactive dose was measured in the urine .
+The amount of radiation exposure of the urinary bladder at two hours post - administration suggests that 20 . 6 % ( mean ) of the radioactive dose was present in the bladder .
+Pharmacokinetics in Special Populations Extensive dose range and dose adjustment studies with this drug product in normal and special populations have not been completed .
+In pediatric patients with epilepsy , doses given have been as low as 2 . 6 mCi .
+The pharmacokinetics of Fludeoxyglucose F 18 Injection in renally - impaired patients have not been characterized .
+Fludeoxyglucose F 18 is eliminated through the renal system .
+Care should be taken to prevent excessive and unnecessary radiation exposure to this organ system and adjacent tissues .
+The effects of fasting , varying blood sugar levels , conditions of glucose intolerance , and diabetes mellitus on Fludeoxyglucose F 18 distribution in humans have not been ascertained .
+Diabetic patients may need stabilization of blood glucose levels on the day before and on the day of the Fludeoxyglucose F 18 Injection study .
+Drug - Drug Interactions Drug - drug interactions with Fludeoxyglucose F 18 Injection have not been evaluated .
+CLINICAL TRIALS Oncology : 1 The efficacy of Fludeoxyglucose F 18 Injection in positron emission tomography cancer imaging was demonstrated in 16 independent literature reports .
+These studies prospectively evaluated the sensitivity and specificity of Fludeoxyglucose F 18 for detecting malignancies .
+All these studies had at least 50 patients and used pathology as a standard of truth to compare the results of PET imaging with Fludeoxyglucose F 18 Injection .
+The studies encompassed a variety of cancers : non - small cell lung cancer , colo - rectal , pancreatic , breast , thyroid , melanoma , Hodgkin ’ s and non - Hodgkin ’ s lymphoma , and various types of metastatic cancers to lung , liver , bone , and axillary nodes .
+The doses in the studies ranged from 200 MBq to 740 MBq with a median and mean dose of 370 MBq .
+In these studies the patients had a clinical reason for the evaluation of malignancy ( e . g . , the patients had an abnormality identified by a prior test and were seeking a diagnosis , or the patients had an existing diagnosis of cancer and were having further work - up or monitoring ) .
+None of these studies evaluated the use of Fludeoxyglucose F 18 Injection in routine population screening in which healthy , asymptomatic people are tested for purposes of cancer early detection .
+The efficacy of Fludeoxyglucose F 18 PET imaging in cancer screening , including its ability to decrease cause - specific mortality , is unknown .
+In PET imaging with Fludeoxyglucose F 18 Injection , sensitivity is restricted by the biologic variability of cancer glucose utilization found in individual patients , with different cancers ( see Clinical Pharmacology and Pharmacodynamic sections ) .
+In the reviewed studies , the sensitivity and specificity varied with the type of cancer , size of cancer , and other clinical parameters .
+Also , there were false negatives and false positives .
+Negative PET imaging results with Fludeoxyglucose F 18 Injection do not preclude the diagnosis of cancer and further work - up is indicated .
+Also , positive PET imaging results with Fludeoxyglucose F 18 Injection cannot replace biopsy to confirm a diagnosis of cancer .
+There are non - malignant conditions such as fungal infections , inflammatory processes , and benign tumors that had patterns of increased glucose metabolism that give rise to false - positive examinations .
+Cardiology : 2 The efficacy of Fludeoxyglucose F 18 Injection for cardiac use was demonstrated in ten independent literature reports , which , in general , shared the characteristics summarized below .
+The studies were prospective and enrolled patients with coronary artery disease and chronic left ventricular systolic dysfunction of a mild to moderate degree .
+The patients were scheduled to undergo coronary revascularization with either coronary artery bypass surgery or angioplasty .
+Before revascularization , patients underwent PET imaging with Fludeoxyglucose F 18 Injection and perfusion imaging with other diagnostic radiopharmaceuticals .
+Doses of Fludeoxyglucose F 18 Injection ranged from 74 - 370 MBq ( 2 - 10 mCi ) .
+Segmental , left ventricular , wall - motion assessments of asynergic areas made before revascularization were compared to those made after successful revascularization to identify myocardial segments with functional recovery .
+Segmental wall motion assessments were made blinded to the results of metabolic / perfusion imaging , and PET image analyses were quantitative .
+Left ventricular myocardial segments were predicted to have reversible loss of systolic function if they showed Fludeoxyglucose F 18 accumulation and reduced perfusion ( i . e . , flow - metabolism mismatch ) .
+Conversely , myocardial segments were predicted to have irreversible loss of systolic function if they showed concordant reductions in both Fludeoxyglucose F 18 accumulation and perfusion ( i . e . , matched defects ) .
+Diagnostic performance measures such as sensitivity , specificity , positive predictive value , and negative predictive value were calculated .
+None of the studies prospectively determined the degree to which mismatch , or the location of mismatch , is associated with improvements in global ventricular function , clinical symptoms , exercise tolerance , or survival .
+Findings of flow - metabolism mismatch in a myocardial segment suggest that successful revascularization will restore myocardial function in that segment .
+However , false - positive tests occur regularly , and the decision to have a patient undergo revascularization should not be based on PET findings alone .
+Similarly , findings of a matched defect in a myocardial segment suggest that myocardial function will not recover in that segment , even if it is successfully revascularized .
+However , false - negative tests occur regularly , and the decision to recommend against coronary revascularization , or to recommend a cardiac transplant , should not be based on PET findings alone .
+The reversibility of segmental dysfunction as predicted with Fludeoxyglucose F 18 PET imaging depends on successful coronary revascularization .
+Therefore , in patients with a low likelihood of successful revascularization , the diagnostic usefulness of PET imaging with Fludeoxyglucose F 18 Injection is limited .
+Epilepsy : 3 In a prospective , open label trial , Fludeoxyglucose F 18 Injection was evaluated in 86 patients with epilepsy .
+Each patient received a dose of Fludeoxyglucose F 18 Injection in the range of 185 - 370 MBq ( 5 - 10 mCi ) .
+Demographic characteristics of race and gender are not available .
+The mean age was 16 . 4 years ( range : 4 months - 58 years ; of these , 42 patients were < 12 years and 16 patients were < 2 years old ) .
+Patients had a known diagnosis of complex partial epilepsy and were under evaluation as surgical candidates for treatment of their seizure disorder .
+Seizure foci had been previously identified on ictal EEGs and sphenoidal EEGs .
+In 16 % ( 14 / 87 ) of patients , the pre - Fludeoxyglucose F 18 Injection findings were confirmed by Fludeoxyglucose F 18 ; 34 % ( 30 / 87 ) of patients , images of Fludeoxyglucose F 18 Injection provided new findings .
+In 32 % ( 27 / 87 ) , imaging with Fludeoxyglucose F 18 Injection was not definitive .
+The influence of these findings on surgical outcome , medical management , or behavior is not known .
+Several other studies comparing imaging with Fludeoxyglucose F 18 Injection results to subsphenoidal EEG , MRI and / or surgical findings supported the concept that the degree of hypometabolism corresponds to areas of confirmed epileptogenic foci .
+The safety and effectiveness of Fludeoxyglucose F 18 Injection to distinguish idiopathic epileptogenic foci from tumors or other brain lesions that may cause seizures have not been established .
+INDICATIONS AND USAGE Fludeoxyglucose F 18 Injection , USP is indicated in positron emission tomography ( PET ) imaging for assessment of abnormal glucose metabolism to assist in the evaluation of malignancy in patients with known or suspected abnormalities found by other testing modalities , or in patients with an existing diagnoses of cancer .
+Fludeoxyglucose F 18 Injection , USP is indicated in positron emission tomography ( PET ) imaging in patients with coronary artery disease and left ventricular dysfunction , when used together with myocardial perfusion imaging , for the identification of left ventricular myocardium with residual glucose metabolism and reversible loss of systolic function .
+Fludeoxyglucose F 18 Injection , USP is indicated in positron emission tomography ( PET ) imaging in patients for the identification of regions of abnormal glucose metabolism associated with foci of epileptic seizures .
+CONTRAINDICATIONS None known WARNINGS None known PRECAUTIONS General Use in patients with diabetes mellitus or hyperglycemia has not been well studied .
+It is recommended that patients be normoglycemic when undergoing PET imaging with Fludeoxyglucose F 18 Injection .
+Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides ( See Drug Handling section ) .
+Information for Patients To minimize radiation - absorbed dose to the bladder , adequate hydration should be encouraged to permit frequent voiding during the first few hours after intravenous administration of Fludeoxyglucose F 18 Injection .
+This may be achieved by having patients drink at least an 8 oz .
+glass of water prior to drug administration .
+To help protect themselves and others in their environment , patients should take the following precautions for 12 hours after injection : whenever possible , a toilet should be used and should be flushed several times after each use and hands should be washed thoroughly after each voiding or fecal elimination .
+If blood , urine or feces soil clothing , the clothing should be washed separately .
+Diabetic Patients Transport of Fludeoxyglucose F 18 into cells may be affected by fasting or by blood glucose changes associated with diabetes mellitus .
+Diabetic patients may need stabilization of blood glucose levels on the day before and on the day of administration of Fludeoxyglucose F 18 Injection .
+Carcinogenesis , Mutagenesis , Impairment or Fertility Studies with Fludeoxyglucose F 18 Injection have not been performed to evaluate carcinogenic potential , mutagenic potential or effects on fertility .
+Teratogenic Effects : Pregnancy Category C Animal reproduction studies have not been conducted with Fludeoxyglucose F 18 Injection .
+It is not known whether Fludeoxyglucose F 18 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Therefore , Fludeoxyglucose F 18 Injection should be given to a pregnant woman only if clearly indicated .
+Nursing Mothers It is not known whether Fludeoxyglucose F 18 Injection is excreted in human milk .
+Caution should be exercised when Fludeoxyglucose F 18 Injection is administered to a lactating woman .
+Pediatric Use The safety and effectiveness of Fludeoxyglucose F 18 Injection in pediatric patients with epilepsy is established on the basis of studies in adult and pediatric patients .
+In pediatrics , the recommended dose is 2 . 6 mCi .
+The optimal dose adjustment on the basis of body size or weight has not been determined .
+The safety and effectiveness of Fludeoxyglucose F 18 Injection for the evaluation of malignancy or for the identification of left ventricular myocardium with reversible loss of systolic function in pediatric patients below the age of 16 years have not been established .
+See Clinical Trials section .
+ADVERSE REACTIONS The Fludeoxyglucose F 18 Injection safety database for epilepsy included of 374 patients .
+Of these , 245 were male and 105 were female .
+For 24 patients , gender was not specified .
+The mean age was 47 . 8 years ( range under 2 to over 65 years ) .
+Eighteen patients were between the age of 0 and 2 years ; 42 patients were between the ages of 2 and 21 years ; 213 patients were between 21 and 65 years ; 98 patients were older than 65 years ; and the ages of 3 male patients were not specified .
+A racial distribution is not available .
+In this database , adverse drug reactions that required medical intervention were not reported .
+In a small , 42 patient subset of the 374 patients studied , 4 patients had transient hypotension , 6 had hypo - or hyperglycemia and 3 had transient increases in alkaline phosphatase .
+Reviews of the oncology and cardiology literature did not reveal reported adverse reactions .
+DOSAGE AND ADMINISTRATION The recommended dose of Fludeoxyglucose F 18 Injection for an adult ( 70 kg ) is 185 - 370 MBq ( 5 - 10 mCi ) , as an intravenous injection for studies of malignancy , cardiology , and epilepsy .
+In general , Fludeoxyglucose F 18 Injection should be administered after patients have fasted for 4 - 6 hours .
+For cardiac use , Fludeoxyglucose F 18 Injection may be administered either to patients who have fasted or to patients who have received a glucose load ( See Patient Preparation section ) .
+The optimum rates of administration and upper safe dose for Fludeoxyglucose F 18 Injection have not been established .
+The time interval between doses of Fludeoxyglucose F 18 Injection should be long enough to allow substantial decay ( physical and biological ) of previous administrations .
+The final dose for the patient should be calculated using proper decay factors from the time of the end of synthesis ( EOS ) , and measured by a suitable radioactivity calibration system before administration .
+See decay factors in Table 3 .
+Patient Preparation : Blood glucose levels should be stabilized before Fludeoxyglucose F 18 Injection is administered .
+In non - diabetic patients this may be accomplished by fasting 4 - 6 hours before Fludeoxyglucose F 18 Injection .
+Diabetic patients may need stabilization of blood glucose on the day preceding and on the day of administration of Fludeoxyglucose F 18 Injection .
+For cardiac imaging , administration of Fludeoxyglucose F 18 Injection to fasting patients limits the accumulation of Fludeoxyglucose F 18 to ischemic myocardium .
+This may make localization of the ischemic region difficult because the surrounding myocardium will not be well visualized .
+Conversely , administration of Fludeoxyglucose F 18 Injection to patients who have received a glucose load ( e . g . , 50 - 75 grams , 1 - 2 hours before administration of Fludeoxyglucose F 18 Injection ) allows the surrounding , non - ischemic myocardium to be seen and facilitates localization of ischemic areas .
+Imaging : Optimally , it is recommended that positron emission tomography ( PET ) imaging be initiated within 40 minutes of administration of Fludeoxyglucose F 18 Injection .
+Static emission scans are acquired 30 - 100 minutes from time of injection .
+OVERDOSAGE Overdoses of Fludeoxyglucose F 18 Injection have not been reported .
+See Radiation Dosimetry section for related information .
+DRUG HANDLING Fludeoxyglucose F 18 Injection , USP , like other parenteral drugs , should be inspected visually for particulate matter and discoloration before administration , whenever solution and container permit .
+Fludeoxyglucose F 18 Injection preparations containing particulate matter or discoloration should not be administered .
+They should be disposed of in a safe manner , in compliance with applicable regulations .
+Aseptic techniques and effective shielding should be employed in withdrawing doses for administration to patients .
+Waterproof gloves and effective shielding should be worn when handling the product .
+The contents of each vial are sterile and non - pyrogenic .
+To maintain sterility , aseptic technique must be used during all operations involved in the manipulation and administration of Fludeoxyglucose F 18 Injection , USP .
+Fludeoxyglucose F 18 Injection , USP should be used within 12 hours of the end of synthesis ( EOS ) .
+As with any other radioactive material , appropriate shielding should be used to avoid unnecessary radiation exposure to the patient , occupational workers , and other persons .
+Fludeoxyglucose F 18 Injection , USP , like other radioactive drugs , must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel .
+Care should be taken to minimize exposure to the patient consistent with proper patient management .
+Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides , and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+RADIATION DOSIMETRY The estimated human absorbed radiation doses ( rem / mCi ) to a 1 - year old ( 9 . 8 kg ) , 5 - year old ( 19 kg ) , 10 - year old ( 32 kg ) , 15 - year old ( 57 kg ) , and adult ( 70 kg ) from intravenous administration of Fludeoxyglucose F 18 Injection are shown in Table 4 .
+These estimates were calculated based on human4 data and using the data published by the International Commission on Radiological Protection5 for Fludeoxyglucose F 18 .
+The dosimetry data obtained and presented in this table show that there are slight variations in absorbed radiation dose for various organs in each of the age groups .
+These dissimilarities in absorbed radiation dose are understood to be due to developmental age variations ( e . g . , organ size , location , and overall metabolic rate for each age group ) .
+The identified critical organs ( in descending order ) across all age groups evaluated ( i . e . , newborn , 1 , 5 , 10 , 15 year ( s ) and adults ) are the urinary bladder , heart , pancreas , spleen , and lungs .
+The absolute values for absorbed radiation in each of these organs vary in each of the age groups .
+Table 4 .
+Estimated Absorbed Radiation Doses ( rem / mCi ) After Intravenous Administration of Fludeoxyglucose F 18 InjectionOrgan Newborn [ 1 ] ( 3 . 4 kg ) 1 - year old null ( 9 . 8 kg ) 5 - year old null ( 19 kg ) 10 - year old null ( 32 kg ) 15 - year old null ( 57 kg ) Adult null ( 70 kg ) Bladder wall [ 2 ] 4 . 3 1 . 7 0 . 93 0 . 60 0 . 40 0 . 32 Heart wall 2 . 4 1 . 2 0 . 70 0 . 44 0 . 29 0 . 22 Pancreas 2 . 2 0 . 68 0 . 33 0 . 25 0 . 13 0 . 096 Spleen 2 . 2 0 . 84 0 . 46 0 . 29 0 . 19 0 . 14 Lungs 0 . 96 0 . 38 0 . 20 0 . 13 0 . 092 0 . 064 Kidneys 0 . 81 0 . 34 0 . 19 0 . 13 0 . 089 0 . 074 Ovaries 0 . 80 0 . 8 0 . 19 0 . 11 0 . 058 0 . 053 Uterus 0 . 79 0 . 35 0 . 19 0 . 12 0 . 076 0 . 062 LLI wall 0 . 69 0 . 28 0 . 15 0 . 097 0 . 060 0 . 051 Liver 0 . 69 0 . 31 0 . 17 0 . 11 0 . 076 0 . 058 Gallbladder wall 0 . 69 0 . 26 0 . 14 0 . 093 0 . 059 0 . 049 Small intestine 0 . 68 0 . 29 0 . 15 0 . 096 0 . 060 0 . 047 ULI wall 0 . 67 0 . 27 0 . 15 0 . 090 0 . 057 0 . 046 Stomach wall 0 . 65 0 . 27 0 . 14 0 . 089 0 . 057 0 . 047 Adrenals 0 . 65 0 . 28 0 . 15 0 . 095 0 . 061 0 . 048 Testes 0 . 64 0 . 27 0 . 14 0 . 085 0 . 052 0 . 041 Red marrow 0 . 62 0 . 26 0 . 14 0 . 089 0 . 057 0 . 047 Thymus 0 . 61 0 . 26 0 . 14 0 . 086 0 . 056 0 . 044 Thyroid 0 . 61 0 . 26 0 . 13 0 . 080 0 . 049 0 . 039 Muscle 0 . 58 0 . 25 0 . 13 0 . 078 0 . 049 0 . 039 Bone surface 0 . 57 0 . 24 0 . 12 0 . 079 0 . 052 0 . 041 Breast 0 . 54 0 . 22 0 . 11 0 . 068 0 . 043 0 . 034 Skin 0 . 49 0 . 20 0 . 10 0 . 060 0 . 037 0 . 030 Brain 0 . 29 0 . 13 0 . 09 0 . 078 0 . 072 0 . 070 Other tissues 0 . 59 0 . 25 0 . 13 0 . 083 0 . 052 0 . 042 [ 1 ] MIRDOSE 2 software was used to calculate the radiation absorbed dose .
+Assumptions on the biodistribution based on data from Gallagher et al . ( ( J . Nucl .
+Med .
+18 : 990 - 996 ) , and Jones et al , ( J . Nucl .
+Med , 23 : 613 - 617 ) .
+[ 2 ] The dynamic bladder model with a uniform voiding frequency of 1 . 5 hours was used .
+REFERENCES • See March 10 , 2000 Federal Register , Docket No . 00 N - 0553 , pp . 12999 - 13010 • See March 10 , 2000 Federal Register , Docket No . 00 N - 0553 , pp . 12999 - 13010 • See NDA # 020306 • Jones , S . C . , A . Alavi , Christman , D . , Montanez , I . , Wolf , A . P . and Reivich , M . ( 1982 ) .
+“ The Radiation Dosimetry of 2 - F - 18 fluoro - 2 - deoxyglucose in Man ” .
+J . Nucl .
+Me d . 23 , 613 - 617 .
+• ICRP Publication 53 , Volume 18 , No .
+l , 1987 , page 76 HOW SUPPLIED Fludeoxyglucose F 18 Injection , USP is supplied in a multi - dose septum capped 30 mL glass vial containing between 0 . 37 – 3 . 7 GBq / mL ( 10 - 100 mCi / mL ) , of no carrier added 2 - deoxy - 2 [ 18 F ] fluoro - D - glucose , at end of synthesis , in approximately 24 mL .
+NDC # 76376 - 618 - 30 This radiopharmaceutical is licensed by the Nuclear Regulatory Commission , for distribution to entities licensed pursuant to 10 CFR 35 . 200 .
+STORAGE Store Fludeoxyglucose F 18 Injection , USP at 25 ° C ( 77 ° F ) ; excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) .
+Store Fludeoxyglucose F 18 Injection , USP multiple - dose vial upright in a lead shielded container .
+Store and dispose of Fludeoxyglucose F 18 Injection , USP in accordance with the regulations and a general license , or its equivalent , of an Agreement State or a Licensing State .
+Expiration Date and Time The expiration date and time are provided on the container label .
+Fludeoxyglucose F 18 Injection , USP should be used within 12 hours from the time of the end of synthesis ( EOS ) .
+Caution : Federal Law Prohibits Dispensing Without Prescription Manufactured and Distributed by : Hamamatsu / Queen ’ s PET Imaging Center , LLC 1301 Punchbowl Street Honolulu , HI 96813 PRINCIPAL DISPLAY PANEL NDC # 76376 - 618 - 30 30 mL Multiple - Dose Vial Fludeoxyglucose F 18 Injection , USP [ MULTIMEDIA ] [ MULTIMEDIA ]

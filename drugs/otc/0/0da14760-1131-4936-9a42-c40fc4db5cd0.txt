@@ -1,0 +1,144 @@
+DESCRIPTION ZOVIRAX is the brand name for acyclovir , a synthetic nucleoside analogue active against herpesviruses .
+ZOVIRAX Cream 5 % is a formulation for topical administration .
+Each gram of ZOVIRAX Cream 5 % contains 50 mg of acyclovir and the following inactive ingredients : cetostearyl alcohol , mineral oil , poloxamer 407 , propylene glycol , sodium lauryl sulfate , water , and white petrolatum .
+Acyclovir is a white , crystalline powder with the molecular formula C8H11N5O3 and a molecular weight of 225 .
+The maximum solubility in water at 37 ° C is 2 . 5 mg / mL .
+The pKa ’ s of acyclovir are 2 . 27 and 9 . 25 .
+The chemical name of acyclovir is 2 - amino - 1 , 9 - dihydro - 9 - [ ( 2 - hydroxyethoxy ) methyl ] - 6 H - purin - 6 - one ; it has the following structural formula : [ MULTIMEDIA ] [ MULTIMEDIA ] VIROLOGY Mechanism of Antiviral Action : Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 ( HSV - 1 ) , 2 ( HSV - 2 ) , and varicella - zoster virus ( VZV ) .
+The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase ( TK ) encoded by HSV and VZV .
+This viral enzyme converts acyclovir into acyclovir monophosphate , a nucleotide analogue .
+The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes .
+In vitro , acyclovir triphosphate stops replication of herpes viral DNA .
+This is accomplished in 3 ways : 1 ) competitive inhibition of viral DNA polymerase , 2 ) incorporation into and termination of the growing viral DNA chain , and 3 ) inactivation of the viral DNA polymerase .
+The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK .
+Antiviral Activities : The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans , and virus sensitivity testing has not been standardized .
+Sensitivity testing results , expressed as the concentration of drug required to inhibit by 50 % the growth of virus in cell culture ( IC50 ) , vary greatly depending upon a number of factors .
+Using plaque - reduction assays , the IC50 against herpes simplex virus isolates ranges from 0 . 02 to 13 . 5 mcg / mL for HSV - 1 and from 0 . 01 to 9 . 9 mcg / mL for HSV - 2 .
+The IC50 for acyclovir against most laboratory strains and clinical isolates of VZV ranges from 0 . 12 to 10 . 8 mcg / mL .
+Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean IC50 of 1 . 35 mcg / mL .
+Drug Resistance : Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and / or DNA polymerase .
+Clinical isolates of HSV and VZV with reduced susceptibility to acyclovir have been recovered from immunocompromised patients , especially with advanced HIV infection .
+While most of the acyclovir - resistant mutants isolated thus far from immunocompromised patients have been found to be TK - deficient mutants , other mutants involving the viral TK gene ( TK partial and TK altered ) and DNA polymerase have been isolated .
+TK - negative mutants may cause severe disease in infants and immunocompromised adults .
+The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy .
+CLINICAL PHARMACOLOGY Pharmacokinetics : Adults : A clinical pharmacology study was performed with ZOVIRAX Cream in adult volunteers to evaluate the percutaneous absorption of acyclovir .
+In this study , which included 6 male volunteers , the cream was applied to an area of 710 cm2 on the backs of the volunteers 5 times daily at intervals of 2 hours for a total of 4 days .
+The weight of cream applied and urinary excretion of acyclovir were measured daily .
+Plasma concentration of acyclovir was assayed 1 hour after the final application .
+The average daily urinary excretion of acyclovir was approximately 0 . 04 % of the daily applied dose .
+Plasma acyclovir concentrations were below the limit of detection ( 0 . 01 μM ) in 5 subjects and barely detectable ( 0 . 014 μM ) in 1 subject .
+Systemic absorption of acyclovir from ZOVIRAX Cream is minimal in adults .
+Pediatric Patients : The systemic absorption of acyclovir following topical application of cream has not been evaluated in patients < 18 years of age .
+CLINICAL TRIALS Adults : ZOVIRAX Cream was evaluated in 2 double - blind , randomized , placebo ( vehicle ) - controlled trials for the treatment of recurrent herpes labialis .
+The average patient had 5 episodes of herpes labialis in the previous 12 months .
+In the first study , median age was 37 years ( range 18 to 81 years ) , 74 % were female , and 94 % were Caucasian .
+In the second study , median age was 38 years ( range 18 to 87 years ) , 73 % were female , and 94 % were Caucasian .
+Subjects were instructed to initiate treatment within 1 hour of noticing signs or symptoms and continue treatment for 4 days , with application of study medication 5 times per day .
+In both studies , the mean duration of the recurrent herpes labialis episode was approximately one - half day shorter in the subjects treated with ZOVIRAX Cream ( n = 682 ) compared with subjects treated with placebo ( n = 703 ) ( approximately 4 . 5 days versus 5 days , respectively ) .
+No significant difference was observed between subjects receiving ZOVIRAX Cream or vehicle in the prevention of progression of cold sore lesions .
+Pediatric Patients : An open - label , uncontrolled trial with ZOVIRAX Cream 5 % was conducted in 113 patients aged 12 to 17 years with herpes labialis .
+In this study , therapy was applied using the same dosing regimen as in adults and subjects were followed for adverse events .
+The safety profile was similar to that observed in adults .
+INDICATIONS AND USAGE ZOVIRAX Cream is indicated for the treatment of recurrent herpes labialis ( cold sores ) in adults and adolescents ( 12 years of age and older ) .
+CONTRAINDICATIONS ZOVIRAX Cream is contraindicated in patients with known hypersensitivity to acyclovir , valacyclovir , or any component of the formulation .
+PRECAUTIONS General : ZOVIRAX Cream is intended for cutaneous use only and should not be used in the eye or inside the mouth or nose .
+ZOVIRAX Cream should only be used on herpes labialis on the affected external aspects of the lips and face .
+Because no data are available , application to human mucous membranes is not recommended .
+ZOVIRAX Cream has a potential for irritation and contact sensitization ( see ADVERSE REACTIONS ) .
+The effect of ZOVIRAX Cream has not been established in immunocompromised patients .
+Information for Patients : Please see Patient Information About ZOVIRAX Cream .
+Drug Interactions : Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with ZOVIRAX Cream .
+Carcinogenesis , Mutagenesis , Impairment of Fertility : Systemic exposure following topical administration of acyclovir is minimal .
+Dermal carcinogenicity studies were not conducted .
+Results from the studies of carcinogenesis , mutagenesis and fertility are not included in the full prescribing information for ZOVIRAX Cream due to the minimal exposures of acyclovir that result from dermal application .
+Information on these studies is available in the full prescribing information for ZOVIRAX Capsules , Tablets , and Suspension and ZOVIRAX for Injection .
+Pregnancy : Teratogenic Effects : Pregnancy Category B . Acyclovir was not teratogenic in the mouse , rabbit , or rat at exposures greatly in excess of human exposure .
+There are no adequate and well - controlled studies of systemic acyclovir in pregnant women .
+A prospective epidemiologic registry of acyclovir use during pregnancy was established in 1984 and completed in April 1999 .
+There were 749 pregnancies followed in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes .
+The occurrence rate of birth defects approximates that found in the general population .
+However , the small size of the registry is insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses .
+Systemic acyclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers : It is not known whether topically applied acyclovir is excreted in breast milk .
+Systemic exposure following topical administration is minimal .
+After oral administration of ZOVIRAX , acyclovir concentrations have been documented in breast milk in 2 women and ranged from 0 . 6 to 4 . 1 times the corresponding plasma levels .
+These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0 . 3 mg / kg / day .
+Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing .
+Geriatric Use : Clinical studies of acyclovir cream did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+Systemic absorption of acyclovir after topical administration is minimal ( see CLINICAL PHARMACOLOGY ) .
+Pediatric Use : Safety and effectiveness in pediatric patients less than 12 years of age have not been established .
+ADVERSE REACTIONS In 5 double - blind , placebo - controlled trials , 1 , 124 patients were treated with ZOVIRAX Cream and 1 , 161 with placebo ( vehicle ) cream .
+ZOVIRAX Cream was well tolerated ; 5 % of patients on ZOVIRAX Cream and 4 % of patients on placebo reported local application site reactions .
+The most common adverse reactions at the site of topical application were dry lips , desquamation , dryness of skin , cracked lips , burning skin , pruritus , flakiness of skin , and stinging on skin ; each event occurred in less than 1 % of patients receiving ZOVIRAX Cream and vehicle .
+Three patients on ZOVIRAX Cream and 1 patient on placebo discontinued treatment due to an adverse event .
+An additional study , enrolling 22 healthy adults , was conducted to evaluate the dermal tolerance of ZOVIRAX Cream compared with vehicle using single occluded and semi - occluded patch testing methodology .
+Both ZOVIRAX Cream and vehicle showed a high and cumulative irritation potential .
+Another study , enrolling 251 healthy adults , was conducted to evaluate the contact sensitization potential of ZOVIRAX Cream using repeat insult patch testing methodology .
+Of 202 evaluable subjects , possible cutaneous sensitization reactions were observed in the same 4 ( 2 % ) subjects with both ZOVIRAX Cream and vehicle , and these reactions to both ZOVIRAX Cream and vehicle were confirmed in 3 subjects upon rechallenge .
+The sensitizing ingredient ( s ) has not been identified .
+The safety profile in patients 12 to 17 years of age was similar to that observed in adults .
+Observed During Clinical Practice : In addition to adverse events reported from clinical trials , the following events have been identified during post - approval use of acyclovir cream .
+Because they are reported voluntarily from a population of unknown size , estimates of frequency cannot be made .
+These events have been chosen for inclusion due to a combination of their seriousness , frequency of reporting , or potential causal connection to acyclovir cream .
+General : Angioedema , anaphylaxis .
+Skin : Contact dermatitis , eczema , application site reactions including signs and symptoms of inflammation .
+OVERDOSAGE Overdosage by topical application of ZOVIRAX Cream is unlikely because of minimal systemic exposure ( see CLINICAL PHARMACOLOGY ) .
+DOSAGE AND ADMINISTRATION ZOVIRAX Cream should be applied 5 times per day for 4 days .
+Therapy should be initiated as early as possible following onset of signs and symptoms ( i . e . , during the prodrome or when lesions appear ) .
+For adolescents 12 years of age and older , the dosage is the same as in adults .
+HOW SUPPLIED Each gram of ZOVIRAX Cream 5 % contains 50 mg acyclovir in an aqueous cream base .
+ZOVIRAX Cream is supplied as follows : 5 - g tubes ( NDC 42254 - 149 - 05 ) .
+Store at or below 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) ( see USP Controlled Room Temperature ) .
+Manufactured by GlaxoSmithKline Research Triangle Park , NC 27709 for BTA Pharmaceuticals , Inc . ( subsidiary of Biovail Corporation ) Bridgewater , NJ 08807 © 2009 , GlaxoSmithKline .
+All rights reserved .
+July 2009 ZVC : 2 PI Repackaged by : Rebel Distributors Corp Thousand Oaks , CA 91320 PATIENT INFORMATION ABOUT ZOVIRAX ® ( ACYCLOVIR ) CREAM 5 % USE ONLY FOR COLD SORES .
+FOR EXTERNAL USE ONLY .
+Read this information before you start using ZOVIRAX ( acyclovir ) Cream and each time you refill your prescription .
+There may be new information .
+This summary is not meant to take the place of your doctor ' s advice .
+What is ZOVIRAX Cream ?
+ZOVIRAX Cream is a prescription medicine that is applied to the skin to treat cold sores ( herpes labialis ) that occur on the face or lips .
+However , ZOVIRAX Cream is not a cure for cold sores .
+Who should not use ZOVIRAX Cream ?
+Do not use ZOVIRAX Cream if you are allergic to ZOVIRAX ( also known as acyclovir ) , VALTREX ® ( also known as valacyclovir ) , or any of the ingredients of ZOVIRAX Cream .
+Ask your doctor or pharmacist about the inactive ingredients .
+Before you start using ZOVIRAX Cream , tell your doctor if you are pregnant , planning to become pregnant , or are breast feeding .
+The safety and efficacy of ZOVIRAX Cream have not been studied in patients younger than 12 years of age or in patients whose immune system is not normal .
+How do I use ZOVIRAX Cream ?
+ZOVIRAX Cream is most effective when used early , at the start of a cold sore .
+For best results , apply the cream at the first sign of a cold sore ( such as tingle , redness , bump , or itch ) .
+• Wash your hands before using ZOVIRAX Cream .
+• Apply ZOVIRAX Cream to clean , dry skin .
+• Apply a layer of ZOVIRAX Cream to cover only the cold sore or cover only the area of tingling ( or other symptoms ) before the cold sore appears .
+Rub the cream in until it disappears .
+• Apply the cream 5 times a day for 4 days .
+• Wash your hands with soap and water after applying ZOVIRAX Cream .
+This should remove any cream left on the hands .
+What Should I Avoid While Using ZOVIRAX Cream ?
+• Use ZOVIRAX Cream only on your affected skin .
+Do not swallow ZOVIRAX Cream .
+Do not apply ZOVIRAX Cream to the eyes , inside the mouth or nose , or on unaffected skin .
+Do not use ZOVIRAX Cream for genital herpes .
+• Do not cover the cold sore area with a bandage or dressing unless otherwise instructed by your doctor .
+• Do not apply another type of skin product ( for example , cosmetics , sun screens , or lip balms ) or other skin medication to the cold sore area while using ZOVIRAX Cream unless otherwise instructed by your doctor .
+• Avoid irritation of the cold sore area while using ZOVIRAX Cream .
+• Do not bathe , shower , or swim right after applying ZOVIRAX Cream .
+This could wash off the medicine .
+What Are the Possible Side Effects of ZOVIRAX Cream ?
+ZOVIRAX Cream was well tolerated in studies in patients with cold sores .
+The most common skin - related side effects of ZOVIRAX Cream are dry or cracked lips , flakiness or dryness of skin , a burning or stinging feeling , or itching of the skin .
+Each event occurred in fewer than 1 in 100 patients in clinical studies .
+Ask a doctor or pharmacist about any concerns about ZOVIRAX Cream .
+How Should I Store ZOVIRAX Cream ?
+Store ZOVIRAX Cream at room temperature ( 59 ° to 86 ° F ) .
+Never leave ZOVIRAX Cream in your car in cold or hot weather .
+Make sure the cap on the tube is tightly closed .
+Keep ZOVIRAX Cream out of the reach of children .
+General Advice about Prescription Medicines Do not use ZOVIRAX Cream for a condition for which it was not prescribed .
+Do not give ZOVIRAX Cream to other people , even if they have the same symptoms you have .
+If you have any concerns about ZOVIRAX Cream , ask your doctor .
+Your doctor or pharmacist can give you additional information about ZOVIRAX Cream that was written for healthcare professionals .
+Manufactured by GlaxoSmithKline Research Triangle Park , NC 27709 for BTA Pharmaceuticals , Inc . ( subsidiary of Biovail Corporation ) Bridgewater , NJ 08807 © 2009 , GlaxoSmithKline .
+All rights reserved .
+July 2009 ZVC : 2 PIL Repackaged by : Rebel Distributors Corp Thousand Oaks , CA 91320 Principal Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ]

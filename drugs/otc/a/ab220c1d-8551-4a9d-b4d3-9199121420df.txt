@@ -1,0 +1,246 @@
+WARNINGS • There have been numerous cases of accidental and intentional overdose with propoxyphene products either alone or in combination with other CNS depressants , including alcohol .
+Fatalities within the first hour of overdosage are not uncommon .
+Many of the propoxyphene - related deaths have occurred in patients with previous histories of emotional disturbances or suicidal ideation / attempts and / or concomitant administration of sedatives , tranquilizers , muscle relaxants , antidepressants , or other CNS - depressant drugs .
+Do not prescribe propoxyphene for patients who are suicidal or have a history of suicidal ideation .
+• The metabolism of propoxyphene may be altered by strong CYP3A4 inhibitors ( such as ritonavir , ketoconazole , itraconazole , troleandomycin , clarithromycin , nelfinavir , nefazadone , amiodarone , amprenavir , aprepitant , diltiazem , erythromycin , fluconazole , fosamprenavir , grapefruit juice , and verapamil ) leading to enhanced propoxyphene plasma levels .
+Patients receiving propoxyphene and any CYP3A4 inhibitor should be carefully monitored for an extended period of time and dosage adjustments should be made if warranted ( see CLINICAL PHARMACOLOGY , Drug Interactions ; WARNINGS ; PRECAUTIONS ; and DOSAGE AND ADMINISTRATION for further information ) .
+DESCRIPTION Propoxyphene napsylate and acetaminophen tablets USP contain propoxyphene napsylate and acetaminophen .
+Propoxyphene napsylate is an odorless , white crystalline powder with a bitter taste .
+It is very slightly soluble in water , soluble in methanol , in ethanol , in chloroform , and in acetone .
+Chemically it is ( αS , 1 R ) - α - [ 2 - ( dimethylamino ) - 1 - methylethyl ] - α - phenylphenethyl propionate compound with 2 - naphthalenesulfonic acid ( 1 : 1 ) monohydrate and can be represented by the following structural formula : [ MULTIMEDIA ] C22H29NO2 • C10H8O3S • H2O M . W . 565 . 74 Propoxyphene napsylate differs from propoxyphene hydrochloride in that it allows more stable liquid dosage forms and tablet formulations .
+Because of differences in molecular weight , a dose of 100 mg ( 176 . 8 μmol ) of propoxyphene napsylate is required to supply an amount of propoxyphene equivalent to that present in 65 mg ( 172 . 9 μmol ) of propoxyphene hydrochloride .
+Acetaminophen , 4 ' - hydroxyacetanilide , is a non - opiate , non - salicylate analgesic and antipyretic which occurs as a white , odorless , crystalline powder , possessing a slightly bitter taste .
+Chemically , it is acetamide , N - ( 4 - hydroxyphenyl ) - and can structurally be represented by the following : [ MULTIMEDIA ] C8H9NO2 M . W . 151 . 16 Each pink tablet of propoxyphene napsylate and acetaminophen tablets contains 100 mg propoxyphene napsylate and 650 mg acetaminophen .
+Propoxyphene napsylate and acetaminophen tablets , USP 100 mg / 650 mg ( PINK ) contain the following inactive ingredients : colloidal silicon dioxide , D and C red No 27 aluminum lake , D and C yellow No 10 aluminum lake , hydroxypropyl cellulose , hypromellose , magnesium stearate , microcrystalline cellulose , polyethylene glycol , povidone , pregelatinized starch , stearic acid , titanium dioxide , and crospovidone .
+[ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY PharmacologyPropoxyphene is a centrally acting opiate analgesic .
+In vitro studies demonstrated propoxyphene and the metabolite norpropoxyphene inhibit sodium channels ( local anesthetic effect ) with norpropoxyphene being approximately 2 fold more potent than propoxyphene and propoxyphene approximately 10 fold more potent than lidocaine .
+Propoxyphene and norpropoxyphene inhibit the voltage - gated potassium current carried by cardiac rapidly activating delayed rectifier ( hERG ) channels with approximately equal potency .
+It is unclear if the effects on ion channels occur within therapeutic dose range .
+Acetaminophen is a non - opiate , non - salicylate analgesic and antipyretic .
+The site and mechanism for the analgesic effect of acetaminophen has not been determined .
+The antipyretic effect of acetaminophen is mediated through activity in the hypothalamic heat - regulating centers .
+Acetaminophen inhibits prostaglandin synthetase .
+Therapeutic doses of acetaminophen have negligible effects on the cardiovascular or respiratory systems ; however , toxic doses may cause circulatory failure and rapid , shallow breathing .
+Pharmacokinetics AbsorptionPeak plasma concentrations of propoxyphene are reached in 2 to 2 . 5 h .
+After a 65 mg oral dose of propoxyphene hydrochloride , peak plasma levels of 0 . 05 to 0 . 1 mcg / mL for propoxyphene and 0 . 1 to 0 . 2 mcg / mL for norpropoxyphene ( major metabolite ) are achieved .
+Repeated doses of propoxyphene at 6 h intervals lead to increasing plasma concentrations , with a plateau after the ninth dose at 48 h . Propoxyphene has a half - life of 6 to 12 h , whereas that of norpropoxyphene is 30 to 36 h . Acetaminophen is absorbed from the gastrointestinal tract and has a plasma half - life of 1 . 25 to 3 h , which may be increased by liver damage and following overdosage .
+DistributionPropoxyphene is about 80 % bound to proteins and has a large volume of distribution , 16 L / kg .
+Acetaminophen is relatively uniformly distributed throughout most body fluids .
+Binding of the drug to plasma proteins is variable ; only 20 % to 50 % may be bound at the concentrations encountered during acute intoxication .
+MetabolismPropoxyphene undergoes extensive first - pass metabolism by intestinal and hepatic enzymes .
+The major route of metabolism is cytochrome CYP3A4 mediated N - demethylation to norpropoxyphene , which is excreted by the kidneys .
+Ring hydroxylation and glucuronide formation are minor metabolic pathways .
+Acetaminophen is extensively metabolized in the liver .
+Less than 5 % of acetaminophen dose is excreted unchanged in the kidney .
+About 85 % of an acetaminophen dose is metabolized by conjugation , mainly glucuronidation via UDP - glucuronosyltransferase ( mainly UGT1A6 ) and to a lesser extent sulfation via sulfotransferase ( mainly SLT1A1 and SLT1A3 ) .
+The glucuronide and sulfate conjugates are nontoxic and are largely excreted in the urine and bile .
+About 8 to 10 % of an acetaminophen dose is oxidized by cytochrome CYP2E1 to form the toxic reactive intermediate , N - acetyl - p - benzoquinone imine ( NAPQI ) .
+NAPQI is further metabolized via glutathione ( GSH ) conjugation , yielding non - toxic thiol metabolites including cysteine , mercapturate , methylthioacetaminophen , and methanesulfinylacetaminophen that are excreted in the urine .
+Acetaminophen is also oxidized at a low percentage by cytochrome CYP2A6 to form inert catechols ( e . g . , methoxyacetaminophen ) .
+ExcretionIn 48 h , approximately 20 to 25 % of the administered dose of propoxyphene is excreted via the urine , most of which is free or conjugated norpropoxyphene .
+The renal clearance rate of propoxyphene is 2 . 6 L / min .
+Elimination of acetaminophen is principally by liver metabolism ( conjugation ) and subsequent renal excretion of metabolites .
+Approximately 85 % of an oral dose appears in the urine within 24 hours of administration , most as the glucuronide conjugate , with small amounts of other conjugates and unchanged drug .
+SPECIAL POPULATIONS Geriatric PatientsAfter oral administration of propoxyphene in elderly patients ( 70 to 78 years ) , much longer half - lives of propoxyphene and norpropoxyphene have been reported ( propropoxyphene 13 to 35 h , norpropoxyphene 22 to 41 h ) .
+In addition , the AUC was an average of 3 fold higher and the Cmax was an average of 2 . 5 fold higher in the elderly when compared to a younger ( 20 to 28 years ) population .
+Longer dosage intervals may be considered in the elderly because the metabolism of propoxyphene may be reduced in this patient population .
+After multiple oral doses of propoxyphene in elderly patients ( 70 to 78 years ) , the Cmax of the metabolite ( norpropoxyphene ) was increased 5 fold .
+Pediatric PatientsNeither propoxyphene alone nor in combination with acetaminophen has been studied in pediatric patients .
+Hepatic ImpairmentNo formal pharmacokinetic study of either propoxyphene alone or in combination with acetaminophen has been conducted in patients with mild , moderate or severe hepatic impairment .
+After oral administration of propoxyphene in patients with cirrhosis , plasma concentrations of propoxyphene were considerably higher and norpropoxyphene concentrations were much lower than in control patients .
+This is presumably because of a decreased first - pass metabolism of orally administered propoxyphene in these patients .
+The AUC ratio of norpropoxyphene : propoxyphene was significantly lower in patients with cirrhosis ( 0 . 5 to 0 . 9 ) than in controls ( 2 . 5 to 4 ) .
+Compared to healthy subjects , acetaminophen had a lower total clearance and longer half - life in patients with liver disease .
+Decreased metabolite formation clearance ( 8 to 42 % ) was observed in subjects with liver disease compared to healthy subjects after both single and multiple - doses ( at steady state ) .
+In addition , there is an increase in the amount of acetaminophen excreted unchanged in the urine ( 4 . 7 % vs . 2 . 5 % ) in patients with liver disease compared to healthy subjects after repeat doses , suggesting that more acetaminophen was excreted by renal elimination in the liver disease state .
+Renal ImpairmentNo formal pharmacokinetic study of either propoxyphene alone or in combination with acetaminophen has been conducted in patients with mild , moderate or severe renal impairment .
+After oral administration of propoxyphene in anephric patients , the AUC and Cmax values were an average of 76 % and 88 % greater , respectively .
+Dialysis removes only insignificant amounts ( 8 % ) of administered dose of propoxyphene .
+Drug InteractionsThe metabolism of propoxyphene may be altered by strong CYP3A4 inhibitors ( such as ritonavir , ketoconazole , itraconazole , troleandomycin , clarithromycin , nelfinavir , nefazadone , amiodarone , amprenavir , aprepitant , diltiazem , erythromycin , fluconazole , fosamprenavir , grapefruit juice , and verapamil ) leading to enhanced propoxyphene plasma levels .
+On the other hand , strong CYP3A4 inducers such as rifampin may lead to enhanced metabolite ( norpropoxyphene ) levels .
+Propoxyphene is also thought to possess CYP3A4 and CYP2D6 enzyme inhibiting properties .
+Coadministration with a drug that is a substrate of CYP3A4 or CYP2D6 , may result in higher plasma concentrations and increased pharmacologic or adverse effects of that drug .
+CLINICAL STUDIES The efficacy of propoxyphene in combination with acetaminophen was studied in seven single - dose , randomized , double - blind , placebo - controlled trials in patients with mild to severe postpartum pain .
+One of the studies demonstrated that both propoxyphene and acetaminophen in the combination contributed to a greater reduction in pain than acetaminophen and propoxyphene alone and that propoxyphene was superior to placebo .
+There is insufficient information available to assess efficacy of propoxyphene in combination with acetaminophen in patients with chronic pain .
+INDICATIONS AND USAGE Propoxyphene napsylate and acetaminophen tablets are indicated for the relief of mild to moderate pain .
+CONTRAINDICATIONS Propoxyphene napsylate and acetaminophen tablets are contraindicated in patients with known hypersensitivity to propoxyphene or acetaminophen .
+Propoxyphene napsylate and acetaminophen tablets are contraindicated in patients with significant respiratory depression ( in unmonitored settings or the absence of resuscitative equipment ) and patients with acute or severe asthma or hypercarbia .
+Propoxyphene napsylate and acetaminophen tablets are contraindicated in any patient who has or is suspected of having paralytic ileus .
+WARNINGS Risk of OverdoseThere have been numerous cases of accidental and intentional overdose with propoxyphene products either alone or in combination with other CNS depressants , including alcohol .
+Fatalities within the first hour of overdosage are not uncommon .
+Many of the propoxyphene - related deaths have occurred in patients with previous histories of emotional disturbances or suicidal ideation / attempts and / or concomitant administration of sedatives , tranquilizers , muscle relaxants , antidepressants , or other CNS - depressant drugs .
+Do not prescribe propoxyphene for patients who are suicidal or have a history of suicidal ideation .
+Respiratory Depression Respiratory depression is the chief hazard from all opioid agonist preparations .
+Respiratory depression occurs most frequently in elderly or debilitated patients , usually following large initial doses in non - tolerant patients , or when opioids are given in conjunction with other agents that depress respiration .
+Propoxyphene napsylate and acetaminophen tablets should be used with extreme caution in patients with significant chronic obstructive pulmonary disease or cor pulmonale , and in patients having substantially decreased respiratory reserve , hypoxia , hypercapnia , or preexisting respiratory depression .
+In such patients , even usual therapeutic doses of propoxyphene napsylate and acetaminophen tablets may decrease respiratory drive to the point of apnea .
+In these patients alternative non - opioid analgesics should be considered , and opioids should be employed only under careful medical supervision at the lowest effective dose .
+Hypotensive Effect Propoxyphene napsylate and acetaminophen tablets , like all opioid analgesics , may cause severe hypotension in an individual whose ability to maintain blood pressure has been compromised by a depleted blood volume , or after concurrent administration with drugs such as phenothiazines or other agents which compromise vasomotor tone .
+Propoxyphene napsylate and acetaminophen tablets may produce orthostatic hypotension in ambulatory patients .
+Propoxyphene napsylate and acetaminophen tablets , like all opioid analgesics , should be administered with caution to patients in circulatory shock , since vasodilatation produced by the drug may further reduce cardiac output and blood pressure .
+Head Injury and Increased Intracranial Pressure The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury , other intracranial lesions or a preexisting increase in intracranial pressure .
+Furthermore , narcotics produce adverse reactions which may obscure the clinical course of patients with head injuries .
+Drug Interactions The concomitant use of propoxyphene and CNS depressants , including alcohol , can result in potentially serious adverse events including death .
+Because of its added depressant effects , propoxyphene should be prescribed with caution for those patients whose medical condition requires the concomitant administration of sedatives , tranquilizers , muscle relaxants , antidepressants , or other CNS - depressant drugs .
+Usage in Ambulatory Patients Propoxyphene may impair the mental and / or physical abilities required for the performance of potentially hazardous tasks , such as driving a car or operating machinery .
+The patient should be cautioned accordingly .
+Use With Other Acetaminophen - Containing Agents Due to the potential for acetaminophen hepatotoxicity at doses higher than the recommended dose , propoxyphene napsylate and acetaminophen tablets should not be used concomitantly with other acetaminophen - containing products Use With Alcohol Hepatotoxicity and severe hepatic failure occurred in chronic alcoholics following therapeutic doses of acetaminophen .
+Patients should be cautioned about the concomitant use of propoxyphene products and alcohol because of potentially serious CNS - additive effects of these agents that can lead to death .
+PRECAUTIONS Tolerance and Physical DependenceTolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia ( in the absence of disease progression or other external factors ) .
+Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist .
+Physical dependence and tolerance are not unusual during chronic opioid therapy .
+The opioid abstinence or withdrawal syndrome is characterized by some or all of the following : restlessness , lacrimation , rhinorrhea , yawning , perspiration , chills , myalgia , and mydriasis .
+Other symptoms also may develop , including : irritability , anxiety , backache , joint pain , weakness , abdominal cramps , insomnia , nausea , anorexia , vomiting , diarrhea , or increased blood pressure , respiratory rate , or heart rate .
+In general , opioids should not be abruptly discontinued ( see DOSAGE AND ADMINISTRATION , Cessation of Therapy ) .
+If propoxyphene napsylate and acetaminophen tablets are abruptly discontinued in a physically dependent patient , an abstinence syndrome may occur ( see DRUG ABUSE AND DEPENDENCE ) .
+If signs and symptoms of withdrawal occur , patients should be treated by reinstitution of opioid therapy followed by gradual tapered dose reduction of propoxyphene napsylate and acetaminophen tablets combined with symptomatic support ( see DOSAGE AND ADMINISTRATION , Cessation of Therapy ) .
+Use in Pancreatic / Biliary Tract Disease Propoxyphene napsylate and acetaminophen tablets may cause spasm of the sphincter of Oddi and should be used with caution in patients with biliary tract disease , including acute pancreatitis .
+Opioids like propoxyphene napsylate and acetaminophen tablets may cause increases in the serum amylase level Hepatic or Renal Impairment Insufficient information exists to make appropriate dosing recommendations regarding the use of either propoxyphene alone or in combination with acetaminophen in patients with hepatic or renal impairment as a function of degree of impairment .
+Higher plasma concentrations and / or delayed elimination may occur in case of impaired hepatic function and / or impaired renal function ( see CLINICAL PHARMACOLOGY ) .
+If the drug is used in these patients , it should be used with caution because of the hepatic metabolism of propoxyphene and acetaminophen and renal excretion of their metabolites .
+Information for Patients / Caregivers • Patients should be advised to report pain and adverse experiences occurring during therapy .
+Individualization of dosage is essential to make optimal use of this medication .
+• Patients should be advised not to adjust the dose of propoxyphene napsylate and acetaminophen tablets without consulting the prescribing professional .
+• Patients should be advised that propoxyphene napsylate and acetaminophen tablets may impair mental and / or physical ability required for the performance of potentially hazardous tasks ( e . g . , driving , operating heavy machinery ) .
+• Patients should not combine propoxyphene napsylate and acetaminophen tablets with central nervous system depressants ( e . g . , sleep aids , tranquilizers ) except by the orders of the prescribing physician , because additive effects may occur .
+• Patients should be instructed not to consume alcoholic beverages , including prescription and over - the - counter medications that contain alcohol , while using propoxyphene napsylate and acetaminophen tablets because of risk of serious adverse events including death .
+• Women of childbearing potential who become , or are planning to become , pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child .
+• Patients should be advised that propoxyphene napsylate and acetaminophen tablets are a potential drug of abuse .
+They should protect it from theft , and it should never be given to anyone other than the individual for whom it was prescribed .
+• Patients should be advised that if they have been receiving treatment with propoxyphene napsylate and acetaminophen tablets for more than a few weeks and cessation of therapy is indicated , it may be appropriate to taper the propoxyphene napsylate and acetaminophen tablet dose , rather than abruptly discontinue it , due to the risk of precipitating withdrawal symptoms .
+Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication .
+• Instruct patients not to consume any other medication that contain acetaminophen , including acetaminophen - based over - the - counter medications , while taking propoxyphene napsylate and acetaminophen tablets .
+Drug Interactions With Propoxyphene Propoxyphene is metabolized mainly via the human cytochrome P450 3A4 isoenzyme system ( CYP3A4 ) , therefore potential interactions may occur when propoxyphene is administered concurrently with agents that affect CYP3A4 activity .
+The metabolism of propoxyphene may be altered by strong CYP3A4 inhibitors ( such as ritonavir , ketoconazole , itraconazole , troleandomycin , clarithromycin , nelfinavir , nefazadone , amiodarone , amprenavir , aprepitant , diltiazem , erythromycin , fluconazole , fosamprenavir , grapefruit juice , and verapamil ) leading to enhanced propoxyphene plasma levels .
+Coadministration with agents that induce CYP3A4 activity may reduce the efficacy of propoxyphene .
+Strong CYP3A4 inducers such as rifampin may lead to enhanced metabolite ( norpropoxyphene ) levels .
+Propoxyphene is also thought to possess CYP3A4 and CYP2D6 enzyme inhibiting properties and coadministration with drugs that rely on either of these enzymes for metabolism may result in increased pharmacologic or adverse effects of that drug .
+Severe neurologic signs , including coma , have occurred with concurrent use of carbamazepine ( metabolized by CYP3A4 ) .
+Increased risk of bleeding has been observed with warfarin - like agents when given along with propoxyphene ; however , the mechanistic basis of this interaction is unknown .
+CNS DepressantsPatients receiving narcotic analgesics , general anesthetics , phenothiazines , other tranquilizers , sedative - hypnotics or other CNS depressants ( including alcohol ) concomitantly with propoxyphene napsylate and acetaminophen tablets may exhibit an additive CNS depression .
+Interactive effects resulting in respiratory depression , hypotension , profound sedation , or coma may result if these drugs are taken in combination with the usual dosage of propoxyphene napsylate and acetaminophen tablets .
+When such combined therapy is contemplated , the dose of one or both agents should be reduced .
+Mixed Agonist / Antagonist Opioid AnalgesicsAgonist / antagonist analgesics ( i . e . , pentazocine , nalbuphine , butorphanol and buprenorphine ) should be administered with caution to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as propoxyphene napsylate and acetaminophen tablets .
+In this situation , mixed agonist / antagonist analgesics may reduce the analgesic effect of propoxyphene napsylate and acetaminophen tablets and / or may precipitate withdrawal symptoms in these patients .
+Monoamine Oxidase Inhibitors ( MAOIs ) MAOIs have been reported to intensify the effects of at least one opioid drug causing anxiety , confusion and significant depression of respiration or coma .
+The use of propoxyphene napsylate and acetaminophen tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment .
+Drug Interactions With Acetaminophen Alcohol : Hepatotoxicity has occurred in chronic alcoholics following various dose levels ( moderate to excessive ) of acetaminophen .
+Anticholinergics : The onset of acetaminophen effect may be delayed or decreased slightly , but the ultimate pharmacological effect is not significantly affected by anticholinergics .
+Oral Contraceptives : Increase in glucuronidation resulting in increased plasma clearance and a decreased half - life of acetaminophen .
+Beta Blockers ( Propranolol ) : Propranolol appears to inhibit the enzyme systems responsible for the glucuronidation and oxidation of acetaminophen .
+Therefore , the pharmacologic effects of acetaminophen may be increased .
+Loop Diuretics : The effects of the loop diuretic may be decreased because acetaminophen may decrease renal prostaglandin excretion and decrease plasma renin activity .
+Lamotrigine : Serum lamotrigine concentrations may be reduced , producing a decrease in therapeutic effects .
+Probenecid : Probenecid may increase the therapeutic effectiveness of acetaminophen slightly .
+Zidovudine : The pharmacologic effects of zidovudine may be decreased because of enhanced nonhepatic or renal clearance of zidovudine .
+Carcinogenesis , Mutagenesis , Impairment of Fertility The mutagenic and carcinogenic potential of propoxyphene and acetaminophen alone and in combination have not been evaluated .
+In animal studies there was no effect of propoxyphene on mating behavior , fertility , duration of gestation , or parturition when rats were fed propoxyphene as a component of their daily diet at estimated daily propoxyphene intake up to 8 fold greater than the maximum human equivalent dose ( HED ) based on body surface area comparison .
+At this highest dose , fetal weight and survival on postnatal day 4 was reduced .
+Acetaminophen has not been studied in animals for effects on fertility and the effects on human fertility are unknown .
+Pregnancy Risk Summary Pregnancy category CThere are no adequate and well - controlled studies of propoxyphene with acetaminophen in pregnant women .
+While there are limited data in the published literature , adequate animal reproduction studies have not been conducted with propoxyphene or acetaminophen .
+Therefore , it is not known whether propoxyphene or acetaminophen can affect reproduction or cause fetal harm when administered to a pregnant woman .
+Propoxyphene with acetaminophen should be given to a pregnant woman only if clearly needed .
+Clinical ConsiderationsAcetaminophen , propoxyphene and its major metabolite , norpropoxyphene , cross the human placenta .
+Neonates whose mothers have taken opiates chronically may exhibit respiratory depression or withdrawal symptoms .
+DataIn published animal reproduction studies , no teratogenic effects occurred in offspring born to pregnant rats or rabbits that received propoxyphene during organogenesis .
+Pregnant animals received propoxyphene doses approximately 10 fold ( rats ) and 4 fold ( rabbits ) the maximum recommended human dose ( based on mg / m2 body surface area comparison ) .
+Nursing Mothers Propoxyphene , norpropoxyphene ( major metabolite ) , and acetaminophen are excreted in human milk .
+Published studies of nursing mothers using propoxyphene detected no adverse effects in nursing infants .
+Based on a study of six mother - infant pairs , an exclusively breastfed infant receives approximately 2 % of the maternal weight - adjusted dose .
+Norpropoxyphene is renally excreted and renal clearance is lower in neonates than in adults .
+Therefore , it is possible that prolonged maternal propoxyphene use could result in norpropoxyphene accumulation in a breastfed infant .
+Watch breastfeeding infants for signs of sedation including poor feeding , somnolence , or respiratory depression .
+Caution should be exercised when propoxyphene napsylate and acetaminophen tablets are administered to a nursing woman .
+Pediatric Patients Safety and effectiveness in pediatric patients have not been established .
+Geriatric Patients Clinical studies of propoxyphene napsylate and acetaminophen did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+However , postmarketing reports suggest that patients over the age of 65 may be more susceptible to CNS - related side effects .
+Therefore , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+Decreased total daily dosage should be considered ( see DOSAGE AND ADMINISTRATION ) .
+ADVERSE REACTIONS During clinical trials , the most frequently reported adverse reactions were dizziness , sedation , nausea , and vomiting .
+Other adverse reactions include constipation , abdominal pain , skin rashes , lightheadedness , headache , weakness , euphoria , dysphoria , hallucinations , and minor visual disturbances .
+The most frequently reported postmarketing adverse events have included completed suicide , accidental and intentional overdose , drug dependence , cardiac arrest , coma , drug ineffective , drug toxicity , nausea , respiratory arrest , cardio - respiratory arrest , death , vomiting , dizziness , convulsion , confusional state , and diarrhea .
+Additional adverse experiences reported through postmarketing surveillance include : Cardiac disorders : arrhythmia , bradycardia , cardiac / respiratory arrest , congestive arrest , congestive heart failure ( CHF ) , tachycardia , myocardial infarction ( MI ) Eye disorder : eye swelling , vision blurred General disorder and administration site conditions : drug ineffective , drug interaction , drug tolerance , influenza type illness , drug withdrawal syndrome Gastrointestinal disorder : gastrointestinal bleed , acute pancreatitis Hepatobiliary disorder : hepatic steatosis , hepatomegaly , hepatocellular injury Immune system disorder : hypersensitivity Injury poisoning and procedural complications : drug toxicity , hip fracture , multiple drug overdose , narcotic overdose Investigations : blood pressure decreased , heart rate elevated / abnormal Metabolism and nutrition disorder : metabolic acidosis Nervous system disorder : ataxia , coma , dizziness , somnolence , syncope Psychiatric : abnormal behavior , confusional state , hallucinations , mental status change Respiratory , thoracic , and mediastinal disorders : respiratory depression , dyspnoea Skin and subcutaneous tissue disorder : rash , itch Liver dysfunction has been reported in association with both active components of propoxyphene napsylate and acetaminophen tablets .
+Propoxyphene therapy has been associated with abnormal liver function tests and , more rarely , with instances of reversible jaundice ( including cholestatic jaundice ) .
+Hepatic necrosis may result from acute overdose of acetaminophen ( see OVERDOSAGE ) .
+In chronic ethanol abusers , this has been reported rarely with short - term use of acetaminophen dosages of 2 . 5 to 10 g / day .
+Fatalities have occurred .
+There have also been postmarketing reports of renal papillary necrosis associated with chronic acetaminophen use , particularly when the dosage is greater than recommended and when combined with aspirin .
+Subacute painful myopathy has been reported following chronic propoxyphene overdosage .
+DRUG ABUSE AND DEPENDENCE Controlled SubstancePropoxyphene napsylate and acetaminophen tablets are a Schedule IV narcotic under the U . S . Controlled Substances Act .
+Propoxyphene napsylate and acetaminophen tablets can produce drug dependence of the morphine type , and therefore , has the potential for being abused .
+Psychic dependence , physical dependence and tolerance may develop upon repeated administration .
+Propoxyphene napsylate and acetaminophen tablets should be prescribed and administered with the same degree of caution appropriate to the use of other narcotic - containing medications .
+Abuse Since propoxyphene napsylate and acetaminophen tablets are a mu - opioid agonist , they may be subject to misuse , abuse , and addiction .
+Addiction to opioids prescribed for pain management has not been estimated .
+However , requests for opioids from opioid - addicted patients occur .
+As such , physicians should take appropriate care in prescribing propoxyphene napsylate and acetaminophen tablets .
+Dependence Opioid analgesics may cause psychological and physical dependence .
+Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug after long term administration .
+Also , symptoms of withdrawal may be precipitated through the administration of drugs with mu - opioid antagonist activity , e . g . , naloxone or mixed agonist / antagonist analgesics ( pentazocine , butorphanol , nalbuphine , dezocine ) ( see OVERDOSAGE ) .
+Physical dependence usually does not occur to a clinically significant degree , until after several weeks of continued opioid usage .
+Tolerance , in which increasingly larger doses are required to produce the same degree of analgesia , is initially manifested by a shortened duration of an analgesic effect and subsequently , by decreases in the intensity of analgesia .
+In chronic pain patients , and in opioid - tolerant cancer patients , the administration of propoxyphene napsylate and acetaminophen tablets should be guided by the degree of tolerance manifested and the doses needed to adequately relieve pain .
+The severity of the propoxyphene napsylate and acetaminophen tablets abstinence syndrome may depend on the degree of physical dependence .
+Withdrawal is characterized by rhinitis , myalgia , abdominal cramping , and occasional diarrhea .
+Most observable symptoms disappear in 5 to 14 days without treatment ; however , there may be a phase of secondary or chronic abstinence which may last for 2 to 6 months characterized by insomnia , irritability , and muscular aches .
+The patient may be detoxified by gradual reduction of the dose .
+Gastrointestinal disturbances or dehydration should be treated with supportive care OVERDOSAGE Propoxyphene napsylate and acetaminophen tablets are a combination product containing propoxyphene and acetaminophen .
+Overdose of propoxyphene napsylate and acetaminophen tablets may present with the signs and symptoms of propoxyphene overdose , acetaminophen overdose or both .
+Fatalities within the first hour of overdosage are not uncommon .
+In all cases of suspected overdosage , call your regional Poison Control Center to obtain the most up - to - date information about the treatment of overdose .
+This recommendation is made because , in general , information regarding the treatment of overdosage may change more rapidly than do package inserts .
+Initial consideration should be given to the management of the CNS effects of propoxyphene overdosage .
+Resuscitative measures should be initiated promptly .
+Propoxyphene Overdosage Symptoms of Propoxyphene OverdosageThe manifestations of acute overdosage with propoxyphene are those of opioid overdosage .
+The patient is usually somnolent but may be stuporous or comatose and convulsing .
+Respiratory depression is characteristic .
+The ventilatory rate and / or tidal volume is decreased , which results in cyanosis and hypoxia .
+Pupils , initially pinpoint , may become dilated as hypoxia increases .
+Cheyne - Stokes respiration and apnea may occur .
+Blood pressure and heart rate are usually normal initially , but blood pressure falls and cardiac performance deteriorates , which ultimately results in pulmonary edema and circulatory collapse , unless the respiratory depression is corrected and adequate ventilation is restored promptly .
+Cardiac arrhythmias and conduction delay may be present .
+A combined respiratory - metabolic acidosis occurs owing to retained CO2 ( hypercapnia ) and to lactic acid formed during anaerobic glycolysis .
+Acidosis may be severe if large amounts of salicylates have also been ingested .
+Death may occur .
+Treatment of Propoxyphene OverdosageAttention should be directed first to establishing a patent airway and to restoring ventilation .
+Mechanically assisted ventilation , with or without oxygen , may be required , and positive pressure respiration may be desirable if pulmonary edema is present .
+The opioid antagonist naloxone will markedly reduce the degree of respiratory depression , and should be administered promptly , preferably intravenously .
+The duration of action of the antagonist may be brief .
+If no response is observed after 10 mg of naloxone have been administered , the diagnosis of propoxyphene toxicity should be questioned .
+In addition to the use of an opioid antagonist , the patient may require careful titration with an anticonvulsant to control convulsions .
+Activated charcoal can adsorb a significant amount of ingested propoxyphene .
+Dialysis is of little value in poisoning due to propoxyphene .
+Efforts should be made to determine whether other agents , such as alcohol , barbiturates , tranquilizers , or other CNS depressants , were also ingested , since these increase CNS depression as well as cause specific toxic effects or death .
+Acetaminophen Overdosage Symptoms of Acetaminophen OverdosageOverdose of acetaminophen may cause dose - dependent potentially fatal hepatic toxicity .
+Early symptoms within 24 hours after the overdose may include anorexia , nausea , vomiting , diaphoresis , general malaise , and abdominal pain .
+The patient may then present no symptoms , but evidence of liver dysfunction may become apparent up to 72 hours after ingestion , with elevated serum transaminase and lactic dehydrogenase levels , an increase in serum bilirubin concentrations , and a prolonged prothrombin time .
+Death from hepatic failure may result 3 to 7 days after overdosage .
+Because clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post - ingestion , liver function studies should be obtained initially and repeated at 24 hour intervals .
+Acute renal failure may accompany the hepatic dysfunction and has been noted in patients who do not exhibit signs of fulminant hepatic failure .
+Typically , renal impairment is more apparent 6 to 9 days after ingestion of the overdose .
+Treatment of Acetaminophen OverdosageIn all cases of suspected overdose , immediately call the Rocky Mountain Poison Center ' s toll - free number ( 800 - 525 - 6115 ) for assistance in diagnosis and for directions in the use of N - acetylcysteine as an antidote .
+Patients ' estimates of the quantity of a drug ingested are notoriously unreliable .
+Therefore , if an acetaminophen overdose is suspected , a serum acetaminophen assay should be obtained as early as possible , but no sooner than 4 hours following ingestion .
+The antidote , N - acetylcysteine , should be administered as early as possible , and within 16 hours of the overdose ingestion for optimal results .
+DOSAGE AND ADMINISTRATION Proproxyphene napsylate and acetaminophen tablets USP are intended for the management of mild to moderate pain .
+The dose should be individually adjusted according to severity of pain , patient response and patient size .
+Propoxyphene napsylate and acetaminophen tablets USP ( 100 mg propoxyphene napsylate and 650 mg acetaminophen ) The usual dosage is one tablet every 4 hours orally as needed for pain .
+The maximum dose of propoxyphene napsylate and acetaminophen tablets USP is 6 tablets per day .
+Do not exceed the maximum daily dose .
+Patients receiving propoxyphene and any CYP3A4 inhibitor should be carefully monitored for an extended period of time and dosage adjustments should be made if warranted .
+Consideration should be given to a reduced total daily dosage in elderly patients and in patients with hepatic or renal impairment .
+Cessation of Therapy For patients who used propoxyphene napsylate and acetaminophen tablets USP on a regular basis for a period of time , when therapy with propoxyphene napsylate and acetaminophen tablets USP is no longer needed for the treatment of their pain , it may be useful to gradually discontinue the propoxyphene napsylate and acetaminophen tablets USP over time to prevent the development of an opioid abstinence syndrome ( narcotic withdrawal ) .
+In general , therapy can be decreased by 25 % to 50 % per day with careful monitoring for signs and symptoms of withdrawal ( see DRUG ABUSE AND DEPENDENCE for description of the signs and symptoms of withdrawal ) .
+If the patient develops these signs or symptoms , the dose should be raised to the previous level and titrated down more slowly , either by increasing the interval between decreases , decreasing the amount of change in dose , or both .
+HOW SUPPLIED Propoxyphene napsylate and acetaminophen tablets , USP 100 mg / 650 mg ( PINK ) are available as film - coated , oblong , pink tablets debossed either " 93 " - " 890 " or " TEVA " - " 890 " .
+They are supplied as follows : • 12634 - 534 - 91 Blister Pack UD of 1 • 12634 - 537 - 69 Blister Pack Card of 9 • 12634 - 537 - 55 Blister Pack Card of 15 • 12634 - 537 - 98 Bottle of 8 • 12634 - 537 - 00 Bottle of 10 • 12634 - 537 - 82 Bottle of 12 • 12634 - 537 - 85 Bottle of 15 • 12634 - 537 - 80 Bottle of 20 • 12634 - 537 - 71 Bottle of 30 • 12634 - 537 - 60 Bottle of 60 • 12634 - 537 - 01 Bottle of 100 Storage and Dispensing Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ See USP Controlled Room Temperature ] .
+Inform patients of the availability of a Medication Guide for propoxyphene napsylate and acetaminophen tablets USP that accompanies each prescription dispensed .
+Instruct patients to read the propoxyphene napsylate and acetaminophen Medication Guide prior to using propoxyphene napsylate and acetaminophen tablets USP .
+Dispense in a tight , light - resistant container as defined in the USP , using a child - resistant closure .
+MEDICATION GUIDE Ask your Pharmacist for a Medication Guide for Propoxyphene Napsylate and Acetaminophen Tablets , USP Read the Medication Guide prior to using propoxphene napsylate and acetaminophen .
+This information does not take the place of talking to your Doctor about your medical condition or your treatment .
+A complete copy of the Medication Guide for Propoxyphene Napsylate and Acetaminophen Tablets , USP 100 mg / 650 mg is available upon request Call 1 - 800 - 262 - 5244 PACKAGE LABEL NDC 12634 - 537 - 00 Propoxyphene Napsylate and Acetaminophen CIV 100 mg / 650 mg Bottle 10 Tablets MFG : Teva Pharmaceuticals Inc .
+Repackaged and Distributed : Apotheca Inc .
+[ MULTIMEDIA ] [ MULTIMEDIA ]

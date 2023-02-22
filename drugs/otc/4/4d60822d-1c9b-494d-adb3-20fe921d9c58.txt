@@ -1,0 +1,429 @@
+DESCRIPTION VIAGRA ® , an oral therapy for erectile dysfunction , is the citrate salt of sildenafil , a selective inhibitor of cyclic guanosine monophosphate ( cGMP ) - specific phosphodiesterase type 5 ( PDE5 ) .
+Sildenafil citrate is designated chemically as 1 - [ [ 3 - ( 6 , 7 - dihydro - 1 - methyl - 7 - oxo - 3 - propyl - 1 H - pyrazolo [ 4 , 3 - d ] pyrimidin - 5 - yl ) - 4 - ethoxyphenyl ] sulfonyl ] - 4 - methylpiperazine citrate and has the following structural formula : [ MULTIMEDIA ] Sildenafil citrate is a white to off - white crystalline powder with a solubility of 3 . 5 mg / mL in water and a molecular weight of 666 . 7 .
+VIAGRA ( sildenafil citrate ) is formulated as blue , film - coated rounded - diamond - shaped tablets equivalent to 25 mg , 50 mg and 100 mg of sildenafil for oral administration .
+In addition to the active ingredient , sildenafil citrate , each tablet contains the following inactive ingredients : microcrystalline cellulose , anhydrous dibasic calcium phosphate , croscarmellose sodium , magnesium stearate , hypromellose , titanium dioxide , lactose , triacetin , and FD & C Blue # 2 aluminum lake .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action The physiologic mechanism of erection of the penis involves release of nitric oxide ( NO ) in the corpus cavernosum during sexual stimulation .
+NO then activates the enzyme guanylate cyclase , which results in increased levels of cyclic guanosine monophosphate ( cGMP ) , producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood .
+Sildenafil has no direct relaxant effect on isolated human corpus cavernosum , but enhances the effect of nitric oxide ( NO ) by inhibiting phosphodiesterase type 5 ( PDE5 ) , which is responsible for degradation of cGMP in the corpus cavernosum .
+When sexual stimulation causes local release of NO , inhibition of PDE5 by sildenafil causes increased levels of cGMP in the corpus cavernosum , resulting in smooth muscle relaxation and inflow of blood to the corpus cavernosum .
+Sildenafil at recommended doses has no effect in the absence of sexual stimulation .
+Studies in vitro have shown that sildenafil is selective for PDE5 .
+Its effect is more potent on PDE5 than on other known phosphodiesterases ( 10 - fold for PDE6 , > 80 - fold for PDE1 , > 700 - fold for PDE2 , PDE3 , PDE4 , PDE7 , PDE8 , PDE9 , PDE10 , and PDE11 ) .
+The approximately 4 , 000 - fold selectivity for PDE5 versus PDE3 is important because PDE3 is involved in control of cardiac contractility .
+Sildenafil is only about 10 - fold as potent for PDE5 compared to PDE6 , an enzyme found in the retina which is involved in the phototransduction pathway of the retina .
+This lower selectivity is thought to be the basis for abnormalities related to color vision observed with higher doses or plasma levels ( see Pharmacodynamics ) .
+In addition to human corpus cavernosum smooth muscle , PDE5 is also found in lower concentrations in other tissues including platelets , vascular and visceral smooth muscle , and skeletal muscle .
+The inhibition of PDE5 in these tissues by sildenafil may be the basis for the enhanced platelet antiaggregatory activity of nitric oxide observed in vitro , an inhibition of platelet thrombus formation in vivo and peripheral arterial - venous dilatation in vivo .
+Pharmacokinetics and Metabolism VIAGRA is rapidly absorbed after oral administration , with a mean absolute bioavailability of 41 % ( range 25 – 63 % ) .
+Its pharmacokinetics are dose - proportional over the recommended dose range .
+It is eliminated predominantly by hepatic metabolism ( mainly cytochrome P450 3A4 ) and is converted to an active metabolite with properties similar to the parent , sildenafil .
+The concomitant use of potent cytochrome P450 3A4 inhibitors ( e . g . , erythromycin , ketoconazole , itraconazole ) as well as the nonspecific CYP inhibitor , cimetidine , is associated with increased plasma levels of sildenafil ( see DOSAGE AND ADMINISTRATION ) .
+Both sildenafil and the metabolite have terminal half lives of about 4 hours .
+Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below : [ MULTIMEDIA ] Figure 1 : Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers .
+Absorption and Distribution VIAGRA is rapidly absorbed .
+Maximum observed plasma concentrations are reached within 30 to 120 minutes ( median 60 minutes ) of oral dosing in the fasted state .
+When VIAGRA is taken with a high fat meal , the rate of absorption is reduced , with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29 % .
+The mean steady state volume of distribution ( Vss ) for sildenafil is 105 L , indicating distribution into the tissues .
+Sildenafil and its major circulating N - desmethyl metabolite are both approximately 96 % bound to plasma proteins .
+Protein binding is independent of total drug concentrations .
+Based upon measurements of sildenafil in semen of healthy volunteers 90 minutes after dosing , less than 0 . 001 % of the administered dose may appear in the semen of patients .
+Metabolism and Excretion Sildenafil is cleared predominantly by the CYP3A4 ( major route ) and CYP2C9 ( minor route ) hepatic microsomal isoenzymes .
+The major circulating metabolite results from N - desmethylation of sildenafil , and is itself further metabolized .
+This metabolite has a PDE selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50 % of the parent drug .
+Plasma concentrations of this metabolite are approximately 40 % of those seen for sildenafil , so that the metabolite accounts for about 20 % of sildenafil ' s pharmacologic effects .
+After either oral or intravenous administration , sildenafil is excreted as metabolites predominantly in the feces ( approximately 80 % of administered oral dose ) and to a lesser extent in the urine ( approximately 13 % of the administered oral dose ) .
+Similar values for pharmacokinetic parameters were seen in normal volunteers and in the patient population , using a population pharmacokinetic approach .
+Pharmacokinetics in Special Populations Geriatrics Healthy elderly volunteers ( 65 years or over ) had a reduced clearance of sildenafil , resulting in approximately 84 % and 107 % higher plasma AUC values of sildenafil and its active N - desmethyl metabolite , respectively , compared to those seen in healthy younger volunteers ( 18 – 45 years ) .
+Due to age - differences in plasma protein binding , the corresponding increase in the AUC of free ( unbound ) sildenafil and its active N - desmethyl metabolite were 45 % and 57 % , respectively .
+Renal Insufficiency In volunteers with mild ( CLcr = 50 – 80 mL / min ) and moderate ( CLcr = 30 – 49 mL / min ) renal impairment , the pharmacokinetics of a single oral dose of VIAGRA ( 50 mg ) were not altered .
+In volunteers with severe ( CLcr = less than 30 mL / min ) renal impairment , sildenafil clearance was reduced , resulting in approximately doubling of AUC and Cmax compared to age - matched volunteers with no renal impairment .
+In addition , N - desmethyl metabolite AUC and Cmax values significantly increased 200 % and 79 % respectively in subjects with severe renal impairment compared to subjects with normal renal function .
+Hepatic Insufficiency In volunteers with hepatic cirrhosis ( Child - Pugh A and B ) , sildenafil clearance was reduced , resulting in increases in AUC ( 85 % ) and Cmax ( 47 % ) compared to age - matched volunteers with no hepatic impairment .
+The pharmacokinetics of sildenafil in patients with severely impaired hepatic function ( Child Pugh class C ) have not been studied .
+Therefore , age greater than 65 , hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil .
+A starting oral dose of 25 mg should be considered in those patients ( see DOSAGE AND ADMINISTRATION ) .
+Pharmacodynamics Effects of VIAGRA on Erectile Response In eight double - blind , placebo - controlled crossover studies of patients with either organic or psychogenic erectile dysfunction , sexual stimulation resulted in improved erections , as assessed by an objective measurement of hardness and duration of erections ( RigiScan ® ) , after VIAGRA administration compared with placebo .
+Most studies assessed the efficacy of VIAGRA approximately 60 minutes post dose .
+The erectile response , as assessed by RigiScan ® , generally increased with increasing sildenafil dose and plasma concentration .
+The time course of effect was examined in one study , showing an effect for up to 4 hours but the response was diminished compared to 2 hours .
+Effects of VIAGRA on Blood Pressure Single oral doses of sildenafil ( 100 mg ) administered to healthy volunteers produced decreases in sitting blood pressure ( mean maximum decrease in systolic / diastolic blood pressure of 8 . 3 / 5 . 3 mmHg ) .
+The decrease in sitting blood pressure was most notable approximately 1 – 2 hours after dosing , and was not different than placebo at 8 hours .
+Similar effects on blood pressure were noted with 25 mg , 50 mg and 100 mg of VIAGRA , therefore the effects are not related to dose or plasma levels within this dosage range .
+Larger effects were recorded among patients receiving concomitant nitrates ( see CONTRAINDICATIONS ) .
+[ MULTIMEDIA ] Figure 2 : Mean Change from Baseline in Sitting Systolic Blood Pressure , Healthy Volunteers .
+Effects of VIAGRA on Cardiac Parameters Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers .
+Studies have produced relevant data on the effects of VIAGRA on cardiac output .
+In one small , open - label , uncontrolled , pilot study , eight patients with stable ischemic heart disease underwent Swan - Ganz catheterization .
+A total dose of 40 mg sildenafil was administered by four intravenous infusions .
+The results from this pilot study are shown in Table 1 ; the mean resting systolic and diastolic blood pressures decreased by 7 % and 10 % compared to baseline in these patients .
+Mean resting values for right atrial pressure , pulmonary artery pressure , pulmonary artery occluded pressure and cardiac output decreased by 28 % , 28 % , 20 % and 7 % respectively .
+Even though this total dosage produced plasma sildenafil concentrations which were approximately 2 to 5 times higher than the mean maximum plasma concentrations following a single oral dose of 100 mg in healthy male volunteers , the hemodynamic response to exercise was preserved in these patients .
+TABLE 1 .
+HEMODYNAMIC DATA IN PATIENTS WITH STABLE ISCHEMIC HEART DISEASE AFTER IV ADMINISTRATION OF 40 MG SILDENAFILMeans ± SD At rest After 4 minutes of exercise n Baseline ( B2 ) n Sildenafil ( D1 ) n Baseline n Sildenafil PAOP ( mmHg ) 8 8 . 1 ± 5 . 1 8 6 . 5 ± 4 . 3 8 36 . 0 ± 13 . 7 8 27 . 8 ± 15 . 3 Mean PAP ( mmHg ) 8 16 . 7 ± 4 8 12 . 1 ± 3 . 9 8 39 . 4 ± 12 . 9 8 31 . 7 ± 13 . 2 Mean RAP ( mmHg ) 7 5 . 7 ± 3 . 7 8 4 . 1 ± 3 . 7 - - - - Systolic SAP ( mmHg ) 8 150 . 4 ± 12 . 4 8 140 . 6 ± 16 . 5 8 199 . 5 ± 37 . 4 8 187 . 8 ± 30 . 0 Diastolic SAP ( mmHg ) 8 73 . 6 ± 7 . 8 8 65 . 9 ± 10 8 84 . 6 ± 9 . 7 8 79 . 5 ± 9 . 4 Cardiac output ( L / min ) 8 5 . 6 ± 0 . 9 8 5 . 2 ± 1 . 1 8 11 . 5 ± 2 . 4 8 10 . 2 ± 3 . 5 Heart rate ( bpm ) 8 67 ± 11 . 1 8 66 . 9 ± 12 8 101 . 9 ± 11 . 6 8 99 . 0 ± 20 . 4 In a double - blind study , 144 patients with erectile dysfunction and chronic stable angina limited by exercise , not receiving chronic oral nitrates , were randomized to a single dose of placebo or VIAGRA 100 mg 1 hour prior to exercise testing .
+The primary endpoint was time to limiting angina in the evaluable cohort .
+The mean times ( adjusted for baseline ) to onset of limiting angina were 423 . 6 and 403 . 7 seconds for sildenafil ( N = 70 ) and placebo , respectively .
+These results demonstrated that the effect of VIAGRA on the primary endpoint was statistically non - inferior to placebo .
+Effects of VIAGRA on Vision At single oral doses of 100 mg and 200 mg , transient dose - related impairment of color discrimination ( blue / green ) was detected using the Farnsworth - Munsell 100 - hue test , with peak effects near the time of peak plasma levels .
+This finding is consistent with the inhibition of PDE6 , which is involved in phototransduction in the retina .
+An evaluation of visual function at doses up to twice the maximum recommended dose revealed no effects of VIAGRA on visual acuity , intraocular pressure , or pupillometry .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Clinical Studies In clinical studies , VIAGRA was assessed for its effect on the ability of men with erectile dysfunction ( ED ) to engage in sexual activity and in many cases specifically on the ability to achieve and maintain an erection sufficient for satisfactory sexual activity .
+VIAGRA was evaluated primarily at doses of 25 mg , 50 mg and 100 mg in 21 randomized , double - blind , placebo - controlled trials of up to 6 months in duration , using a variety of study designs ( fixed dose , titration , parallel , crossover ) .
+VIAGRA was administered to more than 3 , 000 patients aged 19 to 87 years , with ED of various etiologies ( organic , psychogenic , mixed ) with a mean duration of 5 years .
+VIAGRA demonstrated statistically significant improvement compared to placebo in all 21 studies .
+The studies that established benefit demonstrated improvements in success rates for sexual intercourse compared with placebo .
+The effectiveness of VIAGRA was evaluated in most studies using several assessment instruments .
+The primary measure in the principal studies was a sexual function questionnaire ( the International Index of Erectile Function - IIEF ) administered during a 4 - week treatment - free run - in period , at baseline , at follow - up visits , and at the end of double - blind , placebo - controlled , at - home treatment .
+Two of the questions from the IIEF served as primary study endpoints ; categorical responses were elicited to questions about ( 1 ) the ability to achieve erections sufficient for sexual intercourse and ( 2 ) the maintenance of erections after penetration .
+The patient addressed both questions at the final visit for the last 4 weeks of the study .
+The possible categorical responses to these questions were ( 0 ) no attempted intercourse , ( 1 ) never or almost never , ( 2 ) a few times , ( 3 ) sometimes , ( 4 ) most times , and ( 5 ) almost always or always .
+Also collected as part of the IIEF was information about other aspects of sexual function , including information on erectile function , orgasm , desire , satisfaction with intercourse , and overall sexual satisfaction .
+Sexual function data were also recorded by patients in a daily diary .
+In addition , patients were asked a global efficacy question and an optional partner questionnaire was administered .
+The effect on one of the major end points , maintenance of erections after penetration , is shown in Figure 3 , for the pooled results of 5 fixed - dose , dose - response studies of greater than one month duration , showing response according to baseline function .
+Results with all doses have been pooled , but scores showed greater improvement at the 50 and 100 mg doses than at 25 mg .
+The pattern of responses was similar for the other principal question , the ability to achieve an erection sufficient for intercourse .
+The titration studies , in which most patients received 100 mg , showed similar results .
+Figure 3 shows that regardless of the baseline levels of function , subsequent function in patients treated with VIAGRA was better than that seen in patients treated with placebo .
+At the same time , on - treatment function was better in treated patients who were less impaired at baseline .
+[ MULTIMEDIA ] Figure 3 .
+Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score .
+The frequency of patients reporting improvement of erections in response to a global question in four of the randomized , double - blind , parallel , placebo - controlled fixed dose studies ( 1797 patients ) of 12 to 24 weeks duration is shown in Figure 4 .
+These patients had erectile dysfunction at baseline that was characterized by median categorical scores of 2 ( a few times ) on principal IIEF questions .
+Erectile dysfunction was attributed to organic ( 58 % ; generally not characterized , but including diabetes and excluding spinal cord injury ) , psychogenic ( 17 % ) , or mixed ( 24 % ) etiologies .
+Sixty - three percent , 74 % , and 82 % of the patients on 25 mg , 50 mg and 100 mg of VIAGRA , respectively , reported an improvement in their erections , compared to 24 % on placebo .
+In the titration studies ( n = 644 ) ( with most patients eventually receiving 100 mg ) , results were similar .
+[ MULTIMEDIA ] Figure 4 .
+Percentage of Patients Reporting an Improvement in Erections .
+The patients in studies had varying degrees of ED .
+One - third to one - half of the subjects in these studies reported successful intercourse at least once during a 4 - week , treatment - free run - in period .
+In many of the studies , of both fixed dose and titration designs , daily diaries were kept by patients .
+In these studies , involving about 1600 patients , analyses of patient diaries showed no effect of VIAGRA on rates of attempted intercourse ( about 2 per week ) , but there was clear treatment - related improvement in sexual function : per patient weekly success rates averaged 1 . 3 on 50 – 100 mg of VIAGRA vs 0 . 4 on placebo ; similarly , group mean success rates ( total successes divided by total attempts ) were about 66 % on VIAGRA vs about 20 % on placebo .
+During 3 to 6 months of double - blind treatment or longer - term ( 1 year ) , open - label studies , few patients withdrew from active treatment for any reason , including lack of effectiveness .
+At the end of the long - term study , 88 % of patients reported that VIAGRA improved their erections .
+Men with untreated ED had relatively low baseline scores for all aspects of sexual function measured ( again using a 5 - point scale ) in the IIEF .
+VIAGRA improved these aspects of sexual function : frequency , firmness and maintenance of erections ; frequency of orgasm ; frequency and level of desire ; frequency , satisfaction and enjoyment of intercourse ; and overall relationship satisfaction .
+One randomized , double - blind , flexible - dose , placebo - controlled study included only patients with erectile dysfunction attributed to complications of diabetes mellitus ( n = 268 ) .
+As in the other titration studies , patients were started on 50 mg and allowed to adjust the dose up to 100 mg or down to 25 mg of VIAGRA ; all patients , however , were receiving 50 mg or 100 mg at the end of the study .
+There were highly statistically significant improvements on the two principal IIEF questions ( frequency of successful penetration during sexual activity and maintenance of erections after penetration ) on VIAGRA compared to placebo .
+On a global improvement question , 57 % of VIAGRA patients reported improved erections versus 10 % on placebo .
+Diary data indicated that on VIAGRA , 48 % of intercourse attempts were successful versus 12 % on placebo .
+One randomized , double - blind , placebo - controlled , crossover , flexible - dose ( up to 100 mg ) study of patients with erectile dysfunction resulting from spinal cord injury ( n = 178 ) was conducted .
+The changes from baseline in scoring on the two end point questions ( frequency of successful penetration during sexual activity and maintenance of erections after penetration ) were highly statistically significantly in favor of VIAGRA .
+On a global improvement question , 83 % of patients reported improved erections on VIAGRA versus 12 % on placebo .
+Diary data indicated that on VIAGRA , 59 % of attempts at sexual intercourse were successful compared to 13 % on placebo .
+Across all trials , VIAGRA improved the erections of 43 % of radical prostatectomy patients compared to 15 % on placebo .
+Subgroup analyses of responses to a global improvement question in patients with psychogenic etiology in two fixed - dose studies ( total n = 179 ) and two titration studies ( total n = 149 ) showed 84 % of VIAGRA patients reported improvement in erections compared with 26 % of placebo .
+The changes from baseline in scoring on the two end point questions ( frequency of successful penetration during sexual activity and maintenance of erections after penetration ) were highly statistically significantly in favor of VIAGRA .
+Diary data in two of the studies ( n = 178 ) showed rates of successful intercourse per attempt of 70 % for VIAGRA and 29 % for placebo .
+A review of population subgroups demonstrated efficacy regardless of baseline severity , etiology , race and age .
+VIAGRA was effective in a broad range of ED patients , including those with a history of coronary artery disease , hypertension , other cardiac disease , peripheral vascular disease , diabetes mellitus , depression , coronary artery bypass graft ( CABG ) , radical prostatectomy , transurethral resection of the prostate ( TURP ) and spinal cord injury , and in patients taking antidepressants / antipsychotics and antihypertensives / diuretics .
+Analysis of the safety database showed no apparent difference in the side effect profile in patients taking VIAGRA with and without antihypertensive medication .
+This analysis was performed retrospectively , and was not powered to detect any pre - specified difference in adverse reactions .
+[ MULTIMEDIA ] [ MULTIMEDIA ] INDICATION AND USAGE VIAGRA is indicated for the treatment of erectile dysfunction .
+CONTRAINDICATIONS Consistent with its known effects on the nitric oxide / cGMP pathway ( see CLINICAL PHARMACOLOGY ) , VIAGRA was shown to potentiate the hypotensive effects of nitrates , and its administration to patients who are using organic nitrates , either regularly and / or intermittently , in any form is therefore contraindicated .
+After patients have taken VIAGRA , it is unknown when nitrates , if necessary , can be safely administered .
+Based on the pharmacokinetic profile of a single 100 mg oral dose given to healthy normal volunteers , the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng / mL ( compared to peak plasma levels of approximately 440 ng / mL ) ( see CLINICAL PHARMACOLOGY : Pharmacokinetics and Metabolism ) .
+In the following patients : age > 65 , hepatic impairment ( e . g . , cirrhosis ) , severe renal impairment ( e . g . , creatinine clearance less than 30 mL / min ) , and concomitant use of potent cytochrome P450 3A4 inhibitors ( erythromycin ) , plasma levels of sildenafil at 24 hours post dose have been found to be 3 to 8 times higher than those seen in healthy volunteers .
+Although plasma levels of sildenafil at 24 hours post dose are much lower than at peak concentration , it is unknown whether nitrates can be safely coadministered at this time point .
+VIAGRA is contraindicated in patients with a known hypersensitivity to any component of the tablet .
+WARNINGS There is a potential for cardiac risk of sexual activity in patients with preexisting cardiovascular disease .
+Therefore , treatments for erectile dysfunction , including VIAGRA , should not be generally used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status .
+VIAGRA has systemic vasodilatory properties that resulted in transient decreases in supine blood pressure in healthy volunteers ( mean maximum decrease of 8 . 4 / 5 . 5 mmHg ) , ( see CLINICAL PHARMACOLOGY : Pharmacodynamics ) .
+While this normally would be expected to be of little consequence in most patients , prior to prescribing VIAGRA , physicians should carefully consider whether their patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects , especially in combination with sexual activity .
+Patients with the following underlying conditions can be particularly sensitive to the actions of vasodilators including VIAGRA – those with left ventricular outflow obstruction ( e . g . aortic stenosis , idiopathic hypertrophic subaortic stenosis ) and those with severely impaired autonomic control of blood pressure .
+There is no controlled clinical data on the safety or efficacy of VIAGRA in the following groups ; if prescribed , this should be done with caution .
+• Patients who have suffered a myocardial infarction , stroke , or life - threatening arrhythmia within the last 6 months ; • Patients with resting hypotension ( BP less than 90 / 50 ) or hypertension ( BP greater than 170 / 110 ) ; • Patients with cardiac failure or coronary artery disease causing unstable angina ; • Patients with retinitis pigmentosa ( a minority of these patients have genetic disorders of retinal phosphodiesterases ) .
+Prolonged erection greater than 4 hours and priapism ( painful erections greater than 6 hours in duration ) have been reported infrequently since market approval of VIAGRA .
+In the event of an erection that persists longer than 4 hours , the patient should seek immediate medical assistance .
+If priapism is not treated immediately , penile tissue damage and permanent loss of potency could result .
+The concomitant administration of the protease inhibitor ritonavir substantially increases serum concentrations of sildenafil ( 11 - fold increase in AUC ) .
+If VIAGRA is prescribed to patients taking ritonavir , caution should be used .
+Data from subjects exposed to high systemic levels of sildenafil are limited .
+Visual disturbances occurred more commonly at higher levels of sildenafil exposure .
+Decreased blood pressure , syncope , and prolonged erection were reported in some healthy volunteers exposed to high doses of sildenafil ( 200 – 800 mg ) .
+To decrease the chance of adverse events in patients taking ritonavir , a decrease in sildenafil dosage is recommended ( see Drug Interactions , ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION ) .
+PRECAUTIONS General The evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following a complete medical assessment .
+Before prescribing VIAGRA , it is important to note the following : Caution is advised when Phosphodiesterase Type 5 ( PDE5 ) inhibitors are co - administered with alpha - blockers .
+PDE5 inhibitors , including VIAGRA , and alpha - adrenergic blocking agents are both vasodilators with blood pressure lowering effects .
+When vasodilators are used in combination , an additive effect on blood pressure may be anticipated .
+In some patients , concomitant use of these two drug classes can lower blood pressure significantly ( see Drug Interactions ) leading to symptomatic hypotension ( e . g . dizziness , lightheadedness , fainting ) .
+Consideration should be given to the following : - Patients should be stable on alpha - blocker therapy prior to initiating a PDE5 inhibitor .
+Patients who demonstrate hemodynamic instability on alpha - blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of PDE5 inhibitors .
+- In those patients who are stable on alpha - blocker therapy , PDE5 inhibitors should be initiated at the lowest dose .
+- In those patients already taking an optimized dose of a PDE5 inhibitor , alpha - blocker therapy should be initiated at the lowest dose .
+Stepwise increase in alpha - blocker dose may be associated with further lowering of blood pressure when taking a PDE5 inhibitor .
+- Safety of combined use of PDE5 inhibitors and alpha - blockers may be affected by other variables , including intravascular volume depletion and other anti - hypertensive drugs .
+Viagra has systemic vasodilatory properties and may augment the blood pressure lowering effect of other anti - hypertensive medications .
+Patients on multiple antihypertensive medications were included in the pivotal clinical trials for VIAGRA .
+In a separate drug interaction study , when amlodipine , 5 mg or 10 mg , and VIAGRA , 100 mg were orally administered concomitantly to hypertensive patients mean additional blood pressure reduction of 8 mmHg systolic and 7 mmHg diastolic were noted ( see Drug Interactions ) .
+The safety of VIAGRA is unknown in patients with bleeding disorders and patients with active peptic ulceration .
+VIAGRA should be used with caution in patients with anatomical deformation of the penis ( such as angulation , cavernosal fibrosis or Peyronie ' s disease ) , or in patients who have conditions which may predispose them to priapism ( such as sickle cell anemia , multiple myeloma , or leukemia ) .
+The safety and efficacy of combinations of VIAGRA with other treatments for erectile dysfunction have not been studied .
+Therefore , the use of such combinations is not recommended .
+In humans , VIAGRA has no effect on bleeding time when taken alone or with aspirin .
+In vitro studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside ( a nitric oxide donor ) .
+The combination of heparin and VIAGRA had an additive effect on bleeding time in the anesthetized rabbit , but this interaction has not been studied in humans .
+Information for Patients Physicians should discuss with patients the contraindication of VIAGRA with regular and / or intermittent use of organic nitrates .
+Physicians should advise patients of the potential for VIAGRA to augment the blood pressure lowering effect of alpha - blockers and anti - hypertensive medications .
+Concomitant administration of VIAGRA and an alpha - blocker may lead to symptomatic hypotension in some patients .
+Therefore , when VIAGRA is co - administered with alpha - blockers , patients should be stable on alpha - blocker therapy prior to initiating VIAGRA treatment and VIAGRA should be initiated at the lowest dose .
+Physicians should discuss with patients the potential cardiac risk of sexual activity in patients with preexisting cardiovascular risk factors .
+Patients who experience symptoms ( e . g . , angina pectoris , dizziness , nausea ) upon initiation of sexual activity should be advised to refrain from further activity and should discuss the episode with their physician .
+Physicians should advise patients to stop use of all PDE5 inhibitors , including VIAGRA , and seek medical attention in the event of a sudden loss of vision in one or both eyes .
+Such an event may be a sign of non - arteritic anterior ischemic optic neuropathy ( NAION ) , a cause of decreased vision including permanent loss of vision , that has been reported rarely post - marketing in temporal association with the use of all PDE5 inhibitors .
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors .
+Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye , including whether such individuals could be adversely affected by use of vasodilators , such as PDE5 inhibitors ( see POST - MARKETING EXPERIENCE / Special Senses ) .
+Physicians should advise patients to stop taking PDE5 inhibitors , including VIAGRA , and seek prompt medical attention in the event of sudden decrease or loss of hearing .
+These events , which may be accompanied by tinnitus and dizziness , have been reported in temporal association to the intake of PDE5 inhibitors , including VIAGRA .
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors ( see ADVERSE REACTIONS , CLINICAL TRIALS and POST - MARKETING EXPERIENCE ) .
+Physicians should warn patients that prolonged erections greater than 4 hours and priapism ( painful erections greater than 6 hours in duration ) have been reported infrequently since market approval of VIAGRA .
+In the event of an erection that persists longer than 4 hours , the patient should seek immediate medical assistance .
+If priapism is not treated immediately , penile tissue damage and permanent loss of potency may result .
+Physicians should inform patients not to take VIAGRA with other PDE5 inhibitors including REVATIO .
+Sildenafil is also marketed as REVATIO for the treatment of pulmonary arterial hypertension .
+The safety and efficacy of VIAGRA with other PDE5 inhibitors , including REVATIO , have not been studied .
+The use of VIAGRA offers no protection against sexually transmitted diseases .
+Counseling of patients about the protective measures necessary to guard against sexually transmitted diseases , including the Human Immunodeficiency Virus ( HIV ) , may be considered .
+Drug Interactions Effects of Other Drugs on VIAGRA In vitro studies Sildenafil metabolism is principally mediated by the cytochrome P450 ( CYP ) isoforms 3A4 ( major route ) and 2C9 ( minor route ) .
+Therefore , inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance .
+In vivo studies Cimetidine ( 800 mg ) , a nonspecific CYP inhibitor , caused a 56 % increase in plasma sildenafil concentrations when coadministered with VIAGRA ( 50 mg ) to healthy volunteers .
+When a single 100 mg dose of VIAGRA was administered with erythromycin , a specific CYP3A4 inhibitor , at steady state ( 500 mg bid for 5 days ) , there was a 182 % increase in sildenafil systemic exposure ( AUC ) .
+In addition , in a study performed in healthy male volunteers , coadministration of the HIV protease inhibitor saquinavir , also a CYP3A4 inhibitor , at steady state ( 1200 mg tid ) with VIAGRA ( 100 mg single dose ) resulted in a 140 % increase in sildenafil Cmax and a 210 % increase in sildenafil AUC .
+VIAGRA had no effect on saquinavir pharmacokinetics .
+Stronger CYP3A4 inhibitors such as ketoconazole or itraconazole would be expected to have still greater effects , and population data from patients in clinical trials did indicate a reduction in sildenafil clearance when it was coadministered with CYP3A4 inhibitors ( such as ketoconazole , erythromycin , or cimetidine ) ( see DOSAGE AND ADMINISTRATION ) .
+In another study in healthy male volunteers , coadministration with the HIV protease inhibitor ritonavir , which is a highly potent P450 inhibitor , at steady state ( 500 mg bid ) with VIAGRA ( 100 mg single dose ) resulted in a 300 % ( 4 - fold ) increase in sildenafil Cmax and a 1000 % ( 11 - fold ) increase in sildenafil plasma AUC .
+At 24 hours the plasma levels of sildenafil were still approximately 200 ng / mL , compared to approximately 5 ng / mL when sildenafil was dosed alone .
+This is consistent with ritonavir ' s marked effects on a broad range of P450 substrates .
+VIAGRA had no effect on ritonavir pharmacokinetics ( see DOSAGE AND ADMINISTRATION ) .
+Although the interaction between other protease inhibitors and sildenafil has not been studied , their concomitant use is expected to increase sildenafil levels .
+In a study of healthy male volunteers , co - administration of sildenafil at steady state ( 80 mg t . i . d . ) with endothelin receptor antagonist bosentan ( a moderate inducer of CYP3A4 , CYP2C9 and possibly of cytochrome P450 2C19 ) at steady state ( 125 mg b . i . d . ) resulted in a 63 % decrease of sildenafil AUC and a 55 % decrease in sildenafil Cmax .
+Concomitant administration of strong CYP3A4 inducers , such as rifampin , is expected to cause greater decreases in plasma levels of sildenafil .
+Single doses of antacid ( magnesium hydroxide / aluminum hydroxide ) did not affect the bioavailability of VIAGRA .
+Pharmacokinetic data from patients in clinical trials showed no effect on sildenafil pharmacokinetics of CYP2C9 inhibitors ( such as tolbutamide , warfarin ) , CYP2D6 inhibitors ( such as selective serotonin reuptake inhibitors , tricyclic antidepressants ) , thiazide and related diuretics , ACE inhibitors , and calcium channel blockers .
+The AUC of the active metabolite , N - desmethyl sildenafil , was increased 62 % by loop and potassium - sparing diuretics and 102 % by nonspecific beta - blockers .
+These effects on the metabolite are not expected to be of clinical consequence .
+Effects of VIAGRA on Other Drugs In vitro studies Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2 , 2C9 , 2C19 , 2D6 , 2E1 and 3A4 ( IC50 > 150 µM ) .
+Given sildenafil peak plasma concentrations of approximately 1 µM after recommended doses , it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes .
+In vivo studies Three double - blind , placebo - controlled , randomized , two - way crossover studies were conducted to assess the interaction of VIAGRA with doxazosin , an alpha - adrenergic blocking agent .
+In the first study , a single oral dose of VIAGRA 100 mg or matching placebo was administered in a 2 - period crossover design to 4 generally healthy males with benign prostatic hyperplasia ( BPH ) .
+Following at least 14 consecutive daily doses of doxazosin , VIAGRA 100 mg or matching placebo was administered simultaneously with doxazosin .
+Following a review of the data from these first 4 subjects ( details provided below ) , the VIAGRA dose was reduced to 25 mg .
+Thereafter , 17 subjects were treated with VIAGRA 25 mg or matching placebo in combination with doxazosin 4 mg ( 15 subjects ) or doxazosin 8 mg ( 2 subjects ) .
+The mean subject age was 66 . 5 years .
+For the 17 subjects who received VIAGRA 25 mg and matching placebo , the placebo - subtracted mean maximum decreases from baseline ( 95 % CI ) in systolic blood pressure were as follows : Placebo - subtracted mean maximum decrease in systolic blood pressure ( mm Hg ) VIAGRA 25 mg Supine 7 . 4 ( - 0 . 9 , 15 . 7 ) Standing 6 . 0 ( - 0 . 8 , 12 . 8 ) [ MULTIMEDIA ] Figure 5 : Mean Standing Systolic Blood Pressure Change from Baseline Blood pressure was measured immediately pre - dose and at 15 , 30 , 45 minutes , and 1 , 1 . 5 , 2 , 2 . 5 , 3 , 4 , 6 and 8 hours after VIAGRA or matching placebo .
+Outliers were defined as subjects with a standing systolic blood pressure of less than 85 mmHg or a decrease from baseline in standing systolic blood pressure of greater than 30 mmHg at one or more timepoints .
+There were no subjects treated with VIAGRA 25 mg who had a standing SBP less than 85 mmHg .
+There were three subjects with a decrease from baseline in standing systolic BP greater than 30 mmHg following VIAGRA 25 mg , one subject with a decrease from baseline in standing systolic BP greater than 30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP greater than 30 mmHg following both VIAGRA and placebo .
+No severe adverse events potentially related to blood pressure effects were reported in this group .
+Of the four subjects who received VIAGRA 100 mg in the first part of this study , a severe adverse event related to blood pressure effect was reported in one patient ( postural hypotension that began 35 minutes after dosing with VIAGRA with symptoms lasting for 8 hours ) , and mild adverse events potentially related to blood pressure effects were reported in two others ( dizziness , headache and fatigue at 1 hour after dosing ; and dizziness , lightheadedness and nausea at 4 hours after dosing ) .
+There were no reports of syncope among these patients .
+For these four subjects , the placebo - subtracted mean maximum decreases from baseline in supine and standing systolic blood pressures were 14 . 8 mmHg and 21 . 5 mmHg , respectively .
+Two of these subjects had a standing SBP less than 85 mmHg .
+Both of these subjects were protocol violators , one due to a low baseline standing SBP , and the other due to baseline orthostatic hypotension .
+In the second study , a single oral dose of VIAGRA 50 mg or matching placebo was administered in a 2 - period crossover design to 20 generally healthy males with BPH .
+Following at least 14 consecutive days of doxazosin , VIAGRA 50 mg or matching placebo was administered simultaneously with doxazosin 4 mg ( 17 subjects ) or with doxazosin 8 mg ( 3 subjects ) .
+The mean subject age in this study was 63 . 9 years .
+Twenty subjects received VIAGRA 50 mg , but only 19 subjects received matching placebo .
+One patient discontinued the study prematurely due to an adverse event of hypotension following dosing with VIAGRA 50 mg .
+This patient had been taking minoxidil , a potent vasodilator , during the study .
+For the 19 subjects who received both VIAGRA and matching placebo , the placebo - subtracted mean maximum decreases from baseline ( 95 % CI ) in systolic blood pressure were as follows : Placebo - subtracted mean maximum decrease in systolic blood pressure ( mm Hg ) VIAGRA 50 mg ( 95 % CI ) Supine 9 .
+8 ( 5 . 48 , 12 . 68 ) Standing 11 . 62 ( 7 . 34 , 15 . 90 ) [ MULTIMEDIA ] Figure 6 : Mean Standing Systolic Blood Pressure Change from Baseline Blood pressure was measured after administration of VIAGRA at the same times as those specified for the first doxazosin study .
+There were two subjects who had a standing SBP of less than 85 mmHg .
+In these two subjects , hypotension was reported as a moderately severe adverse event , beginning at approximately 1 hour after administration of VIAGRA 50 mg and resolving after approximately 7 . 5 hours .
+There was one subject with a decrease from baseline in standing systolic BP greater than 30 mmHg following VIAGRA 50 mg and one subject with a decrease from baseline in standing systolic BP greater than 30 mmHg following both VIAGRA 50 mg and placebo .
+There were no severe adverse events potentially related to blood pressure and no episodes of syncope reported in this study .
+In the third study , a single oral dose of VIAGRA 100 mg or matching placebo was administered in a 3 - period crossover design to 20 generally healthy males with BPH .
+In dose period 1 , subjects were administered open - label doxazosin and a single dose of VIAGRA 50 mg simultaneously , after at least 14 consecutive days of doxazosin .
+If a subject did not successfully complete this first dosing period , he was discontinued from the study .
+Subjects who had successfully completed the previous doxazosin interaction study ( using VIAGRA 50 mg ) , including no significant hemodynamic adverse events , were allowed to skip dose period 1 .
+Treatment with doxazosin continued for at least 7 days after dose period 1 .
+Thereafter , VIAGRA 100 mg or matching placebo was administered simultaneously with doxazosin 4 mg ( 14 subjects ) or doxazosin 8 mg ( 6 subjects ) in standard crossover fashion .
+The mean subject age in this study was 66 . 4 years .
+Twenty - five subjects were screened .
+Two were discontinued after study period 1 : one failed to meet pre - dose screening qualifications and the other experienced symptomatic hypotension as a moderately severe adverse event 30 minutes after dosing with open - label VIAGRA 50 mg .
+Of the twenty subjects who were ultimately assigned to treatment , a total of 13 subjects successfully completed dose period 1 , and seven had successfully completed the previous doxazosin study ( using VIAGRA 50 mg ) .
+For the 20 subjects who received VIAGRA 100 mg and matching placebo , the placebo - subtracted mean maximum decreases from baseline ( 95 % CI ) in systolic blood pressure were as follows : Placebo - subtracted mean maximum decrease in systolic blood pressure ( mm Hg ) VIAGRA 100 mg Supine 7 . 9 ( 4 . 6 , 11 . 1 ) Standing 4 . 3 ( - 1 . 8 , 10 . 3 ) [ MULTIMEDIA ] Figure 7 : Mean Standing Systolic Blood Pressure Change from Baseline Blood pressure was measured after administration of VIAGRA at the same times as those specified for the previous doxazosin studies .
+There were three subjects who had a standing SBP of less than 85 mmHg .
+All three were taking VIAGRA 100 mg , and all three reported mild adverse events at the time of reductions in standing SBP , including vasodilation and lightheadedness .
+There were four subjects with a decrease from baseline in standing systolic BP greater than 30 mmHg following VIAGRA 100 mg , one subject with a decrease from baseline in standing systolic BP greater than 30 mmHg following placebo and one subject with a decrease from baseline in standing systolic BP greater than 30 mmHg following both VIAGRA and placebo .
+While there were no severe adverse events potentially related to blood pressure reported in this study , one subject reported moderate vasodilatation after both VIAGRA 50 mg and 100 mg .
+There were no episodes of syncope reported in this study .
+When VIAGRA 100 mg oral was coadministered with amlodipine , 5 mg or 10 mg oral , to hypertensive patients , the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic .
+No significant interactions were shown with tolbutamide ( 250 mg ) or warfarin ( 40 mg ) , both of which are metabolized by CYP2C9 .
+VIAGRA ( 50 mg ) did not potentiate the increase in bleeding time caused by aspirin ( 150 mg ) .
+VIAGRA ( 50 mg ) did not potentiate the hypotensive effect of alcohol in healthy volunteers with mean maximum blood alcohol levels of 0 . 08 % .
+In a study of healthy male volunteers , sildenafil ( 100 mg ) did not affect the steady state pharmacokinetics of the HIV protease inhibitors , saquinavir and ritonavir , both of which are CYP3A4 substrates .
+Sildenafil at steady state ( 80 mg t . i . d . ) resulted in a 50 % increase in AUC and a 42 % increase in Cmax of bosentan ( 125 mg b . i . d . ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Sildenafil was not carcinogenic when administered to rats for 24 months at a dose resulting in total systemic drug exposure ( AUCs ) for unbound sildenafil and its major metabolite of 29 - and 42 - times , for male and female rats , respectively , the exposures observed in human males given the Maximum Recommended Human Dose ( MRHD ) of 100 mg .
+Sildenafil was not carcinogenic when administered to mice for 18 – 21 months at dosages up to the Maximum Tolerated Dose ( MTD ) of 10 mg / kg / day , approximately 0 . 6 times the MRHD on a mg / m2 basis .
+Sildenafil was negative in in vitro bacterial and Chinese hamster ovary cell assays to detect mutagenicity , and in vitro human lymphocytes and in vivo mouse micronucleus assays to detect clastogenicity .
+There was no impairment of fertility in rats given sildenafil up to 60 mg / kg / day for 36 days to females and 102 days to males , a dose producing an AUC value of more than 25 times the human male AUC .
+There was no effect on sperm motility or morphology after single 100 mg oral doses of VIAGRA in healthy volunteers .
+Pregnancy , Nursing Mothers and Pediatric Use VIAGRA is not indicated for use in newborns , children , or women .
+Pregnancy Category B No evidence of teratogenicity , embryotoxicity or fetotoxicity was observed in rats and rabbits which received up to 200 mg / kg / day during organogenesis .
+These doses represent , respectively , about 20 and 40 times the MRHD on a mg / m2 basis in a 50 kg subject .
+In the rat pre - and postnatal development study , the no observed adverse effect dose was 30 mg / kg / day given for 36 days .
+In the nonpregnant rat the AUC at this dose was about 20 times human AUC .
+There are no adequate and well - controlled studies of sildenafil in pregnant women .
+Geriatric Use Healthy elderly volunteers ( 65 years or over ) had a reduced clearance of sildenafil ( see CLINICAL PHARMACOLOGY : Pharmacokinetics in Special Populations ) .
+Since higher plasma levels may increase both the efficacy and incidence of adverse events , a starting dose of 25 mg should be considered ( see DOSAGE AND ADMINISTRATION ) .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] ADVERSE REACTIONS CLINICAL TRIALS VIAGRA was administered to over 3700 patients ( aged 19 – 87 years ) during pre - marketing clinical trials worldwide .
+Over 550 patients were treated for longer than one year .
+In placebo - controlled clinical studies , the discontinuation rate due to adverse events for VIAGRA ( 2 . 5 % ) was not significantly different from placebo ( 2 . 3 % ) .
+The adverse events were generally transient and mild to moderate in nature .
+In trials of all designs , adverse events reported by patients receiving VIAGRA were generally similar .
+In fixed - dose studies , the incidence of some adverse events increased with dose .
+The nature of the adverse events in flexible - dose studies , which more closely reflect the recommended dosage regimen , was similar to that for fixed - dose studies .
+When VIAGRA was taken as recommended ( on an as - needed basis ) in flexible - dose , placebo - controlled clinical trials , the following adverse events were reported : TABLE 2 .
+ADVERSE EVENTS REPORTED BY ≥ 2 % OF PATIENTS TREATED WITH VIAGRA AND MORE FREQUENT ON DRUG THAN PLACEBO IN PRN FLEXIBLE - DOSE PHASE II / III STUDIESAdverse Event Percentage of Patients VIAGRA N = 734 Reporting Event PLACEBO N = 725 Headache 16 % 4 % Flushing 10 % 1 % Dyspepsia 7 % 2 % Nasal Congestion 4 % 2 % Urinary Tract Infection 3 % 2 % Abnormal Vision * 3 % 0 % Diarrhea 3 % 1 % Dizziness 2 % 1 % Rash 2 % 1 % * Abnormal Vision : Mild and transient , predominantly color tinge to vision , but also increased sensitivity to light or blurred vision .
+In these studies , only one patient discontinued due to abnormal vision .
+Other adverse reactions occurred at a rate of greater than 2 % , but equally common on placebo : respiratory tract infection , back pain , flu syndrome , and arthralgia .
+In fixed - dose studies , dyspepsia ( 17 % ) and abnormal vision ( 11 % ) were more common at 100 mg than at lower doses .
+At doses above the recommended dose range , adverse events were similar to those detailed above but generally were reported more frequently .
+The following events occurred in less than 2 % of patients in controlled clinical trials ; a causal relationship to VIAGRA is uncertain .
+Reported events include those with a plausible relation to drug use ; omitted are minor events and reports too imprecise to be meaningful : Body as a whole : face edema , photosensitivity reaction , shock , asthenia , pain , chills , accidental fall , abdominal pain , allergic reaction , chest pain , accidental injury .
+Cardiovascular : angina pectoris , AV block , migraine , syncope , tachycardia , palpitation , hypotension , postural hypotension , myocardial ischemia , cerebral thrombosis , cardiac arrest , heart failure , abnormal electrocardiogram , cardiomyopathy .
+Digestive : vomiting , glossitis , colitis , dysphagia , gastritis , gastroenteritis , esophagitis , stomatitis , dry mouth , liver function tests abnormal , rectal hemorrhage , gingivitis .
+Hemic and Lymphatic : anemia and leukopenia .
+Metabolic and Nutritional : thirst , edema , gout , unstable diabetes , hyperglycemia , peripheral edema , hyperuricemia , hypoglycemic reaction , hypernatremia .
+Musculoskeletal : arthritis , arthrosis , myalgia , tendon rupture , tenosynovitis , bone pain , myasthenia , synovitis .
+Nervous : ataxia , hypertonia , neuralgia , neuropathy , paresthesia , tremor , vertigo , depression , insomnia , somnolence , abnormal dreams , reflexes decreased , hypesthesia .
+Respiratory : asthma , dyspnea , laryngitis , pharyngitis , sinusitis , bronchitis , sputum increased , cough increased .
+Skin and Appendages : urticaria , herpes simplex , pruritus , sweating , skin ulcer , contact dermatitis , exfoliative dermatitis .
+Special Senses : sudden decrease or loss of hearing , mydriasis , conjunctivitis , photophobia , tinnitus , eye pain , ear pain , eye hemorrhage , cataract , dry eyes .
+Urogenital : cystitis , nocturia , urinary frequency , breast enlargement , urinary incontinence , abnormal ejaculation , genital edema and anorgasmia .
+POST - MARKETING EXPERIENCE Cardiovascular and cerebrovascular Serious cardiovascular , cerebrovascular , and vascular events , including myocardial infarction , sudden cardiac death , ventricular arrhythmia , cerebrovascular hemorrhage , transient ischemic attack , hypertension , subarachnoid and intracerebral hemorrhages , and pulmonary hemorrhage have been reported post - marketing in temporal association with the use of VIAGRA .
+Most , but not all , of these patients had preexisting cardiovascular risk factors .
+Many of these events were reported to occur during or shortly after sexual activity , and a few were reported to occur shortly after the use of VIAGRA without sexual activity .
+Others were reported to have occurred hours to days after the use of VIAGRA and sexual activity .
+It is not possible to determine whether these events are related directly to VIAGRA , to sexual activity , to the patient ' s underlying cardiovascular disease , to a combination of these factors , or to other factors ( see WARNINGS for further important cardiovascular information ) .
+Special senses Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors , including VIAGRA .
+In some of the cases , medical conditions and other factors were reported that may have also played a role in the otologic adverse events .
+In many cases , medical follow - up information was limited .
+It is not possible to determine whether these reported events are related directly to the use of VIAGRA , to the patient ' s underlying risk factors for hearing loss , a combination of these factors , or to other factors ( see PRECAUTIONS , Information for Patients ) .
+Other events Other events reported post - marketing to have been observed in temporal association with VIAGRA and not listed in the clinical trial adverse reactions section above include : Nervous : seizure , seizure recurrence , anxiety , and transient global amnesia .
+Urogenital : prolonged erection , priapism ( see WARNINGS ) , and hematuria .
+Special Senses : diplopia , temporary vision loss / decreased vision , ocular redness or bloodshot appearance , ocular burning , ocular swelling / pressure , increased intraocular pressure , retinal vascular disease or bleeding , vitreous detachment / traction , paramacular edema and epistaxis .
+Non - arteritic anterior ischemic optic neuropathy ( NAION ) , a cause of decreased vision including permanent loss of vision , has been reported rarely post - marketing in temporal association with the use of phosphodiesterase type 5 ( PDE5 ) inhibitors , including VIAGRA .
+Most , but not all , of these patients had underlying anatomic or vascular risk factors for developing NAION , including but not necessarily limited to : low cup to disc ratio ( " crowded disc " ) , age over 50 , diabetes , hypertension , coronary artery disease , hyperlipidemia and smoking .
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors , to the patient ' s underlying vascular risk factors or anatomical defects , to a combination of these factors , or to other factors ( see PRECAUTIONS / Information for Patients ) .
+OVERDOSAGE In studies with healthy volunteers of single doses up to 800 mg , adverse events were similar to those seen at lower doses but incidence rates and severities were increased .
+In cases of overdose , standard supportive measures should be adopted as required .
+Renal dialysis is not expected to accelerate clearance as sildenafil is highly bound to plasma proteins and it is not eliminated in the urine .
+DOSAGE AND ADMINISTRATION For most patients , the recommended dose is 50 mg taken , as needed , approximately 1 hour before sexual activity .
+However , VIAGRA may be taken anywhere from 4 hours to 0 . 5 hour before sexual activity .
+Based on effectiveness and toleration , the dose may be increased to a maximum recommended dose of 100 mg or decreased to 25 mg .
+The maximum recommended dosing frequency is once per day .
+The following factors are associated with increased plasma levels of sildenafil : age greater than 65 ( 40 % increase in AUC ) , hepatic impairment ( e . g . , cirrhosis , 80 % ) , severe renal impairment ( creatinine clearance less than 30 mL / min , 100 % ) , and concomitant use of potent cytochrome P450 3A4 inhibitors [ ketoconazole , itraconazole , erythromycin ( 182 % ) , saquinavir ( 210 % ) ] .
+Since higher plasma levels may increase both the efficacy and incidence of adverse events , a starting dose of 25 mg should be considered in these patients .
+Ritonavir greatly increased the systemic level of sildenafil in a study of healthy , non - HIV infected volunteers ( 11 - fold increase in AUC , see Drug Interactions . )
+Based on these pharmacokinetic data , it is recommended not to exceed a maximum single dose of 25 mg of VIAGRA in a 48 hour period .
+VIAGRA was shown to potentiate the hypotensive effects of nitrates and its administration in patients who use nitric oxide donors or nitrates in any form is therefore contraindicated .
+When VIAGRA is co - administered with an alpha - blocker , patients should be stable on alpha - blocker therapy prior to initiating VIAGRA treatment and VIAGRA should be initiated at the lowest dose ( see Drug Interactions ) .
+HOW SUPPLIED VIAGRA ( sildenafil citrate ) is supplied as blue , film - coated , rounded - diamond - shaped tablets containing sildenafil citrate equivalent to the nominally indicated amount of sildenafil as follows : 50 mg 100 mg Obverse VGR50 VGR100 Reverse PFIZER PFIZER Bottle of 15 NDC 21695 - 157 - 15 NDC 548NA68 - 4706 - 0 Bottle of 30 21695 - 157 - 30 NDC 54868 - 4021695 - 158 - 30 NDC 54868 - 4706 - 5 Recommended Storage Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+Rx only [ MULTIMEDIA ] LAB - 0221 - 11 . 0 January 2010 [ MULTIMEDIA ] PATIENT SUMMARY OF INFORMATION ABOUT [ MULTIMEDIA ] This summary contains important information about VIAGRA ® .
+It is not meant to take the place of your doctor ' s instructions .
+Read this information carefully before you start taking VIAGRA .
+Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about VIAGRA .
+This medicine can help many men when it is used as prescribed by their doctors .
+However , VIAGRA is not for everyone .
+It is intended for use only by men who have a condition called erectile dysfunction .
+VIAGRA must never be used by men who are taking medicines that contain nitrates of any kind , at any time .
+This includes nitroglycerin .
+If you take VIAGRA with any nitrate medicine your blood pressure could suddenly drop to an unsafe or life threatening level .
+• WHAT IS VIAGRA ?
+VIAGRA is a pill used to treat erectile dysfunction ( impotence ) in men .
+It can help many men who have erectile dysfunction get and keep an erection when they become sexually excited ( stimulated ) .
+You will not get an erection just by taking this medicine .
+VIAGRA helps a man with erectile dysfunction get an erection only when he is sexually excited .
+• HOW SEX AFFECTS THE BODY When a man is sexually excited , the penis rapidly fills with more blood than usual .
+The penis then expands and hardens .
+This is called an erection .
+After the man is done having sex , this extra blood flows out of the penis back into the body .
+The erection goes away .
+If an erection lasts for a long time ( more than 6 hours ) , it can permanently damage your penis .
+You should call a doctor immediately if you ever have a prolonged erection that lasts more than 4 hours .
+Some conditions and medicines interfere with this natural erection process .
+The penis cannot fill with enough blood .
+The man cannot have an erection .
+This is called erectile dysfunction if it becomes a frequent problem .
+During sex , your heart works harder .
+Therefore sexual activity may not be advisable for people who have heart problems .
+Before you start any treatment for erectile dysfunction , ask your doctor if your heart is healthy enough to handle the extra strain of having sex .
+If you have chest pains , dizziness or nausea during sex , stop having sex and immediately tell your doctor you have had this problem .
+• HOW VIAGRA WORKS VIAGRA enables many men with erectile dysfunction to respond to sexual stimulation .
+When a man is sexually excited , VIAGRA helps the penis fill with enough blood to cause an erection .
+After sex is over , the erection goes away .
+• VIAGRA IS NOT FOR EVERYONE As noted above ( How Sex Affects the Body ) , ask your doctor if your heart is healthy enough for sexual activity .
+If you take any medicines that contain nitrates – either regularly or as needed – you should never take VIAGRA .
+If you take VIAGRA with any nitrate medicine or recreational drug containing nitrates , your blood pressure could suddenly drop to an unsafe level .
+You could get dizzy , faint , or even have a heart attack or stroke .
+Nitrates are found in many prescription medicines that are used to treat angina ( chest pain due to heart disease ) such as : • nitroglycerin ( sprays , ointments , skin patches or pastes , and tablets that are swallowed or dissolved in the mouth ) • isosorbide mononitrate and isosorbide dinitrate ( tablets that are swallowed , chewed , or dissolved in the mouth ) Nitrates are also found in recreational drugs such as amyl nitrate or nitrite ( " poppers " ) .
+If you are not sure if any of your medicines contain nitrates , or if you do not understand what nitrates are , ask your doctor or pharmacist .
+VIAGRA is only for patients with erectile dysfunction .
+VIAGRA is not for newborns , children , or women .
+Do not let anyone else take your VIAGRA .
+VIAGRA must be used only under a doctor ' s supervision .
+• WHAT VIAGRA DOES NOT DO • VIAGRA does not cure erectile dysfunction .
+It is a treatment for erectile dysfunction .
+• VIAGRA does not protect you or your partner from getting sexually transmitted diseases , including HIV — the virus that causes AIDS .
+• VIAGRA is not a hormone or an aphrodisiac .
+• WHAT TO TELL YOUR DOCTOR BEFORE YOU BEGIN VIAGRA Only your doctor can decide if VIAGRA is right for you .
+VIAGRA can cause mild , temporary lowering of your blood pressure .
+You will need to have a thorough medical exam to diagnose your erectile dysfunction and to find out if you can safely take VIAGRA alone or with your other medicines .
+Your doctor should determine if your heart is healthy enough to handle the extra strain of having sex .
+Be sure to tell your doctor if you : • have ever had any heart problems ( e . g . , angina , chest pain , heart failure , irregular heart beats , heart attack or narrowing of the aortic valve ) • have ever had a stroke • have low or high blood pressure • have ever had severe vision loss • have a rare inherited eye disease called retinitis pigmentosa • have ever had any kidney problems • have ever had any liver problems • have ever had any blood problems , including sickle cell anemia or leukemia • are allergic to sildenafil or any of the other ingredients of VIAGRA tablets • have a deformed penis , Peyronie ' s disease , or ever had an erection that lasted more than 4 hours • have stomach ulcers or any types of bleeding problems • are taking any other medicines • VIAGRA AND OTHER MEDICINES Some medicines can change the way VIAGRA works .
+Tell your doctor about any medicines you are taking .
+Do not start or stop taking any medicines before checking with your doctor or pharmacist .
+This includes prescription and nonprescription medicines or remedies : • Remember , VIAGRA should never be used with medicines that contain nitrates ( see VIAGRA Is Not for Everyone ) .
+• If you are taking medicines called alpha - blockers for the treatment of high blood pressure or prostate problems , your blood pressure could suddenly drop .
+You could get dizzy or faint .
+• If you are taking a protease inhibitor , your dose may be adjusted ( please see Finding the Right Dose for You ) .
+• VIAGRA should not be used with any other medical treatments that cause erections .
+These treatments include pills , medicines that are injected or inserted into the penis , implants or vacuum pumps .
+• VIAGRA contains sildenafil , which is the same medicine found in another drug called REVATIO .
+REVATIO is used to treat a rare disease called pulmonary arterial hypertension .
+VIAGRA should not be used with REVATIO .
+• FINDING THE RIGHT DOSE FOR YOU VIAGRA comes in different doses ( 25 mg , 50 mg and 100 mg ) .
+If you do not get the results you expect , talk with your doctor .
+You and your doctor can determine the dose that works best for you .
+• Do not take more VIAGRA than your doctor prescribes .
+• If you think you need a larger dose of VIAGRA , check with your doctor .
+• VIAGRA should not be taken more than once a day .
+Your doctor may prescribe a lower dose of VIAGRA in certain circumstances .
+For example : • If you are older than age 65 , or have serious liver or kidney problems , your doctor may start you at the lowest dose ( 25 mg ) of VIAGRA .
+• If you are taking protease inhibitors , such as for the treatment of HIV , your doctor may recommend a 25 mg dose and may limit you to a maximum single dose of 25 mg of VIAGRA in a 48 hour period .
+• If you have prostate problems or high blood pressure for which you take medicines called alpha blockers , your doctor may start you on a lower dose of VIAGRA .
+• HOW TO TAKE VIAGRA Take VIAGRA about one hour before you plan to have sex .
+Beginning in about 30 minutes and for up to 4 hours , VIAGRA can help you get an erection if you are sexually excited .
+If you take VIAGRA after a high - fat meal ( such as a cheeseburger and french fries ) , the medicine may take a little longer to start working .
+VIAGRA can help you get an erection when you are sexually excited .
+You will not get an erection just by taking the pill .
+• POSSIBLE SIDE EFFECTS Like all medicines , VIAGRA can cause some side effects .
+These effects are usually mild to moderate and usually do n't last longer than a few hours .
+Some of these side effects are more likely to occur with higher doses .
+The most common side effects of VIAGRA are headache , flushing of the face , and upset stomach .
+Less common side effects that may occur are temporary changes in color vision ( such as trouble telling the difference between blue and green objects or having a blue color tinge to them ) , eyes being more sensitive to light , or blurred vision .
+In rare instances , men taking PDE5 inhibitors ( oral erectile dysfunction medicines , including VIAGRA ) reported a sudden decrease or loss of vision in one or both eyes .
+It is not possible to determine whether these events are related directly to these medicines , to other factors such as high blood pressure or diabetes , or to a combination of these .
+If you experience sudden decrease or loss of vision , stop taking PDE5 inhibitors , including VIAGRA , and call a doctor right away .
+In rare instances , men have reported an erection that lasts many hours .
+You should call a doctor immediately if you ever have an erection that lasts more than 4 hours .
+If not treated right away , permanent damage to your penis could occur ( see How Sex Affects the Body ) .
+Sudden loss or decrease in hearing , sometimes with ringing in the ears and dizziness , has been rarely reported in people taking PDE5 inhibitors , including VIAGRA .
+It is not possible to determine whether these events are related directly to the PDE5 inhibitors , to other diseases or medications , to other factors , or to a combination of factors .
+If you experience these symptoms , stop taking VIAGRA and contact a doctor right away .
+Heart attack , stroke , irregular heart beats , and death have been reported rarely in men taking VIAGRA .
+Most , but not all , of these men had heart problems before taking this medicine .
+It is not possible to determine whether these events were directly related to VIAGRA .
+VIAGRA may cause other side effects besides those listed on this sheet .
+If you want more information or develop any side effects or symptoms you are concerned about , call your doctor .
+• ACCIDENTAL OVERDOSE In case of accidental overdose , call your doctor right away .
+• STORING VIAGRA Keep VIAGRA out of the reach of children .
+Keep VIAGRA in its original container .
+Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+• FOR MORE INFORMATION ON VIAGRA VIAGRA is a prescription medicine used to treat erectile dysfunction .
+Only your doctor can decide if it is right for you .
+This sheet is only a summary .
+If you have any questions or want more information about VIAGRA , talk with your doctor or pharmacist , visit www . viagra . com , or call 1 - 888 - 4 VIAGRA .
+[ MULTIMEDIA ] LAB - 0220 - 7 . 0 January 2010 Repackaged by ; Rebel Distributors Corp Thousand Oaks , CA 91320 [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ]

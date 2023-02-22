@@ -1,0 +1,184 @@
+WARNING : HIGH LEVEL RADIATION EXPOSURE WITH USE OF INCORRECT ELUENT AND FAILURE TO FOLLOW QUALITY CONTROL TESTING PROCEDURE High Level Radiation Exposure with Use of Incorrect Eluent Patients are exposed to high radiation levels when the generator is eluted with the incorrect eluent due to high Sr 82 and Sr 85 breakthrough levels [ see Warnings and Precautions ( 5 . 1 ) ] • Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator [ see Dosage and Administration ( 2 . 5 ) ] • Immediately stop the patient infusion and discontinue the use of the affected RUBY - FILL ( Rb 82 ) generator , if the incorrect solution is used to elute the generator [ see Contraindications ( 4 ) ] .
+• Evaluate the patient ’ s radiation absorbed dose and monitor for the effects of radiation to critical organs such as bone marrow [ ( see Dosage and Administration ( 2 . 9 ) ] .
+Excess Radiation Exposure with Failure to Follow Quality Control Testing Procedure Excess radiation exposure occurs when the levels of Sr 82 or Sr 85 in the rubidium Rb 82 chloride injection exceed specified limits [ see Warnings and Precautions ( 5 . 2 ) ] .
+• The system automatically generates a record and saves the data for each generator eluate volume , including flushing and test volumes .
+Total cumulative eluate volumes are also recorded and saved for the life of the generator [ see Dosage and Administration ( 2 . 5 ) ] .
+• Strictly adhere to the generator quality control testing procedure , to minimize the risk of excess radiation exposure , including daily testing and additional testing at Alert Limits [ see Dosage and Administration ( 2 . 6 ) ] • Stop use of a generator at any of the following Expiration Limits .
+Expiry Limits are : • o 30 L for the generator ' s cumulative eluate volume , or • o Expiration date of the generator ( 60 days post - calibration ) • o An eluate Sr 82 level of 0 . 01 mcCi / mCi ( kBq / MBq ) Rb 82 , or • o An eluate Sr 85 level of 0 . 1 mcCi / mCi ( kBq / MBq ) Rb 82 [ see Dosage and Administration ( 2 . 7 ) ] .
+WARNING : HIGH LEVEL RADIATION EXPOSURE WITH USE OF INCORRECT ELUENT AND FAILURE TO FOLLOW QUALITY CONTROL TESTING PROCEDURE Please see full prescribing information for complete boxed warning High Level Radiation Exposure with Use of Incorrect Eluent Using the incorrect eluent can cause high Strontium ( Sr 82 ) and ( Sr 85 ) breakthrough levels ( 5 . 1 ) • Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator ( 2 . 5 ) • Immediately stop the patient infusion and discontinue the use of the affected RUBY - FILL generator if the incorrect solution is used to elute the generator ( 4 ) • Evaluate the patient ’ s radiation absorbed dose and monitor for the effects of radiation to critical organs such as bone marrow ( 2 . 9 ) Excess Radiation Exposure with Failure to Follow the Quality Control Testing Procedure Excess - radiation exposure occurs when the levels of Sr 82 or Sr 85 in the Rubidium Rb 82 Chloride injection exceed specific limits .
+( 5 . 2 ) • Strictly adhere to the generator quality control testing procedure ( 2 . 6 ) • Stop using the generator if it reaches any of its Expiration Limit ( 2 . 7 ) 1 INDICATIONS AND USAGE RUBY - FILL is a closed system used to produce rubidium Rb 82 chloride injection for intravenous administration .
+Rubidium Rb 82 chloride injection is indicated for Positron Emission Tomography ( PET ) imaging of the myocardium under rest or pharmacologic stress conditions to evaluate regional myocardial perfusion in adult patients with suspected or existing coronary artery disease .
+RUBY - FILL is a closed system used to produce rubidium Rb 82 chloride injection for intravenous use .
+Rubidium Rb 82 chloride injection is a radioactive diagnostic agent indicated for Positron Emission Tomography ( PET ) imaging of the myocardium under rest or pharmacologic stress conditions to evaluate regional myocardial perfusion in adult patients with suspected or existing coronary artery disease .
+( 1 ) 2 DOSAGE AND ADMINISTRATION Use RUBY - FILL with a specific Elution System .
+( 2 . 4 ) • Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator .
+( 2 . 5 ) • The recommended weight - based dose of rubidium Rb 82 is between 10 to 30 Megabecquerels ( MBq ) / kg [ 0 . 27 to 0 . 81 millicuries ( mCi ) / kg ] .
+( 2 . 2 ) • Do not exceed a single dose of 2220 MBq ( 60 mCi ) per rest or stress component of a procedure .
+( 2 . 2 ) • Administer the single dose at a rate of 15 to 30 mL / minute through a catheter inserted into a large peripheral vein ; do not exceed an infusion volume of 60 mL .
+( 2 . 2 ) • Use the lowest dose necessary to obtain adequate cardiac visualization and individualize the dose depending on multiple factors , including , patient weight , imaging equipment and acquisition type used to perform the procedure .
+( 2 . 2 ) • Start imaging acquisition 60 to 90 seconds after completion of the infusion ; if a longer circulation time is anticipated , wait for 120 seconds .
+Acquisition may be started immediately post - injection if dynamic imaging is needed .
+Image acquisition is typically 3 to 7 minutes long .
+( 2 . 3 ) • To obtain rest and stress images , wait 10 minutes after completion of the rest image acquisition then administer the pharmacologic stress agent in accordance with its prescribing information .
+After administration of the pharmacologic stress agent , infuse the second dose of Rb 82 , at the time interval according to the prescribing information of the pharmacological stress agent and complete the stress image acquisition .
+( 2 . 3 ) 2 . 1 Radiation Safety - Drug Handling Rubidium Rb 82 is a radioactive drug and should be handled with appropriate safety measures to minimize radiation exposure during administration [ see Warnings and Precautions ( 5 . 3 ] ) .
+• Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator [ see Boxed Warning , Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 ) ] .
+• Use waterproof gloves and effective shielding when handling rubidium Rb 82 chloride injection and the RUBY Rubidium Elution System .
+• Use aseptic techniques in all drug handling .
+• Visually inspect the drug for particulate matter and discoloration prior to administration whenever solution and container permit .
+Do not administer eluate from the generator if there is any evidence of foreign matter .
+2 . 2 Recommended Dose and Administration Instructions • The recommended weight - based dose of rubidium Rb 82 chloride to be administered per rest or stress component of a PET myocardial perfusion imaging ( MPI ) procedure is between 10 to 30 Megabecquerels ( MBq ) / kg [ 0 . 27 to 0 . 81 millicuries ( mCi ) / kg ] .
+• Do not exceed a single dose of 2220 MBq ( 60 mCi ) .
+• Use the lowest dose necessary to obtain adequate cardiac visualization and individualize the weight - based dose depending on multiple factors , including , patient weight , imaging equipment and acquisition type used to perform the procedure .
+For example , 3 D imaging acquisition may require doses at the lower end of the recommended range compared to 2 D imaging .
+• Administer the single dose at a rate of 15 to 30 mL / minute through a catheter inserted into a large peripheral vein ; do not exceed an infusion volume of 60 mL .
+• Instruct patients to void as soon as a study is completed and as often as possible thereafter for at least one hour .
+• The maximum available activity ( delivery limit ) will decrease as the generator ages [ see Dosage and Administration ( 2 . 8 ) ] .
+2 . 3 Image Acquisition Guidelines For Rest Imaging : • Administer a single ( “ rest ” ) rubidium Rb 82 chloride dose ; • Start imaging 60 to 90 seconds after completion of the infusion of the rest dose and acquire images for 3 to 7 minutes .
+For Stress Imaging : • Begin the study 10 minutes after completion of the resting dose infusion , to allow for sufficient Rb 82 decay ; • Administer a pharmacologic stress agent in accordance with its prescribing information ; • After administration of the pharmacologic stress agent , administer the second dose of Rb 82 at the time interval according to the prescribing information of the pharmacological stress agent ; • Start imaging 60 to 90 seconds after completion of the stress rubidium Rb 82 chloride dose infusion and acquire images for 3 to 7 minutes .
+For Both Rest and Stress Imaging : • If a longer circulation time is anticipated ( e . g . , in a patient with severe left ventricular dysfunction ) , start imaging 120 seconds after the rest dose .
+• Acquisition may be started immediately post - injection if dynamic imaging is needed .
+2 . 4 Elution System • Use RUBY - FILL Rubidium Rb 82 Generator only with an elution system specifically designed for use with the generator ( RUBY Rubidium Elution System ) and capable of accurate measurement and delivery of doses of rubidium Rb 82 chloride injection .
+• The generator used with the elution system provides ± 10 % accuracy for rubidium Rb 82 chloride doses between 370 to 2220 MBq ( 10 to 60 mCi ) • Follow instructions in the RUBY Rubidium Elution System User Manual for the set up and intravenous infusion of rubidium Rb 82 chloride injection dose .
+2 . 5 Directions for Eluting Rubidium Rb 82 Chloride Injection • Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator [ see Boxed Warning , Contraindications ( 4 ) and Warnings and Precautions ( 5 . 1 ) ] .
+• Prepare the 0 . 9 % Sodium Chloride Injection USP for use with the Saline Confirmation Label • Affix the saline confirmation label provided with the RUBY Rubidium Elution System on the clear side of the additive - free 0 . 9 % Sodium Chloride Injection USP bag and install on the RUBY Rubidium Elution System .
+• Prepare the intravenous administration port in accordance with the DOSAGE AND ADMINISTRATION section of the approved prescribing information of the 0 . 9 % Sodium Chloride Injection USP .
+• The port of the sodium chloride bag must be penetrated only one time .
+• Once the bag port is penetrated , it should remain installed on the RUBY Rubidium Elution System for its entire period of use .
+A maximum use time of 12 hours from the initial port penetration is permitted .
+• Before the next patient , replace the saline bag as part of the mandatory daily quality control procedure .
+• Allow at least 10 minutes between elutions for regeneration of Rb 82 .
+• The system will automatically discard the first 75 mL eluate each day the generator is first eluted .
+• The RUBY Rubidium Elution System automatically generates records and saves data of all eluate volumes ( from flushing , QC testing , patient infusions ) , representing the cumulative volume of eluate from the generator .
+2 . 6 Quality Control Testing Procedure • Elute with additive - free 0 . 9 % Sodium Chloride Injection USP only .
+[ see Boxed Warning , Contraindications ( 4 ) and Warnings and Precautions ( 5 . 1 ) ] .
+• Replace the saline bag daily as part of the mandatory daily quality control procedure .
+• Use the ionization chamber - type dose calibrator with the elution system ( used specifically with the RUBY - FILL Rubidium Rb 82 Generator ) for eluate testing .
+• Perform Mandatory Eluate Testing ( i . e . Quality Control Testing Procedure ) to determine Rb 82 , Sr 82 , and Sr 85 levels : • Daily - Before administering rubidium Rb 82 chloride injection to the first patient each day .
+• Repeat Every 4 patients after an Alert Limit has been detected .
+Alert Limits : • 20 L total elution volume has passed through the generator column , or • Sr 82 level reaches 0 . 004 mcCi per mCi ( kBq per MBq ) Rb 82 , or • Sr 85 level reaches 0 . 04 mcCi per mCi ( kBq per MBq ) Rb 82 .
+• Immediately after detection of the volume alert limit ( 20 L ) .
+• The elution system will automatically indicate when alert limits have been reached and require that additional tests be performed .
+When the Quality Control Testing Procedure is performed as described in the User Manual , the system automatically performs the following eluate testing : Rubidium Eluate Testing : • The dose calibrator is automatically set for Rb 82 within the Elution System .
+• The Quality Control test begins by automatically initiating a generator flush using 75 mL of 0 . 9 % Sodium Chloride Injection USP .
+This eluate is by default diverted towards the waste container and is ultimately discarded .
+• After the generator flush , the system waits approximately 15 . 2 minutes to accomplish a complete generator recharge of 12 Rb 82 half - lives • The system then elutes a calibration sample ( 35 mL of 0 . 9 % Sodium Chloride Injection USP at 20 mL / min ) .
+Using the dose calibrator , the system automatically quantifies the activity of Rb 82 in the calibration sample ( Rb 82 decay does not need to be corrected for because of a real - time automated measurement ) .
+Strontium Eluate Testing ( Strontium Breakthrough ) : • Using the calibration sample obtained from the Rb 82 eluate testing , the system allows the sample to stand for 30 minutes to allow for the complete decay of Rb 82 .
+• The system measures the activity of the sample to automatically determine the total Sr 82 and Sr 85 activity .
+• The system automatically determines the ratio ( R ) on the day ( post calibration ) of the measurement using the ratio of Sr 85 / Sr 82 on the day of calibration provided on the generator label and the Sr 85 / Sr 82 ratio factor from the Sr 85 / Sr 82 ratio based on generator age using the following equation : [ MULTIMEDIA ] 4 .
+The system uses a correction factor ( F ) of 0 . 48 to compensate for the contribution of Sr 85 to the reading .
+5 .
+The system calculates the amount of Sr 82 in the sample using the following equation : [ MULTIMEDIA ] 6 .
+The system determines if Sr 82 in the eluate exceeds an Alert or Expiration Limit by dividing the mcCi ( or kBq ) of Sr 82 by the mCi ( or MBq ) of Rb 82 at End of Elution ( see below for further instructions based on the Sr 82 level ) [ MULTIMEDIA ] 7 .
+The system determines if Sr 85 in the eluate exceeds an Alert or Expiration Limit by multiplying the result obtained in step 6 by ( R ) as calculated in step 3 ( above ) .
+[ MULTIMEDIA ] The system uses Table 1 to calculate the decay factor for Rb 82 TABLE 1 Physical Decay Chart : Rb 82 half - life 75 seconds Seconds Fraction Remaining Seconds Fraction Remaining 0 * 1 . 00 165 0 . 218 15 0 . 871 180 0 . 190 30 0 . 758 195 0 . 165 45 0 . 660 210 0 . 144 60 0 . 574 225 0 . 125 75 0 . 500 240 0 . 109 90 0 . 435 255 0 . 095 105 0 . 379 270 0 . 083 120 0 . 330 285 0 . 072 135 0 . 287 300 0 . 063 150 0 . 250 * Elution time The system uses Table 2 to calculate the ratio ( R ) of Sr 85 / Sr 82 .
+TABLE 2 Sr 85 / Sr 82 Ratio Chart ( Sr 85 T1 / 2 = 65 days , Sr 82 T1 / 2 = 25 days ) Days RatioFactor Days Ratio Factor Days Ratio Factor 0 * 1 . 00 21 1 . 43 42 2 . 05 1 1 . 02 22 1 . 46 43 2 . 08 2 1 . 03 23 1 . 48 44 2 . 12 3 1 . 05 24 1 . 51 45 2 . 15 4 1 . 07 25 1 . 53 46 2 . 19 5 1 . 09 26 1 . 56 47 2 . 23 6 1 . 11 27 1 . 58 48 2 . 27 7 1 . 13 28 1 . 61 49 2 . 30 8 1 . 15 29 1 . 64 50 2 . 34 9 1 . 17 30 1 . 67 51 2 . 38 10 1 . 19 31 1 . 70 52 2 . 43 11 1 . 21 32 1 . 73 53 2 . 47 12 1 . 23 33 1 . 76 54 2 . 51 13 1 . 25 34 1 . 79 55 2 . 55 14 1 . 27 35 1 . 82 56 2 . 60 15 1 . 29 36 1 . 85 57 2 . 64 16 1 . 31 37 1 . 88 58 2 . 69 17 1 . 34 38 1 . 91 59 2 . 73 18 1 . 36 39 1 . 95 60 2 . 78 19 1 . 38 40 1 . 98 20 1 . 41 41 2 . 01 * Day of Calibration .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 2 . 7 RUBY - FILL Expiration Stop use of the RUBY - FILL Rubidium Rb 82 Generator once any one of the following Expiration Limits is reached : • A total elution volume of 30 L has passed through the generator column , or • Expiration date of the generator ( 60 days post - calibration ) , or • An eluate Sr 82 level of 0 . 01 mcCi / mCi ( kBq / MBq ) Rb 82 , or • An eluate Sr 85 level of 0 . 1 mcCi / mCi ( kBq / MBq ) Rb 82 .
+2 . 8 RUBY - FILL Dose Delivery Limit The maximum available activity ( delivery limit ) will decrease as the generator ages .
+Certain doses , including the maximum recommended dose [ 60 mCi ( 2220 MBq ) ] , are not achievable for the entire shelf - life of the generator .
+Table 3 provides an estimate of the maximum available activity of Rubidium Rb 82 ( Delivery Limit ) as a function of generator age .
+TABLE 3 Rubidium Rb 82 Dose Delivery Limit Based on Generator Age1Generator Age ( days ) 2 Maximum Rubidium Dose ( Delivery Limit ) 0 to 17 60 mCi ( 2220 MBq ) 24 50 mCi ( 1850 MBq ) 32 40 mCi ( 1480 MBq ) 42 30 mCi ( 1110 MBq ) 57 20 mCi ( 740 MBq ) 1 Estimate is based on a 100 mCi ( 3700 MBq ) Sr 82 generator at calibration .
+2 Generator age at which delivery limit is reached varies with generator activity at release .
+For example , an 85 mCi ( 3145 MBq ) generator and a 115 mCi ( 4255 MBq ) generator will reach a delivery limit < 60 mCi at ≥ 12 days and ≥ 23 days , respectively .
+2 . 9 Radiation Dosimetry The estimated radiation absorbed dose coefficients for Rb 82 , Sr 82 , and Sr 85 from an intravenous injection of rubidium Rb 82 chloride are shown in Table 4 .
+TABLE 4 Adult absorbed dose per radioisotope activity associated with injection Organ 82Rb1 ( mcGy / MBq ) 82Sr2 ( mcGy / kBq ) 85Sr2 ( mcGy / kBq ) Adrenals 2 . 4 2 . 9 1 . 4 Bone surfaces 0 . 42 29 2 . 7 Brain 0 . 14 2 . 2 0 . 8 Breast 0 . 19 1 . 9 0 . 5 Gallbladder wall 0 . 72 2 . 3 0 . 8 Gastrointestinal tract Esophagus3 1 . 5 2 . 1 0 . 6 Stomach wall 0 . 83 2 . 1 0 . 6 Small intestine wall 2 . 0 2 . 6 1 . 1 Colon wall 1 . 1 9 . 7 1 . 2 ( ULI wall ) 1 . 1 6 . 4 1 . 0 ( LLI wall ) 1 . 1 14 1 . 4 Heart wall 4 . 0 2 . 2 0 . 7 Kidneys 9 . 3 2 . 5 0 . 7 Liver 1 . 0 2 . 2 0 . 7 Lungs 2 . 6 2 . 2 0 . 8 Muscles 0 . 23 2 . 2 0 . 7 Ovaries 0 . 50 2 . 8 1 . 2 Pancreas 2 . 6 2 . 5 0 . 9 Red marrow 0 . 38 25 2 . 7 Skin 0 . 18 1 . 9 0 . 5 Spleen 0 . 18 2 . 2 0 . 7 Testes 0 . 26 2 . 0 0 . 5 Thymus 1 . 5 2 . 1 0 . 6 Thyroid 0 . 31 2 . 2 0 . 7 Urinary bladder wall 0 . 18 5 . 9 0 . 8 Uterus 1 . 0 2 . 5 0 . 9 Remaining organs 0 . 31 - - Effective dose per unit activity 1 . 1 mcSv / MBq 6 . 3 mcSv / kBq 1 . 1 mcSv / kBq 1 Rb 82 doses are averages of rest and stress dosimetry data .
+To calculate organ doses ( mcGy ) from Rb 82 , multiply the dose coefficient for each organ by the administered activity in MBq .
+2 To calculate organ doses attributable to Sr 82 and Sr 85 , multiply those dose coefficients by the respective strontium activities associated with the injection .
+3 The absorbed dose to the thymus is used as a substitute .
+3 DOSAGE FORMS AND STRENGTHS RUBY - FILL is a closed system used to produce rubidium Rb 82 chloride injection for intravenous use .
+RUBY - FILL consists of Sr 82 adsorbed on a hydrous stannic oxide column with an activity of 3145 to 4255 MBq ( 85 to 115 mCi ) Sr 82 at calibration time .
+RUBY - FILL consists of Sr 82 adsorbed on a hydrous stannic oxide column with an activity of 3145 to 4255 MBq ( 85 to 115 mCi ) Sr 82 at calibration time .
+( 3 ) 4 CONTRAINDICATIONS RUBY - FILL is contraindicated for use if a solution other than additive - free 0 . 9 % Sodium Chloride Injection USP has been used to elute the generator at any time .
+Immediately stop the patient infusion and permanently discontinue the use of the affected RUBY - FILL generator whenever the incorrect eluent is used [ see Boxed Warning , Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 ) ] .
+RUBY - FILL is contraindicated if a solution other than additive - free 0 . 9 % Sodium Chloride Injection USP has been used to elute the generator at any time .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Pharmacologic induction of cardiovascular stress : May be associated with serious adverse reactions such as myocardial infarction , arrhythmia , hypotension , bronchoconstriction , and cerebrovascular events .
+Perform testing only in setting where cardiac resuscitation equipment and trained staff are readily available .
+( 5 . 3 ) 5 . 1 High Level Radiation Exposure with Use of Incorrect Eluent Use only additive - free 0 . 9 % Sodium Chloride Injection USP to elute the generator .
+Apply the provided saline confirmation label to the additive - free 0 . 9 % Sodium Chloride Injection USP bag before use .
+Additives present in other solutions ( particularly calcium ions ) expose patients to high levels of radiation by causing the release of large amounts of Sr 82 and Sr 85 into the eluate regardless of the generator ’ s age or prior use [ Dosage and Administration ( 2 . 1 , 2 . 5 , 2 . 6 ) ] .
+Immediately stop the patient infusion and discontinue use of the affected RUBY - FILL generator if the incorrect eluent is used and evaluate the patient ’ s radiation absorbed dose and monitor for the effects of radiation to critical organs such as bone marrow .
+When solutions containing calcium ions are used to elute the generator , high levels of radioactivity are present in the eluate , even with the subsequent use of additive - free 0 . 9 % Sodium Chloride Injection USP [ see Boxed Warning , Dosage and Administration ( 2 . 9 ) , and Contraindications ( 4 ) ] .
+5 . 2 Excess Radiation Exposure with Failure to Follow the Quality Control Testing Procedure Excess radiation exposure occurs when the Sr 82 and Sr 85 levels in rubidium Rb 82 chloride injections exceed the specified generator eluate limits .
+Strictly adhere to the quality control testing procedure to minimize radiation exposure to the patient .
+Stop using the rubidium generator when the expiration limits are reached [ see Dosage and Administration ( 2 . 6 ) and ( 2 . 7 ) ] .
+5 . 3 Risks Associated with Pharmacologic Stress Pharmacologic induction of cardiovascular stress may be associated with serious adverse reactions such as myocardial infarction , arrhythmia , hypotension , bronchoconstriction , and cerebrovascular events .
+Perform pharmacologic stress testing in accordance with the pharmacologic stress agent ’ s prescribing information and only in the setting where cardiac resuscitation equipment and trained staff are readily available .
+5 . 4 Radiation Risks RUBY - FILL use contributes to a patient ’ s overall long - term cumulative radiation exposure .
+Long - term cumulative radiation exposure is associated with an increased risk for cancer .
+Ensure safe handling to minimize radiation exposure to the patient and health care providers .
+Encourage patients to void as soon as a study is completed and as often as possible thereafter for at least one hour [ see Dosage and Administration ( 2 . 1 ) and ( 2 . 2 ) ] .
+6 ADVERSE REACTIONS To report SUSPECTED ADVERSE REACTIONS , contact Jubilant DraxImage Inc . , dba Jubilant RadiopharmaTM at 1 - 888 - 633 - 5343 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+The following serious adverse reaction associated with the use of rubidium Rb 82 chloride was identified in clinical trials or post marketing reports .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Radiation Exposure High level radiation exposure to the bone marrow has occurred in some patients due to Sr 82 and Sr 85 breakthrough in the eluate when an incorrect solution was used to elute the rubidium Rb 82 generator [ see Boxed Warning , Warnings and Precautions ( 5 . 1 ) ] .
+Excess radiation exposure has occurred in some patients who received rubidium Rb 82 chloride injection at clinical sites where generator eluate testing appeared insufficient [ see Boxed Warning , Warnings and Precautions ( 5 . 2 ) , Dosage and Administration ( 2 . 6 ) ] .
+8 USE IN SPECIFIC POPULATIONS • Lactation : Do not resume breastfeeding until at least one hour after completion of RUBY - FILL infusion .
+( 8 . 2 ) 8 . 1 Pregnancy Risk Summary There are no data available on the use of rubidium Rb 82 in pregnant women .
+Animal reproduction studies with rubidium Rb 82 chloride have not been conducted .
+However , all radiopharmaceuticals have the potential to cause fetal harm depending on the fetal stage of development and the magnitude of the radiation dose .
+If considering rubidium Rb 82 chloride injection administration to a pregnant woman , inform the patient about the potential for adverse pregnancy outcomes based on the radiation dose from Rb 82 and the gestational timing of exposure .
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4 % and 15 to 20 % , respectively .
+8 . 2 Lactation Risk Summary There is no information regarding the presence of Rb 82 chloride in human milk , the effects on the breastfed infant or the effects on milk production .
+Due to the short half - life of Rb 82 chloride ( 75 seconds ) , exposure of a breast fed infant through breast milk can be minimized by temporary discontinuation of breastfeeding [ See Clinical Considerations ] .
+The developmental and health benefits of breastfeeding should be considered along with the mother ’ s clinical need for Rb 82 , any potential adverse effects on the breastfed child from Rb 82 or from the underlying maternal condition .
+Clinical Considerations Minimizing Exposure Exposure to Rb 82 chloride through breast milk can be minimized if breastfeeding is discontinued when Rb 82 chloride injection is administered .
+Do not resume breastfeeding until at least one hour after completion of RUBY - FILL infusion .
+8 . 4 Pediatric Use The safety and effectiveness of rubidium Rb 82 chloride injection in pediatric patients have not been established .
+8 . 5 Geriatric Use In elderly patients with a clinically important decrease in cardiac function , lengthen the delay between infusion and image acquisition [ see Dosage and Administration ( 2 . 3 ) ] .
+Observe for the possibility of fluid overload from the infusion .
+11 DESCRIPTION 11 . 1 Chemical Characteristics RUBY - FILL Rubidium Rb 82 Generator contains accelerator - produced Sr 82 adsorbed on stannic oxide in a lead - shielded column and provides a means for obtaining sterile non - pyrogenic solutions of rubidium Rb 82 chloride injection .
+The chemical form of Rb 82 is 82 RbCl .
+The amount ( mCi ) of Rb 82 obtained in each elution will depend on the potency of the generator .
+When used with the RUBY Rubidium Elution System , the generator provides ± 10 % accuracy for rubidium Rb 82 chloride doses between 370 to 2220 MBq ( 10 to 60 mCi ) .
+When eluted at a rate of 15 to 30 mL / minute , each generator eluate at the end of elution should not contain more than 0 . 02 mcCi ( 0 . 74 kBq ) of Sr 82 and not more than 0 . 2 mcCi ( 7 . 4 kBq ) of Sr 85 per mCi of rubidium Rb 82 chloride injection , and not more than 1 mcg of tin per mL of eluate .
+11 . 2 Physical Characteristics Rb 82 decays by positron emission and associated gamma emission with a physical half - life of 75 seconds .
+Table 5 shows the annihilation photons released following positron emission which are useful for detection and imaging studies .
+The decay modes of Rb 82 are : 95 . 5 % by positron emission , resulting in the production of annihilation radiation , i . e . , two 511 keV gamma rays ; and 4 . 5 % by electron capture , resulting in the emission of “ prompt ” gamma rays of predominantly 776 . 5 keV .
+Both decay modes lead directly to the formation of stable Kr 82 .
+TABLE 5 Principal Radiation Emission Data Radiation Mean Percent Per Disintegration Mean Energy ( keV ) Annihilation photons ( 2 ) 191 . 01 511 ( each ) Gamma rays 13 to 15 776 . 5 The specific gamma ray constant for Rb 82 is 6 . 33 R cm2 / mCi h ( 1 . 23 × 10 - 12 C m2 / kg MBq s ) .
+The first half - value layer is 0 . 53 cm of lead ( Pb ) .
+Table 6 shows a range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb .
+For example , the use of a 6 . 15 cm thickness of Pb will attenuate the radiation emitted by a factor of about 1 , 000 .
+TABLE 6 Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) cm Attenuation Factor 0 . 53 0 . 5 1 . 68 10 - 1 3 . 55 10 - 2 6 . 15 10 - 3 9 . 3 10 - 4 Sr 82 ( half - life of 25 days ; 600 hrs . )
+decays to Rb 82 .
+To correct for physical decay of Sr 82 , Table 7 shows the fractions that remain at selected intervals after the time of calibration .
+TABLE 7 Physical Decay Chart : Sr 82 half - life 25 days Days Fraction Remaining Days Fraction Remaining Days Fraction Remaining 0 * 1 . 000 21 0 . 559 41 0 . 321 1 0 . 973 22 0 . 543 42 0 . 312 2 0 . 946 23 0 . 529 43 0 . 304 3 0 . 920 24 0 . 514 44 0 . 295 4 0 . 895 25 0 . 500 45 0 . 287 5 0 . 871 26 0 . 486 46 0 . 279 6 0 . 847 27 0 . 473 47 0 . 272 7 0 . 824 28 0 . 460 48 0 . 264 8 0 . 801 29 0 . 448 49 0 . 257 9 0 . 779 30 0 . 435 50 0 . 250 10 0 . 758 31 0 . 423 51 0 . 243 11 0 . 737 32 0 . 412 52 0 . 237 12 0 . 717 33 0 . 401 53 0 . 230 13 0 . 697 34 0 . 390 54 0 . 224 14 0 . 678 35 0 . 379 55 0 . 218 15 0 . 660 36 0 . 369 56 0 . 212 16 0 . 642 37 0 . 358 57 0 . 206 17 0 . 624 38 0 . 349 58 0 . 200 18 0 . 607 39 0 . 339 59 0 . 195 19 0 . 591 40 0 . 330 60 0 . 189 20 0 . 574 * Calibration time To correct for physical decay of Rb 82 , Table 1 shows the fraction of Rb 82 remaining in all 15 second intervals up to 300 seconds after time of calibration [ see Dosage and Administration ( 2 . 6 ) ] .
+12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Rb 82 is analogous to potassium ion ( K + ) in its biochemical behavior and is rapidly extracted by the myocardium proportional to the blood flow .
+Rb + participates in the sodium - potassium ( Na + / K + ) ion exchange pumps that are present in cell membranes .
+The intracellular uptake of Rb 82 requires maintenance of ionic gradient across cell membranes .
+Rb 82 radioactivity in viable myocardium is higher than in infarcted tissue , reflecting intracellular retention .
+12 . 2 Pharmacodynamics In human studies , myocardial activity was noted within the first minute after peripheral intravenous injection of Rb 82 .
+When areas of infarction or ischemia are present in the myocardium , they are visualized within 2 to 7 minutes after injection as photon - deficient , or “ cold ” , areas on the myocardial perfusion scan .
+In patients with reduced cardiac function , transit of the injected dose from the peripheral infusion site to the myocardium may be delayed .
+Blood flow brings Rb 82 to all areas of the body during the first pass of circulation .
+Accordingly , visible uptake is observed in highly vascularized organs , such as the kidneys , liver , spleen and lungs .
+12 . 3 Pharmacokinetics With a physical half - life of 75 seconds , Rb 82 is converted by radioactive decay into stable Kr 82 gas , which is passively expired by the lungs .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term studies have been performed to evaluate carcinogenic potential , mutagenicity potential , or to determine whether rubidium Rb 82 chloride injection may affect fertility in males or females .
+14 CLINICAL STUDIES In a descriptive , prospective , blinded image interpretation study of adult patients with known or suspected coronary artery disease , myocardial perfusion deficits in stress and rest PET images obtained with ammonia N 13 ( n = 111 ) or Rb 82 ( n = 82 ) were compared to changes in stenosis flow reserve ( SFR ) as determined by coronary angiography .
+PET perfusion defects at rest and stress for seven cardiac regions ( anterior , apical , anteroseptal , posteroseptal , anterolateral , posterolateral , and inferior walls ) were graded on a scale of 0 ( normal ) to 5 ( severe ) .
+Values for stenosis flow reserve , defined as flow at maximum coronary vasodilatation relative to rest flow , ranged from 0 ( total occlusion ) to 5 ( normal ) .
+With increasing impairment of flow reserve , the subjective PET defect severity increased .
+A PET defect score of 2 or higher was positively correlated with flow reserve impairment ( SFR < 3 ) .
+A systematic review of published literature was conducted using pre - defined inclusion / exclusion criteria which resulted in identification of 10 studies evaluating the use of Rb 82 PET myocardial perfusion imaging ( MPI ) for the identification of coronary artery disease as defined by catheter - based angiography .
+In these studies , the patient was the unit of analysis and 50 % stenosis was the threshold for clinically significant coronary artery disease ( CAD ) .
+Of these 10 studies , 9 studies were included in a meta - analysis for sensitivity ( excluding one study with 100 % sensitivity ) and 7 studies were included in a meta - analysis of specificity ( excluding 3 studies with 100 % specificity ) .
+A random effects model yielded overall estimates of sensitivity and specificity of 92 % ( 95 % CI : 89 % to 95 % ) and 81 % ( 95 % CI : 76 % to 86 % ) , respectively .
+The use of meta - analysis in establishing performance characteristics is limited , particularly by the possibility of publication bias ( positive results being more likely to be published than negative results ) which is difficult to detect especially when based on a limited number of small studies .
+16 HOW SUPPLIED / STORAGE AND HANDLING 16 . 1 How Supplied RUBY - FILL Rubidium Rb 82 Generator consists of Sr 82 adsorbed on a hydrous stannic oxide column with an activity of 3145 to 4255 MBq ( 85 to 115 mCi ) Sr 82 at calibration time .
+A lead shield encases the generator .
+The container label provides complete assay data for each generator .
+Use RUBY - FILL Rubidium Rb 82 Generator only with an appropriate , properly calibrated Elution System ( RUBY Rubidium Elution System ) labeled for use with the generator .
+16 . 2 Storage and Handling • Store the generator at 20 to 25 ºC ( 68 to 77 ºF ) .
+• Receipt , transfer , possession , storage , disposal or use of this product is subject to the radioactive material regulations and licensing requirements of the U . S . Nuclear Regulatory Commission ( NRC ) , Agreement States or Licensing States as appropriate .
+Do not dispose of the generator in regular refuse systems .
+• For questions about the disposal of the RUBY - FILL Rubidium Rb 82 Generator , contact Jubilant Radiopharma at 1 - 888 - 633 - 5343 .
+17 PATIENT COUNSELING INFORMATION Pregnancy Advise a pregnant woman of the potential risk to a fetus .
+Lactation Advise lactating women that exposure to Rb 82 chloride through breast milk can be minimized if breastfeeding is discontinued when Rb 82 chloride injection is administered .
+Advise lactating women not to resume breastfeeding for at least one hour after completion of rubidium Rb 82 infusion .
+General Safety Precautions Advise patients to void after completion of each image acquisition session and as often as possible for one hour after completion of the PET scan .
+Manufactured by : [ MULTIMEDIA ] Jubilant DraxImage Inc . , dba Jubilant RadiopharmaTM 16 751 TransCanada Highway Kirkland , Quebec H9H 4J4 Canada 1 - 888 - 633 - 5343 www . jubilantradiopharma . com Version : 5 . 1 Jubilant RadiopharmaTM is a trademark used under license by Jubilant DraxImage Inc .
+[ MULTIMEDIA ] PACKAGE LABEL . PRINCIPAL DISPLAY PANEL RUBY FILL RUBIDIUM Rb 82 GENERATOR - MAIN LABEL 100 mCi Generator column contains Strontium Sr 82 adsorbed on hydrous stannic oxide .
+Store the generator at 20 - 25 ºC ( 68 - 77 ºF ) .
+Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] RUBY FILL RUBIDIUM Rb 82 GENERATOR - IDENTIFICATION [ MULTIMEDIA ] [ MULTIMEDIA ] RUBY FILL RUBIDIUM RB 82 GENERATOR - ASSAY LABEL [ MULTIMEDIA ] [ MULTIMEDIA ]

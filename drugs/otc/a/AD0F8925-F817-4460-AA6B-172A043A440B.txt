@@ -1,0 +1,210 @@
+WARNINGS NEUTREXIN ( TRIMETREXATE GLUCURONATE FOR INJECTION ) MUST BE USED WITH CONCURRENT LEUCOVORIN ( LEUCOVORIN PROTECTION ) TO AVOID POTENTIALLY SERIOUS OR LIFE - THREATENING TOXICITIES ( SEE PRECAUTIONS AND DOSAGE AND ADMINISTRATION ) .
+DESCRIPTION Neutrexin is the brand name for trimetrexate glucuronate .
+Trimetrexate , a 2 , 4 - diaminoquinazoline , non - classical folate antagonist , is a synthetic inhibitor of the enzyme dihydrofolate reductase ( DHFR ) .
+Neutrexin is available as a sterile lyophilized powder , containing trimetrexate glucuronate equivalent to either 200 mg or 25 mg of trimetrexate without any preservatives or excipients .
+The powder is reconstituted prior to intravenous infusion ( see DOSAGE AND ADMINISTRATION , RECONSTITUTION AND DILUTION ) .
+Trimetrexate glucuronate is chemically known as 2 , 4 - diamino - 5 - methyl - 6 - [ ( 3 , 4 , 5 - trimethoxyanilino ) methyl ] quinazoline mono - D - glucuronate , and has the following structure : [ MULTIMEDIA ] The empirical formula for trimetrexate glucuronate is C19H23N5O3 • C6H10O7 with a molecular weight of 563 . 56 .
+The active ingredient , trimetrexate free base , has an empirical formula of C19H23N5O3 with a molecular weight of 369 . 42 .
+Trimetrexate glucuronate for injection is a pale greenish - yellow powder or cake .
+Trimetrexate glucuronate is soluble in water ( > 50 mg / mL ) , whereas trimetrexate free base is practically insoluble in water ( < 0 . 1 mg / mL ) .
+The pKa of trimetrexate free base in 50 % methanol / water is 8 . 0 .
+The logarithm10 of the partition coefficient of trimetrexate free base between octanol and water is 1 . 63 .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action In vitro studies have shown that trimetrexate is a competitive inhibitor of dihydrofolate reductase ( DHFR ) from bacterial , protozoan , and mammalian sources .
+DHFR catalyzes the reduction of intracellular dihydrofolate to the active coenzyme tetrahydrofolate .
+Inhibition of DHFR results in the depletion of this coenzyme , leading directly to interference with thymidylate biosynthesis , as well as inhibition of folate - dependent formyltransferases , and indirectly to inhibition of purine biosynthesis .
+The end result is disruption of DNA , RNA , and protein synthesis , with consequent cell death .
+Leucovorin ( folinic acid ) is readily transported into mammalian cells by an active , carrier ‑ mediated process and can be assimilated into cellular folate pools following its metabolism .
+In vitro studies have shown that leucovorin provides a source of reduced folates necessary for normal cellular biosynthetic processes .
+Because the Pneumocystis carinii organism lacks the reduced folate carrier - mediated transport system , leucovorin is prevented from entering the organism .
+Therefore , at concentrations achieved with therapeutic doses of trimetrexate plus leucovorin , the selective transport of trimetrexate , but not leucovorin , into the Pneumocystis carinii organism allows the concurrent administration of leucovorin to protect normal host cells from the cytotoxicity of trimetrexate without inhibiting the antifolate ' s inhibition of Pneumocystis carinii .
+It is not known if considerably higher doses of leucovorin would affect trimetrexate ' s effect on Pneumocystis carinii .
+Microbiology Trimetrexate inhibits , in a dose - related manner , in vitro growth of the trophozoite stage of rat Pneumocystis carinii cultured on human embryonic lung fibroblast cells .
+Trimetrexate concentrations between 3 and 54 . 1 μM were shown to inhibit the growth of trophozoites .
+Leucovorin alone at a concentration of 10 μM did not alter either the growth of the trophozoites or the anti - pneumocystis activity of trimetrexate .
+Resistance to trimetrexate ' s antimicrobial activity against Pneumocystis carinii has not been studied .
+Pharmacokinetics Trimetrexate pharmacokinetics were assessed in six patients with acquired immunodeficiency syndrome ( AIDS ) who had Pneumocystis carinii pneumonia ( 4 patients ) or toxoplasmosis ( 2 patients ) .
+Trimetrexate was administered intravenously as a bolus injection at a dose of 30 mg / m2 / day along with leucovorin 20 mg / m2 every 6 hours for 21 days .
+Trimetrexate clearance ( mean ± SD ) was 38 ± 15 mL / min / m2 and volume of distribution at steady state ( Vdss ) was 20 ± 8 L / m2 .
+The plasma concentration time profile declined in a biphasic manner over 24 hours with a terminal half - life of 11 ± 4 hours .
+The pharmacokinetics of trimetrexate without the concomitant administration of leucovorin have been evaluated in cancer patients with advanced solid tumors using various dosage regimens .
+The decline in plasma concentrations over time has been described by either biexponential or triexponential equations .
+Following the single - dose administration of 10 to 130 mg / m2 to 37 patients , plasma concentrations were obtained for 72 hours .
+Nine plasma concentration time profiles were described as biexponential .
+The alpha phase half - life was 57 ± 28 minutes , followed by a terminal phase with a half - life of 16 ± 3 hours .
+The plasma concentrations in the remaining patients exhibited a triphasic decline with half - lives of 8 . 6 ± 6 . 5 minutes , 2 . 4 ± 1 . 3 hours , and 17 . 8 ± 8 . 2 hours .
+Trimetrexate clearance in cancer patients has been reported as 53 ± 41 mL / min ( 14 patients ) and 32 ± 18 mL / min / m2 ( 23 patients ) following single - dose administration .
+After a five - day infusion of trimetrexate to 16 patients , plasma clearance was 30 ± 8 mL / min / m2 .
+Renal clearance of trimetrexate in cancer patients has varied from about 4 ± 2 mL / min / m2 to 10 ± 6 mL / min / m2 .
+Ten to 30 % of the administered dose is excreted unchanged in the urine .
+Considering the free fraction of trimetrexate , active tubular secretion may possibly contribute to the renal clearance of trimetrexate .
+Renal clearance has been associated with urine flow , suggesting the possibility of tubular reabsorption as well .
+The Vdss of trimetrexate in cancer patients after single - dose administration and for whom plasma concentrations were obtained for 72 hours was 36 . 9 ± 17 . 6 L / m2 ( n = 23 ) and 0 . 62 ± 0 . 24 L / kg ( n = 14 ) .
+Following a constant infusion of trimetrexate for five days , Vdss was 32 . 8 ± 16 . 6 L / m2 .
+The volume of the central compartment has been estimated as 0 . 17 ± 0 . 08 L / kg and 4 . 0 ± 2 . 9 L / m2 .
+There have been inconsistencies in the reporting of trimetrexate protein binding .
+The in vitro plasma protein binding of trimetrexate using ultrafiltration is approximately 95 % over the concentration range of 18 . 75 to 1000 ng / mL .
+There is a suggestion of capacity limited binding ( saturable binding ) at concentrations greater than about 1000 ng / mL , with free fraction progressively increasing to about 9 . 3 % as concentration is increased to 15 μg / mL .
+Other reports have declared trimetrexate to be greater than 98 % bound at concentrations of 0 . 1 to 10 μg / mL ; however , specific free fractions were not stated .
+The free fraction of trimetrexate also has been reported to be about 15 to 16 % at a concentration of 60 ng / mL , increasing to about 20 % at a trimetrexate concentration of 6 μg / mL .
+Trimetrexate metabolism in man has not been characterized .
+Preclinical data strongly suggest that the major metabolic pathway is oxidative O - demethylation , followed by conjugation to either glucuronide or the sulfate .
+N - demethylation and oxidation is a related minor pathway .
+Preliminary findings in humans indicate the presence of a glucuronide conjugate with DHFR inhibition and a demethylated metabolite in urine .
+The presence of metabolite ( s ) in human plasma following the administration of trimetrexate is suggested by the differences seen in trimetrexate plasma concentrations when measured by HPLC and a nonspecific DHFR inhibition assay .
+The profiles are similar initially , but diverge with time ; concentrations determined by DHFR being higher than those determined by HPLC .
+This suggests the presence of one or more metabolites with DHFR inhibition activity .
+After intravenous administration of trimetrexate to humans , urinary recovery averaged about 40 % , using a DHFR assay , in comparison to 10 % urinary recovery as determined by HPLC , suggesting the presence of one or more metabolites that retain inhibitory activity against DHFR .
+Fecal recovery of trimetrexate over 48 hours after intravenous administration ranged from 0 . 09 to 7 . 6 % of the dose as determined by DHFR inhibition and 0 . 02 to 5 . 2 % of the dose as determined by HPLC .
+The pharmacokinetics of trimetrexate have not been determined in patients with renal insufficiency or hepatic dysfunction .
+INDICATIONS AND USAGE Neutrexin ( trimetrexate glucuronate for injection ) with concurrent leucovorin administration ( leucovorin protection ) is indicated as an alternative therapy for the treatment of moderate - to - severe Pneumocystis carinii pneumonia ( PCP ) in immunocompromised patients , including patients with the acquired immunodeficiency syndrome ( AIDS ) , who are intolerant of , or are refractory to , trimethoprim - sulfamethoxazole therapy or for whom trimethoprim - sulfamethoxazole is contraindicated .
+This indication is based on the results of a randomized , controlled double - blind trial comparing Neutrexin with concurrent leucovorin protection ( TMTX / LV ) to trimethoprim ‑ sulfamethoxazole ( TMP / SMX ) in patients with moderate - to - severe Pneumocystis carinii pneumonia , as well as results of a Treatment IND .
+These studies are summarized below : Neutrexin Comparative Study with TMP / SMX This double - blind , randomized trial initiated by the AIDS Clinical Trials Group ( ACTG ) in 1988 was designed to compare the safety and efficacy of TMTX / LV to that of TMP / SMX for the treatment of histologically confirmed , moderate - to - severe PCP , defined as ( A - a ) baseline gradient > 30 mmHg , in patients with AIDS .
+Of the 220 patients with histologically confirmed PCP , 109 were randomized to receive TMTX / LV and 111 to TMP / SMX .
+Study patients randomized to TMTX / LV treatment were to receive 45 mg / m2 of TMTX daily for 21 days plus 20 mg / m2 of LV every 6 hours for 24 days .
+Those randomized to TMP / SMX were to receive 5 mg / kg TMP plus 25 mg / kg SMX four times daily for 21 days .
+Response to therapy , defined as alive and off ventilatory support at completion of therapy , with no change in anti - pneumocystis therapy , or addition of supraphysiologic doses of steroids , occurred in fifty percent of patients in each treatment group .
+The observed mortality in the TMTX / LV treatment group was approximately twice that in the TMP / SMX treatment group ( 95 % CI : 0 . 99 - 4 . 11 ) .
+Thirty of 109 ( 27 % ) patients treated with TMTX / LV and 18 of 111 ( 16 % ) patients receiving TMP / SMX died during the 21 - day treatment course or 4 - week follow - up period .
+Twenty - seven of 30 deaths in the TMTX / LV arm were attributed to PCP ; all 18 deaths in the TMP / SMX arm were attributed to PCP .
+A significantly smaller proportion of patients who received TMTX / LV compared to TMP / SMX failed therapy due to toxicity ( 10 % vs . 25 % ) , and a significantly greater proportion of patients failed due to lack of efficacy ( 40 % vs . 24 % ) .
+Six patients ( 12 % ) who responded to TMTX / LV relapsed during the one - month follow - up period ; no patient responding to TMP / SMX relapsed during this period .
+Information is not available as to whether these patients received prophylaxis therapy for PCP .
+Treatment IND The FDA granted a Treatment IND for Neutrexin with leucovorin protection in February 1988 to make Neutrexin therapy available to HIV - infected patients with histologically confirmed PCP who had disease refractory to or who were intolerant of TMP / SMX and / or intravenous pentamidine .
+Over 500 physicians in the United States participated in the Treatment IND .
+Of the first 753 patients enrolled , 577 were evaluable for efficacy .
+Of these , 227 patients were intolerant of both TMP / SMX and pentamidine ( IST - patients intolerant of both standard therapies ) , 146 were intolerant of one therapy and refractory to the other ( RIST - patients refractory to one therapy and intolerant of the other ) and 204 were refractory to both therapies ( RST - refractory to both standard therapies ) .
+This was a very ill patient population ; 38 % required ventilatory support at entry ( Table 1 ) .
+These studies did not have concurrent control groups .
+TABLE 1 TREATMENT IND Baseline Characteristics IST ( n = 227 ) RIST ( n = 146 ) RST ( n = 204 ) TOTAL ( n = 577 ) Ventilatory Support Required n ( % ) 39 ( 17 ) 50 ( 34 ) 129 ( 63 ) 218 ( 38 ) Median Days on Standard Therapy 10 12 16 14 First Episode of PCP n ( % ) 104 ( 46 ) 103 ( 71 ) 190 ( 93 ) 397 ( 69 ) The overall survival rate one month after completion of TMTX / LV as salvage therapy was 48 % .
+Patients who had not responded to treatment with both TMP / SMX and pentamidine , of whom 63 % required mechanical ventilation at entry , achieved a survival rate of 25 % following treatment with TMTX / LV .
+Survival was 67 % in patients who were intolerant to both TMP / SMX and pentamidine ( Table 2 ) .
+TABLE 2 TREATMENT IND Survival Rate One Month After Completion of Neutrexin Therapy IST RIST RST All Patients 153 / 227 ( 67 % ) 73 / 146 ( 50 % ) 50 / 204 ( 25 % ) Baseline Ventilatory Support 9 / 39 ( 23 % ) 15 / 50 ( 30 % ) 18 / 129 ( 14 % ) No Baseline Ventilatory Support 144 / 188 ( 77 % ) 58 / 96 ( 60 % ) 32 / 75 ( 43 % ) In the Treatment IND , 12 % of the patients discontinued Neutrexin therapy ( with leucovorin protection ) for toxicity .
+CONTRAINDICATIONS Neutrexin ( trimetrexate glucuronate for injection ) is contraindicated in patients with clinically significant sensitivity to trimetrexate , leucovorin , or methotrexate .
+WARNINGS Neutrexin ( trimetrexate glucuronate for injection ) must be used with concurrent leucovorin to avoid potentially serious or life - threatening complications including bone marrow suppression , oral and gastrointestinal mucosal ulceration , and renal and hepatic dysfunction .
+Leucovorin therapy must extend for 72 hours past the last dose of Neutrexin .
+Patients should be informed that failure to take the recommended dose and duration of leucovorin can lead to fatal toxicity .
+Patients should be closely monitored for the development of serious hematologic adverse reactions ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+Neutrexin can cause fetal harm when administered to a pregnant woman .
+Trimetrexate has been shown to be fetotoxic and teratogenic in rats and rabbits .
+Rats administered 1 . 5 and 2 . 5 mg / kg / day intravenously on gestational days 6 - 15 showed substantial postimplantation loss and severe inhibition of maternal weight gain .
+Trimetrexate administered intravenously to rats at 0 . 5 and 1 . 0 mg / kg / day on gestational days 6 - 15 retarded normal fetal development and was teratogenic .
+Rabbits administered trimetrexate intravenously at daily doses of 2 . 5 and 5 . 0 mg / kg / day on gestational days 6 - 18 resulted in significant maternal and fetal toxicity .
+In rabbits , trimetrexate at 0 . 1 mg / kg / day was teratogenic in the absence of significant maternal toxicity .
+These effects were observed using doses 1 / 20 to 1 / 2 the equivalent human therapeutic dose based on a mg / m2 basis .
+Teratogenic effects included skeletal , visceral , ocular , and cardiovascular abnormalities .
+If Neutrexin is used during pregnancy , or if the patient becomes pregnant while taking this drug , the patient should be apprised of the potential hazard to the fetus .
+Women of childbearing potential should be advised to avoid becoming pregnant .
+PRECAUTIONS General Patients receiving Neutrexin ( trimetrexate glucuronate for injection ) may experience severe hematologic , hepatic , renal , and gastrointestinal toxicities .
+Caution should be used in treating patients with impaired hematologic , renal , or hepatic function .
+Patients who require concomitant therapy with nephrotoxic , myelosuppressive , or hepatotoxic drugs should be treated with Neutrexin at the discretion of the physician and monitored carefully .
+To allow for full therapeutic doses of Neutrexin , treatment with zidovudine should be discontinued during Neutrexin therapy .
+Neutrexin - associated myelosuppression , stomatitis , and gastrointestinal toxicities generally can be ameliorated by adjusting the dose of leucovorin .
+Mild elevations in transaminases and alkaline phosphatase have been observed with Neutrexin administration and are usually not cause for modification of Neutrexin therapy ( see DOSAGE AND ADMINISTRATION ) .
+Seizures have been reported rarely ( < 1 % ) in AIDS patients receiving Neutrexin ; however , a causal relationship has not been established .
+Trimetrexate is a known inhibitor of histamine metabolism .
+Hypersensitivity / allergic type reactions including but not limited to rash , chills / rigors , fever , diaphoresis and dypsnea have occurred with trimetrexate primarily when it is administered as a bolus infusion or at doses higher than those recommended for PCP , and most frequently in combination with 5 FU and leucovorin .
+In rare cases , anaphylactoid reactions , including acute hypotension and loss of consciousness have occurred .
+Neutrexin infusion should be permanently discontinued in all patients with severe hypersensitivity reactions .
+Epinephrine should be available for treatment of acute allergic symptoms .
+Neutrexin has not been evaluated clinically for the treatment of concurrent pulmonary conditions such as bacterial , viral , or fungal pneumonia or mycobacterial diseases .
+In vitro activity has been observed against Toxoplasma gondii , Mycobacterium avium complex , gram positive cocci , and gram negative rods .
+If clinical deterioration is observed in patients , they should be carefully evaluated for other possible causes of pulmonary disease and treated with additional agents as appropriate .
+Laboratory Tests Patients receiving Neutrexin with leucovorin protection should be seen frequently by a physician .
+Blood tests to assess the following parameters should be performed at least twice a week during therapy : hematology ( absolute neutrophil counts [ ANC ] , platelets ) , renal function ( serum creatinine , BUN ) , and hepatic function ( AST , ALT , alkaline phosphatase ) .
+Drug Interactions Since trimetrexate is metabolized by a P450 enzyme system , drugs that induce or inhibit this drug metabolizing enzyme system may elicit important drug - drug interactions that may alter trimetrexate plasma concentrations .
+Agents that might be coadministered with trimetrexate in AIDS patients for other indications that could elicit this activity include erythromycin , rifampin , rifabutin , ketoconazole , and fluconazole .
+In vitro perfusion of isolated rat liver has shown that cimetidine caused a significant reduction in trimetrexate metabolism and that acetaminophen altered the relative concentration of trimetrexate metabolites possibly by competing for sulfate metabolites .
+Based on an in vitro rat liver model , nitrogen substituted imidazole drugs ( clotrimazole , ketoconazole , miconazole ) were potent , non - competitive inhibitors of trimetrexate metabolism .
+Patients medicated with these drugs and trimetrexate should be carefully monitored .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Long term studies in animals to evaluate the carcinogenic potential of trimetrexate have not been performed .
+Mutagenesis Trimetrexate was not mutagenic when tested using the standard Ames Salmonella mutagenicity assay with and without metabolic activation .
+Trimetrexate did not induce mutations in Chinese hamster lung cells or sister - chromatid exchange in Chinese hamster ovary cells .
+Trimetrexate did induce an increase in the chromosomal aberration frequency of cultured Chinese hamster lung cells ; however , trimetrexate showed no clastogenic activity in a mouse micronucleus assay .
+Impairment of fertility No studies have been conducted to evaluate the potential of trimetrexate to impair fertility .
+However , during standard toxicity studies conducted in mice and rats , degeneration of the testes and spermatocytes including the arrest of spermatogenesis was observed .
+Pregnancy Teratogenic Effects See WARNINGS .
+Pregnancy Category D Nursing Mothers It is not known if trimetrexate is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from trimetrexate , it is recommended that breast feeding be discontinued if the mother is treated with Neutrexin .
+Pediatric Use The safety and effectiveness of Neutrexin for the treatment of histologically confirmed PCP has not been established for patients under 18 years of age .
+Two children , ages 15 months and 9 months , were treated with trimetrexate and leucovorin using a dose of 45 mg / m2 of trimetrexate per day for 21 days and 20 mg / m2 of leucovorin every 6 hours for 24 days .
+There were no serious or unexpected adverse effects .
+ADVERSE REACTIONS Because many patients who participated in clinical trials of Neutrexin ( trimetrexate glucuronate for injection ) had complications of advanced HIV disease , it is difficult to distinguish adverse events caused by Neutrexin from those resulting from underlying medical conditions .
+Table 3 lists the adverse events that occurred in ≥ 1 % of the patients who participated in the Comparative Study of Neutrexin plus leucovorin versus TMP / SMX .
+TABLE 3 NEUTREXIN COMPARATIVE TRIAL Comparison of Adverse Events Reported for ≥ 1 % of PatientsAdverse Events Number and Percent ( % ) of Patients with Adverse Events TMTX / LV ( n = 109 ) TMP / SMX ( n = 111 ) Non - Laboratory Adverse Events : Fever 9 ( 8 . 3 ) 14 ( 12 . 6 ) Rash / Pruritus 6 ( 5 . 5 ) 14 ( 12 . 6 ) Nausea / Vomiting 5 ( 4 . 6 ) [ 1 ] 15 ( 13 . 5 ) null Confusion 3 ( 2 . 8 ) 3 ( 2 . 7 ) Fatigue 2 ( 1 . 8 ) 0 ( 0 . 0 ) Hematologic Toxicity : Thrombocytopenia ( < 75 , 000 / mm3 ) 33 ( 30 . 3 ) 37 ( 33 . 3 ) Anemia ( Hgb < 8 g / dL ) 11 ( 10 . 1 ) 17 ( 15 . 3 ) Neutropenia ( < 1000 / mm3 ) 8 ( 7 . 3 ) 10 ( 9 . 0 ) Hepatotoxicity : Increased AST ( > 5 x ULN [ 2 ] ) 15 ( 13 . 8 ) 10 ( 9 . 0 ) Increased ALT ( > 5 x ULN ) 12 ( 11 . 0 ) 13 ( 11 . 7 ) Increased Alkaline Phosphatase ( > 5 x ULN ) 5 ( 4 . 6 ) 3 ( 2 . 7 ) Increased Bilirubin ( 2 . 5 x ULN ) 2 ( 1 . 8 ) 1 ( 0 . 9 ) Renal : Increased Serum Creatinine ( > 3 x ULN ) 1 ( 0 . 9 ) 2 ( 1 . 8 ) Electrolyte Imbalance : Hyponatremia 5 ( 4 . 6 ) 10 ( 9 . 0 ) Hypocalcemia 2 ( 1 . 8 ) 0 ( 0 . 0 ) No .
+of Patients With at Least one Adverse Event [ 3 ] 58 ( 53 . 2 ) 60 ( 54 . 1 ) [ 1 ] Statistically significant difference between treatment groups ( Chi - square : p = 0 . 022 ) [ 2 ] ULN = Upper limit of normal range [ 3 ] Patients could have reported more than one adverse event ; therefore , the sum of adverse events exceeds the number of patients Laboratory toxicities were generally manageable with dose modification of trimetrexate / leucovorin ( see DOSAGE AND ADMINISTRATION ) .
+Table 4 lists the adverse events resulting in discontinuation of study therapy in the Neutrexin Comparative Study with TMP / SMX .
+Twenty - nine percent of the patients on the TMP / SMX arm discontinued therapy due to adverse events compared to 10 % of the patients treated with TMTX / LV ( p < 0 . 001 ) .
+TABLE 4 NEUTREXIN COMPARATIVE TRIAL Adverse Events Resulting in Discontinuation of Therapy Adverse Events Number and Percent ( % ) of Patients Discontinued for Adverse Events [ 1 ] TMTX / LV ( n = 109 ) TMP / SMX ( n = 111 ) Non - Laboratory Adverse Events : Rash / Pruritus 3 ( 2 . 8 ) 5 ( 4 . 5 ) Fever 2 ( 1 . 8 ) 4 ( 3 . 6 ) Nausea / Vomiting 1 ( 0 . 9 ) 8 ( 7 . 2 ) Neurologic Toxicity 1 ( 0 . 9 ) [ 2 ] 2 ( 1 . 8 ) Hematologic Toxicity : Neutropenia ( < 1000 / mm3 ) 4 ( 3 . 7 ) 6 ( 5 . 4 ) Thrombocytopenia ( < 75 , 000 / mm3 ) 0 ( 0 . 0 ) 4 ( 3 . 6 ) Anemia ( Hgb < 8 g / dL ) 0 ( 0 . 0 ) 4 ( 3 . 6 ) Hepatotoxicity : Increased AST ( > 5 x ULN [ 3 ] ) 3 ( 2 . 8 ) 9 ( 8 . 1 ) Increased ALT ( > 5 x ULN ) 1 ( 0 . 9 ) 4 ( 3 . 6 ) Increased Alkaline Phosphatase ( > 5 x ULN ) 0 ( 0 . 0 ) 1 ( 0 . 9 ) Electrolyte Imbalance : Hyponatremia 0 ( 0 . 0 ) 3 ( 2 . 7 ) No .
+of Patients Discontinuing Therapy Due to an Adverse Event null 11 ( 10 . 1 ) [ 4 ] 32 ( 28 . 8 ) null [ 1 ] Patients could discontinue therapy due to more than one toxicity ; therefore the sum exceeds number of patients who discontinued due to toxicity [ 2 ] Patient discontinued TMTX / LV due to seizure , though causal relationship could not be established .
+[ 3 ] ULN = Upper limit of normal range [ 4 ] Statistically significant difference between treatment groups ( Chi - square : p < 0 . 001 ) Hematologic toxicity was the principal dose - limiting side effect .
+OVERDOSAGE Neutrexin ( trimetrexate glucuronate for injection ) administered without concurrent leucovorin can cause lethal complications .
+There has been no extensive experience in humans receiving single intravenous doses of trimetrexate greater than 90 mg / m2 / day with concurrent leucovorin .
+The toxicities seen at this dose were primarily hematologic .
+In the event of overdose , Neutrexin should be stopped and leucovorin should be administered at a dose of 40 mg / m2 every 6 hours for 3 days .
+The LD50 of intravenous trimetrexate in mice is 62 mg / kg ( 186 mg / m2 ) .
+DOSAGE AND ADMINISTRATION Caution : Neutrexin ( trimetrexate glucuronate for injection ) must be administered with concurrent leucovorin ( leucovorin protection ) to avoid potentially serious or life - threatening toxicities .
+Leucovorin therapy must extend for 72 hours past the last dose of Neutrexin .
+Neutrexin ( trimetrexate glucuronate for injection ) is administered at a dose of 45 mg / m2 once daily by intravenous infusion over 60 minutes .
+Leucovorin must be administered daily during treatment with Neutrexin and for 72 hours past the last dose of Neutrexin .
+Leucovorin may be administered intravenously at a dose of 20 mg / m2 over 5 to 10 minutes every 6 hours for a total daily dose of 80 mg / m2 , or orally as 4 doses of 20 mg / m2 spaced equally throughout the day .
+The oral dose should be rounded up to the next higher 25 mg increment .
+The recommended course of therapy is 21 days of Neutrexin and 24 days of leucovorin .
+Neutrexin and leucovorin may alternatively be dosed on a mg / kg basis , depending on the patient ’ s body weight , using the conversion factors shown in the table below : Body Weight ( kg ) Neutrexin Dose ( mg / kg / day ) Leucovorin Dose ( mg / kg / qid ) < 50 1 . 5 0 . 6 50 - 80 1 . 2 0 . 5 > 80 1 . 0 0 . 5 Dosage Modifications Hematologic toxicity : Neutrexin ( trimetrexate glucuronate for injection ) and leucovorin doses should be modified based on the worst hematologic toxicity according to the following table .
+If leucovorin is given orally , doses should be rounded up to the next higher 25 mg increment .
+TABLE 5 DOSE MODIFICATIONS FOR HEMATOLOGIC TOXICITY Recommended Dosages of Toxicity Grade Neutrophils ( Polys and Bands ) Platelets Neutrexin Leucovorin 1 > 1000 / mm3 > 75 , 000 / mm3 45 mg / m2 once daily 20 mg / m2 every 6 hours 2 750 - 1000 / mm3 50 , 000 - 75 , 000 / mm3 45 mg / m2 once daily 40 mg / m2 every 6 hours 3 500 - 749 / mm3 25 , 000 - 49 , 999 / mm3 22 mg / m2 once daily 40 mg / m2 every 6 hours 4 < 500 / mm3 < 25 , 000 / mm3 Day 1 - 9 Discontinue Day 10 - 21 Interrupt up to 96 hours [ 1 ] 40 mg / m2 every 6 hours [ 1 ] If Grade 4 hematologic toxicity occurs prior to Day 10 , Neutrexin should be discontinued .
+Leucovorin ( 40 mg / m2 , q6h ) should be administered for an additional 72 hours .
+If Grade 4 hematologic toxicity occurs at Day 10 or later , Neutrexin may be held up to 96 hours to allow counts to recover .
+If counts recover to Grade 3 within 96 hours , Neutrexin should be administered at a dose of 22 mg / m2 and leucovorin maintained at 40 mg / m2 , q6h .
+When counts recover to Grade 2 toxicity , Neutrexin dose may be increased to 45 mg / m2 , but the leucovorin dose should be maintained at 40 mg / m2 for the duration of treatment .
+If counts do not improve to ≤ Grade 3 toxicity within 96 hours , Neutrexin should be discontinued .
+Leucovorin at a dose of 40 mg / m2 , q6h should be administered for 72 hours following the last dose of Neutrexin .
+Hepatic toxicity : Transient elevations of transaminases and alkaline phosphatase have been observed in patients treated with Neutrexin .
+Interruption of treatment is advisable if transaminase levels or alkaline phosphatase levels increase to > 5 times the upper limit of normal range .
+Renal toxicity : Interruption of Neutrexin is advisable if serum creatinine levels increase to > 2 . 5 mg / dL and the elevation is considered to be secondary to Neutrexin .
+Other toxicities : Interruption of treatment is advisable in patients who experience severe mucosal toxicity that interferes with oral intake .
+Treatment should be discontinued for fever ( oral temperature ≥ 105 ° F / 40 . 5 ° C ) that cannot be controlled with antipyretics .
+Leucovorin therapy must extend for 72 hours past the last dose of Neutrexin .
+RECONSTITUTION AND DILUTION Each vial of Neutrexin ( trimetrexate glucuronate for injection ) should be reconstituted in accordance with labeled instructions with either 5 % Dextrose Injection , USP , or Sterile Water for Injection , USP , to yield a concentration of 12 . 5 mg of trimetrexate per mL ( complete dissolution should occur within 30 seconds ) .
+The reconstituted product will appear as a pale greenish - yellow solution and must be inspected visually prior to dilution .
+Do not use if cloudiness or precipitate is observed .
+Neutrexin should not be reconstituted with solutions containing either chloride ion or leucovorin , since precipitation occurs instantly .
+After reconstitution , the solution should be used immediately ; however , the solution is stable for 6 hours at room temperature ( 20 to 25ºC ) , or 24 hours under refrigeration ( 2 - 8 ° C ) .
+Prior to administration , the reconstituted solution should be further diluted with 5 % Dextrose Injection , USP , to yield a final concentration of 0 . 25 to 2 mg of trimetrexate per mL .
+The diluted solution should be administered by intravenous infusion over 60 minutes .
+Neutrexin should not be mixed with solutions containing either chloride ion or leucovorin , since precipitation occurs instantly .
+The diluted solution is stable under refrigeration or at room temperature for up to 24 hours .
+Do not freeze .
+Discard any unused portion after 24 hours .
+The intravenous line must be flushed thoroughly with at least 10 mL of 5 % Dextrose Injection , USP , before and after administering Neutrexin .
+Leucovorin protection may be administered prior to or following Neutrexin .
+In either case , the intravenous line must be flushed thoroughly with at least 10 mL of 5 % Dextrose Injection , USP .
+Leucovorin calcium for injection should be diluted according to the instructions in the leucovorin package insert , and administered over 5 to 10 minutes every 6 hours .
+Caution : Parenteral products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Neutrexin forms a precipitate instantly upon contact with chloride ion or leucovorin , therefore it should not be added to solutions containing sodium chloride or other anions .
+Neutrexin and leucovorin solutions must be administered separately .
+Intravenous lines should be flushed with at least 10 mL of 5 % Dextrose Injection , USP , between Neutrexin and leucovorin infusions .
+HANDLING AND DISPOSAL If Neutrexin ( trimetrexate glucuronate for injection ) contacts the skin or mucosa , immediately wash thoroughly with soap and water .
+Procedures for proper disposal of cytotoxic drugs should be considered .
+Several guidelines on this subject have been published ( 1 - 5 ) .
+HOW SUPPLIED Neutrexin ( trimetrexate glucuronate for injection ) is supplied as a sterile lyophilized powder in either 5 mL or 30 mL vials .
+Each 5 mL vial contains trimetrexate glucuronate equivalent to 25 mg of trimetrexate .
+Each 30 mL vial contains trimetrexate glucuronate equivalent to 200 mg of trimetrexate .
+The 5 mL vials are packaged and available in two market presentations as listed below : 10 Pack - 10 vials in a white chip - board carton ( NDC 58178 - 020 - 10 ) 50 Pack - 2 trays of 25 vials per shrink - wrapped tray ( NDC 58178 - 020 - 50 ) The 30 mL vials are packaged and available as listed below : Single Pack - 1 vial ( NDC 58178 - 021 - 01 ) Store at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+Protect from exposure to light .
+U . S . Patents 4 , 376 , 858 ; 4 , 694 , 007 ; 6 , 017 , 922 REFERENCES • AMA Council Report .
+Guidelines for Handling Parenteral Antineoplastics .
+Journal of the American Medical Association March 15 , 1985 .
+• Clinical Oncological Society of Australia : Guidelines and Recommendations for Safe Handling of Antineoplastic Agents .
+Medical Journal of Australia 1 : 426 - 428 , 1983 .
+• Jones RB , et al .
+Safe Handling of Chemotherapeutic Agents : A Report from the Mount Sinai Medical Center .
+CA - A Cancer Journal for Clinicians Sept / Oct , 258 - 263 , 1983 .
+• American Society of Hospital Pharmacists Technical Assistance Bulletin on Handling Cytotoxic Drugs in Hospitals .
+American Journal of Hospital Pharmacy 42 : 131 - 137 , 1985 .
+• OSHA Work Practice Guidelines for Personnel Dealing with Cytotoxic ( Antineoplastic ) Drugs .
+American Journal of Hospital Pharmacy 43 : 1193 - 1204 , 1986 .
+Manufactured by : Marketed by : Ben Venue Laboratories , Inc .
+MedImmune Oncology , Inc .
+Bedford , OH 44146 a subsidiary of MedImmune Inc .
+Gaithersburg , MD 20878 Or : 1 - 877 - 633 - 4411 MedImmune Pharma B . V . 6545 CG Nijmegen The Netherlands © 2000 , MedImmune Oncology , Inc .
+N - LB3020 PH

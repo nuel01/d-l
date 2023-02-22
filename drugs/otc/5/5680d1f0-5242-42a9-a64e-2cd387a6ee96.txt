@@ -1,0 +1,240 @@
+DESCRIPTION AROMASIN ® Tablets for oral administration contain 25 mg of exemestane , an irreversible , steroidal aromatase inactivator .
+Exemestane is chemically described as 6 - methylenandrosta - 1 , 4 - diene - 3 , 17 - dione .
+Its molecular formula is C20H24O2 and its structural formula is as follows : [ MULTIMEDIA ] The active ingredient is a white to slightly yellow crystalline powder with a molecular weight of 296 . 41 .
+Exemestane is freely soluble in N , N - dimethylformamide , soluble in methanol , and practically insoluble in water .
+Each AROMASIN Tablet contains the following inactive ingredients : mannitol , crospovidone , polysorbate 80 , hypromellose , colloidal silicon dioxide , microcrystalline cellulose , sodium starch glycolate , magnesium stearate , simethicone , polyethylene glycol 6000 , sucrose , magnesium carbonate , titanium dioxide , methylparaben , and polyvinyl alcohol .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of ActionBreast cancer cell growth may be estrogen - dependent .
+Aromatase is the principal enzyme that converts androgens to estrogens both in pre - and postmenopausal women .
+While the main source of estrogen ( primarily estradiol ) is the ovary in premenopausal women , the principal source of circulating estrogens in postmenopausal women is from conversion of adrenal and ovarian androgens ( androstenedione and testosterone ) to estrogens ( estrone and estradiol ) by the aromatase enzyme in peripheral tissues .
+Estrogen deprivation through aromatase inhibition is an effective and selective treatment for some postmenopausal patients with hormone - dependent breast cancer .
+Exemestane is an irreversible , steroidal aromatase inactivator , structurally related to the natural substrate androstenedione .
+It acts as a false substrate for the aromatase enzyme , and is processed to an intermediate that binds irreversibly to the active site of the enzyme causing its inactivation , an effect also known as " suicide inhibition . "
+Exemestane significantly lowers circulating estrogen concentrations in postmenopausal women , but has no detectable effect on adrenal biosynthesis of corticosteroids or aldosterone .
+Exemestane has no effect on other enzymes involved in the steroidogenic pathway up to a concentration at least 600 times higher than that inhibiting the aromatase enzyme .
+PharmacokineticsFollowing oral administration to healthy postmenopausal women , exemestane is rapidly absorbed .
+After maximum plasma concentration is reached , levels decline polyexponentially with a mean terminal half - life of about 24 hours .
+Exemestane is extensively distributed and is cleared from the systemic circulation primarily by metabolism .
+The pharmacokinetics of exemestane are dose proportional after single ( 10 to 200 mg ) or repeated oral doses ( 0 . 5 to 50 mg ) .
+Following repeated daily doses of exemestane 25 mg , plasma concentrations of unchanged drug are similar to levels measured after a single dose .
+Pharmacokinetic parameters in postmenopausal women with advanced breast cancer following single or repeated doses have been compared with those in healthy , postmenopausal women .
+Exemestane appeared to be more rapidly absorbed in the women with breast cancer than in the healthy women , with a mean tmax of 1 . 2 hours in the women with breast cancer and 2 . 9 hours in the healthy women .
+After repeated dosing , the average oral clearance in women with advanced breast cancer was 45 % lower than the oral clearance in healthy postmenopausal women , with corresponding higher systemic exposure .
+Mean AUC values following repeated doses in women with breast cancer ( 75 . 4 ng ∙ h / mL ) were about twice those in healthy women ( 41 . 4 ng ∙ h / mL ) .
+AbsorptionFollowing oral administration of radiolabeled exemestane , at least 42 % of radioactivity was absorbed from the gastrointestinal tract .
+Exemestane plasma levels increased by approximately 40 % after a high - fat breakfast .
+DistributionExemestane is distributed extensively into tissues .
+Exemestane is 90 % bound to plasma proteins and the fraction bound is independent of the total concentration .
+Albumin and α1 - acid glycoprotein both contribute to the binding .
+The distribution of exemestane and its metabolites into blood cells is negligible .
+Metabolism and ExcretionFollowing administration of radiolabeled exemestane to healthy postmenopausal women , the cumulative amounts of radioactivity excreted in urine and feces were similar ( 42 ± 3 % in urine and 42 ± 6 % in feces over a 1 - week collection period ) .
+The amount of drug excreted unchanged in urine was less than 1 % of the dose .
+Exemestane is extensively metabolized , with levels of the unchanged drug in plasma accounting for less than 10 % of the total radioactivity .
+The initial steps in the metabolism of exemestane are oxidation of the methylene group in position 6 and reduction of the 17 - keto group with subsequent formation of many secondary metabolites .
+Each metabolite accounts only for a limited amount of drug - related material .
+The metabolites are inactive or inhibit aromatase with decreased potency compared with the parent drug .
+One metabolite may have androgenic activity ( see Pharmacodynamics , Other Endocrine Effects ) .
+Studies using human liver preparations indicate that cytochrome P - 450 3A4 ( CYP 3A4 ) is the principal isoenzyme involved in the oxidation of exemestane .
+Special Populations GeriatricHealthy postmenopausal women aged 43 to 68 years were studied in the pharmacokinetic trials .
+Age - related alterations in exemestane pharmacokinetics were not seen over this age range .
+GenderThe pharmacokinetics of exemestane following administration of a single , 25 - mg tablet to fasted healthy males ( mean age 32 years ) were similar to the pharmacokinetics of exemestane in fasted healthy postmenopausal women ( mean age 55 years ) .
+RaceThe influence of race on exemestane pharmacokinetics has not been evaluated .
+Hepatic InsufficiencyThe pharmacokinetics of exemestane have been investigated in subjects with moderate or severe hepatic insufficiency ( Childs - Pugh B or C ) .
+Following a single 25 - mg oral dose , the AUC of exemestane was approximately 3 times higher than that observed in healthy volunteers ( see PRECAUTIONS ) .
+Renal InsufficiencyThe AUC of exemestane after a single 25 - mg dose was approximately 3 times higher in subjects with moderate or severe renal insufficiency ( creatinine clearance less than 35 mL / min / 1 . 73 m2 ) compared with the AUC in healthy volunteers ( see PRECAUTIONS ) .
+PediatricThe pharmacokinetics of exemestane have not been studied in pediatric patients .
+Drug - Drug InteractionsExemestane is metabolized by cytochrome P - 450 3A4 ( CYP 3A4 ) and aldoketoreductases .
+It does not inhibit any of the major CYP isoenzymes , including CYP 1A2 , 2C9 , 2D6 , 2E1 , and 3A4 .
+In a clinical pharmacokinetic study , ketoconazole showed no significant influence on the pharmacokinetics of exemestane .
+Although no other formal drug - drug interaction studies have been conducted , significant effects on exemestane clearance by CYP isoenzymes inhibitors appear unlikely .
+In a pharmacokinetic interaction study of 10 healthy postmenopausal volunteers pretreated with potent CYP 3A4 inducer rifampicin 600 mg daily for 14 days followed by a single dose of exemestane 25 mg , the mean plasma Cmax and AUC 0 –∞ of exemestane were decreased by 41 % and 54 % , respectively ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+PharmacodynamicsEffect on EstrogensMultiple doses of exemestane ranging from 0 . 5 to 600 mg / day were administered to postmenopausal women with advanced breast cancer .
+Plasma estrogen ( estradiol , estrone , and estrone sulfate ) suppression was seen starting at a 5 - mg daily dose of exemestane , with a maximum suppression of at least 85 % to 95 % achieved at a 25 - mg dose .
+Exemestane 25 mg daily reduced whole body aromatization ( as measured by injecting radiolabeled androstenedione ) by 98 % in postmenopausal women with breast cancer .
+After a single dose of exemestane 25 mg , the maximal suppression of circulating estrogens occurred 2 to 3 days after dosing and persisted for 4 to 5 days .
+Effect on CorticosteroidsIn multiple - dose trials of doses up to 200 mg daily , exemestane selectivity was assessed by examining its effect on adrenal steroids .
+Exemestane did not affect cortisol or aldosterone secretion at baseline or in response to ACTH at any dose .
+Thus , no glucocorticoid or mineralocorticoid replacement therapy is necessary with exemestane treatment .
+Other Endocrine EffectsExemestane does not bind significantly to steroidal receptors , except for a slight affinity for the androgen receptor ( 0 . 28 % relative to dihydrotestosterone ) .
+The binding affinity of its 17 - dihydrometabolite for the androgen receptor , however , is 100 - times that of the parent compound .
+Daily doses of exemestane up to 25 mg had no significant effect on circulating levels of androstenedione , dehydroepiandrosterone sulfate , or 17 - hydroxyprogesterone , and were associated with small decreases in circulating levels of testosterone .
+Increases in testosterone and androstenedione levels have been observed at daily doses of 200 mg or more .
+A dose - dependent decrease in sex hormone binding globulin ( SHBG ) has been observed with daily exemestane doses of 2 . 5 mg or higher .
+Slight , nondose - dependent increases in serum luteinizing hormone ( LH ) and follicle - stimulating hormone ( FSH ) levels have been observed even at low doses as a consequence of feedback at the pituitary level .
+Exemestane 25 mg daily had no significant effect on thyroid function [ free triiodothyronine ( FT3 ) , free thyroxine ( FT4 ) and thyroid stimulating hormone ( TSH ) ] .
+Coagulation and Lipid EffectsIn study 027 of postmenopausal women with early breast cancer treated with exemestane ( N = 73 ) or placebo ( N = 73 ) , there was no change in the coagulation parameters activated partial thromboplastin time [ APTT ] , prothrombin time [ PT ] and fibrinogen .
+Plasma HDL cholesterol was decreased 6 – 9 % in exemestane treated patients ; total cholesterol , LDL cholesterol , triglycerides , apolipoprotein - A1 , apolipoprotein - B , and lipoprotein - a were unchanged .
+An 18 % increase in homocysteine levels was also observed in exemestane treated patients compared with a 12 % increase seen with placebo .
+CLINICAL STUDIES Adjuvant Treatment in Early Breast CancerThe Intergroup Exemestane Study 031 ( IES ) was a randomized , double - blind , multicenter , multinational study comparing exemestane ( 25 mg / day ) versus tamoxifen ( 20 or 30 mg / day ) in postmenopausal women with early breast cancer .
+Patients who remained disease - free after receiving adjuvant tamoxifen therapy for 2 to 3 years were randomized to receive 3 to 2 years of AROMASIN or tamoxifen to complete a total of 5 years of hormonal therapy .
+The primary objective of the study was to determine whether , in terms of disease - free survival , it was more effective to switch to AROMASIN rather than continuing tamoxifen therapy for the remainder of five years .
+Disease - free survival was defined as the time from randomization to time of local or distant recurrence of breast cancer , contralateral invasive breast cancer , or death from any cause .
+The secondary objectives were to compare the two regimens in terms of overall survival and long - term tolerability .
+Time to contralateral invasive breast cancer and distant recurrence - free survival were also evaluated .
+A total of 4724 patients in the intent - to - treat ( ITT ) analysis were randomized to AROMASIN ( exemestane tablets ) 25 mg once daily ( N = 2352 ) or to continue to receive tamoxifen once daily at the same dose received before randomization ( N = 2372 ) .
+Demographics and baseline tumor characteristics are presented in Table 1 .
+Prior breast cancer therapy is summarized in Table 2 .
+Table 1 .
+Demographic and Baseline Tumor Characteristics from the IES Study of Postmenopausal Women with Early Breast Cancer ( ITT Population ) Parameter Exemestane Tamoxifen Age ( years ) : ( N = 2352 ) ( N = 2372 ) Median age ( range ) 63 . 0 ( 38 . 0 - 96 . 0 ) 63 . 0 ( 31 . 0 - 90 . 0 ) Race , n ( % ) : Caucasian 2315 ( 98 . 4 ) 2333 ( 98 . 4 ) Hispanic 13 ( 0 . 6 ) 13 ( 0 . 5 ) Asian 10 ( 0 . 4 ) 9 ( 0 . 4 ) Black 7 ( 0 . 3 ) 10 ( 0 . 4 ) Other / not reported 7 ( 0 . 3 ) 7 ( 0 . 3 ) Nodal status , n ( % ) : Negative 1217 ( 51 . 7 ) 1228 ( 51 . 8 ) Positive 1051 ( 44 . 7 ) 1044 ( 44 . 0 ) 1 - 3 Positive nodes 721 ( 30 . 7 ) 708 ( 29 . 8 ) 4 - 9 Positive nodes 239 ( 10 . 2 ) 244 ( 10 . 3 ) Greater than 9 Positive nodes 88 ( 3 . 7 ) 86 ( 3 . 6 ) Not reported 3 ( 0 . 1 ) 6 ( 0 . 3 ) Unknown or missing 84 ( 3 . 6 ) 100 ( 4 . 2 ) Histologic type , n ( % ) : Infiltrating ductal 1777 ( 75 . 6 ) 1830 ( 77 . 2 ) Infiltrating lobular 341 ( 14 . 5 ) 321 ( 13 . 5 ) Other 231 ( 9 . 8 ) 213 ( 9 . 0 ) Unknown or missing 3 ( 0 . 1 ) 8 ( 0 . 3 ) Receptor status ( * ) , n ( % ) : ER and PgR Positive 1331 ( 56 . 6 ) 1319 ( 55 . 6 ) ER Positive and PgR Negative / Unknown 677 ( 28 . 8 ) 692 ( 29 . 2 ) ER Unknown and PgR Positive ( ** ) / Unknown 288 ( 12 . 2 ) 291 ( 12 . 3 ) ER Negative and PgR Positive 6 ( 0 . 3 ) 7 ( 0 . 3 ) ER Negative and PgR Negative / Unknown ( none positive ) 48 ( 2 . 0 ) 58 ( 2 . 4 ) Missing 2 ( 0 . 1 ) 5 ( 0 . 2 ) Tumor Size , n ( % ) : Less than or equal to 0 . 5 cm 58 ( 2 . 5 ) 46 ( 1 . 9 ) Greater than 0 . 5 - 1 . 0 cm 315 ( 13 . 4 ) 302 ( 12 . 7 ) Greater than 1 . 0 - 2 cm 1031 ( 43 . 8 ) 1033 ( 43 . 5 ) Greater than 2 . 0 - 5 . 0 cm 833 ( 35 . 4 ) 883 ( 37 . 2 ) Greater than 5 . 0 cm 62 ( 2 . 6 ) 59 ( 2 . 5 ) Not reported 53 ( 2 . 3 ) 49 ( 2 . 1 ) Tumor Grade , n ( % ) : G1 397 ( 16 . 9 ) 393 ( 16 . 6 ) G2 977 ( 41 . 5 ) 1007 ( 42 . 5 ) G3 454 ( 19 . 3 ) 428 ( 18 . 0 ) G4 Unknown / Not Assessed / Not reported 23 ( 1 . 0 501 ( 21 . 3 ) 19 ( 0 . 8 ) 525 ( 22 . 1 ) ( * ) Results for receptor status include the results of the post - randomization testing of specimens from subjects for whom receptor status was unknown at randomization .
+( ** ) Only one subject in the exemestane group had unknown ER status and positive PgR status .
+Table 2 .
+Prior Breast Cancer Therapy of Patients in the IES Study of Postmenopausal Women with Early Breast Cancer ( ITT Population ) Parameter Exemestane ( N = 2352 ) Tamoxifen ( N = 2372 ) Type of surgery , n ( % ) : Mastectomy 1232 ( 52 . 4 ) 1242 ( 52 . 4 ) Breast - conserving 1116 ( 47 . 4 ) 1123 ( 47 . 3 ) Unknown or missing 4 ( 0 . 2 ) 7 ( 0 . 3 ) Radiotherapy to the breast , n ( % ) : Yes 1524 ( 64 . 8 ) 1523 ( 64 . 2 ) No 824 ( 35 . 5 ) 843 ( 35 . 5 ) Not reported 4 ( 0 . 2 ) 6 ( 0 . 3 ) Prior therapy , n ( % ) : Chemotherapy 774 ( 32 . 9 ) 769 ( 32 . 4 ) Hormone replacement therapy 567 ( 24 . 1 ) 561 ( 23 . 7 ) Bisphosphonates 43 ( 1 . 8 ) 34 ( 1 . 4 ) Duration of tamoxifen therapy at randomization months : Median ( range ) 28 . 5 ( 15 . 8 - 52 . 2 ) 28 . 4 ( 15 . 6 - 63 . 0 ) Tamoxifen dose , n ( % ) : 20 mg 2270 ( 96 . 5 ) 2287 ( 96 . 4 ) 30 mg ( * ) 78 ( 3 . 3 ) 75 ( 3 . 2 ) Not reported 4 ( 0 . 2 ) 10 ( 0 . 4 ) ( * ) The 30 mg dose was used only in Denmark , where this dose was the standard of care .
+After a median duration of therapy of 27 months and with a median follow - up of 34 . 5 months , 520 events were reported , 213 in the AROMASIN group and 307 in the tamoxifen group ( Table 3 ) .
+Table 3 .
+Primary Endpoint Events ( ITT Population ) Event First Event N ( % ) Exemestane ( N = 2352 ) Tamoxifen ( N = 2372 ) Loco - regional recurrence 34 ( 1 . 4 ) 45 ( 1 . 90 ) Distant recurrence 126 ( 5 . 36 ) 183 ( 7 . 72 ) Second primary - contralateral breast cancer 7 ( 0 . 30 ) 25 ( 1 . 05 ) Death - breast cancer 1 ( 0 . 04 6 ( 0 . 25 ) Death - other reason 41 ( 1 . 74 ) 43 ( 1 . 81 ) Death - missing / unknown 3 ( 0 . 13 ) 5 ( 0 . 21 ) Ipsilateral breast cancer 1 ( 0 . 04 ) 0 Total number of events 213 ( 9 . 06 ) 307 ( 12 . 94 ) Disease - free survival in the intent - to - treat population was statistically significantly improved [ Hazard Ratio ( HR ) = 0 . 69 , 95 % CI : 0 . 58 , 0 . 82 , P = 0 . 00003 , Table 4 , Figure 1 ] in the AROMASIN arm compared to the tamoxifen arm .
+In the hormone receptor - positive subpopulation representing about 85 % of the trial patients , disease - free survival was also statistically significantly improved ( HR = 0 . 65 , 95 % CI : 0 . 53 , 0 . 79 , P = 0 . 00001 ) in the AROMASIN arm compared to the tamoxifen arm .
+Consistent results were observed in the subgroups of patients with node negative or positive disease , and patients who had or had not received prior chemotherapy .
+Overall survival was not significantly different in the two groups , with 116 deaths occurring in the AROMASIN group and 137 in the tamoxifen group .
+Table 4 .
+Efficacy Results from the IES Study in Postmenopausal Women with Early Breast Cancer Hazard Ratio p - value ITT Population ( 95 % CI ) ( log - rank test ) Disease free survival 0 . 69 ( 0 . 58 - 0 . 82 ) 0 . 00003 Time to contralateral breast cancer 0 . 32 ( 0 . 15 - 0 . 72 ) 0 . 00340 Distant recurrence free survival 0 . 74 ( 0 . 62 - 0 . 90 ) 0 . 00207 Overall survival 0 . 86 ( 0 . 67 - 1 . 10 ) 0 . 22962 ER and / or PgR positive Disease free survival 0 . 65 ( 0 . 53 - 0 . 79 ) 0 . 00001 Time to contralateral breast cancer 0 . 22 ( 0 . 08 - 0 . 57 ) 0 . 00069 Distant recurrence free survival 0 . 73 ( 0 . 59 - 0 . 90 ) 0 . 00367 Overall survival 0 . 88 ( 0 . 67 - 1 . 17 ) 0 . 37460 Figure 1 .
+Disease Free Survival in the IES Study of Postmenopausal Women with Early Breast Cancer ( ITT Population ) [ MULTIMEDIA ] [ MULTIMEDIA ] Treatment of Advanced Breast CancerExemestane 25 mg administered once daily was evaluated in a randomized double - blind , multicenter , multinational comparative study and in two multicenter single - arm studies of postmenopausal women with advanced breast cancer who had disease progression after treatment with tamoxifen for metastatic disease or as adjuvant therapy .
+Some patients also have received prior cytotoxic therapy , either as adjuvant treatment or for metastatic disease .
+The primary purpose of the three studies was evaluation of objective response rate ( complete response [ CR ] and partial response [ PR ] ) .
+Time to tumor progression and overall survival were also assessed in the comparative trial .
+Response rates were assessed based on World Health Organization ( WHO ) criteria , and in the comparative study , were submitted to an external review committee that was blinded to patient treatment .
+In the comparative study , 769 patients were randomized to receive AROMASIN ( exemestane tablets ) 25 mg once daily ( N = 366 ) or megestrol acetate 40 mg four times daily ( N = 403 ) .
+Demographics and baseline characteristics are presented in Table 5 .
+Table 5 .
+Demographics and Baseline Characteristics from the Comparative Study of Postmenopausal Women with Advanced Breast Cancer Whose Disease Had Progressed after Tamoxifen TherapyParameter AROMASIN ( N = 366 ) Megestrol Acetate ( N = 403 ) Median Age ( range ) 65 ( 35 - 89 ) 65 ( 30 - 91 ) ECOG Performance Status 0 1 2 167 ( 46 % ) 162 ( 44 % ) 34 ( 9 % ) 187 ( 46 % ) 172 ( 43 % ) 42 ( 10 % ) Receptor Status ER and / or PgR + ER and PgR unknown Responders to prior tamoxifen NE for response to prior tamoxifen 246 ( 67 % ) 116 ( 32 % ) 68 ( 19 % ) 46 ( 13 % ) 274 ( 68 % ) 128 ( 32 % ) 85 ( 21 % ) 41 ( 10 % ) Site of Metastasis Visceral + other sites Bone only Soft tissue only Bone & soft tissue 207 ( 57 % ) 61 ( 17 % ) 54 ( 15 % ) 43 ( 12 % ) 239 ( 59 % ) 73 ( 18 % ) 51 ( 13 % ) 38 ( 9 % ) Measureable Disease 287 ( 78 % ) 314 ( 78 % ) Prior Tamoxifen Therapy Adjuvant or Neoadjuvant Advanced Disease , Outcome CR , PR or SD greater than or equal to 6 months SD less than months , PD or NE 145 ( 40 % ) 179 ( 49 % ) 42 ( 12 % ) 152 ( 38 % ) 210 ( 52 % ) 41 ( 10 % ) Prior Chemotherapy For advanced disease + adjuvant Adjuvant only No chemotherapy 58 ( 16 % ) 104 ( 28 % ) 203 ( 56 % ) 67 ( 17 % ) 108 ( 27 % ) 226 ( 56 % ) The efficacy results from the comparative study are shown in Table 6 .
+The objective response rates observed in the two treatment arms showed that AROMASIN was not different from megestrol acetate .
+Response rates for AROMASIN from the two single - arm trials were 23 . 4 % and 28 . 1 % .
+Table 6 .
+Efficacy Results from the Comparative Study of Postmenopausal Women with Advanced Breast Cancer Whose Disease Had Progressed after Tamoxifen TherapyResponse Characteristics AROMASIN ( N = 366 ) Megestrol Acetate ( N = 403 ) Objective Response Rate = CR + PR ( % ) 15 . 0 12 . 4 Difference in Response Rate ( AR - MA ) 95 % C . I . 2 . 6 7 . 5 , - 2 . 3 CR ( % ) 2 . 2 1 . 2 PR ( % ) 12 . 8 11 . 2 SD > 24 Weeks ( % ) 21 . 3 21 . 1 Median Duration of Response ( weeks ) 76 . 1 71 . 0 Median TTP ( weeks ) Hazard Ratio ( AR - MA ) 20 . 3 0 . 84 16 . 6 Abbreviations : CR = complete response , PR = partial response , SD = stable disease ( no change ) , TTP = time to tumor progression , C . I . = confidence interval , MA = megestrol acetate , AR = AROMASIN There were too few deaths occurring across treatment groups to draw conclusions on overall survival differences .
+The Kaplan - Meier curve for time to tumor progression in the comparative study is shown in Figure 2 .
+Figure 2 .
+Time to Tumor Progression in the Comparative Study of Postmenopausal Women With Advanced Breast Cancer Whose Disease Had Progressed After Tamoxifen Therapy [ MULTIMEDIA ] [ MULTIMEDIA ] INDICATIONS AND USAGE AROMASIN is indicated for adjuvant treatment of postmenopausal women with estrogen - receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to AROMASIN for completion of a total of five consecutive years of adjuvant hormonal therapy .
+AROMASIN is indicated for the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy .
+CONTRAINDICATIONS AROMASIN Tablets are contraindicated in patients with a known hypersensitivity to the drug or to any of the excipients .
+WARNINGS AROMASIN Tablets may cause fetal harm when administered to a pregnant woman .
+Radioactivity related to 14 C - exemestane crossed the placenta of rats following oral administration of 1 mg / kg exemestane .
+The concentration of exemestane and its metabolites was approximately equivalent in maternal and fetal blood .
+When rats were administered exemestane from 14 days prior to mating until either days 15 or 20 of gestation , and resuming for the 21 days of lactation , an increase in placental weight was seen at 4 mg / kg / day ( approximately 1 . 5 times the recommended human daily dose on a mg / m2 basis ) .
+Prolonged gestation and abnormal or difficult labor was observed at doses equal to or greater than 20 mg / kg / day .
+Increased resorption , reduced number of live fetuses , decreased fetal weight , and retarded ossification were also observed at these doses .
+No malformations were noted when exemestane was administered to pregnant rats during the organogenesis period at doses up to 810 mg / kg / day ( approximately 320 times the recommended human dose on a mg / m2 basis ) .
+Daily doses of exemestane , given to rabbits during organogenesis caused a decrease in placental weight at 90 mg / kg / day ( approximately 70 times the recommended human daily dose on a mg / m2 basis ) .
+Abortions , an increase in resorptions , and a reduction in fetal body weight were seen at 270 mg / kg / day .
+There was no increase in the incidence of malformations in rabbits at doses up to 270 mg / kg / day ( approximately 210 times the recommended human dose on a mg / m2 basis ) .
+There are no studies in pregnant women using AROMASIN .
+AROMASIN is indicated for postmenopausal women .
+If there is exposure to AROMASIN during pregnancy , the patient should be apprised of the potential hazard to the fetus and potential risk for loss of the pregnancy .
+PRECAUTIONS GeneralAROMASIN Tablets should not be administered to premenopausal women .
+AROMASIN should not be coadministered with estrogen - containing agents as these could interfere with its pharmacologic action .
+Hepatic InsufficiencyThe pharmacokinetics of exemestane have been investigated in subjects with moderate or severe hepatic insufficiency ( Childs - Pugh B or C ) .
+Following a single 25 - mg oral dose , the AUC of exemestane was approximately 3 times higher than that observed in healthy volunteers .
+The safety of chronic dosing in patients with moderate or severe hepatic impairment has not been studied .
+Based on experience with exemestane at repeated doses up to 200 mg daily that demonstrated a moderate increase in non - life threatening adverse events , dosage adjustment does not appear to be necessary .
+Renal InsufficiencyThe AUC of exemestane after a single 25 - mg dose was approximately 3 times higher in subjects with moderate or severe renal insufficiency ( creatinine clearance less than 35 mL / min / 1 . 73 m2 ) compared with the AUC in healthy volunteers .
+The safety of chronic dosing in patients with moderate or severe renal impairment has not been studied .
+Based on experience with exemestane at repeated doses up to 200 mg daily that demonstrated a moderate increase in non - life threatening adverse events , dosage adjustment does not appear to be necessary .
+Laboratory TestsIn patients with early breast cancer the incidence of hematological abnormalities of Common Toxicity Criteria ( CTC ) grade greater than or equal to 1 was lower in the exemestane treatment group , compared with tamoxifen .
+Incidence of CTC grade 3 or 4 abnormalities was low ( approximately 0 . 1 % ) in both treatment groups .
+Approximately 20 % of patients receiving exemestane in clinical studies in advanced breast cancer , experienced CTC grade 3 or 4 lymphocytopenia .
+Of these patients , 89 % had a pre - existing lower grade lymphopenia .
+Forty percent of patients either recovered or improved to a lesser severity while on treatment .
+Patients did not have a significant increase in viral infections , and no opportunistic infections were observed .
+Elevations of serum levels of AST , ALT , alkaline phosphatase and gamma glutamyl transferase less than greater than 5 times the upper value of the normal range ( i . e . , greater than or equal to CTC grade 3 ) have been rarely reported in patients treated for advanced breast cancer but appear mostly attributable to the underlying presence of liver and / or bone metastases .
+In the comparative study in advanced breast cancer patients , CTC grade 3 or 4 elevation of gamma glutamyl transferase without documented evidence of liver metastasis was reported in 2 . 7 % of patients treated with AROMASIN and in 1 . 8 % of patients treated with megestrol acetate .
+In patients with early breast cancer , elevations in bilirubin , alkaline phosphatase , and creatinine were more common in those receiving exemestane than either tamoxifen or placebo .
+Treatment emergent bilirubin elevations ( any CTC grade ) occurred in 5 . 3 % of exemestane patients and 0 . 8 % of tamoxifen patients on the IES , and in 6 . 9 % of exemestane treated patients vs . 0 % of placebo treated patients on the 027 study .
+CTC grade 3 – 4 increases in bilirubin occurred in 0 . 9 % of exemestane treated patients compared to 0 . 1 % of tamoxifen treated patients .
+Alkaline phosphatase elevations of any CTC grade occurred in 15 . 0 % of exemestane treated patients on the IES compared to 2 . 6 % of tamoxifen treated patients , and in 13 . 7 % of exemestane treated patients compared to 6 . 9 % of placebo treated patients on study 027 .
+Creatinine elevations occurred in 5 . 8 % of exemestane treated patients and 4 . 3 % of tamoxifen treated patients on the IES and in 5 . 5 % of exemestane treated patients and 0 % of placebo treated patients on study 027 .
+Reductions in bone mineral density ( BMD ) over time are seen with exemestane use .
+Table 7 describes changes in BMD from baseline to 24 months in patients receiving exemestane compared to patients receiving tamoxifen ( IES ) or placebo ( 027 ) .
+Concomitant use of bisphosphonates , Vitamin D supplementation and Calcium was not allowed .
+Table 7 : Percent Change in BMD from Baseline to 24 months , Exemestane vs . Control * IES IES 027 027 BMD Exemestane N = 29 Tamoxifen N = 38 Exemestane N = 59 Placebo N = 65 Lumbar spine ( % ) - 3 . 14 - 0 . 18 - 3 . 51 - 2 . 35 Femoral neck ( % ) - 4 . 15 - 0 . 33 - 4 . 57 - 2 . 59 * For patients who had 24 - month data .
+Drug InteractionsExemestane is extensively metabolized by CYP 3A4 , but coadministration of ketoconazole , a potent inhibitor of CYP 3A4 , has no significant effect on exemestane pharmacokinetics .
+Significant pharmacokinetic interactions mediated by inhibition of CYP isoenzymes therefore appear unlikely .
+Co - medications that induce CYP 3A4 ( e . g . , rifampicin , phenytoin , carbamazepine , phenobarbital , or St . John ' s wort ) may significantly decrease exposure to exemestane .
+Dose modification is recommended for patients who are also receiving a potent CYP 3A4 inducer ( see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY ) .
+Drug / Laboratory Tests InteractionsNo clinically relevant changes in the results of clinical laboratory tests have been observed .
+Carcinogenesis , Mutagenesis , Impairment of FertilityA 2 - year carcinogenicity study in mice at doses of 50 , 150 and 450 mg / kg / day exemestane ( gavage ) , resulted in an increased incidence of hepatocellular adenomas and / or carcinomas in both genders at the high dose level .
+Plasma AUCs ( 0 – 24 hr ) at the high dose were 2575 ± 386 and 5667 ± 1833 ng . hr / mL in males and females ( approx .
+34 and 75 fold the AUC in postmenopausal patients at the recommended clinical dose ) .
+An increased incidence of renal tubular adenomas was observed in male mice at the high dose of 450 mg / kg / day .
+Since the doses tested in mice did not achieve an MTD , neoplastic findings in organs other than liver and kidneys remain unknown .
+A separate carcinogenicity study was conducted in rats at the doses of 30 , 100 and 315 mg / kg / day exemestane ( gavage ) for 92 weeks in males and 2 years in females .
+No evidence of carcinogenic activity up to the highest dose tested of 315 mg / kg / day was observed in females .
+The male rat study was inconclusive since it was terminated prematurely at Week 92 .
+At the highest dose , plasma AUC ( 0 – 24 hr ) levels in male ( 1418 ± 287 ng . hr / mL ) and female ( 2318 ± 1067 ng . hr / mL ) rats were 19 and 31 fold higher than those measured in postmenopausal cancer patients , receiving the recommended clinical dose .
+Exemestane was not mutagenic in vitro in bacteria ( Ames test ) or mammalian cells ( V79 Chinese hamster lung cells ) .
+Exemestane was clastogenic in human lymphocytes in vitro without metabolic activation but was not clastogenic in vivo ( micronucleus assay in mouse bone marrow ) .
+Exemestane did not increase unscheduled DNA synthesis in rat hepatocytes when tested in vitro .
+In a pilot reproductive study in rats , male rats were treated with doses of 125 – 1000 mg / kg / day exemestane , beginning 63 days prior to and during cohabitation .
+Untreated female rats showed reduced fertility when mated to males treated with greater than or equal to 500 mg / kg / day exemestane ( greater than or equal to 200 times the recommended human dose on a mg / m2 basis ) .
+In a separate study , exemestane was given to female rats at 4 – 100 mg / kg / day beginning 14 days prior to mating and through day 15 or 20 of gestation .
+Exemestane increased the placental weights at greater than or equal to 4 mg / kg / day greater than or equal to 1 . 5 times the human dose on a mg / m2 basis ) .
+Exemestane showed no effects on ovarian function , mating behavior , and conception rate in rats given doses up to 20 mg / kg / day ( approximately 8 times the recommended human dose on a mg / m2 basis ) , however , decreases in mean litter size and fetal body weight , along with delayed ossification were evidenced at greater than or equal to 20 mg / kg / day .
+In general toxicology studies , changes in the ovary , including hyperplasia , an increase in the incidence of ovarian cysts and a decrease in corpora lutea were observed with variable frequency in mice , rats and dogs at doses that ranged from 3 – 20 times the human dose on a mg / m2 basis .
+PregnancyPregnancy Category DSee WARNINGS .
+Nursing MothersAROMASIN is only indicated in postmenopausal women .
+However , radioactivity related to exemestane appeared in rat milk within 15 minutes of oral administration of radiolabeled exemestane .
+Concentrations of exemestane and its metabolites were approximately equivalent in the milk and plasma of rats for 24 hours after a single oral dose of 1 mg / kg 14 C - exemestane .
+It is not known whether exemestane is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised if a nursing woman is inadvertently exposed to AROMASIN ( see WARNINGS ) .
+Pediatric UseThe safety and effectiveness of AROMASIN in pediatric patients have not been evaluated .
+Geriatric UseThe use of AROMASIN in geriatric patients does not require special precautions .
+ADVERSE REACTIONS Adjuvant Treatment of Early Breast CancerAROMASIN tolerability in postmenopausal women with early breast cancer was evaluated in two well - controlled trials : the IES study ( see CLINICAL STUDIES ) and the 027 study ( a randomized , placebo - controlled , double - blind , parallel group study specifically designed to assess the effects of exemestane on bone metabolism , hormones , lipids and coagulation factors over 2 years of treatment ) .
+Certain adverse events , expected based on the known pharmacological properties and side effect profiles of test drugs , were actively sought through a positive checklist .
+Signs and symptoms were graded for severity using CTC in both studies .
+Within the IES study , the presence of some illnesses / conditions was monitored through a positive checklist without assessment of severity .
+These included myocardial infarction , other cardiovascular disorders , gynecological disorders , osteoporosis , osteoporotic fractures , other primary cancer , and hospitalizations .
+The median duration of adjuvant treatment was 27 . 4 months and 27 . 3 months for patients receiving AROMASIN or tamoxifen , respectively , within the IES study and 23 . 9 months for patients receiving AROMASIN or placebo within the 027 study .
+Median duration of observation after randomization for AROMASIN was 34 . 5 months and for tamoxifen was 34 . 6 months .
+Median duration of observation was 30 months for both groups in the 027 study .
+AROMASIN was generally well tolerated and adverse events were usually mild to moderate .
+Within the IES study discontinuations due to adverse events occurred in 6 . 3 % and 5 . 1 % of patients receiving AROMASIN and tamoxifen , respectively , and in 12 . 3 % and 4 . 1 % of patients receiving exemestane or placebo within study 027 .
+Deaths due to any cause were reported for 1 . 3 % of the exemestane - treated patients and 1 . 4 % of the tamoxifen - treated patients within the IES study .
+There were 6 deaths due to stroke on the exemestane arm compared to 2 on tamoxifen .
+There were 5 deaths due to cardiac failure on the exemestane arm compared to 2 on tamoxifen .
+The incidence of cardiac ischemic events ( myocardial infarction , angina and myocardial ischemia ) was 1 . 6 % in exemestane treated patients and 0 . 6 % in tamoxifen treated patients in the IES study .
+Cardiac failure was observed in 0 . 4 % of exemestane treated patients and 0 . 3 % of tamoxifen treated patients .
+Treatment - emergent adverse events and illnesses including all causalities and occurring with an incidence of ≥ 5 % in either treatment group of the IES study during or within one month of the end of treatment are shown in Table 8 .
+Table 8 .
+Incidence ( % ) of Adverse Events of all Grades * and Illnesses Occurring in ( ≥ 5 % ) of Patients in Any Treatment Group in Study IES in Postmenopausal Women with Early Breast Cancer % of patients Body system and Adverse Event by MedDRA dictionary AROMASIN 25 mg daily ( N = 2252 ) Tamoxifen 20 mg daily † ( N = 2280 ) Eye Visual disturbances ‡ 5 . 0 3 . 8 Gastrointestinal Nausea ‡ 8 . 5 8 . 7 General Disorders Fatigue ‡ 16 . 1 14 . 7 Musculoskeletal Arthralgia Pain in limb Back pain Osteoarthritis 14 . 6 9 . 0 8 . 6 5 . 9 8 . 6 6 . 4 7 . 2 4 . 5 Nervous System Headache ‡ Dizziness ‡ 13 . 1 9 . 7 10 . 8 8 . 4 Psychiatric Insomnia ‡ Depression 12 . 4 6 . 2 8 . 9 5 . 6 Skin & Subcutaneous Tissue Increased sweating ‡ 11 . 8 10 . 4 Vascular Hot flushes ‡ Hypertension 21 . 2 9 . 8 19 . 9 8 . 4 * Graded according to Common Toxicity Creiteria ; † 75 patients received tamoxifen 30 mg daily ; ‡ Event actively sought .
+In the IES study , as compared to tamoxifen , AROMASIN was associated with a higher incidence of events in the musculoskeletal disorders and in the nervous system disorders , including the following events occurring with frequency lower than 5 % ( osteoporosis [ 4 . 6 % vs . 2 . 8 % ] , osteochondrosis and trigger finger [ 0 . 3 % vs 0 for both events ] , paresthesia [ 2 . 6 % vs . 0 . 9 % ] , carpal tunnel syndrome [ 2 . 4 % vs . 0 . 2 % ] , and neuropathy [ 0 . 6 % vs . 0 . 1 % ] .
+Diarrhea was also more frequent in the exemestane group ( 4 . 2 % vs . 2 . 2 % ) .
+Clinical fractures were reported in 94 patients receiving exemestane ( 4 . 2 % ) and 71 patients receiving tamoxifen ( 3 . 1 % ) .
+After a median duration of therapy of about 30 months and a median follow - up of about 52 months , gastric ulcer was observed at a slightly higher frequency in the AROMASIN group compared to tamoxifen ( 0 . 7 % versus less than 0 . 1 % ) .
+The majority of patients on AROMASIN with gastric ulcer received concomitant treatment with non - steroidal anti - inflammatory agents and / or had a prior history .
+Tamoxifen was associated with a higher incidence of muscle cramps [ 3 . 1 % vs . 1 . 5 % ] , thromboembolism [ 2 . 0 % vs . 0 . 9 % ] , endometrial hyperplasia [ 1 . 7 % vs . 0 . 6 % ] , and uterine polyps [ 2 . 4 % vs . 0 . 4 % ] .
+Common adverse events occurring on study 027 are described in Table 9 .
+Table 9 : Incidence of Selected Treatment - Emergent Adverse Events of all CTC Grades * Occurring in ≥ 5 % of Patients in Either Arm on Study 027 Adverse Event Exemestane N = 73 ( % incidence ) Placebo N = 73 ( % incidence ) Hot flushes 32 . 9 24 . 7 Arthralgia 28 . 8 28 . 8 Increased Sweating 17 . 8 20 . 6 Alopecia 15 . 1 4 . 1 Hypertension 15 . 1 6 . 9 Insomnia 13 . 7 15 . 1 nausea 12 . 3 16 . 4 Fatigue 11 . 0 19 . 2 Abdominal pain 11 . 0 13 . 7 Depression 9 . 6 6 . 9 Diarrhea 9 . 6 1 . 4 Dizziness 9 . 6 9 . 6 Dermatitis 8 . 2 1 . 4 Headache 6 . 9 4 . 1 Myalgia 5 . 5 4 . 1 Edema 5 . 5 6 . 9 Anxiety 4 . 1 5 . 5 * Most events were CTC grade 1 - 2 Treatment of Advanced Breast CancerA total of 1058 patients were treated with exemestane 25 mg once daily in the clinical trials program .
+Exemestane was generally well tolerated , and adverse events were usually mild to moderate .
+Only one death was considered possibly related to treatment with exemestane ; an 80 - year - old woman with known coronary artery disease had a myocardial infarction with multiple organ failure after 9 weeks on study treatment .
+In the clinical trials program , only 3 % of the patients discontinued treatment with exemestane because of adverse events , mainly within the first 10 weeks of treatment ; late discontinuations because of adverse events were uncommon ( 0 . 3 % ) .
+In the comparative study , adverse reactions were assessed for 358 patients treated with AROMASIN and 400 patients treated with megestrol acetate .
+Fewer patients receiving AROMASIN discontinued treatment because of adverse events than those treated with megestrol acetate ( 2 % vs . 5 % ) .
+Adverse events that were considered drug related or of indeterminate cause included hot flashes ( 13 % vs . 5 % ) , nausea ( 9 % vs . 5 % ) , fatigue ( 8 % vs . 10 % ) , increased sweating ( 4 % vs . 8 % ) , and increased appetite ( 3 % vs . 6 % ) .
+The proportion of patients experiencing an excessive weight gain ( greater than 10 % of their baseline weight ) was significantly higher with megestrol acetate than with AROMASIN ( 17 % vs . 8 % ) .
+Table 10 shows the adverse events of all CTC grades , regardless of causality , reported in 5 % or greater of patients in the study treated either with AROMASIN or megestrol acetate .
+Table 10 .
+Incidence ( % ) of Adverse Events of all Grades * and Causes Occurring in ≥ 5 % of Advanced Breast Cancer Patients In Each Treatment Arm in the Comparative StudyBody system and Adverse Event by WHO ART dictionary AROMASIN 25 mg once daily ( N = 358 ) Megestrol Acetate 40 mg QID ( N = 400 ) Autonomic Nervous Increased sweating 6 9 Body as a Whole Fatigue Hot flashes Pain Influenza - like symptoms Edema ( includes edema , peripheral edema , leg edema ) 22 13 13 6 7 29 6 13 5 6 Cardiovascular Hypertension 5 6 Nervous Depression Insomnia Anxiety Dizziness Headache 13 11 10 8 8 9 9 11 6 7 Gastrointestinal Nausea Vomiting Abdominal pain Anorexia Constipation Diarrhea Increased appetit 18 7 6 6 5 4 3 12 4 11 5 8 5 6 Respiratory Dyspnea Coughing 10 6 15 7 * Graded according to Common Toxicity Criteria Less frequent adverse events of any cause ( from 2 % to 5 % ) reported in the comparative study for patients receiving AROMASIN 25 mg once daily were fever , generalized weakness , paresthesia , pathological fracture , bronchitis , sinusitis , rash , itching , urinary tract infection , and lymphedema .
+Additional adverse events of any cause observed in the overall clinical trials program ( N = 1058 ) in 5 % or greater of patients treated with exemestane 25 mg once daily but not in the comparative study included pain at tumor sites ( 8 % ) , asthenia ( 6 % ) and fever ( 5 % ) .
+Adverse events of any cause reported in 2 % to 5 % of all patients treated with exemestane 25 mg in the overall clinical trials program but not in the comparative study included chest pain , hypoesthesia , confusion , dyspepsia , arthralgia , back pain , skeletal pain , infection , upper respiratory tract infection , pharyngitis , rhinitis , and alopecia .
+Post - marketing ExperienceThe following adverse reactions have been identified during post approval use of Aromasin .
+Because reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Cases of hepatitis including cholestatic hepatitis have been observed in clinical trials and reported through post - marketing surveillance .
+OVERDOSAGE Clinical trials have been conducted with exemestane given as a single dose to healthy female volunteers at doses as high as 800 mg and daily for 12 weeks to postmenopausal women with advanced breast cancer at doses as high as 600 mg .
+These dosages were well tolerated .
+There is no specific antidote to overdosage and treatment must be symptomatic .
+General supportive care , including frequent monitoring of vital signs and close observation of the patient , is indicated .
+A male child ( age unknown ) accidentally ingested a 25 - mg tablet of exemestane .
+The initial physical examination was normal , but blood tests performed 1 hour after ingestion indicated leucocytosis ( WBC 25000 / mm3 with 90 % neutrophils ) .
+Blood tests were repeated 4 days after the incident and were normal .
+No treatment was given .
+In mice , mortality was observed after a single oral dose of exemestane of 3200 mg / kg , the lowest dose tested ( about 640 times the recommended human dose on a mg / m2 basis ) .
+In rats and dogs , mortality was observed after single oral doses of exemestane of 5000 mg / kg ( about 2000 times the recommended human dose on a mg / m2 basis ) and of 3000 mg / kg ( about 4000 times the recommended human dose on a mg / m2 basis ) , respectively .
+Convulsions were observed after single doses of exemestane of 400 mg / kg and 3000 mg / kg in mice and dogs ( approximately 80 and 4000 times the recommended human dose on a mg / m2 basis ) , respectively .
+DOSAGE AND ADMINISTRATION The recommended dose of AROMASIN in early and advanced breast cancer is one 25 mg tablet once daily after a meal .
+In postmenopausal women with early breast cancer who have been treated with 2 – 3 years of tamoxifen , treatment with AROMASIN should continue in the absence of recurrence or contralateral breast cancer until completion of five years of adjuvant endocrine therapy .
+For patients with advanced breast cancer , treatment with AROMASIN should continue until tumor progression is evident .
+For patients receiving AROMASIN with a potent CYP 3A4 inducer such as rifampicin or phenytoin , the recommended dose of AROMASIN is 50 mg once daily after a meal .
+The safety of chronic dosing in patients with moderate or severe hepatic or renal impairment has not been studied .
+Based on experience with exemestane at repeated doses up to 200 mg daily that demonstrated a moderate increase in non - life threatening adverse events , dosage adjustment does not appear to be necessary ( see CLINICAL PHARMACOLOGY , Special Populations and PRECAUTIONS ) .
+HOW SUPPLIED AROMASIN Tablets are round , biconvex , and off - white to slightly gray .
+Each tablet contains 25 mg of exemestane .
+The tablets are printed on one side with the number " 7663 " in black .
+AROMASIN is packaged in HDPE bottles with a child - resistant screw cap , supplied in packs of 30 tablets .
+30 - tablet HDPE bottle NDC 54868 - 5261 - 0 Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° – 30 ° C ( 59 ° – 86 ° F ) [ see USP Controlled Room Temperature ] .
+Rx only Distributed by Pfizer Pharmacia & Upjohn Company Division of Pfizer Inc . , NY , NY 10017 PRINCIPAL DISPLAY PANEL AROMASIN Tablets [ MULTIMEDIA ] [ MULTIMEDIA ]

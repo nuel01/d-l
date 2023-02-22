@@ -1,0 +1,153 @@
+1000 mg For Intravenous or Inhalation Administration Package Insert - Instruction for Use DESCRIPTION Pentetate zinc trisodium injection contains the sodium salt of zinc diethylenetriaminepentaacetate .
+Pentetate zinc trisodium is also known as trisodium zinc diethylenetriaminepentaacetate and is commonly referred to as Zn - DTPA .
+It has a molecular formula of Na3ZnC14H18N3O10 and a molecular weight of 522 . 7 Daltons .
+It is represented by the following structural formula : [ MULTIMEDIA ] Zn - DTPA is supplied as a clear , colorless , hyperosmolar ( 1260 mOsmol / kg ) solution in a colorless ampoule containing 5 mL .
+The ampoule contents are sterile , non - pyrogenic and suitable for intravenous administration .
+Each mL of solution contains the equivalent of 200 mg pentetate zinc trisodium ( obtained from 150 . 51 mg pentetic acid , 31 . 14 mg zinc oxide and NaOH ) and water for injection , USP .
+The pH of the solution is adjusted with NaOH and is between 6 . 5 – 7 . 5 .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY General Zn - DTPA forms stable chelates with metal ions by exchanging zinc for a metal of greater binding capacity .
+The radioactive chelates are then excreted by glomerular filtration into the urine .
+In animal studies , Zn - DTPA forms less stable chelates with uranium and neptunium in vivo resulting in deposition of these elements in tissues including the bone .
+Zn - DTPA treatments are not expected to be effective for uranium and neptunium .
+Radioactive iodine is not bound by DTPA .
+Pharmacodynamics In a study of rodents internally contaminated with plutonium , the rate of plutonium elimination was measured after treatment with Ca - DTPA and Zn - DTPA given intravenously as a single dose of 10 to 1 , 000 µmol / kg ( 0 . 54 – 54 × maximum human dose , MHD ) .
+When treated within one hour of internal contamination , Ca - DTPA resulted in about a 10 - fold higher rate of elimination of plutonium in the urine as compared to Zn - DTPA .
+The chelating capacity of Ca - DTPA is greatest immediately and up to approximately 24 hours after internal contamination when the radiocontaminant is still circulating and readily available for chelation .
+After the first dose of Ca - DTPA , maintenance treatment with either Ca - DTPA or Zn - DTPA resulted in similar rates of elimination of radioactivity .
+However , at comparable doses , Zn - DTPA had less toxicity ( e . g . , less depletion of trace metals , lower rate of mortality , the absence of kidney and liver vacuolization , and absence of small bowel hemorrhagic lesions ) .
+In another study , rodents contaminated with aerosolized plutonium and americium were treated with Ca - DTPA and Zn - DTPA .
+The treatment schedule involved inhalation of Ca - DTPA 2 µmol / kg ( 0 . 11 MHD ) 30 minutes after contamination followed by inhalation of Zn - DTPA 2 µmol / kg at approximately 6 hours , 1 , 2 , 3 , and 6 days , then twice weekly to day 26 or day 27 .
+The treatment regime reduced the lung deposit of plutonium and americium to 1 - 2 % of that in untreated animals .
+Systemic deposit in liver and skeleton were reduced by half .
+Literature and U . S . Registry data in humans indicate that intravenous administration of Zn - DTPA forms chelates with radioactive contaminants found in the circulation , interstitial fluid , and tissues .
+When Zn - DTPA is administered by inhalation , it can chelate transuranium elements .
+Expectoration is expected to decrease the amount of radioactive contaminant available for systemic absorption .
+The effectiveness of chelation decreases with time after internal contamination because the transuranium elements become incorporated into the tissues .
+Chelation treatment should be given as soon as possible after known or suspected internal contamination with transuranium elements has occurred .
+( See DOSAGE ADMINISTRATION ) Pharmacokinetics Plasma retention and urinary excretion data were obtained in 2 subjects that received 750 kBq of 14 C - DTPA .
+As shown in Figure 1 , the radiolabeled DTPA was rapidly distributed throughout the extracellular fluid space and was cleared by glomerular filtration .
+The plasma retention up to 7 hours post dosing was expressed by the sum of three exponential components with average half - lives of 1 . 4 min , 14 . 5 min , and 94 . 4 min .
+The level of activity in the plasma was below the limit of detection 24 hours after injection .
+During the study , no detectable activity was exhaled or excreted in the feces .
+By 24 hours , cumulative urinary excretion was more than 99 % of the injected dose .
+[ MULTIMEDIA ] Absorption Zn - DTPA is poorly absorbed in the GI tract .
+In animal studies , after oral administration , absorption was approximately 5 % .
+In a U . S . Registry of 18 patients who received a single inhaled or intravenous dose of 1 gram , urine data indicate that the inhaled product was absorbed and resulted in a comparable elimination of the radiocontaminant .
+One study of 2 human subjects that received Ca - DTPA with 14 C - DTPA by inhalation revealed approximately 20 % absorption from the lungs .
+Human or animal bioavailability comparisons for Zn - DTPA are not available after administration by inhalation and intravenous injection .
+( See CLINICAL PHARMACOLOGY , Clinical Trials ) Distribution Following intravenous administration , Zn - DTPA is rapidly distributed throughout the extracellular fluid space .
+No significant amount of Zn - DTPA penetrates into erythrocytes or other cells .
+No accumulation of Zn - DTPA in specific organs has been observed .
+There is little or no binding of the chelating agent by the renal parenchyma .
+Metabolism Zn - DTPA undergoes a minimal amount of metabolic change in the body .
+Adverse Metabolic Effects Zn - DTPA results in minimal depletion of magnesium and manganese .
+Elimination Zn - DTPA is cleared from the plasma in the first few hours after dosing through urinary excretion by glomerular filtration .
+Renal tubular excretion has not been documented .
+In stool samples , only a very small amount of radioactivity ( < 3 % ) was detected .
+Renal Impaired and / or Compromised Liver Function Patients Adequate and well - controlled pharmacokinetic and pharmacodynamic studies in renally impaired and / or hepatically impaired patients were not identified in the literature .
+Both Zn - DTPA and its radioactive chelates are excreted by glomerular filtration .
+Impaired renal function may decrease their rates of elimination and increase the serum half - life of Zn - DTPA .
+Clinical trials All clinical data has come from the treatment of individuals who were accidentally contaminated .
+Observational data were maintained in a U . S . Registry of individuals with internal radiation contamination primarily from acute occupational contamination with plutonium , americium and curium .
+In 286 individuals , bioassays were available to measure urinary radioactivity elimination after chelation therapy .
+Of these 286 individuals , only 18 had matched pre - and post - chelator urine radioactivity bioassay results available .
+The majority of these individuals received Ca - DTPA as the initial component to their chelation therapy .
+When multiple chelator doses were administered over days , the standard of practice was to switch therapy to Zn - DTPA following an initial dose of Ca - DTPA .
+Although both chelators were considered equipotent 24 hours following internal contamination , Zn - DTPA was considered less toxic .
+In one individual who received 3 doses , 1 gram each , by nebulization ( 1 : 1 Zn - DTPA and saline ) followed by 6 intravenous doses , the urinary excretion of plutonium after the first nebulized dose was increased by a factor of 45 .
+After initial treatment with Ca - DTPA , maintenance treatment was continued with daily 1 gram Zn - DTPA doses administered over a period of days , months or years , depending on the extent of internal contamination and individual response to therapy .
+Treatment was generally continued until the excretion enhancement factor ( EEF ) approached 1 .
+The longest treatment duration was 3 . 5 years .
+Similar increases in urinary radioactivity elimination were supported by data from the remaining 268 individuals in the U . S . Registry and from the literature .
+[ MULTIMEDIA ] INDICATIONS AND USAGE Zn - DTPA is indicated for treatment of individuals with known or suspected internal contamination with plutonium , americium , or curium to increase the rates of elimination .
+CONTRAINDICATIONS None known .
+WARNINGS Nebulized chelation therapy may be associated with exacerbation of asthma .
+Caution should be exercised when administering Zn - DTPA by the inhalation route .
+( See ADVERSE REACTIONS ) PRECAUTIONS General Treatment over several months with Zn - DTPA could lead to depletion of body stores of endogenous metals ( e . g . , magnesium , manganese ) .
+These elements should be monitored routinely and , if appropriate , mineral or vitamin plus mineral supplements should be provided .
+Information for Patients Radioactive metals are known to be excreted in the urine , feces , and breast milk .
+In individuals with recent internal contamination with plutonium , americium , or curium , Zn - DTPA treatment increases excretion of radioactivity in the urine .
+Appropriate safety measures should be taken to minimize contamination of others .
+When possible , a toilet should be used instead of a urinal , and it should be flushed several times after each use .
+Spilled urine or feces should be cleaned up completely and patients should wash their hands thoroughly .
+If blood or urine comes in contact with clothing or linens , they should be washed separately .
+Patients should drink plenty of fluids and void frequently .
+If patients are coughing , any expectorant should be disposed of carefully .
+Swallowing the expectorant should be avoided if possible .
+Parents and child - care givers should take extra precaution in handling the urine , feces , and expectorants of children to avoid any additional exposure to either the caregiver or to the child .
+Nursing mothers should take extra precaution in disposing of breast milk .
+( See PRECAUTIONS , Nursing Mothers ) Laboratory Tests Serum electrolytes and essential metals should be closely monitored during Zn - DTPA treatment .
+Mineral or vitamin plus mineral supplements may be given as appropriate .
+( See PRECAUTIONS ) Drug - Drug Interactions Adequate and well - controlled drug - drug interaction studies in humans were not identified in the literature .
+When an individual is contaminated with multiple radiocontaminants , or when the radiocontaminants are unknown , additional therapies may be needed ( e . g . , Prussian blue , potassium iodide ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies with Zn - DTPA to evaluate carcinogenesis , mutagenesis and impairment of fertility have not been performed .
+Data for Zn - DTPA effects on spermatogenesis are not available .
+Teratogenic Effects Pregnancy Category B There are no human pregnancy outcome data from which to assess the risk of Zn - DTPA exposure on fetal development .
+Reproduction studies have been performed in pregnant mice at doses up to 11 . 5 mmol / kg ( 31 times the recommended daily dose of 1 gram based on body surface area [ BSA ] adjusted dose ) and have revealed no evidence of impaired fertility or harm to the fetus .
+There was a slight reduction in the average birth weight .
+Treatment of pregnant women should begin and continue with Zn - DTPA .
+Because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+The risk of toxicity from untreated internal radioactive contamination should be weighed against the risk of Zn - DTPA treatment .
+Nursing Mothers Studies to determine if Zn - DTPA is excreted in breast milk have not been conducted .
+Radiocontaminants are known to be excreted in breast milk .
+Women with known or suspected internal contamination with radiocontaminants should not breast feed , whether or not they are receiving chelation therapy .
+Precautions should be taken when discarding breast milk .
+( See PRECAUTIONS , Information for Patients ) Pediatric Use The safety and effectiveness of Zn - DTPA was established in the adult population and efficacy was extrapolated to the pediatric population for the intravenous route based on the comparability of pathophysiologic mechanisms .
+The dose is based on body size adjustment for an intravenous drug that is renally cleared .
+The safety and effectiveness of the nebulized route of administration has not been established in the pediatric population .
+ADVERSE REACTIONS In the U . S . Registry , a total of 646 individuals received at least one dose of either Ca - DTPA or Zn - DTPA .
+Of these , 62 received Zn - DTPA by one or more routes of administration .
+Forty - eight individuals were dosed by intravenous administration , 18 by inhalation and 8 by other or unknown routes of administration .
+Of the individuals that received Zn - DTPA , 23 / 62 ( 37 % ) received one dose and 8 ( 13 % ) received two doses .
+The remaining 31 individuals received three or more doses .
+The largest number of Zn - DTPA doses to a single individual was 574 doses delivered over 3 . 5 years .
+Overall , the presence or absence of adverse events was recorded in 310 / 646 individuals .
+Of these 19 ( 6 . 1 % ) individuals reported at least one adverse event .
+The total number of recorded adverse events was 20 .
+Of the 20 adverse events , 1 individual treated with Zn - DTPA reported headache , lightheadedness , and pelvic pain .
+Two individuals experienced cough and / or wheezing with nebulized Ca - DTPA therapy however there was no report of such events with nebulized Zn - DTPA .
+OVERDOSAGE Overdose with Zn - DTPA has not been reported .
+DOSAGE AND ADMINISTRATION Chelation treatment is most effective if administered within the first 24 hours after internal contamination and should be started as soon as possible after suspected or known internal contamination .
+However , even when treatment cannot be started right away , individuals should be given chelation treatment as soon as it becomes available .
+Chelation treatment is still effective even after time has elapsed following internal contamination , however the chelating effects of Zn - DTPA are greatest when the radiocontaminants are still circulating or are in interstitial fluids .
+The effectiveness of chelation decreases with time following internal contamination as the radiocontaminants become sequestered in liver and bone .
+Individuals should drink plenty of fluids and void frequently to promote dilution of the radioactive chelate in the urine and minimize radiation exposure directly to the bladder .
+If internal contamination with radiocontaminants other than plutonium , americium , or curium , or unknown radiocontaminants is suspected , additional therapies may be needed ( e . g . , Prussian blue , potassium iodide ) .
+Initial Dose IT IS PREFERABLE TO ADMINISTER CA - DTPA , IF AVAILABLE , AS THE INITIAL DOSE DURING THE FIRST 24 HOURS AFTER INTERNAL CONTAMINATION BECAUSE CA - DTPA IS MORE EFFECTIVE THAN ZN - DTPA DURING THIS TIME PERIOD .
+AFTER 24 HOURS , ZN - DTPA AND CA - DTPA ARE EQUALLY EFFECTIVE .
+Adults and Adolescents A single 1 . 0 gram initial dose of Zn - DTPA administered intravenously .
+Pediatrics ( less than 12 years of age ) A single initial dose of 14 mg / kg administered intravenously not to exceed 1 . 0 gram .
+Renally impaired patients No dose adjustment is needed .
+However , renal impairment may reduce the rate at which chelators remove radiocontaminants from the body .
+In heavily contaminated patients with renal impairment , dialysis may be used to increase the rate of elimination .
+High efficiency high flux dialysis is recommended .
+Because dialysis fluid will become radioactive , radiation precautions must be taken to protect personnel , other patients , and the general public .
+Maintenance Treatment Adults and Adolescents The recommended maintenance dose of Zn - DTPA is 1 . 0 gram once a day administered intravenously .
+Pediatrics ( less than 12 years of age ) The recommended maintenance dose of Zn - DTPA is 14 mg / kg once a day administered intravenously .
+The maximum daily dose should not exceed 1 . 0 gram per day .
+Renally impaired patients No dose adjustment is needed .
+The duration of chelation treatment depends on the amount of internal contamination and individual response to treatment .
+( See Monitoring ) Methods of Administration The intravenous route is recommended and should be used if the route of internal contamination is not known or if multiple routes of internal contamination are likely .
+Zn - DTPA solution ( 1 gram in 5 mL ) should be administered either with a slow intravenous push over a period of 3 - 4 minutes or by intravenous infusion over 30 minutes diluted in 100 - 250 mL of 5 % dextrose in water ( D5W ) , Ringers Lactate , or Normal Saline .
+In individuals whose internal contamination is only by inhalation , Zn - DTPA can be administered by nebulized inhalation as an alternative route of administration .
+Zn - DTPA should be diluted for nebulization at a 1 : 1 ratio with sterile water or saline .
+After nebulization , individuals should be encouraged to avoid swallowing any expectorant .
+Some individuals may experience respiratory adverse events after inhalation therapy .
+( See WARNINGS ) The safety and effectiveness of the nebulized route of administration has not been established in the pediatric population .
+The safety and effectiveness of the intramuscular route of injection have not been established .
+Handling OPC ampoule : to open , turn so that the point faces upward and break off the neck with a downward movement .
+[ MULTIMEDIA ] Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+The product may be filtered using a sterile filter if particles are seen subsequent to opening of the ampoule .
+Monitoring When possible , obtain baseline blood and urine samples ( CBC with differential , BUN , serum chemistries and electrolytes , urinalysis and blood and urine radioassays ) before initiating treatment .
+To establish an elimination curve , a quantitative baseline estimate of the total internalized transuranium element ( s ) and measures of elimination of radioactivity should be obtained by appropriate whole - body counting , by bioassay ( e . g . , biodosimetry ) , or fecal / urine sample whenever possible .
+During Treatment • Measure the radioactivity in blood , urine , and fecal samples weekly to monitor the radioactive contaminant elimination rate .
+• Monitor CBC with differential , BUN , serum chemistries and electrolytes , and urinalysis measurements regularly .
+• Record any adverse events from Zn - DTPA .
+[ MULTIMEDIA ] HOW SUPPLIED Zn - DTPA is supplied as a sterile solution in 5 mL single - use clear glass ampoules at a concentration of 200 mg / mL for intravenous use .
+Each ampoule contains the equivalent of 1000 mg of pentetate zinc trisodium .
+NDC 52919 - 002 - 03 , 5 mL single - use ampoules , package of 10 .
+Storage Store between 15 - 30 ° C ( 59 - 86 ° F ) .
+COLLECTION OF PATIENT TREATMENT DATA To develop long - term response data and information on the risk of developing late malignancy , detailed information on patient treatment should be provided to the manufacturer ( see Patient Treatment Data Form .
+In the case you need additional forms , please use the enclosed form as a template or see the following website : www . zn - dtpa . com ) .
+These data should include a record of the radioactive body burden and bioassay results at defined time intervals , a description of measurement methods to facilitate analysis of data , and adverse events .
+Questions regarding the use of Zn - DTPA for the treatment of internal contamination with transuranium elements may be referred to : hameln pharmaceuticals gmbh Langes Feld 13 31789 Hameln , Germany Tel . : + 49 - 5151 - 581 - 0 Fax . : + 49 - 5151 - 581 - 258 e - mail : welcome @ hm - ph . com contact person : Dr . Mathias Dewald Tel . : + 49 - 5151 - 581 - 214 Fax . : + 49 - 5151 - 581 - 581 e - mail : m . dewald @ hm - ph . com [ MULTIMEDIA ] [ MULTIMEDIA ] hameln pharmaceuticals 44640 / 19 / 05

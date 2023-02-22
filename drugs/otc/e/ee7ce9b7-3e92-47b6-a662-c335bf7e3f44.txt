@@ -1,0 +1,165 @@
+DESCRIPTION The active ingredient in DIPENTUM Capsules ( olsalazine sodium ) is the sodium salt of a salicylate , disodium 3 , 3 ' - azobis ( 6 - hydroxybenzoate ) a compound that is effectively bioconverted to mesalamine ( 5 - aminosalicylic acid , 5 - ASA ) , an aminosalicylate .
+Its empirical formula is C14H8N2Na2O6 with a molecular weight of 346 . 21 .
+The structural formula is : [ MULTIMEDIA ] Olsalazine sodium is a yellow crystalline powder , which melts with decomposition at 240 ° C .
+It is the sodium salt of a weak acid , soluble in water and DMSO , and practically insoluble in ethanol , chloroform , and ether .
+Olsalazine sodium has acceptable stability under acidic or basic conditions .
+DIPENTUM is supplied in hard gelatin capsules for oral administration .
+The inert ingredient in each 250 mg capsule of olsalazine sodium is magnesium stearate .
+The capsule shell contains the following inactive ingredients : black iron oxide , caramel , gelatin , and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY After oral administration , olsalazine has limited systemic bioavailability .
+Based on oral and intravenous dosing studies , approximately 2 . 4 % of a single 1 . 0 g oral dose is absorbed .
+Less than 1 % of olsalazine is recovered in the urine .
+The remaining 98 to 99 % of an oral dose will reach the colon , where each molecule is rapidly converted into two molecules of 5 - aminosalicylic acid ( 5 - ASA ) by colonic bacteria and the low prevailing redox potential found in this environment .
+The liberated 5 - ASA is absorbed slowly resulting in very high local concentrations in the colon .
+The conversion of olsalazine to mesalamine ( 5 - ASA ) in the colon is similar to that of sulfasalazine , which is converted into sulfapyridine and mesalamine .
+The usual dose of sulfasalazine for maintenance of remission in patients with ulcerative colitis is 2 grams daily , which would provide approximately 0 . 8 gram of mesalamine to the colon .
+More than 0 . 9 gram of mesalamine would usually be made available in the colon from 1 gram of olsalazine .
+The mechanism of action of mesalamine ( and sulfasalazine ) is not fully understood , but appears to be a topical anti - inflammatory effect on colonic epithelial cells .
+Mucosal production of arachidonic acid ( AA ) metabolites , both through the cyclooxygenase pathways ( i . e . , prostanoids ) and through the lipoxygenase pathways ( i . e . , leukotrienes [ LTs ] and hydroxyeicosatetraenoic acids [ HETEs ] ) is increased in patients with ulcerative colitis , and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin ( PG ) production in the colon .
+Pharmacokinetics The pharmacokinetics of olsalazine are similar in both healthy volunteers and in patients with ulcerative colitis .
+Maximum serum concentrations of olsalazine appear after approximately 1 hour and , even after a 1 . 0 g single dose , are low ( e . g . , 1 . 6 to 6 . 2 µmol / L ) .
+Olsalazine has a very short serum half - life , approximately 0 . 9 hour .
+Olsalazine is more than 99 % bound to plasma proteins .
+It does not interfere with protein binding of warfarin .
+The urinary recovery of olsalazine is below 1 % .
+Total recovery of oral 14 C - labeled olsalazine in animals and humans ranges from 90 to 97 % .
+Approximately 0 . 1 % of an oral dose of olsalazine is metabolized in the liver to olsalazine - O - sulfate ( olsalazine - S ) .
+Olsalazine - S , in contrast to olsalazine has a half - life of 7 days .
+Olsalazine - S accumulates to steady state within 2 to 3 weeks .
+Patients on daily doses of 1 . 0 g olsalazine for 2 to 4 years show a stable plasma concentration of olsalazine - S ( 3 . 3 to 12 . 4 µmol / L ) .
+Olsalazine - S is more than 99 % bound to plasma proteins .
+Its long half - life is mainly due to slow dissociation from the protein binding site .
+Less than 1 % of both olsalazine and olsalazine - S appears undissociated in plasma .
+5 - aminosalicylic acid ( 5 - ASA ) : Serum concentrations of 5 - ASA are detected after 4 to 8 hours .
+The peak levels of 5 - ASA after an oral dose of 1 . 0 g olsalazine are low ( i . e . , 0 to 4 . 3 µmol / L ) .
+Of the total 5 - ASA found in the urine , more than 90 % is in the form of N - acetyl - 5 - ASA ( Ac - 5 - ASA ) .
+Only small amounts of 5 - ASA are detected .
+N - acetyl - 5 - ASA ( Ac - 5 - ASA ) , the major metabolite of 5 - ASA found in plasma and urine , is acetylated ( deactivated ) in at least two sites , the colonic epithelium and the liver .
+Ac - 5 - ASA is found in the serum , with peak values of 1 . 7 to 8 . 7 µmol / L after a single 1 . 0 g dose .
+Approximately 20 % of the total 5 - ASA is recovered in the urine , where it is found almost exclusively as Ac - 5 - ASA .
+The remaining 5 - ASA is partially acetylated and is excreted in the feces .
+From fecal dialysis , the concentration of 5 - ASA in the colon following olsalazine has been calculated to be 18 to 49 mmol / L .
+No accumulation of 5 - ASA or Ac - 5 - ASA in plasma has been detected .
+5 - ASA and Ac - 5 - ASA are 74 and 81 % , respectively , bound to plasma proteins .
+ANIMAL TOXICOLOGY Preclinical subacute and chronic toxicity studies in rats have shown the kidney to be the major target organ of olsalazine toxicity .
+At an oral daily dose of 400 mg / kg or higher , olsalazine treatment produced nephritis and tubular necrosis in a 4 - week study ; interstitial nephritis and tubular calcinosis in a 6 - month study , and renal fibrosis , mineralization , and transitional cell hyperplasia in a 1 - year study .
+CLINICAL STUDIES Two controlled studies have demonstrated the efficacy of olsalazine as maintenance therapy in patients with ulcerative colitis .
+In the first , ulcerative colitis patients in remission were randomized to olsalazine 500 mg twice daily or placebo , and relapse rates for a six month period of time were compared .
+For the 52 patients randomized to olsalazine , 12 relapses occurred , while for the 49 placebo patients , 22 relapses occurred .
+This difference in relapse rates was significant ( p < 0 . 02 ) .
+In the second study , 164 ulcerative colitis patients in remission were randomized to olsalazine 500 mg twice daily or sulfasalazine 1 gram twice daily , and relapse rates were compared after six months .
+The relapse rate for olsalazine was 19 . 5 % while that for sulfasalazine was 12 . 2 % , a non - significant difference .
+INDICATIONS AND USAGE DIPENTUM is indicated for the maintenance of remission of ulcerative colitis in adult patients who are intolerant of sulfasalazine .
+CONTRAINDICATIONS DIPENTUM is contraindicated in patients with known or suspected hypersensitivity to salicylates , aminosalicylates or their metabolites , or to any of the excipients in DIPENTUM .
+WARNINGS Renal Impairment Renal impairment , including minimal change disease , acute and chronic interstitial nephritis , and renal failure have been reported in patients given products that contain mesalamine or are converted to mesalamine .
+In animal studies , the kidney was the principal organ of mesalamine toxicity .
+Evaluate the risks and benefits of using DIPENTUM in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs .
+Mesalamine is known to be substantially excreted by the kidney , and the risk of adverse reactions may be greater in patients with impaired renal function .
+Evaluate renal function in all patients prior to initiation and periodically while on DIPENTUM therapy .
+Discontinue DIPENTUM if renal function deteriorates while on therapy .
+Mesalamine - Induced Acute Intolerance Syndrome Olsalazine is converted to mesalamine , which has been associated with an acute intolerance syndrome that may be difficult to distinguish from an exacerbation of ulcerative colitis .
+Symptoms include cramping , acute abdominal pain and bloody diarrhea , sometimes fever , headache , and rash .
+Monitor patients for worsening of these symptoms while on treatment .
+If acute intolerance syndrome is suspected , promptly discontinue treatment with DIPENTUM .
+Hypersensitivity Reactions Some patients who have experienced a hypersensitivity reaction to sulfasalazine may have a similar reaction to DIPENTUM or to other compounds that contain or are converted to mesalamine .
+Mesalamine ‑ induced hypersensitivity reactions may present as internal organ involvement , including myocarditis , pericarditis , nephritis , hepatitis , pneumonitis , and hematologic abnormalities .
+Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present .
+Discontinue DIPENTUM if an alternative etiology for the signs and symptoms cannot be established .
+PRECAUTIONS Hepatic Failure There have been reports of hepatic failure in patients with pre - existing liver disease who have been administered mesalamine .
+Because olsalazine is converted to mesalamine , evaluate the risks and benefits of using DIPENTUM in patients with known liver impairment .
+Severe Cutaneous Adverse Reactions Severe cutaneous adverse reactions , including Stevens - Johnson syndrome ( SJS ) and toxic epidermal necrolysis ( TEN ) , drug reaction with eosinophilia and systemic symptoms ( DRESS ) , and acute generalized exanthematous pustulosis ( AGEP ) have been reported with the use of mesalamine , the active moiety in DIPTENTUM ( see ADVERSE REACTIONS ) .
+Discontinue DIPENTUM at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation .
+Photosensitivity Patients with pre ‑ existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions .
+Advise patients to avoid sun exposure , wear protective clothing , and use a broad - spectrum sunscreen when outdoors .
+Nephrolithiasis Cases of nephrolithiasis have been reported with the use of mesalamine , the active moiety in DIPENTUM , including stones with 100 % mesalamine content .
+Mesalamine ‑ containing stones are radiotransparent and undetectable by standard radiography or computed tomography ( CT ) .
+Ensure adequate hydration during treatment .
+Interference with Laboratory Tests Use of DIPENTUM , which is converted to mesalamine , may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine ’ s main metabolite , N ‑ acetyl ‑ 5 ‑ aminosalicylic acid ( N ‑ Ac ‑ 5 ‑ ASA ) .
+Consider an alternative , selective assay for normetanephrine .
+Information for Patients Patients should be instructed to take DIPENTUM with food .
+The drug should be taken in evenly divided doses .
+Patients should be informed that about 17 % of subjects receiving DIPENTUM during clinical studies reported diarrhea sometime during therapy .
+If diarrhea occurs , patients should contact their physician .
+Drug Interactions Nephrotoxic Agents , Including Non - Steroidal Anti - Inflammatory Drugs The concurrent use of mesalamine with known nephrotoxic agents , including non ‑ steroidal anti ‑ inflammatory drugs ( NSAIDs ) , may increase the risk of nephrotoxicity .
+Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine - related adverse reactions .
+Azathioprine or 6 - Mercaptopurine The concurrent use of mesalamine with azathioprine or 6 ‑ mercaptopurine and / or any other drugs known to cause myelotoxicity ( e . g . , thioguanine ) may increase the risk for blood disorders , bone marrow failure , and associated complications .
+If concomitant use of DIPENTUM and azathioprine or 6 - mercaptopurine cannot be avoided , monitor blood tests , including complete blood cell counts and platelet counts .
+Low Molecular Weight Heparins or Heparinoids The co - administration of salicylates and low molecular weight heparins or heparinoids may result in an increased risk of bleeding ( i . e . , hematomas ) following neuraxial anesthesia .
+Salicylates should be discontinued prior to the initiation of a low molecular weight heparin or heparinoid .
+If this is not possible , it is recommended to monitor patients closely for bleeding .
+Warfarin Increased prothrombin time in patients taking concomitant warfarin has been reported .
+Monitor INR and prothrombin time and adjust the dosage of warfarin , as needed with concomitant use of DIPENTUM , to maintain the target INR range .
+Varicella Vaccine It is recommended not to give salicylates for six weeks after the varicella vaccine to avoid a possible increased risk of developing Reye ’ s syndrome .
+Drug / Laboratory Test Interactions None known .
+Carcinogenesis , Mutagenesis , Impairment of Fertility In a two year oral rat carcinogenicity study , olsalazine was tested in male and female Wistar rats at daily doses of 200 , 400 , and 800 mg / kg / day ( approximately 10 to 40 times the human maintenance dose , based on a patient weight of 50 kg and a human dose of 1 g ) .
+Urinary bladder transitional cell carcinomas were found in three male rats ( 6 % , p = 0 . 022 , exact trend test ) receiving 40 times the human dose and were not found in untreated male controls .
+In the same study , urinary bladder transitional cell carcinoma and papilloma occurred in 2 untreated control female rats ( 2 % ) .
+No such tumors were found in any of the female rats treated at doses up to 40 times the human dose .
+In an eighteen month oral mouse carcinogenicity study , olsalazine was tested in male and female CD - 1 mice at daily doses of 500 , 1000 , and 2000 mg / kg / day ( approximately 25 to 100 times the human maintenance dose ) .
+Liver hemangiosarcomata were found in two male mice ( 4 % ) receiving olsalazine at 100 times the human dose , while no such tumor occurred in the other treated male mice groups or any of the treated female mice .
+The observed incidence of this tumor is within the 4 % incidence in historical controls .
+Olsalazine was not mutagenic in in vitro Ames tests , mouse lymphoma cell mutation assays , human lymphocyte chromosomal aberration tests , or the in vivo rat bone marrow cell chromosomal aberration test .
+Olsalazine in a dose range of 100 to 400 mg / kg / day ( approximately 5 to 20 times the human maintenance dose ) did not influence the fertility of male or female rats .
+The oligospermia and infertility in men associated with sulfasalazine have not been reported with olsalazine .
+Pregnancy Teratogenic Effects Olsalazine has been shown to produce fetal developmental toxicity as indicated by reduced fetal weights , retarded ossifications , and immaturity of the fetal visceral organs when given during organogenesis to pregnant rats in doses 5 to 20 times the human dose ( 100 to 400 mg / kg ) .
+There are no adequate and well - controlled studies in pregnant women .
+Olsalazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Small amounts of the active metabolite of olsalazine ( 5 - ASA ) may pass into breast milk .
+Harmful infant effects ( diarrhea ) have been reported when 5 - ASA was used during breastfeeding .
+Unless the benefit of the treatment outweighs the risks , olsalazine should not be taken by breast - feeding women , or patients should be advised to discontinue breastfeeding if using olsalazine .
+Oral administration of olsalazine to lactating rats in doses 5 to 20 times the human dose produced growth retardation in their pups .
+Pediatric Use Safety and effectiveness in a pediatric population have not been established .
+Geriatric Use Clinical studies of DIPENTUM did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias ( i . e . , agranulocytosis , neutropenia and pancytopenia ) in patients receiving mesalamine - containing products such as DIPENTUM who were 65 years or older compared to younger patients , which may also be associated with ulcerative colitis , use of interacting drugs , or reduced renal function .
+Consider monitoring of complete blood cell counts and platelet counts in elderly patients during treatment with DIPENTUM , especially if used concomitantly with anticoagulants .
+In general , consider the greater frequency of decreased hepatic , renal , or cardiac function , and of concurrent disease or other drug therapy in elderly patients when prescribing DIPENTUM .
+Renal Mesalamine is known to be substantially excreted by the kidney , and the risk of adverse reactions to DIPENTUM , which is converted to mesalamine , may be greater in patients with impaired renal function .
+Evaluate renal function in all patients prior to initiation and periodically while on DIPENTUM therapy .
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine - related adverse reactions .
+Discontinue DIPENTUM if renal function deteriorates while on therapy .
+Hepatic There have been reports of hepatic failure in patients with pre - existing liver disease who have been administered other products containing mesalamine .
+Evaluate the risks and benefits of using DIPENTUM in patients with known liver impairment .
+ADVERSE REACTIONS Olsalazine has been evaluated in ulcerative colitis patients in remission , as well as those with acute disease .
+Both sulfasalazine - tolerant and intolerant patients have been studied in controlled clinical trials .
+Overall , 10 . 4 % of patients discontinued olsalazine because of an adverse experience compared with 6 . 7 % of placebo patients .
+The most commonly reported adverse reactions leading to treatment withdrawal were diarrhea or loose stools ( olsalazine 5 . 9 % ; placebo 4 . 8 % ) , abdominal pain , and rash or itching ( slightly more than 1 % of patients receiving olsalazine ) .
+Diarrhea Overall , approximately 17 % of subjects receiving olsalazine in clinical studies reported diarrhea sometime during therapy .
+This diarrhea resulted in withdrawal of treatment in 6 % of patients .
+This diarrhea appears to be dose related , although it may be difficult to distinguish from the underlying symptoms of the disease .
+Other adverse reactions to olsalazine leading to withdrawal occurred in fewer than 1 % of patients ( Table 1 ) .
+Table 1 Adverse Reactions Resulting In Withdrawal From Controlled Studies Total Olsalazine ( N = 441 ) Placebo ( N = 208 ) Diarrhea / Loose Stools 26 ( 5 . 9 % ) 10 ( 4 . 8 % ) Nausea 3 2 Abdominal Pain 5 ( 1 . 1 % ) 0 Rash / Itching 5 ( 1 . 1 % ) 0 Headache 3 0 Heartburn 2 0 Rectal Bleeding 1 0 Insomnia 1 0 Dizziness 1 0 Anorexia 1 0 Light Headedness 1 0 Depression 1 0 Miscellaneous 4 ( 0 . 9 % ) 3 ( 1 . 4 % ) Total Number of Patients Withdrawn 46 ( 10 . 4 % ) 14 ( 6 . 7 % ) For those controlled studies , the comparative incidences of adverse reactions reported in 1 % or more patients treated with olsalazine or placebo are provided in Table 2 .
+Table 2 Comparative Incidence ( % ) of Adverse Effects Reported By One Percent Or More of Ulcerative Colitis Patients Treated With Olsalazine Or Placebo in Double Blind Controlled StudiesAdverse Event Olsalazine ( N = 441 ) % Placebo ( N = 208 ) % Gastrointestinal Disorders Diarrhea 11 . 1 6 . 7 Abdominal Pain / Cramps 10 . 1 7 . 2 Nausea 5 . 0 3 . 9 Dyspepsia 4 . 0 4 . 3 Bloating 1 . 5 1 . 4 Vomiting 1 . 0 - Stomatitis 1 . 0 - Increased Blood in Stool - 3 . 4 Metabolism and Nutrition Disorders Anorexia 1 . 3 1 . 9 Nervous System Disorders Headache 5 . 0 4 . 8 Insomnia - 2 . 4 General Disorders and Administration Site Conditions Fatigue / Drowsiness / Lethargy 1 . 8 2 . 9 Psychiatric Disorders Depression 1 . 5 - Ear and Labyrinth Disorders Vertigo / Dizziness 1 . 0 - Skin and Subcutaneous Tissue Disorders Rash 2 . 3 1 . 4 Itching 1 . 3 - Musculoskeletal and Connective Tissue Disorders Arthralgia / Joint Pain 4 . 0 2 . 9 Infections and Infestations Upper Respiratory Infection 1 . 5 - Over 2 , 500 patients have been treated with olsalazine in various controlled and uncontrolled clinical studies .
+In these as well as in post - marketing experience , olsalazine was administered mainly to patients intolerant to sulfasalazine .
+There have been rare reports of the following adverse effects in patients receiving olsalazine .
+These were often difficult to distinguish from possible symptoms of the underlying disease or from the effects of prior and / or concomitant therapy .
+A causal relationship to the drug has not been demonstrated for some of these reactions .
+Blood and Lymphatic System Disorders : Anemia , Eosinophilia , Hemolytic anemia , Interstitial pulmonary disease , Leukopenia , Lymphopenia , Neutropenia , Reticulocytosis , Thrombocytopenia Cardiac Disorders : Chest pains , Heart block second degree , Myocarditis , Palpitations , Pericarditis , Peripheral edema , Shortness of breath , Tachycardia A patient who developed thyroid disease 9 days after starting DIPENTUM was given propranolol and radioactive iodine and subsequently developed shortness of breath and nausea .
+The patient died 5 days later with signs and symptoms of acute diffuse myocarditis .
+Ear and Labyrinth Disorders : Tinnitus Eye Disorders : Dry eyes , Vision blurred , Watery eyes Gastrointestinal Disorders : Abdominal pain ( upper ) , Diarrhea with dehydration , Dry mouth , Epigastric discomfort , Flare in symptoms , Flatulence , Increased blood in stool , Pancreatitis , Rectal bleeding , Rectal discomfort In a double - blind , placebo - controlled study , increased frequency and severity of diarrhea were reported in patients randomized to olsalazine 500 mg B . I . D . with concomitant pelvic radiation .
+Rare cases of granulomatous hepatitis and nonspecific , reactive hepatitis have been reported in patients receiving olsalazine .
+Additionally , a patient developed mild cholestatic hepatitis during treatment with sulfasalazine and experienced the same symptoms two weeks later after the treatment was changed to olsalazine .
+Withdrawal of olsalazine led to complete recovery in these cases .
+General Disorders and Administration Site Conditions : Fever chills , Hot flashes , Irritability , Rigors Immune System Disorders : Bronchospasm , Erythema nodosum Laboratory : ALT ( SGPT ) or AST ( SGOT ) elevated beyond the normal range .
+Musculoskeletal and Connective Tissue Disorders : Muscle cramps Nervous System Disorders : Insomnia , Paraesthesia , Tremors Psychiatric Disorders : Mood swings Renal and Urinary Disorders : Dysuria , Hematuria , Interstitial nephritis , Nephrotic syndrome , Proteinuria , Urinary frequency Reproductive System and Breast Disorders : Impotence , Menorrhagia Skin and Subcutaneous Tissue Disorders : Alopecia , Erythema , Photosensitivity reaction Vascular Disorders : Hypertension , Orthostatic hypotension Postmarketing The following events have been identified during post - approval use of products that contain ( or are metabolized to ) mesalamine in clinical practice .
+Because they are reported voluntarily from a population of unknown size , estimates of frequency cannot be made .
+These events have been chosen for inclusion due to a combination of seriousness , frequency of reporting , or potential causal connection to mesalamine : Blood and Lymphatic System Disorders : Aplastic anemia , Pancytopenia General Disorders and Administration Site Conditions : Pyrexia Hepatobiliary Disorders : Hepatic enzyme increased , Hepatitis , Increased bilirubin Reports of hepatotoxicity , including elevated liver function tests ( SGOT / AST , SGPT / ALT , GGT , LDH , alkaline phosphatase , bilirubin ) , jaundice , cholestatic jaundice , cirrhosis , and possible hepatocellular damage including liver necrosis and liver failure .
+Some of these cases were fatal .
+One case of Kawasaki - like syndrome , which included hepatic function changes , was also reported .
+Musculoskeletal and Connective Tissue Disorders : Myalgia Respiratory , Thoracic and Mediastinal Disorders : Dyspnea , Interstitial lung disease , pleurisy / pleuritis Skin and Subcutaneous Tissue Disorders : Angioneurotic edema , SJS / TEN , DRESS , and AGEP Nervous System Disorders : Paresthesia , Peripheral neuropathy Renal and Urinary Disorders : Interstitial nephritis , nephrolithiasis To report SUSPECTED ADVERSE REACTIONS , contact Meda Pharmaceuticals Inc . at 1 - 888 - 380 - 3276 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+OVERDOSAGE DIPENTUM is an aminosalicylate , and symptoms of salicylate toxicity include : nausea , vomiting and abdominal pain , tachypnea , hyperpnea , tinnitus , and neurologic symptoms ( headache , dizziness , confusion , seizures ) .
+Severe intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ ( e . g . , renal and liver ) damage .
+There is no specific antidote for olsalazine overdose ; however , conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent of further absorption .
+Proper medical care should be sought immediately with appropriate supportive care , including the possible use of emesis , cathartics , and activated charcoal to prevent further absorption .
+Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function .
+DOSAGE AND ADMINISTRATION The recommended dosage in adults for maintenance of remission of ulcerative colitis is 500 mg twice daily .
+Drink an adequate amount of fluids during treatment .
+HOW SUPPLIED Beige colored capsules , containing 250 mg olsalazine sodium imprinted with “ DIPENTUM ® 250 mg ” on the capsule shell , available as : Bottles of 100 ’ s NDC 0037 - 6860 - 10 Store at 20 - 25 ° C ( 77 ° F ) .
+Excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ see USP Controlled Room Temperature ] .
+Manufactured for : MEDA PHARMACEUTICALS ® Somerset , New Jersey 08873 - 4120 Manufactured by : Societal CDMO Gainesville , LLC Gainesville , GA 30504 , USA © 2022 Viatris Inc .
+DIPENTUM is a registered trademark of Alaven Pharmaceutical LLC , a Viatris Company .
+Rev . 12 / 2022 IN - 686010 - X11 PRINCIPAL DISPLAY PANEL – 250 mg NDC 0037 - 6860 - 10 Dipentum ® ( olsalazine sodium ) capsule , gelatin coated 250 mg Rx only 100 Capsules USUAL DOSAGE : See package circular for complete product information .
+PHARMACIST : Dispense in a well - closed container .
+Store at 25 ° C ( 77 ° F ) ; excursions 15 ° - 30 ° C ( 59 ° - 86 ° F ) .
+Distributed by : MEDA PHARMACEUTICALS ® Somerset , New Jersey 08873 - 4120 Manufactured by : Societal CDMO Gainesville , LLC Gainesville , GA 30504 , USA © 2022 Viatris Inc .
+DIPENTUM is a registered trademark of Alaven Pharmaceutical LLC , a Viatris Company .
+LB - 686010 - 04 6003065 - 03 [ MULTIMEDIA ] [ MULTIMEDIA ]

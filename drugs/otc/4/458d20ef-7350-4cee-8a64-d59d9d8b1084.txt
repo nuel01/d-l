@@ -1,0 +1,486 @@
+WARNINGS EPZICOM contains 2 nucleoside analogues ( abacavir sulfate and lamivudine ) and is intended only for patients whose regimen would otherwise include these 2 components .
+Hypersensitivity Reactions : Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir sulfate , a component of EPZICOM .
+Hypersensitivity to abacavir is a multi - organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups : ( 1 ) fever , ( 2 ) rash , ( 3 ) gastrointestinal ( including nausea , vomiting , diarrhea , or abdominal pain ) , ( 4 ) constitutional ( including generalized malaise , fatigue , or achiness ) , and ( 5 ) respiratory ( including dyspnea , cough , or pharyngitis ) .
+Discontinue EPZICOM as soon as a hypersensitivity reaction is suspected .
+Patients who carry the HLA - B * 5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir .
+Prior to initiating therapy with abacavir , screening for the HLA - B * 5701 allele is recommended ; this approach has been found to decrease the risk of hypersensitivity reaction .
+Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA - B * 5701 status who have previously tolerated abacavir .
+HLA - B * 5701 - negative patients may develop a suspected hypersensitivity reaction to abacavir ; however , this occurs significantly less frequently than in HLA - B * 5701 - positive patients .
+Regardless of HLA - B * 5701 status , permanently discontinue EPZICOM if hypersensitivity cannot be ruled out , even when other diagnoses are possible .
+Following a hypersensitivity reaction to abacavir , NEVER restart EPZICOM or any other abacavir - containing product because more severe symptoms can occur within hours and may include life - threatening hypotension and death .
+Reintroduction of EPZICOM or any other abacavir - containing product , even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy , can result in serious or fatal hypersensitivity reactions .
+Such reactions can occur within hours ( see WARNINGS and PRECAUTIONS : Information for Patients ) .
+Lactic Acidosis and Severe Hepatomegaly : Lactic acidosis and severe hepatomegaly with steatosis , including fatal cases , have been reported with the use of nucleoside analogues alone or in combination , including abacavir , lamivudine , and other antiretrovirals ( see WARNINGS ) .
+Exacerbations of Hepatitis B : Severe acute exacerbations of hepatitis B have been reported in patients who are co - infected with hepatitis B virus ( HBV ) and human immunodeficiency virus ( HIV - 1 ) and have discontinued lamivudine , which is one component of EPZICOM .
+Hepatic function should be monitored closely with both clinical and laboratory follow - up for at least several months in patients who discontinue EPZICOM and are co - infected with HIV - 1 and HBV .
+If appropriate , initiation of anti - hepatitis B therapy may be warranted ( see WARNINGS ) .
+DESCRIPTION EPZICOM : EPZICOM Tablets contain the following 2 synthetic nucleoside analogues : abacavir sulfate ( ZIAGEN ® , also a component of TRIZIVIR ® ) and lamivudine ( also known as EPIVIR ® or 3 TC ) with inhibitory activity against HIV - 1 .
+EPZICOM Tablets are for oral administration .
+Each orange , film - coated tablet contains the active ingredients 600 mg of abacavir as abacavir sulfate and 300 mg of lamivudine , and the inactive ingredients magnesium stearate , microcrystalline cellulose , and sodium starch glycolate .
+The tablets are coated with a film ( OPADRY ® orange YS - 1 - 13065 - A ) that is made of FD & C Yellow No . 6 , hypromellose , polyethylene glycol 400 , polysorbate 80 , and titanium dioxide .
+Abacavir Sulfate : The chemical name of abacavir sulfate is ( 1 S , cis ) - 4 - [ 2 - amino - 6 - ( cyclopropylamino ) - 9 H - purin - 9 - yl ] - 2 - cyclopentene - 1 - methanol sulfate ( salt ) ( 2 : 1 ) .
+Abacavir sulfate is the enantiomer with 1 S , 4 R absolute configuration on the cyclopentene ring .
+It has a molecular formula of ( C14H18N6O ) 2 • H2SO4 and a molecular weight of 670 . 76 daltons .
+It has the following structural formula : [ MULTIMEDIA ] Abacavir sulfate is a white to off - white solid with a solubility of approximately 77 mg / mL in distilled water at 25 ° C .
+In vivo , abacavir sulfate dissociates to its free base , abacavir .
+All dosages for abacavir sulfate are expressed in terms of abacavir .
+Lamivudine : The chemical name of lamivudine is ( 2 R , cis ) - 4 - amino - 1 - ( 2 - hydroxymethyl - 1 , 3 - oxathiolan - 5 - yl ) - ( 1 H ) - pyrimidin - 2 - one .
+Lamivudine is the ( - ) enantiomer of a dideoxy analogue of cytidine .
+Lamivudine has also been referred to as ( - ) 2 ′ , 3 ′ - dideoxy , 3 ′ - thiacytidine .
+It has a molecular formula of C8H11N3O3S and a molecular weight of 229 . 3 daltons .
+It has the following structural formula : [ MULTIMEDIA ] Lamivudine is a white to off - white crystalline solid with a solubility of approximately 70 mg / mL in water at 20 ° C . [ MULTIMEDIA ] [ MULTIMEDIA ] MICROBIOLOGY Mechanism of Action : Abacavir is a carbocyclic synthetic nucleoside analogue .
+Abacavir is converted by cellular enzymes to the active metabolite , carbovir triphosphate ( CBV - TP ) , an analogue of deoxyguanosine - 5 ′ - triphosphate ( dGTP ) .
+CBV - TP inhibits the activity of HIV - 1 reverse transcriptase ( RT ) both by competing with the natural substrate dGTP and by its incorporation into viral DNA .
+The lack of a 3 ′ - OH group in the incorporated nucleotide analogue prevents the formation of the 5 ′ to 3 ′ phosphodiester linkage essential for DNA chain elongation , and therefore , the viral DNA growth is terminated .
+CBV - TP is a weak inhibitor of cellular DNA polymerases α , β , and γ .
+Lamivudine is a synthetic nucleoside analogue .
+Intracellularly lamivudine is phosphorylated to its active 5 ′ - triphosphate metabolite , lamivudine triphosphate ( 3 TC - TP ) .
+The principal mode of action of 3 TC - TP is inhibition of RT via DNA chain termination after incorporation of the nucleotide analogue .
+CBV - TP and 3 TC - TP are weak inhibitors of cellular DNA polymerases α , β , and γ .
+Antiviral Activity : Abacavir : The antiviral activity of abacavir against HIV - 1 was evaluated against a T - cell tropic laboratory strain HIV - 1 IIIB in lymphoblastic cell lines , a monocyte / macrophage tropic laboratory strain HIV - 1 BaL in primary monocytes / macrophages , and clinical isolates in peripheral blood mononuclear cells .
+The concentration of drug necessary to effect viral replication by 50 percent ( EC50 ) ranged from 3 . 7 to 5 . 8 μM ( 1 μM = 0 . 28 mcg / mL ) and 0 . 07 to 1 . 0 μM against HIV - 1 IIIB and HIV - 1 BaL , respectively , and was 0 . 26 ± 0 . 18 μM against 8 clinical isolates .
+The EC50 values of abacavir against different HIV - 1 clades ( A - G ) ranged from 0 . 0015 to 1 . 05 μM , and against HIV - 2 isolates , from 0 . 024 to 0 . 49 μM .
+Ribavirin ( 50 μM ) had no effect on the anti – HIV - 1 activity of abacavir in cell culture .
+Lamivudine : The antiviral activity of lamivudine against HIV - 1 was assessed in a number of cell lines ( including monocytes and fresh human peripheral blood lymphocytes ) using standard susceptibility assays .
+EC50 values were in the range of 0 . 003 to 15 μM ( 1 μM = 0 . 23 mcg / mL ) .
+HIV - 1 from therapy - naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0 . 429 µM ( range : 0 . 200 to 2 . 007 µM ) from Virco ( n = 92 baseline samples from COLA40263 ) and 2 . 35 µM ( 1 . 37 to 3 . 68 µM ) from Monogram Biosciences ( n = 135 baseline samples from ESS30009 ) .
+The EC50 values of lamivudine against different HIV - 1 clades ( A - G ) ranged from 0 . 001 to 0 . 120 µM , and against HIV - 2 isolates from 0 . 003 to 0 . 120 μM in peripheral blood mononuclear cells .
+Ribavirin ( 50 μM ) decreased the anti – HIV - 1 activity of lamivudine by 3 . 5 fold in MT - 4 cells .
+The combination of abacavir and lamivudine has demonstrated antiviral activity in cell culture against non - subtype B isolates and HIV - 2 isolates with equivalent antiviral activity as for subtype B isolates .
+Abacavir / lamivudine had additive to synergistic activity in cell culture in combination with the nucleoside reverse transcriptase inhibitors ( NRTIs ) emtricitabine , stavudine , tenofovir , zalcitabine , zidovudine ; the non - nucleoside reverse transcriptase inhibitors ( NNRTIs ) delavirdine , efavirenz , nevirapine ; the protease inhibitors ( PIs ) amprenavir , indinavir , lopinavir , nelfinavir , ritonavir , saquinavir ; or the fusion inhibitor , enfuvirtide .
+Ribavirin , used in combination with interferon for the treatment of HCV infection , decreased the anti - HIV - 1 potency of abacavir / lamivudine reproducibly by 2 - to 6 - fold in cell culture .
+Resistance : HIV - 1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture and have also been obtained from patients failing abacavir / lamivudine - containing regimens .
+Genotypic characterization of abacavir / lamivudine - resistant viruses selected in cell culture identified amino acid substitutions M184V / I , K65R , L74V , and Y115F in HIV - 1 RT .
+Genotypic analysis of isolates selected in cell culture and recovered from abacavir - treated patients demonstrated that amino acid substitutions K65R , L74V , Y115F , and M184V / I in HIV - 1 RT contributed to abacavir resistance .
+Genotypic analysis of isolates selected in cell culture and recovered from lamivudine - treated patients showed that the resistance was due to a specific amino acid substitution in HIV - 1 RT at codon 184 changing the methionine to either isoleucine or valine ( M184V / I ) .
+In a study of therapy - naive adults receiving ZIAGEN 600 mg once daily ( n = 384 ) or 300 mg twice daily ( n = 386 ) in a background regimen of lamivudine 300 mg and efavirenz 600 mg once daily ( Study CNA30021 ) , the incidence of virologic failure at 48 weeks was similar between the 2 groups ( 11 % in both arms ) .
+Genotypic ( n = 38 ) and phenotypic analyses ( n = 35 ) of virologic failure isolates from this study showed that the RT substitutions that emerged during abacavir / lamivudine once - daily and twice - daily therapy were K65R , L74V , Y115F , and M184V / I .
+The abacavir - and lamivudine - associated resistance substitution M184V / I was the most commonly observed substitution in virologic failure isolates from patients receiving abacavir / lamivudine once daily ( 56 % , 10 / 18 ) and twice daily ( 40 % , 8 / 20 ) .
+Thirty - nine percent ( 7 / 18 ) of the isolates from patients who experienced virologic failure in the abacavir once - daily arm had a > 2 . 5 - fold decrease in abacavir susceptibility with a median - fold decrease of 1 . 3 ( range : 0 . 5 to 11 ) compared with 29 % ( 5 / 17 ) of the failure isolates in the twice - daily arm with a median - fold decrease of 0 . 92 ( range : 0 . 7 to 13 ) .
+Fifty - six percent ( 10 / 18 ) of the virologic failure isolates in the once - daily abacavir group compared with 41 % ( 7 / 17 ) of the failure isolates in the twice - daily abacavir group had a > 2 . 5 - fold decrease in lamivudine susceptibility with median - fold changes of 81 ( range 0 . 79 to > 116 ) and 1 . 1 ( range 0 . 68 to > 116 ) in the once - daily and twice - daily abacavir arms , respectively .
+Cross - Resistance : Cross - resistance has been observed among NRTIs .
+Viruses containing abacavir and lamivudine resistance - associated amino acid substitutions , namely , K65R , L74V , M184V , and Y115F , exhibit cross - resistance to didanosine , emtricitabine , lamivudine , tenofovir , and zalcitabine in cell culture and in patients .
+The K65R substitution can confer resistance to abacavir , didanosine , emtricitabine , lamivudine , stavudine , tenofovir , and zalcitabine ; the L74V substitution can confer resistance to abacavir , didanosine , and zalcitabine ; and the M184V substitution can confer resistance to abacavir , didanosine , emtricitabine , lamivudine , and zalcitabine .
+The combination of abacavir / lamivudine has demonstrated decreased susceptibility to viruses with the substitutions K65R with or without the M184V / I substitution , viruses with L74V plus the M184V / I substitution , and viruses with thymidine analog mutations ( TAMs : M41L , D67N , K70R , L210W , T215Y / F , K219 E / R / H / Q / N ) plus M184V .
+An increasing number of TAMs is associated with a progressive reduction in abacavir susceptibility .
+CLINICAL PHARMACOLOGY Pharmacokinetics in Adults : EPZICOM : In a single - dose , 3 - way crossover bioavailability study of 1 EPZICOM Tablet versus 2 ZIAGEN Tablets ( 2 x 300 mg ) and 2 EPIVIR Tablets ( 2 x 150 mg ) administered simultaneously in healthy subjects ( n = 25 ) , there was no difference in the extent of absorption , as measured by the area under the plasma concentration - time curve ( AUC ) and maximal peak concentration ( Cmax ) , of each component .
+Abacavir : Following oral administration , abacavir is rapidly absorbed and extensively distributed .
+After oral administration of a single dose of 600 mg of abacavir in 20 patients , Cmax was 4 . 26 ± 1 . 19 mcg / mL ( mean ± SD ) and AUC ∞ was 11 . 95 ± 2 . 51 mcg • hr / mL .
+Binding of abacavir to human plasma proteins is approximately 50 % and was independent of concentration .
+Total blood and plasma drug - related radioactivity concentrations are identical , demonstrating that abacavir readily distributes into erythrocytes .
+The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase to form the 5 ′ - carboxylic acid and glucuronyl transferase to form the 5 ′ - glucuronide .
+Lamivudine : Following oral administration , lamivudine is rapidly absorbed and extensively distributed .
+After multiple - dose oral administration of lamivudine 300 mg once daily for 7 days to 60 healthy volunteers , steady - state Cmax ( Cmax , ss ) was 2 . 04 ± 0 . 54 mcg / mL ( mean ± SD ) and the 24 - hour steady - state AUC ( AUC24 , ss ) was 8 . 87 ± 1 . 83 mcg • hr / mL .
+Binding to plasma protein is low .
+Approximately 70 % of an intravenous dose of lamivudine is recovered as unchanged drug in the urine .
+Metabolism of lamivudine is a minor route of elimination .
+In humans , the only known metabolite is the trans - sulfoxide metabolite ( approximately 5 % of an oral dose after 12 hours ) .
+The steady - state pharmacokinetic properties of the EPIVIR 300 - mg Tablet once daily for 7 days compared with the EPIVIR 150 - mg Tablet twice daily for 7 days were assessed in a crossover study in 60 healthy volunteers .
+EPIVIR 300 mg once daily resulted in lamivudine exposures that were similar to EPIVIR 150 mg twice daily with respect to plasma AUC24 , ss ; however , Cmax , ss was 66 % higher and the trough value was 53 % lower compared with the 150 - mg twice - daily regimen .
+Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24 , ss and Cmax24 , ss ; however , trough values were lower compared with the 150 - mg twice - daily regimen .
+Inter - subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations .
+The clinical significance of observed differences for both plasma lamivudine concentrations and intracellular lamivudine triphosphate concentrations is not known .
+In humans , abacavir and lamivudine are not significantly metabolized by cytochrome P450 enzymes .
+The pharmacokinetic properties of abacavir and lamivudine in fasting patients are summarized in Table 1 .
+Table 1 .
+Pharmacokinetic Parameters * for Abacavir and Lamivudine in Adults * Data presented as mean ± standard deviation except where noted .
+† Approximate range .
+Parameter Abacavir Lamivudine Oral bioavailability ( % ) 86 ± 25 n = 6 86 ± 16 n = 12 Apparent volume of distribution ( L / kg ) 0 . 86 ± 0 . 15 n = 6 1 . 3 ± 0 . 4 n = 20 Systemic clearance ( L / hr / kg ) 0 . 80 ± 0 . 24 n = 6 0 . 33 ± 0 . 06 n = 20 Renal clearance ( L / hr / kg ) . 007 ± . 008 n = 6 0 . 22 ± 0 . 06 n = 20 Elimination half - life ( hr ) 1 . 45 ± 0 . 32 n = 20 5 to 7 † Effect of Food on Absorption of EPZICOM : EPZICOM may be administered with or without food .
+Administration with a high - fat meal in a single - dose bioavailability study resulted in no change in AUClast , AUC ∞ , and Cmax for lamivudine .
+Food did not alter the extent of systemic exposure to abacavir ( AUC ∞ ) , but the rate of absorption ( Cmax ) was decreased approximately 24 % compared with fasted conditions ( n = 25 ) .
+These results are similar to those from previous studies of the effect of food on abacavir and lamivudine tablets administered separately .
+Special Populations : Impaired Renal Function : EPZICOM : Because lamivudine requires dose adjustment in the presence of renal insufficiency , EPZICOM is not recommended for use in patients with creatinine clearance < 50 mL / min ( see PRECAUTIONS ) .
+Impaired Hepatic Function : EPZICOM : Abacavir is contraindicated in patients with moderate to severe hepatic impairment and dose reduction is required in patients with mild hepatic impairment .
+Because EPZICOM is a fixed - dose combination and cannot be dose adjusted , EPZICOM is contraindicated for patients with hepatic impairment .
+Pregnancy : See PRECAUTIONS : Pregnancy .
+Abacavir and Lamivudine : No data are available on the pharmacokinetics of abacavir or lamivudine during pregnancy .
+Nursing Mothers : See PRECAUTIONS : Nursing Mothers .
+Abacavir : No data are available on the pharmacokinetics of abacavir in nursing mothers .
+Lamivudine : Samples of breast milk obtained from 20 mothers receiving lamivudine monotherapy ( 300 mg twice daily ) or combination therapy ( 150 mg lamivudine twice daily and 300 mg zidovudine twice daily ) had measurable concentrations of lamivudine .
+Pediatric Patients : EPZICOM : The pharmacokinetics of EPZICOM in pediatric patients are under investigation .
+There are insufficient data at this time to recommend a dose ( see PRECAUTIONS : Pediatric Use ) .
+Geriatric Patients : The pharmacokinetics of abacavir and lamivudine have not been studied in patients over 65 years of age .
+Gender : Abacavir : A population pharmacokinetic analysis in HIV - 1 - infected male ( n = 304 ) and female ( n = 67 ) patients showed no gender differences in abacavir AUC normalized for lean body weight .
+Lamivudine : A pharmacokinetic study in healthy male ( n = 12 ) and female ( n = 12 ) subjects showed no gender differences in lamivudine AUC ∞ normalized for body weight .
+Race : Abacavir : There are no significant differences between blacks and Caucasians in abacavir pharmacokinetics .
+Lamivudine : There are no significant racial differences in lamivudine pharmacokinetics .
+Drug Interactions : See PRECAUTIONS : Drug Interactions .
+The drug interactions described are based on studies conducted with the individual nucleoside analogues .
+In humans , abacavir and lamivudine are not significantly metabolized by cytochrome P450 enzymes nor do they inhibit or induce this enzyme system ; therefore , it is unlikely that clinically significant drug interactions will occur with drugs metabolized through these pathways .
+Abacavir : Fifteen HIV - 1 - infected patients were enrolled in a crossover - designed drug interaction study evaluating single doses of abacavir ( 600 mg ) , lamivudine ( 150 mg ) , and zidovudine ( 300 mg ) alone or in combination .
+Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine .
+Lamivudine exposure ( AUC decreased 15 % ) and zidovudine exposure ( AUC increased 10 % ) did not show clinically relevant changes with concurrent abacavir .
+In a study of 11 HIV - 1 - infected patients receiving methadone - maintenance therapy ( 40 mg and 90 mg daily ) , with 600 mg of ZIAGEN twice daily ( twice the currently recommended dose ) , oral methadone clearance increased 22 % ( 90 % CI : 6 % to 42 % ) .
+This alteration will not result in a methadone dose modification in the majority of patients ; however , an increased methadone dose may be required in a small number of patients .
+Lamivudine : No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV - 1 - infected adult patients given a single dose of zidovudine ( 200 mg ) in combination with multiple doses of lamivudine ( 300 mg q 12 hr ) .
+Lamivudine pharmacokinetics are not significantly affected by abacavir .
+Table 2 .
+Effect of Coadministered Drugs on Abacavir and Lamivudine AUC * ↑ = Increase ; ↔ = no significant change ; AUC = area under the concentration versus time curve ; CI = confidence interval .
+* See PRECAUTIONS : Drug Interactions for additional information on drug interactions .
+Note : ROUTINE DOSE MODIFICATION OF ABACAVIR AND LAMIVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS .
+Drugs That May Alter Abacavir Blood Concentrations Coadministered Drug and Dose Abacavir Dose n Abacavir Concentrations Concentration of Coadministered Drug AUC Variability Ethanol 0 . 7 g / kg Single 600 mg 24 ↑ 41 % 90 % CI : 35 % to 48 % ↔ Drugs That May Alter Lamivudine Blood Concentrations Coadministered Drug and Dose Lamivudine Dose n Lamivudine Concentrations Concentration of Coadministered Drug AUC Variability Nelfinavir 750 mg q 8 hr x 7 to 10 days Single 150 mg 11 ↑ 10 % 95 % CI : 1 % to 20 % ↔ Trimethoprim 160 mg / Sulfamethoxazole 800 mg daily x 5 days Single 300 mg 14 ↑ 43 % 90 % CI : 32 % to 55 % ↔ Ribavirin : In vitro data indicate ribavirin reduces phosphorylation of lamivudine , stavudine , and zidovudine .
+However , no pharmacokinetic ( e . g . , plasma concentrations or intracellular triphosphorylated active metabolite concentrations ) or pharmacodynamic ( e . g . , loss of HIV - 1 / HCV virologic suppression ) interaction was observed when ribavirin and lamivudine ( n = 18 ) , stavudine ( n = 10 ) , or zidovudine ( n = 6 ) were coadministered as part of a multi - drug regimen to HIV - 1 / HCV co - infected patients ( see WARNINGS ) .
+INDICATIONS AND USAGE EPZICOM Tablets , in combination with other antiretroviral agents , are indicated for the treatment of HIV - 1 infection .
+Additional important information on the use of EPZICOM for treatment of HIV - 1 infection : • EPZICOM is one of multiple products containing abacavir .
+Before starting EPZICOM , review medical history for prior exposure to any abacavir - containing product in order to avoid reintroduction in a patient with a history of hypersensitivity to abacavir .
+• In one controlled study ( CNA30021 ) , more patients taking ZIAGEN 600 mg once daily had severe hypersensitivity reactions compared with patients taking ZIAGEN 300 mg twice daily .
+• As part of a triple - drug regimen , EPZICOM Tablets are recommended for use with antiretroviral agents from different pharmacological classes and not with other nucleoside / nucleotide reverse transcriptase inhibitors .
+See WARNINGS , ADVERSE REACTIONS , and Description of Clinical Studies .
+Description of Clinical Studies : EPZICOM : There have been no clinical trials conducted with EPZICOM ( see CLINICAL PHARMACOLOGY for information about bioequivalence of EPZICOM ) .
+One EPZICOM Tablet given once daily is an alternative regimen to EPIVIR Tablets 300 mg once daily plus ZIAGEN Tablets 2 x 300 mg once daily as a component of antiretroviral therapy .
+The following study was conducted with the individual components of EPZICOM .
+Therapy - Naive Adults : CNA30021 was an international , multi - center , double - blind , controlled study in which 770 HIV - 1 - infected , therapy - naive adults were randomized and received either ZIAGEN 600 mg once daily or ZIAGEN 300 mg twice daily , both in combination with EPIVIR 300 mg once daily and efavirenz 600 mg once daily .
+The double - blind treatment duration was at least 48 weeks .
+Study participants had a mean age of 37 years , were : male ( 81 % ) , Caucasian ( 54 % ) , black ( 27 % ) , and American Hispanic ( 15 % ) .
+The median baseline CD4 + cell count was 262 cells / mm3 ( range : 21 to 918 cells / mm3 ) and the median baseline plasma HIV - 1 RNA was 4 . 89 log10 copies / mL ( range : 2 . 60 to 6 . 99 log10 copies / mL ) .
+The outcomes of randomized treatment are provided in Table 3 .
+Table 3 .
+Outcomes of Randomized Treatment Through Week 48 ( CNA30021 ) * Patients achieved and maintained confirmed HIV - 1 RNA < 50 copies / mL ( < 400 copies / mL ) through Week 48 ( Roche AMPLICOR Ultrasensitive HIV - 1 MONITOR ® standard test version 1 . 0 ) .
+† Includes viral rebound , failure to achieve confirmed < 50 copies / mL ( < 400 copies / mL ) by Week 48 , and insufficient viral load response .
+‡ Includes consent withdrawn , lost to follow - up , protocol violations , clinical progression , and other .
+Outcome ZIAGEN 600 mg q . d . plus EPIVIR plus Efavirenz ( n = 384 ) ZIAGEN 300 mg b . i . d . plus EPIVIR plus Efavirenz ( n = 386 ) Responder * 64 % ( 71 % ) 65 % ( 72 % ) Virologic failure † 11 % ( 5 % ) 11 % ( 5 % ) Discontinued due to adverse reactions 13 % 11 % Discontinued due to other reasons ‡ 11 % 13 % After 48 weeks of therapy , the median CD4 + cell count increases from baseline were 188 cells / mm3 in the group receiving ZIAGEN 600 mg once daily and 200 cells / mm3 in the group receiving ZIAGEN 300 mg twice daily .
+Through Week 48 , 6 subjects ( 2 % ) in the group receiving ZIAGEN 600 mg once daily ( 4 CDC classification C events and 2 deaths ) and 10 subjects ( 3 % ) in the group receiving ZIAGEN 300 mg twice daily ( 7 CDC classification C events and 3 deaths ) experienced clinical disease progression .
+None of the deaths were attributed to study medications .
+CONTRAINDICATIONS EPZICOM Tablets are contraindicated in patients with previously demonstrated hypersensitivity to abacavir or to any other component of the product ( see WARNINGS ) .
+NEVER restart EPZICOM or any other abacavir - containing product following a hypersensitivity reaction to abacavir , regardless of HLA - B * 5701 status ( see WARNINGS , PRECAUTIONS , and ADVERSE REACTIONS ) .
+EPZICOM Tablets are contraindicated in patients with hepatic impairment ( see CLINICAL PHARMACOLOGY ) .
+WARNINGS Hypersensitivity Reaction : Serious and sometimes fatal hypersensitivity reactions have been associated with EPZICOM and other abacavir - containing products . Patients who carry the HLA - B * 5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir .
+Prior to initiating therapy with abacavir , screening for the HLA - B * 5701 allele is recommended ; this approach has been found to decrease the risk of a hypersensitivity reaction .
+Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA - B * 5701 status who have previously tolerated abacavir .
+For HLA - B * 5701 - positive patients , treatment with an abacavir - containing regimen is not recommended and should be considered only with close medical supervision and under exceptional circumstances when the potential benefit outweighs the risk .
+HLA - B * 5701 - negative patients may develop a hypersensitivity reaction to abacavir ; however , this occurs significantly less frequently than in HLA - B * 5701 - positive patients .
+Regardless of HLA - B * 5701 status , permanently discontinue EPZICOM if hypersensitivity cannot be ruled out , even when other diagnoses are possible .
+Important information on signs and symptoms of hypersensitivity , as well as clinical management , is presented below .
+Signs and Symptoms of Hypersensitivity Hypersensitivity to abacavir is a multi - organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups .
+Group 1 : Fever Group 2 : Rash Group 3 : Gastrointestinal ( including nausea , vomiting , diarrhea , or abdominal pain ) Group 4 : Constitutional ( including generalized malaise , fatigue , or achiness ) Group 5 : Respiratory ( including dyspnea , cough , or pharyngitis ) Hypersensitivity to abacavir following the presentation of a single sign or symptom has been reported infrequently .
+Hypersensitivity to abacavir was reported in approximately 8 % of 2 , 670 patients ( n = 206 ) in 9 clinical trials ( range : 2 % to 9 % ) with enrollment from November 1999 to February 2002 .
+Data on time to onset and symptoms of suspected hypersensitivity were collected on a detailed data collection module .
+The frequencies of symptoms are shown in Figure 1 .
+Symptoms usually appeared within the first 6 weeks of treatment with abacavir , although the reaction may occur at any time during therapy .
+Median time to onset was 9 days ; 89 % appeared within the first 6 weeks ; 95 % of patients reported symptoms from 2 or more of the 5 groups listed above .
+Figure 1 : Hypersensitivity - Related Symptoms Reported with ≥ 10 % Frequency in Clinical Trials ( n = 206 Patients ) [ MULTIMEDIA ] Other less common signs and symptoms of hypersensitivity include lethargy , myolysis , edema , abnormal chest x - ray findings ( predominantly infiltrates , which can be localized ) , and paresthesia .
+Anaphylaxis , liver failure , renal failure , hypotension , adult respiratory distress syndrome , respiratory failure , and death have occurred in association with hypersensitivity reactions .
+In one study , 4 patients ( 11 % ) receiving ZIAGEN 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 patients receiving ZIAGEN 300 mg twice daily .
+Physical findings associated with hypersensitivity to abacavir in some patients include lymphadenopathy , mucous membrane lesions ( conjunctivitis and mouth ulcerations ) , and rash .
+The rash usually appears maculopapular or urticarial , but may be variable in appearance .
+There have been reports of erythema multiforme .
+Hypersensitivity reactions have occurred without rash .
+Laboratory abnormalities associated with hypersensitivity to abacavir in some patients include elevated liver function tests , elevated creatine phosphokinase , elevated creatinine , and lymphopenia .
+Clinical Management of Hypersensitivity : Discontinue EPZICOM as soon as a hypersensitivity reaction is suspected .
+To minimize the risk of a life - threatening hypersensitivity reaction , permanently discontinue EPZICOM if hypersensitivity cannot be ruled out , even when other diagnoses are possible ( e . g . , acute onset respiratory diseases such as pneumonia , bronchitis , pharyngitis , or influenza ; gastroenteritis ; or reactions to other medications ) .
+Following a hypersensitivity reaction to abacavir , NEVER restart EPZICOM or any other abacavir - containing product because more severe symptoms can occur within hours and may include life - threatening hypotension and death .
+When therapy with EPZICOM has been discontinued for reasons other than symptoms of a hypersensitivity reaction , and if reinitiation of EPZICOM or any other abacavir - containing product is under consideration , carefully evaluate the reason for discontinuation of EPZICOM to ensure that the patient did not have symptoms of a hypersensitivity reaction .
+If the patient is of unknown HLA - B * 5701 status , screening for the allele is recommended prior to reinitiation of EPZICOM .
+If hypersensitivity cannot be ruled out , DO NOT reintroduce EPZICOM or any other abacavir - containing product .
+Even in the absence of the HLA - B * 5701 allele , it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds , due to the potential for a severe or even fatal reaction .
+If symptoms consistent with hypersensitivity are not identified , reintroduction can be undertaken with continued monitoring for symptoms of a hypersensitivity reaction .
+Make patients aware that a hypersensitivity reaction can occur with reintroduction of EPZICOM or any other abacavir - containing product and that reintroduction of EPZICOM or introduction of any other abacavir - containing product needs to be undertaken only if medical care can be readily accessed by the patient or others .
+Risk Factor : HLA - B * 5701 Allele : Studies have shown that carriage of the HLA - B * 5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir .
+CNA106030 ( PREDICT - 1 ) , a randomized , double - blind study , evaluated the clinical utility of prospective HLA - B * 5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir - naive HIV - 1 - infected adults ( n = 1 , 650 ) .
+In this study , use of pre - therapy screening for the HLA - B * 5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7 . 8 % ( 66 / 847 ) to 3 . 4 % ( 27 / 803 ) .
+Based on this study , it is estimated that 61 % of patients with the HLA - B * 5701 allele will develop a clinically suspected hypersensitivity reaction during the course of abacavir treatment compared with 4 % of patients who do not have the HLA - B * 5701 allele .
+Screening for carriage of the HLA - B * 5701 allele is recommended prior to initiating treatment with abacavir .
+Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA - B * 5701 status who have previously tolerated abacavir .
+For HLA - B * 5701 - positive patients , initiating or reinitiating treatment with an abacavir - containing regimen is not recommended and should be considered only with close medical supervision and under exceptional circumstances where potential benefit outweighs the risk .
+Skin patch testing is used as a research tool and should not be used to aid in the clinical diagnosis of abacavir hypersensitivity .
+In any patient treated with abacavir , the clinical diagnosis of hypersensitivity reaction must remain the basis of clinical decision - making .
+Even in the absence of the HLA - B * 5701 allele , it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds , due to the potential for a severe or even fatal reaction .
+Abacavir Hypersensitivity Reaction Registry : An Abacavir Hypersensitivity Registry has been established to facilitate reporting of hypersensitivity reactions and collection of information on each case .
+Physicians should register patients by calling 1 - 800 - 270 - 0425 .
+Lactic Acidosis / Severe Hepatomegaly With Steatosis : Lactic acidosis and severe hepatomegaly with steatosis , including fatal cases , have been reported with the use of nucleoside analogues alone or in combination , including abacavir and lamivudine and other antiretrovirals .
+A majority of these cases have been in women .
+Obesity and prolonged nucleoside exposure may be risk factors .
+Particular caution should be exercised when administering EPZICOM to any patient with known risk factors for liver disease ; however , cases have also been reported in patients with no known risk factors .
+Treatment with EPZICOM should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity ( which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations ) .
+Posttreatment Exacerbations of Hepatitis : In clinical trials in non - HIV - 1 - infected patients treated with lamivudine for chronic HBV , clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine .
+These exacerbations have been detected primarily by serum ALT elevations in addition to re - emergence of HBV DNA .
+Although most events appear to have been self - limited , fatalities have been reported in some cases .
+Similar events have been reported from post - marketing experience after changes from lamivudine - containing HIV - 1 treatment regimens to non - lamivudine - containing regimens in patients infected with both HIV - 1 and HBV .
+The causal relationship to discontinuation of lamivudine treatment is unknown .
+Patients should be closely monitored with both clinical and laboratory follow - up for at least several months after stopping treatment .
+There is insufficient evidence to determine whether re - initiation of lamivudine alters the course of posttreatment exacerbations of hepatitis .
+Use With Interferon - and Ribavirin - Based Regimens : In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidine nucleoside analogues such as lamivudine , a component of EPZICOM .
+Although no evidence of a pharmacokinetic or pharmacodynamic interaction ( e . g . , loss of HIV - 1 / HCV virologic suppression ) was seen when ribavirin was coadministered with lamivudine in HIV - 1 / HCV co - infected patients ( see CLINICAL PHARMACOLOGY : Drug Interactions ) , hepatic decompensation ( some fatal ) has occurred in HIV - 1 / HCV co - infected patients receiving combination antiretroviral therapy for HIV - 1 and interferon alfa with or without ribavirin .
+Patients receiving interferon alfa with or without ribavirin and EPZICOM should be closely monitored for treatment - associated toxicities , especially hepatic decompensation .
+Discontinuation of EPZICOM should be considered as medically appropriate .
+Dose reduction or discontinuation of interferon alfa , ribavirin , or both should also be considered if worsening clinical toxicities are observed , including hepatic decompensation ( e . g . , Childs Pugh > 6 ) ( see the complete prescribing information for interferon and ribavirin ) .
+Other : EPZICOM contains fixed doses of 2 nucleoside analogues , abacavir and lamivudine , and should not be administered concomitantly with other abacavir - containing and / or lamivudine - containing products ( ZIAGEN , EPIVIR , COMBIVIR ® , or TRIZIVIR ) .
+The complete prescribing information for all agents being considered for use with EPZICOM should be consulted before combination therapy with EPZICOM is initiated .
+[ MULTIMEDIA ] PRECAUTIONS Therapy - Experienced Patients : Abacavir : In clinical trials , patients with prolonged prior NRTI exposure or who had HIV - 1 isolates that contained multiple mutations conferring resistance to NRTIs had limited response to abacavir .
+The potential for cross - resistance between abacavir and other NRTIs should be considered when choosing new therapeutic regimens in therapy - experienced patients ( see MICROBIOLOGY : Cross - Resistance ) .
+Patients With HIV - 1 and Hepatitis B Virus Co - infection : Lamivudine : Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients dually infected with HIV - 1 and HBV .
+In non - HIV - 1 - infected patients treated with lamivudine for chronic hepatitis B , emergence of lamivudine - resistant HBV has been detected and has been associated with diminished treatment response ( see EPIVIR - HBV package insert for additional information ) .
+Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV - 1 - infected patients who have received lamivudine - containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus .
+Patients With Impaired Renal Function : EPZICOM : Since EPZICOM is a fixed - dose tablet and the dosage of the individual components cannot be altered , patients with creatinine clearance < 50 mL / min should not receive EPZICOM .
+Patients With Impaired Hepatic Function : EPZICOM : EPZICOM is contraindicated in patients with hepatic impairment since it is a fixed - dose tablet and the dosage of the individual components cannot be altered .
+Immune Reconstitution Syndrome : Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy , including EPZICOM .
+During the initial phase of combination antiretroviral treatment , patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections ( such as Mycobacterium avium infection , cytomegalovirus , Pneumocystis jirovecii pneumonia [ PCP ] , or tuberculosis ) , which may necessitate further evaluation and treatment .
+Fat Redistribution : Redistribution / accumulation of body fat including central obesity , dorsocervical fat enlargement ( buffalo hump ) , peripheral wasting , facial wasting , breast enlargement , and “ cushingoid appearance ” have been observed in patients receiving antiretroviral therapy .
+The mechanism and long - term consequences of these events are currently unknown .
+A causal relationship has not been established .
+Myocardial Infarction : In a published prospective , observational , epidemiological study designed to investigate the rate of myocardial infarction in patients on combination antiretroviral therapy , the use of abacavir within the previous 6 months was correlated with an increased risk of myocardial infarction ( MI ) . 1 In a sponsor - conducted pooled analysis of clinical trials , no excess risk of MI was observed in abacavir - treated subjects as compared with control subjects .
+In totality , the available data from the observational cohort and from clinical trials are inconclusive .
+As a precaution , the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies , including abacavir , and action taken to minimize all modifiable risk factors ( e . g . , hypertension , hyperlipidemia , diabetes mellitus , and smoking ) .
+Information for Patients : Abacavir : Hypersensitivity Reaction : Inform patients : • that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of EPZICOM , and encourage the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about EPZICOM .
+( The complete text of the Medication Guide is reprinted at the end of this document . )
+• to carry the Warning Card with them .
+• how to identify a hypersensitivity reaction ( see WARNINGS and MEDICATION GUIDE ) .
+• that if they develop symptoms consistent with a hypersensitivity reaction they should call their doctor right away to determine if they should stop taking EPZICOM .
+• that a hypersensitivity reaction can worsen and lead to hospitalization or death if EPZICOM is not immediately discontinued .
+• to not restart EPZICOM or any other abacavir - containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life - threatening hypotension and death .
+• that a hypersensitivity reaction is usually reversible if it is detected promptly and EPZICOM is stopped right away .
+• that if they have interrupted EPZICOM for reasons other than symptoms of hypersensitivity ( for example , those who have an interruption in drug supply ) , a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir .
+• that in one study , more severe hypersensitivity reactions were seen when ZIAGEN was dosed 600 mg once daily .
+• to not restart EPZICOM or any other abacavir - containing product without medical consultation and that restarting abacavir needs to be undertaken only if medical care can be readily accessed by the patient or others .
+Lamivudine : Patients co - infected with HIV - 1 and HBV should be informed that deterioration of liver disease has occurred in some cases when treatment with lamivudine was discontinued .
+Patients should be advised to discuss any changes in regimen with their physician .
+EPZICOM : Inform patients that some HIV - 1 medicines , including EPZICOM , can cause a rare , but serious condition called lactic acidosis with liver enlargement ( hepatomegaly ) .
+EPZICOM is not a cure for HIV - 1 infection and patients may continue to experience illnesses associated with HIV - 1 infection , including opportunistic infections .
+Patients should remain under the care of a physician when using EPZICOM .
+Advise patients that the use of EPZICOM has not been shown to reduce the risk of transmission of HIV - 1 to others through sexual contact or blood contamination .
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long - term health effects of these conditions are not known at this time .
+EPZICOM Tablets are for oral ingestion only .
+Patients should be advised of the importance of taking EPZICOM exactly as it is prescribed .
+Drug Interactions : EPZICOM : No clinically significant changes to pharmacokinetic parameters were observed for abacavir or lamivudine when administered together .
+Abacavir : Abacavir has no effect on the pharmacokinetic properties of ethanol .
+Ethanol decreases the elimination of abacavir causing an increase in overall exposure ( see CLINICAL PHARMACOLOGY : Drug Interactions ) .
+The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir .
+In a study of 11 HIV - 1 - infected patients receiving methadone - maintenance therapy ( 40 mg and 90 mg daily ) , with 600 mg of ZIAGEN twice daily ( twice the currently recommended dose ) , oral methadone clearance increased 22 % ( 90 % CI : 6 % to 42 % ) .
+This alteration will not result in a methadone dose modification in the majority of patients ; however , an increased methadone dose may be required in a small number of patients .
+Lamivudine : Trimethoprim ( TMP ) 160 mg / sulfamethoxazole ( SMX ) 800 mg once daily has been shown to increase lamivudine exposure ( AUC ) .
+No change in dose of either drug is recommended .
+The effect of higher doses of TMP / SMX on lamivudine pharmacokinetics has not been investigated ( see CLINICAL PHARMACOLOGY ) .
+Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another .
+Therefore , use of EPZICOM in combination with zalcitabine is not recommended .
+See CLINICAL PHARMACOLOGY for additional drug interactions .
+Carcinogenesis , Mutagenesis , Impairment of Fertility : Carcinogenicity : Abacavir : Abacavir was administered orally at 3 dosage levels to separate groups of mice and rats in 2 - year carcinogenicity studies .
+Results showed an increase in the incidence of malignant and non - malignant tumors .
+Malignant tumors occurred in the preputial gland of males and the clitoral gland of females of both species , and in the liver of female rats .
+In addition , non - malignant tumors also occurred in the liver and thyroid gland of female rats .
+These observations were made at systemic exposures in the range of 6 to 32 times the human exposure at the recommended dose .
+Lamivudine : Long - term carcinogenicity studies with lamivudine in mice and rats showed no evidence of carcinogenic potential at exposures up to 10 times ( mice ) and 58 times ( rats ) those observed in humans at the recommended therapeutic dose for HIV - 1 infection .
+It is not known how predictive the results of rodent carcinogenicity studies may be for humans .
+Mutagenicity : Abacavir : Abacavir induced chromosomal aberrations both in the presence and absence of metabolic activation in an in vitro cytogenetic study in human lymphocytes .
+Abacavir was mutagenic in the absence of metabolic activation , although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay .
+Abacavir was clastogenic in males and not clastogenic in females in an in vivo mouse bone marrow micronucleus assay .
+Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and absence of metabolic activation .
+Lamivudine : Lamivudine was mutagenic in an L5178Y mouse lymphoma assay and clastogenic in a cytogenetic assay using cultured human lymphocytes .
+Lamivudine was not mutagenic in a microbial mutagenicity assay , in an in vitro cell transformation assay , in a rat micronucleus test , in a rat bone marrow cytogenetic assay , and in an assay for unscheduled DNA synthesis in rat liver .
+Impairment of Fertility : Abacavir or lamivudine induced no adverse effects on the mating performance or fertility of male and female rats at doses producing systemic exposure levels approximately 8 or 130 times , respectively , higher than those in humans at the recommended dose based on body surface area comparisons .
+Pregnancy : Pregnancy Category C .
+There are no adequate and well - controlled studies of EPZICOM in pregnant women .
+Reproduction studies with abacavir and lamivudine have been performed in animals ( see Abacavir and Lamivudine sections below ) .
+EPZICOM should be used during pregnancy only if the potential benefits outweigh the risks .
+Abacavir : Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta .
+Fetal malformations ( increased incidences of fetal anasarca and skeletal malformations ) and developmental toxicity ( depressed fetal body weight and reduced crown - rump length ) were observed in rats at a dose which produced 35 times the human exposure , based on AUC .
+Embryonic and fetal toxicities ( increased resorptions , decreased fetal body weights ) and toxicities to the offspring ( increased incidence of stillbirth and lower body weights ) occurred at half of the above - mentioned dose in separate fertility studies conducted in rats .
+In the rabbit , no developmental toxicity and no increases in fetal malformations occurred at doses that produced 8 . 5 times the human exposure at the recommended dose based on AUC .
+Lamivudine : Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta .
+Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose .
+No evidence of teratogenicity due to lamivudine was observed .
+Evidence of early embryolethality was seen in the rabbit at exposure levels similar to those observed in humans , but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans .
+Antiretroviral Pregnancy Registry : To monitor maternal - fetal outcomes of pregnant women exposed to EPZICOM or other antiretroviral agents , an Antiretroviral Pregnancy Registry has been established .
+Physicians are encouraged to register patients by calling 1 - 800 - 258 - 4263 .
+Nursing Mothers : The Centers for Disease Control and Prevention recommend that HIV - 1 - infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV - 1 infection .
+Abacavir : Abacavir is secreted into the milk of lactating rats .
+Lamivudine : Lamivudine is excreted in human breast milk and into the milk of lactating rats .
+Because of both the potential for HIV - 1 transmission and the potential for serious adverse reactions in nursing infants , mothers should be instructed not to breastfeed if they are receiving EPZICOM .
+Pediatric Use : Safety and effectiveness of EPZICOM in pediatric patients have not been established .
+Geriatric Use : Clinical studies of abacavir and lamivudine did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients .
+In general , dose selection for an elderly patient should be cautious , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+EPZICOM is not recommended for patients with impaired renal function or impaired hepatic function ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+ADVERSE REACTIONS Abacavir : Hypersensitivity Reaction : Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir sulfate , a component of EPZICOM .
+In one study , once - daily dosing of ZIAGEN was associated with more severe hypersensitivity reactions ( see WARNINGS and PRECAUTIONS : Information for Patients ) .
+Therapy - Naive Adults : Treatment - emergent clinical adverse reactions ( rated by the investigator as moderate or severe ) with a ≥ 5 % frequency during therapy with ZIAGEN 600 mg once daily or ZIAGEN 300 mg twice daily , both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily are listed in Table 4 .
+Table 4 .
+Treatment - Emergent ( All Causality ) Adverse Reactions of at Least Moderate Intensity ( Grades 2 - 4 , ≥ 5 % Frequency ) in Therapy - Naive Adults ( CNA30021 ) Through 48 Weeks of TreatmentAdverse Event ZIAGEN 600 mg q . d . plus EPIVIR plus Efavirenz ( n = 384 ) ZIAGEN 300 mg b . i . d . plus EPIVIR plus Efavirenz ( n = 386 ) Drug hypersensitivity * † 9 % 7 % Insomnia 7 % 9 % Depression / Depressed mood 7 % 7 % Headache / Migraine 7 % 6 % Fatigue / Malaise 6 % 8 % Dizziness / Vertigo 6 % 6 % Nausea 5 % 6 % Diarrhea * 5 % 6 % Rash 5 % 5 % Pyrexia 5 % 3 % Abdominal pain / gastritis 4 % 5 % Abnormal dreams 4 % 5 % Anxiety 3 % 5 % * Patients receiving ZIAGEN 600 mg once daily , experienced a significantly higher incidence of severe drug hypersensitivity reactions and severe diarrhea compared with patients who received ZIAGEN 300 mg twice daily .
+Five percent ( 5 % ) of patients receiving ZIAGEN 600 mg once daily had severe drug hypersensitivity reactions compared with 2 % of patients receiving ZIAGEN 300 mg twice daily .
+Two percent ( 2 % ) of patients receiving ZIAGEN 600 mg once daily had severe diarrhea while none of the patients receiving ZIAGEN 300 mg twice daily had this event .
+† Study CNA30024 was a multi - center , double - blind , controlled study in which 649 HIV - 1 - infected , therapy - naive adults were randomized and received either ZIAGEN ( 300 mg twice daily ) , EPIVIR ( 150 mg twice daily ) , and efavirenz ( 600 mg once daily ) or zidovudine ( 300 mg twice daily ) , EPIVIR ( 150 mg twice daily ) , and efavirenz ( 600 mg once daily ) .
+CNA30024 used double - blind ascertainment of suspected hypersensitivity reactions .
+During the blinded portion of the study , suspected hypersensitivity to abacavir was reported by investigators in 9 % of 324 patients in the abacavir group and 3 % of 325 patients in the zidovudine group .
+Laboratory Abnormalities : Laboratory abnormalities observed in clinical studies of ZIAGEN were anemia , neutropenia , liver function test abnormalities , and elevations of CPK , blood glucose , and triglycerides .
+Additional laboratory abnormalities observed in clinical studies of EPIVIR were thrombocytopenia and elevated levels of bilirubin , amylase , and lipase .
+The frequencies of treatment - emergent laboratory abnormalities were comparable between treatment groups in Study CNA30021 .
+Other Adverse Events : In addition to adverse reactions listed above , other adverse events observed in the expanded access program for abacavir were pancreatitis and increased GGT .
+Observed During Clinical Practice : The following reactions have been identified during post - approval use of abacavir and lamivudine .
+Because they are reported voluntarily from a population of unknown size , estimates of frequency cannot be made .
+These events have been chosen for inclusion due to a combination of their seriousness , frequency of reporting , or potential causal connection to abacavir and / or lamivudine .
+Abacavir : Cardiovascular : Myocardial infarction .
+Skin : Suspected Stevens - Johnson syndrome ( SJS ) and toxic epidermal necrolysis ( TEN ) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN , respectively .
+Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN , and the possibility of multiple drug sensitivities in some patients , abacavir should be discontinued and not restarted in such cases .
+There have also been reports of erythema multiforme with abacavir use .
+Abacavir and Lamivudine : Body as a Whole : Redistribution / accumulation of body fat ( see PRECAUTIONS : Fat Redistribution ) .
+Digestive : Stomatitis .
+Endocrine and Metabolic : Hyperglycemia .
+General : Weakness .
+Hemic and Lymphatic : Aplastic anemia , anemia ( including pure red cell aplasia and severe anemias progressing on therapy ) , lymphadenopathy , splenomegaly .
+Hepatic and Pancreatic : Lactic acidosis and hepatic steatosis , pancreatitis , posttreatment exacerbation of hepatitis B ( see WARNINGS ) .
+Hypersensitivity : Sensitization reactions ( including anaphylaxis ) , urticaria .
+Musculoskeletal : Muscle weakness , CPK elevation , rhabdomyolysis .
+Nervous : Paresthesia , peripheral neuropathy , seizures .
+Respiratory : Abnormal breath sounds / wheezing .
+Skin : Alopecia , erythema multiforme , Stevens - Johnson syndrome .
+OVERDOSAGE Abacavir : There is no known antidote for abacavir .
+It is not known whether abacavir can be removed by peritoneal dialysis or hemodialysis .
+Lamivudine : One case of an adult ingesting 6 grams of lamivudine was reported ; there were no clinical signs or symptoms noted and hematologic tests remained normal .
+It is not known whether lamivudine can be removed by peritoneal dialysis or hemodialysis .
+DOSAGE AND ADMINISTRATION A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill .
+To facilitate reporting of hypersensitivity reactions and collection of information on each case , an Abacavir Hypersensitivity Registry has been established .
+Physicians should register patients by calling 1 - 800 - 270 - 0425 .
+The recommended oral dose of EPZICOM for adults is one tablet daily , in combination with other antiretroviral agents ( see INDICATIONS AND USAGE : Description of Clinical Studies , PRECAUTIONS , MICROBIOLOGY , and CLINICAL PHARMACOLOGY ) .
+EPZICOM can be taken with or without food .
+Dose Adjustment : Because it is a fixed - dose tablet , EPZICOM should not be prescribed for patients requiring dosage adjustment such as those with creatinine clearance < 50 mL / min , those with hepatic impairment , or those experiencing dose - limiting adverse events .
+Use of EPIVIR Oral Solution and ZIAGEN Oral Solution may be considered .
+HOW SUPPLIED EPZICOM is available as tablets .
+Each tablet contains 600 mg of abacavir as abacavir sulfate and 300 mg of lamivudine .
+The tablets are orange , film - coated , modified capsule - shaped , and debossed with GS FC2 on one side with no markings on the reverse side .
+They are packaged as follows : NDC 54868 - 5600 - 0 Bottles of 30 Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) ( see USP Controlled Room Temperature ) .
+ANIMAL TOXICOLOGY Myocardial degeneration was found in mice and rats following administration of abacavir for 2 years .
+The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans .
+The clinical relevance of this finding has not been determined .
+REFERENCE • Data Collection on Adverse Events of Anti - HIV Drugs ( D : A : D ) Study Group .
+Lancet .
+2008 ; 371 ( 9622 ) : 1417 - 1426 .
+MEDICATION GUIDE EPZICOM ® ( ep ' zih com ) Tablets Generic name : abacavir ( uH - BACK - ah - veer ) sulfate and lamivudine ( la - MIV - yoo - deen ) Read the Medication Guide that comes with EPZICOM before you start taking it and each time you get a refill because there may be new information .
+This information does not take the place of talking to your doctor about your medical condition or your treatment .
+Be sure to carry your EPZICOM Warning Card with you at all times .
+What is the most important information I should know about EPZICOM ?
+• Serious Allergic Reaction to Abacavir .
+EPZICOM contains abacavir ( also contained in ZIAGEN ® and TRIZIVIR ® ) .
+Patients taking EPZICOM may have a serious allergic reaction ( hypersensitivity reaction ) that can cause death .
+Your risk of this allergic reaction is much higher if you have a gene variation called HLA - B * 5701 than if you do not .
+Your doctor can determine with a blood test if you have this gene variation .
+If you get a symptom from 2 or more of the following groups while taking EPZICOM , call your doctor right away to determine if you should stop taking this medicine .
+Symptom ( s ) Group 1 Fever Group 2 Rash Group 3 Nausea , vomiting , diarrhea , abdominal ( stomach area ) pain Group 4 Generally ill feeling , extreme tiredness , or achiness Group 5 Shortness of breath , cough , sore throat A list of these symptoms is on the Warning Card your pharmacist gives you .
+Carry this Warning Card with you .
+If you stop EPZICOM because of an allergic reaction , NEVER take EPZICOM ( abacavir sulfate and lamivudine ) or any other abacavir - containing medicine ( ZIAGEN and TRIZIVIR ) again .
+If you take EPZICOM or any other abacavir - containing medicine again after you have had an allergic reaction , WITHIN HOURS you may get life - threatening symptoms that may include very low blood pressure or death .
+If you stop EPZICOM for any other reason , even for a few days , and you are not allergic to EPZICOM , talk with your doctor before taking it again .
+Taking EPZICOM again can cause a serious allergic or life - threatening reaction , even if you never had an allergic reaction to it before .
+If your doctor tells you that you can take EPZICOM again , start taking it when you are around medical help or people who can call a doctor if you need one .
+• Lactic Acidosis .
+Some human immunodeficiency virus ( HIV ) medicines , including EPZICOM , can cause a rare but serious condition called lactic acidosis with liver enlargement ( hepatomegaly ) .
+Nausea and tiredness that do n't get better may be symptoms of lactic acidosis .
+In some cases this condition can cause death .
+Women , overweight people , and people who have taken HIV medicines like EPZICOM for a long time have a higher chance of getting lactic acidosis and liver enlargement .
+Lactic acidosis is a medical emergency and must be treated in the hospital .
+• Worsening of hepatitis B virus ( HBV ) infection .
+Patients with HBV infection , who take EPZICOM and then stop it , may get “ flare - ups ” of their hepatitis .
+“ Flare - up ” is when the disease suddenly returns in a worse way than before .
+If you have HBV infection , your doctor should closely monitor your liver function for several months after stopping EPZICOM .
+You may need to take anti - HBV medicines .
+• Use with interferon - and ribavirin - based regimens .
+Worsening of liver disease ( sometimes resulting in death ) has occurred in patients infected with both HIV and hepatitis C virus who are taking anti - HIV medicines and are also being treated for hepatitis C with interferon with or without ribavirin .
+If you are taking EPZICOM as well as interferon with or without ribavirin and you experience side effects , be sure to tell your doctor .
+EPZICOM can have other serious side effects .
+Be sure to read the section below entitled " What are the possible side effects of EPZICOM ? "
+What is EPZICOM ?
+EPZICOM is a prescription medicine used to treat HIV infection .
+EPZICOM includes 2 medicines : abacavir ( ZIAGEN ) and lamivudine or 3 TC ( EPIVIR ® ) .
+See the end of this Medication Guide for a complete list of ingredients in EPZICOM .
+Both of these medicines are called nucleoside analogue reverse transcriptase inhibitors ( NRTIs ) .
+When used together , they help lower the amount of HIV in your blood .
+This helps to keep your immune system as healthy as possible so that it can help fight infection .
+Different combinations of medicines are used to treat HIV infection .
+You and your doctor should discuss which combination of medicines is best for you .
+• EPZICOM does not cure HIV infection or AIDS .
+We do not know if EPZICOM will help you live longer or have fewer of the medical problems that people get with HIV or AIDS .
+It is very important that you see your doctor regularly while you are taking EPZICOM .
+• EPZICOM does not lower the risk of passing HIV to other people through sexual contact , sharing needles , or being exposed to your blood .
+For your health and the health of others , it is important to always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen , vaginal secretions , or blood .
+Never use or share dirty needles .
+Who should not take EPZICOM ?
+Do not take EPZICOM if you : • have ever had a serious allergic reaction ( a hypersensitivity reaction ) to EPZICOM or any other medicine that has abacavir as one of its ingredients ( TRIZIVIR and ZIAGEN ) .
+See the end of this Medication Guide for a complete list of ingredients in EPZICOM .
+• have a liver that does not function properly .
+• are less than 18 years of age .
+Before starting EPZICOM tell your doctor about all of your medical conditions , including if you : • have been tested and know whether or not you have a particular gene variation called HLA - B * 5701 .
+• are pregnant or planning to become pregnant .
+We do not know if EPZICOM will harm your unborn child .
+You and your doctor will need to decide if EPZICOM is right for you .
+If you use EPZICOM while you are pregnant , talk to your doctor about how you can be on the Antiviral Pregnancy Registry for EPZICOM .
+• are breastfeeding .
+Some of the ingredients in EPZICOM can be passed to your baby in your breast milk .
+It is not known if they could harm your baby .
+Also , mothers with HIV should not breastfeed because HIV can be passed to the baby in the breast milk .
+• have liver problems including hepatitis B virus infection .
+• have kidney problems .
+• have heart problems , smoke , or suffer from diseases that increase your risk of heart disease such as high blood pressure , high cholesterol , or diabetes .
+Tell your doctor about all the medicines you take , including prescription and nonprescription medicines , vitamins , and herbal supplements .
+Especially tell your doctor if you take any of the following medicines * : • methadone • HIVID ® ( zalcitabine , ddC ) • EPIVIR or EPIVIR - HBV ® ( lamivudine , 3 TC ) , ZIAGEN ( abacavir sulfate ) , COMBIVIR ® ( lamivudine and zidovudine ) , or TRIZIVIR ( abacavir sulfate , lamivudine , and zidovudine ) .
+How should I take EPZICOM ?
+• Take EPZICOM by mouth exactly as your doctor prescribes it .
+The usual dose is 1 tablet once a day .
+Do not skip doses .
+• You can take EPZICOM with or without food .
+• If you miss a dose of EPZICOM , take the missed dose right away .
+Then , take the next dose at the usual time .
+• Do not let your EPZICOM run out .
+• Starting EPZICOM again can cause a serious allergic or life - threatening reaction , even if you never had an allergic reaction to it before .
+If you run out of EPZICOM even for a few days , you must ask your doctor if you can start EPZICOM again .
+If your doctor tells you that you can take EPZICOM again , start taking it when you are around medical help or people who can call a doctor if you need one .
+• If you stop your anti - HIV drugs , even for a short time , the amount of virus in your blood may increase and the virus may become harder to treat .
+• If you take too much EPZICOM , call your doctor or poison control center right away .
+What should I avoid while taking EPZICOM ?
+• Do not take EPIVIR ( lamivudine , 3 TC ) , COMBIVIR ( lamivudine and zidovudine ) , ZIAGEN ( abacavir sulfate ) , or TRIZIVIR ( abacavir sulfate , lamivudine , and zidovudine ) while taking EPZICOM .
+Some of these medicines are already in EPZICOM .
+• Do not take zalcitabine ( HIVID , ddC ) while taking EPZICOM .
+Avoid doing things that can spread HIV infection , as EPZICOM does not stop you from passing the HIV infection to others .
+• Do not share needles or other injection equipment .
+• Do not share personal items that can have blood or body fluids on them , like toothbrushes and razor blades .
+• Do not have any kind of sex without protection .
+Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen , vaginal secretions , or blood .
+• Do not breastfeed .
+EPZICOM can be passed to babies in breast milk and could harm the baby .
+Also , mothers with HIV should not breastfeed because HIV can be passed to the baby in the breast milk .
+What are the possible side effects of EPZICOM ?
+EPZICOM can cause the following serious side effects : • Serious allergic reaction that can cause death .
+( See " What is the most important information I should know about EPZICOM ? "
+at the beginning of this Medication Guide . )
+• Lactic acidosis with liver enlargement ( hepatomegaly ) that can cause death .
+( See " What is the most important information I should know about EPZICOM ? "
+at the beginning of this Medication Guide . )
+• Worsening of HBV infection .
+( See " What is the most important information I should know about EPZICOM ? "
+at the beginning of this Medication Guide . )
+• Changes in immune system .
+When you start taking HIV medicines , your immune system may get stronger and could begin to fight infections that have been hidden in your body , such as pneumonia , herpes virus , or tuberculosis .
+If you have new symptoms after starting your HIV medicines , be sure to tell your doctor .
+• Changes in body fat .
+These changes have happened in patients taking antiretroviral medicines like EPZICOM .
+The changes may include an increased amount of fat in the upper back and neck ( “ buffalo hump ” ) , breast , and around the back , chest , and stomach area .
+Loss of fat from the legs , arms , and face may also happen .
+The cause and long - term health effects of these conditions are not known .
+Some HIV medicines including EPZICOM may increase your risk of heart attack .
+If you have heart problems , smoke , or suffer from diseases that increase your risk of heart disease such as high blood pressure , high cholesterol , or diabetes , tell your doctor .
+The most common side effects with EPZICOM are trouble sleeping , depression , headache , tiredness , dizziness , nausea , diarrhea , rash , fever , stomach pain , abnormal dreams , and anxiety .
+Most of these side effects did not cause people to stop taking EPZICOM .
+This list of side effects is not complete .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store EPZICOM ?
+• Store EPZICOM at room temperature between 59 ° to 86 ° F ( 15 ° to 30 ° C ) .
+• Keep EPZICOM and all medicines out of the reach of children .
+General information for safe and effective use of EPZICOM Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides .
+Do not use EPZICOM for a condition for which it was not prescribed .
+Do not give EPZICOM to other people , even if they have the same symptoms that you have .
+It may harm them .
+This Medication Guide summarizes the most important information about EPZICOM .
+If you would like more information , talk with your doctor .
+You can ask your doctor or pharmacist for the information that is written for healthcare professionals or call 1 - 888 - 825 - 5249 .
+What are the ingredients in EPZICOM ?
+Active ingredients : abacavir sulfate and lamivudine Inactive ingredients : Each film - coated EPZICOM Tablet contains the inactive ingredients magnesium stearate , microcrystalline cellulose , and sodium starch glycolate .
+The tablets are coated with a film ( OPADRY ® orange YS - 1 - 13065 - A ) that is made of FD & C Yellow No . 6 , hypromellose , polyethylene glycol 400 , polysorbate 80 , and titanium dioxide .
+This Medication Guide has been approved by the US Food and Drug Administration .
+March 2009 EPZ : 2 MG COMBIVIR , EPIVIR , EPZICOM , TRIZIVIR , and ZIAGEN are registered trademarks of GlaxoSmithKline .
+* The brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline .
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products .
+GlaxoSmithKline Research Triangle Park , NC 27709 Lamivudine is manufactured under agreement from Shire Pharmaceuticals Group plc Basingstoke , UK © 2009 , GlaxoSmithKline .
+All rights reserved .
+March 2009 EPZ : 2 PI Relabeling of " Additional Barcode Label " by : Physicians Total Care , Inc .
+Tulsa , OK 74146 PRINCIPAL DISPLAY PANEL EPZICOM ® ( abacavir sulfate and lamivudine ) 600 mg 300 mg TABLETS 30 Tablets Notice to Authorized Dispenser : Each time EPZICOM is dispensed , give the patient a Medication Guide and Warning Card from the carton .
+Rx only Each tablet contains 600 mg of abacavir as abacavir sulfate and 300 mg of lamivudine .
+Store at 25 oC ( 77 oF ) ; excursions permitted to 15 o to 30 oC ( 59 o to 86 oF ) ( see USP Controlled Room Temperature ) .
+See prescribing information for dosage information .
+[ MULTIMEDIA ] [ MULTIMEDIA ]

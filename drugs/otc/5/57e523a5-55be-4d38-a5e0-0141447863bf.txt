@@ -1,0 +1,185 @@
+DESCRIPTION Nateglinide Tablets , USP are an oral antidiabetic agent used in the management of Type 2 diabetes mellitus [ also known as non - insulin dependent diabetes mellitus ( NIDDM ) or adult - onset diabetes ] .
+Nateglinide , ( - ) - N - [ ( trans - 4 - isopropylcyclohexane ) carbonyl ] - D - phenylalanine , is structurally unrelated to the oral sulfonylurea insulin secretagogues .
+The structural formula is as shown [ MULTIMEDIA ] Nateglinide is a white powder with a molecular weight of 317 . 43 .
+It is freely soluble in methanol , ethanol , and chloroform , soluble in ether , sparingly soluble in acetonitrile and octanol , and practically insoluble in water .
+Nateglinide biconvex tablets contain 60 mg , or 120 mg , of nateglinide for oral administration .
+Inactive Ingredients : colloidal silicon dioxide , croscarmellose sodium , lactose monohydrate , magnesium stearate , microcrystalline cellulose , povidone , pregelatinized starch .
+The 60 mg also contains iron oxide red , polyethylene glycol , polyvinyl alcohol , talc , and titanium dioxide .
+In addition , the 120 mg contains FD & C Yellow # 6 / Sunset Yellow Aluminum Lake , iron oxide yellow .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Nateglinide is an amino - acid derivative that lowers blood glucose levels by stimulating insulin secretion from the pancreas .
+This action is dependent upon functioning beta - cells in the pancreatic islets .
+Nateglinide interacts with the ATP - sensitive potassium ( K + ATP ) channel on pancreatic beta - cells .
+The subsequent depolarization of the beta cell opens the calcium channel , producing calcium influx and insulin secretion .
+The extent of insulin release is glucose dependent and diminishes at low glucose levels .
+Nateglinide is highly tissue selective with low affinity for heart and skeletal muscle .
+Pharmacokinetics Absorption Following oral administration immediately prior to a meal , nateglinide is rapidly absorbed with mean peak plasma drug concentrations ( Cmax ) generally occurring within 1 hour ( Tmax ) after dosing .
+When administered to patients with Type 2 diabetes over the dosage range 60 mg to 240 mg three times a day for one week , nateglinide demonstrated linear pharmacokinetics for both AUC ( area under the time / plasma concentration curve ) and Cmax .
+Tmax was also found to be independent of dose in this patient population .
+Absolute bioavailability is estimated to be approximately 73 % .
+When given with or after meals , the extent of nateglinide absorption ( AUC ) remains unaffected .
+However , there is a delay in the rate of absorption characterized by a decrease in Cmax and a delay in time to peak plasma concentration ( Tmax ) .
+Plasma profiles are characterized by multiple plasma concentration peaks when nateglinide is administered under fasting conditions .
+This effect is diminished when nateglinide is taken prior to a meal .
+Distribution Based on data following intravenous ( IV ) administration of nateglinide , the steady - state volume of distribution of nateglinide is estimated to be approximately 10 liters in healthy subjects .
+Nateglinide is extensively bound ( 98 % ) to serum proteins , primarily serum albumin , and to a lesser extent α1 acid glycoprotein .
+The extent of serum protein binding is independent of drug concentration over the test range of 0 . 1 to 10 mcg / mL .
+Metabolism Nateglinide is metabolized by the mixed - function oxidase system prior to elimination .
+The major routes of metabolism are hydroxylation followed by glucuronide conjugation .
+The major metabolites are less potent antidiabetic agents than nateglinide .
+The isoprene minor metabolite possesses potency similar to that of the parent compound nateglinide .
+In vitro data demonstrate that nateglinide is predominantly metabolized by cytochrome P450 isoenzymes CYP2C9 ( 70 % ) and CYP3A4 ( 30 % ) .
+Excretion Nateglinide and its metabolites are rapidly and completely eliminated following oral administration .
+Within 6 hours after dosing , approximately 75 % of the administered 14 C - nateglinide was recovered in the urine .
+Eighty - three percent of the 14 C - nateglinide was excreted in the urine with an additional 10 % eliminated in the feces .
+Approximately 16 % of the 14 C - nateglinide was excreted in the urine as parent compound .
+In all studies of healthy volunteers and patients with Type 2 diabetes , nateglinide plasma concentrations declined rapidly with an average elimination half - life of approximately 1 . 5 hours .
+Consistent with this short elimination half - life , there was no apparent accumulation of nateglinide upon multiple dosing of up to 240 mg three times daily for 7 days .
+Drug Interactions In vitro drug metabolism studies indicate that nateglinide is predominantly metabolized by the cytochrome P450 isozyme CYP2C9 ( 70 % ) and to a lesser extent CYP3A4 ( 30 % ) .
+Nateglinide is a potential inhibitor of the CYP2C9 isoenzyme in vivo as indicated by its ability to inhibit the in vitro metabolism of tolbutamide .
+Inhibition of CYP3A4 metabolic reactions was not detected in in vitro experiments .
+Glyburide : In a randomized , multiple - dose crossover study , patients with Type 2 diabetes were administered 120 mg nateglinide three times a day before meals for 1 day in combination with glyburide 10 mg daily .
+There were no clinically relevant alterations in the pharmacokinetics of either agent .
+Metformin : When nateglinide 120 mg three times daily before meals was administered in combination with metformin 500 mg three times daily to patients with Type 2 diabetes , there were no clinically relevant changes in the pharmacokinetics of either agent .
+Digoxin : When nateglinide 120 mg before meals was administered in combination with a single 1 mg dose of digoxin to healthy volunteers , there were no clinically relevant changes in the pharmacokinetics of either agent .
+Warfarin : When healthy subjects were administered nateglinide 120 mg three times daily before meals for four days in combination with a single dose of warfarin 30 mg on day 2 , there were no alterations in the pharmacokinetics of either agent .
+Prothrombin time was not affected .
+Diclofenac : Administration of morning and lunch doses of nateglinide 120 mg in combination with a single 75 mg dose of diclofenac in healthy volunteers resulted in no significant changes to the pharmacokinetics of either agent .
+Special Populations Geriatric : Age did not influence the pharmacokinetic properties of nateglinide .
+Therefore , no dose adjustments are necessary for elderly patients .
+Gender : No clinically significant differences in nateglinide pharmacokinetics were observed between men and women .
+Therefore , no dose adjustment based on gender is necessary .
+Race : Results of a population pharmacokinetic analysis including subjects of Caucasian , Black , and other ethnic origins suggest that race has little influence on the pharmacokinetics of nateglinide .
+Renal Impairment : Compared to healthy matched subjects , patients with Type 2 diabetes and moderate - to - severe renal insufficiency ( CrCl 15 to 50 mL / min ) not on dialysis displayed similar apparent clearance , AUC and Cmax .
+Patients with Type 2 diabetes and renal failure on dialysis exhibited reduced overall drug exposure .
+However , hemodialysis patients also experienced reductions in plasma protein binding compared to the matched healthy volunteers .
+Hepatic Impairment : The peak and total exposure of nateglinide in non - diabetic subjects with mild hepatic insufficiency were increased by 30 % compared to matched healthy subjects .
+Nateglinide should be used with caution in patients with chronic liver disease .
+( See PRECAUTIONS , Hepatic Impairment . )
+Pharmacodynamics Nateglinide is rapidly absorbed and stimulates pancreatic insulin secretion within 20 minutes of oral administration .
+When nateglinide is dosed three times daily before meals there is a rapid rise in plasma insulin , with peak levels approximately 1 hour after dosing and a fall to baseline by 4 hours after dosing .
+In a double - blind , controlled clinical trial in which nateglinide was administered before each of three meals , plasma glucose levels were determined over a 12 - hour , daytime period after 7 weeks of treatment .
+Nateglinide was administered 10 minutes before meals .
+The meals were based on standard diabetic weight maintenance menus with the total caloric content based on each subject ’ s height .
+Nateglinide produced statistically significant decreases in fasting and postprandial glycemia compared to placebo .
+CLINICAL STUDIES A total of 3 , 566 patients were randomized in nine double - blind , placebo - or active - controlled studies 8 to 24 weeks in duration to evaluate the safety and efficacy of nateglinide .
+3 , 513 patients had efficacy values beyond baseline .
+In these studies nateglinide was administered up to 30 minutes before each of three main meals daily .
+Nateglinide Monotherapy Compared to Placebo In a randomized , double - blind , placebo - controlled , 24 - week study , patients with Type 2 diabetes with HbA1c ≥ 6 . 8 % on diet alone were randomized to receive either nateglinide ( 60 mg or 120 mg three times daily before meals ) or placebo .
+Baseline HbA1c ranged from 7 . 9 % to 8 . 1 % and 77 . 8 % of patients were previously untreated with oral antidiabetic therapy .
+Patients previously treated with antidiabetic medications were required to discontinue that medication for at least 2 months before randomization .
+The addition of nateglinide before meals resulted in statistically significant reductions in mean HbA1c and mean fasting plasma glucose ( FPG ) compared to placebo ( see Table 1 ) .
+The reductions in HbA1c and FPG were similar for patients naïve to , and those previously exposed to , antidiabetic medications .
+In this study , one episode of severe hypoglycemia ( plasma glucose < 36 mg / dL ) was reported in a patient treated with nateglinide 120 mg three times daily before meals .
+No patients experienced hypoglycemia that required third party assistance .
+Patients treated with nateglinide had statistically significant mean increases in weight compared to placebo ( see Table 1 ) .
+In another randomized , double - blind , 24 - week , active - and placebo - controlled study , patients with Type 2 diabetes were randomized to receive nateglinide ( 120 mg three times daily before meals ) , metformin 500 mg ( three times daily ) , a combination of nateglinide 120 mg ( three times daily before meals ) and metformin 500 mg ( three times daily ) , or placebo .
+Baseline HbA1c ranged from 8 . 3 % to 8 . 4 % .
+Fifty - seven percent of patients were previously untreated with oral antidiabetic therapy .
+Nateglinide monotherapy resulted in significant reductions in mean HbA1c and mean FPG compared to placebo that were similar to the results of the study reported above ( see Table 2 ) .
+Table 1 : Endpoint results for a 24 - week , fixed dose study of Nateglinide monotherapyHbA1c ( % ) Placebo N = 168 Nateglinide 60 mg three times daily before meals N = 167 Nateglinide 120 mg three times daily before meals N = 168 a p - value ≤ 0 . 004 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo ( mean 8 . 0 + 0 . 2 7 . 9 - 0 . 3 - 0 . 5 a 8 . 1 - 0 . 5 - 0 . 7 a FPG ( mg / dL ) N = 172 N = 171 N = 169 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo ( mean ) 167 . 9 + 9 . 1 161 . 0 + 0 . 4 - 8 . 7 a 166 . 5 - 4 . 5 - 13 . 6 a Weight ( kg ) N = 170 N = 169 N = 166 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo ( mean ) 85 . 8 - 0 . 7 83 . 7 + 0 . 3 + 1 . 0 a 86 . 3 + 0 . 9 + 1 . 6 a Nateglinide Monotherapy Compared to Other Oral Antidiabetic Agents Glyburide In a 24 - week , double - blind , active - controlled trial , patients with Type 2 diabetes who had been on a sulfonylurea for ≥ 3 months and who had a baseline HbA1c ≥ 6 . 5 % were randomized to receive nateglinide ( 60 mg or 120 mg three times daily before meals ) or glyburide 10 mg once daily .
+Patients randomized to nateglinide had significant increases in mean HbA1c and mean FPG at endpoint compared to patients randomized to glyburide .
+Metformin In another randomized , double - blind , 24 - week , active - and placebo - controlled study , patients with Type 2 diabetes were randomized to receive nateglinide ( 120 mg three times daily before meals ) , metformin 500 mg ( three times daily ) , a combination of nateglinide 120 mg ( three times daily before meals ) and metformin 500 mg ( three times daily ) , or placebo .
+Baseline HbA1c ranged from 8 . 3 % to 8 . 4 % .
+Fifty - seven percent of patients were previously untreated with oral antidiabetic therapy .
+Patients previously treated with antidiabetic medications were required to discontinue medication for at least 2 months before randomization .
+The reductions in mean HbA1c and mean FPG at endpoint with metformin monotherapy were significantly greater than the reductions in these variables with nateglinide monotherapy ( see Table 2 ) .
+Relative to placebo , nateglinide monotherapy was associated with significant increases in mean weight whereas metformin monotherapy was associated with significant decreases in mean weight .
+Among the subset of patients naïve to antidiabetic therapy , the reductions in mean HbA1c and mean FPG for nateglinide monotherapy were similar to those for metformin monotherapy ( see Table 2 ) .
+Among the subset of patients previously treated with other antidiabetic agents , primarily glyburide , HbA1c in the nateglinide monotherapy group increased slightly from baseline , whereas HbA1c was reduced in the metformin monotherapy group ( see Table 2 ) .
+Nateglinide Combination Therapy Metformin In the active and placebo - controlled study of metformin and nateglinide described above , the combination of nateglinide and metformin resulted in statistically significantly greater reductions in HbA1c and FPG compared to either nateglinide or metformin monotherapy ( see Table 2 ) .
+Nateglinide , alone or in combination with metformin , significantly reduced the prandial glucose elevation form pre - meal to 2 - hours post - meal compared to placebo and metformin alone .
+In this study , one episode of severe hypoglycemia ( plasma glucose ≤ 36 mg / dL ) was reported in a patient receiving the combination of nateglinide and metformin and four episodes of severe hypoglycemia were reported in a single patient in the metformin treatment arm .
+No patient experienced an episode of hypoglycemia that required third party assistance .
+Compared to placebo , nateglinide monotherapy was associated with a statistically significant increase in weight , while no significant change in weight was observed with combined nateglinide and metformin therapy ( see Table 2 ) .
+In another 24 - week , double - blind , placebo - controlled trial , patients with Type 2 diabetes with HbA1c ≥ 6 . 8 % after treatment with metformin ( ≥ 1500 mg daily for ≥ 1 month ) were first entered into a four - week run - in period of metformin monotherapy ( 2000 mg daily ) and then randomized to receive nateglinide ( 60 mg or 120 mg three times daily before meals ) or placebo in addition to metformin .
+Combination therapy with nateglinide and metformin was associated with statistically significantly greater reductions in HbA1c compared to metformin monotherapy ( - 0 . 4 % and - 0 . 6 % for nateglinide 60 mg and nateglinide 120 mg plus metformin , respectively ) .
+Table 2 : Endpoint results for a 24 - week study of Nateglinide monotherapy and combination with metforminHbA1c ( % ) All Placebo N = 160 Nateglinide 120 mg three times daily before meals N = 171 Metformin 500 mg three times daily N = 172 Nateglinide 120 mg before meals plus Metformin * N = 162 a p - value ≤ 0 . 05 vs . placebob p - value ≤ 0 . 03 vs . metformin c p - value ≤ 0 . 05 vs . combination * Metformin was administered three times daily Baseline ( mean ) Change from baseline ( mean ) Difference from placebo Naïve 8 . 3 + 0 . 4 N = 98 8 . 3 - 0 . 4 bc - 0 . 8 a N = 99 8 . 4 - 0 . 8 c - 1 . 2 a N = 98 . 4 - 1 . 5 - 1 . 9 a N = 81 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo Non - Naïve 8 . 2 + 0 . 3 N = 62 8 . 1 - 0 . 7 c - 1 . 0 a N = 72 8 . 3 - 0 . 8 c - 1 . 1 a N = 74 8 . 2 - 1 . 6 - 1 . 9 a N = 81 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo FPG ( mg / dL ) All 8 . 3 + 0 . 6 N = 166 8 . 5 + 0 . 004 bc - 0 . 6 a N = 173 8 . 7 - 0 . 8 c - 1 . 4 a N = 174 8 . 7 - 1 . 4 - 2 . 0 a N = 167 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo Weight ( kg ) All 194 . 0 + 8 . 0 N = 160 196 . 5 - 13 . 1 bc - 21 . 1 a N = 169 196 . 0 - 30 . 0 c - 38 . 0 a N = 169 197 . 7 - 44 . 9 - 52 . 9 a N = 160 Baseline ( mean ) Change from baseline ( mean ) Difference from placebo 85 . 0 - 0 . 4 85 . 0 + 0 . 9 bc + 1 . 3 a 86 . 0 - 0 . 1 + 0 . 3 87 . 4 + 0 . 2 + 0 . 6 Rosiglitazone A 24 - week , double blind multicenter , placebo - controlled trial was performed in patients with Type 2 diabetes not adequately controlled after a therapeutic response to rosiglitazone monotherapy 8 mg daily .
+The addition of nateglinide ( 120 mg three times per day with meals ) was associated with statistically significantly greater reductions in HbA1c compared to rosiglitazone monotherapy .
+The difference was - 0 . 77 % at 24 weeks .
+The mean change in weight from baseline was about + 3 kg for patients treated with nateglinide plus rosiglitazone vs about + 1 kg for patients treated with placebo plus rosiglitazone .
+Glyburide In a 12 - week study of patients with Type 2 diabetes inadequately controlled on glyburide 10 mg once daily , the addition of nateglinide ( 60 mg or 120 mg three times daily before meals ) did not produce any additional benefit .
+INDICATIONS AND USAGE Nateglinide Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with Type 2 diabetes mellitus .
+CONTRAINDICATIONS Nateglinide Tablets are contraindicated in patients with : • Known hypersensitivity to the drug or its inactive ingredients .
+• Type 1 diabetes .
+• Diabetic ketoacidosis .
+This condition should be treated with insulin .
+PRECAUTIONS Macrovascular Outcomes : There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with nateglinide or any other antidiabetic drug .
+Hypoglycemia : All oral blood glucose lowering drugs that are absorbed systemically are capable of producing hypoglycemia .
+The frequency of hypoglycemia is related to the severity of the diabetes , the level of glycemic control , and other patient characteristics .
+Geriatric patients , malnourished patients , and those with adrenal or pituitary insufficiency or severe renal impairment are more susceptible to the glucose lowering effect of these treatments .
+The risk of hypoglycemia may be increased by strenuous physical exercise , ingestion of alcohol , insufficient caloric intake on an acute or chronic basis , or combinations with other oral antidiabetic agents .
+Hypoglycemia may be difficult to recognize in patients with autonomic neuropathy and / or those who use beta - blockers .
+Nateglinide should be administered prior to meals to reduce the risk of hypoglycemia .
+Patients who skip meals should also skip their scheduled dose of nateglinide to reduce the risk of hypoglycemia .
+Hepatic Impairment : Nateglinide should be used with caution in patients with moderate - to - severe liver disease because such patients have not been studied .
+Loss of Glycemic Control Transient loss of glycemic control may occur with fever , infection , trauma , or surgery .
+Insulin therapy may be needed instead of nateglinide therapy at such times .
+Secondary failure , or reduced effectiveness of nateglinide over a period of time , may occur .
+Information for Patients Patients should be informed of the potential risks and benefits of nateglinide and of alternative modes of therapy .
+The risks and management of hypoglycemia should be explained .
+Patients should be instructed to take nateglinide 1 to 30 minutes before ingesting a meal , but to skip their scheduled dose if they skip the meal so that the risk of hypoglycemia will be reduced .
+Drug interactions should be discussed with patients .
+Patients should be informed of potential drug - drug interactions with nateglinide .
+Laboratory Tests Response to therapies should be periodically assessed with glucose values and HbA1c levels .
+Drug Interactions Nateglinide is highly bound to plasma proteins ( 98 % ) , mainly albumin .
+In vitro displacement studies with highly protein - bound drugs such as furosemide , propranolol , captopril , nicardipine , pravastatin , glyburide , warfarin , phenytoin , acetylsalicylic acid , tolbutamide , and metformin showed no influence on the extent of nateglinide protein binding .
+Similarly , nateglinide had no influence on the serum protein binding of propranolol , glyburide , nicardipine , warfarin , phenytoin , acetylsalicylic acid and tolbutamide in vitro .
+However , prudent evaluation of individual cases is warranted in the clinical setting .
+Certain drugs , including nonsteroidal anti - inflammatory agents ( NSAIDs ) , salicylates , monoamine oxidase inhibitors , and non - selective beta - adrenergic - blocking agents , guanethidine , and CYP2C9 inhibitors ( e . g . , fluconazole , amiodarone , miconazole , oxandrolone ) may potentiate the hypoglycemic action of nateglinide and other oral antidiabetic drugs .
+Certain drugs including thiazides , corticosteroids , thyroid products , sympathomimetics , somatropin , rifampin , phenytoin and dietary supplements ( St . John ’ s wort ) may reduce the hypoglycemic action of nateglinide and other oral antidiabetic drugs .
+Somatostatin analogues may potentiate or attenuate the hypoglycemic action of nateglinide .
+When these drugs are administered to or withdrawn from patients receiving nateglinide , the patient should be observed closely for changes in glycemic control .
+Drug / Food Interactions The pharmacokinetics of nateglinide were not affected by the composition of a meal ( high protein , fat , or carbohydrate ) .
+However , peak plasma levels were significantly reduced when nateglinide was administered 10 minutes prior to a liquid meal .
+Nateglinide did not have any effect on gastric emptying in healthy subjects as assessed by acetaminophen testing .
+Carcinogenesis and Mutagenesis and Impairment of Fertility Carcinogenicity : A two - year carcinogenicity study in Sprague - Dawley rats was performed with oral doses of nateglinide up to 900 mg / kg / day , which produced AUC exposures in male and female rats approximately 30 and 40 times the human therapeutic exposure respectively with a recommended nateglinide dose of 120 mg , three times daily before meals .
+A two - year carcinogenicity study in B6C3F1 mice was performed with oral doses of nateglinide up to 400 mg / kg / day , which produced AUC exposures in male and female mice approximately 10 and 30 times the human therapeutic exposure with a recommended nateglinide dose of 120 mg , three times daily before meals .
+No evidence of a tumorigenic response was found in either rats or mice .
+Mutagenesis : Nateglinide was not genotoxic in the in vitro Ames test , mouse lymphoma assay , chromosome aberration assay in Chinese hamster lung cells , or in the in vivo mouse micronucleus test .
+Impairment of Fertility : Fertility was unaffected by administration of nateglinide to rats at doses up to 600 mg / kg ( approximately 16 times the human therapeutic exposure with a recommended nateglinide dose of 120 mg three times daily before meals ) .
+Pregnancy Pregnancy Category C : Nateglinide was not teratogenic in rats at doses up to 1000 mg / kg ( approximately 60 times the human therapeutic exposure with a recommended nateglinide dose of 120 mg , three times daily before meals ) .
+In the rabbit , embryonic development was adversely affected and the incidence of gallbladder agenesis or small gallbladder was increased at a dose of 500 mg / kg ( approximately 40 times the human therapeutic exposure with a recommended nateglinide dose of 120 mg , three times daily before meals ) .
+There are no adequate and well - controlled studies in pregnant women .
+Nateglinide should not be used during pregnancy .
+Labor and Delivery The effect of nateglinide on labor and delivery in humans is not known .
+Nursing Mothers Studies in lactating rats showed that nateglinide is excreted in the milk ; the AUC 0 - 48 h ratio in milk to plasma was approximately 1 : 4 .
+During the peri - and postnatal period body weights were lower in offspring of rats administered nateglinide at 1000 mg / kg ( approximately 60 times the human therapeutic exposure with a recommended nateglinide dose of 120 mg , three times daily before meals ) .
+It is not known whether nateglinide is excreted in human milk .
+Because many drugs are excreted in human milk , nateglinide should not be administered to a nursing woman .
+Pediatric Use Clinical trials to demonstrate the safety and effectiveness in pediatric patients have not been conducted .
+Geriatric Use No differences were observed in safety or efficacy of nateglinide between patients age 65 and over , and those under age 65 .
+However , greater sensitivity of some older individuals to nateglinide therapy cannot be ruled out .
+ADVERSE REACTIONS In clinical trials , approximately 2 , 600 patients with Type 2 diabetes were treated with nateglinide .
+Of these , approximately 1 , 335 patients were treated for 6 months or longer and approximately 190 patients for one year or longer .
+Hypoglycemia was relatively uncommon in all treatment arms of the clinical trials .
+Only 0 . 3 % of nateglinide patients discontinued due to hypoglycemia .
+Symptoms suggestive of hypoglycemia have been observed after administration of nateglinide .
+These symptoms included sweating , trembling , dizziness , increased appetite , palpitations , nausea , fatigue and weakness .
+Gastrointestinal symptoms , especially diarrhea and nausea , were no more common in patients using the combination of nateglinide and metformin than in patients receiving metformin alone .
+Likewise , peripheral edema was no more common in patients using the combination of nateglinide and rosiglitazone than in patients receiving rosiglitazone alone .
+The following table lists events that occurred more frequently in nateglinide patients than placebo patients in controlled clinical trials .
+Common Adverse Events ( ≥ 2 % in nateglinide patients ) in Nateglinide Monotherapy Trials ( % of patients ) Preferred Term PlaceboN = 458 NateglinideN = 1441 Upper Respiratory Infection 8 . 1 10 . 5 Back Pain 3 . 7 4 . 0 Flu Symptoms 2 . 6 3 . 6 Dizziness 2 . 2 3 . 6 Arthropathy 2 . 2 3 . 3 Diarrhea 3 . 1 3 . 2 Accidental Trauma 1 . 7 2 . 9 Bronchitis 2 . 6 2 . 7 Coughing 2 . 2 2 . 4 Hypoglycemia 0 . 4 2 . 4 During post - marketing experience , rare cases of hypersensitivity reactions such as rash , itching and urticaria have been reported .
+Similarly , cases of jaundice , cholestatic hepatitis and elevated liver enzymes have been reported .
+Laboratory Abnormalities Uric Acid : There were increases in mean uric acid levels for patients treated with nateglinide alone , nateglinide in combination with metformin , metformin alone , and glyburide alone .
+The respective differences from placebo were 0 . 29 mg / dL , 0 . 45 mg / dL , 0 . 28 mg / dL , and 0 . 19 mg / dL .
+The clinical significance of these findings is unknown .
+OVERDOSAGE In a clinical study in patients with Type 2 diabetes , nateglinide was administered in increasing doses up to 720 mg a day for 7 days and there were no clinically significant adverse events reported .
+There have been no instances of overdose with nateglinide in clinical trials .
+However , an overdose may result in an exaggerated glucose - lowering effect with the development of hypoglycemic symptoms .
+Hypoglycemic symptoms without loss of consciousness or neurological findings should be treated with oral glucose and adjustments in dosage and / or meal patterns .
+Severe hypoglycemic reactions with coma , seizure , or other neurological symptoms should be treated with intravenous glucose .
+As nateglinide is highly protein bound , dialysis is not an efficient means of removing it from the blood .
+DOSAGE AND ADMINISTRATION Nateglinide Tablets USP should be taken 1 to 30 minutes prior to meals .
+Monotherapy and Combination with Metformin or a Thiazolidinedione The recommended starting and maintenance dose of nateglinide , alone or in combination with metformin or a thiazolidinedione , is 120 mg three times daily before meals .
+The 60 mg dose of nateglinide , either alone or in combination with metformin or a thiazolidinedione , may be used in patients who are near goal HbA1c when treatment is initiated .
+Dosage in Geriatric Patients No special dose adjustments are usually necessary .
+However , greater sensitivity of some individuals to nateglinide therapy cannot be ruled out .
+Dosage in Renal and Hepatic Impairment No dosage adjustment is necessary in patients with mild - to - severe renal insufficiency or in patients with mild hepatic insufficiency .
+Dosing of patients with moderate - to - severe hepatic dysfunction has not been studied .
+Therefore , nateglinide should be used with caution in patients with moderate - to - severe liver disease ( see PRECAUTIONS , Hepatic Impairment ) .
+HOW SUPPLIED Nateglinide Tablets , USP 120 mgOrange color coated , oval shaped biconvex , tablet debossed with “ P 985 ” on one side and plain on the other side Bottles of 10 … … … … … NDC 54868 - 6255 - 0 Bottles of 90 … … … … … NDC 54868 - 6255 - 1 Storage Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+[ See USP Controlled Room Temperature ] .
+Dispense in a tight , light resistant containers .
+Manufactured by : Par Pharmaceutical Companies , Inc .
+Spring Valley , NY 10977 R09 / 2011 Relabeling and Repackaging by : Physicians Total Care , Inc .
+Tulsa , Oklahoma 74146 PRINCIPAL DISPLAY PANEL – 120 MG CONTAINER [ MULTIMEDIA ] [ MULTIMEDIA ]

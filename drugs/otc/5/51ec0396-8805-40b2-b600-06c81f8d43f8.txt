@@ -1,0 +1,199 @@
+DESCRIPTION The Ultra - Technekow ™ V4 Generator is prepared with fission - produced molybdenum Mo - 99 adsorbed onto alumina in a column shielded by lead , tungsten , or depleted uranium .
+The column assembly and shielding are encased in a plastic container that is covered with a plastic elution hood .
+The elution hood has an opening for the column assembly double inlet needles and an opening for the single outlet needle .
+The needles accommodate the sterile eluant vials that contain 0 . 9 % Sodium Chloride Injection and sterile evacuated collection vials .
+A sterile vial containing a bacteriostat is supplied with the generator for the customer to aseptically seal the outlet needle after each elution .
+This terminally sterilized generator provides a closed system for the production of sterile metastable technetium Tc - 99 m , which is produced by the decay of molybdenum Mo - 99 .
+Incorporated between the column outlet and the collection vial is a sterile 0 . 22 micrometer filter .
+Sterile , non - pyrogenic isotonic solutions of Sodium Pertechnetate Tc 99 m Injection in 0 . 9 % Sodium Chloride Injection can be obtained conveniently by periodic aseptic elution of the generator .
+These solutions should be clear , colorless , and free from any particulate matter .
+The Sodium Pertechnetate Tc 99 m Injection is suitable for intravenous injection and direct instillation .
+The carrier - free solution may be used as is , or diluted to the proper concentration .
+Over the life of the generator , an elution will contain an amount of technetium Tc - 99 m in direct proportion to the quantity of Mo - 99 decay since the previous elution of the generator .
+The quantity of Tc - 99 m in the eluate is determined by quantity of Mo - 99 on the column , and the elapsed time between elutions .
+Each eluate of the generator should not contain more than the USP limit of 0 . 15 kilobecquerel molybdenum Mo - 99 per megabecquerel technetium Tc - 99 m ( 0 . 15 microcurie Mo - 99 per millicurie Tc - 99 m ) per administered dose at the time of administration and an aluminum ion concentration of not more than 10 micrograms per milliliter of the generator eluate , both of which must be determined by the user before administration .
+Since the eluate does not contain an antimicrobial agent , it should not be used after 12 hours from the time of generator elution .
+Physical Characteristics Technetium Tc - 99 m decays by isomeric transition with a physical half - life of 6 hours .
+The principal photon that is useful for detection and imaging studies is listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data Radiation Mean Percent Per Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 External Radiation The specific gamma ray constant for technetium Tc - 99 m is 0 . 795 R / hr - mCi at 1 cm .
+The first half - value layer is 0 . 023 cm of lead ( Pb ) .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 0 . 27 cm thickness of Pb will attenuate the radiation emitted by a factor of about 1000 .
+Table 2 .
+Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 023 0 . 5 0 . 09 10 - 1 0 . 18 10 - 2 0 . 27 10 - 3 Molybdenum Mo - 99 decays to technetium Tc - 99 m with a molybdenum Mo - 99 half - life of 2 . 75 days , or 66 hours ( see Table 3 ) .
+The physical decay characteristics of molybdenum Mo - 99 are such that only 88 . 6 % of the decaying molybdenum Mo - 99 atoms form technetium Tc - 99 m .
+Generator elutions may be made at any time , but the amount of technetium Tc - 99 m available will depend on the interval measured from the last elution .
+Approximately 47 % of the maximum available technetium Tc - 99 m is reached after 6 hours and 95 % after 23 hours .
+To correct for physical decay of molybdenum Mo - 99 and technetium Tc - 99 m , the fractions that remain at selected intervals of time are shown in Tables 3 and 4 .
+Table 3 .
+Physical Decay Chart ; Molybdenum Mo - 99 , Half - Life 66 Hours Days Percent Remaining Days Percent Remaining 0 100 10 8 1 78 11 6 2 60 12 5 3 47 13 4 4 37 14 3 5 28 15 2 6 22 20 0 . 6 7 17 25 0 . 2 8 13 30 0 . 05 9 10 Table 4 .
+Physical Decay Chart ; Technetium Tc - 99 m , Half - Life 6 Hours Hours Percent Remaining Hours Percent Remaining 0 * 100 9 35 1 89 10 32 2 79 11 28 3 71 12 25 4 63 14 20 5 56 16 16 6 50 18 13 7 45 24 6 8 40 * Calibration Time CLINICAL PHARMACOLOGY The pertechnetate ion distributes in the body similarly to the iodide ion but is not organified when trapped in the thyroid gland .
+Pertechnetate concentrates in the thyroid gland , salivary glands , stomach and choroid plexus .
+After intravenous administration it gradually equilibrates with the extracellular space .
+A fraction is promptly excreted via the kidneys .
+Following the administration of Sodium Pertechnetate Tc 99 m as an eye drop , the drug mixes with tears within the conjunctival space .
+Within seconds to minutes it leaves the conjunctival space and escapes into the inferior meatus of the nose through the nasolacrimal drainage system .
+During this process the pertechnetate ion passes through the canaliculi , the lacrimal sac and the nasolacrimal duct .
+In the event of any anatomical or functional blockage of the drainage system there will be a backflow resulting in tearing ( epiphora ) .
+Thus the pertechnetate escapes the conjunctival space in the tears .
+While the major part of the pertechnetate escapes within a few minutes of normal drainage and tearing , it has been documented that there is some degree of transconjunctival absorption with turnover of 1 . 5 % per minute in normal individuals , 2 . 1 % per minute in patients without any sac and 2 . 7 % per minute in patients with inflamed conjunctiva due to chronic dacryocystitis .
+Individual values may vary but these rates are probably representative and indicate that the maximum possible pertechnetate absorbed will remain below one thousandth of that used in other routine diagnostic procedures .
+INDICATIONS AND USAGE The Ultra - Technekow ™ V4 generator is a source of sodium pertechnetate Tc 99 m for use in the preparation of FDA - approved diagnostic radiopharmaceuticals , as described in the labeling of these diagnostic radiopharmaceutical kits .
+Sodium Pertechnetate Tc 99 m is used IN ADULTS as an agent for : Thyroid Imaging Salivary Gland Imaging Urinary Bladder Imaging ( direct isotopic cystography ) for detection of vesico - ureteral reflux Nasolacrimal Drainage System Imaging ( dacryoscintigraphy ) Sodium Pertechnetate Tc 99 m is used IN PEDIATRIC PATIENTS as an agent for : Thyroid Imaging Urinary Bladder Imaging ( direct isotopic cystography ) for the detection of vesico - ureteral reflux CONTRAINDICATIONS None .
+WARNINGS Radiation risks associated with the use of Sodium Pertechnetate Tc 99 m are greater in pediatric patients than in adults and , in general , the younger the patient the greater the risk owing to greater absorbed radiation doses and longer life expectancy .
+These greater risks should be taken firmly into account in all benefit risk assessments involving pediatric patients .
+Long - term cumulative radiation exposure may be associated with an increased risk of cancer .
+Only use generator eluant specified for use with the Ultra - Technekow ™ V4 Generator .
+Do not use any other generator eluant or saline from any other source .
+PRECAUTIONS Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+As in the use of any radioactive material , care should be taken to minimize radiation exposure to the patient consistent with proper patient management and to ensure minimum radiation exposure to occupational workers .
+After the termination of the nasolacrimal imaging procedure , blowing the nose and washing the eyes with sterile distilled water or an isotonic sodium chloride solution will further minimize the radiation dose .
+Since the eluate does not contain an antimicrobial agent , it should not be used after 12 hours from time of generator elution .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic or mutagenic potential or whether Sodium Pertechnetate Tc 99 m may affect fertility in males or females .
+Pregnancy In animal reproductive studies , Sodium Pertechnetate Tc 99 m ( as free pertechnetate ) has been shown to cross the placental barrier .
+It is not known whether Sodium Pertechnetate Tc 99 m can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+Sodium Pertechnetate Tc 99 m should be given to pregnant women only if the expected benefits to be gained clearly outweigh the potential hazards .
+Ideally , examinations using radiopharmaceutical drug products - especially those elective in nature - of women of childbearing capability should be performed during the first ten days following the onset of menses .
+Nursing Mothers Technetium Tc - 99 m is excreted in human milk during lactation , therefore , formula - feedings should be substituted for breast - feedings .
+Pediatric Use See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections .
+Also see the description of additional risk under WARNINGS .
+ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99 m .
+DOSAGE AND ADMINISTRATION Sodium Pertechnetate Tc 99 m is administered by intravenous injection .
+When imaging the nasolacrimal drainage system , instill the Sodium Pertechnetate Tc 99 m by the use of a device such as a micropipette or similar method which will ensure the accuracy of the dose .
+For imaging the urinary bladder and ureters ( direct isotopic cystography ) , the Sodium Pertechnetate Tc 99 m is administered by direct instillation aseptically into the bladder via a urethral catheter , following which the catheter is flushed with approximately 200 mL of sterile saline directly into the bladder .
+The suggested dose ranges employed for various diagnostic indications in the average ADULT PATIENT ( 70 kg ) are as follows : Vesico - ureteral imaging : 18 . 5 to 37 MBq ( 0 . 5 to 1 mCi ) Thyroid gland imaging : 37 to 370 MBq ( 1 to 10 mCi ) Salivary gland imaging : 37 to 185 MBq ( 1 to 5 mCi ) Nasolacrimal drainage system : Maximum dose of 3 . 7 MBq ( 100 µCi ) The recommended dosages in PEDIATRIC PATIENTS are : Vesico - ureteral imaging : 18 . 5 to 37 MBq ( 0 . 5 to 1 mCi ) Thyroid gland imaging : 2 . 22 to 2 . 96 MBq ( 60 to 80 µCi ) per kg body weight The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+If the solution is discolored , discontinue use of the generator immediately .
+The solution to be administered as the patient dose should be clear , colorless , and contain no particulate matter .
+Radiation Dosimetry The estimated absorbed radiation doses to an average ADULT and PEDIATRIC patient from an intravenous injection of various doses of Sodium Pertechnetate Tc 99 m distributed uniformly in the total body are shown in Tables 5 and 6 .
+Table 5 .
+Absorbed Radiation Doses from Intravenous Injection Organ Absorbed Radiation Dose ( mGy ) for a 1110 MBq ( 30 mCi ) dose Adrenals 4 . 1 Urinary Bladder Wall 20 Bone Surfaces 6 . 2 Brain 2 . 2 Breasts 2 Gallbladder Wall 8 . 3 Stomach Wall 29 Small Intestine 18 ULI Wall 63 LLI Wall 23 Heart Wall 3 . 5 Kidneys 6 Liver 4 . 7 Lungs 2 . 9 Muscle 3 . 6 Ovaries 11 Pancreas 6 . 3 Red Marrow 4 . 1 Skin 2 Spleen 4 . 8 Testes 3 . 1 Thymus 2 . 7 Thyroid 24 Uterus 9 Remaining Tissues 3 . 9 Effective Dose ( mSv ) 14 To obtain radiation absorbed dose in rads ( 30 mCi dose ) from the above table , divide individual organ values by a factor of 10 ( does not apply for effective dose ) .
+Table 6 .
+Pediatric Absorbed Radiation Doses ( mGy ) from Intravenous Injection Age 15 years 10 years 5 years 1 year Administered activity in MBq ( mCi ) 1110 ( 30 ) 740 ( 20 ) 555 ( 15 ) 370 ( 10 ) Organ Adrenals 5 . 3 5 . 4 6 . 2 7 . 1 Urinary Bladder Wall 26 22 18 22 Bone Surfaces 7 . 6 7 . 5 8 . 1 10 Brain 2 . 8 3 . 1 3 . 7 4 . 5 Breasts 2 . 6 2 . 6 3 . 2 4 . 1 Gallbladder Wall 11 12 13 13 Stomach Wall 38 36 43 59 Small Intestine 22 23 26 30 ULI Wall 81 89 110 140 LLI Wall 31 33 40 48 Heart Wall 4 . 5 4 . 6 5 . 2 6 . 4 Kidneys 7 . 2 6 . 9 7 . 8 8 . 5 Liver 6 6 . 7 8 9 . 1 Lungs 3 . 8 3 . 8 4 . 4 5 . 3 Muscle 4 . 5 4 . 5 5 6 Ovaries 14 13 14 17 Pancreas 8 . 1 8 . 2 8 . 9 10 Red Marrow 5 . 1 5 5 . 2 6 Skin 2 . 5 2 . 6 3 . 2 3 . 8 Spleen 6 6 6 . 7 7 . 8 Testes 4 . 1 4 . 3 4 . 9 6 Thymus 3 . 6 3 . 5 4 . 2 5 . 3 Thyroid 40 41 67 81 Uterus 11 11 12 14 Remaining Tissues 4 . 8 4 . 8 5 . 4 6 . 4 Effective Dose ( mSv ) 19 19 23 29 To obtain radiation absorbed dose in rads ( 30 mCi dose ) from the above table , divide individual organ values by a factor of 10 ( does not apply for effective dose ) .
+The estimated absorbed radiation doses to an ADULT patient from the nasolacrimal imaging procedure using a maximum dose of 3 . 7 megabecquerels ( 100 microcuries ) of Sodium Pertechnetate Tc 99 m are shown in Table 7 .
+Table 7 .
+Absorbed Radiation Doses from Dacryoscintigraphy Tissue 3 . 7 MBq ( 100 µCi ) Dose of Sodium Pertechnetate Tc 99 m mGy rad Eye Lens : If lacrimal fluid turnover is 16 % / min 0 . 140 0 . 014 If lacrimal fluid turnover is 100 % / min 0 . 022 0 . 002 If drainage system is blocked 4 . 020 0 . 402 Total Body * 0 . 011 0 . 001 Ovaries * 0 . 030 0 . 003 Testes * 0 . 009 0 . 001 Thyroid * 0 . 130 0 . 013 * Assuming no blockage of draining system .
+In pediatric patients , an average 30 minute exposure to 37 MBq ( 1 mCi ) of Tc - 99 m pertechnetate following instillation for direct cystography , will result in the following estimated radiation doses : Table 8 .
+Absorbed Radiation Doses from Cystography ( PEDIATRIC ) Age Bladder wall dose , mGy ( rad ) Gonadal dose , mGy ( rad ) 1 year 3 . 6 ( 0 . 36 ) 0 . 15 ( 0 . 015 ) 5 years 2 . 0 ( 0 . 2 ) 0 . 095 ( 0 . 0095 ) 10 years 1 . 3 ( 0 . 13 ) 0 . 066 ( 0 . 0066 ) 15 years 0 . 92 ( 0 . 092 ) 0 . 046 ( 0 . 0046 ) HOW SUPPLIED The Ultra - Technekow ™ V4 ( Technetium Tc 99 m ) Generators contain the following amount of molybdenum Mo - 99 at the date and time of calibration stated on the label .
+Catalog No .
+9010 37 gigabecquerels ( 1 . 0 curie ) NDC 69945 - 010 - 03 9015 55 . 5 gigabecquerels ( 1 . 5 curies ) NDC 69945 - 015 - 04 9020 74 gigabecquerels ( 2 . 0 curies ) NDC 69945 - 020 - 05 9025 92 . 5 gigabecquerels ( 2 . 5 curies ) NDC 69945 - 025 - 06 9030 111 gigabecquerels ( 3 . 0 curies ) NDC 69945 - 030 - 07 9035 129 . 5 gigabecquerels ( 3 . 5 curies ) NDC 69945 - 035 - 08 9051 185 gigabecquerels ( 5 . 0 curies ) NDC 69945 - 051 - 09 9060 222 gigabecquerels ( 6 . 0 curies ) NDC 69945 - 060 - 10 9075 277 . 5 gigabecquerels ( 7 . 5 curies ) NDC 69945 - 075 - 11 9110 407 gigabecquerels ( 11 . 0 curies ) NDC 69945 - 110 - 12 9140 518 gigabecquerels ( 14 . 0 curies ) NDC 69945 - 140 - 13 9160 592 gigabecquerels ( 16 . 0 curies ) NDC 69945 - 160 - 14 9190 703 gigabecquerels ( 19 . 0 curies ) NDC 69945 - 190 - 15 Each generator is supplied with the following components for the elution of the generator : 1 - Technestat ™ Vial , 5 mL , containing 0 . 5 mL of 1 . 5 mg / mL methylparaben and 0 . 2 mg / mL propylparaben , sterile , non - pyrogenic 1 - Package Insert SUPPLIED SEPARATELY 30 - Evacuated Collecting Vials , 30 mL , sterile , non - pyrogenic , supplied with : 90 - Radioactive Materials Labels – Collection Vial ( 30 en , 30 fr , 30 es ) 90 - Radioactive Materials Labels – Elution Shield ( 30 en , 30 fr , 30 es ) 1 - Package Insert 30 - Generator Eluant , 0 . 9 % Sodium Chloride Injection , sterile , non - pyrogenic , available in 5 mL , 10 mL , or 20 mL volumes , with 1 package insert .
+The eluant does not contain an antimicrobial agent .
+Each milliliter of Generator Eluant contains 9 milligrams of Sodium Chloride .
+Storage Store generator and Sodium Pertechnetate Tc 99 m solution at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP Controlled Room Temperature ] .
+Expiration Date The generator should not be used after the expiration date stated on the label .
+The expiration time of the Sodium Pertechnetate Tc 99 m solution is not later than 12 hours after time of elution .
+If the eluate is used to reconstitute a kit , the radiolabeled kit should not be used after 12 hours from the time of generator elution or after the expiration time stated on the labeling for the prepared drug , whichever is earlier .
+Directions for Use of the Technetium Tc 99 m Generator NOTE 1 : Immediately upon delivery , the generator should be placed within a minimum of one - inch of lead shielding in such a manner so as to minimize radiation exposure to attending personnel .
+NOTE 2 : Wear waterproof gloves during the elution procedure and during subsequent reconstitution of kits with the eluate .
+NOTE 3 : Use a shielded syringe to withdraw patient dose or to transfer Sodium Pertechnetate Tc 99 m into mixing vials during kit reconstitution .
+NOTE 4 : The needles in the generator are sterile beneath their covers , and the generator has been cleaned underneath the top cover .
+Additional disinfection of these areas with agents containing alcohol may unfavorably influence the Tc - 99 m yield .
+Eluting the generator every 24 hours will provide optimal amounts of Sodium Pertechnetate Tc 99 m .
+However , the generator may be eluted whenever sufficient amounts of technetium Tc - 99 m have accumulated within the column .
+For Example Time After First Elution ( hrs . )
+Approximate Yield ( % of First Elution ) 1 10 2 19 3 27 4 35 5 41 6 47 Elution • Lift the generator by its handle and place it inside the auxiliary shield .
+Move the handle so that it is not covering the generator top by pushing it off to the side in between the generator and the auxiliary shield .
+• Remove and store the elution hood cover .
+Place the auxiliary shield top onto the top of the generator and align it with the elution hood .
+• Remove and store the tip cap plugs from the needles .
+• Remove the flip - top cap of the eluant vial ; disinfect the stopper with a bacteriocide such as 70 % isopropyl alcohol , allowing the stopper to dry before use .
+Invert the eluant vial and place stopper first into the saline vial alignment insert .
+Place the saline vial alignment insert and vial into the saline port of the auxiliary shield top and firmly push down the eluant vial until the stopper is punctured and seated at the base of the eluant needles .
+• Place the saline shield on top of the auxiliary shield top to cover the eluant vial .
+• Remove the flip - top cap of an evacuated vial ; disinfect the stopper , allowing the stopper to dry before use .
+Place the evacuated vial into the elution tool .
+• Position the shielded evacuated vial by carefully lowering the elution tool into place on the elution needle .
+Piercing the septum of the evacuated vial with the elution needle will begin the elution process .
+• Wait until the evacuated vial has completely filled itself .
+This may take a few minutes .
+Never interrupt the elution by lifting the elution tool !
+• NOTE : Do not use generator eluate if its appearance is discolored , and discontinue use of the generator .
+• Remove the flip - top cap of the Technestat vial ; disinfect the stopper , allowing the stopper to dry before use .
+Secure the Technestat vial into the Technestat vial holder .
+• Carefully remove the elution tool and replace with the shielded Technestat vial .
+• Determine the technetium Tc - 99 m concentration and molybdenum Mo - 99 content for dispensing purposes .
+The generator eluate may be assayed using an appropriate detection system .
+The manufacturer ’ s instructions for operation of the instrument / equipment should be followed for measurement of Technetium Tc - 99 m and Molybdenum Mo - 99 activity .
+NOTE : Molybdenum Mo - 99 Breakthrough Limit - The acceptable limit is 0 . 15 kilobecquerel molybdenum Mo - 99 per megabecquerel technetium Tc - 99 m ( 0 . 15 microcurie Mo - 99 per millicurie Tc - 99 m ) per administered dose in the Injection , at the time of administration ( see USP , Sodium Pertechnetate Tc 99 m Injection ) .
+• Determine the aluminum ion concentration of the eluate .
+NOTE : Aluminum Ion Breakthrough Limit - The acceptable limit is not more than 10 micrograms per milliliter of eluate ( see USP , Sodium Pertechnetate Tc 99 m Injection ) .
+Subsequent Elutions • Remove the saline shield and then remove saline vial alignment insert from the saline port to remove the eluant vial from the eluant needles .
+Remove the vial from the saline vial alignment insert and reuse the saline vial alignment insert for subsequent elutions .
+• Remove the shielded Technestat vial by carefully lifting the Technestat vial shield from the elution needle .
+• Repeat steps 4 through 12 of the Elution procedure above .
+Vacuum Loss If the vacuum in the collecting vial is lost , do not attempt to re - evacuate the vial , but discard and use a new collecting vial .
+Expired Generator Disposal • Following the life of the generator , remove and dispose of the used Technestat vial and the eluant vial .
+• Cover the elution and eluant needles with the stored tip cap plugs .
+• Place the stored elution hood cover onto the top of the generator .
+• The intact generator assembly should be either returned to Curium US LLC or disposed of in accordance with applicable regulations .
+This generator may be received , used and administered only by authorized persons in designated clinical settings .
+Its receipt , storage , use , transfer and disposal are subject to the regulations and / or appropriate licenses of local competent official organizations .
+© 2022 Curium US LLC .
+Ultra - TechnekowTM , TechnestatTM , Curium ™ , and the Curium logo are trademarks of a Curium company .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 USA Made in USA A901IS Revised 5 / 2022 STERILE CURIUM ™ Principal Display Panel - 37 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 55 . 5 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 74 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 92 . 5 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 111 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 129 . 5 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 185 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 222 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 277 . 5 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 407 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 518 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 592 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel - 703 gigabecquerels Ultra - TechnekowTM / MC V4 Technetium Tc 99 m Generator DIN 02441608 For the Production of Sodium Pertechnetate Tc 99 m Injection Parent Molybdenum - 99 prepared from Fission Produced Molybdenum - 99 Store at 20º to 25ºC ( 68º to 77ºF ) [ see USP Controlled Room Temperature ] WARNING : EACH UTK - V4 GENERATOR ELUATE MUST BE TESTED FOR MOLYBDENUM - 99 CONTENT BEFORE USE .
+Eluate must be used within 12 hours of elution .
+Rx only Directions for Use : See Ultra - Technekow V4 package insert Tc - 99 m Half Life = 6 hr CAUTION RADIOACTIVE MATERIAL Patent / Brevet / Patente : www . curiumpharma . com / us - patents Manufactured by / Fabriqué par / Fabricado por : Curium US LLC Maryland Heights , MO 63043 Made in USA / Fabriqué aux États - Unis / Hecho en E . U . A CURIUM TM / MC Distributed in Canada by / Distribué au Canada par : Curium Canada Inc .
+Laval , QC , Canada , H7T - 2R3 A901C0 R03 / 2022 TOTAL ACT .
+/ ACTIVITÉ TOTALE / ACT .
+TOTAL ( Mo99 ) GBq ( Ci ) AS OF / À PARTIR DE LOT EXP [ MULTIMEDIA ] [ MULTIMEDIA ]

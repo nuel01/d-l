@@ -1,0 +1,286 @@
+For Oral Inhalation Only PRESCRIBING INFORMATION DESCRIPTION The active component of XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol is levalbuterol tartrate , the ( R ) - enantiomer of albuterol .
+Levalbuterol tartrate is a relatively selective beta2 - adrenergic receptor agonist ( see CLINICAL PHARMACOLOGY ) .
+Levalbuterol tartrate has the chemical name ( R ) - α1 - [ [ ( 1 , 1 - dimethylethyl ) amino ] methyl ] - 4 - hydroxy - 1 , 3 - benzenedimethanol L - tartrate ( 2 : 1 salt ) , and it has the following chemical structure : [ MULTIMEDIA ] The molecular weight of levalbuterol tartrate is 628 . 71 , and its empirical formula is ( C13H21NO3 ) 2 · C4H6O6 .
+It is a white to light - yellow solid , freely soluble in water and very slightly soluble in ethanol .
+Levalbuterol tartrate is the generic name for ( R ) - albuterol tartrate in the United States .
+XOPENEX HFA Inhalation Aerosol is a pressurized metered - dose aerosol inhaler ( MDI ) , which produces an aerosol for oral inhalation .
+It contains a suspension of micronized levalbuterol tartrate , propellant HFA - 134 a ( 1 , 1 , 1 , 2 - tetrafluoroethane ) , Dehydrated Alcohol USP , and Oleic Acid NF .
+The inhaler should be primed by releasing 4 sprays into the air , away from the face , before using it for the first time and when the inhaler has not been used for more than 3 days .
+After priming with 4 actuations , each actuation delivers 59 mcg of levalbuterol tartrate ( equivalent to 45 mcg of levalbuterol free base ) from the actuator ( or mouthpiece ) .
+Each 15 g canister provides 200 actuations ( or inhalations ) and each 8 . 4 g canister provides 80 actuations ( or inhalations ) .
+This product does not contain chlorofluorocarbons ( CFCs ) .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action : Activation of beta2 - adrenergic receptors on airway smooth muscle leads to the activation of adenylate cyclase and to an increase in the intracellular concentration of cyclic - 3 ' , 5 ' - adenosine monophosphate ( cyclic AMP ) .
+The increase in cyclic AMP is associated with the activation of protein kinase A , which in turn , inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations , resulting in muscle relaxation .
+Levalbuterol relaxes the smooth muscles of all airways , from the trachea to the terminal bronchioles .
+Increased cyclic AMP concentrations are also associated with the inhibition of the release of mediators from mast cells in the airways .
+Levalbuterol acts as a functional antagonist to relax the airway irrespective of the spasmogen involved , thus protecting against all bronchoconstrictor challenges .
+While it is recognized that beta2 - adrenergic receptors are the predominant receptors on bronchial smooth muscle , data indicate that there are beta - receptors in the human heart , 10 % to 50 % of which are beta2 - adrenergic receptors .
+The precise function of these receptors has not been established ( see WARNINGS ) .
+However , all beta - adrenergic agonist drugs can produce a significant cardiovascular effect in some patients , as measured by pulse rate , blood pressure , symptoms , and / or electrocardiographic changes .
+Preclinical Results from in vitro studies of binding to human beta - adrenergic receptors demonstrated that levalbuterol has approximately 2 - fold greater binding affinity than racemic albuterol and approximately 100 - fold greater binding affinity than ( S ) - albuterol .
+In guinea pig airways , levalbuterol HCl and racemic albuterol decreased the response to spasmogens ( e . g . , acetylcholine and histamine ) , whereas ( S ) - albuterol was ineffective .
+These results suggest that the bronchodilatory effects of racemic albuterol are attributable to the ( R ) - enantiomer .
+Intravenous studies in rats with racemic albuterol sulfate have demonstrated that albuterol crosses the blood - brain barrier and reaches brain concentrations amounting to approximately 5 . 0 % of the plasma concentrations .
+In structures outside the blood - brain barrier ( pineal and pituitary glands ) , racemic albuterol concentrations were found to be 100 times those in the whole brain .
+Studies in laboratory animals ( minipigs , rodents , and dogs ) have demonstrated the occurrence of cardiac arrhythmias and sudden death ( with histologic evidence of myocardial necrosis ) when beta - agonists and methylxanthines are administered concurrently .
+The clinical significance of these findings is unknown .
+Propellant HFA - 134 a is devoid of pharmacological activity except at very high doses in animals ( 380 to 1300 times the maximum human exposure based on comparisons of AUC values ) , primarily producing ataxia , tremors , dyspnea , or salivation .
+These are similar to effects produced by the structurally related chlorofluorocarbons ( CFCs ) , which have been used extensively in metered - dose inhalers .
+In animals and humans , propellant HFA - 134 a was found to be rapidly absorbed and rapidly eliminated , with an elimination half - life of 3 to 27 minutes in animals and 5 to 7 minutes in humans .
+Time to maximum plasma concentration ( tmax ) and mean residence time are both extremely short , leading to a transient appearance of HFA - 134 a in the blood with no evidence of accumulation .
+Pharmacokinetics A population pharmacokinetic ( PPK ) model was developed using plasma concentrations of ( R ) - albuterol obtained from 632 asthmatic patients aged 4 to 81 years in three large trials .
+The PPK model - derived pharmacokinetic parameters for ( R ) - albuterol in pediatric and adolescent / adult patients receiving a 90 mcg dose of XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol or a 180 mcg dose of racemic albuterol by HFA metered - dose inhaler are presented in Table 1 .
+These pharmacokinetic data indicate that mean exposure to ( R ) - albuterol was 13 % to 16 % less in adult and 30 % to 32 % less in pediatric patients given XOPENEX HFA Inhalation Aerosol as compared to those given a comparable dose of racemic albuterol .
+When compared to adult patients , pediatric patients given 90 mcg of levalbuterol have a 17 % lower mean exposure to ( R ) - albuterol .
+Table 1 : Mean Model - Predicted ( R ) - Albuterol Pharmacokinetic Parameters Study Population Parameter Treatment XOPENEX HFA Inhalation Aerosol Racemic Albuterol HFA MDI Adolescent / Adult Patients ( ≥ 12 years ) Cmax ( ng / mL ) 0 . 199 0 . 238 tmax ( hr ) 0 . 54 0 . 53 AUC ( 0 - 6 ) ( ng · hr / mL ) 0 . 695 0 . 798 Pediatric Patients ( 4 - 11 years ) Cmax ( ng / mL ) 0 . 163 0 . 238 tmax ( hr ) 0 . 76 0 . 78 AUC ( 0 - 6 ) ( ng · hr / mL ) 0 . 579 0 . 828 Metabolism and Elimination Information available in the published literature suggests that the primary enzyme responsible for the metabolism of albuterol enantiomers in humans is SULT1A3 ( sulfotransferase ) .
+When racemic albuterol was administered either intravenously or via inhalation after oral charcoal administration , there was a 3 - to 4 - fold difference in the area under the concentration - time curves between the ( R ) - and ( S ) - albuterol enantiomers , with ( S ) - albuterol concentrations being consistently higher .
+However , without charcoal pretreatment , after either oral or inhalation administration the differences were 8 - to 24 - fold , suggesting that that ( R ) - albuterol is preferentially metabolized in the gastrointestinal tract , presumably by SULT1A3 .
+The primary route of elimination of albuterol enantiomers is through renal excretion ( 80 % to 100 % ) of either the parent compound or the primary metabolite .
+Less than 20 % of the drug is detected in the feces .
+Following intravenous administration of racemic albuterol , between 25 % and 46 % of the ( R ) - albuterol fraction of the dose was excreted as unchanged ( R ) - albuterol in the urine .
+Special Populations Hepatic Impairment : The effect of hepatic impairment on the pharmacokinetics of XOPENEX HFA Inhalation Aerosol has not been evaluated .
+Renal Impairment : The effect of renal impairment on the pharmacokinetics of racemic albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL / min , and the results were compared with those from healthy volunteers .
+Renal disease had no effect on the half - life , but there was a 67 % decline in racemic albuterol clearance .
+Caution should be used when administering high doses of XOPENEX HFA Inhalation Aerosol to patients with renal impairment .
+Clinical Trials Adults and Adolescents : The efficacy and safety of XOPENEX HFA Inhalation Aerosol were established in two 8 - week , multicenter , randomized , double - blind , active - and placebo - controlled trials in 748 adults and adolescents with asthma between the ages of 12 and 81 years .
+In these two trials , XOPENEX HFA Inhalation Aerosol ( 403 patients ) was compared to an HFA - 134 a placebo MDI ( 166 patients ) , and the trials included a marketed albuterol HFA - 134 a MDI ( 179 patients ) as an active control .
+Serial forced expiratory volume in 1 second ( FEV1 ) measurements demonstrated that 90 mcg ( 2 inhalations ) of XOPENEX HFA Inhalation Aerosol produced significantly greater improvement in FEV1 over the pretreatment value than placebo .
+The results from one of the trials are shown in Figure 1 as the mean percent change in FEV1 from test - day baseline at Day 1 ( n = 445 ) and Day 56 ( n = 387 ) .
+The results from the second trial were similar .
+Figure 1 : Percent Change in FEV1 from Test - Day Baseline in Adults and Adolescents Aged 12 to 81 Years at Day 1 and Day 56 [ MULTIMEDIA ] For XOPENEX HFA Inhalation Aerosol on Day 1 , the median time to onset of a 15 % increase in FEV1 ranged from 5 . 5 to 10 . 2 minutes and the median time to peak effect ranged from 76 to 78 minutes .
+In the responder population , on Day 1 the median duration of effect as measured by a 15 % increase in FEV1 was 3 to 4 hours , with duration of effect in some patients of up to 6 hours .
+[ MULTIMEDIA ] Pediatrics : The efficacy and safety of XOPENEX HFA Inhalation Aerosol in children were established in a 4 - week , multicenter , randomized , double - blind , active - and placebo - controlled trial in 150 pediatric patients with asthma between the ages of 4 and 11 years .
+In this trial , XOPENEX HFA Inhalation Aerosol ( 76 patients ) was compared to a placebo HFA - 134 a MDI ( 35 patients ) , and the trial included a marketed albuterol HFA - 134 a MDI ( 39 patients ) as an active control .
+Serial FEV1 measurements demonstrated that 90 mcg ( 2 inhalations ) of XOPENEX HFA Inhalation Aerosol produced significantly greater improvement in FEV1 over the pretreatment value than placebo and were consistent with the efficacy findings in the adult studies .
+For XOPENEX HFA Inhalation Aerosol , on Day 1 the median time to onset of a 15 % increase in FEV1 was 4 . 5 minutes and the median time to peak effect was 77 minutes .
+In the responder population , the median duration of effect as measured by a 15 % increase in FEV1 was 3 hours , with a duration of effect in some pediatric patients of up to 6 hours .
+INDICATIONS AND USAGE XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol is indicated for the treatment or prevention of bronchospasm in adults , adolescents , and children 4 years of age and older with reversible obstructive airway disease .
+CONTRAINDICATIONS XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol is contraindicated in patients with a history of hypersensitivity to levalbuterol , racemic albuterol , or any other component of XOPENEX HFA Inhalation Aerosol .
+WARNINGS • Paradoxical Bronchospasm : Like other inhaled beta - adrenergic agonists , XOPENEX HFA Inhalation Aerosol can produce paradoxical bronchospasm , which may be life - threatening .
+If paradoxical bronchospasm occurs , XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol should be discontinued immediately and alternative therapy instituted .
+It should be recognized that paradoxical bronchospasm , when associated with inhaled formulations , frequently occurs with the first use of a new canister .
+• Deterioration of Asthma : Asthma may deteriorate acutely over a period of hours or chronically over several days or longer .
+If the patient needs more doses of XOPENEX HFA Inhalation Aerosol than usual , this may be a marker of destabilization of asthma and requires reevaluation of the patient and treatment regimen , giving special consideration to the possible need for anti - inflammatory treatment , e . g . , corticosteroids .
+• Use of Anti - Inflammatory Agents : The use of a beta - adrenergic agonist alone may not be adequate to control asthma in many patients .
+Early consideration should be given to adding anti - inflammatory agents , e . g . , corticosteroids , to the therapeutic regimen .
+• Cardiovascular Effects : XOPENEX HFA Inhalation Aerosol , like other beta - adrenergic agonists , can produce clinically significant cardiovascular effects in some patients , as measured by heart rate , blood pressure , and / or symptoms .
+Although such effects are uncommon after administration of XOPENEX HFA Inhalation Aerosol at recommended doses , if they occur , the drug may need to be discontinued .
+In addition , beta - agonists have been reported to produce electrocardiogram ( ECG ) changes , such as flattening of the T wave , prolongation of the QTc interval , and ST segment depression .
+The clinical significance of these findings is unknown .
+Therefore , XOPENEX HFA Inhalation Aerosol , like all sympathomimetic amines , should be used with caution in patients with cardiovascular disorders , especially coronary insufficiency , cardiac arrhythmias , and hypertension .
+• Do Not Exceed Recommended Dose : Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma .
+The exact cause of death is unknown , but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected .
+• Immediate Hypersensitivity Reactions : Immediate hypersensitivity reactions may occur after administration of racemic albuterol , as demonstrated by rare cases of urticaria , angioedema , rash , bronchospasm , anaphylaxis , and oropharyngeal edema .
+The potential for hypersensitivity must be considered in the clinical evaluation of patients who experience immediate hypersensitivity reactions while receiving XOPENEX HFA Inhalation Aerosol .
+PRECAUTIONS General XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol , like all sympathomimetic amines , should be used with caution in patients with cardiovascular disorders , especially coronary insufficiency , hypertension , and cardiac arrhythmias ; in patients with convulsive disorders , hyperthyroidism , or diabetes mellitus ; and in patients who are unusually responsive to sympathomimetic amines .
+Clinically significant changes in systolic and diastolic blood pressure have been seen in individual patients and could be expected to occur in some patients after the use of any beta - adrenergic bronchodilator .
+Large doses of intravenous racemic albuterol have been reported to aggravate preexisting diabetes mellitus and ketoacidosis .
+As with other beta - adrenergic agonist medications , XOPENEX HFA Inhalation Aerosol may produce significant hypokalemia in some patients , possibly through intracellular shunting , which has the potential to produce adverse cardiovascular effects .
+The decrease is usually transient , not requiring supplementation .
+Information for Patients See illustrated Patient ' s Instructions for Use .
+SHAKE WELL BEFORE USING .
+Patients should be given the following information : It is recommended to prime the inhaler before using for the first time and in cases where the inhaler has not been used for more than 3 days by releasing 4 test sprays into the air , away from the face .
+KEEPING THE PLASTIC ACTUATOR CLEAN IS VERY IMPORTANT TO PREVENT MEDICATION BUILD - UP AND BLOCKAGE .
+THE ACTUATOR SHOULD BE WASHED , SHAKEN TO REMOVE EXCESS WATER , AND AIR - DRIED THOROUGHLY AT LEAST ONCE A WEEK .
+THE INHALER MAY CEASE TO DELIVER MEDICATION IF NOT PROPERLY CLEANED .
+The actuator should be cleaned ( with the canister removed ) by running warm water through the top and bottom for 30 seconds at least once a week .
+Do not attempt to clean the metal canister or allow the metal canister to become wet .
+Never immerse the metal canister in water .
+The actuator must be shaken to remove excess water , then air - dried thoroughly ( such as overnight ) .
+Blockage from medication build - up or improper medication delivery may result from failure to clean and thoroughly air - dry the actuator .
+If the actuator becomes blocked ( little or no medication coming out of the mouthpiece ) , the blockage may be removed by washing the actuator as described above .
+If it is necessary to use the inhaler before it is completely dry , shake excess water off the plastic actuator , replace canister , shake well , test - spray twice away from face , and take the prescribed dose .
+After such use , the actuator should be rewashed and allowed to air - dry thoroughly .
+The action of XOPENEX HFA Inhalation Aerosol should last for 4 to 6 hours .
+XOPENEX HFA Inhalation Aerosol should not be used more frequently than recommended .
+Do not increase the dose or frequency of doses of XOPENEX HFA Inhalation Aerosol without consulting your physician .
+If you find that treatment with XOPENEX HFA Inhalation Aerosol becomes less effective for symptomatic relief , your symptoms become worse , and / or you need to use the product more frequently than usual , you should seek medical attention immediately .
+While you are using XOPENEX HFA Inhalation Aerosol , other inhaled drugs and asthma medication should be taken only as directed by your physician .
+Common adverse effects of treatment with inhaled beta - agonists include palpitations , chest pain , rapid heart rate , tremor , and nervousness .
+If you are pregnant or nursing , contact your physician about use of XOPENEX HFA Inhalation Aerosol .
+Effective and safe use of XOPENEX HFA Inhalation Aerosol includes an understanding of the way that it should be administered .
+Use XOPENEX HFA Inhalation Aerosol only with the actuator supplied with the product .
+Discard the canister after 200 sprays have been used from the 15 g canister or after 80 sprays have been used from the 8 . 4 g canister .
+Never immerse the canister in water to determine how full the canister is ( “ float test ” ) .
+In general , the technique for administering XOPENEX HFA Inhalation Aerosol to children is similar to that for adults .
+Children should use XOPENEX HFA Inhalation Aerosol under adult supervision , as instructed by the patient ' s physician .
+( See Patient ' s Instructions for Use . )
+Drug Interactions Other short - acting sympathomimetic aerosol bronchodilators or epinephrine should be used with caution with XOPENEX HFA Inhalation Aerosol .
+If additional adrenergic drugs are to be administered by any route , they should be used with caution to avoid deleterious cardiovascular effects .
+• Beta - blockers : Beta - adrenergic receptor blocking agents not only block the pulmonary effect of beta - adrenergic agonists , such as XOPENEX HFA Inhalation Aerosol , but may produce severe bronchospasm in asthmatic patients .
+Therefore , patients with asthma should not normally be treated with beta - blockers .
+However , under certain circumstances , e . g . , as prophylaxis after myocardial infarction , there may be no acceptable alternatives to the use of beta - adrenergic blocking agents in patients with asthma .
+In this setting , cardioselective beta - blockers should be considered , although they should be administered with caution .
+• Diuretics : The ECG changes and / or hypokalemia that may result from the administration of non – potassium - sparing diuretics ( such as loop and thiazide diuretics ) can be acutely worsened by beta - agonists , especially when the recommended dose of the beta - agonist is exceeded .
+Although the clinical significance of these effects is not known , caution is advised in the coadministration of beta - agonists with non – potassium - sparing diuretics .
+• Digoxin : Mean decreases of 16 % to 22 % in serum digoxin levels were demonstrated after single - dose intravenous and oral administration of racemic albuterol , respectively , to normal volunteers who had received digoxin for 10 days .
+The clinical significance of these findings for patients with obstructive airway disease who are receiving XOPENEX HFA Inhalation Aerosol and digoxin on a chronic basis is unclear .
+Nevertheless , it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and XOPENEX HFA Inhalation Aerosol .
+• Monoamine Oxidase Inhibitors or Tricyclic Antidepressants : XOPENEX HFA Inhalation Aerosol should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants , or within 2 weeks of discontinuation of such agents , because the action of albuterol on the vascular system may be potentiated .
+Carcinogenesis , Mutagenesis , and Impairment of Fertility No carcinogenesis or impairment of fertility studies have been carried out with levalbuterol tartrate .
+However , racemic albuterol sulfate has been evaluated for its carcinogenic potential and ability to impair fertility .
+In a 2 - year study in Sprague - Dawley rats , racemic albuterol sulfate caused a significant dose - related increase in the incidence of benign leiomyomas of the mesovarium at , and above , dietary doses of 2 mg / kg / day ( approximately 30 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 15 times the maximum recommended daily inhalation dose of levalbuterol tartrate for children on a mg / m2 basis ) .
+In another study , this effect was blocked by the coadministration of propranolol , a nonselective beta - adrenergic antagonist .
+In an 18 - month study in CD - 1 mice , racemic albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 500 mg / kg / day ( approximately 3800 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 1800 times the maximum recommended daily inhalation dose of levalbuterol tartrate for children on a mg / m2 basis ) .
+In a 22 - month study in the Golden hamster , racemic albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 50 mg / kg / day ( approximately 500 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 240 times the maximum recommended daily inhalation dose of levalbuterol tartrate for children on a mg / m2 basis ) .
+Levalbuterol HCl was not mutagenic in the Ames test or the CHO / HPRT Mammalian Forward Gene Mutation Assay .
+Levalbuterol HCl was not clastogenic in the in vivo micronucleus test in mouse bone marrow .
+Racemic albuterol sulfate was negative in an in vitro chromosomal aberration assay in CHO cell cultures .
+Reproduction studies in rats using racemic albuterol sulfate demonstrated no evidence of impaired fertility at oral doses up to 50 mg / kg / day ( approximately 750 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) .
+Teratogenic Effects - Pregnancy Category C A reproduction study in New Zealand White rabbits demonstrated that levalbuterol HCl was not teratogenic when administered orally at doses up to 25 mg / kg / day ( approximately 750 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) .
+However , racemic albuterol sulfate has been shown to be teratogenic in mice and rabbits .
+A study in CD - 1 mice given racemic albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 ( 4 . 5 % ) fetuses at 0 . 25 mg / kg / day ( approximately 2 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) and in 10 of 108 ( 9 . 3 % ) fetuses at 2 . 5 mg / kg / day ( approximately 20 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) .
+The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0 . 025 mg / kg / day ( less than the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) .
+Cleft palate also occurred in 22 of 72 ( 30 . 5 % ) fetuses from females treated subcutaneously with 2 . 5 mg / kg / day of isoproterenol ( positive control ) .
+A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 ( 37 % ) fetuses when racemic albuterol sulfate was administered orally at a dose of 50 mg / kg / day ( approximately 1500 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis ) .
+A study in which pregnant rats were dosed with radiolabeled racemic albuterol sulfate demonstrated that drug - related material is transferred from the maternal circulation to the fetus .
+There are no adequate and well - controlled studies of XOPENEX HFA Inhalation Aerosol in pregnant women .
+Because animal reproduction studies are not always predictive of human response , XOPENEX HFA Inhalation Aerosol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+During marketing experience of racemic albuterol , various congenital anomalies , including cleft palate and limb defects , have been rarely reported in the offspring of patients being treated with racemic albuterol .
+Some of the mothers were taking multiple medications during their pregnancies .
+No consistent pattern of defects can be discerned , and a relationship between racemic albuterol use and congenital anomalies has not been established .
+Use in Labor and Delivery Because of the potential for beta - adrenergic agonists to interfere with uterine contractility , the use of XOPENEX HFA Inhalation Aerosol for the treatment of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk .
+Tocolysis XOPENEX HFA Inhalation Aerosol has not been approved for the management of preterm labor .
+The benefit : risk ratio when levalbuterol tartrate is administered for tocolysis has not been established .
+Serious adverse reactions , including maternal pulmonary edema , have been reported during or following treatment of premature labor with beta2 - agonists , including racemic albuterol .
+Nursing Mothers Plasma concentrations of levalbuterol after inhalation of therapeutic doses are very low in humans .
+It is not known whether levalbuterol is excreted in human milk .
+Because of the potential for tumorigenicity shown for racemic albuterol in animal studies and the lack of experience with the use of XOPENEX HFA Inhalation Aerosol by nursing mothers , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+Caution should be exercised when XOPENEX HFA Inhalation Aerosol is administered to a nursing woman .
+Pediatrics The safety and efficacy of XOPENEX HFA Inhalation Aerosol have been established in pediatric patients 4 years of age and older in an adequate and well - controlled clinical trial ( see Clinical Trials ) .
+Use of XOPENEX HFA Inhalation Aerosol in children is also supported by evidence from adequate and well - controlled studies of XOPENEX HFA Inhalation Aerosol in adults , considering that the pathophysiology , systemic exposure of the drug , and clinical profile in pediatric and adult patients are substantially similar .
+Safety and effectiveness of XOPENEX HFA Inhalation Aerosol in pediatric patients below the age of 4 years have not been established .
+Geriatrics Clinical studies of XOPENEX HFA Inhalation Aerosol did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant diseases or other drug therapy .
+Albuterol is known to be substantially excreted by the kidney , and the risk of toxic reactions may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function .
+ADVERSE REACTIONS Adverse event information concerning XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol in adults and adolescents is derived from two 8 - week , multicenter , randomized , double - blind , active - and placebo - controlled trials in 748 adult and adolescent patients with asthma that compared XOPENEX HFA Inhalation Aerosol , a marketed albuterol HFA inhaler , and an HFA - 134 a placebo inhaler .
+Table 2 lists the incidence of all adverse events ( whether considered by the investigator to be related or unrelated to drug ) from these trials that occurred at a rate of 2 % or greater in the group treated with XOPENEX HFA Inhalation Aerosol and more frequently than in the HFA - 134 a placebo inhaler group .
+Table 2 : Adverse Event Incidence ( % of Patients ) in Two 8 - Week Clinical Trials in Adults and Adolescents ≥ 12 Years of Age ** This table includes all adverse events ( whether considered by the investigator to be related or unrelated to drug ) from these trials that occurred at a rate of 2 % or greater in the group treated with XOPENEX HFA Inhalation Aerosol and more frequently than in the HFA - 134 a placebo inhaler group .
+Body System Preferred Term XOPENEX HFA Inhalation Aerosol 90 mcg ( n = 403 ) Racemic Albuterol HFA 180 mcg ( n = 179 ) Placebo ( n = 166 ) Body as a Whole Pain 4 . 0 3 . 4 3 . 6 Central Nervous System Dizziness 2 . 7 0 . 6 1 . 8 Respiratory System Asthma 9 . 4 7 . 3 6 . 0 Pharyngitis 7 . 9 2 . 2 2 . 4 Rhinitis 7 . 4 2 . 2 3 . 0 Adverse events reported by less than 2 % and at least 2 or more of the adolescent and adult patients receiving XOPENEX HFA Inhalation Aerosol and by a greater proportion than receiving HFA - 134 a placebo inhaler include cyst , flu syndrome , viral infection , constipation , gastroenteritis , myalgia , hypertension , epistaxis , lung disorder , acne , herpes simplex , conjunctivitis , ear pain , dysmenorrhea , hematuria , and vaginal moniliasis .
+There were no significant laboratory abnormalities observed in these studies .
+Adverse event information concerning XOPENEX HFA Inhalation Aerosol in children is derived from a 4 - week , randomized , double - blind trial of XOPENEX HFA Inhalation Aerosol , a marketed albuterol HFA inhaler , and an HFA - 134 a placebo inhaler in 150 children aged 4 to 11 years with asthma .
+Table 3 lists the adverse events reported for XOPENEX HFA Inhalation Aerosol in children at a rate of 2 % or greater and more frequently than for placebo .
+Table 3 : Adverse Event Incidence ( % of Patients ) in a 4 - Week Trial in Children Aged 4 - 11 Years ** This table includes all adverse events ( whether considered by the investigator to be related or unrelated to drug ) from the trial that occurred at a rate of 2 % or greater in the group treated with XOPENEX HFA Inhalation Aerosol and more frequently than in the HFA - 134 a placebo inhaler group .
+Body System Preferred Term XOPENEX HFA Inhalation Aerosol 90 mcg ( n = 76 ) Racemic Albuterol HFA 180 mcg ( n = 39 ) Placebo ( n = 35 ) Body as a Whole Accidental injury 9 . 2 10 . 3 5 . 7 Digestive System Vomiting 10 . 5 7 . 7 5 . 7 Respiratory System Bronchitis 2 . 6 0 0 Pharyngitis 6 . 6 12 . 8 5 . 7 The incidence of systemic beta - adrenergic adverse effects ( e . g . , tremor , nervousness ) was low and comparable across all treatment groups , including placebo .
+Postmarketing In addition to the adverse events reported in clinical trials , the following adverse events have been observed in postapproval use of levalbuterol inhalation solution .
+These events have been chosen for inclusion due to their seriousness , their frequency of reporting , or their likely beta - mediated mechanism : angioedema , anaphylaxis , arrhythmias ( including atrial fibrillation , supraventricular tachycardia , extrasystoles ) , asthma , chest pain , cough increased , dyspnea , nausea , nervousness , rash , tachycardia , tremor , urticaria .
+Because these events have been reported spontaneously from a population of unknown size , estimates of frequency cannot be made .
+In addition , XOPENEX HFA Inhalation Aerosol , like other sympathomimetic agents , can cause adverse reactions such as hypertension , angina , vertigo , central nervous system stimulation , sleeplessness , headache , and drying or irritation of the oropharynx .
+OVERDOSAGE The expected symptoms with overdosage are those of excessive beta - adrenergic receptor stimulation and / or occurrence or exaggeration of any of the symptoms listed under ADVERSE REACTIONS , e . g . , seizures , angina , hypertension or hypotension , tachycardia with rates up to 200 beats / minute , arrhythmias , nervousness , headache , tremor , dry mouth , palpitation , nausea , dizziness , fatigue , malaise , and sleeplessness .
+Hypokalemia also may occur .
+As with all sympathomimetic medications , cardiac arrest and even death may be associated with the abuse of XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol .
+Treatment consists of discontinuation of XOPENEX HFA Inhalation Aerosol together with appropriate symptomatic therapy .
+The judicious use of a cardioselective beta - receptor blocker may be considered , bearing in mind that such medication can produce bronchospasm .
+There is insufficient evidence to determine if dialysis is beneficial for overdosage of XOPENEX HFA Inhalation Aerosol .
+Following intravenous administration in mice , the median lethal levalbuterol HCl dose was approximately 66 mg / kg ( approximately 500 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 230 times the maximum recommended daily inhalation dose of levalbuterol tartrate for pediatric patients on a mg / m2 basis ) .
+Following intravenous administration in rats , the median lethal levalbuterol HCl dose was approximately 60 mg / kg ( approximately 900 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 430 times the maximum recommended daily inhalation dose of levalbuterol tartrate for children on a mg / m2 basis ) .
+The inhalation median lethal dose has not been determined in animals .
+In dogs , inhaled doses of levalbuterol HCl up to 2 . 73 mg / kg ( approximately 140 times the maximum recommended daily inhalation dose of levalbuterol tartrate for adults on a mg / m2 basis and approximately 65 times the maximum recommended daily inhalation dose of levalbuterol tartrate for children on a mg / m2 basis ) were tolerated without animal deaths .
+DOSAGE AND ADMINISTRATION Adult and Pediatric Asthma : For treatment of acute episodes of bronchospasm or prevention of asthmatic symptoms , the usual dosage of XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol for adults and children 4 years of age and older is 2 inhalations ( 90 mcg ) repeated every 4 to 6 hours ; in some patients , 1 inhalation every 4 hours may be sufficient .
+More frequent administration or a larger number of inhalations is not routinely recommended .
+It is recommended to prime the inhaler before using for the first time and in cases where the inhaler has not been used for more than 3 days by releasing 4 test sprays into the air , away from the face .
+If a previously effective dosage regimen fails to provide the usual response , this may be a marker of destabilization of asthma and requires reevaluation of the patient and the treatment regimen , giving special consideration to the possible need for anti - inflammatory treatment , e . g . , corticosteroids .
+Cleaning : To maintain proper use of this product , it is critical that the actuator be washed and dried thoroughly at least once a week .
+The inhaler may cease to deliver medication if not properly cleaned and dried thoroughly .
+See Information for Patients .
+Keeping the plastic actuator clean is very important to prevent medication build - up and blockage .
+If the actuator becomes blocked with drug , washing the actuator will remove the blockage .
+HOW SUPPLIED XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol is supplied as a pressurized aluminum canister in a box ( NDC 54868 - 5689 - 0 ) .
+The canister is labeled with a net weight of 15 g and contains 200 metered actuations ( or inhalations ) , respectively .
+Each canister is supplied with a blue plastic actuator ( or mouthpiece ) , a red mouthpiece cap , and patient ' s instructions .
+SHAKE WELL BEFORE USING .
+Store between 20 ° and 25 ° C ( 68 ° and 77 ° F ; see USP controlled room temperature ) .
+Protect from freezing temperatures and direct sunlight .
+Store inhaler with the actuator ( or mouthpiece ) down .
+Avoid spraying in eyes .
+Contents under pressure .
+Do not puncture or incinerate .
+Exposure to temperatures above 120 ° F may cause bursting .
+Keep out of reach of children .
+The blue actuator supplied with XOPENEX HFA Inhalation Aerosol should not be used with any other product canisters .
+Actuators from other products should not be used with a XOPENEX HFA Inhalation Aerosol canister .
+The correct amount of medication in each actuation cannot be assured after 200 actuations from the 15 g canister or 80 actuations from the 8 . 4 g canister , even though the canister is not completely empty .
+The canister should be discarded when 200 actuations have been used from the 15 g canister or 80 actuations have been used from the 8 . 4 g canister .
+XOPENEX HFA Inhalation Aerosol does not contain chlorofluorocarbons ( CFCs ) as the propellant .
+Rx only .
+Manufactured for : Sepracor Inc .
+Marlborough , MA 01752 USA by 3 M Drug Delivery Systems Northridge , CA 91324 - 3213 For customer service , call 1 - 888 - 394 - 7377 .
+To report adverse events , call 1 - 877 - 737 - 7226 .
+For medical information , call 1 - 800 - 739 - 0565 .
+June 2009 900874R05 Additional barcode labeling by : Physicians Total Care , Inc .
+Tulsa , Oklahoma 74146 PHARMACIST — DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT .
+----------------------------------------------------------------------------------------------------------- Patient ' s Instructions For Use XOPENEX HFA ® ( levalbuterol tartrate ) Inhalation Aerosol Before using your XOPENEX HFA ( levalbuterol tartrate ) Inhalation Aerosol , read the complete instructions carefully .
+ABOUT XOPENEX HFA INHALATION AEROSOL Use only as directed by a doctor .
+Children should use XOPENEX HFA Inhalation Aerosol under adult supervision , as instructed by the patient ' s doctor .
+XOPENEX HFA Inhalation Aerosol is a pressurized metered - dose inhaler that produces an aerosol for oral inhalation .
+XOPENEX HFA Inhalation Aerosol does not contain chlorofluorocarbons ( CFCs ) .
+The blue actuator ( or mouthpiece ) supplied with XOPENEX HFA Inhalation Aerosol should not be used with any other product canisters .
+Actuators from other products should not be used with a XOPENEX HFA Inhalation Aerosol canister .
+HOW TO USE YOUR XOPENEX HFA INHALATION AEROSOL • SHAKE THE INHALER WELL immediately before each use .
+• REMOVE THE CAP FROM THE ACTUATOR ( OR MOUTHPIECE ) ( see Figure 1 ) .
+Inspect the actuator for the presence of foreign objects and make sure that the canister is seated in the actuator before each use .
+[ MULTIMEDIA ] PRIMING : Priming at specified times is important for the proper delivery of your medication .
+SHAKE THE INHALER WELL ; then prime XOPENEX HFA Inhalation Aerosol by releasing 4 test sprays into the air , away from your face , before using for the first time and when the inhaler has not been used for more than 3 days .
+• BREATHE OUT FULLY THROUGH YOUR MOUTH , expelling as much air from your lungs as possible .
+Place the mouthpiece fully into your mouth , holding the inhaler in the mouthpiece - down position ( see Figure 2 ) and closing your lips around it .
+[ MULTIMEDIA ] • WHILE BREATHING IN DEEPLY AND SLOWLY THROUGH YOUR MOUTH , FULLY DEPRESS THE TOP OF THE METAL CANISTER with your middle finger as shown in Figure 2 .
+Immediately after the puff is delivered , release your finger from the canister and remove the inhaler from your mouth .
+• HOLD YOUR BREATH FOR 10 SECONDS , IF POSSIBLE .
+• If your doctor has prescribed more than a single inhalation / puff , wait 1 minute between inhalations .
+Then , SHAKE THE INHALER WELL and repeat steps 3 through 5 .
+• REPLACE THE CAP ON THE MOUTHPIECE AFTER EACH USE .
+• CLEAN THE ACTUATOR OR MOUTHPIECE AT LEAST ONCE A WEEK .
+See CLEANING YOUR XOPENEX HFA INHALATION AEROSOL for cleaning instructions .
+• DISCARD THE CANISTER AFTER YOU HAVE USED EITHER 200 INHALATIONS FROM THE 15 g CANISTER OR 80 INHALATIONS FROM THE 8 . 4 g CANISTER .
+The correct amount of medicine in each inhalation cannot be assured after 200 sprays from the 15 g canister or 80 sprays from the 8 . 4 g canister , even though the canister is not completely empty .
+Never immerse the canister in water to determine how full the canister is ( “ float test ” ) .
+Before you reach either 200 sprays or 80 sprays , you should consult your doctor to determine whether a refill is needed .
+Just as you should not take extra doses without consulting your doctor , you also should not stop using XOPENEX HFA Inhalation Aerosol without consulting your doctor .
+CLEANING YOUR XOPENEX HFA INHALATION AEROSOL KEEPING THE BLUE PLASTIC ACTUATOR ( OR MOUTHPIECE ) CLEAN IS VERY IMPORTANT TO PREVENT MEDICINE BLOCKAGE .
+THE ACTUATOR SHOULD BE WASHED , SHAKEN TO REMOVE EXCESS WATER , AND AIR - DRIED THOROUGHLY AT LEAST ONCE A WEEK .
+THE INHALER MAY STOP WORKING IF NOT PROPERLY CLEANED .
+ROUTINE CLEANING INSTRUCTIONS : • Step 1 .
+To clean the blue plastic actuator ( or mouthpiece ) , remove the canister and red mouthpiece cap .
+• Step 2 .
+Wash the actuator through the top and bottom with warm running water for 30 seconds at least once a week ( see Figure 3 ) .
+Do not clean the metal canister or allow the metal canister to become wet .
+Never immerse the metal canister in water .
+[ MULTIMEDIA ] • Step 3 .
+To dry , shake off excess water and let the actuator air - dry thoroughly , such as overnight ( see Figure 4 ) .
+• Step 4 .
+When the actuator is dry , replace the canister and the mouthpiece cap ; make sure the canister is fully and firmly inserted into the actuator .
+Blockage from medicine build - up is more likely to occur if the actuator is not allowed to air - dry thoroughly .
+[ MULTIMEDIA ] IF YOUR ACTUATOR BECOMES BLOCKED ( little or no medicine coming out of the mouthpiece , see Figure 5 ) , wash your actuator as described in Steps 1 and 2 and air - dry thoroughly as described in Step 3 .
+[ MULTIMEDIA ] IF YOU NEED TO USE YOUR INHALER BEFORE THE PLASTIC ACTUATOR IS COMPLETELY DRY , SHAKE EXCESS WATER off the actuator , replace the canister , shake well , and test - spray twice into the air , away from your face , to remove most of the water remaining in the actuator .
+Then take your dose as prescribed .
+After such use , rewash the actuator and air - dry it thoroughly as described in Steps 1 through 3 .
+ADDITIONAL INFORMATION ABOUT XOPENEX HFA INHALATION AEROSOL DOSAGE : Use only as directed by your doctor .
+WARNINGS : The action of XOPENEX HFA Inhalation Aerosol should last for 4 to 6 hours .
+XOPENEX HFA Inhalation Aerosol should not be used more frequently than recommended .
+Do not increase the dose or frequency of doses of XOPENEX HFA Inhalation Aerosol without consulting your physician .
+If you find that treatment with XOPENEX HFA Inhalation Aerosol becomes less effective for symptomatic relief , your symptoms become worse , and / or you need to use the product more frequently than usual , you should seek medical attention immediately .
+While you are using XOPENEX HFA Inhalation Aerosol , other inhaled drugs and asthma medication should be taken only as directed by your physician .
+Common adverse effects include palpitations , chest pain , rapid heart rate , tremor , and nervousness .
+If you are pregnant or nursing , contact your physician about the use of XOPENEX HFA Inhalation Aerosol .
+Effective and safe use of XOPENEX HFA Inhalation Aerosol includes an understanding of the way that it should be administered .
+In general , the technique for administering XOPENEX HFA Inhalation Aerosol to children is similar to that for adults .
+Children should use XOPENEX HFA Inhalation Aerosol under adult supervision , as instructed by the patient ' s physician .
+Storage : Store canister between 20 ° and 25 ° C ( 68 ° and 77 ° F ) .
+Protect from freezing temperatures and direct sunlight .
+Store inhaler with the actuator ( or mouthpiece ) down .
+Contents under pressure .
+Do not puncture or incinerate .
+Exposure to temperatures above 120 ° F may cause bursting .
+Avoid spraying in eyes .
+Keep out of reach of children .
+CFC - Free : XOPENEX HFA Inhalation Aerosol does not contain chlorofluorocarbons ( CFCs ) .
+Instead , the inhaler contains a hydrofluoroalkane ( HFA - 134 a ) as the propellant .
+Manufactured for : Sepracor Inc .
+Marlborough , MA 01752 USA by 3 M Drug Delivery Systems Northridge , CA 91324 - 3213 For customer service , call 1 - 888 - 394 - 7377 .
+To report adverse events , call 1 - 877 - 737 - 7226 .
+For medical information , call 1 - 800 - 739 - 0565 .
+June 2009 900874R05 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] TRADE CARTON - PRINCIPAL DISPLAY PANEL - 45 MCG 200 ACTUATIONS NDC 54868 - 5689 - 0 [ MULTIMEDIA ] Xopenex HFA ® ( levalbuterol tartrate ) Inhalation Aerosol 45 mcg / actuation 200 Metered Inhalations FOR ORAL INHALATION WITH Xopenex HFA ® ACTUATOR ONLY Shake well before using .
+Rx only Net Contents 15 g Contains No chlorofluorocarbons ( CFCs ) .
+[ MULTIMEDIA ]

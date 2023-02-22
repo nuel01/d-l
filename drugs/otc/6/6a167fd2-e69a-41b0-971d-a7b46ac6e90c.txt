@@ -1,0 +1,328 @@
+WARNING : EMBRYO - FETAL TOXICITY DAURISMO can cause embryo - fetal death or severe birth defects when administered to a pregnant woman .
+DAURISMO is embryotoxic , fetotoxic , and teratogenic in animals [ see Warnings and Precautions ( 5 . 1 ) , Use in Specific Populations ( 8 . 1 ) ] .
+Conduct pregnancy testing in females of reproductive potential prior to initiation of DAURISMO treatment .
+Advise females of reproductive potential to use effective contraception during treatment with DAURISMO and for at least 30 days after the last dose [ see Warnings and Precautions ( 5 . 1 ) , Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+Advise males of the potential risk of DAURISMO exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential during treatment with DAURISMO and for at least 30 days after the last dose to avoid potential drug exposure [ see Warnings and Precautions ( 5 . 1 ) , Use in Specific Populations ( 8 . 3 ) ] .
+WARNING : EMBRYO - FETAL TOXICITY See full prescribing information for complete boxed warning .
+• DAURISMO can cause embryo - fetal death or severe birth defects when administered to a pregnant woman .
+DAURISMO is embryotoxic , fetotoxic , and teratogenic in animals .
+( 5 . 1 , 8 . 1 ) • Conduct pregnancy testing in females of reproductive potential prior to initiation of DAURISMO treatment .
+Advise females of reproductive potential to use effective contraception during treatment with DAURISMO and for at least 30 days after the last dose .
+( 5 . 1 , 8 . 1 , 8 . 3 ) • Advise males of the potential risk of exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential during treatment with DAURISMO and for at least 30 days after the last dose to avoid potential drug exposure .
+( 5 . 1 , 8 . 3 ) Dosage and Administration , Dosage Modification for Concomitant Use with Moderate CYP3A4 Inducers ( 2 . 3 ) 3 / 2020 1 INDICATIONS AND USAGE DAURISMO is indicated , in combination with low - dose cytarabine , for the treatment of newly - diagnosed acute myeloid leukemia ( AML ) in adult patients who are ≥ 75 years old or who have comorbidities that preclude use of intensive induction chemotherapy .
+DAURISMO is a hedgehog pathway inhibitor indicated , in combination with low - dose cytarabine , for the treatment of newly - diagnosed acute myeloid leukemia ( AML ) in adult patients who are ≥ 75 years old or who have comorbidities that preclude use of intensive induction chemotherapy .
+( 1 ) 2 DOSAGE AND ADMINISTRATION Recommended dosage : 100 mg orally once daily .
+( 2 . 1 ) 2 . 1 Recommended Dosage and Schedule The recommended dosage of DAURISMO is 100 mg orally once daily on days 1 to 28 in combination with cytarabine 20 mg subcutaneously twice daily on days 1 to 10 of each 28 - day cycle in the absence of unacceptable toxicity or loss of disease control .
+For patients without unacceptable toxicity , treat for a minimum of 6 cycles to allow time for clinical response .
+Administer DAURISMO with or without food .
+Do not split or crush DAURISMO tablets .
+Administer DAURISMO about the same time each day .
+If a dose of DAURISMO is vomited , do not administer a replacement dose ; wait until the next scheduled dose is due .
+If a dose of DAURISMO is missed or not taken at the usual time , administer the dose as soon as possible and at least 12 hours prior to the next scheduled dose .
+Return to the normal schedule the following day .
+Do not administer 2 doses of DAURISMO within 12 hours .
+2 . 2 Monitoring and Dosage Modifications Assess complete blood counts , electrolytes , renal , and hepatic function prior to the initiation of DAURISMO and at least once weekly for the first month .
+Monitor electrolytes and renal function once monthly for the duration of therapy .
+Obtain serum creatine kinase levels prior to initiating DAURISMO and as indicated clinically thereafter ( e . g . , if muscle symptoms are reported ) .
+Monitor electrocardiograms ( ECGs ) prior to the initiation of DAURISMO , approximately one week after initiation , and then once monthly for the next two months to assess for QTc prolongation .
+Repeat ECG if abnormal .
+Certain patients may require more frequent and ongoing ECG monitoring [ see Warnings and Precautions ( 5 . 2 ) ] .
+Manage any abnormalities promptly [ see Adverse Reactions ( 6 . 1 ) ] .
+See Table 1 for dosage modification guidelines for patients who develop an adverse reaction .
+Table 1 .
+Recommended Dosage Modifications for Adverse ReactionsAdverse Reaction Recommended Action QTc interval prolongation on at least 2 separate electrocardiograms ( ECGs ) QTc interval greater than 480 ms to 500 ms Assess electrolyte levels and supplement as clinically indicated .
+Review and adjust concomitant medications with known QTc interval - prolonging effects [ see Drug Interactions ( 7 ) ] .
+Monitor ECGs at least weekly for 2 weeks following resolution of QTc prolongation to less than or equal to 480 ms . QTc interval greater than 500 ms Assess electrolyte levels and supplement as clinically indicated .
+Review and adjust concomitant medications with known QTc interval - prolonging effects [ see Drug Interactions ( 7 ) ] .
+Interrupt DAURISMO .
+Resume DAURISMO at a reduced dosage of 50 mg once daily when QTc interval returns to within 30 ms of baseline or less than or equal to 480 ms . Monitor ECGs at least weekly for 2 weeks following resolution of QTc prolongation .
+Consider re - escalating the dosage of DAURISMO to 100 mg daily if an alternative etiology for the QTc prolongation can be identified .
+QTc interval prolongation with life - threatening arrhythmia Discontinue DAURISMO permanently .
+Hematologic toxicity Platelets less than 10 Gi / L for more than 42 days in the absence of disease Discontinue DAURISMO and low - dose cytarabine permanently .
+Neutrophil count less than 0 . 5 Gi / L for more than 42 days in the absence of disease Discontinue DAURISMO and low - dose cytarabine permanently .
+Nonhematologic toxicity Grade 3 [ 1 ] Interrupt DAURISMO and / or low - dose cytarabine until symptoms reduce to mild or return to baseline .
+Resume DAURISMO at the same dose level , or at a reduced dose of 50 mg .
+Resume low - dose cytarabine at the same dose level , or at a reduced dose of 15 mg or 10 mg .
+If toxicity recurs , discontinue DAURISMO and low - dose cytarabine .
+If toxicity is attributable to DAURISMO only , low - dose cytarabine may be continued .
+Grade 4 null Discontinue DAURISMO and low - dose cytarabine permanently .
+[ 1 ] Grade 1 is mild , Grade 2 is moderate , Grade 3 is severe , Grade 4 is life - threatening .
+2 . 3 Dosage Modification for Concomitant Use with Moderate CYP3A4 Inducers Avoid concomitant use of DAURISMO with moderate CYP3A4 inducers .
+If concomitant use of moderate CYP3A4 inducers cannot be avoided , increase the DAURISMO dosage as tolerated as shown in Table 2 .
+After the moderate CYP3A4 inducer has been discontinued for 7 days , resume the DAURISMO dose taken prior to initiating the moderate CYP3A4 inducer [ see Drug Interactions ( 7 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 2 .
+Recommended Dosage of DAURISMO with Concomitant Use of Moderate CYP3A4 InducersCurrent Dosage Adjusted Dosage 100 mg orally once daily 200 mg orally once daily 50 mg orally once daily 100 mg orally once daily 3 DOSAGE FORMS AND STRENGTHS DAURISMO 100 mg tablets : round , pale orange film - coated tablet debossed with " Pfizer " on one side and " GLS 100 " on the other .
+DAURISMO 25 mg tablets : round , yellow film - coated tablet debossed with " Pfizer " on one side and " GLS 25 " on the other .
+Tablets : 100 mg , 25 mg .
+( 3 ) 4 CONTRAINDICATIONS None .
+None .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Blood Donation : Advise patients not to donate blood or blood products during treatment with DAURISMO and for at least 30 days after the last dose .
+( 5 . 1 ) • QTc Interval Prolongation : Monitor electrocardiograms and electrolytes .
+If QTc prolongation occurs , interrupt treatment with DAURISMO .
+( 2 . 2 , 5 . 2 ) 5 . 1 Embryo - Fetal Toxicity Based on its mechanism of action and findings from animal embryo - fetal developmental toxicity studies , DAURISMO can cause embryo - fetal death or severe birth defects when administered to a pregnant woman .
+There are no clinical data on the use of DAURISMO in pregnant women .
+In animal embryo - fetal developmental toxicity studies , glasdegib caused embryotoxicity , fetotoxicity and teratogenicity at maternal exposures that were less than the human exposure at the recommended human dose of 100 mg [ see Use in Specific Populations ( 8 . 1 , 8 . 2 ) , Clinical Pharmacology ( 12 . 1 ) ] .
+Advise pregnant women of the potential risk to the fetus .
+Females of Reproductive Potential DAURISMO is not recommended for use during pregnancy .
+Conduct pregnancy testing in female patients of reproductive potential prior to initiating DAURISMO treatment .
+Advise females of reproductive potential to use effective contraception during treatment with DAURISMO and for at least 30 days after the last dose .
+Advise women not to breastfeed during treatment with DAURISMO and for at least 30 days after the last dose [ see Use in Specific Populations ( 8 . 2 , 8 . 3 ) ] .
+Males Advise male patients with female partners of the potential risk of exposure through semen and to use effective contraception , including a condom , even after vasectomy , to avoid drug exposure to a pregnant partner or a female partner of reproductive potential during treatment with DAURISMO and for at least 30 days after the last dose [ see Use in Specific Populations ( 8 . 3 ) ] .
+Blood Donation Advise patients not to donate blood or blood products while taking DAURISMO and for at least 30 days after the last dose of DAURISMO because their blood or blood products might be given to a female of reproductive potential .
+5 . 2 QTc Interval Prolongation Patients treated with DAURISMO can develop QTc prolongation and ventricular arrhythmias , including ventricular fibrillation and ventricular tachycardia .
+Of the 98 evaluable patients treated with DAURISMO 100 mg in combination with low - dose cytarabine in the clinical trial , 5 % were found to have a QTc interval greater than 500 ms and 4 % of patients had an increase from baseline QTc greater than 60 ms . The clinical trial excluded patients with baseline QTc of greater than 470 ms or with a history of long QT syndrome or uncontrolled cardiovascular disease .
+Monitor electrocardiograms ( ECGs ) and electrolytes [ see Dosage and Administration ( 2 . 2 ) ] .
+Concomitant use of DAURISMO with drugs known to prolong the QTc interval and CYP3A4 inhibitors may increase the risk of QTc interval prolongation [ see Drug Interactions ( 7 ) , Clinical Pharmacology ( 12 . 2 ) ] .
+In patients with congenital long QT syndrome , congestive heart failure , electrolyte abnormalities , or those who are taking medications known to prolong the QTc interval , more frequent ECG monitoring is recommended .
+Interrupt DAURISMO if QTc increases to greater than 500 ms . Discontinue DAURISMO permanently for patients who develop QTc interval prolongation with signs or symptoms of life - threatening arrhythmia [ see Dosage and Administration ( 2 . 2 ) ] .
+6 ADVERSE REACTIONS The following clinically significant adverse reaction is described elsewhere in the labeling : • QT Interval Prolongation [ see Warnings and Precautions ( 5 . 2 ) ] Most common adverse reactions ( incidence ≥ 20 % ) are anemia , fatigue , hemorrhage , febrile neutropenia , musculoskeletal pain , nausea , edema , thrombocytopenia , dyspnea , decreased appetite , dysgeusia , mucositis , constipation , and rash .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Pfizer , Inc . at 1 - 800 - 438 - 1985 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The safety profile of DAURISMO is based on experience in the BRIGHT AML 1003 study for 111 adults with newly - diagnosed AML and 14 adults with other conditions for which DAURISMO is not indicated [ see Clinical Studies ( 14 ) ] .
+Patients were treated with DAURISMO 100 mg daily in combination with low - dose cytarabine ( N = 84 ) or low - dose cytarabine alone ( N = 41 ) .
+The median duration of treatment in the DAURISMO with low - dose cytarabine arm was 83 days ( range 3 to 972 days ) , and the median duration of treatment in the low - dose cytarabine alone arm was 47 days ( range 6 to 239 days ) .
+The median exposure to DAURISMO in the DAURISMO with low - dose cytarabine arm was 76 days ( range 3 to 954 days ) .
+Thirty - two patients ( 38 % ) were treated with DAURISMO with low - dose cytarabine for at least 6 months and 14 patients ( 17 % ) were treated for at least 1 year .
+Serious adverse reactions were reported in 79 % of patients treated in the DAURISMO with low - dose cytarabine arm .
+The most common ( ≥ 5 % ) serious adverse reactions in patients receiving DAURISMO with low - dose cytarabine were febrile neutropenia ( 29 % ) , pneumonia ( 23 % ) , hemorrhage ( 12 % ) , anemia ( 7 % ) , and sepsis ( 7 % ) .
+Dose reductions associated with adverse reactions were reported in 26 % of patients treated with DAURISMO with low - dose cytarabine , and the most common reasons ( ≥ 2 % ) for dose reductions due to adverse reactions were muscle spasms ( 5 % ) , fatigue ( 4 % ) , febrile neutropenia ( 4 % ) , anemia ( 2 % ) , thrombocytopenia ( 2 % ) , and ECG QT prolonged ( 2 % ) .
+Adverse reactions leading to permanent discontinuation were reported in 36 % of patients treated with DAURISMO with low - dose cytarabine , and the most common ( ≥ 2 % ) reasons for permanent discontinuation were pneumonia ( 6 % ) , febrile neutropenia ( 4 % ) , sepsis ( 4 % ) , sudden death ( 2 % ) , myocardial infarction ( 2 % ) , nausea ( 2 % ) , and renal insufficiency ( 2 % ) .
+Adverse reactions reported in the first 90 days of therapy on the BRIGHT AML 1003 study are shown in Table 3 .
+Table 3 .
+Adverse Reactions Occurring in ≥ 10 % of Patients [ 1 ] , [ 2 ] Within the First 90 Days of Therapy in BRIGHT AML 1003 Body System Adverse Reactions DAURISMO With Low - Dose Cytarabine N = 84 Low - Dose Cytarabine N = 41 All Grades % Grade ≥ 3 % All Grades % Grade ≥ 3 % Abbreviations : N = number of patients .
+Preferred terms were retrieved by applying the Medical Dictionary for Regulatory Activities ( MedDRA ) version 19 . 1 .
+BRIGHT AML 1003 used National Cancer Institute Common Terminology Criteria for Adverse Events ( CTCAE ) version 4 . 0 .
+Adverse reactions include events that commenced within 28 days after the last treatment dose .
+Blood and lymphatic system disorder Anemia 43 41 42 37 Hemorrhage [ 3 ] 36 6 42 12 Febrile neutropenia 31 31 22 22 Thrombocytopenia 30 30 27 24 General disorders and administration site conditions Fatigue [ 4 ] 36 14 32 7 Edema [ 5 ] 30 0 20 2 Mucositis [ 6 ] 21 1 12 0 Pyrexia 18 1 22 2 Chest pain [ 7 ] 12 1 2 0 Musculoskeletal and connective tissue disorders Musculoskeletal pain [ 8 ] 30 2 17 2 Muscle spasm [ 9 ] 15 0 5 0 Gastrointestinal disorders Nausea 29 1 12 2 Constipation 20 1 12 0 Abdominal pain [ 10 ] 19 0 12 0 Diarrhea [ 11 ] 18 4 22 0 Vomiting 18 2 10 2 Respiratory thoracic and mediastinal disorders Dyspnea [ 12 ] 23 11 24 7 Cough [ 13 ] 18 0 15 2 Metabolism and nutrition disorders Decrease appetite 21 1 7 2 Nervous system disorders Dysgeusia [ 14 ] 21 0 2 0 Dizziness 18 1 7 0 Headache 12 0 10 2 Skin and subcutaneous tissue disorders Rash [ 15 ] 20 2 7 2 Infection and infestations Pneumonia [ 16 ] 19 15 24 22 Investigations Hyponatremia 11 6 0 0 Platelet count decreased 15 15 10 10 Weight decreased 13 0 2 0 White blood cell count decreased 11 11 5 2 Cardiac disorders Atrial arrhythmia [ 17 ] 13 4 7 2 Renal and urinary disorders Renal insufficiency [ 18 ] 19 5 10 0 [ 1 ] Adverse reactions with ≥ 10 % incidence in the DAURISMO with low - dose cytarabine arm or the low - dose cytarabine arm are included .
+[ 2 ] No Grade 5 events in the DAURISMO with low - dose cytarabine or low - dose cytarabine alone arm .
+[ 3 ] Hemorrhage includes petechiae , epistaxis , hematoma , contusion , rectal hemorrhage , anal hemorrhage , ecchymosis , gingival bleeding , hematuria , mouth hemorrhage , purpura , cerebral hemorrhage , eye contusion , eye hemorrhage , gastric hemorrhage , gastrointestinal hemorrhage , hematemesis , hemoptysis , hemorrhage , implant site hematoma , injection site bruising , retroperitoneal hematoma , thrombotic thrombocytopenic purpura , tracheal hemorrhage , conjunctival hemorrhage , disseminated intravascular coagulation , eyelid hematoma , hematochezia , hemorrhage intracranial , hemorrhoidal hemorrhage , lower gastrointestinal hemorrhage , retinal hemorrhage , and subdural hematoma .
+[ 4 ] Fatigue includes asthenia and fatigue .
+[ 5 ] Edema includes edema peripheral , edema , fluid overload , fluid retention , and swelling face .
+[ 6 ] Mucositis includes mucosal inflammation , oropharyngeal pain , stomatitis , anal ulcer , gingival pain , laryngeal inflammation , esophagitis , oral pain , aphthous ulcer , mouth ulceration , and pharyngeal inflammation .
+[ 7 ] Chest pain includes chest pain and non - cardiac chest pain .
+[ 8 ] Musculoskeletal pain includes pain in extremity , arthralgia , back pain , myalgia , musculoskeletal pain , musculoskeletal chest pain , neck pain , and bone pain .
+[ 9 ] Muscle spasms includes muscle spasms and muscle tightness .
+[ 10 ] Abdominal pain includes abdominal pain , abdominal pain upper , and abdominal pain lower .
+[ 11 ] Diarrhea includes diarrhea , colitis , and gastroenteritis .
+[ 12 ] Dyspnea includes dyspnea , hypoxia , bronchospasm , and respiratory failure .
+[ 13 ] Cough includes cough and productive cough .
+[ 14 ] Dysgeusia includes dysgeusia and ageusia .
+[ 15 ] Rash includes rash , pruritus , erythema , skin ulcer , rash maculo - papular , and rash pruritic .
+[ 16 ] Pneumonia includes pneumonia , pneumonia aspiration , and lung infection .
+[ 17 ] Atrial arrhythmia includes atrial fibrillation , bradycardia , tachycardia , and sinus tachycardia .
+[ 18 ] Renal insufficiency includes acute kidney injury , blood creatinine increased , oliguria , and renal failure .
+The adverse reactions muscle spasms ( 4 in 12 patients ) and decreased appetite ( 2 in 10 patients ) worsened ( i . e . progressed from Grades ≤ 2 to Grade 3 or higher ) after the first 90 days of therapy in BRIGHT AML 1003 .
+Additional clinically - significant adverse reactions occurring in < 10 % of patients treated with DAURISMO and low - dose cytarabine in BRIGHT AML 1003 include : • Dental disorders : loose tooth and toothache • Skin and subcutaneous tissue disorders : alopecia • Cardiac disorders : QT interval prolonged Changes in selected post - baseline laboratory values that were observed in patients with newly - diagnosed AML and other conditions for which DAURISMO is not indicated in the clinical trial are shown in Table 4 .
+Table 4 .
+Selected Laboratory Abnormalities ( ≥ 15 % ) [ 1 ] Within the First 90 Days of Therapy in BRIGHT AML 1003 DAURISMO with Low - Dose Cytarabine Low - Dose Cytarabine Laboratory Abnormality N All Grades % Grade 3 or 4 [ 2 ] % N All Grades % Grade 3 or 4 null % Abbreviations : N = number of patients ; AST = aspartate aminotransferase ; ALT = alanine aminotransferase ; CPK = creatinine phosphokinase .
+BRIGHT AML 1003 used National Cancer Institute Common Terminology Criteria for Adverse Events ( CTCAE ) version 4 . 0 .
+Creatinine increased 81 96 1 40 80 5 Hyponatremia 81 54 7 39 41 8 Hypomagnesemia 81 33 0 39 23 0 AST increased 80 28 1 40 23 0 Blood bilirubin increased 80 25 4 39 33 3 ALT increased 80 24 0 40 28 3 Alkaline phosphatase increased 80 23 0 40 28 3 Hyperkalemia 81 16 1 40 8 3 CPK increased 38 16 0 17 6 0 Hypokalemia 81 15 0 40 23 0 [ 1 ] Maximum severity based on the number of patients with available on - study laboratory data .
+[ 2 ] Grade 1 is mild , Grade 2 is moderate , Grade 3 is severe , Grade 4 is life - threatening .
+The following laboratory abnormalities worsened ( i . e . progressed from Grades ≤ 2 to Grade 3 or higher ) after the first 90 days of therapy in BRIGHT AML 1003 : • hypophosphatemia ( 8 in 38 patients ) , creatinine increased ( 2 in 39 patients ) , and ALT increased ( 2 in 40 patients ) .
+7 DRUG INTERACTIONS Table 5 .
+Drug Interactions with DAURISMOStrong CYP3A Inhibitors Clinical Impact • Co - administration of DAURISMO with strong CYP3A inhibitors increased glasdegib plasma concentrations [ see Clinical Pharmacology ( 12 . 3 ) ] .
+• Increased glasdegib concentrations may increase the risk of adverse reactions including QTc interval prolongation [ see Warnings and Precautions ( 5 . 2 ) ] .
+Prevention or Management • Consider alternative therapies that are not strong CYP3A4 inhibitors during treatment with DAURISMO .
+• Monitor patients for increased risk of adverse reactions including QTc interval prolongation [ see Warnings and Precautions ( 5 . 2 ) ] .
+Strong and Moderate CYP3A Inducers Clinical Impact Co - administration of DAURISMO with strong and moderate CYP3A inducers decreased glasdegib plasma concentrations [ see Clinical Pharmacology ( 12 . 3 ) ] .
+• Decreased glasdegib concentrations may reduce efficacy .
+Prevention or Management • Avoid co - administration of DAURISMO with strong and moderate CYP3A4 inducers .
+• If co - administration of DAURISMO with moderate CYP3A4 inducers cannot be avoided , increase the dose of DAURISMO [ see Dosage and Administration ( 2 . 3 ) ] .
+QTc Prolonging Drugs Clinical Impact Co - administration of DAURISMO with QTc prolonging drugs may increase the risk of QTc interval prolongation [ see Warnings and Precautions ( 5 . 2 ) ] .
+Prevention or Management • Avoid co - administration of QTc prolonging drugs with DAURISMO or replace with alternative therapies .
+• If co - administration of a QTc prolonging drug is unavoidable , monitor patients for increased risk of QTc interval prolongation [ see Warnings and Precautions ( 5 . 2 ) ] .
+• Strong CYP3A4 Inhibitors : Consider alternative therapies that are not strong CYP3A4 inhibitors or monitor for increased risk of adverse reactions , including QTc interval prolongation .
+( 7 ) • Strong CYP3A4 Inducers : Avoid concomitant use with DAURISMO .
+( 7 ) • Moderate CYP3A4 Inducers : Avoid concomitant use with DAURISMO .
+If , concomitant use cannot be avoided , increase the dose of DAURISMO ( 2 . 3 , 7 ) .
+• QTc Prolonging Drugs : Avoid co - administration with DAURISMO .
+If co - administration is unavoidable , monitor for increased risk of QTc interval prolongation .
+( 7 ) 8 USE IN SPECIFIC POPULATIONS Lactation : Advise women not to breastfeed .
+( 8 . 2 ) 8 . 1 Pregnancy Risk Summary Based on its mechanism of action and findings in animal embryo - fetal developmental toxicity studies , DAURISMO can cause fetal harm when administered to a pregnant woman [ see Clinical Pharmacology ( 12 . 1 ) ] .
+There are no clinical data on the use of DAURISMO in pregnant women to inform of a drug - associated risk of major birth defects and miscarriage .
+DAURISMO is not recommended for use during pregnancy .
+Conduct pregnancy testing in female patients of reproductive potential prior to initiating treatment with DAURISMO .
+Report pregnancy exposures to Pfizer at 1 - 800 - 438 - 1985 .
+In animal embryo - fetal developmental toxicity studies , repeat - dose oral administration of DAURISMO during organogenesis at maternal exposures that were less than the human exposure at the recommended dose resulted in embryotoxicity , fetotoxicity and teratogenicity in rats and rabbits ( see Data ) .
+Advise pregnant women of the potential risk to a fetus .
+The estimated background risk of major birth defects and miscarriage for the indicated population are unknown .
+Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+Data Animal Data In embryo - fetal developmental toxicity studies , glasdegib was orally administered to pregnant rats and rabbits at doses up to 100 mg / kg / day during the period of organogenesis .
+Glasdegib resulted in embryo - fetal lethality ( e . g . , increased postimplantation loss and decreased numbers of live fetuses ) in rats and rabbits at 50 mg / kg / day and 5 mg / kg / day , respectively , at maternal exposures approximately 4 - times and 3 - times the human exposure at the recommended dose [ based on Cmax ( rat ) and AUC ( rabbit ) ] .
+Doses of ≥ 10 mg / kg in rat [ approximately 0 . 6 - times the human exposure ( Cmax ) at the recommended dose ] and ≥ 5 mg / kg in rabbit resulted in fetal developmental abnormalities and malformations consisting of craniofacial malformations , malformed limbs , paws / digits , trunk and tail , dilation of brain , malpositioned / malformed eyes , misshapen head , small tongue , absent palate , teeth and viscera , diaphragmatic hernia , edema , heart defects , rib and vertebral abnormalities , malformed or absent structures in the appendicular skeleton .
+8 . 2 Lactation Risk Summary There are no data on the presence of glasdegib or its active metabolites in human milk , the effects of the drug on the breastfed child , or its effect on milk production .
+Because of the potential for serious adverse reactions in a breastfed child from DAURISMO , advise women who are taking DAURISMO not to breastfeed or provide breast milk to infants or children during treatment with DAURISMO and for at least 30 days after the last dose .
+8 . 3 Females and Males of Reproductive Potential DAURISMO can cause fetal harm when administered to a pregnant woman [ see Use in Specific Populations ( 8 . 1 ) ] .
+Pregnancy Testing Conduct pregnancy testing in females of reproductive potential within 7 days prior to initiating therapy with DAURISMO .
+Contraception Females Advise females of reproductive potential to use effective contraception during treatment with DAURISMO and at least 30 days after the last dose .
+Males It is not known if glasdegib is present in semen .
+Advise males of the potential risk of exposure through semen and to use effective contraception , including a condom , even after a vasectomy , to avoid drug exposure to a pregnant partner or a female partner of reproductive potential during treatment with DAURISMO and for at least 30 days after the last dose .
+Advise males to not donate semen during treatment with DAURISMO for at least 30 days after the last dose [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+Infertility Males Based on findings in repeat - dose animal toxicity studies in rats , DAURISMO may impair fertility in males of reproductive potential .
+Some effects on male reproductive organs did not recover [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+Men should seek advice on effective fertility preservation before treatment .
+8 . 4 Pediatric Use The safety and effectiveness of DAURISMO have not been established in pediatric patients .
+In repeat - dose toxicity studies in rats , oral administration of DAURISMO resulted in adverse changes in growing bone , teeth , and testis .
+Effects on bone consisted of partial to complete closure of the epiphyseal plate .
+Effects in growing incisor teeth included degeneration / necrosis of ameloblasts , and complete tooth loss with oral ulceration .
+Reproductive tissue toxicity was evidenced by testicular degeneration and hypospermatogenesis .
+These effects in bone , teeth and testis were observed after administration of DAURISMO for 26 weeks at greater than or equal to 50 mg / kg / day corresponding to approximately 6 . 6 - times the steady state AUC in patients at the recommended human dose .
+8 . 5 Geriatric Use Of the total number of subjects in clinical studies of DAURISMO with low - dose cytarabine ( N = 88 ) , 98 % of the patients were age 65 years or older and 60 % of the patients were age 75 years or older .
+There were insufficient patients younger than age 65 years to determine differences in adverse reactions reported from patients older than 65 .
+8 . 6 Renal Impairment No dosage modification is recommended for patients with mild to severe renal impairment ( estimated glomerular filtration rate [ eGFR ] 15 to 89 mL / min ) .
+Monitor patients with severe renal impairment ( eGFR 15 to 29 mL / min ) for increased risk of adverse reactions , including QTc interval prolongation , due to increased glasdegib concentrations [ see Clinical Pharmacology ( 12 . 3 ) ] .
+10 OVERDOSAGE There is no specific antidote for DAURISMO .
+Management of DAURISMO overdose should include symptomatic treatment and ECG monitoring .
+Glasdegib has been administered in clinical studies up to a dose of 640 mg / day .
+At the highest dosage , the adverse reactions that were dose limiting were nausea , vomiting , dehydration , hypotension , fatigue , and dizziness .
+11 DESCRIPTION DAURISMO ( glasdegib ) is a potent small molecule inhibitor of Smoothened ( SMO ) for oral use .
+It is formulated with the maleate salt of glasdegib .
+The molecular formula for glasdegib maleate is C25H26N6O5 .
+The molecular weight for glasdegib maleate is 490 . 51 Daltons .
+The chemical name of glasdegib maleate is 1 - ( ( 2 R , 4 R ) - 2 - ( 1 H - benzo [ d ] imidazol - 2 - yl ) - 1 - methylpiperidin - 4 - yl ) - 3 - ( 4 - cyanophenyl ) urea maleate .
+The molecular structure is shown below : [ MULTIMEDIA ] Glasdegib maleate is a white to pale colored powder with pKa values of 1 . 7 and 6 . 1 .
+The aqueous solubility of glasdegib maleate is 1 . 7 mg / mL .
+DAURISMO ( glasdegib ) is supplied as a film - coated tablet for oral use containing either 100 mg glasdegib ( equivalent to 131 . 1 mg glasdegib maleate ) or 25 mg of glasdegib ( equivalent to 32 . 8 mg glasdegib maleate ) together with microcrystalline cellulose , dibasic calcium phosphate anhydrous , sodium starch glycolate , and magnesium stearate as inactive ingredients in the tablet .
+The film - coating consists of Opadry II ® Beige ( 33G170003 ) and Opadry II ® Yellow ( 33G120011 ) containing : hypromellose , titanium dioxide , lactose monohydrate , macrogol , triacetin , iron oxide yellow , and iron oxide red .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Glasdegib is an inhibitor of the Hedgehog pathway .
+Glasdegib binds to and inhibits Smoothened , a transmembrane protein involved in hedgehog signal transduction .
+In a murine xenotransplant model of human AML , glasdegib in combination with low - dose cytarabine , inhibited increases in tumor size and reduced the percentage of CD45 + / CD33 + blasts in the marrow to a greater extent than glasdegib or low - dose cytarabine alone .
+12 . 2 Pharmacodynamics Cardiac Electrophysiology The effect of glasdegib administration on corrected QT interval ( QTc ) was evaluated in a randomized , single - dose , double - blind , 4 - way crossover , placebo - and open - label moxifloxacin - controlled study in 36 healthy subjects .
+At therapeutic plasma concentrations for the recommended dose , achieved with a single dose of 150 mg DAURISMO , the largest placebo and baseline - adjusted QTc interval change was 8 ms ( 90 % CI : 6 , 10 ms ) .
+At a two - fold therapeutic plasma concentration , achieved with a single dose of 300 mg DAURISMO , the QTc change was 13 ms ( 90 % CI : 11 , 16 ms ) .
+Glasdegib is associated with concentration - dependent QTc prolongation .
+12 . 3 Pharmacokinetics DAURISMO at 5 mg to 600 mg once daily ( 0 . 05 to 6 times the recommended dose ) result in a dose proportional increase in glasdegib peak concentrations ( Cmax ) and area under the curve over the dosing interval ( AUC0 - Tau ) .
+Steady - state plasma levels are reached by 8 days of daily dosing .
+The median accumulation ratio of glasdegib ranged from 1 . 2 to 2 . 5 following once - daily dosing .
+At DAURISMO 100 mg once daily , the geometric mean ( geometric coefficient of variation , % CV ) of glasdegib Cmax was 1252 ng / mL ( 44 % ) and AUC0 - Tau was 17210 ng * hr / mL ( 54 % ) in patients with cancer .
+Absorption The mean absolute bioavailability of DAURISMO is 77 % .
+Following 100 mg once daily dosing , glasdegib median time to peak concentrations ( Tmax ) at steady - state ranged from 1 . 3 hours to 1 . 8 hours .
+Effect of Food : A high - fat , high - calorie meal ( total 800 – 1000 calories : 500 – 600 fat calories , 250 carbohydrate calories and 150 protein calories ) reduced area under the curve over time to infinity ( AUC0 - INF ) by 16 % and Cmax by 31 % .
+Distribution Glasdegib is 91 % bound to human plasma proteins in vitro .
+The geometric mean ( % CV ) apparent volume of distribution ( Vz / F ) was 188 L ( 20 % ) in patients with hematologic malignancies .
+Elimination Glasdegib has a mean ( ± SD ) half - life of 17 . 4 h ( 3 . 7 ) and geometric mean ( % CV ) apparent clearance of 6 . 45 L / h ( 25 % ) following 100 mg once daily dosing in patients with hematologic malignancies .
+Metabolism Glasdegib is primarily metabolized by the CYP3A4 pathway , with minor contributions by CYP2C8 and UGT1A9 .
+Glasdegib accounts for 69 % of the total circulating drug related material in plasma .
+Excretion Following a single oral dose of 100 mg radiolabeled glasdegib , 49 % ( 17 % unchanged ) of the administered dose was eliminated in the urine and 42 % ( 20 % unchanged ) of the administered dose was eliminated in the feces .
+Specific Populations Age ( 25 to 92 years ) , sex , race ( White , Black , Asian ) , body weight ( 43 . 5 to 145 . 6 kg ) , mild hepatic impairment ( total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 – 1 . 5 × ULN and any AST ) , and mild renal impairment ( creatinine clearance 60 – 89 mL / min ) did not have clinically meaningful effects on the pharmacokinetics of glasdegib .
+Patients with Renal Impairment Following administration of a single dose of DAURISMO 100 mg , glasdegib AUC0 - INF increased by 2 . 1 - fold in subjects with moderate ( eGFR 30 to 59 mL / min ) and severe ( eGFR 15 to 29 mL / min ) renal impairment compared to subjects with normal renal function ( eGFR ≥ 90 mL / min ) .
+The pharmacokinetics of glasdegib have not been studied in patients with end stage renal disease requiring hemodialysis .
+Patients with Hepatic Impairment Following administration of a single dose of DAURISMO 100 mg , glasdegib AUC0 - INF increased by 11 % in subjects with moderate hepatic impairment ( Child - Pugh B ) and decreased by 24 % in subjects with severe hepatic impairment ( Child - Pugh C ) compared to subjects with normal hepatic function .
+Drug Interaction Studies Clinical Studies and Model - Informed Approaches Effect of Strong CYP3A4 Inhibitors on Glasdegib : Co - administration of ketoconazole ( a strong inhibitor of CYP3A4 ) with DAURISMO increased the glasdegib AUC0 - INF by 2 . 4 - fold and Cmax by 1 . 4 - fold over glasdegib given alone [ see Drug Interactions ( 7 ) ] .
+Effect of Strong and Moderate CYP3A4 Inducers on Glasdegib : Co - administration of rifampin ( a strong inducer of CYP3A4 ) with DAURISMO decreased glasdegib AUC0 - INF by 70 % and Cmax by 35 % [ see Drug Interactions ( 7 ) ] .
+Co - administration of efavirenz ( moderate CYP3A4 inducer ) is predicted to decrease glasdegib AUC0 - INF by 55 % and Cmax by 25 % .
+Effect of Gastric Acid Reducing Agents on Glasdegib : Co - administration of rabeprazole ( a proton pump inhibitor ) with DAURISMO did not alter glasdegib AUC0 - INF but decreased Cmax by 20 % .
+In Vitro Studies Effect of Glasdegib on Cytochrome P450 ( CYP ) Substrates : Glasdegib does not inhibit CYP1A2 , CYP2B6 , CYP2C8 , CYP2C9 , CYP2C19 , CYP2D6 , or CYP3A , and does not induce CYP1A2 , CYP2B6 , and CYP3A in vitro .
+Effect of Transporters on Glasdegib : Glasdegib is a substrate of P - glycoprotein ( P - gp ) and breast cancer resistance protein ( BCRP ) .
+Effect of Glasdegib on Transporters : Glasdegib inhibits P - gp , BCRP , multidrug and toxin extrusion ( MATE ) protein 1 , and MATE - 2 K , but not organic anion transporting polypeptide ( OATP ) 1B1 , OATP1B3 , organic anion transporter ( OAT ) 1 , OAT3 , and organic cation transporter ( OCT ) 2 in vitro .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenicity studies have not been performed with glasdegib .
+Glasdegib was not mutagenic in vitro in the bacterial reverse mutation ( Ames ) assay and was not clastogenic in the in vitro chromosome aberration assay in human lymphocytes .
+Glasdegib was not clastogenic or aneugenic in the rat micronucleus assay .
+Based on nonclinical safety findings , glasdegib has the potential to impair reproductive function in males .
+Men should seek advice on effective fertility preservation before treatment .
+In repeat - dose toxicity studies in rats , findings observed in the male reproductive tract included adverse testicular changes with glasdegib at doses ≥ 50 mg / kg / day , and consisted of minimal to severe hypospermatogenesis characterized by partial to complete loss of spermatogonia , spermatocytes and spermatids and testicular degeneration .
+Hypospermatogenesis did not recover whereas testicular degeneration did recover .
+The dose at which testicular effects were observed in male rats was identified as 50 mg / kg / day with corresponding systemic exposures that were approximately 6 . 6 - times ( based on AUC ) those associated with the observed human exposure at the 100 mg once daily dose .
+14 CLINICAL STUDIES The efficacy of DAURISMO in combination with low - dose cytarabine was evaluated in a multicenter , open - label , randomized study ( Study BRIGHT AML 1003 , NCT01546038 ) that included 115 patients age 55 years or older with newly - diagnosed AML who met at least one of the following criteria : a ) age ≥ 75 years , b ) severe cardiac disease , c ) baseline Eastern Cooperative Oncology Group ( ECOG ) performance status of 2 , or d ) baseline serum creatinine > 1 . 3 mg / dL .
+Patients were randomized 2 : 1 to receive DAURISMO at a 100 mg daily dose with low - dose cytarabine 20 mg subcutaneously twice daily on days 1 to 10 of a 28 - day cycle ( N = 77 ) or low - dose cytarabine alone ( N = 38 ) in 28 - day cycles until disease progression or unacceptable toxicity .
+Patients were stratified by cytogenetic risk ( good / intermediate or poor ) .
+The baseline demographic and disease characteristics are shown in Table 6 .
+The two treatment arms were generally balanced with respect to the baseline demographics and disease characteristics ( see Table 6 ) .
+Table 6 .
+Baseline Demographic and Disease Characteristics in Patients with AMLDemographic and Disease Characteristics DAURISMO With Low - Dose Cytarabine ( N = 77 ) Low - Dose Cytarabine Alone ( N = 38 ) Abbreviations : AML = acute myeloid leukemia ; N = number of patients ; ECOG PS = Eastern Cooperative Oncology Group Performance Status .
+Demographics Age Median ( Min , Max ) ( Years ) 77 ( 64 , 92 ) 76 ( 58 , 83 ) ≥ 75 years N ( % ) 47 ( 61 ) 23 ( 61 ) Sex , N ( % ) Male 59 ( 77 ) 23 ( 61 ) Female 18 ( 23 ) 15 ( 39 ) Race , N ( % ) White 75 ( 97 ) 38 ( 100 ) Black or African American 1 ( 1 ) 0 ( 0 ) Asian 1 ( 1 ) 0 ( 0 ) Disease History , N ( % ) De Novo AML 38 ( 49 ) 18 ( 47 ) Secondary AML 39 ( 51 ) 20 ( 53 ) Prior Hypomethylating Agent Use 11 ( 14 ) 6 ( 16 ) ECOG PS [ 1 ] , N ( % ) 0 to 1 35 ( 46 ) 20 ( 53 ) 2 41 ( 53 ) 18 ( 47 ) Cytogenetic Risk Status , N ( % ) Good / Intermediate 48 ( 62 ) 21 ( 55 ) Poor 29 ( 38 ) 17 ( 45 ) Baseline Severe Cardiac Disease 51 ( 66 ) 20 ( 53 ) Baseline Serum Creatinine > 1 . 3 mg / dL 15 ( 19 ) 5 ( 13 ) [ 1 ] Baseline ECOG PS was not reported for one patient in the DAURISMO with low - dose cytarabine arm .
+Efficacy was established on the basis of overall survival ( OS ) from the date of randomization to death from any cause .
+With a median follow - up of approximately 20 months , the DAURISMO with low - dose cytarabine arm was superior to low - dose cytarabine alone arm ( Figure 1 ) .
+The efficacy results are shown in Table 7 .
+Improvement in OS was consistent across prespecified cytogenetic risk subgroups .
+Table 7 .
+Efficacy Results From BRIGHT AML 1003 Endpoint / Study Population DAURISMO With Low - Dose Cytarabine Low - Dose Cytarabine Alone Abbreviations : AML = acute myeloid leukemia ; N = number of patients ; OS = overall survival ; CI = confidence interval ; CR = complete response .
+OS N = 77 N = 38 Median survival , months ( 95 % CI ) 8 . 3 ( 4 . 4 , 12 . 2 ) 4 . 3 ( 1 . 9 , 5 . 7 ) Hazard ratio ( 95 % CI ) [ 1 ] 0 . 46 ( 0 . 30 , 0 . 71 ) p - value [ 2 ] 0 . 0002 CR N = 14 N = 1 CR rate ( in % , 95 % CI ) 18 . 2 ( 10 . 3 , 28 . 6 ) 2 . 6 ( 0 . 1 , 13 . 8 ) [ 1 ] Hazard ratio ( DAURISMO with low - dose cytarabine / low - dose cytarabine alone ) based on the Cox Proportional hazards model stratified by cytogenetic risk .
+[ 2 ] 1 - sided p - value from log - rank test stratified by cytogenetic risk .
+Figure 1 .
+BRIGHT AML 1003 – Kaplan - Meier Plot of Overall Survival for Patients with AML [ MULTIMEDIA ] Abbreviations : CI = confidence interval ; OS = overall survival ; LDAC = low - dose cytarabine .
+[ MULTIMEDIA ] 16 HOW SUPPLIED / STORAGE AND HANDLING DAURISMO is supplied in the following strengths and package configurations : DAURISMO film - coated tabletsPackage Configuration Tablet Strength ( mg ) NDC Print ( description ) 30 count bottle 100 mg 0069 - 1531 - 30 100 mg strength : 11 mm round , pale orange film - coated tablet debossed with " Pfizer " on one side and " GLS 100 " on the other 60 count bottle 25 mg 0069 - 0298 - 60 25 mg strength : 7 mm round , yellow film - coated tablet debossed with " Pfizer " on one side and " GLS 25 " on the other Store at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) ; excursions permitted between 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Medication Guide ) .
+Embryo - Fetal Toxicity • Advise female patients of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy .
+Advise female patients and female partners of male patients to contact their healthcare provider with a known or suspected pregnancy [ see Warnings and Precautions ( 5 . 1 ) , Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+Females and Males of Reproductive Potential • Advise females of reproductive potential to use effective contraception during treatment with DAURISMO and for at least 30 days after the last dose .
+• Advise males of the potential risk of exposure through semen and to use effective contraception , including a condom , even after a vasectomy , to avoid drug exposure to a pregnant partner or a female partner of reproductive potential during treatment with DAURISMO and for at least 30 days after the last dose [ see Use in Specific Populations ( 8 . 3 ) ] .
+Semen Donation • Advise males not to donate semen during treatment with DAURISMO and for at least 30 days after the last dose of DAURISMO [ see Use in Specific Populations ( 8 . 3 ) ] .
+Lactation • Advise women not to breastfeed during treatment with DAURISMO and for at least 30 days after the last dose of DAURISMO [ see Use in Specific Populations ( 8 . 2 ) ] .
+Blood Donation • Advise patients not to donate blood or blood products during treatment with DAURISMO and for at least 30 days after the last dose of DAURISMO [ see Warnings and Precautions ( 5 . 1 ) ] .
+Infertility • Advise males of reproductive potential of the potential for impaired fertility from DAURISMO .
+Advise male patients to seek advice on effective fertility preservation before treatment [ see Use in Specific Populations ( 8 . 3 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+QT Interval Prolongation • Inform patients of signs and symptoms that may be indicative of significant QT interval prolongation .
+Advise patients to contact their healthcare provider immediately in the event of syncope , pre - syncopal symptoms , and cardiac palpitations [ see Warnings and Precautions ( 5 . 2 ) ] .
+This product ' s label may have been updated .
+For current full prescribing information , please visit www . DAURISMO . com .
+[ MULTIMEDIA ] LAB - 1284 - 2 . 0 [ MULTIMEDIA ] This Medication Guide has been approved by the U . S . Food and Drug Administration .
+Issued : March 2020 MEDICATION GUIDE DAURISMO ™ ( DOOR - is - moe ) ( glasdegib ) tablets What is the most important information I should know about DAURISMO ?
+DAURISMO can cause your baby to die before it is born ( be stillborn ) or cause your baby to have severe birth defects .
+For females who can become pregnant : • You should talk to your healthcare provider about the risks of DAURISMO to your unborn child .
+• Your healthcare provider will do a pregnancy test within 7 days before you start taking DAURISMO .
+• You should not use DAURISMO during pregnancy .
+• You should use effective birth control during treatment and for at least 30 days after your last dose of DAURISMO .
+Talk with your healthcare provider about what birth control method is right for you during this time .
+• Talk to your healthcare provider right away if you have unprotected sex or if you think that your birth control has failed .
+• Tell your healthcare provider right away if you become pregnant or think that you may be pregnant .
+For males : • It is not known if DAURISMO is present in semen .
+Do not donate semen during treatment with DAURISMO and for at least 30 days after your last dose .
+• You should always use effective birth control , including a condom , even if you have had a vasectomy , during sex with female partners who are pregnant or who are able to become pregnant , during treatment with DAURISMO and for at least 30 days after your last dose to protect your female partner from being exposed to DAURISMO .
+• Tell your healthcare provider right away if your partner becomes pregnant or thinks she is pregnant while you are taking DAURISMO .
+Exposure to DAURISMO during pregnancy : If you think that you or your female partner may have been exposed to DAURISMO during pregnancy , talk to your healthcare provider right away .
+If you become pregnant during treatment with DAURISMO , you or your healthcare provider should report your pregnancy to Pfizer at 1 - 800 - 438 - 1985 .
+What is DAURISMO ?
+DAURISMO is a prescription medicine that is used with the medicine cytarabine to treat newly - diagnosed acute myeloid leukemia ( AML ) in adults who : • are 75 years of age or older , or • have other medical conditions that prevent the use of standard chemotherapy It is not known if DAURISMO is safe and effective in children .
+Before you take DAURISMO , tell your healthcare provider about all of your medical conditions , including if you : • have heart problems , including a condition called long QT syndrome .
+• abnormal blood salt ( electrolytes ) levels .
+• are pregnant or plan to become pregnant .
+See " What is the most important information I should know about DAURISMO ? "
+• are breastfeeding or plan to breastfeed .
+It is not known if DAURISMO passes into your breast milk .
+Do not breastfeed or provide breast milk to infants or children during treatment with DAURISMO and for at least 30 days after the last dose .
+Talk to your healthcare provider about the best way to feed your baby during this time .
+Tell your healthcare provider about the medicines you take , including prescription medicines , over - the - counter medicines , vitamins , and herbal supplements .
+How should I take DAURISMO ?
+• Take DAURISMO with the medicine cytarabine exactly as your healthcare provider tells you .
+• Take DAURISMO 1 time each day , at about the same time each day .
+• Take DAURISMO with or without food .
+• Do not chew , split or crush DAURISMO tablets .
+• If you miss a dose , take it as soon as you remember .
+If it is less than 12 hours before your next dose , just skip the missed dose and take your next dose at your regular time .
+Do not take 2 doses of DAURISMO within 12 hours .
+• If you vomit after taking a dose of DAURISMO , do not take an extra dose , just take your next dose at your regular time .
+• Your healthcare provider will perform certain tests to check you for side effects before and during treatment with DAURISMO .
+• Your healthcare provider may change your dose , temporarily stop , or permanently stop treatment with DAURISMO if you have certain side effects .
+Do not change your dose or stop taking DAURISMO unless your healthcare provider tells you .
+What should I avoid while taking DAURISMO ?
+• Do not donate blood or blood products during treatment with DAURISMO and for at least 30 days after the last dose .
+• Do not donate semen during treatment with DAURISMO and for at least 30 days after the last dose .
+What are the possible side effects of DAURISMO ?
+DAURISMO can cause serious side effects , including : • See " What is the most important information I should know about DAURISMO ? "
+• Changes in the electrical activity of your heart called QT prolongation .
+QT prolongation can cause irregular heartbeats that can be life - threatening .
+Tell your healthcare provider right away if you feel faint , lightheaded , dizzy , or feel your heart beating irregularly or fast during treatment with DAURISMO .
+The most common side effects of DAURISMO with cytarabine include : • low red blood cell count ( anemia ) • tiredness • bleeding • fever with low white blood cell count • muscle pain • nausea • swelling of arms or legs • low platelet count • shortness of breath • decreased appetite • changes in taste • pain or sores in your mouth or throat • constipation • rash DAURISMO may affect fertility in males .
+Talk to your healthcare provider if this is a concern for you .
+These are not all of the possible side effects of DAURISMO .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store DAURISMO ?
+• Store DAURISMO at room temperature between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+Keep DAURISMO and all medicines out of the reach of children .
+General information about the safe and effective use of DAURISMO .
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use DAURISMO for a condition for which it was not prescribed .
+Do not give DAURISMO to other people , even if they have the same symptoms that you have .
+It may harm them .
+You can ask your healthcare provider or pharmacist for more information about DAURISMO that is written for health professionals .
+What are the ingredients in DAURISMO ?
+Active ingredient : glasdegib Inactive ingredients : microcrystalline cellulose , dibasic calcium phosphate anhydrous , sodium starch glycolate , and magnesium stearate .
+Film - coating : 25 mg tablets : Opadry II Yellow ( 33G120011 ) containing hypromellose , titanium dioxide , lactose monohydrate , macrogol , triacetin , and iron oxide yellow .
+100 mg tablets : Opadry II Beige ( 33G170003 ) containing hypromellose , titanium dioxide , lactose monohydrate , macrogol , triacetin , iron oxide yellow , and iron oxide red .
+[ MULTIMEDIA ] LAB - 1285 - 2 . 0 For more information , go to www . DAURISMO . com or call 1 - 800 - 438 - 1985 .
+[ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069 - 0298 - 60 Pfizer Daurismo ™ ( glasdegib ) tablets 25 mg * Do not cut , crush , or chew the tablets .
+60 Tablets Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069 - 1531 - 30 Pfizer Daurismo ™ ( glasdegib ) tablets 100 mg * Do not cut , crush , or chew the tablets .
+30 Tablets Rx only [ MULTIMEDIA ] [ MULTIMEDIA ]

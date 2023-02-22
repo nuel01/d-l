@@ -1,0 +1,90 @@
+DESCRIPTION BILTRICIDE ® ( praziquantel ) is a trematodicide provided in tablet form for the oral treatment of schistosome infections and infections due to liver fluke .
+BILTRICIDE ( praziquantel ) is 2 - ( cyclohexylcarbonyl ) - 1 , 2 , 3 , 6 , 7 , 11 b - hexahydro - 4 H - pyrazino [ 2 , 1 - a ] isoquinolin - 4 - one with the molecular formula ; C19H24N2O2 .
+The structural formula is as follows : [ MULTIMEDIA ] Praziquantel is a white to nearly white crystalline powder of bitter taste .
+The compound is stable under normal conditions and melts at 136 - 140 ° C with decomposition .
+The active substance is hygroscopic .
+Praziquantel is easily soluble in chloroform and dimethylsulfoxide , soluble in ethanol and very slightly soluble in water .
+BILTRICIDE tablets contain 600 mg of praziquantel .
+Inactive ingredients : corn starch , magnesium stearate , microcrystalline cellulose , povidone , sodium lauryl sulfate , polyethylene glycol , titanium dioxide and hypromellose .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Praziquantel induces a rapid contraction of schistosomes by a specific effect on the permeability of the cell membrane .
+The drug further causes vacuolization and disintegration of the schistosome tegument .
+After oral administration BILTRICIDE is rapidly absorbed ( 80 % ) , subjected to a first pass effect , metabolized and eliminated by the kidneys .
+Maximal serum concentration is achieved 1 - 3 hours after dosing .
+The half - life of praziquantel in serum is 0 . 8 - 1 . 5 hours .
+Special Populations The pharmacokinetics of praziquantel were studied in 40 patients with Schistosoma mansoni infections with varying degrees of hepatic dysfunction ( See table1 ) .
+In patients with schistosomiasis , the pharmacokinetic parameters did not differ significantly between those with normal hepatic function ( Group 1 ) and those with mild ( Child - Pugh class A ) hepatic impairment .
+However , in patients with moderate - to - severe hepatic dysfunction ( Child - Pugh class B and C ) , praziquantel half - life , Cmax , and AUC increased progressively with the degree of hepatic impairment .
+In Child - Pugh class B , the increases in mean half - life , Cmax , and AUC relative to Group 1 were 1 . 58 - fold , 1 . 76 - fold , and 3 . 55 - fold , respectively .
+The corresponding increases in Child - Pugh class C patients were 2 . 82 - fold , 4 . 29 - fold , and 15 - fold for half - life , Cmax , and AUC .
+Table 1 : Pharmacokinetic parameters of praziquantel in four groups of patients with varying degrees of liver function following administration of 40 mg / kg under fasting conditions . Patient Group Half - life ( hr ) Tmax ( hr ) Cmax ( µg / mL ) AUC ( µg / mL * hr ) a ) p < 0 . 05 compared to Group 1 b ) p < 0 . 05 compared to Group 2 c ) p < 0 . 05 compared to Group 3 Normal hepatic function ( Group 1 ) 2 . 99 ± 1 . 28 1 . 48 ± 0 . 74 0 . 83 ± 0 . 52 3 . 02 ± 0 . 59 Child - Pugh A ( Group 2 ) 4 . 66 ± 2 . 77 1 . 37 ± 0 . 61 0 . 93 ± 0 . 58 3 . 87 ± 2 . 44 Child - Pugh B ( Group 3 ) 4 . 74 ± 2 . 16 a 2 . 21 ± 0 . 78 a , b 1 . 47 ± 0 . 74 a , b 10 . 72 ± 5 . 53 a , b Child - Pugh C ( Group 4 ) 8 . 45 ± 2 . 62 a , b , c 3 . 2 ± 1 . 05 a , b , c 3 . 57 ± 1 . 30 a , b , c 45 . 35 ± 17 . 50 a , b , c INDICATIONS AND USAGE BILTRICIDE is indicated for the treatment of infections due to : all species of schistosoma ( for example , Schistosoma mekongi , Schistosoma japonicum , Schistosoma mansoni and Schistosoma hematobium ) , and infections due to the liver flukes , Clonorchis sinensis / Opisthorchis viverrini ( approval of this indication was based on studies in which the two species were not differentiated ) .
+CONTRAINDICATIONS BILTRICIDE is contraindicated in patients who previously have shown hypersensitivity to the drug or any of the excipients .
+Since parasite destruction within the eye may cause irreversible lesions , ocular cysticercosis must not be treated with this compound .
+Concomitant administration with strong Cytochrome P450 ( P450 ) inducers , such as rifampin , is contraindicated since therapeutically effective blood levels of praziquantel may not be achieved ( see PRECAUTIONS / Drug Interactions ) .
+In patients receiving rifampin who need immediate treatment for schistosomiasis , alternative agents for schistosomiasis should be considered .
+However , if treatment with praziquantel is necessary , rifampin should be discontinued 4 weeks before administration of praziquantel .
+Treatment with rifampin can then be restarted one day after completion of praziquantel treatment ( see PRECAUTIONS / Drug Interactions ) .
+WARNINGS Therapeutically effective levels of BILTRICIDE may not be achieved when administered concomitantly with strong P450 inducers , such as rifampin ( see CONTRAINDICATIONS ) .
+PRECAUTIONS General Approximately 80 % of a dose of praziquantel is excreted in the kidneys , almost exclusively ( > 99 % ) in the form of metabolites .
+Excretion might be delayed in patients with impaired renal function , but accumulation of unchanged drug would not be expected .
+Therefore , dose adjustment for renal impairment is not considered necessary .
+Nephrotoxic effects of praziquantel or its metabolites are not known .
+Caution should be exercised in the administration of the usual recommended dose of praziquantel to hepatosplenic schistosomiasis patients with moderate to severe liver impairment ( Child - Pugh class B and C ) .
+Reduced metabolism of praziquantel by the liver in these patients may lead to considerably higher and longer lasting plasma concentrations of unmetabolized praziquantel ( See CLINICAL PHARMACOLOGY / Special Populations ) .
+Minimal increases in liver enzymes have been reported in some patients .
+Patients suffering from cardiac irregularities should be monitored during treatment .
+As BILTRICIDE can exacerbate central nervous system pathology due to schistosomiasis , as a general rule this drug should not be administered to individuals reporting a history of epilepsy and / or other signs of potential central nervous systems involvement such as subcutaneous nodules suggestive of cysticercosis .
+When schistosomiasis or fluke infection is found to be associated with cerebral cysticercosis it is advised to hospitalize the patient for the duration of treatment .
+Published in vitro data have shown a potential lack of efficacy of praziquantel against migrating schistosomulae .
+Data from two observational cohort studies in patients indicate that treatment with praziquantel in the acute phase of infection may not prevent progression from asymptomatic infection to acute schistosomiasis or from asymptomatic infection / acute schistosomiasis into chronic phase .
+In addition , the use of praziquantel in patients with schistosomiasis may be associated with clinical deterioration ( paradoxical reactions , serum sickness Jarisch - Herxheimer like reactions : sudden inflammatory immune response suspected to be caused by the release of schistosomal antigens ) .
+These reactions predominantly occur in patients treated during the acute phase of schistosomiasis .
+They may lead to potentially life - threatening events , for example , respiratory failure , encephalopathy , and / or cerebral vasculitis .
+Information for Patients Patients should be warned not to drive a car and not to operate machinery on the day of BILTRICIDE treatment and the following day .
+Drug Interactions Concomitant administration of rifampin , a strong P450 inducer , with praziquantel is contraindicated and must be avoided ( see CONTRAINDICATIONS ) .
+In a crossover study with a 2 - week washout period , 10 healthy subjects ingested a single 40 mg / kg dose of praziquantel following pre - treatment with oral rifampin ( 600 mg daily for 5 days ) .
+Plasma praziquantel concentrations were undetectable in 7 out of 10 subjects .
+When a single 40 mg / kg dose of praziquantel was administered to these healthy subjects two weeks after discontinuation of rifampin , the mean praziquantel AUC and Cmax were 23 % and 35 % lower , respectively , than when praziquantel was given alone .
+In patients receiving rifampin , for example , as part of a combination regimen for the treatment of tuberculosis , alternative agents for schistosomiasis should be considered .
+However , if treatment with praziquantel is necessary , treatment with rifampin should be discontinued 4 weeks before administration of praziquantel .
+Treatment with rifampin can then be restarted one day after completion of praziquantel treatment .
+Concomitant administration of other drugs that increase the activity of drug metabolizing liver enzymes ( P450 inducers ) , for example , antiepileptic drugs ( phenytoin , phenobarbital and carbamazepine ) , and dexamethasone , may also reduce plasma levels of praziquantel .
+Concomitant administration of drugs that decrease the activity of drug metabolizing liver enzymes ( P 450 inhibitors ) , for example , cimetidine , ketoconazole , itraconazole , erythromycin may increase plasma levels of praziquantel .
+Grapefruit juice was reported to produce a 1 . 6 - fold increase in the Cmax and a 1 . 9 - fold increase in the AUC of praziquantel .
+However , the effect of this exposure increase on the therapeutic effect and safety of praziquantel has not been systematically evaluated .
+Mutagenesis , Carcinogenesis , Impairment of Fertility Mutagenicity studies of praziquantel published in the scientific literature are inconclusive .
+Long term oral carcinogenicity studies in rats and golden hamsters did not reveal any carcinogenic effect at doses up to 250 mg / kg / day ( about half of the human daily dose based on body surface area ) .
+Praziquantel had no effect on fertility and general reproductive performance of male and female rats when given at oral doses ranging from 30 to 300 mg / kg body weight ( up to 0 . 65 times the human daily dose based on body surface area ) .
+Pregnancy Category B Developmental toxicity studies have been performed in rats and rabbits at dose levels of 30 to 300 mg / kg body weight given repeatedly during the period of organogenesis .
+No harm to the fetus due to praziquantel was observed .
+These doses were up to 0 . 65 times ( rats ) or 1 . 3 times ( rabbits ) the highest recommended human daily dose of 75 mg / kg / day , based on body surface area .
+There are , however , no adequate and well - controlled studies in pregnant women .
+While animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+Nursing mothers Praziquantel appeared in the milk of nursing women at a concentration of about 1 / 4 that of maternal serum although it is not known , whether a pharmacological effect is likely to occur in children .
+Women should not nurse on the day of BILTRICIDE treatment and during the subsequent 72 hours .
+Pediatric use Safety in children under 4 years of age has not been established .
+Geriatric use Clinical studies of praziquantel did not include a sufficient number of subjects ages 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older patients cannot be ruled out .
+This drug is known to be substantially excreted by the kidney .
+Because elderly patients are more likely to have decreased renal function , the risk of toxic reactions to this drug may be greater in these patients .
+ADVERSE EVENTS The following side effects were observed generally in order of severity : malaise , headache , dizziness , abdominal discomfort with or without nausea , rise in temperature and urticaria .
+Such side effects may be more frequent and / or serious in patients with a heavy worm burden .
+Post Marketing Adverse Event Reports Additional adverse events reported from worldwide post marketing experience and from publications with praziquantel include : abdominal pain , allergic reaction ( generalized hypersensitivity , including polyserositis ) , anorexia , arrhythmia ( including bradycardia , ectopic rhythms , ventricular fibrillation , AV blocks ) , asthenia , bloody diarrhea , convulsion , eosinophilia , fatigue , myalgia , pruritus , rash , somnolence , vertigo and vomiting .
+OVERDOSAGE No data are available in humans .
+DOSAGE AND ADMINISTRATION The dosage recommended for the treatment of schistosomiasis is : 20 mg / kg bodyweight three times a day as a one day treatment , at intervals of not less than 4 hours and not more than 6 hours .
+The recommended dose for clonorchiasis and opisthorchiasis is : 25 mg / kg bodyweight three times a day as a one day treatment , at intervals of not less than 4 hours and not more than 6 hours .
+The tablets should be washed down unchewed with water during meals .
+Keeping the tablets or segments thereof in the mouth can reveal a bitter taste which can promote gagging or vomiting .
+HOW SUPPLIED BILTRICIDE is supplied as a 600 mg white to orange tinged , film - coated , oblong tablet with three scores .
+The tablet is coded with " BAYER " on one side and " LG " on the reverse side .
+When broken , each of the four segments contains 150 mg of active ingredient so that the dosage can be easily adjusted to the patient ' s bodyweight .
+Segments are broken off by pressing the score ( notch ) with thumbnails .
+If 1 / 4 of a tablet is required , this is best achieved by breaking the segment from the outer end .
+BILTRICIDE is available in bottles of 6 tablets .
+Bottles of 6 Strength 600 mg NDC 50419 - 747 - 01 Store below 86 ° F ( 30 ° C ) .
+Manufactured for : Bayer HealthCare Pharmaceuticals Inc .
+Whippany , NJ 07981 Manufactured in Germany BILTRICIDE is a registered trademark of Bayer Aktiengesellschaft .
+Rx Only 2 / 14 © 2014 Bayer HealthCare Pharmaceuticals Inc .
+Printed in USA PRINCIPAL DISPLAY PANEL - 600 MG Tablet Bottle Label Austin / Travis Co .
+Health & Human Services Dept .
+Biltricide 600 MG Tab # 4 Date : Name : Dr . Take 2 tablets by mouth 2 times a day for 1 day 123456 01 / 01 / 01 Biltricide 600 MG Tab # 4 NDC 76413 - 146 - 04 Batch : 123456 Lot : 123456 Exp : 01 / 01 / 01 BAYER Federal law prohibits the transfer of this drug to any other person than the patient for whom prescribed .
+[ MULTIMEDIA ] [ MULTIMEDIA ]

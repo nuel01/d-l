@@ -1,0 +1,194 @@
+DESCRIPTION Quinidine is an antimalarial schizonticide and an antiarrhythmic agent with class 1 A activity ; it is the - isomer of quinine , and its molecular weight is 324 . 43 .
+d Quinidine sulfate is the sulfate salt of quinidine ; its chemical name is cinchonan - 9 - ol , 6 ’ - methoxy - , ( 9 ) - , sulfate ( 2 : 1 ) dihydrate ; its structural formula is : S [ MULTIMEDIA ] Its molecular formula is : C H N O • H SO • 2 H O ; and its molecular weight is 782 . 96 , of which 82 . 9 % is quinidine base .
+404844242 Quinidine sulfate occurs as fine needle - like , white crystals , frequently cohering in masses , or fine , white powder .
+It is odorless , has a very bitter taste , and darkens on exposure to light .
+It is slightly soluble in water , soluble in alcohol and in chloroform , and insoluble in ether .
+Each tablet , for oral administration , contains 200 mg and 300 mg of quinidine sulfate ( equivalent to 166 mg or 249 mg of quinidine base ) .
+In addition , each tablet contains the following inactive ingredients : calcium stearate , microcrystalline cellulose , sodium starch glycolate and starch ( corn ) .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Pharmacokinetics and Metabolism The absolute bioavailability of quinidine from quinidine sulfate tablets is about 70 % , but this varies widely ( 45 to 100 % ) between patients .
+The less - than - complete bioavailability is the result of first - pass metabolism in the liver .
+Peak serum levels generally appear about 2 hours after dosing ; the rate of absorption is somewhat slowed when the drug is taken with food , but the extent of absorption is not changed .
+The of quinidine is 2 to 3 L / kg in healthy young adults , but this may be reduced to as little as 0 . 5 L / kg in patients with congestive heart failure , or increased to 3 to 5 L / kg in patients with cirrhosis of the liver .
+At concentrations of 2 to 5 mg / L ( 6 . 5 to 16 . 2 μmol / L ) , the fraction of quinidine bound to plasma proteins ( mainly to α - acid glycoprotein and to albumin ) is 80 to 88 % in adults and older children , but it is lower in pregnant women , and in infants and neonates it may be as low as 50 to 70 % .
+Because α - acid glycoprotein levels are increased in response to stress , serum levels of total quinidine may be greatly increased in settings such as acute myocardial infarction , even though the serum content of unbound ( active ) drug may remain normal .
+Protein binding is also increased in chronic renal failure , but binding abruptly descends toward or below normal when heparin is administered for hemodialysis .
+volume of distribution11 Quinidine typically proceeds at 3 to 5 mL / min / kg in adults , but clearance in children may be twice or three times as rapid .
+The elimination half - life is 6 to 8 hours in adults and 3 to 4 hours in children .
+Quinidine clearance is unaffected by hepatic cirrhosis , so the increased volume of distribution seen in cirrhosis leads to a proportionate increase in the elimination half - life .
+clearance Most quinidine is eliminated hepatically via the action of cytochrome P450IIIA4 ; there are several different hydroxylated metabolites , and some of these have antiarrhythmic activity .
+The most important of quinidine ’ s metabolites is 3 - hydroxyquinidine ( 3 HQ ) , serum levels of which can exceed those of quinidine in patients receiving conventional doses of quinidine sulfate .
+The volume of distribution of 3 HQ appears to be larger than that of quinidine , and the elimination half - life of 3 HQ is about 12 hours .
+As measured by antiarrhythmic effects in animals , by QT prolongation in human volunteers , or by various techniques , 3 HQ has at least half the antiarrhythmic activity of the parent compound , so it may be responsible for a substantial fraction of the effect of quinidine sulfate in chronic use .
+Cin vitro When the urine pH is less than 7 , about 20 % of administered quinidine appears unchanged in the urine , but this fraction drops to as little as 5 % when the urine is more alkaline .
+Renal clearance involves both glomerular filtration and active tubular secretion , moderated by ( pH - dependent ) tubular reabsorption .
+The net renal clearance is about 1 mL / min / kg in healthy adults .
+When renal function is taken into account , quinidine clearance is apparently independent of patient age .
+of serum quinidine levels are widely available , but the results of modern assays may not be consistent with results cited in the older medical literature .
+The serum levels of quinidine cited in this package insert are those derived from specific assays , using either benzene extraction or ( preferably ) reverse - phase high - pressure liquid chromatography .
+In matched samples , older assays might unpredictably have given results that were as much as two or three times higher .
+A typical “ therapeutic ” concentration range is 2 to 6 mg / L ( 6 . 2 to 18 . 5 μmol / L ) .
+Assays Mechanisms of Action In patients with malaria , quinidine acts primarily as an intra - erythrocytic schizonticide , with little effect upon sporozites or upon pre - erythrocytic parasites .
+Quinidine is gametocidal to and but not to Plasmodium vivaxP .
+malariae , P . falciparum .
+In cardiac muscle and in Purkinje fibers , quinidine depresses the rapid inward depolarizing sodium current , thereby slowing phase - 0 depolarization and reducing the amplitude of the action potential without affecting the resting potential .
+In normal Purkinje fibers , it reduces the slope of phase - 4 depolarization , shifting the threshold voltage upward toward zero .
+The result is slowed conduction and reduced automaticity in all parts of the heart , with increase of the effective refractory period relative to the duration of the action potential in the atria , ventricles , and Purkinje tissues .
+Quinidine also raises the fibrillation thresholds of the atria and ventricles , and it raises the ventricular fibrillation threshold as well .
+Quinidine ’ s actions fall into class 1 A in the Vaughan - Williams classification .
+de By slowing conduction and prolonging the effective refractory period , quinidine can interrupt or prevent reentrant arrhythmias and arrhythmias due to increased automaticity , including atrial flutter , atrial fibrillation , and paroxysmal supraventricular tachycardia .
+In patients with the sick sinus syndrome , quinidine can cause marked sinus node depression and bradycardia .
+In most patients , however , use of quinidine is associated with an increase in the sinus rate .
+Quinidine prolongs the QT interval in a dose - related fashion .
+This may lead to increased ventricular automaticity and polymorphic ventricular tachycardias , including ( see ) .
+torsades de pointesWARNINGS In addition , quinidine has anticholinergic activity , it has negative inotropic activity , and it acts peripherally as an α - adrenergic antagonist ( that is , as a vasodilator ) .
+Clinical Effects In six clinical trials ( published between 1970 and 1984 ) with a total of 808 patients , quinidine ( 418 patients ) was compared to nontreatment ( 258 patients ) or placebo ( 132 patients ) for the maintenance of sinus rhythm after cardioversion from chronic atrial fibrillation .
+Quinidine was consistently more efficacious in maintaining sinus rhythm , but a meta - analysis found that mortality in the quinidine - exposed patients ( 2 . 9 % ) was significantly greater than mortality in the patients who had not been treated with active drug ( 0 . 8 % ) .
+Suppression of atrial fibrillation with quinidine has theoretical patient benefits ( improved exercise tolerance ; reduction in hospitalization for cardioversion ; lack of arrhythmia - related palpitations , dyspnea , and chest pain ; reduced incidence of systemic embolism and / or stroke ) , but these benefits have never been demonstrated in clinical trials .
+Some of these benefits ( reduction in stroke incidence ) may be achievable by other means ( anticoagulation ) .
+Maintenance of sinus rhythm after conversion from atrial fibrillation : e . g . , e . g . , By slowing the rate of atrial flutter / fibrillation , quinidine can decrease the degree of atrioventricular block and cause an increase , sometimes marked , in the rate at which supraventricular impulses are successfully conducted by the atrioventricular node , with a resultant paradoxical increase in ventricular rate ( see ) .
+In studies of patients with a variety of ventricular arrhythmias ( mainly frequent ventricular premature beats and non - sustained ventricular tachycardia ) , quinidine ( total N = 502 ) has been compared to flecainide ( N = 141 ) , mexiletine ( N = 246 ) , propafenone ( N = 53 ) , and tocainide ( N = 67 ) .
+In each of these studies , the mortality in the quinidine group was numerically greater than the mortality in the comparator group .
+When the studies were combined in a meta - analysis , quinidine was associated with a statistically significant threefold relative risk of death .
+WARNINGSNon - life - threatening ventricular arrhythmias : At therapeutic doses , quinidine ’ s only consistent effect upon the surface electrocardiogram is an increase in the QT interval .
+This prolongation can be monitored as a guide to safety , and it may provide better guidance than serum drug levels ( see ) .
+WARNINGS INDICATIONS AND USAGE Conversion of atrial fibrillation / flutter In patients with symptomatic atrial fibrillation / flutter whose symptoms are not adequately controlled by measures that reduce the rate of ventricular response , quinidine sulfate is indicated as a means of restoring normal sinus rhythm .
+If this use of quinidine sulfate does not restore sinus rhythm within a reasonable time ( see ) , then quinidine sulfate should be discontinued .
+DOSAGE AND ADMINISTRATION Reduction of frequency of relapse into atrial fibrillation / flutter Chronic therapy with quinidine sulfate is indicated for some patients at high risk of symptomatic atrial fibrillation / flutter , generally patients who have had previous episodes of atrial fibrillation / flutter that were so frequent and poorly tolerated as to outweigh , in the judgment of the physician and the patient , the risks of prophylactic therapy with quinidine sulfate .
+The increased risk of death should specifically be considered .
+Quinidine sulfate should be used only after alternative measures ( use of other drugs to control the ventricular rate ) have been found to be inadequate .
+e . g . , In patients with histories of frequent symptomatic episodes of atrial fibrillation / flutter , the goal of therapy should be an increase in the average time between episodes .
+In most patients , the tachyarrhythmia during therapy , and a single recurrence should not be interpreted as therapeutic failure .
+will recur Suppression of ventricular arrhythmias Quinidine sulfate is also indicated for the suppression of recurrent documented ventricular arrhythmias , such as sustained ventricular tachycardia , that in the judgment of the physician are life - threatening .
+Because of the proarrhythmic effects of quinidine , its use with ventricular arrhythmias of lesser severity is generally not recommended , and treatment of patients with asymptomatic ventricular premature contractions should be avoided .
+Where possible , therapy should be guided by the results of programmed electrical stimulation and / or Holter monitoring with exercise .
+Antiarrhythmic drugs ( including quinidine sulfate ) have not been shown to enhance survival in patients with ventricular arrhythmias .
+Treatment of malaria Quinidine sulfate is also indicated in the treatment of life - threatening malaria .
+Plasmodium falciparum CONTRAINDICATIONS Quinidine is contraindicated in patients who are known to be allergic to it , or who have developed thrombocytopenic purpura during prior therapy with quinidine or quinine .
+In the absence of a functioning artificial pacemaker , quinidine is also contraindicated in any patient whose cardiac rhythm is dependent upon a junctional or idioventricular pacemaker , including patients in complete atrioventricular block .
+Quinidine is also contraindicated in patients who , like those with myasthenia gravis , might be adversely affected by an anticholinergic agent .
+WARNINGS Mortality In many trials of antiarrhythmic therapy for non - life - threatening arrhythmias , active antiarrhythmic therapy has resulted in increased mortality ; the risk of active therapy is probably greatest in patients with structural heart disease .
+In the case of quinidine used to prevent or defer recurrence of atrial flutter / fibrillation , the best available data come from a meta - analysis described underCLINICAL PHARMACOLOGY / Clinical Effectsabove .
+In the patients studied in the trials there analyzed , the mortality associated with the use of quinidine was more than three times as great as the mortality associated with the use of placebo .
+Another meta - analysis , also described underCLINICAL PHARMACOLOGY / Clinical Effects , showed that in patients with various non - life - threatening ventricular arrhythmias , the mortality associated with the use of quinidine was consistently greater than that associated with the use of any of a variety of alternative antiarrhythmics .
+Proarrhythmic effects Like many other drugs ( including all other class IA antiarrhythmics ) , quinidine prolongs the QT interval , and this can lead to a life - threatening ventricular arrhythmia ( see ) .
+The risk of is increased by bradycardia , hypokalemia , hypomagnesemia , hypocalcemia , or high serum levels of quinidine , but it may appear in the absence of any of these risk factors .
+The best predictor of this arrhythmia appears to be the length of the QT interval , and quinidine should be used with extreme care in patients who have preexisting long - QT syndromes , who have histories of of any cause , or who have previously responded to quinidine ( or other drugs that prolong ventricular repolarization ) with marked lengthening of the QT interval .
+Estimation of the incidence of in patients with therapeutic levels of quinidine is not possible from the available data .
+Ctorsades de pointes , OVERDOSAGEtorsadesCtorsades de pointesCtorsades Other ventricular arrhythmias that have been reported with quinidine include frequent extrasystoles , ventricular tachycardia , ventricular flutter , and ventricular fibrillation .
+Paradoxical increase in ventricular rate in atrial flutter / fibrillation When quinidine is administered to patients with atrial flutter / fibrillation , the desired pharmacologic reversion to sinus rhythm may ( rarely ) be preceded by a slowing of the atrial rate with a consequent increase in the rate of beats conducted to the ventricles .
+The resulting ventricular rate may be very high ( greater than 200 beats per minute ) and poorly tolerated .
+This hazard may be decreased if partial atrioventricular block is achieved prior to initiation of quinidine therapy , using conduction - reducing drugs such as digitalis , verapamil , diltiazem , or a ß - receptor blocking agent .
+Exacerbated bradycardia in sick sinus syndrome In patients with the sick sinus syndrome , quinidine has been associated with marked sinus node depression and bradycardia .
+Pharmacokinetic considerations Renal or hepatic dysfunction causes the elimination of quinidine to be slowed , while congestive heart failure causes a reduction in quinidine ’ s apparent volume of distribution .
+Any of these conditions can lead to quinidine toxicity if dosage is not appropriately reduced .
+In addition , interactions with coadministered drugs can alter the serum concentration and activity of quinidine , leading either to toxicity or to lack of efficacy if the dose of quinidine is not appropriately modified .
+( See ) PRECAUTIONS / Drug Interactions .
+Vagolysis Because quinidine opposes the atrial and A - V nodal effects of vagal stimulation , physical or pharmacological vagal maneuvers undertaken to terminate paroxysmal supraventricular tachycardia may be ineffective in patients receiving quinidine .
+PRECAUTIONS Heart Block In patients without implanted pacemakers who are at high risk of complete atrioventricular block ( those with digitalis intoxication , second - degree atrioventricular block , or severe intraventricular conduction defects ) , quinidine should be used only with caution .
+e . g . , Drug Interactions Drugs that alkalinize the urine ( ) reduce renal elimination of quinidine .
+Altered pharmacokinetics of quinidine : carbonic - anhydrase inhibitors , sodium bicarbonate , thiazide diuretics By pharmacokinetic mechanisms that are not well understood , quinidine levels are increased by coadministration of or .
+Very rarely , and again by mechanisms not understood , quinidine levels are decreased by coadministration of .
+amiodaronecimetidinenifedipine Hepatic elimination of quinidine may be accelerated by coadministration of drugs ( ) that induce production of cytochrome P450IIIA4 .
+phenobarbital , phenytoin , rifampin Perhaps because of competition for the P450IIIA4 metabolic pathway , quinidine levels rise when is coadministered .
+ketaconazole Coadministration of usually does not affect quinidine pharmacokinetics , but in some studies the ß - blocker appeared to cause increases in the peak serum levels of quinidine , decreases in quinidine ’ s volume of distribution , and decreases in total quinidine clearance .
+The effects ( if any ) of coadministration of on quinidine pharmacokinetics have not been adequately studied .
+propranololother ß - blockers Hepatic clearance of quinidine is significantly reduced during coadministration of , with corresponding increases in serum levels and half - life .
+verapamil Quinidine slows the elimination of and simultaneously reduces digoxin ’ s apparent volume of distribution .
+As a result , serum digoxin levels may be as much as doubled .
+When quinidine and digoxin are coadministered , digoxin doses usually need to be reduced .
+Serum levels of are also raised when quinidine is coadministered , although the effect appears to be smaller .
+Altered pharmacokinetics of other drugs : digoxindigitoxin By a mechanism that is not understood , quinidine potentiates the anticoagulatory action of , and the anticoagulant dosage may need to be reduced .
+warfarin Cytochrome P450IID6 is an enzyme critical to the metabolism of many drugs , notably including , some , and most Constitutional deficiency of cytochrome P450IID6 is found in less than 1 % of Orientals , in about 2 % of American blacks , and in about 8 % of American whites .
+Testing with debrisoquine is sometimes used to distinguish the P450IID6 - deficient “ poor metabolizers ” from the majority - phenotype “ extensive metabolizers ” .
+mexiletinephenothiazinespolycyclic antidepressants .
+When drugs whose metabolism is P450IID6 - dependent are given to poor metabolizers , the serum levels achieved are higher , sometimes much higher , than the serum levels achieved when identical doses are given to extensive metabolizers .
+To obtain similar clinical benefit without toxicity , doses given to poor metabolizers may need to be greatly reduced .
+In the cases of prodrugs whose actions are actually mediated by P450IID6 - produced metabolites ( for example , and , whose analgesic and antitussive effects appear to be mediated by morphine and hydromorphone , respectively ) , it may not be possible to achieve the desired clinical benefits in poor metabolizers .
+codeinehydrocodone Quinidine is not metabolized by cytochrome P450IID6 , but therapeutic serum levels of quinidine inhibit the action of cytochrome P450IID6 , effectively converting extensive metabolizers into poor metabolizers .
+Caution must be exercised whenever quinidine is prescribed together with drugs metabolized by cytochrome P450IID6 .
+Perhaps by competing for pathways of renal clearance , coadministration of quinidine causes an increase in serum levels of .
+procainamide Serum levels of are increased when quinidine is coadministered .
+haloperidol Presumably because both drugs are metabolized by cytochrome P450IIIA4 , coadministration of quinidine causes variable slowing of the metabolism of .
+Interactions with other dihydropyridine calcium - channel blockers have not been reported , but these agents ( including , , and ) are all dependent upon P450IIIA4 for metabolism , so similar interactions with quinidine should be anticipated .
+nifedipinefelodipinenicardipinenimodipine Quinidine ’ s anticholinergic , vasodilating , and negative inotropic actions may be additive to those of other drugs with these effects , and antagonistic to those of drugs with cholinergic , vasoconstricting , and positive inotropic effects .
+For example , when quinidine and are coadministered in doses that are each well tolerated as monotherapy , hypotension attributable to additive peripheral α - blockade is sometimes reported .
+Altered pharmacodynamics of other drugs : verapamil Quinidine potentiates the actions of depolarizing ( succinylcholine , decamethonium ) and nondepolarizing ( - tubocurarine , pancuronium ) .
+These phenomena are not well understood , but they are observed in animal models as well as in humans .
+In addition , addition of quinidine to the serum of pregnant women reduces the activity of pseudocholinesterase , an enzyme that is essential to the metabolism of succinylcholine .
+dneuromuscular blocking agentsin vitro Quinidine has no clinically significant effect on the pharmacokinetics of or Non - interactions of quinidine with other drugs : diltiazem , flecainide , mephenytoin , metoprolol , propafenone , propranolol , quinine , timolol , tocainide .
+Conversely , the pharmacokinetics of quinidine are not significantly affected by or Quinidine ’ s pharmacokinetics are also unaffected by cigarette smoking .
+caffeine , ciprofloxacin , digoxin , diltiazem , felodipine , omeprazole , quinine .
+Information for patients Before prescribing quinidine sulfate as prophylaxis against recurrence of atrial fibrillation , the physician should inform the patient of the risks and benefits to be expected ( see ) .
+Discussion should include the facts : CLINICAL PHARMACOLOGY • that the goal of therapy will be a reduction ( probably not to zero ) in the frequency of episodes of atrial fibrillation ; and • that reduced frequency of fibrillatory episodes may be expected , if achieved , to bring symptomatic benefit ; but • that no data are available to show that reduced frequency of fibrillatory episodes will reduce the risks of irreversible harm through stroke or death ; and in fact • that such data as are available suggest that treatment with quinidine sulfate is likely to increase the patient ’ s risk of death .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Animal studies to evaluate quinidine ’ s carcinogenic or mutagenic potential have not been performed .
+Similarly , there are no animal data as to quinidine ’ s potential to impair fertility .
+Pregnancy Pregnancy Category C Animal reproductive studies have not been conducted with quinidine .
+There are no adequate and well - controlled studies in pregnant women .
+Quinidine should be given to a pregnant woman only if clearly needed .
+Human placental transport of quinidine has not been systematically studied .
+In one neonate whose mother had received quinidine throughout her pregnancy , the serum level of quinidine was equal to that of the mother , with no apparent ill effect .
+The level of quinidine in amniotic fluid was about three times higher than that found in serum .
+In another case , the levels of quinidine and 3 - hydroxyquinidine in cord blood were about 30 % of simultaneous maternal levels .
+Labor and Delivery Quinine is said to be oxytocic in humans , but there are no adequate data as to quinidine ’ s effects ( if any ) on human labor and delivery .
+Nursing Mothers Quinidine is present in human milk at levels slightly lower than those in maternal serum ; a human infant ingesting such milk should ( scaling directly by weight ) be expected to develop serum quinidine levels at least an order of magnitude lower than those of the mother .
+On the other hand , the pharmacokinetics and pharmacodynamics of quinidine in human infants have not been adequately studied , and neonates ’ reduced protein binding of quinidine may increase their risk of toxicity at low total serum levels .
+Administration of quinidine should ( if possible ) be avoided in lactating women who continue to nurse .
+Geriatric Use Safety and efficacy of quinidine in elderly patients has not been systematically studied .
+Pediatric Use In antimalarial trials , quinidine was as safe and effective in pediatric patients as in adults .
+Notwithstanding the known pharmacokinetic differences between children and adults ( see ) , children in these trials received the same doses ( on a mg / kg basis ) as adults .
+CLINICAL PHARMACOLOGY , Pharmacokinetics and Metabolism Safety and effectiveness of antiarrhythmic use in pediatric patients have not been established .
+ADVERSE REACTIONS Quinidine preparations have been used for many years , but there are only sparse data from which to estimate the incidence of various adverse reactions .
+The adverse reactions most frequently reported have consistently been gastrointestinal , including diarrhea , nausea , vomiting , and heartburn / esophagitis .
+In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions , the incidences of reported adverse experiences were as shown in the table below .
+The most serious quinidine - associated adverse reactions are described above under .
+WARNINGS Adverse Experiences in a 245 - Patient PVC Trial Incidence ( % ) diarrhea 85 ( 35 ) “ upper gastrointestinal distress ” 55 ( 22 ) lightheadedness 37 ( 15 ) headache 18 ( 7 ) fatigue 17 ( 7 ) palpitations 16 ( 7 ) angina - like pain 14 ( 6 ) weakness 13 ( 5 ) rash 11 ( 5 ) visual problems 8 ( 3 ) change in sleep habits 7 ( 3 ) tremor 6 ( 2 ) nervousness 5 ( 2 ) discoordination 3 ( 1 ) Vomiting and diarrhea can occur as isolated reactions to therapeutic levels of quinidine , but they may also be the first signs of , a syndrome that may also include tinnitus , reversible high - frequency hearing loss , deafness , vertigo , blurred vision , diplopia , photophobia , headache , confusion , and delirium .
+Cinchonism is most often a sign of chronic quinidine toxicity , but it may appear in sensitive patients after a single moderate dose .
+cinchonism A few cases of , including granulomatous hepatitis , have been reported in patients receiving quinidine .
+All of these have appeared during the first few weeks of therapy , and most ( not all ) have remitted once quinidine was withdrawn .
+hepatotoxicity associated with quinidine therapy have included fever , urticaria , flushing , exfoliative rash , bronchospasm , psoriaform rash , pruritus and lymphadenopathy , hemolytic anemia , vasculitis , pneumonitis , thrombocytopenic purpura , uveitis , angioedema , agranulocytosis , the sicca syndrome , arthralgia , myalgia , elevation in serum levels of skeletal - muscle enzymes , and a disorder resembling systemic lupus erythematosus .
+Autoimmune and inflammatory syndromes Convulsions , apprehension , and ataxia have been reported , but it is not clear that these were not simply the results of hypotension and consequent cerebral hypoperfusion .
+There are many reports of syncope .
+Acute psychotic reactions have been reported to follow the first dose of quinidine , but these reactions appear to be extremely rare .
+Other adverse reactions occasionally reported include depression , mydriasis , disturbed color perception , night blindness , scotomata , optic neuritis , visual field loss , photosensitivity , and abnormalities of pigmentation .
+OVERDOSAGE Overdoses with various oral formulations of quinidine have been well described .
+Death has been described after a 5 - gram ingestion by a toddler , while an adolescent was reported to survive after ingesting 8 grams of quinidine .
+The most important ill effects of acute quinidine overdoses are ventricular arrhythmias and hypotension .
+Other signs and symptoms of overdose may include vomiting , diarrhea , tinnitus , high - frequency hearing loss , vertigo , blurred vision , diplopia , photophobia , headache , confusion , and delirium .
+Arrhythmias Serum quinidine levels can be conveniently assayed and monitored , but the electrocardiographic QT interval is a better predictor of quinidine - induced ventricular arrhythmias .
+C The necessary treatment of hemodynamically unstable polymorphic ventricular tachycardia ( including ) is withdrawal of treatment with quinidine and either immediate cardioversion or , if a cardiac pacemaker is in place or immediately available , immediate overdrive pacing .
+After pacing or cardioversion , further management must be guided by the length of the QT interval .
+torsades de pointesC Quinidine - associated ventricular tachyarrhythmias with normal underlying QT intervals have not been adequately studied .
+Because of the theoretical possibility of QT - prolonging effects that might be additive to those of quinidine , other antiarrhythmics with Class I ( disopyramide , procainamide ) or Class III activities should ( if possible ) be avoided .
+Similarly , although the use of bretylium in quinidine overdose has not been reported , it is reasonable to expect that the α - blocking properties of bretylium might be additive to those of quinidine , resulting in problematic hypotension .
+C If the post - cardioversion QT interval is prolonged , then the pre - cardioversion polymorphic ventricular tachyarrhythmia was ( by definition ) In this case , lidocaine and bretylium are unlikely to be of value , and other Class I antiarrhythmics ( disopyramide , procainamide ) are likely to exacerbate the situation .
+Factors contributing to QT prolongation ( especially hypokalemia , hypomagnesemia , and hypocalcemia ) should be sought out and ( if possible ) aggressively corrected .
+Prevention of recurrent may require sustained overdrive pacing or the cautious administration of isoproterenol ( 30 to 150 ng / kg / min ) .
+Ctorsades de pointes . Ctorsades Hypotension Quinidine - induced hypotension that is not due to an arrhythmia is likely to be a consequence of quinidine - related α - blockade and vasorelaxation .
+Simple repletion of central volume ( Trendelenburg positioning , saline infusion ) may be sufficient therapy ; other interventions reported to have been beneficial in this setting are those that increase peripheral vascular resistance , including α - agonist catecholamines ( norepinephrine , metaraminol ) and the Military Anti - Shock Trousers .
+Treatment To obtain up - to - date information about the treatment of overdose , a good resource is your certified Regional Poison - Control Center .
+Telephone numbers of certified poison - control centers are listed in the In managing overdose , consider the possibilities of multiple - drug overdoses , drug - drug interactions , and unusual drug kinetics in your patient .
+Physicians ’ Desk Reference ( PDR ) .
+Accelerated removal Adequate studies of orally - administered activated charcoal in human overdoses of quinidine have not been reported , but there are animal data showing significant enhancement of systemic elimination following this intervention , and there is at least one human case report in which the elimination half - life of quinidine in the serum was apparently shortened by repeated gastric lavage .
+Activated charcoal should be avoided if an ileus is present ; the conventional dose is 1 gram / kg , administered every 2 to 6 hours as a slurry with 8 mL / kg of tap water .
+Although renal elimination of quinidine might theoretically be accelerated by maneuvers to acidify the urine , such maneuvers are potentially hazardous and of no demonstrated benefit .
+Quinidine is not usefully removed from the circulation by dialysis .
+Following quinidine overdose , drugs that delay elimination of quinidine ( cimetidine , carbonic - anhydrase inhibitors , thiazide diuretics ) should be withdrawn unless absolutely required .
+DOSAGE AND ADMINISTRATION Treatment of P . falciparum malaria Quinidine sulfate tablets are used in one of the approved regimens for the treatment of life - threatening malaria .
+The central component of the regimen is Quinidine Gluconate Injection , and the regimen is described in the package insert of Quinidine Gluconate Injection .
+P . falciparum Conversion of atrial fibrillation / flutter to sinus rhythm Especially in patients with known structural heart disease or other risk factors for toxicity , initiation or dose - adjustment of treatment with quinidine sulfate should generally be performed in a setting where facilities and personnel for monitoring and resuscitation are continuously available .
+Patients with symptomatic atrial fibrillation / flutter should be treated with quinidine sulfate only after ventricular rate control ( with digitalis or ß - blockers ) has failed to provide satisfactory control of symptoms .
+e . g . , Adequate trials have not identified an optimal regimen of quinidine sulfate for conversion of atrial fibrillation / flutter to sinus rhythm .
+In one reported regimen , the patient first receives two tablets ( 400 mg ; 332 mg of quinidine base ) of quinidine sulfate every six hours .
+If this regimen has not resulted in conversion after 4 or 5 doses , then the dose is cautiously increased .
+If , at any point during administration , the QRS complex widens to 130 % of its pre - treatment duration ; the QT interval widens to 130 % of its pre - treatment duration and is then longer than 500 ms ; P waves disappear ; or the patient develops significant tachycardia , symptomatic bradycardia , or hypotension , then quinidine sulfate is discontinued , and other means of conversion ( direct - current cardioversion ) are considered .
+Ce . g . , Reduction of frequency of release into atrial fibrillation / flutter In a patient with a history of frequent symptomatic episodes of atrial fibrillation / flutter , the goal of therapy with quinidine sulfate should be an increase in the average time between episodes .
+In most patients , the tachyarrhythmia during therapy with quinidine sulfate , and a single recurrence should not be interpreted as therapeutic failure .
+will recur Especially in patients with known structural heart disease or other risk factors for toxicity , initiation or dose - adjustment of treatment with quinidine sulfate should generally be performed in a setting where facilities and personnel for monitoring and resuscitation are continuously available .
+Monitoring should be continued for two or three days after initiation of the regimen on which the patient will be discharged .
+Therapy with quinidine sulfate should be begun with 200 mg ( equivalent to 166 mg of quinidine base ) every six hours .
+If this regimen is well tolerated , if the serum quinidine level is still well within the laboratory ’ s therapeutic range , and if the average time between arrhythmic episodes has not been satisfactorily increased , then the dose may be cautiously raised .
+The total daily dosage should be reduced if the QRS complex widens to 130 % of its pre - treatment duration ; the QT interval widens to 130 % of its pre - treatment duration and is then longer than 500 ms ; P waves disappear ; or the patient develops significant tachycardia , symptomatic bradycardia , or hypotension .
+C Suppression of ventricular arrhythmias Dosing regimens for the use of quinidine sulfate in suppressing life - threatening ventricular arrhythmias have not been adequately studied .
+Described regimens have generally been similar to the regimen described just above for the prophylaxis of symptomatic atrial fibrillation / flutter .
+Where possible , therapy should be guided by the results of programmed electrical stimulation and / or Holter monitoring with exercise .
+HOW SUPPLIED NDC : 68151 - 1991 - 0 in a PACKAGE of 1 TABLETS Quinidine Sulfate 200 mg tabs [ MULTIMEDIA ] [ MULTIMEDIA ]

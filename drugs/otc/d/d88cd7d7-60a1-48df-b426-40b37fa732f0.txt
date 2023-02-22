@@ -1,0 +1,488 @@
+DESCRIPTION IMITREX ( sumatriptan succinate ) Injection is a selective 5 - hydroxytryptamine1 receptor subtype agonist .
+Sumatriptan succinate is chemically designated as 3 - [ 2 - ( dimethylamino ) ethyl ] - N - methyl - indole - 5 - methanesulfonamide succinate ( 1 : 1 ) , and it has the following structure : [ MULTIMEDIA ] The empirical formula is C14H21N3O2S • C4H6O4 , representing a molecular weight of 413 . 5 .
+Sumatriptan succinate is a white to off - white powder that is readily soluble in water and in saline .
+IMITREX Injection is a clear , colorless to pale yellow , sterile , nonpyrogenic solution for subcutaneous injection .
+Each 0 . 5 mL of IMITREX Injection 8 mg / mL solution contains 4 mg of sumatriptan ( base ) as the succinate salt and 3 . 8 mg of sodium chloride , USP in Water for Injection , USP .
+Each 0 . 5 mL of IMITREX Injection 12 mg / mL solution contains 6 mg of sumatriptan ( base ) as the succinate salt and 3 . 5 mg of sodium chloride , USP in Water for Injection , USP .
+The pH range of both solutions is approximately 4 . 2 to 5 . 3 .
+The osmolality of both injections is 291 mOsmol .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Sumatriptan is a selective agonist for a vascular 5 - hydroxytryptamine1 receptor subtype ( probably a member of the 5 - HT1D family ) with no significant affinity ( as measured using standard radioligand binding assays ) or pharmacological activity at 5 - HT2 , 5 - HT3 receptor subtypes or at alpha1 - , alpha2 - , or beta - adrenergic ; dopamine1 ; dopamine2 ; muscarinic ; or benzodiazepine receptors .
+The vascular 5 - HT1 receptor subtype to which sumatriptan binds selectively , and through which it presumably exerts its antimigrainous effect , is present on cranial arteries in both dog and primate , on the human basilar artery , and in the vasculature of the isolated dura mater of humans .
+In these tissues , sumatriptan activates this receptor to cause vasoconstriction , an action in humans correlating with the relief of migraine and cluster headache .
+In the anesthetized dog , sumatriptan selectively reduces the carotid arterial blood flow with little or no effect on arterial blood pressure or total peripheral resistance .
+In the cat , sumatriptan selectively constricts the carotid arteriovenous anastomoses while having little effect on blood flow or resistance in cerebral or extracerebral tissues .
+Corneal Opacities Dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium .
+Corneal opacities were seen at the lowest dosage tested , 2 mg / kg / day , and were present after 1 month of treatment .
+Defects in the corneal epithelium were noted in a 60 - week study .
+Earlier examinations for these toxicities were not conducted and no - effect doses were not established ; however , the relative exposure at the lowest dose tested was approximately 5 times the human exposure after a 100 - mg oral dose or 3 times the human exposure after a 6 - mg subcutaneous dose .
+Melanin Binding In rats with a single subcutaneous dose ( 0 . 5 mg / kg ) of radiolabeled sumatriptan , the elimination half - life of radioactivity from the eye was 15 days , suggesting that sumatriptan and its metabolites bind to the melanin of the eye .
+The clinical significance of this binding is unknown .
+Pharmacokinetics Pharmacokinetic parameters following a 6 - mg subcutaneous injection into the deltoid area of the arm in 9 males ( mean age : 33 years , mean weight : 77 kg ) were systemic clearance : 1 , 194 ± 149 mL / min ( mean ± S . D . ) , distribution half - life : 15 ± 2 minutes , terminal half - life : 115 ± 19 minutes , and volume of distribution central compartment : 50 ± 8 liters .
+Of this dose , 22 % ± 4 % was excreted in the urine as unchanged sumatriptan and 38 % ± 7 % as the indole acetic acid metabolite .
+After a single 6 - mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males ( age : 24 ± 6 years , weight : 70 kg ) , the maximum serum concentration ( Cmax ) was ( mean ± standard deviation ) 74 ± 15 ng / mL and the time to peak concentration ( Tmax ) was 12 minutes after injection ( range : 5 to 20 minutes ) .
+In this study , the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng / mL by manual injection versus 52 ± 15 ng / mL by autoinjector techniques .
+The Tmax or amount absorbed was not significantly altered by either the site or technique of injection .
+The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97 % ± 16 % of that obtained following intravenous injection .
+Protein binding , determined by equilibrium dialysis over the concentration range of 10 to 1 , 000 ng / mL , is low , approximately 14 % to 21 % .
+The effect of sumatriptan on the protein binding of other drugs has not been evaluated .
+Special Populations Renal Impairment : The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined , but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance .
+Hepatic Impairment : The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated .
+There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls .
+However , the liver plays an important role in the presystemic clearance of orally administered sumatriptan .
+Accordingly , the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease .
+In 1 small study of hepatically impaired patients ( N = 8 ) matched for sex , age , and weight with healthy subjects , the hepatically impaired patients had an approximately 70 % increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects .
+Age : The pharmacokinetics of sumatriptan in the elderly ( mean age : 72 years , 2 males and 4 females ) and in patients with migraine ( mean age : 38 years , 25 males and 155 females ) were similar to that in healthy male subjects ( mean age : 30 years ) ( see PRECAUTIONS : Geriatric Use ) .
+Race : The systemic clearance and Cmax of sumatriptan were similar in black ( n = 34 ) and Caucasian ( n = 38 ) healthy male subjects .
+Drug Interactions Monoamine Oxidase Inhibitors : In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase ( MAO ) , predominantly the A isoenzyme .
+In a study of 14 healthy females , pretreatment with MAO - A inhibitor decreased the clearance of sumatriptan .
+Under the conditions of this experiment , the result was a 2 - fold increase in the area under the sumatriptan plasma concentration x time curve ( AUC ) , corresponding to a 40 % increase in elimination half - life .
+No significant effect was seen with an MAO - B inhibitor .
+Pharmacodynamics Typical Physiologic Responses : Blood Pressure : See WARNINGS : Increase in Blood Pressure .
+Peripheral ( Small ) Arteries : In healthy volunteers ( N = 18 ) , a study evaluating the effects of sumatriptan on peripheral ( small vessel ) arterial reactivity failed to detect a clinically significant increase in peripheral resistance .
+Heart Rate : Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan ’ s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate .
+Respiratory Rate : Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate .
+CLINICAL TRIALS Migraine In US controlled clinical trials enrolling more than 1 , 000 patients during migraine attacks who were experiencing moderate or severe pain and 1 or more of the symptoms enumerated in Table 2 , onset of relief began as early as 10 minutes following a 6 - mg IMITREX Injection .
+Smaller doses of sumatriptan may also prove effective , although the proportion of patients obtaining adequate relief is decreased and the latency to that relief is greater .
+In 1 well - controlled study where placebo ( n = 62 ) was compared with 6 different doses of IMITREX Injection ( n = 30 each group ) in a single - attack , parallel - group design , the dose response relationship was found to be as shown in Table 1 .
+Table 1 .
+Dose Response Relationship for EfficacyIMITREX Dose ( mg ) % Patients With Reliefa at 10 Minutes % Patients With Reliefa at 30 Minutes % Patients With Reliefa at 1 Hour % Patients With Reliefa at 2 Hours Adverse Events Incidence ( % ) Placebo 5 15 24 21 55 1 10 40 43 40 63 2 7 23 57 43 63 3 17 47 57 60 77 4 13 37 50 57 80 6 10 63 73 70 83 8 23 57 80 83 93 aRelief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication .
+In 2 US well - controlled clinical trials in 1 , 104 migraine patients with moderate or severe migraine pain , the onset of relief was rapid ( less than 10 minutes ) with IMITREX Injection 6 mg .
+Headache relief , as evidenced by a reduction in pain from severe or moderately severe to mild or no headache , was achieved in 70 % of the patients within 1 hour of a single 6 - mg subcutaneous dose of IMITREX Injection .
+Headache relief was achieved in approximately 82 % of patients within 2 hours , and 65 % of all patients were pain free within 2 hours .
+Table 2 shows the 1 - and 2 - hour efficacy results for IMITREX Injection 6 mg .
+Table 2 .
+Efficacy Data From US Phase III Trials1 - Hour Data Study 1 Study 2 Placebo ( n = 190 ) IMITREX 6 mg ( n = 384 ) Placebo ( n = 180 ) IMITREX 6 mg ( n = 350 ) Patients with pain relief ( grade 0 / 1 ) 18 % 70 % a 26 % 70 % a Patients with no pain 5 % 48 % a 13 % 49 % Patients without nausea 48 % 73 % a 50 % 73 % a Patients without photophobia 23 % 56 % a 25 % 58 % * Patients with little or no clinical disabilityb 34 % 76 % a 34 % 76 % a 2 - Hour Data Study 1 Study 2 Placeboc IMITREX 6 mgd Placeboc IMITREX 6 mgd Patients with pain relief ( grade 0 / 1 ) 31 % 81 % a 39 % 82 % a Patients with no pain 11 % 63 % a 19 % 65 % a Patients without nausea 56 % 82 % a 63 % 81 % a Patients without photophobia 31 % 72 % a 35 % 71 % a Patients with little or no clinical disabilityb 42 % 85 % a 49 % 84 % a ap < 0 . 05 versus placebo .
+bA successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally .
+cIncludes patients that may have received an additional placebo injection 1 hour after the initial injection .
+dIncludes patients that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection .
+IMITREX Injection also relieved photophobia , phonophobia ( sound sensitivity ) , nausea , and vomiting associated with migraine attacks .
+Similar efficacy was seen when patients self - administered IMITREX Injection using an autoinjector .
+The efficacy of IMITREX Injection is unaffected by whether or not migraine is associated with aura , duration of attack , gender or age of the patient , or concomitant use of common migraine prophylactic drugs ( e . g . , beta - blockers ) .
+Cluster Headache The efficacy of IMITREX Injection in the acute treatment of cluster headache was demonstrated in 2 randomized , double - blind , placebo - controlled , 2 - period crossover trials .
+Patients age 21 to 65 were enrolled and were instructed to treat a moderate to very severe headache within 10 minutes of onset .
+Headache relief was defined as a reduction in headache severity to mild or no pain .
+In both trials , the proportion of individuals gaining relief at 10 or 15 minutes was significantly greater among patients receiving 6 mg of IMITREX Injection compared with those who received placebo ( see Table 3 ) .
+One study evaluated a 12 - mg dose ; there was no statistically significant difference in outcome between patients randomized to the 6 - and 12 - mg doses .
+Table 3 .
+Efficacy Data From the Pivotal Cluster Headache Studies Study 1 Study 2 Placebo ( n = 39 ) IMITREX 6 mg ( n = 39 ) Placebo ( n = 88 ) IMITREX 6 mg ( n = 92 ) Patients with pain relief ( no / mild ) 5 minutes postinjection 8 % 21 % 7 % 23 % a 10 minutes postinjection 10 % 49 % a 25 % 49 % 15 minutes postinjection 26 % 74 % a 35 % 75 % a ap < 0 . 05 .
+( n = Number of headaches treated . )
+The Kaplan - Meier ( product limit ) Survivorship Plot ( Figure 1 ) provides an estimate of the cumulative probability of a patient with a cluster headache obtaining relief after being treated with either sumatriptan or placebo .
+[ MULTIMEDIA ] aPatients taking rescue medication were censored at 15 minutes .
+The plot was constructed with data from patients who either experienced relief or did not require ( request ) rescue medication within a period of 2 hours following treatment .
+As a consequence , the data in the plot are derived from only a subset of the 258 headaches treated ( rescue medication was required in 52 of the 127 placebo - treated headaches and 18 of the 131 sumatriptan - treated headaches ) .
+Other data suggest that treatment with sumatriptan is not associated with an increase in early recurrence of headache and has little effect on the incidence of latter - occurring headaches ( i . e . , those occurring after 2 , but before 18 or 24 hours ) .
+[ MULTIMEDIA ] INDICATIONS AND USAGE IMITREX Injection is indicated for 1 ) the acute treatment of migraine attacks with or without aura and 2 ) the acute treatment of cluster headache episodes .
+IMITREX Injection is not for use in the management of hemiplegic or basilar migraine ( see CONTRAINDICATIONS ) .
+CONTRAINDICATIONS IMITREX Injection should not be given intravenously because of its potential to cause coronary vasospasm .
+IMITREX Injection should not be given to patients with history , symptoms , or signs of ischemic cardiac , cerebrovascular , or peripheral vascular syndromes .
+In addition , patients with other significant underlying cardiovascular diseases should not receive IMITREX Injection .
+Ischemic cardiac syndromes include , but are not limited to , angina pectoris of any type ( e . g . , stable angina of effort , vasospastic forms of angina such as the Prinzmetal variant ) , all forms of myocardial infarction , and silent myocardial ischemia .
+Cerebrovascular syndromes include , but are not limited to , strokes of any type as well as transient ischemic attacks .
+Peripheral vascular disease includes , but is not limited to , ischemic bowel disease ( see WARNINGS : Other Vasospasm - Related Events and WARNINGS : Risk of Myocardial Ischemia and / or Infarction and Other Adverse Cardiac Events ) .
+Because IMITREX Injection may increase blood pressure , it should not be given to patients with uncontrolled hypertension .
+IMITREX Injection and any ergotamine - containing or ergot - type medication ( like dihydroergotamine or methysergide ) should not be used within 24 hours of each other , nor should IMITREX Injection and another 5 - HT1 agonist .
+IMITREX Injection should not be administered to patients with hemiplegic or basilar migraine .
+IMITREX Injection is contraindicated in patients with hypersensitivity to sumatriptan or any of its components .
+IMITREX Injection is contraindicated in patients with severe hepatic impairment .
+WARNINGS IMITREX Injection should only be used where a clear diagnosis of migraine or cluster headache has been established .
+The prescriber should be aware that cluster headache patients often possess one or more predictive risk factors for coronary artery disease ( CAD ) .
+Risk of Myocardial Ischemia and / or Infarction and Other Adverse Cardiac Events Sumatriptan should not be given to patients with documented ischemic or vasospastic CAD ( see CONTRAINDICATIONS ) .
+It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors ( e . g . , hypertension , hypercholesterolemia , smoker , obesity , diabetes , strong family history of CAD , female with surgical or physiological menopause , male over 40 years of age ) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease .
+The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest , at best .
+If , during the cardiovascular evaluation , the patient ’ s medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia , sumatriptan should not be administered ( see CONTRAINDICATIONS ) .
+For patients with risk factors predictive of CAD who are determined to have a satisfactory cardiovascular evaluation , it is strongly recommended that administration of the first dose of sumatriptan injection take place in the setting of a physician ’ s office or similar medically staffed and equipped facility .
+Because cardiac ischemia can occur in the absence of clinical symptoms , consideration should be given to obtaining an electrocardiogram ( ECG ) during the interval immediately following the first dose in these patients with risk factors .
+It is recommended that patients who are intermittent long - term users of sumatriptan and who have or acquire risk factors predictive of CAD , as described above , undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan .
+In considering this recommendation for periodic cardiovascular evaluation , it is noted that patients with cluster headache are predominantly male and over 40 years of age , which are risk factors for CAD .
+The systematic approach described above is intended to reduce the likelihood that patients with unrecognized cardiovascular disease will be inadvertently exposed to sumatriptan .
+Drug - Associated Cardiac Events and Fatalities Serious adverse cardiac events , including acute myocardial infarction , life - threatening disturbances of cardiac rhythm , and death have been reported within a few hours following the administration of IMITREX Injection or IMITREX ® ( sumatriptan succinate ) Tablets .
+Considering the extent of use of sumatriptan in patients with migraine , the incidence of these events is extremely low .
+The fact that sumatriptan can cause coronary vasospasm , that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD , and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug .
+In many cases , however , where there has been known underlying CAD , the relationship is uncertain .
+Premarketing Experience With Sumatriptan : Among the more than 1 , 900 patients with migraine who participated in premarketing controlled clinical trials of subcutaneous sumatriptan , there were 8 patients who sustained clinical events during or shortly after receiving sumatriptan that may have reflected coronary artery vasospasm .
+Six of these 8 patients had ECG changes consistent with transient ischemia , but without accompanying clinical symptoms or signs .
+Of these 8 patients , 4 had either findings suggestive of CAD or risk factors predictive of CAD prior to study enrollment .
+Of 6 , 348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan , 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm .
+Neither of these adverse events was associated with a serious clinical outcome .
+Among approximately 4 , 000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray , 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event .
+Postmarketing Experience With Sumatriptan : Serious cardiovascular events , some resulting in death , have been reported in association with the use of IMITREX Injection or IMITREX Tablets .
+The uncontrolled nature of postmarketing surveillance , however , makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases .
+On clinical grounds , the longer the latency between the administration of IMITREX and the onset of the clinical event , the less likely the association is to be causative .
+Accordingly , interest has focused on events beginning within 1 hour of the administration of IMITREX .
+Cardiac events that have been observed to have onset within 1 hour of sumatriptan administration include : coronary artery vasospasm , transient ischemia , myocardial infarction , ventricular tachycardia and ventricular fibrillation , cardiac arrest , and death .
+Some of these events occurred in patients who had no findings of CAD and appear to represent consequences of coronary artery vasospasm .
+However , among domestic reports of serious cardiac events within 1 hour of sumatriptan administration , the majority had risk factors predictive of CAD and the presence of significant underlying CAD was established in most cases ( see CONTRAINDICATIONS ) .
+Drug - Associated Cerebrovascular Events and Fatalities Cerebral hemorrhage , subarachnoid hemorrhage , stroke , and other cerebrovascular events have been reported in patients treated with oral or subcutaneous sumatriptan , and some have resulted in fatalities .
+The relationship of sumatriptan to these events is uncertain .
+In a number of cases , it appears possible that the cerebrovascular events were primary , sumatriptan having been administered in the incorrect belief the symptoms experienced were a consequence of migraine when they were not .
+As with other acute migraine therapies , before treating headaches in patients not previously diagnosed as migraineurs , and in migraineurs who present with atypical symptoms , care should be taken to exclude other potentially serious neurological conditions .
+It should also be noted that patients with migraine may be at increased risk of certain cerebrovascular events ( e . g . , cerebrovascular accident , transient ischemic attack ) .
+Other Vasospasm - Related Events Sumatriptan may cause vasospastic reactions other than coronary artery vasospasm .
+Both peripheral vascular ischemia and colonic ischemia with abdominal pain and bloody diarrhea have been reported .
+Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of sumatriptan .
+Visual disorders may also be part of a migraine attack .
+Serotonin Syndrome The development of a potentially life - threatening serotonin syndrome may occur with triptans , including treatment with IMITREX , particularly during combined use with selective serotonin reuptake inhibitors ( SSRIs ) or serotonin norepinephrine reuptake inhibitors ( SNRIs ) .
+If concomitant treatment with sumatriptan and an SSRI ( e . g . , fluoxetine , paroxetine , sertraline , fluvoxamine , citalopram , escitalopram ) or SNRI ( e . g . , venlafaxine , duloxetine ) is clinically warranted , careful observation of the patient is advised , particularly during treatment initiation and dose increases .
+Serotonin syndrome symptoms may include mental status changes ( e . g . , agitation , hallucinations , coma ) , autonomic instability ( e . g . , tachycardia , labile blood pressure , hyperthermia ) , neuromuscular aberrations ( e . g . , hyperreflexia , incoordination ) , and / or gastrointestinal symptoms ( e . g . , nausea , vomiting , diarrhea ) .
+Increase in Blood Pressure Significant elevation in blood pressure , including hypertensive crisis , has been reported on rare occasions in patients with and without a history of hypertension .
+Sumatriptan is contraindicated in patients with uncontrolled hypertension ( see CONTRAINDICATIONS ) .
+Sumatriptan should be administered with caution to patients with controlled hypertension as transient increases in blood pressure and peripheral vascular resistance have been observed in a small proportion of patients .
+Concomitant Drug Use In patients taking MAO - A inhibitors , sumatriptan plasma levels attained after treatment with recommended doses are nearly double those obtained under other conditions .
+Accordingly , the coadministration of sumatriptan and an MAO - A inhibitor is not generally recommended .
+If such therapy is clinically warranted , however , suitable dose adjustment and appropriate observation of the patient is advised ( see CLINICAL PHARMACOLOGY : Drug Interactions : Monoamine Oxidase Inhibitors ) .
+Use in Women of Childbearing Potential See PRECAUTIONS : Pregnancy .
+Hypersensitivity Hypersensitivity ( anaphylaxis / anaphylactoid ) reactions have occurred on rare occasions in patients receiving sumatriptan .
+Such reactions can be life threatening or fatal .
+In general , hypersensitivity reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens ( see CONTRAINDICATIONS ) .
+PRECAUTIONS General Chest , jaw , or neck tightness is relatively common after administration of IMITREX Injection .
+Chest discomfort and jaw or neck tightness have been reported following use of IMITREX Tablets and have also been reported infrequently following the administration of IMITREX ® ( sumatriptan ) Nasal Spray .
+Only rarely have these symptoms been associated with ischemic ECG changes .
+However , because sumatriptan may cause coronary artery vasospasm , patients who experience signs or symptoms suggestive of angina following sumatriptan should be evaluated for the presence of CAD or a predisposition to Prinzmetal variant angina before receiving additional doses of sumatriptan and should be monitored electrocardiographically if dosing is resumed and similar symptoms recur .
+Similarly , patients who experience other symptoms or signs suggestive of decreased arterial flow , such as ischemic bowel syndrome or Raynaud syndrome , following sumatriptan should be evaluated for atherosclerosis or predisposition to vasospasm ( see WARNINGS : Risk of Myocardial Ischemia and / or Infarction and Other Adverse Cardiac Events and WARNINGS : Other Vasospasm - Related Events ) .
+IMITREX should also be administered with caution to patients with diseases that may alter the absorption , metabolism , or excretion of drugs , such as impaired hepatic or renal function .
+There have been rare reports of seizure following administration of sumatriptan .
+Sumatriptan should be used with caution in patients with a history of epilepsy or conditions associated with a lowered seizure threshold .
+Care should be taken to exclude other potentially serious neurologic conditions before treating headache in patients not previously diagnosed with migraine or cluster headache or who experience a headache that is atypical for them .
+There have been rare reports where patients received sumatriptan for severe headaches that were subsequently shown to have been secondary to an evolving neurologic lesion ( see WARNINGS : Drug - Associated Cerebrovascular Events and Fatalities ) .
+For a given attack , if a patient does not respond to the first dose of sumatriptan , the diagnosis of migraine or cluster headache should be reconsidered before administration of a second dose .
+Overuse of acute migraine treatments has been associated with the exacerbation of headache ( medication overuse headache ) in susceptible patients .
+Withdrawal of the treatment may be necessary .
+Binding to Melanin - Containing Tissues Because sumatriptan binds to melanin , it could accumulate in melanin - rich tissues ( such as the eye ) over time .
+This raises the possibility that sumatriptan could cause toxicity in these tissues after extended use .
+However , no effects on the retina related to treatment with sumatriptan were noted in any of the toxicity studies .
+Although no systematic monitoring of ophthalmologic function was undertaken in clinical trials , and no specific recommendations for ophthalmologic monitoring are offered , prescribers should be aware of the possibility of long - term ophthalmologic effects ( see CLINICAL PHARMACOLOGY : Melanin Binding ) .
+Corneal Opacities Sumatriptan causes corneal opacities and defects in the corneal epithelium in dogs ; this raises the possibility that these changes may occur in humans .
+While patients were not systematically evaluated for these changes in clinical trials , and no specific recommendations for monitoring are being offered , prescribers should be aware of the possibility of these changes ( see CLINICAL PHARMACOLOGY : Corneal Opacities ) .
+Patients who are advised to self - administer IMITREX Injection in medically unsupervised situations should receive instruction on the proper use of the product from the physician or other suitably qualified health care professional prior to doing so for the first time .
+Information for Patients With the autoinjector , the needle penetrates approximately 1 / 4 of an inch ( 5 to 6 mm ) .
+Since the injection is intended to be given subcutaneously , intramuscular or intravascular delivery should be avoided .
+Patients should be directed to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle .
+See PATIENT INFORMATION at the end of this labeling for the text of the separate leaflet provided for patients .
+Patients should be cautioned about the risk of serotonin syndrome with the use of sumatriptan or other triptans , especially during combined use with SSRIs or SNRIs .
+Laboratory Tests No specific laboratory tests are recommended for monitoring patients prior to and / or after treatment with sumatriptan .
+Drug Interactions Selective Serotonin Reuptake Inhibitors / Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome : Cases of life - threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans ( see WARNINGS ) .
+Migraine Prophylactic Medications : There is no evidence that concomitant use of migraine prophylactic medications has any effect on the efficacy of sumatriptan .
+In 2 Phase III trials in the US , a retrospective analysis of 282 patients who had been using prophylactic drugs ( verapamil n = 63 , amitriptyline n = 57 , propranolol n = 94 , for 45 other drugs n = 123 ) were compared with those who had not used prophylaxis ( N = 452 ) .
+There were no differences in relief rates at 60 minutes postdose for IMITREX Injection , whether or not prophylactic medications were used .
+Ergot - Containing Drugs : Ergot - containing drugs have been reported to cause prolonged vasospastic reactions .
+Because there is a theoretical basis that these effects may be additive , use of ergotamine - containing or ergot - type medications ( like dihydroergotamine or methysergide ) and sumatriptan within 24 hours of each other should be avoided ( see CONTRAINDICATIONS ) .
+Monoamine Oxidase - A Inhibitors : MAO - A inhibitors reduce sumatriptan clearance , significantly increasing systemic exposure .
+Therefore , the use of sumatriptan in patients receiving MAO - A inhibitors is not ordinarily recommended .
+If the clinical situation warrants the combined use of sumatriptan and an MAOI , the dose of sumatriptan employed should be reduced ( see CLINICAL PHARMACOLOGY : Drug Interactions : Monoamine Oxidase Inhibitors and WARNINGS : Concomitant Drug Use ) .
+Drug / Laboratory Test Interactions IMITREX is not known to interfere with commonly employed clinical laboratory tests .
+Carcinogenesis , Mutagenesis , Impairment of Fertility In carcinogenicity studies , rats and mice were given sumatriptan by oral gavage ( rats : 104 weeks ) or drinking water ( mice : 78 weeks ) .
+Average exposures achieved in mice receiving the highest dose were approximately 110 times the exposure attained in humans after the maximum recommended single dose of 6 mg .
+The highest dose to rats was approximately 260 times the maximum single dose of 6 mg on a mg / m2 basis .
+There was no evidence of an increase in tumors in either species related to sumatriptan administration .
+Sumatriptan was not mutagenic in the presence or absence of metabolic activation when tested in 2 gene mutation assays ( the Ames test and the in vitro mammalian Chinese hamster V79 / HGPRT assay ) .
+In 2 cytogenetics assays ( the in vitro human lymphocyte assay and the in vivo rat micronucleus assay ) sumatriptan was not associated with clastogenic activity .
+A fertility study ( Segment I ) by the subcutaneous route , during which male and female rats were dosed daily with sumatriptan prior to and throughout the mating period , has shown no evidence of impaired fertility at doses equivalent to approximately 100 times the maximum recommended single human dose of 6 mg on a mg / m2 basis .
+However , following oral administration , a treatment - related decrease in fertility , secondary to a decrease in mating , was seen for rats treated with 50 and 500 mg / kg / day .
+The no - effect dose for this finding was approximately 8 times the maximum recommended single human dose of 6 mg on a mg / m2 basis .
+It is not clear whether the problem is associated with the treatment of males or females or both .
+Pregnancy Pregnancy Category C . Sumatriptan has been shown to be embryolethal in rabbits when given daily at a dose approximately equivalent to the maximum recommended single human subcutaneous dose of 6 mg on a mg / m2 basis .
+There is no evidence that establishes that sumatriptan is a human teratogen ; however , there are no adequate and well - controlled studies in pregnant women .
+IMITREX Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+In assessing this information , the following additional findings should be considered .
+Embryolethality : When given intravenously to pregnant rabbits daily throughout the period of organogenesis , sumatriptan caused embryolethality at doses at or close to those producing maternal toxicity .
+The mechanism of the embryolethality is not known .
+These doses were approximately equivalent to the maximum single human dose of 6 mg on a mg / m2 basis .
+The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at doses that are approximately 20 times a human dose of 6 mg on a mg / m2 basis , did not cause embryolethality .
+Additionally , in a study of pregnant rats given subcutaneous sumatriptan daily prior to and throughout pregnancy , there was no evidence of increased embryo / fetal lethality .
+Teratogenicity : Term fetuses from Dutch Stride rabbits treated during organogenesis with oral sumatriptan exhibited an increased incidence of cervicothoracic vascular and skeletal abnormalities .
+The functional significance of these abnormalities is not known .
+The highest no - effect dose for these effects was 15 mg / kg / day , approximately 50 times the maximum single dose of 6 mg on a mg / m2 basis .
+In a study in rats dosed daily with subcutaneous sumatriptan prior to and throughout pregnancy , there was no evidence of teratogenicity .
+Pregnancy Registry : To monitor fetal outcomes of pregnant women exposed to IMITREX , GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry .
+Physicians are encouraged to register patients by calling ( 800 ) 336 - 2176 .
+Nursing Mothers Sumatriptan is excreted in human breast milk following subcutaneous administration .
+Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with IMITREX Injection .
+Pediatric Use Safety and effectiveness of IMITREX Injection in pediatric patients under 18 years of age have not been established ; therefore , IMITREX Injection is not recommended for use in patients under 18 years of age .
+Two controlled clinical trials evaluated sumatriptan nasal spray ( 5 to 20 mg ) in 1 , 248 adolescent migraineurs aged 12 to 17 years who treated a single attack .
+The studies did not establish the efficacy of sumatriptan nasal spray compared with placebo in the treatment of migraine in adolescents .
+Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults .
+Five controlled clinical trials ( 2 single - attack studies , 3 multiple - attack studies ) evaluating oral sumatriptan ( 25 to 100 mg ) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs .
+These studies did not establish the efficacy of oral sumatriptan compared with placebo in the treatment of migraine in adolescents .
+Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults .
+The frequency of all adverse events in these patients appeared to be both dose - and age - dependent , with younger patients reporting events more commonly than older adolescents .
+Postmarketing experience documents that serious adverse events have occurred in the pediatric population after use of subcutaneous , oral , and / or intranasal sumatriptan .
+These reports include events similar in nature to those reported rarely in adults , including stroke , visual loss , and death .
+A myocardial infarction has been reported in a 14 - year - old male following the use of oral sumatriptan ; clinical signs occurred within 1 day of drug administration .
+Since clinical data to determine the frequency of serious adverse events in pediatric patients who might receive injectable , oral , or intranasal sumatriptan are not presently available , the use of sumatriptan in patients aged younger than 18 years is not recommended .
+Geriatric Use The use of sumatriptan in elderly patients is not recommended because elderly patients are more likely to have decreased hepatic function , they are at higher risk for CAD , and blood pressure increases may be more pronounced in the elderly ( see WARNINGS : Risk of Myocardial Ischemia and / or Infarction and Other Adverse Cardiac Events ) .
+ADVERSE REACTIONS Serious cardiac events , including some that have been fatal , have occurred following the use of IMITREX Injection or Tablets .
+These events are extremely rare and most have been reported in patients with risk factors predictive of CAD .
+Events reported have included coronary artery vasospasm , transient myocardial ischemia , myocardial infarction , ventricular tachycardia , and ventricular fibrillation ( see CONTRAINDICATIONS , WARNINGS : Risk of Myocardial Ischemia and / or Infarction and Other Adverse Cardiac Events , and PRECAUTIONS : General ) .
+Significant hypertensive episodes , including hypertensive crises , have been reported on rare occasions in patients with or without a history of hypertension ( see WARNINGS : Increase in Blood Pressure ) .
+Among patients in clinical trials of subcutaneous IMITREX Injection ( N = 6 , 218 ) , up to 3 . 5 % of patients withdrew for reasons related to adverse events .
+Incidence in Controlled Clinical Trials of Migraine Headache Table 4 lists adverse events that occurred in 2 large US , Phase III , placebo - controlled clinical trials in migraine patients following either a single 6 - mg dose of IMITREX Injection or placebo .
+Only events that occurred at a frequency of 2 % or more in groups treated with IMITREX Injection 6 mg and occurred at a frequency greater than the placebo group are included in Table 4 .
+Table 4 .
+Treatment Emergent Adverse Experience Incidence in 2 Large Placebo - Controlled Migraine Clinical Trials : Events Reported by at Least 2 % of Patients Treated With IMITREX Injection 6 mgaAdverse Event Percent of Patients Reporting IMITREX Injection 6 mg Subcutaneous ( n = 547 ) Placebo ( n = 370 ) Atypical sensations 42 9 Tingling 14 3 Warm / hot sensation 11 4 Burning sensation 7 < 1 Feeling of heaviness 7 1 Pressure sensation 7 2 Feeling of tightness 5 < 1 Numbness 5 2 Feeling strange 2 < 1 Tight feeling in head 2 < 1 Cardiovascular Flushing 7 2 Chest discomfort 5 1 Tightness in chest 3 < 1 Pressure in chest 2 < 1 Ear , nose , and throat Throat discomfort 3 < 1 Discomfort : nasal cavity / sinuses 2 < 1 Injection site reaction 59 24 Miscellaneous Jaw discomfort 2 0 Musculoskeletal Weakness 5 < 1 Neck pain / stiffness 5 < 1 Myalgia 2 < 1 Neurological Dizziness / vertigo 12 4 Drowsiness / sedation 3 2 Headache 2 < 1 Skin Sweating 2 1 aThe sum of the percentages cited is greater than 100 % because patients may experience more than 1 type of adverse event .
+Only events that occurred at a frequency of 2 % or more in groups treated with IMITREX Injection and occurred at a frequency greater than the placebo groups are included .
+The incidence of adverse events in controlled clinical trials was not affected by gender or age of the patients .
+There were insufficient data to assess the impact of race on the incidence of adverse events .
+Incidence in Controlled Trials of Cluster Headache In the controlled clinical trials assessing sumatriptan ’ s efficacy as a treatment for cluster headache , no new significant adverse events associated with the use of sumatriptan were detected that had not already been identified in association with the drug ’ s use in migraine .
+Overall , the frequency of adverse events reported in the studies of cluster headache were generally lower .
+Exceptions include reports of paresthesia ( 5 % IMITREX , 0 % placebo ) , nausea and vomiting ( 4 % IMITREX , 0 % placebo ) , and bronchospasm ( 1 % IMITREX , 0 % placebo ) .
+Other Events Observed in Association With the Administration of IMITREX Injection In the paragraphs that follow , the frequencies of less commonly reported adverse clinical events are presented .
+Because the reports include events observed in open and uncontrolled studies , the role of IMITREX Injection in their causation cannot be reliably determined .
+Furthermore , variability associated with adverse event reporting , the terminology used to describe adverse events , etc . , limit the value of the quantitative frequency estimates provided .
+Event frequencies are calculated as the number of patients reporting an event divided by the total number of patients ( N = 6 , 218 ) exposed to subcutaneous IMITREX Injection .
+All reported events are included except those already listed in the previous table , those too general to be informative , and those not reasonably associated with the use of the drug .
+Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions : frequent adverse events are defined as those occurring in at least 1 / 100 patients , infrequent adverse events are those occurring in 1 / 100 to 1 / 1 , 000 patients , and rare adverse events are those occurring in fewer than 1 / 1 , 000 patients .
+Cardiovascular : Infrequent were hypertension , hypotension , bradycardia , tachycardia , palpitations , pulsating sensations , various transient ECG changes ( nonspecific ST or T wave changes , prolongation of PR or QTc intervals , sinus arrhythmia , nonsustained ventricular premature beats , isolated junctional ectopic beats , atrial ectopic beats , delayed activation of the right ventricle ) , and syncope .
+Rare were pallor , arrhythmia , abnormal pulse , vasodilatation , and Raynaud syndrome .
+Endocrine and Metabolic : Infrequent was thirst .
+Rare were polydipsia and dehydration .
+Eye : Frequent was vision alterations .
+Infrequent was irritation of the eye .
+Gastrointestinal : Frequent were abdominal discomfort and dysphagia .
+Infrequent were gastroesophageal reflux and diarrhea .
+Rare were peptic ulcer , retching , flatulence / eructation , and gallstones .
+Musculoskeletal : Frequent were muscle cramps .
+Infrequent were various joint disturbances ( pain , stiffness , swelling , ache ) .
+Rare were muscle stiffness , need to flex calf muscles , backache , muscle tiredness , and swelling of the extremities .
+Neurological : Frequent was anxiety .
+Infrequent were mental confusion , euphoria , agitation , relaxation , chills , sensation of lightness , tremor , shivering , disturbances of taste , prickling sensations , paresthesia , stinging sensations , facial pain , photophobia , and lacrimation .
+Rare were transient hemiplegia , hysteria , globus hystericus , intoxication , depression , myoclonia , monoplegia / diplegia , sleep disturbance , difficulties in concentration , disturbances of smell , hyperesthesia , dysesthesia , simultaneous hot and cold sensations , tickling sensations , dysarthria , yawning , reduced appetite , hunger , and dystonia .
+Respiratory : Infrequent was dyspnea .
+Rare were influenza , diseases of the lower respiratory tract , and hiccoughs .
+Skin : Infrequent were erythema , pruritus , and skin rashes and eruptions .
+Rare was skin tenderness .
+Urogenital : Rare were dysuria , frequency , dysmenorrhea , and renal calculus .
+Miscellaneous : Infrequent were miscellaneous laboratory abnormalities , including minor disturbances in liver function tests , “ serotonin agonist effect , ” and hypersensitivity to various agents .
+Rare was fever .
+Other Events Observed in the Clinical Development of IMITREX The following adverse events occurred in clinical trials with IMITREX Tablets and IMITREX Nasal Spray .
+Because the reports include events observed in open and uncontrolled studies , the role of IMITREX in their causation cannot be reliably determined .
+All reported events are included except those already listed , those too general to be informative , and those not reasonably associated with the use of the drug .
+Breasts : Breast swelling , cysts , disorder of breasts , lumps , masses of breasts , nipple discharge , primary malignant breast neoplasm , and tenderness .
+Cardiovascular : Abdominal aortic aneurysm , angina , atherosclerosis , cerebral ischemia , cerebrovascular lesion , heart block , peripheral cyanosis , phlebitis , thrombosis , and transient myocardial ischemia .
+Ear , Nose , and Throat : Allergic rhinitis ; disorder of nasal cavity / sinuses ; ear , nose , and throat hemorrhage ; ear infection ; external otitis ; feeling of fullness in the ear ( s ) ; hearing disturbances ; hearing loss ; Meniere disease ; nasal inflammation ; otalgia ; sensitivity to noise ; sinusitis ; tinnitus ; and upper respiratory inflammation .
+Endocrine and Metabolic : Elevated thyrotropin stimulating hormone ( TSH ) levels ; endocrine cysts , lumps , and masses ; fluid disturbances ; galactorrhea ; hyperglycemia ; hypoglycemia ; hypothyroidism ; weight gain ; and weight loss .
+Eye : Accommodation disorders , blindness and low vision , conjunctivitis , disorders of sclera , external ocular muscle disorders , eye edema and swelling , eye hemorrhage , eye itching , eye pain , keratitis , mydriasis , and visual disturbances .
+Gastrointestinal : Abdominal distention , colitis , constipation , dental pain , dyspeptic symptoms , feelings of gastrointestinal pressure , gastric symptoms , gastritis , gastroenteritis , gastrointestinal bleeding , gastrointestinal pain , hematemesis , hypersalivation , hyposalivation , intestinal obstruction , melena , nausea and / or vomiting , oral itching and irritation , pancreatitis , salivary gland swelling , and swallowing disorders .
+Hematological Disorders : Anemia .
+Mouth and Teeth : Disorder of mouth and tongue ( e . g . , burning of tongue , numbness of tongue , dry mouth ) .
+Musculoskeletal : Acquired musculoskeletal deformity , arthralgia and articular rheumatitis , arthritis , intervertebral disc disorder , muscle atrophy , muscle tightness and rigidity , musculoskeletal inflammation , and tetany .
+Neurological : Apathy , aggressiveness , bad / unusual taste , bradylogia , cluster headache , convulsions , depressive disorders , detachment , disturbance of emotions , drug abuse , facial paralysis , hallucinations , heat sensitivity , incoordination , increased alertness , memory disturbance , migraine , motor dysfunction , neoplasm of pituitary , neuralgia , neurotic disorders , paralysis , personality change , phobia , phonophobia , psychomotor disorders , radiculopathy , raised intracranial pressure , rigidity , stress , syncope , suicide , and twitching .
+Respiratory : Asthma , breathing disorders , bronchitis , cough , and lower respiratory tract infection .
+Skin : Dry / scaly skin , eczema , herpes , seborrheic dermatitis , skin nodules , tightness of skin , and wrinkling of skin .
+Urogenital : Abnormal menstrual cycle , abortion , bladder inflammation , endometriosis , hematuria , increased urination , inflammation of fallopian tubes , intermenstrual bleeding , menstruation symptoms , micturition disorders , urethritis , and urinary infections .
+Miscellaneous : Contusions , difficulty in walking , edema , hematoma , hypersensitivity , fever , fluid retention , lymphadenopathy , overdose , speech disturbance , swelling of extremities , swelling of face , and voice disturbances .
+Pain and Other Pressure Sensations : Chest pain and / or heaviness , neck / throat / jaw pain / tightness / pressure , and pain ( location specified ) .
+Postmarketing Experience ( Reports for Subcutaneous or Oral Sumatriptan ) The following section enumerates potentially important adverse events that have occurred in clinical practice and that have been reported spontaneously to various surveillance systems .
+The events enumerated represent reports arising from both domestic and nondomestic use of oral or subcutaneous dosage forms of sumatriptan .
+The events enumerated include all except those already listed in the ADVERSE REACTIONS section above or those too general to be informative .
+Because the reports cite events reported spontaneously from worldwide postmarketing experience , frequency of events and the role of IMITREX Injection in their causation cannot be reliably determined .
+It is assumed , however , that systemic reactions following sumatriptan use are likely to be similar regardless of route of administration .
+Blood : Hemolytic anemia , pancytopenia , thrombocytopenia .
+Cardiovascular : Atrial fibrillation , cardiomyopathy , colonic ischemia ( see WARNINGS ) , Prinzmetal variant angina , pulmonary embolism , shock , thrombophlebitis .
+Ear , Nose , and Throat : Deafness .
+Eye : Ischemic optic neuropathy , retinal artery occlusion , retinal vein thrombosis , loss of vision .
+Gastrointestinal : Ischemic colitis with rectal bleeding ( see WARNINGS ) , xerostomia .
+Hepatic : Elevated liver function tests .
+Neurological : Central nervous system vasculitis , cerebrovascular accident , dysphasia , serotonin syndrome , subarachnoid hemorrhage .
+Non - Site Specific : Angioneurotic edema , cyanosis , death ( see WARNINGS ) , temporal arteritis .
+Psychiatry : Panic disorder .
+Respiratory : Bronchospasm in patients with and without a history of asthma .
+Skin : Exacerbation of sunburn , hypersensitivity reactions ( allergic vasculitis , erythema , pruritus , rash , shortness of breath , urticaria ; in addition , severe anaphylaxis / anaphylactoid reactions have been reported [ see WARNINGS : Hypersensitivity ] ) , photosensitivity .
+Following subcutaneous administration of sumatriptan , pain , redness , stinging , induration , swelling , contusion , subcutaneous bleeding , and , on rare occasions , lipoatrophy ( depression in the skin ) or lipohypertrophy ( enlargement or thickening of tissue ) have been reported .
+Urogenital : Acute renal failure .
+DRUG ABUSE AND DEPENDENCE The abuse potential of IMITREX Injection cannot be fully delineated in advance of extensive marketing experience .
+One clinical study enrolling 12 patients with a history of substance abuse failed to induce subjective behavior and / or physiologic response ordinarily associated with drugs that have an established potential for abuse .
+OVERDOSAGE Patients ( N = 269 ) have received single injections of 8 to 12 mg without significant adverse effects .
+Volunteers ( N = 47 ) have received single subcutaneous doses of up to 16 mg without serious adverse events .
+No gross overdoses in clinical practice have been reported .
+Coronary vasospasm was observed after intravenous administration of IMITREX Injection ( see CONTRAINDICATIONS ) .
+Overdoses would be expected from animal data ( dogs at 0 . 1 g / kg , rats at 2 g / kg ) to possibly cause convulsions , tremor , inactivity , erythema of the extremities , reduced respiratory rate , cyanosis , ataxia , mydriasis , injection site reactions ( desquamation , hair loss , and scab formation ) , and paralysis .
+The half - life of elimination of sumatriptan is about 2 hours ( see CLINICAL PHARMACOLOGY : Pharmacokinetics ) , and therefore monitoring of patients after overdose with IMITREX Injection should continue while symptoms or signs persist , and for at least 10 hours .
+It is unknown what effect hemodialysis or peritoneal dialysis has on the serum concentrations of sumatriptan .
+DOSAGE AND ADMINISTRATION The maximum single recommended adult dose of IMITREX Injection is 6 mg injected subcutaneously .
+If side effects are dose limiting , then lower doses may be used ( see Table 1 ) .
+The maximum recommended dose that may be given in 24 hours is two 6 - mg injections separated by at least 1 hour .
+Controlled clinical trials have failed to show that clear benefit is associated with the administration of a second 6 - mg dose in patients who have failed to respond to a first injection .
+In patients receiving MAO inhibitors , decreased doses of sumatriptan should be considered ( see WARNINGS : Concomitant Drug Use and CLINICAL PHARMACOLOGY : Drug Interactions : Monoamine Oxidase Inhibitors ) .
+An autoinjection device is available for use with the 4 - and 6 - mg prefilled syringe cartridges to facilitate self - administration in patients using the 4 - or 6 - mg dose .
+With this device , the needle penetrates approximately 1 / 4 inch ( 5 to 6 mm ) .
+Since the injection is intended to be given subcutaneously , intramuscular or intravascular delivery should be avoided .
+Patients should be directed to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle .
+In patients receiving doses other than 4 or 6 mg , only the 6 - mg single - dose vial dosage form should be used .
+Parenteral drug products should be inspected visually for particulate matter and discoloration before administration whenever solution and container permit .
+HOW SUPPLIED IMITREX Injection contains sumatriptan ( base ) as the succinate salt and is supplied as a clear , colorless to pale yellow , sterile , nonpyrogenic solution as follows : ( NDC 54868 - 3180 - 0 ) IMITREX STATdose System , 6 mg , containing 2 prefilled single - dose syringe cartridges , 1 IMITREX STATdose Pen , 1 carrying case , and a patient information leaflet with instructions for use .
+Store between 2 ° and 30 ° C ( 36 ° and 86 ° F ) .
+Protect from light .
+IMITREX , IMITREX STATdose System , and IMITREX STATdose Pen are registered trademarks of GlaxoSmithKline .
+This product ' s prescribing information may have been updated .
+Please refer to ww . gsk . com for the most current version .
+GlaxoSmithKline Research Triangle Park , NC 27709 © 2010 , GlaxoSmithKline .
+All rights reserved .
+February 2010 IMJ : 3 PI Additional barcode label applied by : Physicians Total Care , Inc .
+Tulsa , Oklahoma 74146 PATIENT INFORMATION The following wording is contained in a separate leaflet provided for patients .
+[ MULTIMEDIA ] Read this leaflet carefully several times before you start to use the IMITREX STATdose System .
+If you have any questions , ask your healthcare provider .
+Keep the IMITREX STATdose System out of the reach of children .
+Before you use the IMITREX STATdose System When you first open the IMITREX STATdose System box , the Cartridge Pack and the IMITREX STATdose Pen ® are already in the Carrying Case for your convenience .
+[ MULTIMEDIA ] The grey and blue Carrying Case is used for storing the unloaded Pen and the Cartridge Pack when they are not being used .
+The Cartridge Pack holds 2 individually sealed Syringe Cartridges .
+Each Syringe Cartridge holds 1 dose of IMITREX ® ( sumatriptan succinate ) Injection .
+The Cartridge Pack for the 4 - mg strength of this medicine is yellow , and the Cartridge Pack for the 6 - mg strength is blue ( as shown ) .
+Refill Cartridge Packs are available .
+The grey and blue Pen is used to automatically inject 1 dose of medicine from a Syringe Cartridge .
+Do not touch the Blue Button until you have pressed the Pen against your skin to give a dose .
+If you press it at any other time , you might lose a dose .
+The Safety Catch keeps the Pen from accidentally firing until you are ready .
+The Pen will only work when you slide the grey part of the barrel down to the blue part .
+Always check to make sure that the white Priming Rod is not sticking out from the end of the Pen ( as shown in Figure 2 ) before you load a new Syringe Cartridge .
+If it is sticking out , you will lose that dose .
+How to load the IMITREX STATdose Pen Do not load the Pen until you are ready to give yourself an injection .
+Do not touch the Blue Button on top of the Pen ( see Figure 1 ) while you are loading the Pen .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 1 .
+Open the lid of the Carrying Case .
+The tamper - evident seals over the 2 Syringe Cartridges are labeled “ A ” and “ B ” ( see Figure 1 inset ) .
+Always use the Syringe Cartridge marked “ A ” before the one marked “ B ” to help you keep track of your doses .
+Do not use if either seal is broken or missing when you first open the Carrying Case .
+2 .
+Tear off one of the tamper - evident seals ( see Figure 1 ) .
+Throw away the seal .
+Open the lid over the Syringe Cartridge .
+3 .
+Hold the Pen by the ridges at the top .
+Take it out of the Carrying Case ( see Figure 2 ) .
+Check to make sure the white Priming Rod is not sticking out from the lower end of the Pen ( see Figure 2 inset ) .
+If it is sticking out , put the Pen back into the Carrying Case and press down firmly until you feel it click .
+Then take the Pen out of the Carrying Case .
+4 .
+Put the Pen in the Cartridge Pack .
+Turn it to the right ( clockwise ) until it will not turn any more ( about half a turn ) ( see Figure 3 ) .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 5 .
+Hold the loaded Pen by the ridges and pull it straight out ( see Figure 4 ) .
+You may need to pull hard on the Pen , but this is normal .
+Do not press the Blue Button yet .
+The Pen is now ready to use .
+Do not put the loaded Pen back into the Carrying Case because that will damage the needle .
+How to use the IMITREX STATdose Pen to take your medicine Before injecting your medicine , choose an area with a fatty tissue layer ( see Figure 5 a or Figure 5 b ) .
+Ask your healthcare provider if you have a question about where to inject .
+Clean the skin around this area .
+[ MULTIMEDIA ] or [ MULTIMEDIA ] [ MULTIMEDIA ] 1 .
+Without pushing the Blue Button , press the loaded Pen firmly against the skin so that the grey barrel slides down toward the blue section that holds the Syringe Cartridge ( see Figure 4 ) .
+( This releases the Safety Catch that keeps the Pen from firing by mistake until you are ready . )
+2 .
+Push the Blue Button .
+Hold the Pen still for at least 5 seconds .
+If the Pen is taken away from the skin too soon , not all the medicine will come out .
+3 .
+After 5 seconds , carefully take the Pen away from your skin .
+The needle will be showing ( see Figure 6 ) .
+Do not touch the needle .
+How to unload the IMITREX STATdose Pen after taking your medicine Right after you take a dose with the Pen , you need to return the used Syringe Cartridge to the Cartridge Pack .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 1 .
+Push the Pen down into the empty side of the Cartridge Pack as far as it will go ( see Figure 7 ) .
+2 .
+Turn the Pen to the left ( counterclockwise ) about half a turn until it is released from the Syringe Cartridge ( see Figure 8 ) .
+3 .
+Pull the empty Pen out of the Cartridge Pack ( see Figure 9 ) .
+Because the Pen has now been used , the white Priming Rod will stick out from the lower end of the Pen .
+4 .
+Close the Cartridge Pack lid over the used Syringe Cartridge .
+When the used Syringe Cartridges are inserted correctly , the Cartridge Pack is a disposable , protective case to help you avoid needle sticks and use the syringes correctly .
+5 .
+Put the Pen back into the Carrying Case and press it down firmly until you feel it click .
+Close the Carrying Case lid .
+This gets the Pen ready for the next use .
+If the lid will not close , push the Pen down until you feel it click .
+Then close the lid .
+How to take out a used Cartridge Pack After both Syringe Cartridges have been used , take the Cartridge Pack out of the Carrying Case and throw it away .
+Never reuse a Syringe Cartridge .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 1 .
+Open the Carrying Case lid .
+2 .
+Hold the Carrying Case with one hand and press the 2 buttons on either side of the Carrying Case ( see Figure 10 ) .
+3 .
+Gently pull out the Cartridge Pack with the other hand ( see Figure 11 ) .
+( continued on other side ) How to insert a new Cartridge Pack [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 1 .
+Take the new Cartridge Pack out of its box .
+Do not take off the tamper - evident seals ( see Figure 12 ) .
+2 .
+Put the Cartridge Pack in the Carrying Case .
+Slide it down smoothly ( see Figure 13 ) .
+3 .
+The Cartridge Pack will click into place when the 2 buttons show through the holes in the Carrying Case ( see Figure 14 ) .
+Close the lid .
+February 2008 IMJ : 2 PIL Information for the Patient IMITREX ® ( sumatriptan succinate ) Injection Read this leaflet carefully before you start to take IMITREX Injection .
+Keep the leaflet for reference because it gives you a summary of important information about IMITREX Injection .
+Read the leaflet that comes with each refill of your prescription because there may be new information .
+This leaflet does not have all the information about IMITREX Injection .
+Ask your healthcare provider for more information or advice .
+What is IMITREX Injection ?
+IMITREX Injection is a kind of medicine called a triptan .
+You should take it only if you have a prescription .
+IMITREX Injection is used to relieve your migraine or cluster headache .
+It is not used to prevent attacks or reduce the number of attacks you have .
+Use IMITREX Injection only to treat an actual migraine or cluster headache attack .
+The decision to use IMITREX Injection is one that you and your healthcare provider should make together , based on your personal needs and health .
+Talk with your healthcare provider before taking IMITREX Injection • Risk factors for heart disease to tell your healthcare provider : Tell your healthcare provider if you have risk factors for heart disease such as : • high blood pressure • high cholesterol • being overweight • diabetes • smoking • strong family history of heart disease • you are postmenopausal • you are a male over 40 years of ageIf you do have risk factors for heart disease , your healthcare provider should check you for heart disease to see if IMITREX is right for you .
+Although most of the people who have taken IMITREX have not had any serious side effects , some have had serious heart problems .
+Deaths have been reported , but these were rare considering the extensive worldwide use of IMITREX .
+Usually , serious problems happened in people with known heart disease .
+It was not clear whether IMITREX had anything to do with these deaths .
+• Important questions to ask yourself before you take IMITREX Injection : If the answer to any of the following questions is YES or if you do not know the answer , then please talk with your healthcare provider before you take IMITREX Injection .
+• Are you pregnant ?
+Do you think you might be pregnant ?
+Are you trying to become pregnant ?
+Are you not using adequate contraception ?
+Are you breastfeeding ?
+• Do you have any chest pain , heart disease , shortness of breath , or irregular heartbeats ?
+Have you had a heart attack ?
+• Do you have risk factors for heart disease ( see list above ) ?
+• Have you had a stroke , a mini - stroke ( also called a transient ischemic attack or TIA ) , or Raynaud syndrome ?
+• Do you have high blood pressure ?
+• Have you ever had to stop taking this or any other medicine because of an allergy or other problems ?
+• Are you taking any other migraine medicines , including other triptans ?
+Are you taking any medicines containing ergotamine , dihydroergotamine , or methysergide ?
+• Are you taking any medicine for depression or other health problems such as a monoamine oxidase inhibitor , selective serotonin reuptake inhibitor ( SSRI ) , or serotonin norepinephrine reuptake inhibitor ( SNRI ) ?
+Common SSRIs are citalopram HBr ( CELEXA ® ) , escitalopram oxalate ( LEXAPRO ® ) , paroxetine ( PAXIL ® ) , fluoxetine ( PROZAC ® / SARAFEM ® ) , olanzapine / fluoxetine ( SYMBYAX ® ) , sertraline ( ZOLOFT ® ) , and fluvoxamine .
+Common SNRIs are duloxetine ( CYMBALTA ® ) and venlafaxine ( EFFEXOR ® ) .
+• Have you had , or do you have , any disease of the liver or kidney ?
+• Have you had , or do you have , epilepsy or seizures ?
+• Is this headache different from your usual migraine attacks ? Remember , if you answered YES to any of the above questions , then talk with your healthcare provider about it .
+Important points about IMITREX Injection • The use of IMITREX Injection during pregnancy : Do not take IMITREX Injection if you are pregnant , think you might be pregnant , are trying to become pregnant , or are not using adequate contraception unless you have talked with your healthcare provider about this .
+• How to take IMITREX Injection : For adults , the usual dose is a single injection given just below the skin .
+You should give an injection as soon as the symptoms of your migraine start , but it may be given at any time during an attack .
+You may give a second injection if your migraine symptoms come back .
+If your symptoms do not get better after the first injection , do not give a second injection for the same attack without first talking with your healthcare provider .
+Do not give more than two 6 - mg doses in any 24 - hour period .
+Allow at least 1 hour between each dose .
+• Caution for activities requiring alertness : You may feel drowsy or dizzy because of your migraine or treatment with IMITREX Injection .
+Use caution for activities requiring alertness ( like driving or using machines ) .
+• What to do if you take an overdose : If you have taken more medicine than has been prescribed for you , contact either your healthcare provider , hospital emergency department , or nearest poison control center right away .
+• How to store your medicine : Keep your medicine in a safe place where children cannot reach it .
+It may be harmful to children .
+Store your medicine away from heat and light .
+Keep your medicine in the Carrying Case that comes with it .
+Do not store at temperatures above 86 ° F ( 30 ° C ) .
+The expiration date of your medicine is printed on the back of the Cartridge Pack .
+If your medicine has expired , throw it away .
+Do not throw away your IMITREX STATdose Pen ® .
+If your healthcare provider decides to stop your treatment , do not keep any leftover medicine unless your healthcare provider tells you to .
+Some possible side effects of IMITREX Injection • Some patients feel pain or tightness in the chest or throat when using IMITREX Injection .
+If this happens to you , tell your healthcare provider before taking any more IMITREX Injection .
+If the chest pain , tightness , or pressure is severe or does not go away , call your healthcare provider right away .
+• Call your healthcare provider right away if you have sudden and / or severe abdominal pain after you take IMITREX Injection .
+• Some people may have a reaction called serotonin syndrome when they take certain kinds of medicines for depression called SSRIs or SNRIs while they are taking IMITREX Injection .
+Symptoms may include confusion , hallucinations , fast heartbeat , feeling faint , fever , sweating , muscle spasm , difficulty walking , and / or diarrhea .
+Call your healthcare provider right away if you have any of these symptoms after taking IMITREX Injection .
+• Shortness of breath ; wheeziness ; heart throbbing ; swelling of eyelids , face , or lips ; or a skin rash , skin lumps , or hives happens rarely .
+If it happens to you , then tell your healthcare provider right away .
+Do not take any more IMITREX Injection unless your healthcare provider tells you to .
+• Some people may feel tingling , heat , flushing ( redness of face lasting a short time ) , heaviness , or pressure after taking IMITREX Injection .
+A few people may feel drowsy , dizzy , tired , or sick .
+If you have any of these symptoms , tell your healthcare provider at your next visit .
+• You may have pain or redness at the site of injection , but this usually lasts less than an hour .
+• If you feel unwell in any other way or have any symptoms that you do not understand , you should contact your healthcare provider right away .
+IMITREX and PAXIL are registered trademarks of GlaxoSmithKline .
+The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline .
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products .
+GlaxoSmithKline Research Triangle Park , NC 27709 © 2010 , GlaxoSmithKline .
+All rights reserved .
+February 2010 IMJ : 2 PPI [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] Principal Display Panel NDC 54868 - 3180 - 0 [ MULTIMEDIA ] IMITREX STATdose SYSTEM ® 6 mg This carton contains : • Imitrex ® ( sumatriptan succinate ) Injection 2 prefilled 0 . 5 - mL syringe cartridges , each containing 6 mg of sumatriptan for subcutaneous injection only • 1 Imitrex STATdose Pen ® • 1 Carrying Case • Instructions for Use / Information for the Patient • Prescribing Information Rx only [ MULTIMEDIA ]

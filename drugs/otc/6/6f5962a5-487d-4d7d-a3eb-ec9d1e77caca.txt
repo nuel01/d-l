@@ -1,0 +1,462 @@
+DESCRIPTION Montelukast sodium , the active ingredient in SINGULAIR [ 1 ] , is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene CysLT1 receptor .
+Montelukast sodium is described chemically as [ R - ( E ) ] - 1 - [ [ [ 1 - [ 3 - [ 2 - ( 7 - chloro - 2 - quinolinyl ) ethenyl ] phenyl ] - 3 - [ 2 - ( 1 - hydroxy - 1 - methylethyl ) phenyl ] propyl ] thio ] methyl ] cyclopropaneacetic acid , monosodium salt .
+The empirical formula is C35H35ClNNaO3S , and its molecular weight is 608 . 18 .
+The structural formula is : [ MULTIMEDIA ] Montelukast sodium is a hygroscopic , optically active , white to off - white powder .
+Montelukast sodium is freely soluble in ethanol , methanol , and water and practically insoluble in acetonitrile .
+Each 10 - mg film - coated SINGULAIR tablet contains 10 . 4 mg montelukast sodium , which is equivalent to 10 mg of montelukast , and the following inactive ingredients : microcrystalline cellulose , lactose monohydrate , croscarmellose sodium , hydroxypropyl cellulose , and magnesium stearate .
+The film coating consists of : hydroxypropyl methylcellulose , hydroxypropyl cellulose , titanium dioxide , red ferric oxide , yellow ferric oxide , and carnauba wax .
+Each 4 - mg and 5 - mg chewable SINGULAIR tablet contains 4 . 2 and 5 . 2 mg montelukast sodium , respectively , which are equivalent to 4 and 5 mg of montelukast , respectively .
+Both chewable tablets contain the following inactive ingredients : mannitol , microcrystalline cellulose , hydroxypropyl cellulose , red ferric oxide , croscarmellose sodium , cherry flavor , aspartame , and magnesium stearate .
+Each packet of SINGULAIR 4 - mg oral granules contains 4 . 2 mg montelukast sodium , which is equivalent to 4 mg of montelukast .
+The oral granule formulation contains the following inactive ingredients : mannitol , hydroxypropyl cellulose , and magnesium stearate .
+[ 1 ] Registered trademark of MERCK & CO . , Inc . COPYRIGHT © 1998 - 2009 MERCK & CO . , Inc . All rights reserved [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action The cysteinyl leukotrienes ( LTC4 , LTD4 , LTE4 ) are products of arachidonic acid metabolism and are released from various cells , including mast cells and eosinophils .
+These eicosanoids bind to cysteinyl leukotriene ( CysLT ) receptors .
+The CysLT type - 1 ( CysLT1 ) receptor is found in the human airway ( including airway smooth muscle cells and airway macrophages ) and on other pro - inflammatory cells ( including eosinophils and certain myeloid stem cells ) .
+CysLTs have been correlated with the pathophysiology of asthma and allergic rhinitis .
+In asthma , leukotriene - mediated effects include airway edema , smooth muscle contraction , and altered cellular activity associated with the inflammatory process .
+In allergic rhinitis , CysLTs are released from the nasal mucosa after allergen exposure during both early - and late - phase reactions and are associated with symptoms of allergic rhinitis .
+Intranasal challenge with CysLTs has been shown to increase nasal airway resistance and symptoms of nasal obstruction .
+SINGULAIR has not been assessed in intranasal challenge studies .
+The clinical relevance of intranasal challenge studies is unknown .
+Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT1 receptor ( in preference to other pharmacologically important airway receptors , such as the prostanoid , cholinergic , or β - adrenergic receptor ) .
+Montelukast inhibits physiologic actions of LTD4 at the CysLT1 receptor without any agonist activity .
+Pharmacokinetics Absorption Montelukast is rapidly absorbed following oral administration .
+After administration of the 10 - mg film - coated tablet to fasted adults , the mean peak montelukast plasma concentration ( Cmax ) is achieved in 3 to 4 hours ( Tmax ) .
+The mean oral bioavailability is 64 % .
+The oral bioavailability and Cmax are not influenced by a standard meal in the morning .
+For the 5 - mg chewable tablet , the mean Cmax is achieved in 2 to 2 . 5 hours after administration to adults in the fasted state .
+The mean oral bioavailability is 73 % in the fasted state versus 63 % when administered with a standard meal in the morning .
+For the 4 - mg chewable tablet , the mean Cmax is achieved 2 hours after administration in pediatric patients 2 to 5 years of age in the fasted state .
+The 4 - mg oral granule formulation is bioequivalent to the 4 - mg chewable tablet when administered to adults in the fasted state .
+The co - administration of the oral granule formulation with applesauce did not have a clinically significant effect on the pharmacokinetics of montelukast .
+A high fat meal in the morning did not affect the AUC of montelukast oral granules ; however , the meal decreased Cmax by 35 % and prolonged Tmax from 2 . 3 ± 1 . 0 hours to 6 . 4 ± 2 . 9 hours .
+The safety and efficacy of SINGULAIR in patients with asthma were demonstrated in clinical trials in which the 10 - mg film - coated tablet and 5 - mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion .
+The safety of SINGULAIR in patients with asthma was also demonstrated in clinical trials in which the 4 - mg chewable tablet and 4 - mg oral granule formulations were administered in the evening without regard to the time of food ingestion .
+The safety and efficacy of SINGULAIR in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10 - mg film - coated tablet was administered in the morning or evening without regard to the time of food ingestion .
+The comparative pharmacokinetics of montelukast when administered as two 5 - mg chewable tablets versus one 10 - mg film - coated tablet have not been evaluated .
+Distribution Montelukast is more than 99 % bound to plasma proteins .
+The steady state volume of distribution of montelukast averages 8 to 11 liters .
+Studies in rats with radiolabeled montelukast indicate minimal distribution across the blood - brain barrier .
+In addition , concentrations of radiolabeled material at 24 hours postdose were minimal in all other tissues .
+Metabolism Montelukast is extensively metabolized .
+In studies with therapeutic doses , plasma concentrations of metabolites of montelukast are undetectable at steady state in adults and pediatric patients .
+In vitro studies using human liver microsomes indicate that cytochromes P450 3A4 and 2C9 are involved in the metabolism of montelukast .
+Clinical studies investigating the effect of known inhibitors of cytochromes P450 3A4 ( e . g . , ketoconazole , erythromycin ) or 2C9 ( e . g . , fluconazole ) on montelukast pharmacokinetics have not been conducted .
+Based on further in vitro results in human liver microsomes , therapeutic plasma concentrations of montelukast do not inhibit cytochromes P450 3A4 , 2C9 , 1A2 , 2A6 , 2C19 , or 2D6 ( see Drug Interactions ) .
+In vitro studies have shown that montelukast is a potent inhibitor of cytochrome P450 2C8 ; however , data from a clinical drug - drug interaction study involving montelukast and rosiglitazone ( a probe substrate representative of drugs primarily metabolized by CYP2C8 ) demonstrated that montelukast does not inhibit CYP2C8 in vivo , and therefore is not anticipated to alter the metabolism of drugs metabolized by this enzyme ( see Drug Interactions ) .
+Elimination The plasma clearance of montelukast averages 45 mL / min in healthy adults .
+Following an oral dose of radiolabeled montelukast , 86 % of the radioactivity was recovered in 5 - day fecal collections and < 0 . 2 % was recovered in urine .
+Coupled with estimates of montelukast oral bioavailability , this indicates that montelukast and its metabolites are excreted almost exclusively via the bile .
+In several studies , the mean plasma half - life of montelukast ranged from 2 . 7 to 5 . 5 hours in healthy young adults .
+The pharmacokinetics of montelukast are nearly linear for oral doses up to 50 mg .
+During once - daily dosing with 10 - mg montelukast , there is little accumulation of the parent drug in plasma ( 14 % ) .
+Special Populations Gender The pharmacokinetics of montelukast are similar in males and females .
+Elderly The pharmacokinetic profile and the oral bioavailability of a single 10 - mg oral dose of montelukast are similar in elderly and younger adults .
+The plasma half - life of montelukast is slightly longer in the elderly .
+No dosage adjustment in the elderly is required .
+Race Pharmacokinetic differences due to race have not been studied .
+Hepatic Insufficiency Patients with mild - to - moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41 % ( 90 % CI = 7 % , 85 % ) higher mean montelukast area under the plasma concentration curve ( AUC ) following a single 10 - mg dose .
+The elimination of montelukast was slightly prolonged compared with that in healthy subjects ( mean half - life , 7 . 4 hours ) .
+No dosage adjustment is required in patients with mild - to - moderate hepatic insufficiency .
+The pharmacokinetics of SINGULAIR in patients with more severe hepatic impairment or with hepatitis have not been evaluated .
+Renal Insufficiency Since montelukast and its metabolites are not excreted in the urine , the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency .
+No dosage adjustment is recommended in these patients .
+Adolescents and Pediatric Patients Pharmacokinetic studies evaluated the systemic exposure of the 4 - mg oral granule formulation in pediatric patients 6 to 23 months of age , the 4 - mg chewable tablets in pediatric patients 2 to 5 years of age , the 5 - mg chewable tablets in pediatric patients 6 to 14 years of age , and the 10 - mg film - coated tablets in young adults and adolescents ≥ 15 years of age .
+The plasma concentration profile of montelukast following administration of the 10 - mg film - coated tablet is similar in adolescents ≥ 15 years of age and young adults .
+The 10 - mg film - coated tablet is recommended for use in patients ≥ 15 years of age .
+The mean systemic exposure of the 4 - mg chewable tablet in pediatric patients 2 to 5 years of age and the 5 - mg chewable tablets in pediatric patients 6 to 14 years of age is similar to the mean systemic exposure of the 10 - mg film - coated tablet in adults .
+The 5 - mg chewable tablet should be used in pediatric patients 6 to 14 years of age and the 4 - mg chewable tablet should be used in pediatric patients 2 to 5 years of age .
+In children 6 to 11 months of age , the systemic exposure to montelukast and the variability of plasma montelukast concentrations were higher than those observed in adults .
+Based on population analyses , the mean AUC ( 4296 ng • hr / mL [ range 1200 to 7153 ] ) was 60 % higher and the mean Cmax ( 667 ng / mL [ range 201 to 1058 ] ) was 89 % higher than those observed in adults ( mean AUC 2689 ng • hr / mL [ range 1521 to 4595 ] ) and mean Cmax ( 353 ng / mL [ range 180 to 548 ] ) .
+The systemic exposure in children 12 to 23 months of age was less variable , but was still higher than that observed in adults .
+The mean AUC ( 3574 ng • hr / mL [ range 2229 to 5408 ] ) was 33 % higher and the mean Cmax ( 562 ng / mL [ range 296 to 814 ] ) was 60 % higher than those observed in adults .
+Safety and tolerability of montelukast in a single - dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above ( see ADVERSE REACTIONS ) .
+The 4 - mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma , or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis .
+Since the 4 - mg oral granule formulation is bioequivalent to the 4 - mg chewable tablet , it can also be used as an alternative formulation to the 4 - mg chewable tablet in pediatric patients 2 to 5 years of age .
+Drug Interactions Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state : • did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline ( predominantly a cytochrome P450 1A2 substrate ) .
+• did not change the pharmacokinetic profile of warfarin ( primarily a substrate of CYP 2C9 , 3A4 and 1A2 ) or influence the effect of a single 30 - mg oral dose of warfarin on prothrombin time or the INR ( International Normalized Ratio ) .
+• did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin .
+• did not change the plasma concentration profile of terfenadine ( a substrate of CYP 3A4 ) or fexofenadine , its carboxylated metabolite , and did not prolong the QTc interval following co - administration with terfenadine 60 mg twice daily .
+Montelukast at doses of ≥ 100 mg daily dosed to pharmacokinetic steady state : • did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg / ethinyl estradiol 35 mcg .
+• did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone .
+Phenobarbital , which induces hepatic metabolism , decreased the AUC of montelukast approximately 40 % following a single 10 - mg dose of montelukast .
+No dosage adjustment for SINGULAIR is recommended .
+It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers , such as phenobarbital or rifampin , are co - administered with SINGULAIR .
+Montelukast is a potent inhibitor of P450 2C8 in vitro .
+However , data from a clinical drug - drug interaction study involving montelukast and rosiglitazone ( a probe substrate representative of drugs primarily metabolized by CYP2C8 ) in 12 healthy individuals demonstrated that the pharmacokinetics of rosiglitazone are not altered when the drugs are coadministered , indicating that montelukast does not inhibit CYP2C8 in vivo .
+Therefore , montelukast is not anticipated to alter the metabolism of drugs metabolized by this enzyme ( e . g . , paclitaxel , rosiglitazone , and repaglinide . )
+Pharmacodynamics Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD4 in asthmatics .
+Doses as low as 5 mg cause substantial blockage of LTD4 - induced bronchoconstriction .
+In a placebo - controlled , crossover study ( n = 12 ) , SINGULAIR inhibited early - and late - phase bronchoconstriction due to antigen challenge by 75 % and 57 % , respectively .
+The effect of SINGULAIR on eosinophils in the peripheral blood was examined in clinical trials .
+In patients with asthma aged 2 years and older who received SINGULAIR , a decrease in mean peripheral blood eosinophil counts ranging from 9 % to 15 % was noted , compared with placebo , over the double - blind treatment periods .
+In patients with seasonal allergic rhinitis aged 15 years and older who received SINGULAIR , a mean increase of 0 . 2 % in peripheral blood eosinophil counts was noted , compared with a mean increase of 12 . 5 % in placebo - treated patients , over the double - blind treatment periods ; this reflects a mean difference of 12 . 3 % in favor of SINGULAIR .
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known ( see CLINICAL PHARMACOLOGY , Clinical Studies ) .
+Clinical Studies GENERAL There have been no clinical trials in asthmatics to evaluate the relative efficacy of morning versus evening dosing .
+The pharmacokinetics of montelukast are similar whether dosed in the morning or evening .
+Efficacy has been demonstrated for asthma when montelukast was administered in the evening without regard to time of food ingestion .
+Efficacy was demonstrated for seasonal allergic rhinitis when montelukast was administered in the morning or the evening without regard to time of food ingestion .
+Clinical Studies – Asthma ADULTS AND ADOLESCENTS 15 YEARS OF AGE AND OLDER Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily .
+This was shown in two chronic asthma trials using doses up to 200 mg once daily and in one exercise challenge study using doses up to 50 mg , evaluated at the end of the once - daily dosing interval .
+The efficacy of SINGULAIR for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two ( U . S . and Multinational ) similarly designed , randomized , 12 - week , double - blind , placebo - controlled trials in 1576 patients ( 795 treated with SINGULAIR , 530 treated with placebo , and 251 treated with active control ) .
+The patients studied were mild and moderate , non - smoking asthmatics who required approximately 5 puffs of inhaled β - agonist per day on an “ as - needed ” basis .
+The patients had a mean baseline percent of predicted forced expiratory volume in 1 second ( FEV1 ) of 66 % ( approximate range , 40 to 90 % ) .
+The co - primary endpoints in these trials were FEV1 and daytime asthma symptoms .
+Secondary endpoints included morning and evening peak expiratory flow rates ( AM PEFR , PM PEFR ) , rescue β - agonist requirements , nocturnal awakening due to asthma , and other asthma - related outcomes .
+In both studies after 12 weeks , a random subset of patients receiving SINGULAIR was switched to placebo for an additional 3 weeks of double - blind treatment to evaluate for possible rebound effects .
+The results of the U . S . trial on the primary endpoint , FEV1 , expressed as mean percent change from baseline , are shown in FIGURE 1 .
+[ MULTIMEDIA ] The effect of SINGULAIR on other primary and secondary endpoints is shown in TABLE 1 as combined analyses of the U . S . and Multinational trials .
+TABLE 1 : Effect of SINGULAIR on Primary and Secondary Endpoints in Placebo - controlled Trials ( Combined Analyses - U . S . and Multinational Trials ) SINGULAIR Placebo Endpoint Baseline Mean Change from Baseline Baseline Mean Change from Baseline Daytime Asthma Symptoms ( 0 to 6 scale ) 2 . 43 - 0 . 45 [ 1 ] 2 . 45 - 0 . 22 β - agonist ( puffs per day ) 5 . 38 - 1 . 56 null 5 . 55 - 0 . 41 AM PEFR ( L / min ) 361 . 3 24 . 5 null 364 . 9 3 . 3 PM PEFR ( L / min ) 385 . 2 17 . 9 null 389 . 3 2 . 0 Nocturnal Awakenings ( # / week ) 5 . 37 - 1 . 84 null 5 . 44 - 0 . 79 [ 1 ] p < 0 . 001 , compared with placebo In adult patients , SINGULAIR reduced “ as - needed ” β - agonist use by 26 . 1 % from baseline compared with 4 . 6 % for placebo .
+In patients with nocturnal awakenings of at least 2 nights per week , SINGULAIR reduced the nocturnal awakenings by 34 % from baseline , compared with 15 % for placebo ( combined analysis ) .
+SINGULAIR , compared with placebo , significantly improved other protocol - defined , asthma - related outcome measurements ( see TABLE 2 ) .
+TABLE 2 : Effect of SINGULAIR on Asthma - Related Outcome Measurements ( Combined Analyses - U . S . and Multinational Trials ) SINGULAIR Placebo Asthma Attack [ 1 ] ( % of patients ) 11 . 6 [ 2 ] 18 . 4 Oral Corticosteroid Rescue ( % of patients ) 10 . 7 null 17 . 5 Discontinuation Due to Asthma ( % of patients ) 1 . 4 [ 3 ] 4 . 0 Asthma Exacerbations [ 4 ] ( % of days ) 12 . 8 null 20 . 5 Asthma Control Days [ 5 ] ( % of days ) 38 . 5 null 27 . 2 Physicians ’ Global Evaluation ( score ) [ 6 ] 1 . 77 null 2 . 43 Patients ’ Global Evaluation ( score ) [ 7 ] 1 . 60 null 2 . 15 [ 1 ] Asthma Attack defined as utilization of health - care resources such as an unscheduled visit to a doctor ' s office , emergency room , or hospital ; or treatment with oral , intravenous , or intramuscular corticosteroid .
+[ 2 ] p < 0 . 001 , compared with placebo [ 3 ] p < 0 . 01 , compared with placebo [ 4 ] Asthma Exacerbation defined by specific clinically important decreases in PEFR , increase in β - agonist use , increases in day or nighttime symptoms , or the occurrence of an asthma attack .
+[ 5 ] An Asthma Control Day defined as a day without any of the following : nocturnal awakening , use of more than 2 puffs of β - agonist , or an asthma attack .
+[ 6 ] Physicians ’ evaluation of the patient ’ s asthma , ranging from 0 to 6 ( “ very much better ” through “ very much worse ” , respectively ) .
+[ 7 ] Patients ’ evaluation of asthma , ranging from 0 to 6 ( “ very much better ” through “ very much worse ” , respectively ) .
+In one of these trials , a non - U . S . formulation of inhaled beclomethasone dipropionate dosed at 200 mcg ( two puffs of 100 mcg ex - valve ) twice daily with a spacer device was included as an active control .
+Over the 12 - week treatment period , the mean percentage change in FEV1 over baseline for SINGULAIR and beclomethasone were 7 . 49 % vs 13 . 3 % ( p < 0 . 001 ) respectively , see FIGURE 2 ; and the change in daytime symptom scores was - 0 . 49 vs - 0 . 70 on a 0 to 6 scale ( p < 0 . 001 ) for SINGULAIR and beclomethasone , respectively .
+The percentages of individual patients treated with SINGULAIR or beclomethasone achieving any given percentage change in FEV1 from baseline are shown in FIGURE 3 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Onset of Action and Maintenance of Benefits In each placebo - controlled trial in adults , the treatment effect of SINGULAIR , measured by daily diary card parameters , including symptom scores , “ as - needed ” β - agonist use , and PEFR measurements , was achieved after the first dose and was maintained throughout the dosing interval ( 24 hours ) .
+No significant change in treatment effect was observed during continuous once - daily evening administration in non - placebo - controlled extension trials for up to one year .
+Withdrawal of SINGULAIR in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma .
+PEDIATRIC PATIENTS 6 TO 14 YEARS OF AGE The efficacy of SINGULAIR in pediatric patients 6 to 14 years of age was demonstrated in one 8 - week , double - blind , placebo - controlled trial in 336 patients ( 201 treated with SINGULAIR and 135 treated with placebo ) using an inhaled β - agonist on an “ as - needed ” basis .
+The patients had a mean baseline percent predicted FEV1 of 72 % ( approximate range , 45 to 90 % ) and a mean daily inhaled β - agonist requirement of 3 . 4 puffs of albuterol .
+Approximately 36 % of the patients were on inhaled corticosteroids .
+Compared with placebo , treatment with one 5 - mg SINGULAIR chewable tablet daily resulted in a significant improvement in mean morning FEV1 percent change from baseline ( 8 . 7 % in the group treated with SINGULAIR vs 4 . 2 % change from baseline in the placebo group , p < 0 . 001 ) .
+There was a significant decrease in the mean percentage change in daily “ as - needed ” inhaled β - agonist use ( 11 . 7 % decrease from baseline in the group treated with SINGULAIR vs 8 . 2 % increase from baseline in the placebo group , p < 0 . 05 ) .
+This effect represents a mean decrease from baseline of 0 . 56 and 0 . 23 puffs per day for the montelukast and placebo groups , respectively .
+Subgroup analyses indicated that younger pediatric patients aged 6 to 11 had efficacy results comparable to those of the older pediatric patients aged 12 to 14 .
+SINGULAIR , one 5 - mg chewable tablet daily at bedtime , significantly decreased the percent of days asthma exacerbations occurred ( SINGULAIR 20 . 6 % vs placebo 25 . 7 % , p ≤ 0 . 05 ) .
+( See TABLE 2 for definition of asthma exacerbation . )
+Parents ’ global asthma evaluations ( parental evaluations of the patients ’ asthma , see TABLE 2 for definition of score ) were significantly better with SINGULAIR compared with placebo ( SINGULAIR 1 . 34 vs placebo 1 . 69 , p ≤ 0 . 05 ) .
+Similar to the adult studies , no significant change in the treatment effect was observed during continuous once - daily administration in one open - label extension trial without a concurrent placebo group for up to 6 months .
+PEDIATRIC PATIENTS 2 TO 5 YEARS OF AGE The efficacy of SINGULAIR for the chronic treatment of asthma in pediatric patients 2 to 5 years of age was explored in a 12 - week , placebo - controlled safety and tolerability study in 689 patients , 461 of whom were treated with SINGULAIR .
+While the primary objective was to determine the safety and tolerability of SINGULAIR in this age group , the study included exploratory efficacy evaluations , including daytime and overnight asthma symptom scores , β - agonist use , oral corticosteroid rescue , and the physician ’ s global evaluation .
+The findings of these exploratory efficacy evaluations , along with pharmacokinetics and extrapolation of efficacy data from older patients , support the overall conclusion that SINGULAIR is efficacious in the maintenance treatment of asthma in patients 2 to 5 years of age .
+EFFECTS IN PATIENTS ON CONCOMITANT INHALED CORTICOSTEROIDS Separate trials in adults evaluated the ability of SINGULAIR to add to the clinical effect of inhaled corticosteroids and to allow inhaled corticosteroid tapering when used concomitantly .
+One randomized , placebo - controlled , parallel - group trial ( n = 226 ) enrolled stable asthmatic adults with a mean FEV1 of approximately 84 % of predicted who were previously maintained on various inhaled corticosteroids ( delivered by metered - dose aerosol or dry powder inhalers ) .
+The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate ( mean dose , 1203 mcg / day ) , triamcinolone acetonide ( mean dose , 2004 mcg / day ) , flunisolide ( mean dose , 1971 mcg / day ) , fluticasone propionate ( mean dose , 1083 mcg / day ) , or budesonide ( mean dose , 1192 mcg / day ) .
+Some of these inhaled corticosteroids were non - U . S . - approved formulations , and doses expressed may not be ex - actuator .
+The pre - study inhaled corticosteroid requirements were reduced by approximately 37 % during a 5 - to 7 - week placebo run - in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose .
+Treatment with SINGULAIR resulted in a further 47 % reduction in mean inhaled corticosteroid dose compared with a mean reduction of 30 % in the placebo group over the 12 - week active treatment period ( p ≤ 0 . 05 ) .
+Approximately 40 % of the montelukast - treated patients and 29 % of the placebo - treated patients could be tapered off inhaled corticosteroids and remained off inhaled corticosteroids at the conclusion of the study ( p = NS ) .
+It is not known whether the results of this study can be generalized to asthmatics who require higher doses of inhaled corticosteroids or systemic corticosteroids .
+In another randomized , placebo - controlled , parallel - group trial ( n = 642 ) in a similar population of adult patients previously maintained , but not adequately controlled , on inhaled corticosteroids ( beclomethasone 336 mcg / day ) , the addition of SINGULAIR to beclomethasone resulted in statistically significant improvements in FEV1 compared with those patients who were continued on beclomethasone alone or those patients who were withdrawn from beclomethasone and treated with montelukast or placebo alone over the last 10 weeks of the 16 - week , blinded treatment period .
+Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to SINGULAIR alone or placebo alone as indicated by FEV1 , daytime asthma symptoms , PEFR , nocturnal awakenings due to asthma , and “ as - needed ” β - agonist requirements .
+In adult asthmatic patients with documented aspirin sensitivity , nearly all of whom were receiving concomitant inhaled and / or oral corticosteroids , a 4 - week , randomized , parallel - group trial ( n = 80 ) demonstrated that SINGULAIR , compared with placebo , resulted in significant improvement in parameters of asthma control .
+The magnitude of effect of SINGULAIR in aspirin - sensitive patients was similar to the effect observed in the general population of asthmatic patients studied .
+The effect of SINGULAIR on the bronchoconstrictor response to aspirin or other non - steroidal anti - inflammatory drugs in aspirin - sensitive asthmatic patients has not been evaluated ( see PRECAUTIONS , General ) .
+Clinical Studies – Exercise - Induced Bronchoconstriction SINGLE - DOSE ADMINISTRATION ( ADULTS AND ADOLESCENTS ) The efficacy of SINGULAIR , 10 mg , when given as a single dose 2 hours before exercise for the prevention of exercise - induced bronchoconstriction ( EIB ) was investigated in three ( U . S . and Multinational ) , randomized , double - blind , placebo - controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with exercise - induced bronchoconstriction .
+Exercise challenge testing was conducted at 2 hours , 8 . 5 or 12 hours , and 24 hours following administration of a single dose of study drug ( SINGULAIR 10 mg or placebo ) .
+The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post - dose exercise challenge in all three studies ( Study A , Study B , and Study C ) .
+In Study A , a single dose of SINGULAIR 10 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise .
+Some patients were protected from exercise - induced bronchoconstriction at 8 . 5 and 24 hours after administration ; however , some patients were not .
+The results for the mean maximum percent fall at each timepoint in Study A are shown in the TABLE 3 below and are representative of the results from the other two studies .
+TABLE 3 : Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A ( N = 47 ) Time of exercise challenge following medication administration Mean Maximum percent fall in FEV1 [ 1 ] Treatment difference % for SINGULAIR versus Placebo ( 95 % CI ) null SINGULAIR Placebo 2 hours 13 22 - 9 ( - 12 , - 5 ) 8 . 5 hours 12 17 - 5 ( - 9 , - 2 ) 24 hours 10 14 - 4 ( - 7 , - 1 ) [ 1 ] Least squares - mean CHRONIC ADMINISTRATION ( ADULTS AND PEDIATRIC PATIENTS ) In a 12 - week , randomized , double - blind , parallel group study of 110 adult and adolescent asthmatics 15 years of age and older , with a mean baseline FEV1 percent of predicted of 83 % and with documented exercise - induced exacerbation of asthma , treatment with SINGULAIR , 10 mg , once daily in the evening , resulted in a statistically significant reduction in mean maximal percent fall in FEV1 and mean time to recovery to within 5 % of the pre - exercise FEV1 .
+Exercise challenge was conducted at the end of the dosing interval ( i . e . , 20 to 24 hours after the preceding dose ) .
+This effect was maintained throughout the 12 - week treatment period indicating that tolerance did not occur .
+SINGULAIR did not , however , prevent clinically significant deterioration in maximal percent fall in FEV1 after exercise ( i . e . , ≥ 20 % decrease from pre - exercise baseline ) in 52 % of patients studied .
+In a separate crossover study in adults , a similar effect was observed after two once - daily 10 - mg doses of SINGULAIR .
+In pediatric patients 6 to 14 years of age , using the 5 - mg chewable tablet , a 2 - day crossover study demonstrated effects similar to those observed in adults when exercise challenge was conducted at the end of the dosing interval ( i . e . , 20 to 24 hours after the preceding dose ) .
+Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of exercise - induced bronchoconstriction .
+Clinical Studies – Growth Rate in Pediatric Patients A 56 - week , multi - center , double - blind , randomized , active - and placebo - controlled parallel group study was conducted to assess the effect of SINGULAIR on growth rate in 360 patients with mild asthma , aged 6 to 8 years .
+Treatment groups included SINGULAIR 5 mg once daily , placebo , and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device .
+For each subject , a growth rate was defined as the slope of a linear regression line fit to the height measurements over 56 weeks .
+The primary comparison was the difference in growth rates between SINGULAIR and placebo groups .
+Growth rates , expressed as least - squares ( LS ) mean ( 95 % CI ) in cm / year , for the SINGULAIR , placebo , and beclomethasone treatment groups were 5 . 67 ( 5 . 46 , 5 . 88 ) , 5 . 64 ( 5 . 42 , 5 . 86 ) , and 4 . 86 ( 4 . 64 , 5 . 08 ) , respectively .
+The differences in growth rates , expressed as least squares ( LS ) mean ( 95 % CI ) in cm / year , for SINGULAIR minus placebo , beclomethasone minus placebo , and SINGULAIR minus beclomethasone treatment groups were 0 . 03 ( - 0 . 26 , 0 . 31 ) , - 0 . 78 ( - 1 . 06 , - 0 . 49 ) ; and 0 . 81 ( 0 . 53 , 1 . 09 ) , respectively .
+Growth rate ( expressed as mean change in height over time ) for each treatment group is shown in Figure 4 .
+[ MULTIMEDIA ] Clinical Studies – Seasonal Allergic Rhinitis The efficacy of SINGULAIR tablets for the treatment of seasonal allergic rhinitis was investigated in 5 similarly designed , randomized , double - blind , parallel - group , placebo - and active - controlled ( loratadine ) trials conducted in North America .
+The 5 trials enrolled a total of 5029 patients , of whom 1799 were treated with SINGULAIR tablets .
+Patients were 15 to 82 years of age with a history of seasonal allergic rhinitis , a positive skin test to at least one relevant seasonal allergen , and active symptoms of seasonal allergic rhinitis at study entry .
+The period of randomized treatment was 2 weeks in 4 trials and 4 weeks in one trial .
+The primary outcome variable was mean change from baseline in daytime nasal symptoms score ( the average of individual scores of nasal congestion , rhinorrhea , nasal itching , sneezing ) as assessed by patients on a 0 - 3 categorical scale .
+Four of the five trials showed a significant reduction in daytime nasal symptoms scores with SINGULAIR 10 - mg tablets compared with placebo .
+The efficacy results of one trial are shown below ; the remaining three trials that demonstrated efficacy showed similar results .
+The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received SINGULAIR tablets , loratadine and placebo are shown in TABLE 4 .
+TABLE 4 : Effects of SINGULAIR on Daytime Nasal Symptoms Score [ 1 ] in a Placebo - and Active - controlled Trial in Patients with Seasonal Allergic Rhinitis Treatment Group ( N ) Baseline Mean Score Mean Change from Baseline Difference Between Treatment and Placebo ( 95 % CI ) Least - Squares Mean SINGULAIR 10 mg ( 344 ) 2 . 09 - 0 . 39 - 0 . 13 [ 2 ] ( - 0 . 21 , - 0 . 06 ) Placebo ( 351 ) 2 . 10 - 0 . 26 N . A . Active Control [ 3 ] ( Loratadine 10 mg ) ( 599 ) 2 . 06 - 0 . 46 - 0 . 24 null ( - 0 . 31 , - 0 . 17 ) [ 1 ] Average of individual scores of nasal congestion , rhinorrhea , nasal itching , sneezing as assessed by patients on a 0 - 3 categorical scale .
+[ 2 ] Statistically different from placebo ( p ≤ 0 . 001 ) .
+[ 3 ] The study was not designed for statistical comparison between SINGULAIR and the active control ( loratadine ) .
+Clinical Studies – Perennial Allergic Rhinitis The efficacy of SINGULAIR tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized , double - blind , placebo - controlled studies conducted in North America and Europe .
+The two studies enrolled a total of 3357 patients , of whom 1632 received SINGULAIR 10 - mg tablets .
+Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen ( dust mites , animal dander , and / or mold spores ) , who had active symptoms at the time of study entry , were enrolled .
+In the study in which efficacy was demonstrated , SINGULAIR 10 - mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6 - week treatment period ( TABLE 5 ) ; in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score ( the average of individual scores of nasal congestion , rhinorrhea , and sneezing ) .
+TABLE 5 : Effects of SINGULAIR on Daytime Nasal Symptoms Score [ 1 ] in a Placebo - controlled Trial in Patients with Perennial Allergic Rhinitis Treatment Group ( N ) Baseline Mean Score Mean Change from Baseline Difference Between Treatment and Placebo ( 95 % CI ) Least - Squares Mean SINGULAIR 10 mg ( 1000 ) 2 . 09 - 0 . 42 - 0 . 08 [ 2 ] ( - 0 . 12 , - 0 . 04 ) Placebo ( 980 ) 2 . 10 - 0 . 35 N . A . [ 1 ] Average of individual scores of nasal congestion , rhinorrhea , sneezing as assessed by patients on a 0 - 3 categorical scale .
+[ 2 ] Statistically different from placebo ( p ≤ 0 . 001 ) .
+The other 6 - week study evaluated SINGULAIR 10 mg ( n = 626 ) , placebo ( n = 609 ) , and an active - control ( cetirizine 10 mg ; n = 120 ) .
+The primary analysis compared the mean change from baseline in daytime nasal symptoms score for SINGULAIR vs . placebo over the first 4 weeks of treatment ; the study was not designed for statistical comparison between SINGULAIR and the active - control .
+The primary outcome variable included nasal itching in addition to nasal congestion , rhinorrhea , and sneezing .
+The estimated difference between SINGULAIR and placebo was - 0 . 04 with a 95 % CI of ( - 0 . 09 , 0 . 01 ) .
+The estimated difference between the active - control and placebo was - 0 . 10 with a 95 % CI of ( - 0 . 19 , - 0 . 01 ) .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] INDICATIONS AND USAGE SINGULAIR is indicated for the prophylaxis and chronic treatment of asthma in adults and pediatric patients 12 months of age and older .
+SINGULAIR is indicated for prevention of exercise - induced bronchoconstriction in patients 15 years of age and older .
+SINGULAIR is indicated for the relief of symptoms of allergic rhinitis ( seasonal allergic rhinitis in adults and pediatric patients 2 years of age and older , and perennial allergic rhinitis in adults and pediatric patients 6 months of age and older ) .
+CONTRAINDICATIONS Hypersensitivity to any component of this product .
+PRECAUTIONS General SINGULAIR is not indicated for use in the reversal of bronchospasm in acute asthma attacks , including status asthmaticus .
+Patients should be advised to have appropriate rescue medication available .
+Therapy with SINGULAIR can be continued during acute exacerbations of asthma .
+Patients who have exacerbations of asthma after exercise should have available for rescue a short - acting inhaled β - agonist .
+While the dose of inhaled corticosteroid may be reduced gradually under medical supervision , SINGULAIR should not be abruptly substituted for inhaled or oral corticosteroids .
+Patients with known aspirin sensitivity should continue avoidance of aspirin or non - steroidal anti - inflammatory agents while taking SINGULAIR .
+Although SINGULAIR is effective in improving airway function in asthmatics with documented aspirin sensitivity , it has not been shown to truncate bronchoconstrictor response to aspirin and other non - steroidal anti - inflammatory drugs in aspirin - sensitive asthmatic patients ( see CLINICAL PHARMACOLOGY , Clinical Studies ) .
+Neuropsychiatric Events Neuropsychiatric events have been reported in adult , adolescent , and pediatric patients taking SINGULAIR .
+Post - marketing reports with SINGULAIR use include agitation , aggressive behavior or hostility , anxiousness , depression , dream abnormalities , hallucinations , insomnia , irritability , restlessness , somnambulism , suicidal thinking and behavior ( including suicide ) , and tremor .
+The clinical details of some post - marketing reports involving SINGULAIR appear consistent with a drug - induced effect .
+Patients and prescribers should be alert for neuropsychiatric events .
+Patients should be instructed to notify their prescriber if these changes occur .
+Prescribers should carefully evaluate the risks and benefits of continuing treatment with SINGULAIR if such events occur ( see ADVERSE REACTIONS , Post - Marketing Experience ) .
+Eosinophilic Conditions In rare cases , patients with asthma on therapy with SINGULAIR may present with systemic eosinophilia , sometimes presenting with clinical features of vasculitis consistent with Churg - Strauss syndrome , a condition which is often treated with systemic corticosteroid therapy .
+These events usually , but not always , have been associated with the reduction of oral corticosteroid therapy .
+Physicians should be alert to eosinophilia , vasculitic rash , worsening pulmonary symptoms , cardiac complications , and / or neuropathy presenting in their patients .
+A causal association between SINGULAIR and these underlying conditions has not been established ( see ADVERSE REACTIONS ) .
+Information for Patients • Patients should be advised to take SINGULAIR daily as prescribed , even when they are asymptomatic , as well as during periods of worsening asthma , and to contact their physicians if their asthma is not well controlled .
+• Patients should be advised that oral SINGULAIR is not for the treatment of acute asthma attacks .
+They should have appropriate short - acting inhaled β - agonist medication available to treat asthma exacerbations .
+Patients who have exacerbations of asthma after exercise should be instructed to have available for rescue a short - acting inhaled β - agonist .
+Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of exercise - induced bronchoconstriction .
+• Patients should be advised that , while using SINGULAIR , medical attention should be sought if short - acting inhaled bronchodilators are needed more often than usual , or if more than the maximum number of inhalations of short - acting bronchodilator treatment prescribed for a 24 - hour period are needed .
+• Patients receiving SINGULAIR should be instructed not to decrease the dose or stop taking any other anti - asthma medications unless instructed by a physician .
+• Patients should be instructed to notify their physician if neuropsychiatric events occur while using SINGULAIR .
+• Patients with known aspirin sensitivity should be advised to continue avoidance of aspirin or non - steroidal anti - inflammatory agents while taking SINGULAIR .
+Chewable Tablets • Phenylketonurics : Phenylketonuric patients should be informed that the 4 - mg and 5 - mg chewable tablets contain phenylalanine ( a component of aspartame ) , 0 . 674 and 0 . 842 mg per 4 - mg and 5 - mg chewable tablet , respectively .
+Drug Interactions SINGULAIR has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions .
+In drug - interaction studies , the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs : theophylline , prednisone , prednisolone , oral contraceptives ( norethindrone 1 mg / ethinyl estradiol 35 mcg ) , terfenadine , digoxin , and warfarin .
+Although additional specific interaction studies were not performed , SINGULAIR was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions .
+These medications included thyroid hormones , sedative hypnotics , non - steroidal anti - inflammatory agents , benzodiazepines , and decongestants .
+Phenobarbital , which induces hepatic metabolism , decreased the AUC of montelukast approximately 40 % following a single 10 - mg dose of montelukast .
+No dosage adjustment for SINGULAIR is recommended .
+It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers , such as phenobarbital or rifampin , are co - administered with SINGULAIR .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No evidence of tumorigenicity was seen in carcinogenicity studies of either 2 years in Sprague - Dawley rats or 92 weeks in mice at oral gavage doses up to 200 mg / kg / day or 100 mg / kg / day , respectively .
+The estimated exposure in rats was approximately 120 and 75 times the area under the plasma concentration versus time curve ( AUC ) for adults and children , respectively , at the maximum recommended daily oral dose .
+The estimated exposure in mice was approximately 45 and 25 times the AUC for adults and children , respectively , at the maximum recommended daily oral dose .
+Montelukast demonstrated no evidence of mutagenic or clastogenic activity in the following assays : the microbial mutagenesis assay , the V - 79 mammalian cell mutagenesis assay , the alkaline elution assay in rat hepatocytes , the chromosomal aberration assay in Chinese hamster ovary cells , and in the in vivo mouse bone marrow chromosomal aberration assay .
+In fertility studies in female rats , montelukast produced reductions in fertility and fecundity indices at an oral dose of 200 mg / kg ( estimated exposure was approximately 70 times the AUC for adults at the maximum recommended daily oral dose ) .
+No effects on female fertility or fecundity were observed at an oral dose of 100 mg / kg ( estimated exposure was approximately 20 times the AUC for adults at the maximum recommended daily oral dose ) .
+Montelukast had no effects on fertility in male rats at oral doses up to 800 mg / kg ( estimated exposure was approximately 160 times the AUC for adults at the maximum recommended daily oral dose ) .
+Pregnancy Teratogenic Effects Pregnancy Category B No teratogenicity was observed in rats at oral doses up to 400 mg / kg / day ( estimated exposure was approximately 100 times the AUC for adults at the maximum recommended daily oral dose ) and in rabbits at oral doses up to 300 mg / kg / day ( estimated exposure was approximately 110 times the AUC for adults at the maximum recommended daily oral dose ) .
+Montelukast crosses the placenta following oral dosing in rats and rabbits .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , SINGULAIR should be used during pregnancy only if clearly needed .
+During worldwide marketing experience , congenital limb defects have been rarely reported in the offspring of women being treated with SINGULAIR during pregnancy .
+Most of these women were also taking other asthma medications during their pregnancy .
+A causal relationship between these events and SINGULAIR has not been established .
+Merck & Co . , Inc . maintains a registry to monitor the pregnancy outcomes of women exposed to SINGULAIR while pregnant .
+Healthcare providers are encouraged to report any prenatal exposure to SINGULAIR by calling the Pregnancy Registry at ( 800 ) 986 - 8999 .
+Nursing Mothers Studies in rats have shown that montelukast is excreted in milk .
+It is not known if montelukast is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when SINGULAIR is given to a nursing mother .
+Pediatric Use Safety and efficacy of SINGULAIR have been established in adequate and well - controlled studies in pediatric patients with asthma 6 to 14 years of age .
+Safety and efficacy profiles in this age group are similar to those seen in adults .
+( See Clinical Studies and ADVERSE REACTIONS . )
+The efficacy of SINGULAIR for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 6 months to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course , pathophysiology and the drug ’ s effect are substantially similar among these populations .
+The safety of SINGULAIR 4 - mg chewable tablets in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well - controlled data ( see ADVERSE REACTIONS ) .
+Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data , as well as the assumption that the disease course , pathophysiology and the drug ’ s effect are substantially similar among these populations .
+Efficacy in this age group is supported by exploratory efficacy assessments from a large , well - controlled safety study conducted in patients 2 to 5 years of age .
+The safety of SINGULAIR 4 - mg oral granules in pediatric patients 12 to 23 months of age with asthma has been demonstrated in an analysis of 172 pediatric patients , 124 of whom were treated with SINGULAIR , in a 6 - week , double - blind , placebo - controlled study ( see ADVERSE REACTIONS ) .
+Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma based on similar mean systemic exposure ( AUC ) , and that the disease course , pathophysiology and the drug ’ s effect are substantially similar among these populations , supported by efficacy data from a safety trial in which efficacy was an exploratory assessment .
+The safety of SINGULAIR 4 - mg and 5 - mg chewable tablets in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma .
+A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile ( see ADVERSE REACTIONS ) .
+The safety of SINGULAIR 4 - mg oral granules in pediatric patients as young as 6 months of age with perennial allergic rhinitis is supported by extrapolation from safety data obtained from studies conducted in pediatric patients 6 months to 23 months of age with asthma and from pharmacokinetic data comparing systemic exposures in patients 6 months to 23 months of age to systemic exposures in adults .
+The safety and effectiveness in pediatric patients below the age of 12 months with asthma and 6 months with perennial allergic rhinitis have not been established .
+Geriatric Use Of the total number of subjects in clinical studies of montelukast , 3 . 5 % were 65 years of age and over , and 0 . 4 % were 75 years of age and over .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals cannot be ruled out .
+ADVERSE REACTIONS Adults and Adolescents 15 Years of Age and Older with Asthma SINGULAIR has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials .
+In placebo - controlled clinical trials , the following adverse experiences reported with SINGULAIR occurred in greater than or equal to 1 % of patients and at an incidence greater than that in patients treated with placebo , regardless of causality assessment : Adverse Experiences Occurring in ≥ 1 % of Patients with an Incidence Greater than that in Patients Treated with Placebo , Regardless of Causality Assessment SINGULAIR 10 mg / day ( % ) ( n = 1955 ) Placebo ( % ) ( n = 1180 ) Body As A Whole Asthenia / fatigue Fever Pain , abdominal Trauma 1 . 8 1 . 5 2 . 9 1 . 0 1 . 2 0 . 9 2 . 5 0 . 8 Digestive System Disorders Dyspepsia Gastroenteritis , infectious Pain , dental 2 . 1 1 . 5 1 . 7 1 . 1 0 . 5 1 . 0 Nervous System / Psychiatric Dizziness Headache 1 . 9 18 . 4 1 . 4 18 . 1 Respiratory System Disorders Congestion , nasal Cough Influenza 1 . 6 2 . 7 4 . 2 1 . 3 2 . 4 3 . 9 Skin / Skin Appendages Disorder Rash 1 . 6 1 . 2 Laboratory Adverse Experiences [ 1 ] ALT increased AST increased Pyuria 2 . 1 1 . 6 1 . 0 2 . 0 1 . 2 0 . 9 [ 1 ] Number of patients tested ( SINGULAIR and placebo , respectively ) : ALT and AST , 1935 , 1170 ; pyuria , 1924 , 1159 .
+The frequency of less common adverse events was comparable between SINGULAIR and placebo .
+The safety profile of SINGULAIR when administered as a single dose for prevention of EIB in adult and adolescent patients 15 years of age and older was consistent with the safety profile previously described for SINGULAIR .
+Cumulatively , 569 patients were treated with SINGULAIR for at least 6 months , 480 for one year , and 49 for two years in clinical trials .
+With prolonged treatment , the adverse experience profile did not significantly change .
+Pediatric Patients 6 to 14 Years of Age with Asthma SINGULAIR has been evaluated for safety in 476 pediatric patients 6 to 14 years of age .
+Cumulatively , 289 pediatric patients were treated with SINGULAIR for at least 6 months , and 241 for one year or longer in clinical trials .
+The safety profile of SINGULAIR in the 8 - week , double - blind , pediatric efficacy trial was generally similar to the adult safety profile .
+In pediatric patients 6 to 14 years of age receiving SINGULAIR , the following events occurred with a frequency ≥ 2 % and more frequently than in pediatric patients who received placebo , regardless of causality assessment : pharyngitis , influenza , fever , sinusitis , nausea , diarrhea , dyspepsia , otitis , viral infection , and laryngitis .
+The frequency of less common adverse events was comparable between SINGULAIR and placebo .
+With prolonged treatment , the adverse experience profile did not significantly change .
+In studies evaluating growth rate , the safety profile in these pediatric patients was consistent with the safety profile previously described for SINGULAIR .
+In a 56 - week , double - blind study evaluating growth rate in pediatric patients 6 to 8 years of age receiving SINGULAIR , the following events not previously observed with the use of SINGULAIR in this age group occurred with a frequency ≥ 2 % and more frequently than in pediatric patients who received placebo , regardless of causality assessment : headache , rhinitis ( infective ) , varicella , gastroenteritis , atopic dermatitis , acute bronchitis , tooth infection , skin infection , and myopia .
+Pediatric Patients 2 to 5 Years of Age with Asthma SINGULAIR has been evaluated for safety in 573 pediatric patients 2 to 5 years of age in single - and multiple - dose studies .
+Cumulatively , 426 pediatric patients 2 to 5 years of age were treated with SINGULAIR for at least 3 months , 230 for 6 months or longer , and 63 patients for one year or longer in clinical trials .
+SINGULAIR 4 mg administered once daily at bedtime was generally well tolerated in clinical trials .
+In pediatric patients 2 to 5 years of age receiving SINGULAIR , the following events occurred with a frequency ≥ 2 % and more frequently than in pediatric patients who received placebo , regardless of causality assessment : fever , cough , abdominal pain , diarrhea , headache , rhinorrhea , sinusitis , otitis , influenza , rash , ear pain , gastroenteritis , eczema , urticaria , varicella , pneumonia , dermatitis , and conjunctivitis .
+Pediatric Patients 6 to 23 Months of Age with Asthma Safety and effectiveness in pediatric patients younger than 12 months of age with asthma have not been established .
+SINGULAIR has been evaluated for safety in 175 pediatric patients 6 to 23 months of age .
+The safety profile of SINGULAIR in a 6 - week , double - blind , placebo - controlled clinical study was generally similar to the safety profile in adults and pediatric patients 2 to 14 years of age .
+SINGULAIR administered once daily at bedtime was generally well tolerated .
+In pediatric patients 6 to 23 months of age receiving SINGULAIR , the following events occurred with a frequency ≥ 2 % and more frequently than in pediatric patients who received placebo , regardless of causality assessment : upper respiratory infection , wheezing ; otitis media ; pharyngitis , tonsillitis , cough ; and rhinitis .
+The frequency of less common adverse events was comparable between SINGULAIR and placebo .
+Adults and Adolescents 15 Years of Age and Older with Seasonal Allergic Rhinitis SINGULAIR has been evaluated for safety in 2199 adult and adolescent patients 15 years of age and older in clinical trials .
+SINGULAIR administered once daily in the morning or in the evening was generally well tolerated with a safety profile similar to that of placebo .
+In placebo - controlled clinical trials , the following event was reported with SINGULAIR with a frequency ≥ 1 % and at an incidence greater than placebo , regardless of causality assessment : upper respiratory infection , 1 . 9 % of patients receiving SINGULAIR vs . 1 . 5 % of patients receiving placebo .
+In a 4 - week , placebo - controlled clinical study , the safety profile was consistent with that observed in 2 - week studies .
+The incidence of somnolence was similar to that of placebo in all studies .
+Pediatric Patients 2 to 14 Years of Age with Seasonal Allergic Rhinitis SINGULAIR has been evaluated in 280 pediatric patients 2 to 14 years of age in a 2 - week , multicenter , double - blind , placebo - controlled , parallel - group safety study .
+SINGULAIR administered once daily in the evening was generally well tolerated with a safety profile similar to that of placebo .
+In this study , the following events occurred with a frequency ≥ 2 % and at an incidence greater than placebo , regardless of causality assessment : headache , otitis media , pharyngitis , and upper respiratory infection .
+Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhinitis SINGULAIR has been evaluated for safety in 3357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1632 received SINGULAIR in two , 6 - week , clinical studies .
+SINGULAIR administered once daily was generally well tolerated , with a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo .
+In these two studies , the following events were reported with SINGULAIR with a frequency ≥ 1 % and at an incidence greater than placebo , regardless of causality assessment : sinusitis , upper respiratory infection , sinus headache , cough , epistaxis , and increased ALT .
+The incidence of somnolence was similar to that of placebo .
+Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the established safety in patients 2 to 14 years of age with seasonal allergic rhinitis .
+The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies .
+Post - Marketing Experience The following additional adverse reactions have been reported in post - marketing use : Blood and lymphatic system disorders : increased bleeding tendency Immune system disorders : hypersensitivity reactions including anaphylaxis , very rarely hepatic eosinophilic infiltration Psychiatric disorders : agitation including aggressive behavior or hostility , anxiousness , depression , dream abnormalities , hallucinations , insomnia , irritability , restlessness , somnambulism , suicidal thinking and behavior ( including suicide ) , tremor ( see PRECAUTIONS , Neuropsychiatric Events ) Nervous system disorders : drowsiness , paraesthesia / hypoesthesia , seizures Cardiac disorders : palpitations Respiratory , thoracic and mediastinal disorders : epistaxis Gastrointestinal disorders : diarrhea , dyspepsia , nausea , very rarely pancreatitis , vomiting Hepatobiliary disorders : Rare cases of cholestatic hepatitis , hepatocellular liver - injury , and mixed - pattern liver injury have been reported in patients treated with SINGULAIR .
+Most of these occurred in combination with other confounding factors , such as use of other medications , or when SINGULAIR was administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis .
+Skin and subcutaneous tissue disorders : angioedema , bruising , erythema nodosum , pruritus , urticaria Musculoskeletal and connective tissue disorders : arthralgia , myalgia including muscle cramps General disorders and administration site conditions : edema In rare cases , patients with asthma on therapy with SINGULAIR may present with systemic eosinophilia , sometimes presenting with clinical features of vasculitis consistent with Churg - Strauss syndrome , a condition which is often treated with systemic corticosteroid therapy .
+These events usually , but not always , have been associated with the reduction of oral corticosteroid therapy .
+Physicians should be alert to eosinophilia , vasculitic rash , worsening pulmonary symptoms , cardiac complications , and / or neuropathy presenting in their patients .
+A causal association between SINGULAIR and these underlying conditions has not been established ( see PRECAUTIONS , Eosinophilic Conditions ) .
+OVERDOSAGE No mortality occurred following single oral doses of montelukast up to 5000 mg / kg in mice ( estimated exposure was approximately 335 and 210 times the AUC for adults and children , respectively , at the maximum recommended daily oral dose ) and rats ( estimated exposure was approximately 230 and 145 times the AUC for adults and children , respectively , at the maximum recommended daily oral dose ) .
+No specific information is available on the treatment of overdosage with SINGULAIR .
+In chronic asthma studies , montelukast has been administered at doses up to 200 mg / day to adult patients for 22 weeks and , in short - term studies , up to 900 mg / day to patients for approximately a week without clinically important adverse experiences .
+In the event of overdose , it is reasonable to employ the usual supportive measures ; e . g . , remove unabsorbed material from the gastrointestinal tract , employ clinical monitoring , and institute supportive therapy , if required .
+There have been reports of acute overdosage in post - marketing experience and clinical studies with SINGULAIR .
+These include reports in adults and children with a dose as high as 1000 mg .
+The clinical and laboratory findings observed were consistent with the safety profile in adults and pediatric patients .
+There were no adverse experiences in the majority of overdosage reports .
+The most frequently occurring adverse experiences were consistent with the safety profile of SINGULAIR and included abdominal pain , somnolence , thirst , headache , vomiting and psychomotor hyperactivity .
+It is not known whether montelukast is removed by peritoneal dialysis or hemodialysis .
+DOSAGE AND ADMINISTRATION Dosage Information The dosage for adults and adolescents 15 years of age and older is one 10 - mg tablet .
+The dosage for pediatric patients 6 to 14 years of age is one 5 - mg chewable tablet .
+The dosage for pediatric patients 2 to 5 years of age is one 4 - mg chewable tablet or one packet of 4 - mg oral granules .
+The dosage for pediatric patients 6 to 23 months of age is one packet of 4 - mg oral granules .
+Asthma in Patients 12 Months of Age and Older SINGULAIR should be taken once daily in the evening .
+Safety and effectiveness in pediatric patients less than 12 months of age have not been established .
+Exercise - Induced Bronchoconstriction ( EIB ) in Patients 15 Years of Age and Older : For prevention of EIB , a single dose of SINGULAIR should be taken at least 2 hours before exercise .
+An additional dose of SINGULAIR should not be taken within 24 hours of a previous dose .
+Patients already taking one tablet daily for another indication ( including chronic asthma ) should not take an additional dose to prevent EIB .
+All patients should have available for rescue a short - acting β - agonist .
+Safety and effectiveness in patients younger than 15 years of age have not been established .
+Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of exercise - induced bronchoconstriction .
+Allergic Rhinitis Seasonal Allergic Rhinitis in Patients 2 Years and Older Perennial Allergic Rhinitis in Patients 6 Months and Older For allergic rhinitis SINGULAIR should be taken once daily .
+The time of administration may be individualized to suit patient needs .
+Safety and effectiveness in pediatric patients younger than 2 years of age with seasonal allergic rhinitis and less than 6 months of age with perennial allergic rhinitis have not been established .
+Asthma and Allergic Rhinitis in Patients 12 Months of Age and Older : Patients with both asthma and allergic rhinitis should take only one tablet daily in the evening .
+Administration of SINGULAIR Oral Granules SINGULAIR 4 - mg oral granules can be administered either directly in the mouth , dissolved in 1 teaspoonful ( 5 mL ) of cold or room temperature baby formula or breast milk , or mixed with a spoonful of cold or room temperature soft foods ; based on stability studies , only applesauce , carrots , rice , or ice cream should be used .
+The packet should not be opened until ready to use .
+After opening the packet , the full dose ( with or without mixing with baby formula , breast milk , or food ) must be administered within 15 minutes .
+If mixed with baby formula , breast milk , or food , SINGULAIR oral granules must not be stored for future use .
+Discard any unused portion .
+SINGULAIR oral granules are not intended to be dissolved in any liquid other than baby formula or breast milk for administration .
+However , liquids may be taken subsequent to administration .
+SINGULAIR oral granules can be administered without regard to the time of meals .
+HOW SUPPLIED No . 3841 — SINGULAIR Oral Granules , 4 mg , are white granules with 500 mg net weight , packed in a child - resistant foil packet .
+No . 3796 — SINGULAIR Tablets , 4 mg , are pink , oval , bi - convex - shaped chewable tablets , with code MRK 711 on one side and SINGULAIR on the other .
+No . 3760 — SINGULAIR Tablets , 5 mg , are pink , round , bi - convex - shaped chewable tablets , with code MRK 275 on one side and SINGULAIR on the other .
+No . 3761 — SINGULAIR Tablets , 10 mg , are beige , rounded square - shaped , film - coated tablets , with code MRK 117 on one side and SINGULAIR on the other .
+They are supplied by Dispensing Solutions Inc . as follows : NDC Strength Quantity / Form Color Source NDC 68258 - 3032 - 03 5 mg 30 TABLET pink 0006 - 0275 - 31 68258 - 3033 - 03 10 mg 30 TABLET beige 0006 - 0117 - 31 This product was Manufactured By : MERCK SHARP & DOHME LTD .
+Cramlington , Northumberland , UK NE23 3 JU Distributed by : MERCK & CO . , INC .
+Whitehouse Station , NJ 08889 , USA And Repackaged By : Dispensing Solutions Inc .
+3000 West Warner Ave Santa Ana , CA 92704 United States Storage Store SINGULAIR 4 - mg oral granules , 4 - mg chewable tablets , 5 - mg chewable tablets and 10 - mg film - coated tablets at 25 ° C ( 77 ° F ) , excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from moisture and light .
+Store in original package .
+Storage for Bulk Bottles Store bottles of 1000 SINGULAIR 5 - mg chewable tablets and 8000 SINGULAIR 10 - mg film - coated tablets at 25 ° C ( 77 ° F ) , excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from moisture and light .
+Store in original container .
+When product container is subdivided , repackage into a well - closed , light resistant container .
+PATIENT PACKAGE INSERT Patient Information SINGULAIR ® ( SING - u - lair ) Tablets , Chewable Tablets , and Oral Granules Generic name : montelukast ( mon - te - LOO - kast ) sodium Read this information before you start taking SINGULAIR ® .
+Also , read the leaflet you get each time you refill SINGULAIR , since there may be new information in the leaflet since the last time you saw it .
+This leaflet does not take the place of talking with your doctor about your medical condition and / or your treatment .
+What is SINGULAIR1 ?
+• SINGULAIR is a medicine called a leukotriene receptor antagonist .
+It works by blocking substances in the body called leukotrienes .
+Blocking leukotrienes improves asthma and allergic rhinitis .
+SINGULAIR is not a steroid .
+Studies have shown that SINGULAIR does not affect the growth rate of children .
+( See the end of this leaflet for more information about asthma and allergic rhinitis . )
+SINGULAIR is prescribed for the treatment of asthma , the prevention of exercise - induced asthma , and allergic rhinitis : • Asthma .
+SINGULAIR should be used for the long - term management of asthma in adults and children ages 12 months and older .
+Do not take SINGULAIR for the immediate relief of an asthma attack .
+If you get an asthma attack , you should follow the instructions your doctor gave you for treating asthma attacks .
+• Prevention of exercise - induced asthma .
+SINGULAIR is used for the prevention of exercise - induced asthma in patients 15 years of age and older .
+• Allergic Rhinitis .
+SINGULAIR is used to help control the symptoms of allergic rhinitis ( sneezing , stuffy nose , runny nose , itching of the nose ) .
+SINGULAIR is used to treat seasonal allergic rhinitis ( outdoor allergies that happen part of the year ) in adults and children ages 2 years and older , and perennial allergic rhinitis ( indoor allergies that happen all year ) in adults and children ages 6 months and older .
+Who should not take SINGULAIR ?
+Do not take SINGULAIR if you are allergic to SINGULAIR or any of its ingredients .
+The active ingredient in SINGULAIR is montelukast sodium .
+See the end of this leaflet for a list of all the ingredients in SINGULAIR .
+What should I tell my doctor before I start taking SINGULAIR ?
+Tell your doctor about : • Pregnancy : If you are pregnant or plan to become pregnant , SINGULAIR may not be right for you .
+• Breast - feeding : If you are breast - feeding , SINGULAIR may be passed in your milk to your baby .
+You should consult your doctor before taking SINGULAIR if you are breast - feeding or intend to breast - feed .
+• Medical Problems or Allergies : Talk about any medical problems or allergies you have now or had in the past .
+• Other Medicines : Tell your doctor about all the medicines you take , including prescription and non - prescription medicines , and herbal supplements .
+Some medicines may affect how SINGULAIR works , or SINGULAIR may affect how your other medicines work .
+How should I take SINGULAIR ?
+For adults and children 12 months of age and older with asthma : • Take SINGULAIR once a day in the evening .
+• Take SINGULAIR every day for as long as your doctor prescribes it , even if you have no asthma symptoms .
+• You may take SINGULAIR with food or without food .
+• If your asthma symptoms get worse , or if you need to increase the use of your inhaled rescue medicine for asthma attacks , call your doctor right away .
+• Do not take SINGULAIR for the immediate relief of an asthma attack .
+If you get an asthma attack , you should follow the instructions your doctor gave you for treating asthma attacks .
+• Always have your inhaled rescue medicine for asthma attacks with you .
+• Do not stop taking or lower the dose of your other asthma medicines unless your doctor tells you to .
+For patients 15 years of age and older for the prevention of exercise - induced asthma : • Take SINGULAIR at least 2 hours before exercise .
+• Always have your inhaled rescue medicine for asthma attacks with you .
+• If you are taking SINGULAIR daily for chronic asthma or allergic rhinitis , do not take an additional dose to prevent exercise - induced asthma .
+Speak to your doctor about your treatment of exercise - induced asthma .
+• Do not take an additional dose of SINGULAIR within 24 hours of a previous dose .
+For adults and children 2 years of age and older with seasonal allergic rhinitis , or for adults and children 6 months of age and older with perennial allergic rhinitis : • Take SINGULAIR once a day , at about the same time each day .
+• Take SINGULAIR every day for as long as your doctor prescribes it .
+• You may take SINGULAIR with food or without food .
+How should I give SINGULAIR oral granules to my child ?
+Do not open the packet until ready to use .
+SINGULAIR 4 - mg oral granules can be given : • directly in the mouth ; • dissolved in 1 teaspoonful ( 5 mL ) of cold or room temperature baby formula or breast milk ; • mixed with a spoonful of one of the following soft foods at cold or room temperature : applesauce , mashed carrots , rice , or ice cream .
+Be sure that the entire dose is mixed with the food , baby formula , or breast milk and that the child is given the entire spoonful of the food , baby formula , or breast milk mixture right away ( within 15 minutes ) .
+IMPORTANT : Never store any oral granules mixed with food , baby formula , or breast milk for use at a later time .
+Throw away any unused portion .
+Do not put SINGULAIR oral granules in any liquid drink other than baby formula or breast milk .
+However , your child may drink liquids after swallowing the SINGULAIR oral granules .
+What is the dose of SINGULAIR ?
+For asthma - Take once daily in the evening : • One 10 - mg tablet for adults and adolescents 15 years of age and older , • One 5 - mg chewable tablet for children 6 to 14 years of age , • One 4 - mg chewable tablet or one packet of 4 - mg oral granules for children 2 to 5 years of age , or • One packet of 4 - mg oral granules for children 12 to 23 months of age .
+For exercise - induced asthma - Take at least 2 hours before exercise , but not more than once daily : • One 10 - mg tablet for adults and adolescents 15 years of age and older .
+For allergic rhinitis - Take once daily at about the same time each day : • One 10 - mg tablet for adults and adolescents 15 years of age and older , • One 5 - mg chewable tablet for children 6 to 14 years of age , • One 4 - mg chewable tablet for children 2 to 5 years of age , or • One packet of 4 - mg oral granules for children 2 to 5 years of age with seasonal allergic rhinitis , or for children 6 months to 5 years of age with perennial allergic rhinitis .
+What should I avoid while taking SINGULAIR ?
+If you have asthma and if your asthma is made worse by aspirin , continue to avoid aspirin or other medicines called non - steroidal anti - inflammatory drugs while taking SINGULAIR .
+What are the possible side effects of SINGULAIR ?
+The side effects of SINGULAIR are usually mild , and generally did not cause patients to stop taking their medicine .
+The side effects in patients treated with SINGULAIR were similar in type and frequency to side effects in patients who were given a placebo ( a pill containing no medicine ) .
+The most common side effects with SINGULAIR include : • stomach pain • stomach or intestinal upset • heartburn • tiredness • fever • stuffy nose • cough • flu • upper respiratory infection • dizziness • headache • rash Less common side effects that have happened with SINGULAIR include : • increased bleeding tendency • allergic reactions [ including swelling of the face , lips , tongue , and / or throat ( which may cause trouble breathing or swallowing ) , hives and itching ] • drowsiness , pins and needles / numbness , seizures ( convulsions or fits ) • palpitations • nose bleed • diarrhea , indigestion , inflammation of the pancreas , nausea , vomiting • hepatitis • bruising • joint pain , muscle aches and muscle cramps • swelling Behavior and mood - related changes have been reported : agitation including aggressive behavior or hostility , bad / vivid dreams , depression , feeling anxious , hallucinations ( seeing things that are not there ) , irritability , restlessness , sleep walking , suicidal thoughts and actions ( including suicide ) , tremor , trouble sleeping .
+Tell your doctor if you experience behavior or mood - related changes while taking SINGULAIR .
+Rarely , asthmatic patients taking SINGULAIR have experienced a condition that includes certain symptoms that do not go away or that get worse .
+These occur usually , but not always , in patients who were taking steroid pills by mouth for asthma and those steroids were being slowly lowered or stopped .
+Although SINGULAIR has not been shown to cause this condition , you must tell your doctor right away if you get one or more of these symptoms : • a feeling of pins and needles or numbness of arms or legs • a flu - like illness • rash • severe inflammation ( pain and swelling ) of the sinuses ( sinusitis ) These are not all the possible side effects of SINGULAIR .
+For more information ask your doctor or pharmacist .
+Talk to your doctor if you think you have side effects from taking SINGULAIR .
+General Information about the safe and effective use of SINGULAIR Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets .
+Do not use SINGULAIR for a condition for which it was not prescribed .
+Do not give SINGULAIR to other people even if they have the same symptoms you have .
+It may harm them .
+Keep SINGULAIR and all medicines out of the reach of children .
+Store SINGULAIR at 25 ° C ( 77 ° F ) .
+Protect from moisture and light .
+Store in original package .
+This leaflet summarizes information about SINGULAIR .
+If you would like more information , talk to your doctor .
+You can ask your pharmacist or doctor for information about SINGULAIR that is written for health professionals .
+What are the ingredients in SINGULAIR ?
+Active ingredient : montelukast sodium SINGULAIR chewable tablets contain aspartame , a source of phenylalanine .
+Phenylketonurics : SINGULAIR 4 - mg and 5 - mg chewable tablets contain 0 . 674 and 0 . 842 mg phenylalanine , respectively .
+Inactive ingredients : • 4 - mg oral granules : mannitol , hydroxypropyl cellulose , and magnesium stearate .
+• 4 - mg and 5 - mg chewable tablets : mannitol , microcrystalline cellulose , hydroxypropyl cellulose , red ferric oxide , croscarmellose sodium , cherry flavor , aspartame , and magnesium stearate .
+• 10 - mg tablet : microcrystalline cellulose , lactose monohydrate , croscarmellose sodium , hydroxypropyl cellulose , magnesium stearate , hydroxypropyl methylcellulose , titanium dioxide , red ferric oxide , yellow ferric oxide , and carnauba wax .
+What is asthma ?
+Asthma is a continuing ( chronic ) inflammation of the bronchial passageways which are the tubes that carry air from outside the body to the lungs .
+Symptoms of asthma include : • coughing • wheezing • chest tightness • shortness of breath What is exercise - induced asthma ?
+Exercise - induced asthma , more accurately called exercise - induced bronchoconstriction occurs when exercise triggers symptoms of asthma .
+What is allergic rhinitis ?
+• Seasonal allergic rhinitis , also known as hay fever , is triggered by outdoor allergens such as pollens from trees , grasses , and weeds .
+• Perennial allergic rhinitis may occur year - round and is generally triggered by indoor allergens such as dust mites , animal dander , and / or mold spores .
+• Symptoms of allergic rhinitis may include : • stuffy , runny , and / or itchy nose • sneezing Rx only PRINCIPAL DISPLAY PANEL - CHEWABLE TABLETS - BOTTLE LABEL - 5 mg Singulair ® 5 mg ( Montelukast Sodium ) CHEWABLE TABLETS For Pediatric Patients 6 - 14 Years of Age Phenylketonurics : contains phenylalanine ( a component of aspartame ) 0 . 842 mg per 5 - mg chewable tablet .
+Each tablet contains 5 . 2 mg Montelukast Sodium equivalent to 5 mg Montelukast .
+30 Tablets NDC 68258 - 3032 - 03 Store at 25 ° C ( 77 ° F ) , excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from moisture and light .
+Store in original package .
+USUAL DOSAGE : See accompanying circular .
+Keep this and all drugs out of the reach of children Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - TABLETS - BOTTLE LABEL - 10 mg Singulair ® 10 mg ( Montelukast Sodium ) TABLETS For Adults 15 Years of Age and Older Each tablet contains 10 . 4 mg Montelukast Sodium equivalent to 10 mg Montelukast .
+30 Tablets NDC 68258 - 3033 - 03 Store at 25 ° C ( 77 ° F ) , excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from moisture and light .
+Store in original package .
+USUAL DOSAGE : See accompanying circular .
+Rx only [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,80 @@
+DESCRIPTION Xenon Xe 133 Gas is for diagnostic inhalation use only .
+It is supplied in vials containing either 370 or 740 megabecquerels ( 10 or 20 millicuries ) of Xenon Xe 133 Gas in 2 milliliters of carrier xenon and atmospheric air .
+Xenon Xe 133 Gas is chemically and physiologically similar to elemental xenon , a non - radioactive gas which is physiologically inert except for anesthetic properties at high doses .
+Xenon Xe 133 is produced by fission of Uranium U 235 .
+At the time of calibration , it contains no more than 0 . 3 % Xenon Xe 133 m , no more than 1 . 5 % Xenon Xe 131 m , no more than 0 . 06 % Krypton Kr 85 and no more than 0 . 01 % Iodine I 131 , with no less than 99 . 9 % total radioactivity as radioxenon .
+Table 1 shows the effect of time on radionuclidic composition .
+Table 1 .
+Radionuclidic Composition Percent of Total Radioactivity Days % Xe - 133 % Xe - 133 m % Xe - 131 m % Kr - 85 % I - 131 - 5 > 98 . 3 < 0 . 6 < 1 . 0 < 0 . 03 < 0 . 01 0 [ 1 ] > 98 . 1 < 0 . 3 < 1 . 5 < 0 . 06 < 0 . 01 7 > 97 . 2 < 0 . 08 < 2 . 5 < 0 . 15 < 0 . 02 14 [ 2 ] > 95 . 7 < 0 . 02 < 4 . 1 < 0 . 37 < 0 . 02 [ 1 ] Calibration Date [ 2 ] Expiration Date PHYSICAL CHARACTERISTICS Xenon Xe 133 decays by beta and gamma emissions with a physical half - life of 5 . 245 days .
+[ 1 ] Photons that are useful for detection and imaging studies as well as the principal beta emission are listed in Table 2 .
+Table 2 .
+Principal Radiation Emission Data Radiation Mean % Per Disintegration Energy ( keV ) Beta - 2 99 . 3 100 . 6 Avg .
+Gamma - 2 36 . 5 81 . 0 K alpha x - rays 38 . 9 30 . 8 Avg .
+K beta x - rays 9 . 1 35 . 0 Avg .
+[ 1 ] Kocher , David C . , " Radioactive Decay Data Tables , " DOE / TIC - 11026 , 138 ( 1981 ) .
+EXTERNAL RADIATION The specific gamma ray constant for Xenon Xe 133 is 0 . 51 R / hr - mCi at 1 cm .
+The first half - value thickness is 0 . 0035 cm of Pb .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 3 .
+For example , the use of 0 . 2 cm of Pb will decrease the external radiation exposure by a factor of about 1000 .
+Table 3 .
+Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) , cm Coefficient of Attenuation 0 . 0035 0 . 5 0 . 037 10 - 1 0 . 12 10 - 2 0 . 20 10 - 3 0 . 29 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected time intervals after the date of calibration are shown in Table 4 .
+Table 4 .
+Physical Decay Chart ; Xenon Xe 133 , Half - life 5 . 245 Days Days Fraction Remaining Days Fraction Remaining 0 [ 1 ] 1 . 000 8 0 . 347 1 0 . 876 9 0 . 304 2 0 . 768 10 0 . 267 3 0 . 673 11 0 . 234 4 0 . 589 12 0 . 205 5 0 . 516 13 0 . 179 6 0 . 453 14 0 . 157 7 0 . 397 [ 1 ] Calibration Date CLINICAL PHARMACOLOGY Xenon Xe 133 is a readily diffusible gas which is neither utilized nor produced by the body .
+It passes through cell membranes , freely exchanges between blood and tissue , and tends to concentrate more in body fat than in blood , plasma , water or protein solutions .
+In the concentrations recommended for diagnostic studies , it is physiologically inactive .
+Inhaled Xenon Xe 133 Gas will enter the alveolar wall and the pulmonary venous circulation via capillaries .
+Most of the Xenon Xe 133 Gas that enters the circulation from a single breath is returned to the lungs and exhaled after a single pass through the peripheral circulation .
+INDICATIONS AND USAGE Xenon Xe 133 Gas has been shown to be valuable for diagnostic inhalation studies for the evaluation of pulmonary function , for imaging the lungs and may also be applied to assessment of cerebral blood flow .
+CONTRAINDICATIONS None known .
+WARNINGS Xenon Xe 133 Gas delivery systems , i . e . , respirators or spirometers , and associated tubing assemblies must be leakproof to avoid loss of radioactivity into the laboratory environs not specifically protected by exhaust systems .
+Xenon Xe 133 Gas adheres to some plastics and rubber and should not be allowed to stand in tubing or respirator containers .
+Loss of radioactivity due to such adherence may render the study nondiagnostic .
+PRECAUTIONS General Xenon Xe 133 Gas as well as other radioactive drugs , must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel .
+Also , care should be taken to minimize radiation exposure to the patients consistent with proper patient management .
+Exhaled Xenon Xe 133 Gas should be controlled in a manner that is in compliance with the appropriate regulations of the government agency authorized to license the use of radionuclides .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential , mutagenic potential or whether this drug affects fertility in males or females .
+Pregnancy Category C Animal reproduction studies have not been conducted with Xenon Xe 133 Gas .
+It is also not known whether Xenon Xe 133 Gas can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Xenon Xe 133 Gas should be given to a pregnant woman only if clearly needed .
+Ideally , all examinations that use radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers It is not known whether this drug is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when Xenon Xe 133 Gas is administered to a nursing woman .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+ADVERSE REACTIONS Adverse reactions specifically attributable to Xenon Xe 133 Gas have not been reported .
+DOSAGE AND ADMINISTRATION Xenon Xe 133 Gas is administered by inhalation from a closed respirator system or spirometer .
+The final patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+The recommended activity range employed for inhalation by the average patient ( 70 kg ) is : Pulmonary function including imaging : 74 to 1110 megabecquerels ( 2 to 30 millicuries ) Cerebral blood flow : 370 to 1110 megabecquerels ( 10 to 30 millicuries ) This may be administered as a bolus into the tubing near the patient ' s mouthpiece or mask after the completion of a tidal exhalation , or by rebreathing for a period of approximately 5 minutes of the Xenon Xe 133 gas in equilibrium with the air contained in the closed system at concentrations of the radionuclide that may vary from 37 to 222 megabecquerels ( 1 . 0 to 6 . 0 millicuries ) per liter .
+RADIATION DOSIMETRY The estimated absorbed radiation doses to an average patient ( 70 kg ) for inhalation studies from a maximum dose of Xenon Xe 133 gas in 5 , 7 . 5 and 10 liters are shown in Table 5 .
+The values are the maximum absorbed dose that could be anticipated under the given conditions .
+Table 5 .
+Radiation Dose Estimates of Xenon Xe 133 [ 1 ] : Absorbed Dose per 1110 megabecquerels ( 30 millicuries ) of Xenon Xe 133 Gas Administered by Inhalation Tissue Spirometer Volume ( liters ) 5 7 . 5 10 Absorbed Radiation Doses mGy Rad mGy Rad mGy Rad Lung 3 . 3 0 . 33 2 . 46 0 . 246 1 . 95 0 . 195 Red Marrow 0 . 45 0 . 045 0 . 36 0 . 036 0 . 27 0 . 027 Ovaries 0 . 39 0 . 039 0 . 30 0 . 030 0 . 24 0 . 024 Testes 0 . 36 0 . 036 0 . 27 0 . 027 0 . 21 0 . 021 Total Body 0 . 42 0 . 042 0 . 33 0 . 033 0 . 27 0 . 027 [ 1 ] Atkins , Harold L . , et al . , Estimates of Radiation Absorbed Doses from Radioxenons in Lung Imaging .
+Task Group of the Medical Internal Radiation Dose Committee , Society of Nuclear Medicine , J . Nucl .
+Med . , 21 : 459 - 465 , 1980 .
+DIRECTIONS FOR DISPENSING Transfer the appropriate Xenon Xe 133 Gas dose from the Xenon Xe 133 Gas unit dose vial ( s ) to a breathing device or spirometer utilizing the Xenotron ™ I Xenon Gas Dispenser .
+Follow the directions for use that are provided with the Xenotron ™ I Xenon Gas Dispenser .
+Xenon Xe 133 Gas should not be used after 14 days from the date of calibration stated on the label .
+ACTIVITY MEASUREMENTS Calibrate a suitable commercial ionization chamber dose calibrator according to the manufacturer ' s instructions for that particular instrument .
+An instrument that gives direct radioactivity readouts is recommended .
+Use a National Institute of Standards and Technology ( NIST ) Xenon Xe 133 standard for the initial calibration .
+Also establish a secondary standard , such as Americium Am 241 , at that time for subsequent routine use .
+Other suitable radionuclides may also be used .
+Determine the effective readout of the secondary standard compared to the Xenon Xe 133 standard over the range of activities expected for routine measurements .
+Determine the radioactivities of the dose for administration as follows : • Check the dose calibrator for proper response with the secondary standard .
+• Insert the Xenon Xe 133 Gas unit dose vial in the dose calibrator and measure the apparent radioactivity of the Xenon Xe 133 .
+• Correct for decay as necessary .
+The radioactivity determined by this method is within 25 % of the true value .
+This degree of accuracy includes variations attributed to small differences in geometry and radiation attenuation between the NIST standard ampule and the Xenon Xe 133 Gas unit dose vial .
+HOW SUPPLIED Xenon Xe 133 Gas is available in 2 milliliter vials with color - coded labels in 370 megabecquerel ( 10 millicurie ; Catalog No . 097 ) and 740 megabecquerel ( 20 millicurie ; Catalog No . 098 ) sizes .
+Both sizes are available in packages of 1 , 3 and 5 vials , each with individual lead shielding .
+STORAGE Xenon Xe 133 Gas should be stored at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+[ See USP Controlled Room Temperature . ]
+The U . S . Nuclear Regulatory Commission has approved distribution of this radiopharmaceutical to persons licensed to use byproduct material listed in Sections 35 . 200 and to persons who hold an equivalent license issued by an Agreement State .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Curium US LLC Maryland Heights , MO 63043 USA A097I0 R12 / 2018 CURIUM ™ PRINCIPAL DISPLAY PANEL - 10 mCi XENON Xe 133 GAS 370 MBq ( 10 mCi ) / vial CAUTION RADIOACTIVE MATERIAL Single Dose Container - Dispose in Accordance with Regulatory Requirements .
+For use with Xenotron ™ I Xenon Gas Dispenser only .
+Rx only Curium US LLC A097V0 R03 / 2019 [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 20 mCi XENON Xe 133 GAS 740 MBq ( 20 mCi ) / vial CAUTION RADIOACTIVE MATERIAL Single Dose Container - Dispose in Accordance with Regulatory Requirements .
+For use with Xenotron ™ I Xenon Gas Dispenser only .
+Rx only Curium US LLC A098V0 R03 / 2019 [ MULTIMEDIA ] [ MULTIMEDIA ]

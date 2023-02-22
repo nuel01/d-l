@@ -1,0 +1,91 @@
+Rx Only .
+DESCRIPTION Jeanatope I - 125 ( Iodinated I - 125 Albumin Injection ) is a sterile , nonpyrogenic , aqueous solution for intravenous use .
+Each milliliter provides approximately 10 mg protein ( normal human serum albumin ) , 16 mg dibasic sodium phosphate , 1 . 6 mg monobasic sodium phosphate , not more than 0 . 4 mg guanidine hydrochloride , sodium chloride for isotonicity , and 9 mg benzyl alcohol as a preservative .
+The pH has been adjusted to 7 . 2 - 7 . 8 with sodium hydroxide or hydrochloric acid .
+Jeanatope I - 125 was prepared from blood that was nonreactive when tested for hepatitis B surface antigen ( HBsAg ) and HIV antibody .
+PHYSICAL CHARACTERISTICS Iodine 125 decays by electron capture with a physical half - life of 60 . 14 days . 1 Photons that are useful for detection and imaging studies are listed in Table 1 .
+[ MULTIMEDIA ] 1 Dillman LT , Von der Lage FC ; Radionuclide Decay Schemes and Nuclear Parameters for Use in Radiation - Dose Estimation .
+MIRD Pamphlet No . 10 , pg . 71 Soc Nucl Med , 1975 .
+² Weighted mean energy External Radiation The specific gamma ray constant for I - 125 is 1 . 5 R / millicurie - hour at 1 cm .
+The first half - value thickness of Pb for I - 125 is . 002 mm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of . 02 mm of Pb will decrease the external radiation exposure by a factor of 1 , 000 .
+[ MULTIMEDIA ] To correct for physical decay of this radionuclide , the fractions that remain at selected intervals before and after the time of calibration are shown in Table 3 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Following intravenous injection , radioiodinated serum albumin is uniformly distributed throughout the intravascular pool within 10 minutes ; extravascular distribution takes place more slowly .
+Labeled albumin also can be detected in the lymph and in certain body tissues within 10 minutes after injection , but maximum distribution of radioactivity throughout the extravascular space does not occur until two to four days after administration .
+The time at which extravascular activity is maximal has been designated as the “ equilibrium time . ”
+When this point has been reached , the radioactivity remaining in the intravascular and extravascular spaces decreases slowly and exponentially in parallel fashion .
+The administered radioactivity is eliminated almost entirely in the urine , only about 2 percent of the total dose ultimately appearing in the feces .
+The biologic half - life of labeled albumin is dependent upon a number of factors , and published studies have varied considerably in their reporting of this figure .
+It has ranged , in the literature , from below 10 days to over 20 days .
+One important factor affecting the biologic half - life is the initial rate of excretion , and this depends in part on the quality of the labeled albumin .
+With Jeanatope I - 125 , the biologic half - life in normal individuals has been reported to be approximately 14 days .
+INDICATIONS AND USAGE Jeanatope I - 125 is indicated for use in the determination of total blood and plasma volume .
+CONTRAINDICATIONS At present there are no known contraindications to the use of this preparation .
+WARNINGS A few instances of hyperpyrexia and aseptic ( chemical ) meningeal irritation have been reported with the use of this product in cisternography .
+This material is not approved for use in cisternography .
+PRECAUTIONS General In the use of any radioactive material , care should be taken to insure minimum radiation exposure to the patient and occupational workers consistent with proper patient management .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential or whether Iodinated I - 125 albumin affects fertility in males or females .
+Pregnancy Category C Animal reproduction studies have not been conducted with Iodinated I - 125 Albumin Injection .
+It is also not known whether this agent can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Iodinated I - 125 Albumin injection should be administered to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Since iodine 125 is excreted in human milk during lactation , formula feedings should be substituted for breast feedings .
+Pediatric Use Safety and effectiveness in children have not been established .
+ADVERSE REACTIONS Although the immunological properties of serum albumin are believed to be virtually unaltered by the iodinated process , there is a theoretical possibility that allergic reactions may occur in patients receiving additional doses a number of weeks after an initial dose .
+DOSAGE AND ADMINISTRATION Radioiodinated serum albumin is administered intravenously .
+When a procedure such as a blood volume determination is to be repeated , the total dosage administered in any one week should not exceed 7 . 4 megabecquerels ( 200 microcuries ) .
+To minimize the uptake of radioactive iodine by the thyroid , prior administration of Lugol ’ s Solution ( Strong Iodine Solution USP ) may be used .
+Ten drops of Lugol ’ s Solution three times daily , beginning at least 24 hours before administration of Iodinated Serum Albumin I - 125 and continuing for one or two weeks thereafter , is a suitable dose .
+Complete assay data for each vial are provided on the container .
+Note : The expiration date given on the container pertains to the biologic properties of the material and not to the radioactivity level .
+It is important to make certain that the radioactivity in the dose at the time of administration is sufficient for the intended use .
+Visual Inspection : Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Jeanatope ( Iodinated I - 125 Albumin Injection ) may be colorless to very pale yellow .
+Solutions with excessive coloration should not be used .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Note : A shielded syringe should be used for withdrawing and injecting the Iodinated I - 125 Albumin .
+Total Blood and Plasma Volumes Dosage may range from . 185 to 1 . 85 megabecquerels ( 5 to 50 microcuries ) .
+Blood Volume Determination A . Preparation of Reference Solution Remove an aliquot of the contents of the vial to be used in the procedure identical in volume to the dose to be administered to the patient .
+Prepare a reference solution using normal saline as a diluent .
+The recommended dilution is 1 : 4000 [ Dilution Factor ( DF ) = 4000 ] .
+Determine the radioactivity concentration ( net cpm / mL ) of the reference solution .
+Care must be taken to assure that the reference solution and the blood samples ( Step B3 ) are assayed using the same geometric configuration .
+B . Administration of Dose 1 .
+Inject the dose into a large vein in patient ’ s arm .
+Measure the residual radioactivity in the syringe and needle .
+2 .
+Destroy syringe after injecting .
+Do not attempt to resterilize .
+CAUTION : The syringe should be disposed of in accordance with the US Nuclear Regulatory Commission or Agreement State regulations pertaining to the disposal of radioactive waste .
+3 .
+At 5 and 15 minutes after injecting the dose , withdraw blood samples from the patient ’ s other arm with a sterile heparinized syringe .
+C . Calculation of Blood Volume 1 .
+Take a known aliquot from each blood sample and determine radioconcentration in net cpm / mL .
+2 .
+Plot the 5 - and 15 - minute sample counts ( net cpm / mL ) on semilog graph paper using the average count value of each sample and determine the radioconcentration at injection time ( zero time ) by drawing a straight line through the 15 - and 5 - minute points to zero time .
+The x ordinate of the graph is the sample withdrawal time and the logarithmic y ordinate is radioconcentration in net cpm / mL .
+3 .
+Calculate patient ’ s blood volume ( in mL ) using the following formula : [ MULTIMEDIA ] Sample Blood Volume Calculations Volume of blood sample aliquot = 1 . 0 mL Volume of reference solution aliquot = 1 . 0 mL Net counts at zero time = 2500 Net counts obtained from reference solution aliquot = 2725 [ MULTIMEDIA ] Serial Blood Volume Determinations Jeanatope ( Iodinated I - 125 Albumin Injection ) is administered in sufficiently low dosage to permit repetitions as often as required by clinical circumstances .
+It must be remembered that it is always necessary to correct for background radioactivity remaining in the blood from former determinations .
+Therefore , for each determination after the first one , a background blood sample must be taken just before the Iodinated I - 125 albumin is injected .
+Background Blood Sample : 1 .
+Prior to injecting Jeanatope I - 125 , withdraw background blood sample from large vein in patient ’ s arm with a sterile heparinized syringe .
+2 .
+Leaving needle in patient ’ s vein , detach syringe containing blood sample .
+3 .
+Withdraw Jeanatope I - 125 from the vial and administer ( see instructions under Blood Volume Determination , Administration of Dose ) .
+4 .
+Determine radioconcentration in net cpm / mL of aliquots taken from background and postinjection blood samples , and from the reference solution .
+The radioconcentration ( net cpm / mL ) per aliquot of the background blood sample must be subtracted from the radioconcentration per aliquot of the blood sample obtained after the injection of Iodinated I - 125 Albumin .
+The formula for calculating each blood volume determination after the first one thus becomes : [ MULTIMEDIA ] Plasma Volume Determination The procedure is essentially the same as that for blood volume determination , except that the blood sample drawn from the patient is centrifuged , the red blood cells are removed , and net cpm / mL of the plasma is determined .
+The formula for calculation of plasma volume , therefore is : [ MULTIMEDIA ] Radiation Dosimetry The estimated absorbed radiation doses to an average patient ( 70 kg ) from an intravenous injection of 1 . 85 megabecquerels ( 50 microcuries ) of Iodinated I - 125 Albumin USP are shown in Table 4 .
+[ MULTIMEDIA ] Method of Calculation : Hine GJ , Johnston RE : Absorbed Doses from Radionuclides , J . Nucl Med 11 : 468 - 469 , 1970 .
+For doses of 2 . 775 , 5 . 55 , 18 . 5 and 27 . 75 megabecquerels ( 75 , 150 , 500 and 750 microcuries ) , the estimated absorbed doses are 1 . 5 , 3 , 10 and 15 times the number of rads given , respectively .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] HOW SUPPLIED Jeanatope ( Iodinated I - 125 Albumin Injection USP ) is available in multiple dose vials containing the following amounts of activity on the date of calibration : 3 . 7 megabecquerels / 10 . 0 mL ( 100 microcuries / 10 . 0 mL ) , 18 . 5 megabecquerels / 0 . 5 mL ( 500 microcuries / 0 . 5 mL ) and 37 . 0 megabecquerels / 1 . 0 mL ( 1 . 0 millicuries / 1 . 0 mL ) .
+Complete assay data for each vial is provided on the container .
+The maximum concentration of Iodinated I - 125 Injection does not exceed one millicurie per milliliter at time of calibration .
+Storage Store between 2ºC - 8ºC .
+This radiopharmaceutical is licensed for distribution to facilities and persons licensed by the U . S . Nuclear Regulatory Commission or under an equivalent license issued by an Agreement State .
+Iso - Tex Diagnostics , Inc . • U . S . License No . 2189 1511 CR 129 Alvin , TX 77511 , U . S . A ( 281 ) 482 - 1231 • FAX : ( 281 ) 482 - 1070 Packaging [ MULTIMEDIA ] [ MULTIMEDIA ]

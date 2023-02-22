@@ -1,0 +1,252 @@
+FACT SHEET FOR HEALTHCARE PROVIDERS EMERGENCY USE AUTHORIZATION ( EUA ) OF BARICITINIB The U . S . Food and Drug Administration ( FDA ) has issued an Emergency Use Authorization ( EUA ) to permit the emergency use of baricitinib for treatment of coronavirus disease 2019 ( COVID - 19 ) in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or extracorporeal membrane oxygenation ( ECMO ) .
+Baricitinib has been authorized by FDA for the emergency uses described above .
+Baricitinib is not FDA - approved for these uses .
+Baricitinib is authorized only for the duration of the declaration that circumstances exist justifying the authorization of the emergency use of baricitinib under section 564 ( b ) ( 1 ) of the Act , 21 U . S . C . § 360 bbb - 3 ( b ) ( 1 ) , unless the declaration is terminated or authorization revoked sooner .
+This EUA is for the unapproved use of baricitinib to treat COVID - 19 in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO .
+Baricitinib is administered orally .
+To request baricitinib under Emergency Use Authorization ( EUA ) : In - patient pharmacies may order directly from an Authorized Distributor of Record .
+A current list of Lilly ' s Authorized Distributors of Record is available at www . lillytrade . com or visit www . baricitinibemergencyuse . com for additional access information .
+The prescribing healthcare provider and / or the provider ' s designee is / are responsible for mandatory reporting of all serious adverse events and medication errors potentially related to baricitinib within 7 calendar days from the healthcare provider ' s awareness of the event .
+See specific reporting instructions below .
+The recommended dosage of baricitinib under the EUA is : • Pediatric patients 9 years of age and older : 4 mg once daily • Pediatric patients 2 years to less than 9 years of age : 2 mg once daily Dosage modifications are recommended for laboratory abnormalities , including renal impairment ( see Table 1 ) .
+The optimal duration of treatment is unknown .
+The recommended total treatment duration of baricitinib is 14 days or until hospital discharge , whichever comes first .
+For information on clinical trials that are testing the use of baricitinib in COVID - 19 , please see www . clinicaltrials . gov .
+This Fact Sheet may be updated as new data become available .
+The most recent version of this Fact Sheet is available at www . baricitinibemergencyuse . com for download .
+INSTRUCTIONS FOR ADMINISTRATION This section provides essential information on the unapproved use of baricitinib to treat COVID - 19 in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO under this EUA .
+For more information , including pharmacokinetics and safety information of baricitinib , tradename Olumiant ® , see the FDA - approved package insert at http : / / pi . lilly . com / us / olumiant - uspi . pdf .
+Contraindications There are no known contraindications for baricitinib .
+Dosing Patient Selection • Evaluate baseline eGFR , liver enzymes , and complete blood count to determine treatment suitability and dose .
+Monitor closely patients with abnormal baseline and post - baseline laboratory values .
+See Table 1 for dosage modifications for patients with laboratory abnormalities .
+• Baricitinib is not recommended for : • Patients who are on dialysis , have end - stage renal disease ( ESRD , EGFR < 15 mL / min / 1 . 73 m2 ) , or have acute kidney injury • Patients with known active tuberculosis Recommended Dosage for Pediatric Patients Limited data informing baricitinib dosing in pediatric patients comes from ongoing clinical trials for other uses .
+Based on the available information , treatment for COVID - 19 for pediatric patients under this EUA is as follows : • The recommended dosage for patients 9 years of age and older is 4 mg once daily , with or without food , for 14 days of total treatment or until hospital discharge , whichever is first .
+• The recommended dosage for patients ages 2 years through less than 9 years of age is 2 mg once daily , with or without food , for 14 days of total treatment or until hospital discharge , whichever is first .
+• Baricitinib is not authorized for patients younger than 2 years of age .
+• Dosage modifications in patients with renal or hepatic impairment are recommended ( see Renal Impairment , Hepatic Impairment ) .
+Table 1 : Dosage Modificationsa Abbreviations : ALC = absolute lymphocyte count , ALT = alanine transaminase , ANC = absolute neutrophil count , AST = aspartate transaminase , DILI = drug induced liver injury , eGFR = estimated glomerular filtration rate .
+b If a laboratory abnormality is likely due to the underlying disease state , consider the risks and benefits of continuing baricitinib at the same or a reduced dose .
+c Only if a 1 mg tablet is not available , a 2 mg tablet can be split using a tablet splitter that has a razor blade to administer half a 2 mg tablet once daily .
+The tablet should be split along the longest diameter .
+If the portions of the tablet are determined to be visually unequal they should be discarded .
+Take care in storing the second tablet half to avoid breakage prior to next dose .
+Dosage Modifications for Patients with Abnormal Laboratory Valuesa , b Laboratory Analyte Laboratory Analyte Value Recommendation eGFR 60 - < 90 mL / min / 1 . 73 m2 • Pediatric patients 9 years of age and older : 4 mg once daily • Pediatric patients 2 years to less than 9 years of age : 2 mg once daily 30 - < 60 mL / min / 1 . 73 m2 • Pediatric patients 9 years of age and older : 2 mg once daily • Pediatric patients 2 years to less than 9 years of age : 1 mgc once daily 15 - < 30 mL / min / 1 . 73 m2 • Pediatric patients 9 years of age and older : 1 mgc once daily • Pediatric patients 2 years to less than 9 years of age : Not recommended < 15 mL / min / 1 . 73 m2 Not recommended Absolute Lymphocyte Count ( ALC ) ≥ 200 cells / μL Maintain dose < 200 cells / μL Consider interruption until ALC is ≥ 200 cells / μL Absolute Neutrophil Count ( ANC ) ≥ 500 cells / μL Maintain dose < 500 cells / μL Consider interruption until ANC is ≥ 500 cells / μL Aminotransferases If increases in ALT or AST are observed and drug - induced liver injury ( DILI ) is suspected Interrupt baricitinib until the diagnosis of DILI is excluded Dosage Modifications when Coadministered with Other Medications Concomitant Medication Recommendation Strong OAT3 Inhibitors ( e . g . , probenecid ) • If the recommended baricitinib dose is 4 mg once daily , reduce dose to 2 mg once daily .
+• If the recommended baricitinib dose is 2 mg once daily , reduce dose to 1 mgc once daily .
+• If the recommended baricitinib dose is 1 mg once daily , consider discontinuing probenecid .
+Pregnancy Baricitinib should be used during pregnancy only if the potential benefit justifies the potential risk for the mother and the fetus .
+Consistent with the mechanism of action , embryo - fetal toxicities including skeletal anomalies and reduced fertility have been observed in animals dosed in excess of the maximum human exposure .
+The limited human data on use of baricitinib in pregnant women are not sufficient to inform a drug - associated risk for major birth defects or miscarriage .
+See also Section 8 . 1 Pregnancy in the FDA approved full prescribing information for more information .
+Renal Impairment There are limited data for baricitinib in patients with severe renal impairment : • Baricitinib is not recommended for patients who are on dialysis , have ESRD , or have acute kidney injury .
+• See Table 1 for treatment modifications for patients with laboratory abnormalities : • Baricitinib should only be used in pediatric patients 9 years of age and older with eGFR 15 to < 30 mL / min / 1 . 73 m2 if the potential benefit outweighs the potential risk .
+• Baricitinib is not recommended for pediatric patients ages 2 years through less than 9 years of age with eGFR < 30 mL / min / 1 . 73 m2 .
+Hepatic Impairment Baricitinib has not been studied in patients with severe hepatic impairment .
+Baricitinib should only be used in patients with severe hepatic impairment if the potential benefit outweighs the potential risk .
+It is not known if dosage modification is needed in patients with severe hepatic impairment .
+See Table 1 for dosage modifications for patients with abnormal laboratory values .
+Administration Baricitinib tablets are given orally once daily ; with or without food .
+Alternative Administration for Patients Unable to Swallow Tablets For patients who are unable to swallow whole tablets , an alternative mode of administration may be considered : • Oral dispersion • Gastrostomy tube ( G tube ) • Nasogastric tube ( NG tube ) or orogastric tube ( OG tube ) Intact tablets are not hazardous .
+Tablets may be crushed to facilitate dispersion .
+It is not known if powder from the crushed tablets may constitute a reproductive hazard to the preparer .
+Use proper control measures ( e . g . , ventilated enclosure ) or personal protective equipment ( i . e . , N95 respirator ) .
+Dispersed tablets are stable in water for up to 4 hours .
+Preparation Instructions for Alternative Administration • Oral administration of dispersed tablets in water : For patients who are unable to swallow whole tablets , 1 - mg , 2 - mg , or 4 - mg baricitinib tablet ( s ) , or any combination of tablets necessary to achieve the desired dose up to 4 - mg may be placed in a container with approximately 10 mL ( 5 mL minimum ) of room temperature water , dispersed by gently swirling the tablet ( s ) and immediately taken orally .
+The container should be rinsed with an additional 10 mL ( 5 mL minimum ) of room temperature water and the entire contents swallowed by the patient ( Table 2 ) .
+• Administration via G tube : For patients with a G tube , 1 - mg , 2 - mg , or 4 - mg baricitinib tablet ( s ) , or any combination of tablets necessary to achieve the desired dose up to 4 - mg may be placed in a container with approximately 15 mL ( 10 mL minimum ) of room temperature water and dispersed with gentle swirling .
+Ensure the tablet ( s ) are sufficiently dispersed to allow free passage through the tip of the syringe .
+Withdraw entire contents from the container into an appropriate syringe and immediately administer through the gastric feeding tube .
+Rinse container with approximately 15 mL ( 10 mL minimum ) of room temperature water , withdraw the contents into the syringe , and administer through the tube ( Table 2 ) .
+• Administration via NG or OG tube : For patients with an NG or OG tube , 1 - mg , 2 - mg , or 4 - mg baricitinib tablet ( s ) , or a combination of tablets necessary to achieve the desired dose up to 4 - mg may be placed into a container with approximately 30 mL of room temperature water and dispersed with gentle swirling .
+Ensure the tablet ( s ) are sufficiently dispersed to allow free passage through the tip of the syringe .
+Withdraw the entire contents from the container into an appropriate syringe and immediately administer through the enteral feeding tube .
+To avoid clogging of small diameter tubes ( smaller than 12 Fr ) , the syringe can be held horizontally and shaken during administration .
+Rinse container with a sufficient amount ( minimum of 15 mL ) of room temperature water , withdraw the contents into the syringe , and administer through the tube ( Table 2 ) .
+Table 2 : Dispersion and Rinse Volume for Alternative Administration Administration via Dispersion Volume Container Rinse Volume Oral dispersion 10 mL 10 mL G tube 15 mL 15 mL NG or OG tube 30 mL 15 mL Drug Interactions Strong OAT3 Inhibitors : Baricitinib exposure is increased when baricitinib is co - administered with strong OAT3 inhibitors ( such as probenecid ) .
+See Table 1 for dosage modifications for patients taking strong OAT3 inhibitors , such as probenecid .
+Other JAK Inhibitors or biologic disease modifying anti - rheumatic drugs ( DMARDs ) : Baricitinib has not been studied in combination with other JAK inhibitors or with biologic DMARDs ( biologic treatments targeting cytokines , B - cells , or T - cells ) and is not recommended .
+Pharmacology Pharmacokinetics : The pharmacokinetics ( PK ) in adult patients with COVID - 19 who are intubated and have baricitinib administered via NG tube is similar to that in healthy adult subjects .
+The half - life of baricitinib in healthy subjects is approximately 10 hours .
+The PK of baricitinib in pediatric patients with COVID - 19 has not been evaluated .
+Based on an analysis of interim PK data from ongoing clinicals of baricitinib in other pediatric chronic autoimmune disorders , the recommended dosing regimen is expected to result in comparable steady - state plasma exposures of baricitinib in pediatric patients 2 to less than 18 years of age as observed in healthy adults .
+Warnings There are limited clinical data available for baricitinib in pediatric patients 2 to less than 18 years of age hospitalized with COVID - 19 requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO .
+Serious Infections There is limited information regarding use of baricitinib in patients with COVID - 19 and concomitant active serious infections .
+Serious infections , including viral reactivation , have occurred in patients with COVID - 19 receiving baricitinib : • Avoid the use of baricitinib with known active tuberculosis .
+• Consider if the potential benefits outweigh the potential risks of baricitinib treatment in patients with active serious infections other than COVID - 19 or chronic / recurrent infections .
+Thrombosis Serious venous thrombosis , including pulmonary embolism have been observed in COVID - 19 patients treated with baricitinib and are known adverse drug reactions of baricitinib .
+If clinical features of deep vein thrombosis / pulmonary embolism occur , patients should be evaluated promptly and treated appropriately .
+Abnormal Laboratory Values There is limited information regarding use of baricitinib in patients with COVID - 19 and any of the following clinical findings : • ANC < 1000 cells / mm3 • ALC < 200 cells / mm3 • Hemoglobin < 8 g / dL Evaluate at baseline and thereafter according to local patient management practice .
+Monitor closely when treating patients with abnormal baseline and post - baseline laboratory values .
+See Table 1 for dosage modifications for patients with abnormal renal , hematological and hepatic laboratory values .
+Manage patients according to routine clinical guidelines .
+Vaccinations Avoid use of live vaccines with baricitinib .
+Hypersensitivity If a serious hypersensitivity occurs , discontinue baricitinib while evaluating the potential causes of the reaction .
+See Warnings and Precautions in the FDA approved full prescribing information for additional information on risks associated with baricitinib treatment .
+Serious Side Effects Serious venous thrombosis , including pulmonary embolism , and serious infections have been observed in COVID - 19 patients treated with baricitinib and are known adverse drug reactions of baricitinib .
+Scientific Evidence Supporting This EUA Baricitinib is being studied in an ongoing clinical trial in pediatric patients hospitalized with COVID - 19 requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO .
+Use in this age group is based on extrapolation of pediatric efficacy from the adequate and well - controlled studies in adults , ACTT - 2 and COV - BARRIER , and safety data from ongoing clinical trials of baricitinib in other pediatric conditions .
+The efficacy and safety of baricitinib were assessed in 2 Phase 3 , randomized , double - blind , placebo - controlled clinical trials : • COVID I ( ACTT - 2 , NCT04401579 ) which evaluated the combination of baricitinib 4 mg + remdesivir compared to placebo + remdesivir .
+• COVID II ( COV - BARRIER , NCT04421027 ) , which evaluated baricitinib 4 mg compared to placebo .
+Patients could remain on background therapy , as defined per local guidelines .
+An additional exploratory sub - study in patients requiring invasive mechanical ventilation or ECMO at baseline was also conducted under this protocol and analyzed separately .
+Efficacy COVID I A randomized , double - blind , placebo - controlled clinical trial ( NCT04401579 ) of hospitalized adults with confirmed SARS - CoV - 2 infection compared treatment with baricitinib plus remdesivir ( n = 515 ) with placebo plus remdesivir ( n = 518 ) .
+Patients had to have laboratory - confirmed SARS - CoV - 2 infection as well as at least one of the following to be enrolled in the trial : radiographic infiltrates by imaging , SpO2 ≤ 94 % on room air , a requirement for supplemental oxygen , or a requirement for mechanical ventilation or ECMO .
+Patients treated with the combination received the following regimen : • Baricitinib 4 mg once daily ( orally ) for up to 14 days or until hospital discharge , whichever came first • Remdesivir 200 mg on Day 1 and 100 mg once daily ( via intravenous infusion ) on subsequent days for a total treatment duration of 10 days or until hospital discharge In this study prophylaxis for venous thromboembolic event ( VTEs ) was recommended for all patients unless a major contraindication was noted .
+For the overall population ( N = 1033 patients ) at randomization , mean age was 55 years ( with 30 % of patients aged 65 or older ) ; 63 % of patients were male , 51 % were Hispanic or Latino , 48 % were White , 15 % were Black or African American , and 10 % were Asian ; 14 % did not require supplemental oxygen , 55 % required supplemental oxygen , 21 % required non - invasive ventilation or high - flow oxygen , and 11 % required invasive mechanical ventilation or ECMO .
+The most common comorbidities were obesity ( 56 % ) , hypertension ( 52 % ) , and type 2 diabetes ( 37 % ) .
+Demographics and disease characteristics were balanced across the combination group and the placebo group .
+The primary endpoint , for the intent to treat population , was time to recovery within 29 days after randomization .
+Recovery was defined as being discharged from the hospital without limitations on activities , being discharged from the hospital with limitations on activities and / or requiring home oxygen or hospitalized but not requiring supplemental oxygen and no longer requiring medical care .
+The key secondary endpoint was clinical status on Day 15 assessed on an 8 - point ordinal scale ( OS ) consisting of the following categories : • Not hospitalized , no limitations on activities [ OS - 1 ] ; • Not hospitalized , limitation on activities and / or requiring home oxygen [ OS - 2 ] ; • Hospitalized , not requiring supplemental oxygen - no longer requires ongoing medical care [ OS - 3 ] ; • Hospitalized , not requiring supplemental oxygen - requiring ongoing medical care ( COVID - 19 related or otherwise ) [ OS 4 ] ; • Hospitalized , requiring supplemental oxygen [ OS 5 ] ; • Hospitalized , on non - invasive ventilation or high - flow oxygen devices [ OS 6 ] ; • Hospitalized , on invasive mechanical ventilation or ECMO [ OS 7 ] ; and • Death [ OS 8 ] For the overall population , the median time to recovery ( defined as discharged from hospital or hospitalized but not requiring supplemental oxygen or ongoing medical care ) was 7 days for baricitinib + remdesivir compared to 8 days for placebo + remdesivir [ hazard ratio : 1 . 16 ( 95 % CI 1 . 01 , 1 . 33 ) ; p = 0 . 035 ] .
+Patients assigned to baricitinib + remdesivir were more likely to have a better clinical status ( according to an 8 - point ordinal scale ) at Day 15 compared to patients assigned to placebo + remdesivir [ odds ratio : 1 . 26 ( 95 % CI 1 . 01 , 1 . 57 ) ; p = 0 . 044 ] .
+The proportion of patients who died or progressed to non - invasive ventilation / high - flow oxygen or invasive mechanical ventilation by Day 29 was lower in baricitinib + remdesivir ( 23 % ) compared to placebo + remdesivir ( 28 % ) [ odds ratio : 0 . 74 ( 95 % CI 0 . 56 , 0 . 99 ) ; p = 0 . 039 ] .
+Patients who required non - invasive ventilation / high - flow oxygen or invasive mechanical ventilation ( including ECMO ) at baseline needed to worsen by at least 1 point on an 8 - point ordinal scale to progress .
+The proportion of patients who died by Day 29 was 4 . 7 % ( 24 / 515 ) for baricitinib + remdesivir compared to 7 . 1 % ( 37 / 518 ) for placebo + remdesivir [ Kaplan Meier estimated difference in Day 29 probability of mortality : - 2 . 6 % ( 95 % CI - 5 . 8 % , 0 . 5 % ) ; hazard ratio = 0 . 65 ( 95 % CI : 0 . 39 , 1 . 09 ) ] .
+COVID II A randomized , double - blind , placebo - controlled clinical trial ( NCT04421027 ) of hospitalized adults with confirmed SARS - CoV - 2 infection compared treatment with baricitinib 4 mg once daily ( n = 764 ) with placebo ( n = 761 ) for 14 days or hospital discharge , whichever came first .
+Patients could remain on background standard of care , as defined per local guidelines , including antimalarials , antivirals , corticosteroids , and / or azithromycin .
+In this study prophylaxis for venous thromboembolic event ( VTE ) prophylaxis was required for all patients unless contraindicated .
+The most frequently used therapies at baseline were : • corticosteroids ( 79 % of patients , mostly dexamethasone ) • remdesivir ( 19 % of patients ) Patients had to have laboratory - confirmed SARS - CoV - 2 infection , at least one instance of elevation in at least one inflammatory marker above the upper limit of normal according to local laboratory ranges ( CRP , D - dimer , LDH , ferritin ) , and at least one of the following to be enrolled in the trial : radiographic infiltrates by imaging , SpO2 < 94 % on room air , evidence of active COVID infection ( with clinical symptoms including any of the following : fever , vomiting , diarrhea , dry cough , tachypnea defined as respiratory rate > 24 breaths / min ) or requirement for supplemental oxygen .
+For the overall population ( N = 1525 patients ) at randomization , mean age was 58 years ( with 33 % of patients aged 65 or older ) ; 63 % of patients were male , 60 % were White , 5 % were Black or African American , 11 % were Asian ; 12 % did not require supplemental oxygen ( OS 4 ) , 63 % required supplemental oxygen ( OS 5 ) , 24 % required non - invasive ventilation or high - flow oxygen ( OS 6 ) .
+The most common comorbidities were hypertension ( 48 % ) , obesity ( 33 % ) , and type 2 diabetes ( 29 % ) .
+Demographics and disease characteristics were balanced across the baricitinib and placebo groups .
+The primary endpoint was the proportion of patients who died or progressed to non - invasive ventilation / high - flow oxygen or invasive mechanical ventilation within the first 28 - days of the study .
+Patients who required non - invasive ventilation / high - flow oxygen at baseline needed to worsen by at least 1 point on an 8 - point OS to progress ( refer to the description of COVID I for the definition of the 8 - point OS ) .
+A key secondary endpoint was all - cause mortality by Day 28 .
+The estimated proportion of patients who died or progressed to non - invasive ventilation / high - flow oxygen or invasive mechanical ventilation was lower in patients treated with baricitinib ( 27 . 8 % ) compared to placebo ( 30 . 5 % ) , but this effect was not statistically significant [ odds ratio : 0 . 85 ( 95 % CI 0 . 67 , 1 . 08 ) ; p = 0 . 180 ] .
+The proportion of patients who died by Day 28 was 8 . 1 % ( 62 / 764 ) for baricitinib compared to 13 . 3 % ( 101 / 761 ) for placebo [ estimated difference in Day 28 probability of mortality = - 4 . 9 % ( 95 % CI : - 8 . 0 % , - 1 . 9 % ) ; hazard ratio = 0 . 56 ( 95 % CI : 0 . 41 , 0 . 77 ) ] .
+COVID II Exploratory Sub - Study In a separate group of patients requiring invasive mechanical ventilation or ECMO at baseline and enrolled in an addendum to COVID II , a pre - specified exploratory analysis showed that the proportion who died by Day 28 was 39 . 2 % ( 20 / 51 ) for baricitinib compared to 58 . 0 % ( 29 / 50 ) for placebo [ estimated difference in Day 28 risk of mortality = - 18 . 8 % ( 95 % CI : - 36 . 3 % , 0 . 6 % ) ; hazard ratio = 0 . 54 ( 95 % CI : 0 . 31 , 0 . 96 ) ] .
+Safety The safety of baricitinib was evaluated in two randomized , placebo - controlled clinical trials of hospitalized adults with COVID - 19 for up to 29 days , in which 1307 patients received at least one dose of baricitinib 4 mg once daily , and 1310 patients received placebo , for up to 14 days or hospital discharge , whichever occurred first .
+In these studies , prophylaxis for venous thromboembolic event ( VTEs ) was recommended or required for all patients unless a major contraindication was noted .
+Overall , the safety profile observed in patients with COVID - 19 treated with baricitinib was consistent with the safety profile in patients with rheumatoid arthritis .
+Overall Infections – During the first 29 days of the randomized clinical trials , infections were reported in 194 patients ( 14 . 8 % ) treated with baricitinib 4 mg and by 219 patients ( 16 . 7 % ) treated with placebo .
+The most commonly reported infection with baricitinib was pneumonia ( 3 . 1 % ) .
+Serious Infections – During the first 29 days of the randomized clinical trials , serious infections were reported in 98 patients ( 7 . 5 % ) treated with baricitinib 4 mg and 120 patients ( 9 . 2 % ) treated with placebo .
+The most commonly reported serious infections with baricitinib were COVID - 19 pneumonia ( 2 . 1 % ) and septic shock ( 2 . 1 % ) .
+Opportunistic Infections – During the first 29 days of the randomized clinical trials , opportunistic infections were reported in 12 patients ( 0 . 9 % ) treated with baricitinib 4 mg and 14 patients ( 1 . 1 % ) treated with placebo .
+Tuberculosis was reported in 1 patient ( 0 . 1 % ) treated with baricitinib 4 mg and 0 patients treated with placebo .
+Venous Thrombosis Events - During the first 29 days of the randomized clinical trials , pulmonary embolism was reported in 20 patients ( 1 . 5 % ) treated with baricitinib 4 mg and 11 patients ( 0 . 8 % ) treated with placebo .
+Deep Vein Thrombosis was reported in 20 patients ( 1 . 5 % ) treated with baricitinib 4 mg and 18 patients ( 1 . 4 % ) treated with placebo .
+Of the known adverse drug reactions of baricitinib in clinical trials of other indications , Table 3 summarizes the observed frequencies of adverse reactions occurring in ≥ 1 % of patients during the first 29 days of studies COVID I and COVID II .
+Table 3 : Adverse Reactions That Occurred in Greater Than or Equal to 1 % of Patients Treated with Baricitinib 4 mg Treated Patients During the First 29 Days in Placebo - Controlled Trials for COVID - 19 a As assessed by measured values within the clinical trial database .
+Frequencies are based on shifts from pre - treatment to post - treatment ( with number at risk as the denominator ) , except for ALT and AST for which frequencies are based on observed elevation during treatment .
+b Creatine phosphokinase frequencies presented in the table were available for a single trial ( COVID II ) in patients with COVID - 19 and do not represent integrated data .
+Placebo N = 1310 n ( % ) Baricitinib 4 mg N = 1307 n ( % ) ALT ≥ 3 x ULNa 201 ( 16 . 0 ) 230 ( 18 . 1 ) AST ≥ 3 x ULNa 117 ( 9 . 4 ) 149 ( 11 . 8 ) Thrombocytosis > 600 , 000 cells / mm3a 34 ( 4 . 6 ) 59 ( 7 . 9 ) Creatine phosphokinase ( CPK ) > 5 x ULNa , b 38 ( 4 . 7 ) 36 ( 4 . 5 ) Neutropenia < 1000 cells / mm3a 22 ( 1 . 8 ) 26 ( 2 . 2 ) Deep vein thrombosis 18 ( 1 . 4 ) 20 ( 1 . 5 ) Pulmonary embolism 11 ( 0 . 8 ) 20 ( 1 . 5 ) Urinary tract infection 13 ( 1 . 0 ) 19 ( 1 . 5 ) How Supplied / Storage and Handling How Supplied Baricitinib for oral administration is available as debossed , film - coated , immediate - release tablets .
+Each tablet contains a recessed area on each face of the tablet surface .
+Under this EUA , baricitinib is supplied in 30 count bottles as follows : • OLUMIANT ( baricitinib ) tablet 1 mg ( NDC 0002 - 4732 - 30 ) • OLUMIANT ( baricitinib ) tablet 2 mg ( NDC 0002 - 4182 - 30 ) , and • OLUMIANT ( baricitinib ) tablet 4 mg ( NDC 0002 - 4479 - 30 ) Storage and Handling Store at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) ; excursions permitted to 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+Keep out of reach of children .
+Important Information for Patients , Parents and Caregivers See Fact Sheets for Patients , Parents and Caregivers .
+INSTRUCTIONS FOR HEALTHCARE PROVIDERS As the healthcare provider , you must communicate to your patient or parent / caregiver , as age appropriate , information consistent with the “ Fact Sheet for Patients , Parents and Caregivers ” ( and provide a copy of the Fact Sheet ) prior to the patient receiving baricitinib , including : • FDA has authorized the emergency use of baricitinib to treat COVID - 19 in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or extracorporeal membrane oxygenation ( ECMO ) .
+This is not an FDA - approved use of baricitinib .
+• The patient or parent / caregiver has the option to accept or refuse baricitinib .
+• The significant known and potential risks and benefits of baricitinib , and the extent to which such potential risks and benefits are unknown .
+• Information on available alternative treatments and the risks and benefits of those alternatives , including clinical trials .
+If providing this information will delay the administration of baricitinib to a degree that would endanger the lives of patients , the information must be provided to the patients as soon as practicable after baricitinib is administered .
+For information on clinical trials that are testing the use of baricitinib for COVID - 19 , please see www . clinicaltrials . gov .
+MANDATORY REQUIREMENTS FOR BARICITINIB ADMINISTRATION UNDER EMERGENCY USE AUTHORIZATION In order to mitigate the risks of using this approved product for an unapproved use under EUA and to optimize the potential benefit of baricitinib , the following items are required .
+Use of baricitinib under this EUA is limited to the following ( all requirements must be met ) : • Treatment of coronavirus disease 2019 ( COVID - 19 ) in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO .
+• As the healthcare provider , communicate to your patient or parent / caregiver information consistent with the “ Fact Sheet for Patients , Parents and Caregivers ” prior to the patient receiving baricitinib .
+Healthcare providers ( to the extent practicable given the circumstances of the emergency ) must document in the patient ' s medical record that the patient / caregiver has been : • Given the “ Fact Sheet for Patients , Parents and Caregivers ” , • Informed of alternatives to receiving authorized baricitinib , and • Informed that baricitinib is an approved drug that is authorized for the unapproved use under this Emergency Use Authorization .
+• Patients must have an eGFR , aminotransferases , and CBC with differential determined prior to first administration of baricitinib .
+• The prescribing healthcare provider and / or the provider ’ s designee is / are responsible for mandatory reporting of all serious adverse events * and medication errors potentially related to baricitinib within 7 calendar days from the healthcare provider ’ s awareness of the event , using FDA Form 3500 ( for information on how to access this form , see below ) .
+The FDA requires that such reports , using FDA Form 3500 , include the following : • Patient demographics and baseline characteristics ( e . g . , patient identifier , age or date of birth , gender , weight , ethnicity , and race ) • A statement " Baricitinib use for COVID - 19 under Emergency Use Authorization ( EUA ) ” under the “ Describe Event , Problem , or Product Use / Medication Error ” heading • Information about the serious adverse event or medication error ( e . g . , signs and symptoms , test / laboratory data , complications , timing of drug initiation in relation to the occurrence of the event , duration of the event , treatments required to mitigate the event , evidence of event improvement / disappearance after stopping or reducing the dosage , evidence of event reappearance after reintroduction , clinical outcomes ) .
+• Patient ’ s preexisting medical conditions and use of concomitant products • Information about the product ( e . g . , dosage , route of administration , NDC # ) .
+Submit adverse event and medication error reports , using Form 3500 , to FDA MedWatch using one of the following methods : • Complete and submit the report online : www . fda . gov / medwatch / report . htm • Complete and submit a postage - paid Form FDA 3500 ( https : / / www . fda . gov / media / 76299 / download ) and return by : • Mail to MedWatch , 5600 Fishers Lane , Rockville , MD 20852 - 9787 , or • Fax ( 1 - 800 - FDA - 0178 ) , or • Call 1 - 800 - FDA - 1088 to request a reporting form .
+In addition , please provide a copy of all FDA MedWatch forms to : Eli Lilly and Company , Global Patient Safety Fax : 1 - 317 - 277 - 0853 E - mail : mailindata _ gsmtindy @ lilly . com Or call Eli Lilly and Company at 1 - 855 - LillyC19 ( 1 - 855 - 545 - 5921 ) to report adverse events .
+The prescribing healthcare provider and / or the provider ' s designee is / are responsible for mandatory responses to requests from FDA for information about adverse events and medication errors following receipt of baricitinib .
+* Serious Adverse Events are defined as : • Death ; • A life - threatening adverse event ; • Inpatient hospitalization or prolongation of existing hospitalization ; • A persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions ; • A congenital anomaly / birth defect ; • Other important medical event , which may require a medical or surgical intervention to prevent death , a life - threatening event , hospitalization , disability , or congenital anomaly .
+APPROVED AVAILABLE ALTERNATIVES Veklury ( remdesivir ) is FDA - approved for the treatment of COVID - 19 in adults and pediatric patients ( 28 days of age and older and weighing at least 3 kg ) with positive results of direct SARS - CoV - 2 viral testing , who are hospitalized , or not hospitalized and have mild - to - moderate COVID - 19 , and are at high risk for progression to severe COVID - 19 , including hospitalization or death .
+Veklury is administered via intravenous infusion for a total treatment duration of 3 - 5 days .
+Although Veklury is an approved alternative treatment of COVID - 19 in pediatric patients ( 28 days of age and older and weighing at least 3 kg ) with positive results of direct SARS - COV - 2 viral testing , who are hospitalized , FDA does not consider Veklury to be an adequate alternative to baricitinib for this authorized use .
+Veklury is a nucleoside ribonucleic acid polymerase inhibitor that has demonstrated antiviral activity against SARS - COV - 2 .
+Baricitinib is a Janus kinase ( JAK ) inhibitor , a class of drugs that block extracellular signals from multiple cytokines that are involved in inflammatory diseases and thought to contribute to inflammation and worsening of COVID - 19 .
+This is distinct from Veklury , which acts as an antiviral agent .
+Additional information on COVID - 19 treatments can be found at https : / / www . cdc . gov / coronavirus / 2019 - ncov / index . html .
+The healthcare provider should visit https : / / clinicaltrials . gov / to determine whether the patient may be eligible for enrollment in a clinical trial .
+JUSTIFICATION FOR EMERGENCY USE OF DRUGS DURING THE COVID - 19 PANDEMIC There is currently an outbreak of Coronavirus Disease 2019 ( COVID - 19 ) caused by SARS - CoV2 , a novel coronavirus .
+The Secretary of HHS has declared that : • A public health emergency related to COVID - 19 has existed since January 27 , 2020 .
+• Circumstances exist justifying the authorization of emergency use of drugs and biological products during the COVID - 19 pandemic ( March 27 , 2020 declaration ) .
+An EUA is a FDA authorization for the emergency use of an unapproved product or unapproved use of an approved product ( i . e . , drug , biological product , or device ) in the United States under certain circumstances including , but not limited to , when the Secretary of HHS declares that there is a public health emergency that affects the national security or the health and security of United States citizens living abroad , and that involves biological agent ( s ) or a disease or condition that may be attributable to such agent ( s ) .
+Criteria for issuing an EUA include : • The biological agent ( s ) can cause a serious or life - threatening disease or condition ; • Based on the totality of the available scientific evidence ( including data from adequate and well - controlled clinical trials , if available ) , it is reasonable to believe that • the product may be effective in diagnosing , treating , or preventing the serious or life - threatening disease or condition ; and • the known and potential benefits of the product - when used to diagnose , prevent , or treat such disease or condition - outweigh the known and potential risks of the product , taking into consideration the material threat posed by the biological agent ( s ) ; • There is no adequate , approved , and available alternative to the product for diagnosing , preventing , or treating the serious or life - threatening disease or condition .
+CONTACT INFORMATION If you have questions , please contact : 1 - 855 - LillyC19 ( 1 - 855 - 545 - 5921 ) For additional information visit : www . baricitinibemergencyuse . com END FACT SHEET Revised 05 / 2022 Eli Lilly and Company , Indianapolis , IN 46285 , USA Copyright © 2020 , 2022 , Eli Lilly and Company .
+All rights reserved .
+BAR - 0005 - EUA HCP - 20220510 Fact Sheet for Patients , Parents and Caregivers Emergency Use Authorization ( EUA ) of Baricitinib You ( or your child ) are being given a medicine called baricitinib to treat coronavirus disease 2019 ( COVID - 19 ) .
+This Fact Sheet contains information to help you understand the risks and benefits of taking baricitinib , which you ( or your child ) have received or may receive .
+Taking baricitinib may benefit certain people in the hospital with COVID - 19 .
+This Fact Sheet provides you with the significant known and potential risks and benefits of the emergency use of baricitinib for treatment of COVID - 19 .
+Healthcare providers can recommend or provide baricitinib to people they believe may benefit from it as authorized .
+Read this Fact Sheet for information about baricitinib and talk to your healthcare provider if you have questions .
+It is your choice to take baricitinib , have your child receive baricitinib , or stop it at any time .
+What is COVID - 19 ?
+COVID - 19 is caused by a virus called a coronavirus .
+You can get COVID - 19 through contact with another person who has the virus .
+COVID - 19 illnesses have ranged from very mild ( including some with no reported symptoms ) to severe , including illness resulting in death .
+While information so far suggests that most COVID - 19 illness is mild , serious illness can happen and may cause some of your other medical conditions to become worse .
+People of all ages with severe , long - lasting ( chronic ) medical conditions like heart disease , lung disease , and diabetes , for example , seem to be at higher risk of being hospitalized for COVID - 19 .
+What are the symptoms of COVID - 19 ?
+The symptoms of COVID - 19 include fever , cough , and shortness of breath , which may appear 2 to 14 days after exposure .
+Serious illness including breathing problems can occur and may cause your other medical conditions to become worse .
+What is baricitinib ?
+Baricitinib is a prescription medicine that is FDA approved to treat : • adult patients with moderately to severely active rheumatoid arthritis after treatment with at least one other medicine called a Tumor Necrosis Factor ( TNF ) antagonist has been used and did not work well enough or could not be tolerated .
+• COVID - 19 in hospitalized adults requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or extracorporeal membrane oxygenation ( ECMO ) .
+Baricitinib is still being studied in hospitalized children with COVID - 19 .
+There is limited information about the safety and effectiveness of using baricitinib to treat children in the hospital with COVID - 19 .
+The FDA has authorized the emergency use of baricitinib for the treatment of COVID - 19 in children under an Emergency Use Authorization ( EUA ) .
+For more information on EUA , see the section “ What is an Emergency Use Authorization ( EUA ) ? ”
+at the end of this Fact Sheet .
+What should I tell my healthcare provider before taking baricitinib ( or before my child receives baricitinib ) ?
+Tell your healthcare provider about all of your ( or your child ' s ) medical conditions , including if you ( or your child ) : • Have an infection other than COVID - 19 .
+You ( or your child ) should not take baricitinib if you have an active tuberculosis infection .
+• Have hepatitis B , hepatitis C , or HIV .
+• Have ever had any type of cancer .
+• Have had blood clots .
+• Have kidney problems .
+You ( or your child ) should not take baricitinib if you have sudden , severe kidney problems or you ( or your child ) are on dialysis .
+• Have liver problems .
+• Have low red or white blood cell counts .
+• Have recently received a vaccine .
+• Are pregnant or breastfeeding .
+• Are allergic to baricitinib .
+Tell your healthcare provider about all the medicines you ( or your child ) take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+Especially tell your healthcare provider if you ( or your child ) take : • Probenecid • Any medicines that affect your immune system How should I ( or my child ) take baricitinib ?
+Baricitinib is given by mouth 1 time each day for 14 days or until you ( or your child ) are discharged from the hospital ( whichever comes first ) , as instructed by your healthcare provider .
+What are the important possible side effects of baricitinib ?
+Baricitinib may cause serious side effects , including : • Serious infections .
+Baricitinib is a medicine that affects your ( or your child ' s ) immune system .
+Baricitinib can lower the ability of your ( or your child ' s ) immune system to fight infections other than COVID - 19 .
+• Blood clots .
+Blood clots in the veins of your legs ( deep vein thrombosis ) or lungs ( pulmonary embolism ) can happen in some people taking baricitinib .
+This may be life threatening and cause death .
+• Changes in certain laboratory test results .
+Your ( or your child ' s ) healthcare provider should do blood tests before you ( or your child ) start taking baricitinib to check how well your ( or your child ' s ) kidney and liver are working , as well as to check the number of white blood cells that help the body fight infections .
+• Allergic reactions .
+Tell your ( or your child ' s ) healthcare provider right away if you ( or your child ) have symptoms such as rash , swelling of the lips , tongue , or throat , or hives ( raised red patches of skin that are often very itchy ) .
+This may mean you ( or your child ) are having an allergic reaction .
+For more information see the Medication Guide for Olumiant ® ( baricitinib ) , at http : / / pi . lilly . com / us / olumiant - us - mg . pdf .
+Tell your ( or your child ' s ) healthcare provider immediately if you ( or your child ) get : • swelling , pain or tenderness in the leg • sudden unexplained chest pain • sudden worsening shortness of breath • rash , swelling of your lips , tongue , or throat , or hives What other treatment choices are there ?
+Veklury ( remdesivir ) is FDA - approved for the treatment of certain adults and children who are hospitalized with COVID - 19 .
+Talk with your doctor to see if Veklury is appropriate for you .
+Like baricitinib , FDA may allow for the emergency use of other medicines to treat people with COVID - 19 .
+Go to https : / / www . fda . gov / emergency - preparedness - andresponse / mcm - legal - regulatory - and - policy - framework / emergency - use - authorization for information on the emergency use of other medicines that are authorized by FDA to treat people with COVID - 19 .
+Your healthcare provider may talk with you about clinical trials for which you ( or your child ) may be eligible .
+It is your choice for you ( or your child ) to be treated or not to be treated with baricitinib .
+Should you decide not to receive it or stop it at any time , it will not change your ( or your child ’ s ) standard medical care .
+What if I am pregnant or breastfeeding ?
+Baricitinib has not been studied in pregnant women or breastfeeding mothers .
+It is not known if baricitinib will harm your unborn baby or if baricitinib passes into your breast milk .
+If you are pregnant or breastfeeding , discuss your options and specific situation with your healthcare provider .
+How do I report side effects with baricitinib ?
+Tell your healthcare provider right away if you ( or your child ) have any side effect that bothers you ( or them ) or does not go away .
+Report side effects to FDA MedWatch at www . fda . gov / medwatch or call 1 - 800 - FDA - 1088 .
+You may also report side effects to Lilly by calling 1 - 855 - LillyC19 ( 1 - 855 - 545 - 5921 ) .
+How can I learn more ?
+• Ask your healthcare provider • Visit https : / / www . cdc . gov / coronavirus / 2019 - ncov / index . html • Contact your local or state public health department What is an Emergency Use Authorization ( EUA ) ?
+The United States FDA has made baricitinib available under an emergency access mechanism called an Emergency Use Authorization ( EUA ) .
+The EUA is supported by a Secretary of Health and Human Service ( HHS ) declaration that circumstances exist to justify the emergency use of drugs and biological products during the COVID - 19 pandemic .
+Baricitinib for treatment of COVID - 19 in hospitalized pediatric patients 2 to less than 18 years of age requiring supplemental oxygen , non - invasive or invasive mechanical ventilation , or ECMO , has not undergone the same type of review as an FDA - approved product .
+In issuing an EUA under the COVID - 19 public health emergency , the FDA has determined , among other things , that based on the total amount of scientific evidence available , including data from adequate and well - controlled clinical trials , if available , it is reasonable to believe that the product may be effective for diagnosing , treating , or preventing COVID - 19 , or a serious or life - threatening disease or condition caused by COVID - 19 ; that the known and potential benefits of the product , when used to diagnose , treat , or prevent such disease or condition , outweigh the known and potential risks of such product ; and that there are no adequate , approved and available alternatives .
+All of these criteria must be met to allow for emergency use of the product during the COVID - 19 pandemic .
+The EUA for baricitinib is in effect for the duration of the COVID - 19 declaration justifying emergency use of baricitinib , unless terminated or revoked ( after which baricitinib may no longer be used under the EUA ) .
+Revised 05 / 2022 Eli Lilly and Company , Indianapolis , IN 46285 , USA Copyright © 2020 , 2022 , Eli Lilly and Company .
+All rights reserved .
+BAR - 0003 - EUA PAT - 20220510 PACKAGE LABEL – BARICITINIB 4 mg 30 ct Bottle Rx Only NDC 0002 - 6885 - 30 baricitinib tablets 4 mg For use under Emergency Use Authorization ( EUA ) .
+30 tablets Lilly [ MULTIMEDIA ] [ MULTIMEDIA ]

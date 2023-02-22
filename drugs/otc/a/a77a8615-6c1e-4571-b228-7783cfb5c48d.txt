@@ -1,0 +1,353 @@
+DESCRIPTION Simvastatin is a lipid - lowering agent that is derived synthetically from a fermentation product of Aspergillus terreus .
+After oral ingestion , simvastatin , which is an inactive lactone , is hydrolyzed to the corresponding β - hydroxyacid form .
+This is an inhibitor of 3 - hydroxy - 3 - methylglutaryl - coenzyme A ( HMG - CoA ) reductase .
+This enzyme catalyzes the conversion of HMG - CoA to mevalonate , which is an early and rate - limiting step in the biosynthesis of cholesterol .
+Simvastatin is butanoic acid , 2 , 2 - dimethyl - , 1 , 2 , 3 , 7 , 8 , 8 a - hexahydro - 3 , 7 - dimethyl - 8 - [ 2 - ( tetrahy - dro - 4 - hydroxy - 6 - oxo - 2 H - pyran - 2 - yl ) - ethyl ] - 1 - naphthalenyl ester , [ 1 S - [ 1α , 3α , 7β , 8β ( 2 S * , 4 S * ) , - 8aβ ] ] .
+The molecular formula of simvastatin is C25H38O5 and its molecular weight is 418 . 57 .
+Its structural formula is : [ MULTIMEDIA ] Simvastatin is a white to off - white , nonhygroscopic , crystalline powder that is practically insoluble in water , and freely soluble in chloroform , methanol and ethanol .
+Simvastatin tablets for oral administration contain either 5 mg , 10 mg , 20 mg , 40 mg and 80 mg of simvastatin and the following inactive ingredients : ascorbic acid , butylated hydroxyanisole , citric acid , croscarmellose sodium , hydroxypropyl cellulose , hypromellose , iron oxides , isopropyl alcohol , lactose monohydrate , magnesium stearate , microcrystalline cellulose , pregelatinized starch , talc and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Epidemiological studies have demonstrated that elevated levels of total cholesterol ( total - C ) , low - density lipoprotein cholesterol ( LDL - C ) , as well as decreased levels of high - density lipoprotein cholesterol ( HDL - C ) are associated with the development of atherosclerosis and increased cardiovascular risk .
+Lowering LDL - C decreases this risk .
+However , the independent effect of raising HDL - C or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined .
+Pharmacokinetics Simvastatin is a lactone that is readily hydrolyzed in vivo to the corresponding β - hydroxyacid , a potent inhibitor of HMG - CoA reductase .
+Inhibition of HMG - CoA reductase is the basis for an assay in pharmacokinetic studies of the β - hydroxyacid metabolites ( active inhibitors ) and , following base hydrolysis , active plus latent inhibitors ( total inhibitors ) in plasma following administration of simvastatin .
+Following an oral dose of 14 C - labeled simvastatin in man , 13 % of the dose was excreted in urine and 60 % in feces .
+Plasma concentrations of total radioactivity ( simvastatin plus 14 C - metabolites ) peaked at 4 hours and declined rapidly to about 10 % of peak by 12 hours postdose .
+Since simvastatin undergoes extensive first - pass extraction in the liver , the availability of the drug to the general circulation is low ( < 5 % ) .
+Both simvastatin and its β - hydroxyacid metabolite are highly bound ( approximately 95 % ) to human plasma proteins .
+Rat studies indicate that when radiolabeled simvastatin was administered , simvastatin - derived radioactivity crossed the blood - brain barrier .
+The major active metabolites of simvastatin present in human plasma are the β - hydroxyacid of simvastatin and its 6 ′ - hydroxy , 6 ′ - hydroxymethyl , and 6 ′ - exomethylene derivatives .
+Peak plasma concentrations of both active and total inhibitors were attained within 1 . 3 to 2 . 4 hours postdose .
+While the recommended therapeutic dose range is 5 to 80 mg / day , there was no substantial deviation from linearity of AUC of inhibitors in the general circulation with an increase in dose to as high as 120 mg .
+Relative to the fasting state , the plasma profile of inhibitors was not affected when simvastatin was administered immediately before an American Heart Association recommended low - fat meal .
+In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg / day , the mean plasma level of HMG - CoA reductase inhibitory activity was increased approximately 45 % compared with 18 patients between 18 to 30 years of age .
+Clinical study experience in the elderly ( n = 1522 ) , suggests that there were no overall differences in safety between elderly and younger patients ( see PRECAUTIONS , Geriatric Use ) .
+Kinetic studies with another reductase inhibitor , having a similar principal route of elimination , have suggested that for a given dose level higher systemic exposure may be achieved in patients with severe renal insufficiency ( as measured by creatinine clearance ) .
+In a study of 12 healthy volunteers , simvastatin at the 80 mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 ( CYP3A4 ) substrates midazolam and erythromycin .
+This indicates that simvastatin is not an inhibitor of CYP3A4 , and , therefore , is not expected to affect the plasma levels of other drugs metabolized by CYP3A4 .
+Although the mechanism is not fully understood , cyclosporine has been shown to increase the AUC of HMG - CoA reductase inhibitors .
+The increase in AUC for simvastatin acid is presumably due , in part , to inhibition of CYP3A4 .
+The risk of myopathy is increased by high levels of HMG - CoA reductase inhibitory activity in plasma .
+Potent inhibitors of CYP3A4 can raise the plasma levels of HMG - CoA reductase inhibitory activity and increase the risk of myopathy ( see WARNINGS , Myopathy / Rhabdomyolysis and PRECAUTIONS , Drug Interactions ) .
+Gemfibrozil : Coadministration of gemfibrozil ( 600 mg twice daily for 3 days ) with simvastatin ( 40 mg daily ) resulted in clinically significant increases in simvastatin acid AUC ( 185 % ) and Cmax ( 112 % ) , possibly due to inhibition of simvastatin acid glucuronidation by gemfibrozil ( see WARNINGS , Myopathy / Rhabdomyolysis , PRECAUTIONS , Drug Interactions , DOSAGE AND ADMINISTRATION ) .
+Fenofibrate : Coadministration of fenofibrate ( 160 mg daily ) with simvastatin ( 80 mg daily ) for 7 days had no effect on plasma AUC ( and Cmax ) of either total HMG - CoA reductase inhibitory activity or fenofibric acid ; there was a modest reduction ( approximately 35 % ) of simvastatin acid which was not considered clinically significant ( see WARNINGS , Myopathy / Rhabdomyolysis , PRECAUTIONS , Drug Interactions ) .
+Simvastatin is a substrate for CYP3A4 ( see PRECAUTIONS , Drug Interactions ) .
+Grapefruit juice contains one or more components that inhibit CYP3A4 and can increase the plasma concentrations of drugs metabolized by CYP3A4 .
+In one study [ 1 ] , 10 subjects consumed 200 mL of double - strength grapefruit juice ( one can of frozen concentrate diluted with one rather than 3 cans of water ) three times daily for 2 days and an additional 200 mL double - strength grapefruit juice together with , and 30 and 90 minutes following , a single dose of 60 mg simvastatin on the third day .
+This regimen of grapefruit juice resulted in mean increases in the concentration ( as measured by the area under the concentration - time curve ) of active and total HMG - CoA reductase inhibitory activity [ measured using a radioenzyme inhibition assay both before ( for active inhibitors ) and after ( for total inhibitors ) base hydrolysis ] of 2 . 4 - fold and 3 . 6 - fold , respectively , and of simvastatin and its β - hydroxyacid metabolite [ measured using a chemical assay — liquid chromatography / tandem mass spectrometry ] of 16 - fold and 7 - fold , respectively .
+In a second study , 16 subjects consumed one 8 oz glass of single - strength grapefruit juice ( one can of frozen concentrate diluted with 3 cans of water ) with breakfast for 3 consecutive days and a single dose of 20 mg simvastatin in the evening of the third day .
+This regimen of grapefruit juice resulted in a mean increase in the plasma concentration ( as measured by the area under the concentration - time curve ) of active and total HMG - CoA reductase inhibitory activity [ using a validated enzyme inhibition assay different from that used in the first null study , both before ( for active inhibitors ) and after ( for total inhibitors ) base hydrolysis ] of 1 . 13 - fold and 1 . 18 - fold , respectively , and of simvastatin and its β - hydroxyacid metabolite [ measured using a chemical assay — liquid chromatography / tandem mass spectrometry ] of 1 . 88 - fold and 1 . 31 - fold , respectively .
+The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied .
+[ 1 ] Lilja JJ , Kivisto KT , Neuvonen PJ .
+Clin Pharmacol Ther 1998 ; 64 ( 5 ) : 477 - 83 Clinical Studies in Adults Reductions in Risk of CHD Mortality and Cardiovascular Events In 4 S , the effect of therapy with simvastatin on total mortality was assessed in 4 , 444 patients with CHD and baseline total cholesterol 212 to 309 mg / dL ( 5 . 5 to 8 mmol / L ) .
+In this multicenter , randomized , double - blind , placebo - controlled study , patients were treated with standard care , including diet , and either simvastatin 20 to 40 mg / day ( n = 2 , 221 ) or placebo ( n = 2 , 223 ) for a median duration of 5 . 4 years .
+After six weeks of treatment with simvastatin the median ( 25 th and 75 th percentile ) changes in LDL - C , TG , and HDL - C were - 39 % ( - 46 , - 31 % ) , - 19 % ( - 31 , 0 % ) , and 6 % ( - 3 , 17 % ) .
+Over the course of the study , treatment with simvastatin led to mean reductions in total - C , LDL - C and TG of 25 % , 35 % , and 10 % , respectively , and a mean increase in HDL - C of 8 % .
+Simvastatin significantly reduced the risk of mortality by 30 % ( p = 0 . 0003 , 182 deaths in the simvastatin group vs 256 deaths in the placebo group ) .
+The risk of CHD mortality was significantly reduced by 42 % ( p = 0 . 00001 , 111 vs 189 deaths ) .
+There was no statistically significant difference between groups in non - cardiovascular mortality .
+Simvastatin also significantly decreased the risk of having major coronary events ( CHD mortality plus hospital - verified and silent non - fatal myocardial infarction [ MI ] ) by 34 % ( p < 0 . 00001 , 431 vs 622 patients with one or more events ) .
+The risk of having a hospital - verified non - fatal MI was reduced by 37 % .
+simvastatin significantly reduced the risk for undergoing myocardial revascularization procedures ( coronary artery bypass grafting or percutaneous transluminal coronary angioplasty ) by 37 % ( p < 0 . 00001 , 252 vs 383 patients ) .
+Furthermore , simvastatin significantly reduced the risk of fatal plus non - fatal cerebrovascular events ( combined stroke and transient ischemic attacks ) by 28 % ( p = 0 . 033 , 75 vs 102 patients ) .
+simvastatin reduced the risk of major coronary events to a similar extent across the range of baseline total and LDL cholesterol levels .
+Because there were only 53 female deaths , the effect of simvastatin on mortality in women could not be adequately assessed .
+However , simvastatin significantly lessened the risk of having major coronary events by 34 % ( 60 vs 91 women with one or more event ) .
+The randomization was stratified by angina alone ( 21 % of each treatment group ) or a previous MI .
+Because there were only 57 deaths among the patients with angina alone at baseline , the effect of simvastatin on mortality in this subgroup could not be adequately assessed .
+However , trends in reduced coronary mortality , major coronary events and revascularization procedures were consistent between this group and the total study cohort .
+Additionally , in this study , 1 , 021 of the patients were 65 and older .
+Cholesterol reduction with simvastatin resulted in similar decreases in relative risk for total mortality , CHD mortality , and major coronary events in these elderly patients , compared with younger patients .
+The Heart Protection Study ( HPS ) was a large , multi - center , placebo - controlled , double - blind study with a mean duration of 5 years conducted in 20 , 536 patients ( 10 , 269 on simvastatin 40 mg and 10 , 267 on placebo ) .
+Patients were allocated to treatment using a covariate adaptive method [ 1 ] which took into account the distribution of 10 important baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups .
+Patients had a mean age of 64 years ( range 40 to 80 years ) , were 97 % Caucasian and were at high risk of developing a major coronary event because of existing coronary heart disease ( 65 % ) , diabetes ( Type 2 , 26 % ; Type 1 , 3 % ) , history of stroke or other cerebrovascular disease ( 16 % ) , peripheral vessel disease ( 33 % ) , or hypertension in males 65 years of age and older ( 6 % ) .
+At baseline , 3 , 421 patients ( 17 % ) had LDL - C levels below 100 mg / dL , of whom 953 ( 5 % ) had LDL - C levels below 80 mg / dL ; 7 , 068 patients ( 34 % ) had levels between 100 and 130 mg / dL ; and 10 , 047 patients ( 49 % ) had levels greater than 130 mg / dL .
+The HPS results showed that simvastatin 40 mg / day significantly reduced : total and CHD mortality ; non - fatal myocardial infarctions , stroke , and revascularization procedures ( coronary and non - coronary ) ( see Table 1 ) .
+TABLE 1 : Summary of Heart Protection Study ResultsEndpoint Simvastatin ( N = 10 , 269 ) n ( % ) † Placebo ( N = 10 , 267 ) n ( % ) † Risk Reduction ( % ) ( 95 % CI ) p - Value † n = number of patients with indicated event Primary Mortality 1 , 328 ( 12 . 9 ) 1 , 507 ( 14 . 7 ) 13 ( 6 to 19 ) p = 0 . 0003 CHD mortality 587 ( 5 . 7 ) 707 ( 6 . 9 ) 18 ( 8 to 26 ) p = 0 . 0005 Secondary Non - fatal MI 357 ( 3 . 5 ) 574 ( 5 . 6 ) 38 ( 30 to 46 ) p < 0 . 0001 Stroke 444 ( 4 . 3 ) 585 ( 5 . 7 ) 25 ( 15 to 34 ) p < 0 . 0001 Tertiary Coronary revascularization 513 ( 5 ) 725 ( 7 . 1 ) 30 ( 22 to 38 ) p < 0 . 0001 Peripheral and other non - coronary revascularization 450 ( 4 . 4 ) 532 ( 5 . 2 ) 16 ( 5 to 26 ) p = 0 . 006 Two composite endpoints were defined in order to have sufficient events to assess relative risk reductions across a range of baseline characteristics ( see Figure 1 ) .
+A composite of major coronary events ( MCE ) was comprised of CHD mortality and non - fatal MI ( analyzed by time - to - first event ; 898 patients treated with simvastatin had events and 1 , 212 patients on placebo had events ) .
+A composite of major vascular events ( MVE ) was comprised of MCE , stroke and revascularization procedures including coronary , peripheral and other non - coronary procedures ( analyzed by time - to - first event ; 2 , 033 patients treated with simvastatin had events and 2 , 585 patients on placebo had events ) .
+Significant relative risk reductions were observed for both composite endpoints ( 27 % for MCE and 24 % for MVE , p < 0 . 0001 ) .
+Furthermore , treatment with simvastatin produced significant relative risk reductions for all components of the composite endpoints .
+The risk reductions produced by simvastatin in both MCE and MVE were evident and consistent regardless of cardiovascular disease related medical history at study entry ( i . e . , CHD alone ; or peripheral vascular disease , cerebrovascular disease , diabetes or treated hypertension , with or without CHD ) , gender , age , creatinine levels up to the entry limit of 2 . 3 mg / dL , baseline levels of LDL - C , HDL - C , apolipoprotein B and A - 1 , baseline concomitant cardiovascular medications ( i . e . , aspirin , beta blockers , or calcium channel blockers ) , smoking status , alcohol intake , or obesity .
+Diabetics showed risk reductions for MCE and MVE due to simvastatin treatment regardless of baseline HbA1c levels or obesity with the greatest effects seen for diabetics without CHD .
+Figure 1 : The Effects of Treatment with Simvastatin on Major Vascular Events and Major Coronary Events in HPS [ MULTIMEDIA ] N = number of patients in each subgroup .
+The inverted triangles are point estimates of the relative risk , with their 95 % confidence intervals represented as a line .
+The area of a triangle is proportional to the number of patients with MVE or MCE in the subgroup relative to the number with MVE or MCE , respectively , in the entire study population .
+The vertical solid line represents a relative risk of one .
+The vertical dashed line represents the point estimate of relative risk in the entire study population .
+[ 1 ] D . R . Taves , Minimization : a new method of assigning patients to treatment and control groups .
+Clin .
+Pharmacol .
+Ther .
+15 ( 1974 ) , pp . 443 - 453 Angiographic Studies In the Multicenter Anti - Atheroma Study , the effect of simvastatin on atherosclerosis was assessed by quantitative coronary angiography in hypercholesterolemic patients with coronary heart disease .
+In this randomized , double - blind , controlled study , patients were treated with simvastatin 20 mg / day or placebo .
+Angiograms were evaluated at baseline , two and four years .
+The co - primary study endpoints were mean change per - patient in minimum and mean lumen diameters , indicating focal and diffuse disease , respectively .
+Simvastatin significantly slowed the progression of lesions as measured in the Year 4 angiogram by both parameters , as well as by change in percent diameter stenosis .
+In addition , simvastatin significantly decreased the proportion of patients with new lesions and with new total occlusions .
+Modifications of Lipid Profiles Primary Hypercholesterolemia ( Fredrickson type lla and llb ) Simvastatin has been shown to be highly effective in reducing total - C and LDL - C in heterozygous familial and non - familial forms of hypercholesterolemia and in mixed hyperlipidemia .
+A marked response was seen within 2 weeks , and the maximum therapeutic response occurred within 4 to 6 weeks .
+The response was maintained during chronic therapy .
+simvastatin consistently and significantly decreased total - C , LDL - C , total - C / HDL - C ratio , and LDL - C / HDL - C ratio ; simvastatin also decreased TG and increased HDL - C ( see Table 2 ) .
+TABLE 2 : Mean Response in Patients with Primary Hypercholesterolemia and Combined ( mixed ) Hyperlipidemia ( Mean Percent Change from Baseline After 6 to 24 Weeks ) TREATMENT N TOTAL - C LDL - C HDL - C TG [ 1 ] Lower Dose Comparative Study [ 2 ] ( Mean % Change at Week 6 ) Simvastatin5 mg q . p . m . 109 - 19 - 26 10 - 12 Simvastatin10 mg q . p . m . 110 - 23 - 30 12 - 15 Scandinavian Simvastatin Survival Study [ 3 ] ( Mean % Change at Week 6 ) Placebo 2223 - 1 - 1 0 - 2 Simvastatin20 mg q . p . m . 2221 - 28 - 38 8 - 19 Upper Dose Comparative Study [ 4 ] ( Mean % Change Averaged atWeeks 18 and 24 ) Simvastatin 40 mg q . p . m . 433 - 31 - 41 9 - 18 Simvastatin 80 mg q . p . m . 664 - 36 - 47 8 - 24 Multi - Center Combined Hyperlipidemia Study [ 5 ] ( Mean % Change at Week 6 ) Placebo 125 1 2 3 - 4 Simvastatin 40 mg q . p . m . 123 - 25 - 29 13 - 28 Simvastatin80 mg q . p . m . 124 - 31 - 36 16 - 33 [ 1 ] median percent change [ 2 ] mean baseline LDL - C 244 mg / dL and median baseline TG 168 mg / dL [ 3 ] mean baseline LDL - C 188 mg / dL and median baseline TG 128 mg / dL [ 4 ] mean baseline LDL - C 226 mg / dL and median baseline TG 156 mg / dL [ 5 ] mean baseline LDL - C 156 mg / dL and median baseline TG 391 mg / dL In the Upper Dose Comparative Study , the mean reduction in LDL - C was 47 % at the 80 mg dose .
+Of the 664 patients randomized to 80 mg , 475 patients with plasma TG ≤ 200 mg / dL had a median reduction in TG of 21 % , while in 189 patients with TG > 200 mg / dL , the median reduction in TG was 36 % .
+In these studies , patients with TG > 350 mg / dL were excluded .
+Hypertriglyceridemia ( Fredrickson type lV ) The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130 - patient , double - blind , placebo - controlled , 3 - period crossover study are presented in Table 3 .
+TABLE 3 : Six - week , Lipid - lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change ( 25 th and 75 th percentile ) from Baseline [ 1 ] TREATMENT N Total - C LDL - C HDL - C TG VLDL - C Non - HDL - C Placebo 74 + 2 ( - 7 , + 7 ) + 1 ( - 8 , + 14 ) + 3 ( - 3 , + 10 ) - 9 ( - 25 , + 13 ) - 7 ( - 25 , + 11 ) + 1 ( - 9 , + 8 ) Simvastatin40 mg / day 74 - 25 ( - 34 , - 19 ) - 28 ( - 40 , - 17 ) + 11 ( + 5 , + 23 ) - 29 ( - 43 , - 16 ) - 37 ( - 54 , - 23 ) - 32 ( - 42 , - 23 ) 80 mg / day 74 - 32 ( - 38 , - 24 ) - 37 ( - 46 , - 26 ) + 15 ( + 5 , + 23 ) - 34 ( - 45 , - 18 ) - 41 ( - 57 , - 28 ) - 38 ( - 49 , - 32 ) [ 1 ] The median baseline values ( mg / dL ) for the patients in this study were : total - C = 254 , LDL - C = 135 , HDL - C = 36 , TG = 404 , VLDL - C = 83 , and non - HDL - C = 215 .
+Dysbetalipoproteinemia ( Fredrickson type lll ) The results of a subgroup analysis in 7 patients with type lll hyperlipidemia ( dysbetalipoproteinemia ) ( apo E2 / 2 ) ( VLDL - C / TG > 0 . 25 ) from a 130 - patient , double - blind , placebo - controlled , 3 - period crossover study are presented in Table 4 .
+In this study the median baseline values ( mg / dL ) were : total - C = 324 , LDL - C = 121 , HDL - C = 31 , TG = 411 , VLDL - C = 170 , and non HDL - C = 291 .
+Table 4 : Six - week , Lipid - lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change ( min , max ) from Baseline † TREATMENT N Total - C LDL - C + IDL HDL - C TG VLDL - C + IDL Non - HDL - C Placebo 7 - 8 ( - 24 , + 34 ) - 8 ( - 27 , + 23 ) - 2 ( - 21 , + 16 ) + 4 ( - 22 , + 90 ) - 4 ( - 28 , + 78 ) - 8 ( - 26 , - 39 ) Simvastatin 40 mg / day 7 - 50 ( - 66 , - 39 ) - 50 ( - 60 , - 31 ) + 7 ( - 8 , + 23 ) - 41 ( - 74 , - 16 ) - 58 ( - 90 , - 37 ) - 57 ( - 72 , - 44 ) Simvastatin 80 mg / day 7 - 52 ( - 55 , - 41 ) - 51 ( - 57 , - 28 ) + 7 ( - 5 , + 29 ) - 38 ( - 58 , + 2 ) - 60 ( - 72 , - 39 ) - 59 ( - 61 , - 46 ) Homozygous Familial Hypercholesterolemia In a controlled clinical study , 12 patients 15 to 39 years of age with homozygous familial hypercholesterolemia received simvastatin 40 mg / day in a single dose or in 3 divided doses , or 80 mg / day in 3 divided doses .
+Eleven of the 12 patients had reductions in LDL - C .
+In those patients with reductions , the mean LDL - C changes for the 40 and 80 mg doses were 14 % ( range 8 % to 23 % , median 12 % ) and 30 % ( range 14 % to 46 % , median 29 % ) , respectively .
+One patient had an increase of 15 % in LDL - C .
+Another patient with absent LDL - C receptor function had an LDL - C reduction of 41 % with the 80 mg dose .
+Endocrine Function In clinical studies , simvastatin did not impair adrenal reserve or significantly reduce basal plasma cortisol concentration .
+Small reductions from baseline in basal plasma testosterone in men were observed in clinical studies with simvastatin , an effect also observed with other inhibitors of HMG - CoA reductase and the bile acid sequestrant cholestyramine .
+There was no effect on plasma gonadotropin levels .
+In a placebo - controlled , 12 - week study there was no significant effect of simvastatin 80 mg on the plasma testosterone response to human chorionic gonadotropin ( hCG ) .
+In another 24 - week study , simvastatin 20 to 40 mg had no detectable effect on spermatogenesis .
+In 4 S , in which 4 , 444 patients were randomized to simvastatin 20 to 40 mg / day or placebo for a median duration of 5 . 4 years , the incidence of male sexual adverse events in the two treatment groups was not significantly different .
+Because of these factors , the small changes in plasma testosterone are unlikely to be clinically significant .
+The effects , if any , on the pituitary - gonadal axis in pre - menopausal women are unknown .
+Clinical Studies in Adolescents In a double - blind , placebo - controlled study , 175 patients ( 99 adolescent boys and 76 post - menarchal girls ) 10 to 17 years of age ( mean age 14 . 1 years ) with heterozygous familial hypercholesterolemia ( heFH ) were randomized to simvastatin ( n = 106 ) or placebo ( n = 67 ) for 24 weeks ( base study ) .
+Inclusion in the study required a baseline LDL - C level between 160 and 400 mg / dL and at least one parent with an LDL - C level > 189 mg / dL .
+The dosage of simvastatin ( once daily in the evening ) was 10 mg for the first 8 weeks , 20 mg for the second 8 weeks , and 40 mg thereafter .
+In a 24 - week extension , 144 patients elected to continue therapy and received simvastatin 40 mg or placebo .
+Simvastatin significantly decreased plasma levels of total - C , LDL - C , and Apo B ( see Table 5 ) .
+Results from the extension at 48 weeks were comparable to those observed in the base study .
+TABLE 5 : Lipid - lowering Effects of Simvastatin in Adolescent Patients with Heterozygous Familial Hypercholesterolemia ( Mean Percent Change from Baseline ) Dosage Duration N Total - C LDL - C HDL - C TG [ 1 ] Apo B Placebo 24 Weeks 67 % Change from Baseline ( 95 % CI ) 1 . 6 ( - 2 . 2 , 5 . 3 ) 1 . 1 ( - 3 . 4 , 5 . 5 ) 3 . 6 ( - 0 . 7 , 8 ) - 3 . 2 ( - 11 . 8 , 5 . 4 ) - 0 . 5 ( - 4 . 7 , 3 . 6 ) Mean baseline , mg / dL ( SD ) 278 . 6 ( 51 . 8 ) 211 . 9 ( 49 ) 46 . 9 ( 11 . 9 ) 90 ( 50 . 7 ) 186 . 3 ( 38 . 1 ) Simvastatin 24 Weeks 106 % Change from Baseline ( 95 % CI ) - 26 . 5 ( - 29 . 6 , - 23 . 3 ) - 36 . 8 ( - 40 . 5 , - 33 ) 8 . 3 ( 4 . 6 , 1 . 9 ) - 7 . 9 ( - 15 . 8 , 0 ) - 32 . 4 ( - 35 . 9 , - 29 ) Mean baseline , mg / dL ( SD ) 270 . 2 ( 44 ) 203 . 8 ( 41 . 5 ) 47 . 7 ( 9 ) 78 . 3 ( 46 ) 179 . 9 ( 33 . 8 ) [ 1 ] median percent change After 24 weeks of treatment , the mean achieved LDL - C value was 124 . 9 mg / dL ( range : 64 to 289 mg / dL ) in the simvastatin 40 mg group compared to 207 . 8 mg / dL ( range : 128 to 334 mg / dL ) in the placebo group .
+The safety and efficacy of doses above 40 mg daily have not been studied in children with heterozygous familial hypercholesterolemia .
+The long - term efficacy of simvastatin therapy in childhood to reduce morbidity and mortality in adulthood has not been established .
+[ MULTIMEDIA ] INDICATIONS AND USAGE Lipid - altering agents should be used in addition to a diet restricted in saturated fat and cholesterol ( see National Cholesterol Education Program [ NCEP ] Treatment Guidelines , below ) .
+In patients with CHD or at high risk of CHD , simvastatin can be started simultaneously with diet .
+Reductions in Risk of CHD Mortality and Cardiovascular Events In patients at high risk of coronary events because of existing coronary heart disease , diabetes , peripheral vessel disease , history of stroke or other cerebrovascular disease , simvastatin is indicated to : • Reduce the risk of total mortality by reducing CHD deaths .
+• Reduce the risk of non - fatal myocardial infarction and stroke .
+• Reduce the need for coronary and non - coronary revascularization procedures .
+Patients with Hypercholesterolemia Requiring Modifications of Lipid Profiles Simvastatin tablets are indicated to : • Reduce elevated total - C , LDL - C , Apo B , and TG , and to increase HDL - C in patients with primary hypercholesterolemia ( heterozygous familial and nonfamilial ) and mixed dyslipidemia ( Fredrickson types IIa and IIb ) .
+• Treat patients with hypertriglyceridemia ( Fredrickson type lV hyperlipidemia ) .
+• Treat patients with primary dysbetalipoproteinemia ( Fredrickson type lll hyperlipidemia ) .
+• Reduce total - C and LDL - C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid - lowering treatments ( e . g . , LDL apheresis ) or if such treatments are unavailable .
+Adolescent Patients with Heterozygous Familial Hypercholesterolemia ( HeFH ) Simvastatin tablets are indicated as an adjunct to diet to reduce total - C , LDL - C , and Apo B levels in adolescent boys and girls who are at least one year post - menarche , 10 to 17 years of age , with heterozygous familial hypercholesterolemia , if after an adequate trial of diet therapy the following findings are present : • LDL cholesterol remains ≥ 190 mg / dL ; or • LDL cholesterol remains ≥ 160 mg / dL and • There is a positive family history of premature cardiovascular disease ( CVD ) or • Two or more other CVD risk factors are present in the adolescent patient .
+The minimum goal of treatment in pediatric and adolescent patients is to achieve a mean LDL - C < 130 mg / dL .
+The optimal age at which to initiate lipid - lowering therapy to decrease the risk of symptomatic adulthood CAD has not been determined .
+General Recommendations Prior to initiating therapy with simvastatin tablets , secondary causes for hypercholesterolemia ( e . g . , hypothyroidism , nephrotic syndrome , dysproteinemias , obstructive liver disease , other drug therapy , alcoholism ) should be excluded , and a lipid profile performed to measure total - C , HDL - C , and TG .
+For patients with TG less than 400 mg / dL ( < 4 . 5 mmol / L ) , LDL - C can be estimated using the following equation : LDL - C = total - C – [ ( 0 . 20 x TG ) + HDL - C ] For TG levels > 400 mg / dL ( > 4 . 5 mmol / L ) , this equation is less accurate and LDL - C concentrations should be determined by ultracentrifugation .
+In many hypertriglyceridemic patients , LDL - C may be low or normal despite elevated total - C .
+In such cases , simvastatin tablets are not indicated .
+Lipid determinations should be performed at intervals of no less than four weeks and dosage adjusted according to the patient ' s response to therapy .
+The NCEP Treatment Guidelines are summarized in Table 6 : TABLE 6 : NCEP Treatment Guidelines : LDL - C Goals and Cutpoints for Therapeutic Lifestyle Changes and Drug Therapy in Different Risk CategoriesRisk Category LDL Goal ( mg / dL ) LDL Level at Which to Initiate Therapeutic Lifestyle Changes ( mg / dL ) LDL Level at Which to Consider Drug Therapy ( mg / dL ) CHD [ 1 ] orCHD risk equivalents ( 10 - year risk > 20 % ) < 100 ≥ 100 ≥ 130 ( 100 to 129 : drug optional ) S [ 2 ] 2 + Risk factors ( 10 - year risk ≤ 20 % ) < 130 ≥ 130 10 - year risk 10 to 20 % : ≥ 130 10 - year risk < 10 % : ≥ 160 0 to 1 Risk factor [ 3 ] < 160 ≥ 160 ≥ 190 ( 160 to 189 : LDL - lowering drug optional ) [ 1 ] CHD , coronary heart disease [ 2 ] ome authorities recommend use of LDL - lowering drugs in this category if an LDL - C level of < 100 mg / dL cannot be achieved by therapeutic lifestyle changes .
+Others prefer use of drugs that primarily modify triglycerides and HDL - C , e . g . , nicotinic acid or fibrate .
+Clinical judgment also may call for deferring drug therapy in this subcategory .
+[ 3 ] Almost all people with 0 - 1 risk factor have a 10 - year risk < 10 % ; thus , 10 - year risk assessment in people with 0 - 1 risk factor is not necessary .
+After the LDL - C goal has been achieved , if the TG is still ≥ 200 mg / dL , non - HDL - C ( total - C minus HDL - C ) becomes a secondary target of therapy .
+Non - HDL - C goals are set 30 mg / dL higher than LDL - C goals for each risk category .
+At the time of hospitalization for an acute coronary event , consideration can be given to initiating drug therapy at discharge .
+The NCEP classification of cholesterol levels in pediatric patients with a familial history of either hypercholesterolemia or premature cardiovascular disease is summarized in Table 7 .
+TABLE 7 : NCEP Classification of Cholesterol Levels in Pediatric Patients with a Familial History of Either HeFH or Premature CVDCategory Total - C ( mg / dL ) LDL - C ( mg / dL ) Acceptable < 170 < 110 Borderline 170 to 199 110 to 129 High ≥ 200 ≥ 130 Since the goal of treatment is to lower LDL - C , the NCEP recommends that LDL - C levels be used to initiate and assess treatment response .
+Only if LDL - C levels are not available , should the total - C be used to monitor therapy .
+Simvastatin is indicated to reduce elevated LDL - C and TG levels in patients with Type IIb hyperlipidemia ( where hypercholesterolemia is the major abnormality ) .
+However , it has not been studied in conditions where the major abnormality is elevation of chylomicrons ( i . e . , hyperlipidemia Fredrickson types I and V ) 3 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] CONTRAINDICATIONS Hypersensitivity to any component of this medication .
+Active liver disease or unexplained persistent elevations of serum transaminases ( see WARNINGS ) .
+Pregnancy and lactation .
+Atherosclerosis is a chronic process and the discontinuation of lipid - lowering drugs during pregnancy should have little impact on the outcome of long - term therapy of primary hypercholesterolemia .
+Moreover , cholesterol and other products of the cholesterol biosynthesis pathway are essential components for fetal development , including synthesis of steroids and cell membranes .
+Because of the ability of inhibitors of HMG - CoA reductase such as simvastatin to decrease the synthesis of cholesterol and possibly other products of the cholesterol biosynthesis pathway , simvastatin is contraindicated during pregnancy and in nursing mothers .
+Simvastatin should be administered to women of childbearing age only when such patients are highly unlikely to conceive .
+If the patient becomes pregnant while taking this drug , simvastatin should be discontinued immediately and the patient should be apprised of the potential hazard to the fetus ( see PRECAUTIONS , Pregnancy ) .
+WARNINGS Myopathy / Rhabdomyolysis Simvastatin , like other inhibitors of HMG - CoA reductase , occasionally causes myopathy manifested as muscle pain , tenderness or weakness with creatine kinase ( CK ) above ten times the upper limit of normal ( ULN ) .
+Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria , and rare fatalities have occurred .
+The risk of myopathy is increased by high levels of HMG - CoA reductase inhibitory activity in plasma .
+As with other HMG - CoA reductase inhibitors , the risk of myopathy / rhabdomyolysis is dose related .
+In a clinical trial database in which 41 , 050 patients were treated with simvastatin with 24 , 747 ( approximately 60 % ) treated for at least 4 years , the incidence of myopathy was approximately 0 . 02 % , 0 . 08 % and 0 . 53 % at 20 , 40 and 80 mg / day , respectively .
+In these trials , patients were carefully monitored and some interacting medicinal products were excluded .
+All patients starting therapy with simvastatin or whose dose of simvastatin is being increased , should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain , tenderness or weakness .
+Simvastatin therapy should be discontinued immediately if myopathy is diagnosed or suspected .
+In most cases , muscle symptoms and CK increases resolved when treatment was promptly discontinued .
+Periodic CK determinations may be considered in patients starting therapy with simvastatin or whose dose is being increased , but there is no assurance that such monitoring will prevent myopathy .
+Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories , including renal insufficiency usually as a consequence of long - standing diabetes mellitus .
+Such patients merit closer monitoring .
+Therapy with simvastatin should be temporarily stopped a few days prior to elective major surgery and when any major medical or surgical condition supervenes .
+The risk of myopathy / rhabdomyolysis is increased by concomitant use of simvastatin with the following : Potent inhibitors of CYP3A4 : Simvastatin , like several other inhibitors of HMG - CoA reductase , is a substrate of cytochrome P450 3A4 ( CYP3A4 ) .
+When simvastatin is used with a potent inhibitor of CYP3A4 , elevated plasma levels of HMG - CoA reductase inhibitory activity can increase the risk of myopathy and rhabdomyolysis , particularly with higher doses of simvastatin .
+The use of simvastatin concomitantly with the potent CYP3A4 inhibitors itraconazole , ketoconazole , erythromycin , clarithromycin , telithromycin , HIV protease inhibitors , nefazodone , or large quantities of grapefruit juice ( > 1 quart daily ) should be avoided .
+Concomitant use of other medicines labeled as having a potent inhibitory effect on CYP3A4 should be avoided unless the benefits of combined therapy outweigh the increased risk .
+If treatment with itraconazole , ketoconazole , erythromycin , clarithromycin or telithromycin is unavoidable , therapy with simvastatin should be suspended during the course of treatment .
+Gemfibrozil , particularly with higher doses of simvastatin : The dose of simvastatin should not exceed 10 mg daily in patients receiving concomitant medication with gemfibrozil .
+The combined use of simvastatin with gemfibrozil should be avoided , unless the benefits are likely to outweigh the increased risks of this drug combination .
+Other lipid - lowering drugs ( other fibrates or ≥ 1 g / day of niacin ) : Caution should be used when prescribing other fibrates or lipid - lowering doses ( ≥ 1 g / day ) of niacin with simvastatin , as these agents can cause myopathy when given alone .
+The benefit of further alterations in lipid levels by the combined use of simvastatin with other fibrates or niacin should be carefully weighed against the potential risks of these combinations .
+Cyclosporine or danazol , with higher doses of simvastatin : The dose of simvastatin should not exceed 10 mg daily in patients receiving concomitant medication with cyclosporine or danazol .
+The benefits of the use of simvastatin in patients receiving cyclosporine or danazol should be carefully weighed against the risks of these combinations .
+Amiodarone or verapamil , with higher doses of simvastatin : The dose of simvastatin should not exceed 20 mg daily in patients receiving concomitant medication with amiodarone or verapamil .
+The combined use of simvastatin at doses higher than 20 mg daily with amiodarone or verapamil should be avoided unless the clinical benefit is likely to outweigh the increased risk of myopathy .
+In an ongoing clinical trial , myopathy has been reported in 6 % of patients receiving simvastatin 80 mg and amiodarone .
+In an analysis of clinical trials involving 25 , 248 patients treated with simvastatin 20 to 80 mg , the incidence of myopathy was higher in patients receiving verapamil and simvastatin ( 4 / 635 ; 0 . 63 % ) than in patients taking simvastatin without a calcium channel blocker ( 13 / 21 , 224 ; 0 . 061 % ) .
+Prescribing recommendations for interacting agents are summarized in Table 8 ( see also CLINICAL PHARMACOLOGY , Pharmacokinetics ; PRECAUTIONS , Drug Interactions ; DOSAGE AND ADMINISTRATION ) .
+TABLE 8 : Drug Interactions Associated with Increased Risk of Myopathy / RhabdomyolysisInteracting Agents Prescribing Recommendations Itraconazole Avoid simvastatin Ketoconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Nefazodone Gemfibrozil Do not exceed 10 mg simvastatin daily Cyclosporine Danazol Amiodarone Do not exceed 20 mg simvastatin daily Verapamil Grapefruit juice Avoid large quantities of grapefruit juice ( > 1 quart daily ) Liver Dysfunction Persistent increases ( to more than 3 X the ULN ) in serum transaminases have occurred in approximately 1 % of patients who received simvastatin in clinical studies .
+When drug treatment was interrupted or discontinued in these patients , the transaminase levels usually fell slowly to pretreatment levels .
+The increases were not associated with jaundice or other clinical signs or symptoms .
+There was no evidence of hypersensitivity .
+In 4 S ( see CLINICAL PHARMACOLOGY , Clinical Studies ) , the number of patients with more than one transaminase elevation to > 3 X ULN , over the course of the study , was not significantly different between the simvastatin and placebo groups ( 14 [ 0 . 7 % ] vs . 12 [ 0 . 6 % ] ) .
+Elevated transaminases resulted in the discontinuation of 8 patients from therapy in the simvastatin group ( n = 2 , 221 ) and 5 in the placebo group ( n = 2 , 223 ) .
+Of the 1 , 986 simvastatin treated patients in 4 S with normal liver function tests ( LFTs ) at baseline , only 8 ( 0 . 4 % ) developed consecutive LFT elevations to > 3 X ULN and / or were discontinued due to transaminase elevations during the 5 . 4 years ( median follow - up ) of the study .
+Among these 8 patients , 5 initially developed these abnormalities within the first year .
+All of the patients in this study received a starting dose of 20 mg of simvastatin ; 37 % were titrated to 40 mg .
+In 2 controlled clinical studies in 1 , 105 patients , the 12 month incidence of persistent hepatic transaminase elevation without regard to drug relationship was 0 . 9 % and 2 . 1 % at the 40 and 80 mg dose , respectively .
+No patients developed persistent liver function abnormalities following the initial 6 months of treatment at a given dose .
+It is recommended that liver function tests be performed before the initiation of treatment , and thereafter when clinically indicated .
+Patients titrated to the 80 mg dose should receive an additional test prior to titration , 3 months after titration to the 80 mg dose , and periodically thereafter ( e . g . , semiannually ) for the first year of treatment .
+Patients who develop increased transaminase levels should be monitored with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality ( ies ) return to normal .
+Should an increase in AST or ALT of 3 X ULN or greater persist , withdrawal of therapy with simvastatin is recommended .
+The drug should be used with caution in patients who consume substantial quantities of alcohol and / or have a past history of liver disease .
+Active liver diseases or unexplained transaminase elevations are contraindications to the use of simvastatin .
+As with other lipid - lowering agents , moderate ( less than 3 X ULN ) elevations of serum transaminases have been reported following therapy with simvastatin .
+These changes appeared soon after initiation of therapy with simvastatin , were often transient , were not accompanied by any symptoms and did not require interruption of treatment .
+PRECAUTIONS General Simvastatin may cause elevation of CK and transaminase levels ( see WARNINGS and ADVERSE REACTIONS ) .
+This should be considered in the differential diagnosis of chest pain in a patient on therapy with simvastatin .
+Information for Patients Patients should be advised about substances they should not take concomitantly with simvastatin and be advised to report promptly unexplained muscle pain , tenderness , or weakness ( see list below and WARNINGS , Myopathy / Rhabdomyolysis ) .
+Patients should also be advised to inform other physicians prescribing a new medication that they are taking simvastatin .
+Drug Interactions CYP3A4 Interactions Simvastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity ; therefore it is not expected to affect the plasma concentrations of other drugs metabolized by CYP3A4 .
+Potent inhibitors of CYP3A4 ( below ) increase the risk of myopathy by reducing the elimination of simvastatin .
+See WARNINGS , Myopathy / Rhabdomyolysis , and CLINICAL PHARMACOLOGY , Pharmacokinetics .
+Itraconazole Ketoconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Nefazodone Large quantities of grapefruit juice ( > 1 quart daily ) Interactions with lipid - lowering drugs that can cause myopathy when given alone See WARNINGS , Myopathy / Rhabdomyolysis .
+The risk of myopathy is increased by gemfibrozil ( see DOSAGE AND ADMINISTRATION ) and to a lesser extent by other fibrates and niacin ( nicotinic acid ) ( ≥ 1 g / day ) .
+Other drug interactions Cyclosporine or Danazol : The risk of myopathy / rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol particularly with higher doses of simvastatin ( see CLINICAL PHARMACOLOGY , Pharmacokinetics ; WARNINGS , Myopathy / Rhabdomyolysis ) .
+Amiodarone or Verapamil : The risk of myopathy / rhabdomyolysis is increased by concomitant administration of amiodarone or verapamil with higher doses of simvastatin ( see WARNINGS , Myopathy / Rhabdomyolysis ) .
+Propranolol : In healthy male volunteers there was a significant decrease in mean Cmax , but no change in AUC , for simvastatin total and active inhibitors with concomitant administration of single doses of simvastatin and propranolol .
+The clinical relevance of this finding is unclear .
+The pharmacokinetics of the enantiomers of propranolol were not affected .
+Digoxin : Concomitant administration of a single dose of digoxin in healthy male volunteers receiving simvastatin resulted in a slight elevation ( less than 0 . 3 ng / mL ) in digoxin concentrations in plasma ( as measured by a radioimmunoassay ) compared to concomitant administration of placebo and digoxin .
+Patients taking digoxin should be monitored appropriately when simvastatin is initiated .
+Warfarin : In two clinical studies , one in normal volunteers and the other in hypercholesterolemic patients , simvastatin 20 , 40 mg / day modestly potentiated the effect of coumarin anticoagulants : the prothrombin time , reported as International Normalized Ratio ( INR ) , increased from a baseline of 1 . 7 to 1 . 8 and from 2 . 6 to 3 . 4 in the volunteer and patient studies , respectively .
+With other reductase inhibitors , clinically evident bleeding and / or increased prothrombin time has been reported in a few patients taking coumarin anticoagulants concomitantly .
+In such patients , prothrombin time should be determined before starting simvastatin and frequently enough during early therapy to ensure that no significant alteration of prothrombin time occurs .
+Once a stable prothrombin time has been documented , prothrombin times can be monitored at the intervals usually recommended for patients on coumarin anticoagulants .
+If the dose of simvastatin is changed or discontinued , the same procedure should be repeated .
+Simvastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants .
+CNS Toxicity Optic nerve degeneration was seen in clinically normal dogs treated with simvastatin for 14 weeks at 180 mg / kg / day , a dose that produced mean plasma drug levels about 12 times higher than the mean plasma drug level in humans taking 80 mg / day .
+A chemically similar drug in this class also produced optic nerve degeneration ( Wallerian degeneration of retinogeniculate fibers ) in clinically normal dogs in a dose - dependent fashion starting at 60 mg / kg / day , a dose that produced mean plasma drug levels about 30 times higher than the mean plasma drug level in humans taking the highest recommended dose ( as measured by total enzyme inhibitory activity ) .
+This same drug also produced vestibulocochlear Wallerian - like degeneration and retinal ganglion cell chromatolysis in dogs treated for 14 weeks at 180 mg / kg / day , a dose that resulted in a mean plasma drug level similar to that seen with the 60 mg / kg / day dose .
+CNS vascular lesions , characterized by perivascular hemorrhage and edema , mononuclear cell infiltration of perivascular spaces , perivascular fibrin deposits and necrosis of small vessels were seen in dogs treated with simvastatin at a dose of 360 mg / kg / day , a dose that produced mean plasma drug levels that were about 14 times higher than the mean plasma drug levels in humans taking 80 mg / day .
+Similar CNS vascular lesions have been observed with several other drugs of this class .
+There were cataracts in female rats after two years of treatment with 50 and 100 mg / kg / day ( 22 and 25 times the human AUC at 80 mg / day , respectively ) and in dogs after three months at 90 mg / kg / day ( 19 times ) and at two years at 50 mg / kg / day ( 5 times ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility In a 72 - week carcinogenicity study , mice were administered daily doses of simvastatin of 25 , 100 , and 400 mg / kg body weight , which resulted in mean plasma drug levels approximately 1 , 4 , and 8 times higher than the mean human plasma drug level , respectively ( as total inhibitory activity based on AUC ) after an 80 mg oral dose .
+Liver carcinomas were significantly increased in high - dose females and mid - and high - dose males with a maximum incidence of 90 % in males .
+The incidence of adenomas of the liver was significantly increased in mid - and high - dose females .
+Drug treatment also significantly increased the incidence of lung adenomas in mid - and high - dose males and females .
+Adenomas of the Harderian gland ( a gland of the eye of rodents ) were significantly higher in high - dose mice than in controls .
+No evidence of a tumorigenic effect was observed at 25 mg / kg / day .
+In a separate 92 - week carcinogenicity study in mice at doses up to 25 mg / kg / day , no evidence of a tumorigenic effect was observed ( mean plasma drug levels were 1 times higher than humans given 80 mg simvastatin as measured by AUC ) .
+In a two - year study in rats at 25 mg / kg / day , there was a statistically significant increase in the incidence of thyroid follicular adenomas in female rats exposed to approximately 11 times higher levels of simvastatin than in humans given 80 mg simvastatin ( as measured by AUC ) .
+A second two - year rat carcinogenicity study with doses of 50 and 100 mg / kg / day produced hepatocellular adenomas and carcinomas ( in female rats at both doses and in males at 100 mg / kg / day ) .
+Thyroid follicular cell adenomas were increased in males and females at both doses ; thyroid follicular cell carcinomas were increased in females at 100 mg / kg / day .
+The increased incidence of thyroid neoplasms appears to be consistent with findings from other HMG - CoA reductase inhibitors .
+These treatment levels represented plasma drug levels ( AUC ) of approximately 7 and 15 times ( males ) and 22 and 25 times ( females ) the mean human plasma drug exposure after an 80 milligram daily dose .
+No evidence of mutagenicity was observed in a microbial mutagenicity ( Ames ) test with or without rat or mouse liver metabolic activation .
+In addition , no evidence of damage to genetic material was noted in an in vitro alkaline elution assay using rat hepatocytes , a V - 79 mammalian cell forward mutation study , an in vitro chromosome aberration study in CHO cells , or an in vivo chromosomal aberration assay in mouse bone marrow .
+There was decreased fertility in male rats treated with simvastatin for 34 weeks at 25 mg / kg body weight ( 4 times the maximum human exposure level , based on AUC , in patients receiving 80 mg / day ) ; however , this effect was not observed during a subsequent fertility study in which simvastatin was administered at this same dose level to male rats for 11 weeks ( the entire cycle of spermatogenesis including epididymal maturation ) .
+No microscopic changes were observed in the testes of rats from either study .
+At 180 mg / kg / day , ( which produces exposure levels 22 times higher than those in humans taking 80 mg / day based on surface area , mg / m2 ) , seminiferous tubule degeneration ( necrosis and loss of spermatogenic epithelium ) was observed .
+In dogs , there was drug - related testicular atrophy , decreased spermatogenesis , spermatocytic degeneration and giant cell formation at 10 mg / kg / day , ( approximately 2 times the human exposure , based on AUC , at 80 mg / day ) .
+The clinical significance of these findings is unclear .
+Pregnancy Pregnancy Category X See CONTRAINDICATIONS .
+Safety in pregnant women has not been established .
+Simvastatin was not teratogenic in rats at doses of 25 mg / kg / day or in rabbits at doses up to 10 mg / kg daily .
+These doses resulted in 3 times ( rat ) or 3 times ( rabbit ) the human exposure based on mg / m2 surface area .
+However , in studies with another structurally - related HMG - CoA reductase inhibitor , skeletal malformations were observed in rats and mice .
+Rare reports of congenital anomalies have been received following intrauterine exposure to HMG - CoA reductase inhibitors .
+In a review [ 1 ] of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related HMG - CoA reductase inhibitor , the incidences of congenital anomalies , spontaneous abortions and fetal deaths / stillbirths did not exceed what would be expected in the general population .
+The number of cases is adequate only to exclude a 3 - to 4 - fold increase in congenital anomalies over the background incidence .
+In 89 % of the prospectively followed pregnancies , drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified .
+As safety in pregnant women has not been established and there is no apparent benefit to therapy with simvastatin during pregnancy ( see CONTRAINDICATIONS ) , treatment should be immediately discontinued as soon as pregnancy is recognized .
+Simvastatin should be administered to women of child - bearing potential only when such patients are highly unlikely to conceive and have been informed of the potential hazards .
+[ 1 ] Manson , J . M . , Freyssinges , C . , Ducrocq , M . B . , Stephenson , W . P . , Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy , Reproductive Toxicology , 10 ( 6 ) : 439 446 , 1996 Nursing Mothers It is not known whether simvastatin is excreted in human milk .
+Because a small amount of another drug in this class is excreted in human milk and because of the potential for serious adverse reactions in nursing infants , women taking simvastatin should not nurse their infants ( see CONTRAINDICATIONS ) .
+Pediatric Use Safety and effectiveness of simvastatin in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial in adolescent boys and in girls who were at least 1 year post - menarche .
+Patients treated with simvastatin had an adverse experience profile generally similar to that of patients treated with placebo .
+Doses greater than 40 mg have not been studied in this population .
+In this limited controlled study , there was no detectable effect on growth or sexual maturation in the adolescent boys or girls , or any effect on menstrual cycle length in girls .
+See CLINICAL PHARMACOLOGY , Clinical Studies in Adolescents ; ADVERSE REACTIONS , Adolescent Patients ; and DOSAGE AND ADMINISTRATION , Adolescents ( 10 to 17 years of age ) with Heterozygous Familial Hypercholesterolemia .
+Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy ( see CONTRAINDICATIONS and PRECAUTIONS , Pregnancy ) .
+Simvastatin has not been studied in patients younger than 10 years of age , nor in pre - menarchal girls .
+Geriatric Use A pharmacokinetic study with simvastatin showed the mean plasma level of HMG - CoA reductase inhibitory activity to be approximately 45 % higher in elderly patients between 70 to 78 years of age compared with patients between 18 to 30 years of age .
+In 4 S , 1 , 021 ( 23 % ) of 4 , 444 patients were 65 or older .
+In 4 S , lipid - lowering efficacy was at least as great in elderly patients compared with younger patients .
+In this study , smvastatin significantly reduced total mortality and CHD mortality in elderly patients with a history of CHD .
+In HPS , 52 % of patients were elderly ( 4 , 891 patients 65 to 69 years and 5 , 806 patients 70 years or older ) .
+The relative risk reductions of CHD death , non - fatal MI , coronary and non - coronary revascularization procedures , and stroke were similar in older and younger patients ( see CLINICAL PHARMACOLOGY ) .
+In HPS , among 32 , 145 patients entering the active run - in period , there were 2 cases of myopathy / rhabdomyolysis ; these patients were aged 67 and 73 .
+Of the 7 cases of myopathy / rhabdomyolysis among 10 , 269 patients allocated to simvastatin , 4 were aged 65 or more ( at baseline ) , of whom one was over 75 .
+There were no overall differences in safety between older and younger patients in either 4 S or HPS .
+ADVERSE REACTIONS In the pre - marketing controlled clinical studies and their open extensions ( 2 , 423 patients with mean duration of follow - up of approximately 18 months ) , 1 . 4 % of patients were discontinued due to adverse experiences attributable to simvastatin .
+Adverse reactions have usually been mild and transient .
+simvastatin has been evaluated for serious adverse reactions in more than 21 , 000 patients and is generally well tolerated .
+Clinical Adverse Experiences In Adults Adverse experiences occurring in adults at an incidence of 1 % or greater in patients treated with simvastatin , regardless of causality , in controlled clinical studies are shown in Table 9 .
+TABLE 9 : Adverse Experiences in Clinical Studies Incidence 1 Percent or Greater , Regardless of Causality Simvastatin ( N = 1 , 583 ) % Placebo ( N = 157 ) % Cholestyramine ( N = 179 ) % Body as a Whole Abdominal pain 3 . 2 3 . 2 8 . 9 Asthenia 1 . 6 2 . 5 1 . 1 Gastrointestinal Constipation 2 . 3 1 . 3 29 . 1 Diarrhea 1 . 9 2 . 5 7 . 8 Dyspepsia 1 . 1 — 4 . 5 Flatulence 1 . 9 1 . 3 14 . 5 Nausea 1 . 3 1 . 9 10 . 1 Nervous System / Psychiatric Headache 3 . 5 5 . 1 4 . 5 Respiratory Upper respiratory infection 2 . 1 1 . 9 3 . 4 Scandinavian Simvastatin Survival Study Clinical Adverse Experiences In 4 S ( see CLINICAL PHARMACOLOGY , Clinical Studies ) involving 4 , 444 patients treated with 20 to 40 mg / day of simvastatin ( n = 2 , 221 ) or placebo ( n = 2 , 223 ) , the safety and tolerability profiles were comparable between groups over the median 5 . 4 years of the study .
+The clinical adverse experiences reported as possibly , probably , or definitely drug - related in ≥ 0 . 5 % in either treatment group are shown in Table 10 .
+TABLE 10 : Drug - Related Clinical Adverse Experiences in 4 S Incidence 0 . 5 Percent or Greater Simvastatin ( N = 2 , 221 ) % Placebo ( N = 2 , 223 ) % Body as a Whole Abdominal pain 0 . 9 0 . 9 Gastrointestinal Diarrhea 0 . 5 0 . 3 Dyspepsia 0 . 6 0 . 5 Flatulence 0 . 9 0 . 7 Nausea 0 . 4 0 . 6 Musculoskeletal Myalgia 1 . 2 1 . 3 Skin Eczema 0 . 8 0 . 8 Pruritus 0 . 5 0 . 4 Rash 0 . 6 0 . 6 Special Senses Cataract 0 . 5 0 . 8 Heart Protection Study Clinical Adverse Experiences In HPS ( see CLINICAL PHARMACOLOGY , Clinical Studies ) , involving 20 , 536 patients treated with simvastatin 40 mg / day ( n = 10 , 269 ) or placebo ( n = 10 , 267 ) , the safety profiles were comparable between patients treated with simvastatin and patients treated with placebo over the mean 5 years of the study .
+In this large trial , only serious adverse events and discontinuations due to any adverse events were recorded .
+Discontinuation rates due to adverse experiences were comparable ( 4 . 8 % in patients treated with simvastatin compared with 5 . 1 % in patients treated with placebo ) .
+The incidence of myopathy / rhabdomyolysis was < 0 . 1 % in patients treated with simvastatin .
+The following effects have been reported with drugs in this class .
+Not all the effects listed below have necessarily been associated with simvastatin therapy .
+Skeletal : muscle cramps , myalgia , myopathy , rhabdomyolysis , arthralgias .
+Neurological : dysfunction of certain cranial nerves ( including alteration of taste , impairment of extra - ocular movement , facial paresis ) , tremor , dizziness , vertigo , memory loss , paresthesia , peripheral neuropathy , peripheral nerve palsy , psychic disturbances , anxiety , insomnia , depression .
+Hypersensitivity Reactions : An apparent hypersensitivity syndrome has been reported rarely which has included one or more of the following features : anaphylaxis , angioedema , lupus erythematous - like syndrome , polymyalgia rheumatica , dermatomyositis , vasculitis , purpura , thrombocytopenia , leukopenia , hemolytic anemia , positive ANA , ESR increase , eosinophilia , arthritis , arthralgia , urticaria , asthenia , photosensitivity , fever , chills , flushing , malaise , dyspnea , toxic epidermal necrolysis , erythema multiforme , including Stevens - Johnson syndrome .
+Gastrointestinal : pancreatitis , hepatitis , including chronic active hepatitis , cholestatic jaundice , fatty change in liver , and , rarely , cirrhosis , fulminant hepatic necrosis , and hepatoma ; anorexia , vomiting .
+Skin : alopecia , pruritus .
+A variety of skin changes ( e . g . , nodules , discoloration , dryness of skin / mucous membranes , changes to hair / nails ) have been reported .
+Reproductive : gynecomastia , loss of libido , erectile dysfunction .
+Eye : progression of cataracts ( lens opacities ) , ophthalmoplegia .
+Laboratory Abnormalities : elevated transaminases , alkaline phosphatase , γ glutamyl transpeptidase , and bilirubin ; thyroid function abnormalities .
+Laboratory Tests Marked persistent increases of serum transaminases have been noted ( see WARNINGS , Liver Dysfunction ) .
+About 5 % of patients had elevations of CK levels of 3 or more times the normal value on one or more occasions .
+This was attributable to the noncardiac fraction of CK .
+Muscle pain or dysfunction usually was not reported ( see WARNINGS , Myopathy / Rhabdomyolysis ) .
+Concomitant Lipid - Lowering Therapy In controlled clinical studies in which simvastatin was administered concomitantly with cholestyramine , no adverse reactions peculiar to this concomitant treatment were observed .
+The adverse reactions that occurred were limited to those reported previously with simvastatin or cholestyramine .
+The combined use of simvastatin at doses exceeding 10 mg / day with gemfibrozil should be avoided ( see WARNINGS , Myopathy / Rhabdomyolysis ) .
+Adolescent Patients ( ages 10 to 17 years ) In a 48 - week , controlled study in adolescent boys and girls who were at least 1 year post - menarche , 10 to 17 years of age with heterozygous familial hypercholesterolemia ( n = 175 ) , the safety and tolerability profile of the group treated with simvastatin ( 10 to 40 mg daily ) was generally similar to that of the group treated with placebo , with the most common adverse experiences observed in both groups being upper respiratory infection , headache , abdominal pain , and nausea ( see CLINICAL PHARMACOLOGY , Clinical Studies in Adolescents , and PRECAUTIONS , Pediatric Use ) .
+OVERDOSAGE Significant lethality was observed in mice after a single oral dose of 9 g / m2 .
+No evidence of lethality was observed in rats or dogs treated with doses of 30 and 100 g / m2 , respectively .
+No specific diagnostic signs were observed in rodents .
+At these doses the only signs seen in dogs were emesis and mucoid stools .
+A few cases of overdosage with simvastatin have been reported ; the maximum dose taken was 3 . 6 g . All patients recovered without sequelae .
+Until further experience is obtained , no specific treatment of overdosage with simvastatin can be recommended .
+The dialyzability of simvastatin and its metabolites in man is not known at present .
+DOSAGE AND ADMINISTRATION The patient should be placed on a standard cholesterol - lowering diet .
+In patients with CHD or at high risk of CHD , simvastatin can be started simultaneously with diet .
+The dosage should be individualized according to the goals of therapy and the patient ’ s response .
+( For the treatment of adult dyslipidemia , see NCEP Treatment Guidelines .
+For the reduction in risks of major coronary events , see CLINICAL PHARMACOLOGY , Clinical Studies in Adults . )
+The dosage range is 5 - 80 mg / day ( see below ) .
+The recommended usual starting dose is 20 to 40 mg once a day in the evening .
+For patients at high risk for a CHD event due to existing coronary heart disease , diabetes , peripheral vessel disease , history of stroke or other cerebrovascular disease , the recommended starting dose is 40 mg / day .
+Lipid determinations should be performed after 4 weeks of therapy and periodically thereafter .
+See below for dosage recommendations in special populations ( i . e . , homozygous familial hypercholesterolemia , adolescents and renal insufficiency ) or for patients receiving concomitant therapy ( i . e . , cyclosporine , danazol , amiodarone , verapamil , or gemfibrozil ) .
+Patients with Homozygous Familial Hypercholesterolemia The recommended dosage for patients with homozygous familial hypercholesterolemia is simvastatin 40 mg / day in the evening or 80 mg / day in 3 divided doses of 20 mg , 20 mg , and an evening dose of 40 mg .
+Simvastatin should be used as an adjunct to other lipid - lowering treatments ( e . g . , LDL apheresis ) in these patients or if such treatments are unavailable .
+Adolescents ( 10 to 17 years of age ) with Heterozygous Familial Hypercholesterolemia The recommended usual starting dose is 10 mg once a day in the evening .
+The recommended dosing range is 10 to 40 mg / day ; the maximum recommended dose is 40 mg / day .
+Doses should be individualized according to the recommended goal of therapy ( see NCEP Pediatric Panel Guidelines [ 1 ] and CLINICAL PHARMACOLOGY ) .
+Adjustments should be made at intervals of 4 weeks or more .
+[ 1 ] National Cholesterol Education Program ( NCEP ) : Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents .
+Pediatrics .
+89 ( 3 ) : 495 - 501 .
+1992 .
+Concomitant Lipid – Lowering Therapy Simvastatin is effective alone or when used concomitantly with bile - acid sequestrants .
+If simvastatin is used in combination with gemfibrozil , the dose of simvastatin should not exceed 10 mg / day ( see WARNINGS , Myopathy / Rhabdomyolysis and PRECAUTIONS , Drug Interactions ) .
+Patients taking Cyclosporine or Danazol In patients taking cyclosporine or danazol concomitantly with simvastatin ( see WARNINGS , Myopathy / Rhabdomyolysis ) , therapy should begin with 5 mg / day and should not exceed 10 mg / day .
+Patients taking Amiodarone or Verapamil In patients taking amiodarone or verapamil concomitantly with simvastatin , the dose should not exceed 20 mg / day ( see WARNINGS , Myopathy / Rhabdomyolysis and PRECAUTIONS , Drug Interactions , Other drug interactions ) .
+Patients with Renal Insufficiency Because simvastatin does not undergo significant renal excretion , modification of dosage should not be necessary in patients with mild to moderate renal insufficiency .
+However , caution should be exercised when simvastatin is administered to patients with severe renal insufficiency ; such patients should be started at 5 mg / day and be closely monitored ( see CLINICAL PHARMACOLOGY , Pharmacokinetics and WARNINGS , Myopathy / Rhabdomyolysis ) .
+HOW SUPPLIED Simvastatin Tablets 5 mg are peach colored , round , film - coated tablets , debossed RX6 on one side and plain on the other side .
+Simvastatin Tablets 10 mg are peach colored , round , film - coated tablets , debossed RX790 on one side and plain on the other side .
+Simvastatin Tablets 20 mg are tan colored , round , film - coated tablets , debossed RX791 on one side and plain on the other side .
+Simvastatin Tablets 40 mg are brick red colored , round , film - coated tablets , debossed RX792 on one side and plain on the other side .
+Simvastatin Tablets 80 mg are brick red colored , round , film - coated tablets , debossed RX793 on one side and plain on the other side .
+They are supplied by State of Florida DOH Central Pharmacy as follows : NDC Strength Quantity / Form Color Source Prod .
+Code 53808 - 0793 - 1 20 mg 30 Tablets in a Blister Pack Tan color 63304 - 791 Storage Store at 20 - 25 ° C ( 68 - 77 ° F ) .
+( See USP Controlled Room Temperature ) .
+Manufactured for : Ranbaxy Pharmaceuticals Inc .
+Jacksonville , FL 32257 USA This Product was Repackaged By : State of Florida DOH Central Pharmacy 104 - 2 Hamilton Park Drive Tallahassee , FL 32304 United States Label Image for 20 mg [ MULTIMEDIA ] [ MULTIMEDIA ]

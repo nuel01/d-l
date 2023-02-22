@@ -1,0 +1,519 @@
+WARNING : CONGESTIVE HEART FAILURE • Thiazolidinediones , including ACTOS , cause or exacerbate congestive heart failure in some patients ( see WARNINGS ) .
+After initiation of ACTOS , and after dose increases , observe patients carefully for signs and symptoms of heart failure ( including excessive , rapid weight gain , dyspnea , and / or edema ) .
+If these signs and symptoms develop , the heart failure should be managed according to the current standards of care .
+Furthermore , discontinuation or dose reduction of ACTOS must be considered .
+• ACTOS is not recommended in patients with symptomatic heart failure .
+Initiation of ACTOS in patients with established NYHA Class III or IV heart failure is contraindicated ( see CONTRAINDICATIONS and WARNINGS ) .
+DESCRIPTION ACTOS ( pioglitazone hydrochloride ) is an oral antidiabetic agent that acts primarily by decreasing insulin resistance .
+ACTOS is used in the management of type 2 diabetes mellitus ( also known as non - insulin - dependent diabetes mellitus [ NIDDM ] or adult - onset diabetes ) .
+Pharmacological studies indicate that ACTOS improves sensitivity to insulin in muscle and adipose tissue and inhibits hepatic gluconeogenesis .
+ACTOS improves glycemic control while reducing circulating insulin levels .
+Pioglitazone [ ( ± ) - 5 - [ [ 4 - [ 2 - ( 5 - ethyl - 2 - pyridinyl ) ethoxy ] phenyl ] methyl ] - 2 , 4 - ] thiazolidinedione monohydrochloride belongs to a different chemical class and has a different pharmacological action than the sulfonylureas , metformin , or the α - glucosidase inhibitors .
+The molecule contains one asymmetric carbon , and the compound is synthesized and used as the racemic mixture .
+The two enantiomers of pioglitazone interconvert in vivo .
+No differences were found in the pharmacologic activity between the two enantiomers .
+The structural formula is as shown : [ MULTIMEDIA ] Pioglitazone hydrochloride is an odorless white crystalline powder that has a molecular formula of C19H20N2O3S • HCl and a molecular weight of 392 . 90 daltons .
+It is soluble in N , N - dimethylformamide , slightly soluble in anhydrous ethanol , very slightly soluble in acetone and acetonitrile , practically insoluble in water , and insoluble in ether .
+ACTOS is available as a tablet for oral administration containing 15 mg , 30 mg , or 45 mg of pioglitazone ( as the base ) formulated with the following excipients : lactose monohydrate NF , hydroxypropylcellulose NF , carboxymethylcellulose calcium NF , and magnesium stearate NF .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action ACTOS is a thiazolidinedione antidiabetic agent that depends on the presence of insulin for its mechanism of action .
+ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin - dependent glucose disposal and decreased hepatic glucose output .
+Unlike sulfonylureas , pioglitazone is not an insulin secretagogue .
+Pioglitazone is a potent agonist for peroxisome proliferator - activated receptor - gamma ( PPARγ ) .
+PPAR receptors are found in tissues important for insulin action such as adipose tissue , skeletal muscle , and liver .
+Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism .
+In animal models of diabetes , pioglitazone reduces the hyperglycemia , hyperinsulinemia , and hypertriglyceridemia characteristic of insulin - resistant states such as type 2 diabetes .
+The metabolic changes produced by pioglitazone result in increased responsiveness of insulin - dependent tissues and are observed in numerous animal models of insulin resistance .
+Since pioglitazone enhances the effects of circulating insulin ( by decreasing insulin resistance ) , it does not lower blood glucose in animal models that lack endogenous insulin .
+Pharmacokinetics and Drug Metabolism Serum concentrations of total pioglitazone ( pioglitazone plus active metabolites ) remain elevated 24 hours after once daily dosing .
+Steady - state serum concentrations of both pioglitazone and total pioglitazone are achieved within 7 days .
+At steady - state , two of the pharmacologically active metabolites of pioglitazone , Metabolites III ( M - III ) and IV ( M - IV ) , reach serum concentrations equal to or greater than pioglitazone .
+In both healthy volunteers and in patients with type 2 diabetes , pioglitazone comprises approximately 30 % to 50 % of the peak total pioglitazone serum concentrations and 20 % to 25 % of the total area under the serum concentration - time curve ( AUC ) .
+Maximum serum concentration ( Cmax ) , AUC , and trough serum concentrations ( Cmin ) for both pioglitazone and total pioglitazone increase proportionally at doses of 15 mg and 30 mg per day .
+There is a slightly less than proportional increase for pioglitazone and total pioglitazone at a dose of 60 mg per day .
+Absorption : Following oral administration , in the fasting state , pioglitazone is first measurable in serum within 30 minutes , with peak concentrations observed within 2 hours .
+Food slightly delays the time to peak serum concentration to 3 to 4 hours , but does not alter the extent of absorption .
+Distribution : The mean apparent volume of distribution ( Vd / F ) of pioglitazone following single - dose administration is 0 . 63 ± 0 . 41 ( mean ± SD ) L / kg of body weight .
+Pioglitazone is extensively protein bound ( > 99 % ) in human serum , principally to serum albumin .
+Pioglitazone also binds to other serum proteins , but with lower affinity .
+Metabolites M - III and M - IV also are extensively bound ( > 98 % ) to serum albumin .
+Metabolism : Pioglitazone is extensively metabolized by hydroxylation and oxidation ; the metabolites also partly convert to glucuronide or sulfate conjugates .
+Metabolites M - II and M - IV ( hydroxy derivatives of pioglitazone ) and M - III ( keto derivative of pioglitazone ) are pharmacologically active in animal models of type 2 diabetes .
+In addition to pioglitazone , M - III and M - IV are the principal drug - related species found in human serum following multiple dosing .
+At steady - state , in both healthy volunteers and in patients with type 2 diabetes , pioglitazone comprises approximately 30 % to 50 % of the total peak serum concentrations and 20 % to 25 % of the total AUC .
+In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone .
+The cytochrome P450 isoforms involved are CYP2C8 and , to a lesser degree , CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1 .
+In vivo studies of pioglitazone in combination with P450 inhibitors and substrates have been performed ( see Drug Interactions ) .
+Urinary 6ß - hydroxycortisol / cortisol ratios measured in patients treated with ACTOS showed that pioglitazone is not a strong CYP3A4 enzyme inducer .
+Excretion and Elimination : Following oral administration , approximately 15 % to 30 % of the pioglitazone dose is recovered in the urine .
+Renal elimination of pioglitazone is negligible , and the drug is excreted primarily as metabolites and their conjugates .
+It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces .
+The mean serum half - life of pioglitazone and total pioglitazone ranges from 3 to 7 hours and 16 to 24 hours , respectively .
+Pioglitazone has an apparent clearance , CL / F , calculated to be 5 to 7 L / hr .
+Special Populations Renal Insufficiency : The serum elimination half - life of pioglitazone , M - III , and M - IV remains unchanged in patients with moderate ( creatinine clearance 30 to 60 mL / min ) to severe ( creatinine clearance < 30 mL / min ) renal impairment when compared to normal subjects .
+No dose adjustment in patients with renal dysfunction is recommended ( see DOSAGE AND ADMINISTRATION ) .
+Hepatic Insufficiency : Compared with normal controls , subjects with impaired hepatic function ( Child - Pugh Grade B / C ) have an approximate 45 % reduction in pioglitazone and total pioglitazone mean peak concentrations but no change in the mean AUC values .
+ACTOS therapy should not be initiated if the patient exhibits clinical evidence of active liver disease or serum transaminase levels ( ALT ) exceed 2 . 5 times the upper limit of normal ( see PRECAUTIONS , Hepatic Effects ) .
+Elderly : In healthy elderly subjects , peak serum concentrations of pioglitazone and total pioglitazone are not significantly different , but AUC values are slightly higher and the terminal half - life values slightly longer than for younger subjects .
+These changes were not of a magnitude that would be considered clinically relevant .
+Pediatrics : Pharmacokinetic data in the pediatric population are not available .
+Gender : The mean Cmax and AUC values were increased 20 % to 60 % in females .
+As monotherapy and in combination with sulfonylurea , metformin , or insulin , ACTOS improved glycemic control in both males and females .
+In controlled clinical trials , hemoglobin A1c ( HbA1c ) decreases from baseline were generally greater for females than for males ( average mean difference in HbA1c 0 . 5 % ) .
+Since therapy should be individualized for each patient to achieve glycemic control , no dose adjustment is recommended based on gender alone .
+Ethnicity : Pharmacokinetic data among various ethnic groups are not available .
+Drug - Drug Interactions The following drugs were studied in healthy volunteers with a co - administration of ACTOS 45 mg once daily .
+Listed below are the results : Oral Contraceptives : Co - administration of ACTOS ( 45 mg once daily ) and an oral contraceptive ( 1 mg norethindrone plus 0 . 035 mg ethinyl estradiol once daily ) for 21 days , resulted in 11 % and 11 - 14 % decrease in ethinyl estradiol AUC ( 0 - 24 h ) and Cmax respectively .
+There were no significant changes in norethindrone AUC ( 0 - 24 h ) and Cmax .
+In view of the high variability of ethinyl estradiol pharmacokinetics , the clinical significance of this finding is unknown .
+Fexofenadine HCl : Co - administration of ACTOS for 7 days with 60 mg fexofenadine administered orally twice daily resulted in no significant effect on pioglitazone pharmacokinetics .
+ACTOS had no significant effect on fexofenadine pharmacokinetics .
+Glipizide : Co - administration of ACTOS and 5 mg glipizide administered orally once daily for 7 days did not alter the steady - state pharmacokinetics of glipizide .
+Digoxin : Co - administration of ACTOS with 0 . 25 mg digoxin administered orally once daily for 7 days did not alter the steady - state pharmacokinetics of digoxin .
+Warfarin : Co - administration of ACTOS for 7 days with warfarin did not alter the steady - state pharmacokinetics of warfarin .
+ACTOS has no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin therapy .
+Metformin : Co - administration of a single dose of metformin ( 1000 mg ) and ACTOS after 7 days of ACTOS did not alter the pharmacokinetics of the single dose of metformin .
+Midazolam : Administration of ACTOS for 15 days followed by a single 7 . 5 mg dose of midazolam syrup resulted in a 26 % reduction in midazolam Cmax and AUC .
+Ranitidine HCl : Co - administration of ACTOS for 7 days with ranitidine administered orally twice daily for either 4 or 7 days resulted in no significant effect on pioglitazone pharmacokinetics .
+ACTOS showed no significant effect on ranitidine pharmacokinetics .
+Nifedipine ER : Co - administration of ACTOS for 7 days with 30 mg nifedipine ER administered orally once daily for 4 days to male and female volunteers resulted in least square mean ( 90 % CI ) values for unchanged nifedipine of 0 . 83 ( 0 . 73 - 0 . 95 ) for Cmax and 0 . 88 ( 0 . 80 - 0 . 96 ) for AUC .
+In view of the high variability of nifedipine pharmacokinetics , the clinical significance of this finding is unknown .
+Ketoconazole : Co - administration of ACTOS for 7 days with ketoconazole 200 mg administered twice daily resulted in least square mean ( 90 % CI ) values for unchanged pioglitazone of 1 . 14 ( 1 . 06 - 1 . 23 ) for Cmax , 1 . 34 ( 1 . 26 - 1 . 41 ) for AUC and 1 . 87 ( 1 . 71 - 2 . 04 ) for Cmin .
+Atorvastatin Calcium : Co - administration of ACTOS for 7 days with atorvastatin calcium ( LIPITOR ® ) 80 mg once daily resulted in least square mean ( 90 % CI ) values for unchanged pioglitazone of 0 . 69 ( 0 . 57 - 0 . 85 ) for Cmax , 0 . 76 ( 0 . 65 - 0 . 88 ) for AUC and 0 . 96 ( 0 . 87 - 1 . 05 ) for Cmin .
+For unchanged atorvastatin the least square mean ( 90 % CI ) values were 0 . 77 ( 0 . 66 - 0 . 90 ) for Cmax , 0 . 86 ( 0 . 78 - 0 . 94 ) for AUC and 0 . 92 ( 0 . 82 - 1 . 02 ) for Cmin .
+Theophylline : Co - administration of ACTOS for 7 days with theophylline 400 mg administered twice daily resulted in no change in the pharmacokinetics of either drug .
+Cytochrome P450 : See PRECAUTIONS Gemfibrozil : Concomitant administration of gemfibrozil ( oral 600 mg twice daily ) , an inhibitor of CYP2C8 , with pioglitazone ( oral 30 mg ) in 10 healthy volunteers pre - treated for 2 days prior with gemfibrozil ( oral 600 mg twice daily ) resulted in pioglitazone exposure ( AUC0 - 24 ) being 226 % of the pioglitazone exposure in the absence of gemfibrozil ( see PRECAUTIONS ) . 1 Rifampin : Concomitant administration of rifampin ( oral 600 mg once daily ) , an inducer of CYP2C8 with pioglitazone ( oral 30 mg ) in 10 healthy volunteers pre - treated for 5 days prior with rifampin ( oral 600 mg once daily ) resulted in a decrease in the AUC of pioglitazone by 54 % ( see PRECAUTIONS ) . 2 Pharmacodynamics and Clinical Effects Clinical studies demonstrate that ACTOS improves insulin sensitivity in insulin - resistant patients .
+ACTOS enhances cellular responsiveness to insulin , increases insulin - dependent glucose disposal , improves hepatic sensitivity to insulin , and improves dysfunctional glucose homeostasis .
+In patients with type 2 diabetes , the decreased insulin resistance produced by ACTOS results in lower plasma glucose concentrations , lower plasma insulin levels , and lower HbA1c values .
+Based on results from an open - label extension study , the glucose lowering effects of ACTOS appear to persist for at least one year .
+In controlled clinical trials , ACTOS in combination with sulfonylurea , metformin , or insulin had an additive effect on glycemic control .
+Patients with lipid abnormalities were included in clinical trials with ACTOS .
+Overall , patients treated with ACTOS had mean decreases in triglycerides , mean increases in HDL cholesterol , and no consistent mean changes in LDL and total cholesterol .
+In a 26 - week , placebo - controlled , dose - ranging study , mean triglyceride levels decreased in the 15 mg , 30 mg , and 45 mg ACTOS dose groups compared to a mean increase in the placebo group .
+Mean HDL levels increased to a greater extent in patients treated with ACTOS than in the placebo - treated patients .
+There were no consistent differences for LDL and total cholesterol in patients treated with ACTOS compared to placebo ( Table 1 ) .
+Table 1 Lipids in a 26 - Week Placebo - Controlled Monotherapy Dose - Ranging Study Placebo ACTOS 15 mg Once Daily ACTOS 30 mg Once Daily ACTOS 45 mg Once Daily Triglycerides ( mg / dL ) N = 79 N = 79 N = 84 N = 77 Baseline ( mean ) 262 . 8 283 . 8 261 . 1 259 . 7 Percent change from baseline ( mean ) 4 . 8 % - 9 . 0 % - 9 . 6 % - 9 . 3 % HDL Cholesterol ( mg / dL ) N = 79 N = 79 N = 83 N = 77 Baseline ( mean ) 41 . 7 40 . 4 40 . 8 40 . 7 Percent change from baseline ( mean ) 8 . 1 % 14 . 1 % 12 . 2 % 19 . 1 % LDL Cholesterol ( mg / dL ) N = 65 N = 63 N = 74 N = 62 Baseline ( mean ) 138 . 8 131 . 9 135 . 6 126 . 8 Percent change from baseline ( mean ) 4 . 8 % 7 . 2 % 5 . 2 % 6 . 0 % Total Cholesterol ( mg / dL ) N = 79 N = 79 N = 84 N = 77 Baseline ( mean ) 224 . 6 220 . 0 222 . 7 213 . 7 Percent change from baseline ( mean ) 4 . 4 % 4 . 6 % 3 . 3 % 6 . 4 % In the two other monotherapy studies ( 24 weeks and 16 weeks ) and in combination therapy studies with sulfonylurea ( 24 weeks and 16 weeks ) and metformin ( 24 weeks and 16 weeks ) , the results were generally consistent with the data above .
+In placebo - controlled trials , the placebo - corrected mean changes from baseline decreased 5 % to 26 % for triglycerides and increased 6 % to 13 % for HDL in patients treated with ACTOS .
+A similar pattern of results was seen in 24 - week combination therapy studies of ACTOS with sulfonylurea or metformin .
+In a combination therapy study with insulin ( 16 weeks ) , the placebo - corrected mean percent change from baseline in triglyceride values for patients treated with ACTOS was also decreased .
+A placebo - corrected mean change from baseline in LDL cholesterol of 7 % was observed for the 15 mg dose group .
+Similar results to those noted above for HDL and total cholesterol were observed .
+A similar pattern of results was seen in a 24 - week combination therapy study with ACTOS with insulin .
+Clinical Studies Monotherapy In the U . S . , three randomized , double - blind , placebo - controlled trials with durations from 16 to 26 weeks were conducted to evaluate the use of ACTOS as monotherapy in patients with type 2 diabetes .
+These studies examined ACTOS at doses up to 45 mg or placebo once daily in 865 patients .
+In a 26 - week , dose - ranging study , 408 patients with type 2 diabetes were randomized to receive 7 . 5 mg , 15 mg , 30 mg , or 45 mg of ACTOS , or placebo once daily .
+Therapy with any previous antidiabetic agent was discontinued 8 weeks prior to the double - blind period .
+Treatment with 15 mg , 30 mg , and 45 mg of ACTOS produced statistically significant improvements in HbA1c and fasting plasma glucose ( FPG ) at endpoint compared to placebo ( Figure 1 , Table 2 ) .
+Figure 1 shows the time course for changes in FPG and HbA1c for the entire study population in this 26 - week study .
+Figure 1 Mean Change from Baseline for FPG and HbA1c in a 26 - Week Placebo - Controlled Dose - Ranging Study [ MULTIMEDIA ] Table 2 shows HbA1c and FPG values for the entire study population .
+Table 2 Glycemic Parameters in a 26 - Week Placebo - Controlled Dose - Ranging Study Placebo ACTOS 15 mg Once Daily ACTOS 30 mg Once Daily ACTOS 45 mg Once Daily TOTAL POPULATION HbA1c ( % ) N = 79 N = 79 N = 85 N = 76 Baseline ( mean ) 10 . 4 10 . 2 10 . 2 10 . 3 Change from baseline ( adjusted mean + ) 0 . 7 - 0 . 3 - 0 . 3 - 0 . 9 Difference from placebo ( adjusted mean + ) - 1 . 0 * - 1 . 0 * - 1 . 6 * FPG ( mg / dL ) N = 79 N = 79 N = 84 N = 77 Baseline ( mean ) 268 267 269 276 Change from baseline ( adjusted mean + ) 9 - 30 - 32 - 56 Difference from placebo ( adjusted mean + ) - 39 * - 41 * - 65 * + Adjusted for baseline , pooled center , and pooled center by treatment interaction * p ≤ 0 . 050 vs . placebo The study population included patients not previously treated with antidiabetic medication ( naïve ; 31 % ) and patients who were receiving antidiabetic medication at the time of study enrollment ( previously treated ; 69 % ) .
+The data for the naïve and previously - treated patient subsets are shown in Table 3 .
+All patients entered an 8 week washout / run - in period prior to double - blind treatment .
+This run - in period was associated with little change in HbA1c and FPG values from screening to baseline for the naïve patients ; however , for the previously - treated group , washout from previous antidiabetic medication resulted in deterioration of glycemic control and increases in HbA1c and FPG .
+Although most patients in the previously - treated group had a decrease from baseline in HbA1c and FPG with ACTOS , in many cases the values did not return to screening levels by the end of the study .
+The study design did not permit the evaluation of patients who switched directly to ACTOS from another antidiabetic agent .
+Table 3 Glycemic Parameters in a 26 - Week Placebo - Controlled Dose - Ranging Study Placebo ACTOS 15 mg Once Daily ACTOS 30 mg Once Daily ACTOS 45 mg Once Daily Naïve to Therapy HbA1c ( % ) N = 25 N = 26 N = 26 N = 21 Screening ( mean ) 9 . 3 10 . 0 9 . 5 9 . 8 Baseline ( mean ) 9 . 0 9 . 9 9 . 3 10 . 0 Change from baseline ( adjusted mean * ) 0 . 6 - 0 . 8 - 0 . 6 - 1 . 9 Difference from placebo ( adjusted mean * ) - 1 . 4 - 1 . 3 - 2 . 6 FPG ( mg / dL ) N = 25 N = 26 N = 26 N = 21 Screening ( mean ) 223 245 239 239 Baseline ( mean ) 229 251 225 235 Change from baseline ( adjusted mean * ) 16 - 37 - 41 - 64 Difference from placebo ( adjusted mean * ) - 52 - 56 - 80 Previously Treated HbA1c ( % ) N = 54 N = 53 N = 59 N = 55 Screening ( mean ) 9 . 3 9 . 0 9 . 1 9 . 0 Baseline ( mean ) 10 . 9 10 . 4 10 . 4 10 . 6 Change from baseline ( adjusted mean * ) 0 . 8 - 0 . 1 - 0 . 0 - 0 . 6 Difference from placebo ( adjusted mean * ) - 1 . 0 - 0 . 9 - 1 . 4 FPG ( mg / dL ) N = 54 N = 53 N = 58 N = 56 Screening ( mean ) 222 209 230 215 Baseline ( mean ) 285 275 286 292 Change from baseline ( adjusted mean * ) 4 - 32 - 27 - 55 Difference from placebo ( adjusted mean * ) - 36 - 31 - 59 * Adjusted for baseline and pooled center In a 24 - week , placebo - controlled study , 260 patients with type 2 diabetes were randomized to one of two forced - titration ACTOS treatment groups or a mock titration placebo group .
+Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double - blind period .
+In one ACTOS treatment group , patients received an initial dose of 7 . 5 mg once daily .
+After four weeks , the dose was increased to 15 mg once daily and after another four weeks , the dose was increased to 30 mg once daily for the remainder of the study ( 16 weeks ) .
+In the second ACTOS treatment group , patients received an initial dose of 15 mg once daily and were titrated to 30 mg once daily and 45 mg once daily in a similar manner .
+Treatment with ACTOS , as described , produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo ( Table 4 ) .
+Table 4 Glycemic Parameters in a 24 - Week Placebo - Controlled Forced - Titration Study Placebo ACTOS 30 mg + Once Daily ACTOS 45 mg + Once Daily Total Population HbA1c ( % ) N = 83 N = 85 N = 85 Baseline ( mean ) 10 . 8 10 . 3 10 . 8 Change from baseline ( adjusted mean + + ) 0 . 9 - 0 . 6 - 0 . 6 Difference from placebo ( adjusted mean + + ) - 1 . 5 * - 1 . 5 * FPG ( mg / dL ) N = 78 N = 82 N = 85 Baseline ( mean ) 279 268 281 Change from baseline ( adjusted mean + + ) 18 - 44 - 50 Difference from placebo ( adjusted mean + + ) - 62 * - 68 * + Final dose in forced titration + + Adjusted for baseline , pooled center , and pooled center by treatment interaction * p ≤ 0 . 050 vs . placebo For patients who had not been previously treated with antidiabetic medication ( 24 % ) , mean values at screening were 10 . 1 % for HbA1c and 238 mg / dL for FPG .
+At baseline , mean HbA1c was 10 . 2 % and mean FPG was 243 mg / dL .
+Compared with placebo , treatment with ACTOS titrated to a final dose of 30 mg and 45 mg resulted in reductions from baseline in mean HbA1c of 2 . 3 % and 2 . 6 % and mean FPG of 63 mg / dL and 95 mg / dL , respectively .
+For patients who had been previously treated with antidiabetic medication ( 76 % ) , this medication was discontinued at screening .
+Mean values at screening were 9 . 4 % for HbA1c and 216 mg / dL for FPG .
+At baseline , mean HbA1c was 10 . 7 % and mean FPG was 290 mg / dL .
+Compared with placebo , treatment with ACTOS titrated to a final dose of 30 mg and 45 mg resulted in reductions from baseline in mean HbA1c of 1 . 3 % and 1 . 4 % and mean FPG of 55 mg / dL and 60 mg / dL , respectively .
+For many previously - treated patients , HbA1c and FPG had not returned to screening levels by the end of the study .
+In a 16 - week study , 197 patients with type 2 diabetes were randomized to treatment with 30 mg of ACTOS or placebo once daily .
+Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double - blind period .
+Treatment with 30 mg of ACTOS produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo ( Table 5 ) .
+Table 5 Glycemic Parameters in a 16 - Week Placebo - Controlled Study Placebo ACTOS 30 mg Once Daily Total Population HbA1c ( % ) N = 93 N = 100 Baseline ( mean ) 10 . 3 10 . 5 Change from baseline ( adjusted mean + ) 0 . 8 - 0 . 6 Difference from placebo ( adjusted mean + ) - 1 . 4 * FPG ( mg / dL ) N = 91 N = 99 Baseline ( mean ) 270 273 Change from baseline ( adjusted mean + ) 8 - 50 Difference from placebo ( adjusted mean + ) - 58 * + Adjusted for baseline , pooled center , and pooled center by treatment interaction * p ≤ 0 . 050 vs . placebo For patients who had not been previously treated with antidiabetic medication ( 40 % ) , mean values at screening were 10 . 3 % for HbA1c and 240 mg / dL for FPG .
+At baseline , mean HbA1c was 10 . 4 % and mean FPG was 254 mg / dL .
+Compared with placebo , treatment with ACTOS 30 mg resulted in reductions from baseline in mean HbA1c of 1 . 0 % and mean FPG of 62 mg / dL .
+For patients who had been previously treated with antidiabetic medication ( 60 % ) , this medication was discontinued at screening .
+Mean values at screening were 9 . 4 % for HbA1c and 216 mg / dL for FPG .
+At baseline , mean HbA1c was 10 . 6 % and mean FPG was 287 mg / dL .
+Compared with placebo , treatment with ACTOS 30 mg resulted in reductions from baseline in mean HbA1c of 1 . 3 % and mean FPG of 46 mg / dL .
+For many previously - treated patients , HbA1c and FPG had not returned to screening levels by the end of the study .
+Combination Therapy Three 16 - week , randomized , double - blind , placebo - controlled clinical studies and three 24 - week , randomized , double - blind , dose - controlled clinical studies were conducted to evaluate the effects of ACTOS on glycemic control in patients with type 2 diabetes who were inadequately controlled ( HbA1c ≥ 8 % ) despite current therapy with a sulfonylurea , metformin , or insulin .
+Previous diabetes treatment may have been monotherapy or combination therapy .
+ACTOS Plus Sulfonylurea Studies Two clinical studies were conducted with ACTOS in combination with a sulfonylurea .
+Both studies included patients with type 2 diabetes on a sulfonylurea , either alone or in combination with another antidiabetic agent .
+All other antidiabetic agents were withdrawn prior to starting study treatment .
+In the first study , 560 patients were randomized to receive 15 mg or 30 mg of ACTOS or placebo once daily for 16 weeks in addition to their current sulfonylurea regimen .
+When compared to placebo at Week 16 , the addition of ACTOS to the sulfonylurea significantly reduced the mean HbA1c by 0 . 9 % and 1 . 3 % and mean FPG by 39 mg / dL and 58 mg / dL for the 15 mg and 30 mg doses , respectively .
+In the second study , 702 patients were randomized to receive 30 mg or 45 mg of ACTOS once daily for 24 weeks in addition to their current sulfonylurea regimen .
+The mean reductions from baseline at Week 24 in HbA1c were 1 . 55 % and 1 . 67 % for the 30 mg and 45 mg doses , respectively .
+Mean reductions from baseline in FPG were 51 . 5 mg / dL and 56 . 1 mg / dL .
+The therapeutic effect of ACTOS in combination with sulfonylurea was observed in patients regardless of whether the patients were receiving low , medium , or high doses of sulfonylurea .
+ACTOS Plus Metformin Studies Two clinical studies were conducted with ACTOS in combination with metformin .
+Both studies included patients with type 2 diabetes on metformin , either alone or in combination with another antidiabetic agent .
+All other antidiabetic agents were withdrawn prior to starting study treatment .
+In the first study , 328 patients were randomized to receive either 30 mg of ACTOS or placebo once daily for 16 weeks in addition to their current metformin regimen .
+When compared to placebo at Week 16 , the addition of ACTOS to metformin significantly reduced the mean HbA1c by 0 . 8 % and decreased the mean FPG by 38 mg / dL .
+In the second study , 827 patients were randomized to receive either 30 mg or 45 mg of ACTOS once daily for 24 weeks in addition to their current metformin regimen .
+The mean reductions from baseline at Week 24 in HbA1c were 0 . 80 % and 1 . 01 % for the 30 mg and 45 mg doses , respectively .
+Mean reductions from baseline in FPG were 38 . 2 mg / dL and 50 . 7 mg / dL .
+The therapeutic effect of ACTOS in combination with metformin was observed in patients regardless of whether the patients were receiving lower or higher doses of metformin .
+ACTOS Plus Insulin Studies Two clinical studies were conducted with ACTOS in combination with insulin .
+Both studies included patients with type 2 diabetes on insulin , either alone or in combination with another antidiabetic agent .
+All other antidiabetic agents were withdrawn prior to starting study treatment .
+In the first study , 566 patients receiving a median of 60 . 5 units per day of insulin were randomized to receive either 15 mg or 30 mg of ACTOS or placebo once daily for 16 weeks in addition to their insulin regimen .
+When compared to placebo at Week 16 , the addition of ACTOS to insulin significantly reduced both HbA1c by 0 . 7 % and 1 . 0 % and FPG by 35 mg / dL and 49 mg / dL for the 15 mg and 30 mg dose , respectively .
+In the second study , 690 patients receiving a median of 60 . 0 units per day of insulin received either 30 mg or 45 mg of ACTOS once daily for 24 weeks in addition to their current insulin regimen .
+The mean reductions from baseline at Week 24 in HbA1c were 1 . 17 % and 1 . 46 % for the 30 mg and 45 mg doses , respectively .
+Mean reductions from baseline in FPG were 31 . 9 mg / dL and 45 . 8 mg / dL .
+Improved glycemic control was accompanied by mean decreases from baseline in insulin dose requirements of 6 . 0 % and 9 . 4 % per day for the 30 mg and 45 mg dose , respectively .
+The therapeutic effect of ACTOS in combination with insulin was observed in patients regardless of whether the patients were receiving lower or higher doses of insulin .
+[ MULTIMEDIA ] INDICATIONS AND USAGE ACTOS is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus .
+CONTRAINDICATIONS Initiation of ACTOS in patients with established New York Heart Association ( NYHA ) Class III or IV heart failure is contraindicated ( see BOXED WARNING ) .
+ACTOS is contraindicated in patients with known hypersensitivity to this product or any of its components .
+WARNINGS Cardiac Failure and Other Cardiac Effects ACTOS , like other thiazolidinediones , can cause fluid retention when used alone or in combination with other antidiabetic agents , including insulin .
+Fluid retention may lead to or exacerbate heart failure .
+Patients should be observed for signs and symptoms of heart failure .
+If these signs and symptoms develop , the heart failure should be managed according to current standards of care .
+Furthermore , discontinuation or dose reduction of ACTOS must be considered ( see BOXED WARNING ) .
+Patients with NYHA Class III and IV cardiac status were not studied during pre - approval clinical trials and ACTOS is not recommended in these patients ( see BOXED WARNINGand CONTRAINDICATIONS ) .
+In one 16 - week , U . S . double - blind , placebo - controlled clinical trial involving 566 patients with type 2 diabetes , ACTOS at doses of 15 mg and 30 mg in combination with insulin was compared to insulin therapy alone .
+This trial included patients with long - standing diabetes and a high prevalence of pre - existing medical conditions as follows : arterial hypertension ( 57 . 2 % ) , peripheral neuropathy ( 22 . 6 % ) , coronary heart disease ( 19 . 6 % ) , retinopathy ( 13 . 1 % ) , myocardial infarction ( 8 . 8 % ) , vascular disease ( 6 . 4 % ) , angina pectoris ( 4 . 4 % ) , stroke and / or transient ischemic attack ( 4 . 1 % ) , and congestive heart failure ( 2 . 3 % ) .
+In this study , two of the 191 patients receiving 15 mg ACTOS plus insulin ( 1 . 1 % ) and two of the 188 patients receiving 30 mg ACTOS plus insulin ( 1 . 1 % ) developed congestive heart failure compared with none of the 187 patients on insulin therapy alone .
+All four of these patients had previous histories of cardiovascular conditions including coronary artery disease , previous CABG procedures , and myocardial infarction .
+In a 24 - week , dose - controlled study in which ACTOS was coadministered with insulin , 0 . 3 % of patients ( 1 / 345 ) on 30 mg and 0 . 9 % ( 3 / 345 ) of patients on 45 mg reported CHF as a serious adverse event .
+Analysis of data from these studies did not identify specific factors that predict increased risk of congestive heart failure on combination therapy with insulin .
+In type 2 diabetes and congestive heart failure ( systolic dysfunction ) A 24 - week post - marketing safety study was performed to compare ACTOS ( n = 262 ) to glyburide ( n = 256 ) in uncontrolled diabetic patients ( mean HbA1c 8 . 8 % at baseline ) with NYHA Class II and III heart failure and ejection fraction less than 40 % ( mean EF 30 % at baseline ) .
+Over the course of the study , overnight hospitalization for congestive heart failure was reported in 9 . 9 % of patients on ACTOS compared to 4 . 7 % of patients on glyburide with a treatment difference observed from 6 weeks .
+This adverse event associated with ACTOS was more marked in patients using insulin at baseline and in patients over 64 years of age .
+No difference in cardiovascular mortality between the treatment groups was observed .
+ACTOS should be initiated at the lowest approved dose if it is prescribed for patients with type 2 diabetes and systolic heart failure ( NYHA Class II ) .
+If subsequent dose escalation is necessary , the dose should be increased gradually only after several months of treatment with careful monitoring for weight gain , edema , or signs and symptoms of CHF exacerbation .
+Prospective Pioglitazone Clinical Trial In Macrovascular Events ( PROactive ) In PROactive , 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS ( n = 2605 ) , force - titrated up to 45 mg once daily , or placebo ( n = 2633 ) ( see ADVERSE REACTIONS ) .
+The percentage of patients who had an event of serious heart failure was higher for patients treated with ACTOS ( 5 . 7 % , n = 149 ) than for patients treated with placebo ( 4 . 1 % , n = 108 ) .
+The incidence of death subsequent to a report of serious heart failure was 1 . 5 % ( n = 40 ) in patients treated with ACTOS and 1 . 4 % ( n = 37 ) in placebo - treated patients .
+In patients treated with an insulin - containing regimen at baseline , the incidence of serious heart failure was 6 . 3 % ( n = 54 / 864 ) with ACTOS and 5 . 2 % ( n = 47 / 896 ) with placebo .
+For those patients treated with a sulfonylurea - containing regimen at baseline , the incidence of serious heart failure was 5 . 8 % ( n = 94 / 1624 ) with ACTOS and 4 . 4 % ( n = 71 / 1626 ) with placebo .
+PRECAUTIONS General ACTOS exerts its antihyperglycemic effect only in the presence of insulin .
+Therefore , ACTOS should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis .
+Hypoglycemia : Patients receiving ACTOS in combination with insulin or oral hypoglycemic agents may be at risk for hypoglycemia , and a reduction in the dose of the concomitant agent may be necessary .
+Cardiovascular : In U . S . placebo - controlled clinical trials that excluded patients with New York Heart Association ( NYHA ) Class III and IV cardiac status , the incidence of serious cardiac adverse events related to volume expansion was not increased in patients treated with ACTOS as monotherapy or in combination with sulfonylureas or metformin vs . placebo - treated patients .
+In insulin combination studies , a small number of patients with a history of previously existing cardiac disease developed congestive heart failure when treated with ACTOS in combination with insulin ( see WARNINGS ) .
+Patients with NYHA Class III and IV cardiac status were not studied in these ACTOS clinical trials .
+ACTOS is not indicated in patients with NYHA Class III or IV cardiac status .
+In postmarketing experience with ACTOS , cases of congestive heart failure have been reported in patients both with and without previously known heart disease .
+Edema : ACTOS should be used with caution in patients with edema .
+In all U . S . clinical trials , edema was reported more frequently in patients treated with ACTOS than in placebo - treated patients and appears to be dose related ( see ADVERSE REACTIONS ) .
+In postmarketing experience , reports of initiation or worsening of edema have been received .
+Since thiazolidinediones , including ACTOS , can cause fluid retention , which can exacerbate or lead to congestive heart failure , ACTOS should be used with caution in patients at risk for heart failure .
+Patients should be monitored for signs and symptoms of heart failure ( see BOXED WARNING , WARNINGS , and PRECAUTIONS , Information for Patients ) .
+Weight Gain : Dose related weight gain was seen with ACTOS alone and in combination with other hypoglycemic agents ( Table 6 ) .
+The mechanism of weight gain is unclear but probably involves a combination of fluid retention and fat accumulation .
+Table 6 Weight Changes ( kg ) from Baseline during Double - Blind Clinical Trials with ACTOS Control Group ( Placebo ) ACTOS 15 mg ACTOS 30 mg ACTOS 45 mg Median ( 25 th / 75 th percentile ) Median ( 25 th / 75 th percentile ) Median ( 25 th / 75 th percentile ) Median ( 25 th / 75 th percentile ) Monotherapy - 1 . 4 ( - 2 . 7 / 0 . 0 ) n = 256 0 . 9 ( - 0 . 5 / 3 . 4 ) n = 79 1 . 0 ( - 0 . 9 / 3 . 4 ) n = 188 2 . 6 ( 0 . 2 / 5 . 4 ) n = 79 Combination Therapy Sulfonylurea - 0 . 5 ( - 1 . 8 / 0 . 7 ) n = 187 2 . 0 ( 0 . 2 / 3 . 2 ) n = 183 3 . 1 ( 1 . 1 / 5 . 4 ) n = 528 4 . 1 ( 1 . 8 / 7 . 3 ) n = 333 Metformin - 1 . 4 ( - 3 . 2 / 0 . 3 ) n = 160 N / A 0 . 9 ( - 0 . 3 / 3 . 2 ) n = 567 1 . 8 ( - 0 . 9 / 5 . 0 ) n = 407 Insulin 0 . 2 ( - 1 . 4 / 1 . 4 ) n = 182 2 . 3 ( 0 . 5 / 4 . 3 ) n = 190 3 . 3 ( 0 . 9 / 6 . 3 ) n = 522 4 . 1 ( 1 . 4 / 6 . 8 ) n = 338 Note : Trial durations of 16 to 26 weeks Ovulation : Therapy with ACTOS , like other thiazolidinediones , may result in ovulation in some premenopausal anovulatory women .
+As a result , these patients may be at an increased risk for pregnancy while taking ACTOS .
+Thus , adequate contraception in premenopausal women should be recommended .
+This possible effect has not been investigated in clinical studies so the frequency of this occurrence is not known .
+Hematologic : ACTOS may cause decreases in hemoglobin and hematocrit .
+Across all clinical studies , mean hemoglobin values declined by 2 % to 4 % in patients treated with ACTOS .
+These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter .
+These changes may be related to increased plasma volume and have rarely been associated with any significant hematologic clinical effects ( see ADVERSE REACTIONS , Laboratory Abnormalities ) .
+Hepatic Effects : In pre - approval clinical studies worldwide , over 4500 subjects were treated with ACTOS .
+In U . S . clinical studies , over 4700 patients with type 2 diabetes received ACTOS .
+There was no evidence of drug - induced hepatotoxicity or elevation of ALT levels in the clinical studies .
+During pre - approval placebo - controlled clinical trials in the U . S . , a total of 4 of 1526 ( 0 . 26 % ) patients treated with ACTOS and 2 of 793 ( 0 . 25 % ) placebo - treated patients had ALT values ≥ 3 times the upper limit of normal .
+The ALT elevations in patients treated with ACTOS were reversible and were not clearly related to therapy with ACTOS .
+In postmarketing experience with ACTOS , reports of hepatitis and of hepatic enzyme elevations to 3 or more times the upper limit of normal have been received .
+Very rarely , these reports have involved hepatic failure with and without fatal outcome , although causality has not been established .
+Pending the availability of the results of additional large , long - term controlled clinical trials and additional postmarketing safety data , it is recommended that patients treated with ACTOS undergo periodic monitoring of liver enzymes .
+Serum ALT ( alanine aminotransferase ) levels should be evaluated prior to the initiation of therapy with ACTOS in all patients and periodically thereafter per the clinical judgment of the health care professional .
+Liver function tests should also be obtained for patients if symptoms suggestive of hepatic dysfunction occur , e . g . , nausea , vomiting , abdominal pain , fatigue , anorexia , or dark urine .
+The decision whether to continue the patient on therapy with ACTOS should be guided by clinical judgment pending laboratory evaluations .
+If jaundice is observed , drug therapy should be discontinued .
+Therapy with ACTOS should not be initiated if the patient exhibits clinical evidence of active liver disease or the ALT levels exceed 2 . 5 times the upper limit of normal .
+Patients with mildly elevated liver enzymes ( ALT levels at 1 to 2 . 5 times the upper limit of normal ) at baseline or any time during therapy with ACTOS should be evaluated to determine the cause of the liver enzyme elevation .
+Initiation or continuation of therapy with ACTOS in patients with mildly elevated liver enzymes should proceed with caution and include appropriate clinical follow - up which may include more frequent liver enzyme monitoring .
+If serum transaminase levels are increased ( ALT > 2 . 5 times the upper limit of normal ) , liver function tests should be evaluated more frequently until the levels return to normal or pretreatment values .
+If ALT levels exceed 3 times the upper limit of normal , the test should be repeated as soon as possible .
+If ALT levels remain > 3 times the upper limit of normal or if the patient is jaundiced , ACTOS therapy should be discontinued .
+Macular Edema : Macular edema has been reported in post - marketing experience in diabetic patients who were taking pioglitazone or another thiazolidinedione .
+Some patients presented with blurred vision or decreased visual acuity , but some patients appear to have been diagnosed on routine ophthalmologic examination .
+Some patients had peripheral edema at the time macular edema was diagnosed .
+Some patients had improvement in their macular edema after discontinuation of their thiazolidinedione .
+It is unknown whether or not there is a causal relationship between pioglitazone and macular edema .
+Patients with diabetes should have regular eye exams by an ophthalmologist , per the Standards of Care of the American Diabetes Association .
+Additionally , any diabetic who reports any kind of visual symptom should be promptly referred to an ophthalmologist , regardless of the patient ' s underlying medications or other physical findings ( see ADVERSE REACTIONS ) .
+Fractures : In a randomized trial ( PROactive ) in patients with type 2 diabetes ( mean duration of diabetes 9 . 5 years ) , an increased incidence of bone fracture was noted in female patients taking pioglitazone .
+During a mean follow - up of 34 . 5 months , the incidence of bone fracture in females was 5 . 1 % ( 44 / 870 ) for pioglitazone versus 2 . 5 % ( 23 / 905 ) for placebo .
+This difference was noted after the first year of treatment and remained during the course of the study .
+The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb .
+No increase in fracture rates was observed in men treated with pioglitazone 1 . 7 % ( 30 / 1735 ) versus placebo 2 . 1 % ( 37 / 1728 ) .
+The risk of fracture should be considered in the care of patients , especially female patients , treated with pioglitazone and attention should be given to assessing and maintaining bone health according to current standards of care .
+Macrovascular Outcomes : There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other anti - diabetic drug .
+Laboratory Tests FPG and HbA1c measurements should be performed periodically to monitor glycemic control and the therapeutic response to ACTOS .
+Liver enzyme monitoring is recommended prior to initiation of therapy with ACTOS in all patients and periodically thereafter per the clinical judgment of the health care professional ( see PRECAUTIONS , General , Hepatic Effects and ADVERSE REACTIONS , Serum Transaminase Levels ) .
+Information for Patients It is important to instruct patients to adhere to dietary instructions and to have blood glucose and glycosylated hemoglobin tested regularly .
+During periods of stress such as fever , trauma , infection , or surgery , medication requirements may change and patients should be reminded to seek medical advice promptly .
+Patients who experience an unusually rapid increase in weight or edema or who develop shortness of breath or other symptoms of heart failure while on ACTOS should immediately report these symptoms to their physician .
+Patients should be told that blood tests for liver function will be performed prior to the start of therapy and periodically thereafter per the clinical judgment of the health care professional .
+Patients should be told to seek immediate medical advice for unexplained nausea , vomiting , abdominal pain , fatigue , anorexia , or dark urine .
+Patients should be told to take ACTOS once daily .
+ACTOS can be taken with or without meals .
+If a dose is missed on one day , the dose should not be doubled the following day .
+When using combination therapy with insulin or oral hypoglycemic agents , the risks of hypoglycemia , its symptoms and treatment , and conditions that predispose to its development should be explained to patients and their family members .
+Therapy with ACTOS , like other thiazolidinediones , may result in ovulation in some premenopausal anovulatory women .
+As a result , these patients may be at an increased risk for pregnancy while taking ACTOS .
+Thus , adequate contraception in premenopausal women should be recommended .
+This possible effect has not been investigated in clinical studies so the frequency of this occurrence is not known .
+Drug Interactions In vivo drug - drug interaction studies have suggested that pioglitazone may be a weak inducer of CYP 450 isoform 3A4 substrate ( see CLINICAL PHARMACOLOGY , Metabolism and Drug - Drug Interactions ) .
+An enzyme inhibitor of CYP2C8 ( such as gemfibrozil ) may significantly increase the AUC of pioglitazone and an enzyme inducer of CYP2C8 ( such as rifampin ) may significantly decrease the AUC of pioglitazone .
+Therefore , if an inhibitor or inducer of CYP2C8 is started or stopped during treatment with pioglitazone , changes in diabetes treatment may be needed based on clinical response ( see CLINICAL PHARMACOLOGY , Drug - Drug Interactions ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility A two - year carcinogenicity study was conducted in male and female rats at oral doses up to 63 mg / kg ( approximately 14 times the maximum recommended human oral dose of 45 mg based on mg / m2 ) .
+Drug - induced tumors were not observed in any organ except for the urinary bladder .
+Benign and / or malignant transitional cell neoplasms were observed in male rats at 4 mg / kg / day and above ( approximately equal to the maximum recommended human oral dose based on mg / m2 ) .
+A two - year carcinogenicity study was conducted in male and female mice at oral doses up to 100 mg / kg / day ( approximately 11 times the maximum recommended human oral dose based on mg / m2 ) .
+No drug - induced tumors were observed in any organ .
+During prospective evaluation of urinary cytology involving more than 1800 patients receiving ACTOS in clinical trials up to one year in duration , no new cases of bladder tumors were identified .
+In two 3 - year studies in which pioglitazone was compared to placebo or glyburide , there were 16 / 3656 ( 0 . 44 % ) reports of bladder cancer in patients taking pioglitazone compared to 5 / 3679 ( 0 . 14 % ) in patients not taking pioglitazone .
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer , there were six ( 0 . 16 % ) cases on pioglitazone and two ( 0 . 05 % ) on placebo .
+Pioglitazone HCl was not mutagenic in a battery of genetic toxicology studies , including the Ames bacterial assay , a mammalian cell forward gene mutation assay ( CHO / HPRT and AS52 / XPRT ) , an in vitro cytogenetics assay using CHL cells , an unscheduled DNA synthesis assay , and an in vivo micronucleus assay .
+No adverse effects upon fertility were observed in male and female rats at oral doses up to 40 mg / kg pioglitazone HCl daily prior to and throughout mating and gestation ( approximately 9 times the maximum recommended human oral dose based on mg / m2 ) .
+Animal Toxicology Heart enlargement has been observed in mice ( 100 mg / kg ) , rats ( 4 mg / kg and above ) and dogs ( 3 mg / kg ) treated orally with pioglitazone HCl ( approximately 11 , 1 , and 2 times the maximum recommended human oral dose for mice , rats , and dogs , respectively , based on mg / m2 ) .
+In a one - year rat study , drug - related early death due to apparent heart dysfunction occurred at an oral dose of 160 mg / kg / day ( approximately 35 times the maximum recommended human oral dose based on mg / m2 ) .
+Heart enlargement was seen in a 13 - week study in monkeys at oral doses of 8 . 9 mg / kg and above ( approximately 4 times the maximum recommended human oral dose based on mg / m2 ) , but not in a 52 - week study at oral doses up to 32 mg / kg ( approximately 13 times the maximum recommended human oral dose based on mg / m2 ) .
+Pregnancy Pregnancy Category C . Pioglitazone was not teratogenic in rats at oral doses up to 80 mg / kg or in rabbits given up to 160 mg / kg during organogenesis ( approximately 17 and 40 times the maximum recommended human oral dose based on mg / m2 , respectively ) .
+Delayed parturition and embryotoxicity ( as evidenced by increased postimplantation losses , delayed development and reduced fetal weights ) were observed in rats at oral doses of 40 mg / kg / day and above ( approximately 10 times the maximum recommended human oral dose based on mg / m2 ) .
+No functional or behavioral toxicity was observed in offspring of rats .
+In rabbits , embryotoxicity was observed at an oral dose of 160 mg / kg ( approximately 40 times the maximum recommended human oral dose based on mg / m2 ) .
+Delayed postnatal development , attributed to decreased body weight , was observed in offspring of rats at oral doses of 10 mg / kg and above during late gestation and lactation periods ( approximately 2 times the maximum recommended human oral dose based on mg / m2 ) .
+There are no adequate and well - controlled studies in pregnant women .
+ACTOS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Because current information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital anomalies , as well as increased neonatal morbidity and mortality , most experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible .
+Nursing Mothers Pioglitazone is secreted in the milk of lactating rats .
+It is not known whether ACTOS is secreted in human milk .
+Because many drugs are excreted in human milk , ACTOS should not be administered to a breastfeeding woman .
+Pediatric Use Safety and effectiveness of ACTOS in pediatric patients have not been established .
+Elderly Use Approximately 500 patients in placebo - controlled clinical trials of ACTOS were 65 and over .
+No significant differences in effectiveness and safety were observed between these patients and younger patients .
+ADVERSE REACTIONS Over 8500 patients with type 2 diabetes have been treated with ACTOS in randomized , double - blind , controlled clinical trials .
+This includes 2605 high - risk patients with type 2 diabetes treated with ACTOS from the PROactive clinical trial .
+Over 6000 patients have been treated for 6 months or longer , and over 4500 patients for one year or longer .
+Over 3000 patients have received ACTOS for at least 2 years .
+The overall incidence and types of adverse events reported in placebo - controlled clinical trials of ACTOS monotherapy at doses of 7 . 5 mg , 15 mg , 30 mg , or 45 mg once daily are shown in Table 7 .
+Table 7 Placebo - Controlled Clinical Studies of ACTOS Monotherapy : Adverse Events Reported at a Frequency ≥ 5 % of Patients Treated with ACTOS ( % of Patients ) Placebo N = 259 ACTOS N = 606 Upper Respiratory Tract Infection 8 . 5 13 . 2 Headache 6 . 9 9 . 1 Sinusitis 4 . 6 6 . 3 Myalgia 2 . 7 5 . 4 Tooth Disorder 2 . 3 5 . 3 Diabetes Mellitus Aggravated 8 . 1 5 . 1 Pharyngitis 0 . 8 5 . 1 For most clinical adverse events the incidence was similar for groups treated with ACTOS monotherapy and those treated in combination with sulfonylureas , metformin , and insulin .
+There was an increase in the occurrence of edema in the patients treated with ACTOS and insulin compared to insulin alone .
+In a 16 - week , placebo - controlled ACTOS plus insulin trial ( n = 379 ) , 10 patients treated with ACTOS plus insulin developed dyspnea and also , at some point during their therapy , developed either weight change or edema .
+Seven of these 10 patients received diuretics to treat these symptoms .
+This was not reported in the insulin plus placebo group .
+The incidence of withdrawals from placebo - controlled clinical trials due to an adverse event other than hyperglycemia was similar for patients treated with placebo ( 2 . 8 % ) or ACTOS ( 3 . 3 % ) .
+In controlled combination therapy studies with either a sulfonylurea or insulin , mild to moderate hypoglycemia , which appears to be dose related , was reported ( see PRECAUTIONS , General , Hypoglycemia and DOSAGE and ADMINISTRATION , Combination Therapy ) .
+In U . S . double - blind studies , anemia was reported in ≤ 2 % of patients treated with ACTOS plus sulfonylurea , metformin or insulin ( see PRECAUTIONS , General , Hematologic ) .
+In monotherapy studies , edema was reported for 4 . 8 % ( with doses from 7 . 5 mg to 45 mg ) of patients treated with ACTOS versus 1 . 2 % of placebo - treated patients .
+In combination therapy studies , edema was reported for 7 . 2 % of patients treated with ACTOS and sulfonylureas compared to 2 . 1 % of patients on sulfonylureas alone .
+In combination therapy studies with metformin , edema was reported in 6 . 0 % of patients on combination therapy compared to 2 . 5 % of patients on metformin alone .
+In combination therapy studies with insulin , edema was reported in 15 . 3 % of patients on combination therapy compared to 7 . 0 % of patients on insulin alone .
+Most of these events were considered mild or moderate in intensity ( see PRECAUTIONS , General , Edema ) .
+In one 16 - week clinical trial of insulin plus ACTOS combination therapy , more patients developed congestive heart failure on combination therapy ( 1 . 1 % ) compared to none on insulin alone ( see WARNINGS , Cardiac Failure and Other Cardiac Effects ) .
+Prospective Pioglitazone Clinical Trial In Macrovascular Events ( PROactive ) In PROactive , 5238 patients with type 2 diabetes and a prior history of macrovascular disease were treated with ACTOS ( n = 2605 ) , force - titrated up to 45 mg daily or placebo ( n = 2633 ) in addition to standard of care .
+Almost all subjects ( 95 % ) were receiving cardiovascular medications ( beta blockers , ACE inhibitors , ARBs , calcium channel blockers , nitrates , diuretics , aspirin , statins , fibrates ) .
+Patients had a mean age of 61 . 8 years , mean duration of diabetes 9 . 5 years , and mean HbA1c 8 . 1 % .
+Average duration of follow - up was 34 . 5 months .
+The primary objective of this trial was to examine the effect of ACTOS on mortality and macrovascular morbidity in patients with type 2 diabetes mellitus who were at high risk for macrovascular events .
+The primary efficacy variable was the time to the first occurrence of any event in the cardiovascular composite endpoint ( see table 8 below ) .
+Although there was no statistically significant difference between ACTOS and placebo for the 3 - year incidence of a first event within this composite , there was no increase in mortality or in total macrovascular events with ACTOS .
+Table 8 Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint Placebo N = 2633 ACTOS N = 2605 Cardiovascular Events First Events ( N ) Total events ( N ) First Events ( N ) Total events ( N ) Any event 572 900 514 803 All - cause mortality 122 186 110 177 Non - fatal MI 118 157 105 131 Stroke 96 119 76 92 ACS 63 78 42 65 Cardiac intervention 101 240 101 195 Major leg amputation 15 28 9 28 Leg revascularization 57 92 71 115 Postmarketing reports of new onset or worsening diabetic macular edema with decreased visual acuity have also been received ( see PRECAUTIONS , General , Macular Edema ) .
+Laboratory Abnormalities Hematologic : ACTOS may cause decreases in hemoglobin and hematocrit .
+The fall in hemoglobin and hematocrit with ACTOS appears to be dose related .
+Across all clinical studies , mean hemoglobin values declined by 2 % to 4 % in patients treated with ACTOS .
+These changes generally occurred within the first 4 to 12 weeks of therapy and remained relatively stable thereafter .
+These changes may be related to increased plasma volume associated with ACTOS therapy and have rarely been associated with any significant hematologic clinical effects .
+Serum Transaminase Levels : During all clinical studies in the U . S . , 14 of 4780 ( 0 . 30 % ) patients treated with ACTOS had ALT values ≥ 3 times the upper limit of normal during treatment .
+All patients with follow - up values had reversible elevations in ALT .
+In the population of patients treated with ACTOS , mean values for bilirubin , AST , ALT , alkaline phosphatase , and GGT were decreased at the final visit compared with baseline .
+Fewer than 0 . 9 % of patients treated with ACTOS were withdrawn from clinical trials in the U . S . due to abnormal liver function tests .
+In pre - approval clinical trials , there were no cases of idiosyncratic drug reactions leading to hepatic failure ( see PRECAUTIONS , General , Hepatic Effects ) .
+CPKLevels : During required laboratory testing in clinical trials , sporadic , transient elevations in creatine phosphokinase levels ( CPK ) were observed .
+An isolated elevation to greater than 10 times the upper limit of normal was noted in 9 patients ( values of 2150 to 11400 IU / L ) .
+Six of these patients continued to receive ACTOS , two patients had completed receiving study medication at the time of the elevated value and one patient discontinued study medication due to the elevation .
+These elevations resolved without any apparent clinical sequelae .
+The relationship of these events to ACTOS therapy is unknown .
+OVERDOSAGE During controlled clinical trials , one case of overdose with ACTOS was reported .
+A male patient took 120 mg per day for four days , then 180 mg per day for seven days .
+The patient denied any clinical symptoms during this period .
+In the event of overdosage , appropriate supportive treatment should be initiated according to patient ’ s clinical signs and symptoms .
+DOSAGE AND ADMINISTRATION ACTOS should be taken once daily without regard to meals .
+The management of antidiabetic therapy should be individualized .
+Ideally , the response to therapy should be evaluated using HbA1c which is a better indicator of long - term glycemic control than FPG alone .
+HbA1c reflects glycemia over the past two to three months .
+In clinical use , it is recommended that patients be treated with ACTOS for a period of time adequate to evaluate change in HbA1c ( three months ) unless glycemic control deteriorates .
+After initiation of ACTOS or with dose increase , patients should be carefully monitored for adverse events related to fluid retention ( see BOXED WARNINGand WARNINGS ) .
+Monotherapy ACTOS monotherapy in patients not adequately controlled with diet and exercise may be initiated at 15 mg or 30 mg once daily .
+For patients who respond inadequately to the initial dose of ACTOS , the dose can be increased in increments up to 45 mg once daily .
+For patients not responding adequately to monotherapy , combination therapy should be considered .
+Combination Therapy Sulfonylureas : ACTOS in combination with a sulfonylurea may be initiated at 15 mg or 30 mg once daily .
+The current sulfonylurea dose can be continued upon initiation of ACTOS therapy .
+If patients report hypoglycemia , the dose of the sulfonylurea should be decreased .
+Metformin : ACTOS in combination with metformin may be initiated at 15 mg or 30 mg once daily .
+The current metformin dose can be continued upon initiation of ACTOS therapy .
+It is unlikely that the dose of metformin will require adjustment due to hypoglycemia during combination therapy with ACTOS .
+Insulin : ACTOS in combination with insulin may be initiated at 15 mg or 30 mg once daily .
+The current insulin dose can be continued upon initiation of ACTOS therapy .
+In patients receiving ACTOS and insulin , the insulin dose can be decreased by 10 % to 25 % if the patient reports hypoglycemia or if plasma glucose concentrations decrease to less than 100 mg / dL .
+Further adjustments should be individualized based on glucose - lowering response .
+Maximum Recommended Dose The dose of ACTOS should not exceed 45 mg once daily in monotherapy or in combination with sulfonylurea , metformin , or insulin .
+Dose adjustment in patients with renal insufficiency is not recommended ( see CLINICAL PHARMACOLOGY , Pharmacokinetics and Drug Metabolism ) .
+Therapy with ACTOS should not be initiated if the patient exhibits clinical evidence of active liver disease or increased serum transaminase levels ( ALT greater than 2 . 5 times the upper limit of normal ) at start of therapy ( see PRECAUTIONS , General , Hepatic Effects and CLINICAL PHARMACOLOGY , Special Populations , Hepatic Insufficiency ) .
+Liver enzyme monitoring is recommended in all patients prior to initiation of therapy with ACTOS and periodically thereafter ( see PRECAUTIONS , General , Hepatic Effects ) .
+There are no data on the use of ACTOS in patients under 18 years of age ; therefore , use of ACTOS in pediatric patients is not recommended .
+No data are available on the use of ACTOS in combination with another thiazolidinedione .
+HOW SUPPLIED ACTOS is available in 15 mg , 30 mg , and 45 mg tablets as follows : 15 mg Tablet : white to off - white , round , convex , non - scored tablet with “ ACTOS ” on one side , and “ 15 ” on the other , available in : NDC 21695 - 147 - 15 Bottles of 15 30 mg Tablet : white to off - white , round , flat , non - scored tablet with “ ACTOS ” on one side , and “ 30 ” on the other , available in : NDC 21695 - 148 - 15 Bottles of 15 STORAGE Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] .
+Keep container tightly closed , and protect from moisture and humidity .
+REFERENCES • Deng , LJ , et al .
+Effect of gemfibrozil on the pharmacokinetics of pioglitazone .
+Eur J Clin Pharmacol 2005 ; 61 : 831 - 836 , Table 1 .
+• Jaakkola , T , et al .
+Effect of rifampicin on the pharmacokinetics of pioglitazone .
+Clin Pharmacol Brit Jour 2006 ; 61 : 1 70 - 78 .
+Rxonly Manufactured by : Takeda Pharmaceutical Company Limited Osaka , Japan Marketed by : Takeda Pharmaceuticals America , Inc .
+One Takeda Parkway Deerfield , IL 60015 Repackaged by : Rebel Distributors Corp .
+Thousand Oaks , CA 91320 ACTOS ® is a registered trademark of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America , Inc .
+All other trademark names are the property of their respective owners .
+August 2008 ACT0808 - R14 MEDICATION GUIDE ACTOS ® ( ak - TŌS ) ( pioglitazone hydrochloride ) tablets Read this Medication Guide carefully before you start taking ACTOS and each time you get a refill .
+There may be new information .
+This information does not take the place of talking with your doctor about your medical condition or your treatment .
+If you have any questions about ACTOS , ask your doctor or pharmacist .
+What is the most important information I should know about ACTOS ?
+ACTOS can cause serious side effects , including new or worse heart failure .
+• ACTOS can cause your body to keep extra fluid ( fluid retention ) , which leads to swelling ( edema ) and weight gain .
+Extra body fluid can make some heart problems worse or lead to heart failure .
+Heart failure means your heart does not pump blood well enough .
+• If you have severe heart failure , you cannot start ACTOS .
+• If you have heart failure with symptoms ( such as shortness of breath or swelling ) , even if these symptoms are not severe , ACTOS may not be right for you .
+Call your doctor right away if you have any of the following : • swelling or fluid retention , especially in the ankles or legs .
+• shortness of breath or trouble breathing , especially when you lie down .
+• an unusually fast increase in weight .
+• unusual tiredness .
+ACTOS can have other serious side effects .
+See " What are the possible side effects of ACTOS ? "
+What is ACTOS ?
+ACTOS is a prescription medicine used with diet and exercise to improve blood sugar ( glucose ) control in adults with type 2 diabetes .
+ACTOS is a diabetes medicine called pioglitazone hydrochloride that may be taken alone or with other diabetes medicines .
+Your doctor will decide if you should take ACTOS .
+It is important to eat the right foods , lose weight if needed , and exercise regularly in order to manage your type 2 diabetes .
+Diet , weight loss , and exercise are the main treatments for type 2 diabetes and they also help your diabetes medicines work better for you .
+ACTOS has not been studied in children and is not recommended for children under the age of 18 .
+The risks of giving ACTOS to a child are not known .
+See " What are some other possible side effects of ACTOS ? "
+Who should not take ACTOS ?
+Do not take ACTOS if you : • are allergic to any of the ingredients in ACTOS .
+See the end of this Medication Guide for a complete list of ingredients in ACTOS .
+People with severe heart failure should not start taking ACTOS .
+See " What is the most important information I should know about ACTOS ? "
+What should I tell my doctor before taking ACTOS ?
+Before starting ACTOS , ask your doctor about what the choices are for diabetes medicines and what the expected benefits and possible risks are for you in particular .
+Tell your doctor about all of your medical conditions , especially if you : • have heart failure .
+• have type 1 ( " juvenile " ) diabetes or had diabetic ketoacidosis .
+These conditions should be treated with insulin .
+• have a type of diabetic eye disease called macular edema ( swelling of the back of the eye ) .
+• have liver problems .
+Your doctor should do blood tests to check your liver before you start taking ACTOS and during treatment as needed .
+• are pregnant or planning to become pregnant .
+Actos should not be used during pregnancy .
+It is not known if ACTOS can harm your unborn baby .
+Talk to your doctor about the best way to control your blood glucose levels while pregnant .
+• are a premenopausal woman ( before the " change of life " ) , who does not have periods regularly or at all .
+ACTOS may increase your chance of becoming pregnant .
+Talk to your doctor about birth control choices while taking ACTOS .
+Tell your doctor right away if you become pregnant while taking ACTOS .
+• are breastfeeding or plan to breastfeed .
+It is not known if ACTOS passes into your milk and if it can harm your baby .
+You should not take ACTOS if you breastfeed your baby .
+Talk to your doctor about the best way to control your blood glucose levels while breastfeeding .
+Tell your doctor about all the medicines you take including prescription and non - prescription medicines , vitamins , and herbal supplements .
+ACTOS and some of your other medicines can affect each other .
+You may need to have your dose of ACTOS or certain other medicines adjusted .
+Certain other medicines can affect your blood sugar ( glucose ) control .
+Know the medicines you take .
+Keep a list of your medicines and show it to your doctor and pharmacist before you start a new medicine .
+They will tell you if it is okay to take ACTOS with other medicines .
+How should I take ACTOS ?
+• Take ACTOS exactly as prescribed .
+• Your doctor may need to change your dose of ACTOS to control your blood glucose .
+Do not change your dose unless told to do so by your doctor .
+• ACTOS may be prescribed alone or with other diabetes medicines .
+This will depend on how well your blood sugar is controlled .
+• Take ACTOS one time each day , with or without food .
+• If you miss a dose of ACTOS , take your next dose as prescribed unless your doctor tells you differently .
+Do not take two doses at one time the next day .
+• If you take too much ACTOS , call your doctor or poison control center right away .
+• If your body is under stress , for example : due to fever , infection , trauma ( such as a car accident ) , or surgery , the dose of your diabetes medicines may need to be changed .
+Call your doctor right away .
+• Stay on your diet and exercise programs and test your blood sugar regularly while taking ACTOS .
+• Your doctor should do blood tests before starting ACTOS and from time to time to check your liver , kidneys , and blood cells .
+• Your doctor should also do regular blood tests ( for example , hemoglobin A1C ) to check how well your blood sugar is controlled with ACTOS .
+• Your doctor should check your eyes regularly .
+Some people have had vision changes due to swelling in the back of the eye , called macular edema , while taking ACTOS .
+• It may take 2 - 3 months to see the full effect on your blood sugar level .
+What are other possible side effects of ACTOS ?
+ACTOS can cause other serious side effects including : • Weight gain .
+Pioglitazone , the medicine in ACTOS can cause weight gain that may be due to fluid retention or extra body fat .
+Weight gain due to fluid retention can be a serious problem for people with certain conditions , including heart problems .
+See " What is the most important information I should know about ACTOS ? "
+.
+• Liver problems .
+It is important for your liver to be working normally when you take ACTOS .
+Your doctor should do blood tests to check your liver before you start taking ACTOS and during treatment as needed .
+Call your doctor right away if you have unexplained symptoms such as : • nausea or vomiting .
+• stomach pain .
+• unusual or unexplained tiredness .
+• loss of appetite .
+• dark urine .
+• yellowing of your skin or the whites of your eyes .
+• Macular edema ( diabetic eye disease with swelling in the back of the eye ) .
+Tell your doctor right away if you have any changes in your vision .
+Your doctor should check your eyes regularly .
+• Fractures ( broken bones ) , usually in the hand , upper arm , or foot in women .
+Talk to your doctor for advice on how to keep your bones healthy .
+It is not known if ACTOS can affect the bones of children .
+• Low red blood cell count ( anemia ) .
+• Low blood sugar ( hypoglycemia ) .
+Lightheadedness , dizziness , shakiness , or hunger may indicate that your blood sugar is too low .
+This can happen if you skip meals , if you use another medicine that lowers blood sugar , or if you have certain medical problems .
+Call your doctor if low blood sugar levels are a problem for you .
+• Ovulation ( release of an egg from an ovary in a woman ) leading to pregnancy .
+Ovulation may happen when premenopausal women who do not have regular monthly periods take ACTOS .
+This can increase the chance of pregnancy .
+See " What should I tell my doctor before taking ACTOS ? "
+.
+In studies of pioglitazone ( the medicine in ACTOS ) , bladder cancer occurred in a few more people who were taking pioglitazone than in people who were taking other diabetes medicines .
+There were too few cases to know if the bladder cancer was related to pioglitazone .
+Other common side effects of ACTOS are : • cold - like symptoms ( respiratory tract infection ) , • headache , • sinus infection , • muscle pain , • tooth disorder , • sore throat .
+Tell your doctor if you have any side effect that bothers you or that does not go away .
+These are not all the side effects of ACTOS .
+For more information , ask your doctor or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store ACTOS ?
+• Store ACTOS at 59 ° to 86 ° F ( 15 ° to 30 ° C ) .
+Keep ACTOS in the original container to protect from light .
+• Keep the ACTOS bottle tightly closed and protect from getting wet ( away from moisture and humidity ) .
+Keep ACTOS and all medicines out of the reach of children .
+General information about ACTOS Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use ACTOS for a condition for which it is not prescribed .
+Do not give ACTOS to other people , even if they have the same symptoms you have .
+It may harm them .
+This Medication Guide summarizes the most important information about ACTOS .
+If you would like more information , talk with your doctor .
+You can ask your doctor or pharmacist for information about ACTOS that is written for healthcare professionals .
+For more information , go to www . actos . com or call 1 - 877 - 825 - 3327 .
+What are the ingredients in ACTOS ?
+Active Ingredient : pioglitazone hydrochloride Inactive Ingredients : lactose monohydrate , hydroxypropylcellulose , carboxymethylcellulose calcium , and magnesium stearate .
+Always check to make sure that the medicine you are taking is the correct one .
+ACTOS tablets look like this : • 15 mg strength tablets – white to off - white , round , convex , non - scored with " ACTOS " on one side , and " 15 " on the other .
+• 30 mg strength tablets – white to off - white , round , flat , non - scored with " ACTOS " on one side , and " 30 " on the other .
+• 45 mg strength tablets – white to off - white , round , flat , non - scored with " ACTOS " on one side , and " 45 " on the other .
+ACTOS ® is a registered trademark of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America , Inc .
+All other trademarks are the property of their respective owners .
+This Medication Guide has been approved by the U . S . Food and Drug Administration .
+Distributed by : Takeda Pharmaceuticals America , Inc .
+Deerfield , IL 60015 © 2009 Takeda Pharmaceuticals America , Inc .
+September 2009 ACT0909 - R2 / MG PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label NDC 21695 - 147 - 15 15 Tablets actos ® ( pioglitazone HCl ) Tablets 15 mg Each tablet contains pioglitazone hydrochloride equivalent to 15 mg pioglitazone .
+Dispense with Medication Guide available in package insert or at www . actos . com Takeda Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label NDC 21695 - 148 - 15 15 Tablets actos ® ( pioglitazone HCl ) Tablets 30 mg Each tablet contains pioglitazone hydrochloride equivalent to 30 mg pioglitazone .
+Dispense with Medication Guide available in package insert or at www . actos . com Takeda Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ]

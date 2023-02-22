@@ -1,0 +1,175 @@
+1 INDICATIONS AND USAGE Technetium Tc 99 m Albumin Aggregated Injection is a radioactive diagnostic agent indicated for : • Lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in adults and pediatric patients .
+• Scintigraphy of peritoneovenous shunt as an aid in the evaluation of its patency in adults .
+Technetium Tc 99 m Albumin Aggregated Injection is a radioactive diagnostic agent indicated for : • Lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in adults and pediatric patients .
+( 1 ) • Scintigraphy of peritoneovenous shunt as an aid in the evaluation of its patency in adults .
+( 1 ) 2 DOSAGE AND ADMINISTRATION • For lung scintigraphy in adults , the recommended dose is 37 MBq to 148 MBq ( 1 mCi to 4 mCi ) and 200 , 000 particles to 700 , 000 particles administered intravenously .
+( 2 . 1 ) • For scintigraphy of peritoneovenous shunts in adults , the recommended dose is 37 MBq to 111 MBq ( 1 mCi to 3 mCi ) and 200 , 000 particles to 700 , 000 particles administered intraperitoneally .
+( 2 . 1 ) • For lung scintigraphy in pediatric patients , the recommended dose is 0 . 925 MBq / kg to 1 . 85 MBq / kg ( 0 . 025 mCi / kg to 0 . 05 mCi / kg ) of body weight and 50 , 000 particles to 700 , 000 particles administered intravenously .
+In newborns , the recommended dose is 7 . 4 MBq to 18 . 5 MBq ( 0 . 2 mCi to 0 . 5 mCi ) and 10 , 000 particles to 50 , 000 particles administered intravenously .
+( 2 . 1 ) See Full Prescribing Information for preparation , administration , imaging , and radiation dosimetry information .
+( 2 . 2 , 2 . 3 ) 2 . 1 Recommended Dosage and Administration Adult Patients The recommended intravenous dose range for adult patients for lung imaging is 37 MBq to 148 MBq ( 1 mCi to 4 mCi ) and 200 , 000 to 700 , 000 particles of Technetium Tc 99 m Albumin Aggregated Injection after preparation with oxidant - free Sodium Pertechnetate Tc 99 m Injection .
+The recommended intraperitoneal dosage range for adult patients for peritoneovenous shunt patency evaluation is 37 MBq to 111 MBq ( 1 mCi to 3 mCi ) and 200 , 000 to 700 , 000 particles .
+Adequate measures should be taken to assure uniform mixing with peritoneal fluid .
+Serial images of both the shunt and target organ should be obtained and correlated with other clinical findings .
+Alternatively , the drug may be administered by percutaneous transtubal injection .
+The recommended percutaneous transtubal dosage range for adult patients is 12 MBq to 37 MBq ( 0 . 3 mCi to 1 mCi ) in a volume not to exceed 0 . 5 mL .
+The recommended range of particle numbers per single injection is 200 , 000 to 700 , 000 with the recommended number of approximately 350 , 000 .
+Depending on the activity added and volume of the final reconstituted product , the volume of the dose may vary from 0 . 2 mL to 1 . 9 mL .
+The number of particles available per dose of Technetium Tc 99 m Albumin Aggregated Injection will vary depending on the physical decay of technetium Tc 99 m that has occurred .
+The number of particles in any dose and volume to be administrated may be calculated as follows : [ MULTIMEDIA ] Where : VTc = volume of solution added to reaction vial D = desired dose to be administered in MBq ( mCi ) C = concentration at calibration time of Sodium Pertechnetate solution to be added to the reaction vial in MBq / mL ( mCi / mL ) Va = volume to be administered in mL P = number of particles in dose to be administered Fr = fraction of Technetium Tc 99 m remaining after the time of calibration ( Table 7 ) N = number of particles per vial .
+The number of particles per vial for the lot is located on the vial label .
+Pediatric Patients In pediatric patients , the recommended intravenous dose for perfusion lung imaging is in the range of 0 . 925 MBq / kg to 1 . 85 MBq / kg ( 0 . 025 mCi / kg to 0 . 05 mCi / kg ) of body weight ; a usual dose is 1 . 11 MBq / kg ( 0 . 03 mCi / kg ) , except in newborns , in whom the administered dose should be 7 . 4 MBq to 18 . 5 MBq ( 0 . 2 mCi to 0 . 5 mCi ) .
+Not less than the minimum dose of 7 . 4 MBq ( 0 . 2 mCi ) should be employed for this procedure .
+The number of particles varies with age and weight as shown in Table 1 .
+Table 1 – Pediatric Patients : Particle Number and Dose for Lung ScintigraphyAge Newborn 1 year 5 years 10 years 15 years Weight ( kg ) 3 . 5 12 . 1 20 . 3 33 . 5 55 Maximal recommended dose MBq mCi MBq mCi MBq mCi MBq mCi MBq mCi 18 . 5 0 . 5 22 . 2 0 . 6 37 1 62 . 9 1 . 7 103 . 6 2 . 8 Range of particles 10 , 000 to 50 , 000 to 200 , 000 to 200 , 000 to 200 , 000 to administered 50 , 000 150 , 000 300 , 000 300 , 000 700 , 000 Adults and Pediatric Patients Visually inspect for particulate matter and discoloration prior to administration .
+Measure the patient dose by a suitable radioactivity calibration system immediately prior to administration .
+Mix the contents of the vial by gentle inversion just prior to withdrawing a patient dose .
+Mix the contents of the syringe just before injection .
+If blood is drawn into the syringe , any unnecessary delay prior to injection may lead to clot formation .
+For optimal results and because of rapid lung clearance of the radiopharmaceutical , position the patient under the imaging apparatus before administration .
+Slow injection is recommended .
+Lung imaging may begin immediately after intravenous injection of the radiopharmaceutical .
+Due to high kidney uptake , imaging later than one - half hour after administration will yield poor results .
+[ MULTIMEDIA ] 2 . 2 Radiation Dosimetry Adult Patients The estimated absorbed radiation doses3to an average adult patient ( 70 kg ) from an intravenous administration of 148 MBq ( 4 mCi ) of Technetium Tc 99 m Albumin Aggregated Injection are shown in Table 2 .
+Table 2 – Adults : Radiation Absorbed Doses for Lung ScintigraphyOrgans mGy / 148 MBq rad / 4 mCi Total body 0 . 6 0 . 06 Lungs 8 . 8 0 . 88 Liver 0 . 72 0 . 072 Spleen 0 . 68 0 . 068 Kidneys 0 . 44 0 . 044 Bladder wall 3 . 5 hr .
+void 1 . 2 0 . 12 4 . 8 hr .
+void 2 . 2 0 . 22 Testes 3 . 5 hr .
+void 0 . 24 0 . 024 4 . 8 hr .
+void 0 . 26 0 . 026 Ovaries 3 . 5 hr .
+void 0 . 3 0 . 03 4 . 8 hr .
+void 0 . 34 0 . 034 Table 3 shows the radiation absorbed dose resulting from the intraperitoneal administration of 111 MBq ( 3 mCi ) of Technetium Tc 99 m Albumin Aggregated .
+Table 3 – Adults : Radiation Absorbed Doses1 for Intraperitoneal Shunt ScintigraphyOrgans Shunt Patency Shunt Patency ( Open ) ( Closed ) mGy Rad mGy Rad Lung 6 . 9 0 . 69 1 . 68 0 . 168 Ovaries & Testes 0 . 18 to 0 . 3 0 . 018 to 0 . 03 1 . 68 0 . 168 Organs in the peritoneal cavity - - 1 . 68 0 . 168 Total body 0 . 36 0 . 036 0 . 57 0 . 057 Assumptions : calculations for the radiation absorbed dose are based upon an effective half - time of 3 hours for the open shunt and a physical half - life of 6 hours for the closed shunt and an even distribution of the radiopharmaceutical in the peritoneal cavity with no biological clearance .
+Pediatric Patients In pediatric patients , the radiation absorbed doses using the maximum recommended dose for lung imaging are based on 1 . 85 MBq ( 0 . 05 mCi ) per kilogram of body weight ( except in the newborns where the maximum recommended dose of 18 . 5 MBq ( 0 . 5 mCi ) is used ) and are shown in Table 4 .
+Table 4 – Pediatric Patients : Radiation Absorbed Doses for Lung Scintigraphy2 , 3 Age Newborn 1 year 5 years 10 years 15 years mGy rad mGy Rad mGy rad mGy rad mGy Rad ORGANS Total body 0 . 6 0 . 06 0 . 3 0 . 03 0 . 31 0 . 031 0 . 48 0 . 048 0 . 41 0 . 041 Lungs 19 1 . 9 6 . 6 0 . 66 5 . 8 0 . 58 8 . 7 0 . 87 7 . 7 0 . 77 Liver 1 . 4 0 . 14 0 . 6 0 . 06 0 . 62 0 . 062 1 . 8 0 . 18 1 . 2 0 . 12 Bladder wall 2 . 1 0 . 21 ( 1 ) 1 . 5 0 . 15 ( 1 ) 3 . 1 0 . 31 ( 2 ) 3 . 9 0 . 39 ( 2 ) 4 . 1 0 . 41 Ovaries 0 . 38 0 . 038 0 . 2 0 . 02 0 . 19 0 . 019 0 . 44 0 . 044 0 . 41 0 . 041 Testes 0 . 31 0 . 031 0 . 13 0 . 013 0 . 19 0 . 019 0 . 2 0 . 02 0 . 36 0 . 036 ( 1 ) 2 hour voiding interval ( 2 ) 4 . 8 hour voiding interval 2 . 3 Directions for Preparation Procedural Precautions • Perform all transfer and vial stopper entries using aseptic techniques .
+• Wear waterproof gloves during the entire preparation procedure and during subsequent patient dose withdrawals from the Pulmotech MAA vial .
+• Make all transfers of sodium pertechnetate Tc 99 m injection solution during the preparation procedure with an adequately shielded syringe .
+• Keep the Radioactive Preparation in the Dispensing Vial Shield described below ( with cap in place ) during the useful life of the Radioactive Preparation .
+Make all withdrawals and injections of the Radioactive Preparation with an adequately shielded syringe .
+Procedure for the Preparation of Technetium Tc 99 m Albumin Aggregated 1 .
+If Pulmotech MAA vials are stored in the refrigerator , remove a vial and allow the contents to come to room temperature for approximately 5 minutes .
+2 .
+Remove the protective disc from the Pulmotech MAA vial and swab the rubber septum with an alcohol swab or a suitable bacteriostatic agent to disinfect the surface .
+3 .
+Place the vial in a suitable dispensing vial shield fitted with a shielded cap .
+4 .
+Calculate the amount of sodium pertechnetate Tc 99 m injection solution ( 2 mL to 13 mL ) to be added to the Pulmotech MAA vial .
+During or prior to addition of technetium Tc 99 m solution do not vent the Pulmotech MAA vial .
+In choosing the amount of technetium Tc 99 m radioactivity to be used in the preparation of technetium Tc 99 m albumin aggregated ensure that the radioactive dose will contain the desired number of MAA particles , while taking into account the number of patients , administered radioactive dose , and radioactive decay .
+The recommended maximum amountof technetium Tc 99 m to be added to the Pulmotech vial is 6 . 85 GBq ( 185 mCi ) .
+Calculate ( see section 2 . 1 ) the amount of radioactivity per vial required to be added to maintain the number of particles per dose within a recommended range [ for adults 200 , 000 to 700 , 000 , and for pediatric patients as per Table 1 ] .
+5 .
+After adding sodium pertechnetate Tc 99 m injection solution to the Pulmotech MAA vial in the dispensing Vial shield ( with cap in place ) , mix the contents by agitation and allow to stand for a minimum of 15 minutes at room temperature .
+Once prepared the product will have a turbid white appearance .
+6 .
+Assay the product in a suitable dose calibrator and record the activity of the technetium Tc 99 m albumin aggregated , total suspension volume , number of Tc 99 m MAA particles , radioactive concentration , time and date of preparation , onto the radioassay information label and attach it to the dispensing vial shield .
+0 . 9 % Sodium Chloride Injection , USP may be used as a diluent for the radiolabeled product to achieve the desired number of particles and radioactivity .
+7 .
+Prior to withdrawing a dose , gently agitate the contents of the radiolabeled Pulmotech MAA vial to resuspend any settled technetium Tc 99 m albumin aggregated particles .
+Failure to mix the reaction vial contents adequately before use may result in a non - homogenous suspension with a resulting non - uniform distribution of radioactivity in the lung .
+Withdrawals for administration must be made aseptically using a sterile needle ( 18 to 21 gauge ) and syringe .
+Since the vials contain nitrogen to prevent oxidation of the complex , the vials should not be vented .
+If repeated withdrawals are made from the vial , the contents should not be replaced with air .
+8 .
+Store the radiolabeled Pulmotech MAA vial in the dispensing vial shield in a refrigerator at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Use radiolabeled Pulmotech MAAwithin 18 hours from the time of preparation .
+Discard unused product .
+3 DOSAGE FORMS AND STRENGTHS Pulmotech MAA multiple - dose vial contains 2 mg of albumin aggregated as lyophilized powder .
+Radiolabeling with sodium pertechnetate Tc 99 m injection solution provides an injectable suspension of technetium Tc 99 m albumin aggregated .
+The radioactive dose for an adult is intended to contain 200 , 000 particles to 700 , 000 particles of technetium Tc 99 m albumin aggregated with the target dose of approximately 350 , 000 .
+Depending on the activity added and volume of the final reconstituted product , the volume of the dose may vary from 0 . 2 mL to 1 . 9 mL .
+Pulmotech MAA multiple - dose vial contains 2 mg of albumin aggregated as lyophilized powder .
+Upon radiolabeling with sodium pertechnetate Tc 99 m injection solution , it provides an injectable suspension of technetium Tc 99 m albumin aggregated .
+( 3 ) 4 CONTRAINDICATIONS Technetium Tc 99 m Albumin Aggregated Injection is contraindicated in patients with : • Severe pulmonary hypertension [ see Adverse Reactions ( 6 ) ] .
+• Prior hypersensitivity to products containing human serum albumin [ see Adverse Reactions ( 6 ) ] .
+• Patients with severe pulmonary hypertension .
+( 4 ) • Patients with a history of hypersensitivity reactions to products containing human serum albumin .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Serious adverse reactions have been reported in patients with pulmonary hypertension .
+( 5 . 1 ) • Serious hypersensitivity reactions have been reported .
+( 5 . 2 ) 5 . 1 Pulmonary Hypertension Serious adverse reactions have been reported in patients with pulmonary hypertension after Technetium Tc 99 m Albumin Aggregated Injection .
+Assess patients for history or signs of pulmonary hypertension , administer the lowest number of particles possible , have emergency resuscitation equipment available and monitor patients for adverse reactions .
+[ see Adverse Reactions ( 6 ) ] .
+5 . 2 Hypersensitivity Reactions Serious reactions have been reported in patients with hypersensitivity to products containing human serum albumin , including Technetium Tc 99 m Albumin Aggregated Injection .
+Obtain a history of allergy or hypersensitivity reactions and always have emergency resuscitation equipment and trained personnel available prior to administration of Technetium Tc 99 m Albumin Aggregated Injection .
+Monitor all patients for hypersensitivity reactions .
+5 . 3 Radiation Risks The contents of the supplied Pulmotech MAA vials are not radioactive .
+However , after adding sodium pertechnetate Tc 99 m injection solution to the vial , adequate shielding of the final preparation must be maintained .
+As in the use of any radioactive material , care should be taken to minimize radiation exposure to the patient and to insure minimum radiation exposure to occupational workers .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+6 ADVERSE REACTIONS Deaths occurring after the administration of aggregated albumin to patients with severe pulmonary hypertension and serious hypersensitivity reactions to preparations of Technetium Tc 99 m Albumin Aggregated Injection have been reported .
+Deaths after administration to patients with severe pulmonary hypertension and serious hypersensitivity reactions have been reported .
+( 6 ) To report SUSPECTED ADVERSE REACTIONS , contact CURIUM US LLC at 1 - 866 - 789 - 2211 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+8 USE IN SPECIFIC POPULATIONS Lactation : Temporarily discontinue breastfeeding and discard breast milk for 13 hours after administration .
+( 8 . 2 ) 8 . 1 Pregnancy Risk Summary Available data from case reports on Technetium Tc 99 m Albumin Aggregated Injection are insufficient to evaluate drug - associated risks of major birth defects , miscarriage , or adverse maternal or fetal outcomes .
+Animal reproduction studies with technetium Tc 99 m Albumin Aggregated Injection have not been conducted .
+All radiopharmaceuticals have the potential to cause fetal harm depending on the fetal stage of development and the magnitude of the radiation dose .
+If considering Technetium Tc 99 m Albumin Aggregated Injection administration to a pregnant woman , inform the patient about the potential for adverse pregnancy outcomes based on the radiation dose from Technetium Tc 99 m Albumin Aggregated Injection and the gestational timing of exposure .
+All pregnancies have a background risk of birth defect , loss , or other adverse outcomes .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+8 . 2 Lactation Risk Summary Data available in the published literature demonstrate the presence of pertechnetate in human milk .
+There are no data available on the effects of Tc - 99 m Albumin Aggregated Injection on the breastfed infant or the effects on milk production .
+Exposure of pertechnetate to a breast fed infant can be minimized by temporary discontinuation of breastfeeding ( see Clinical Considerations ) .
+The developmental and health benefits of breastfeeding should be considered along with the mother ’ s clinical need for a Technetium Tc 99 m Albumin Aggregated Injection , any potential adverse effects on the breastfed child from radioactivity and from the underlying maternal condition .
+Clinical Considerations To decrease radiation exposure to the breastfed infant , advise a lactating woman to pump and discard breast milk after the administration of Technetium Tc 99 m Albumin Aggregated Injection for 13 hours , where the duration corresponds to the typical range of administered activity , 37 to 148 MBq ( 1 to 4 mCi ) .
+During the period of interruption , the breasts should be emptied regularly and completely .
+The milk that is pumped by the mother during the time of breastfeeding interruption can either be discarded or stored refrigerated and given to the infant after 10 physical half - lives , or about 60 hours , have elapsed .
+8 . 4 Pediatric Use Technetium Tc 99 m Albumin Aggregated Injection is indicated for lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in pediatric patients [ see Dosage and Administration ( 2 ) ] .
+The safety profile of Technetium Tc99m Albumin Aggregated Injection is similar to the one in adults .
+11 DESCRIPTION Pulmotech MAA ( kit for the preparation of technetium Tc 99 m albumin aggregated injection ) , when prepared with sodium pertechnetate Tc 99 m injection , provides Technetium Tc 99 m Albumin Aggregated Injection .
+Pulmotech MAA contains macroaggregates of U . S . - licensed human serum albumin ( non - reactive when tested for hepatitis B antigen ( HBsAg ) by enzyme immunoassay ) .
+The macroaggregated albumin ( MAA ) is obtained by heat denaturation of stannous chloride treated human serum albumin under controlled conditions .
+Upon radiolabeling with sodium pertechnetate Tc 99 m injection solution , the stannous reduced Tc99m binds to the aggregated albumin to provide technetium Tc 99 m albumin aggregated .
+The particle size distribution of the aggregated albumin is such that not less than 90 percent are 10 to 90 microns in size .
+There are no aggregated albumin particles greater than 150 microns in size as determined by circular equivalents .
+Pulmotech MAA is provided as a 15 mL multiple - dose glass vial containing white lyophilized powder .
+The contents of the vial are under nitrogen .
+Each vial contains 2 mg of albumin aggregated , 7 . 1 mg of albumin human ( soluble ) , 0 . 22 mg of maximum total tin ( as SnCl2 · 2H2O ) , 0 . 1 mg ( minimum ) stannous chloride , and 9 mg of sodium chloride .
+Hydrochloric acid is added for pH adjustment and the pH of the reconstituted solution is between 5 and 7 .
+The kit does not contain any bacteriostatic agent .
+11 . 1 Physical Characteristics Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours . The principal photon that is useful for detection and imaging is listed in Table 5 .
+Table 5 – Principal Radiation Emission DataRadiation Mean % per Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 11 . 2 External Radiation The specific gamma ray constant for Technetium Tc 99 m is 0 . 78 R / mCi - hr at 1 cm .
+The first half - value thickness of lead ( Pb ) for Technetium Tc 99 m is 0 . 017 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 6 .
+For example , the use of 0 . 25 cm of Pb will decrease the external radiation exposure by a factor of about 1000 .
+Table 6 – Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 7 .
+Table 7 – Physical Decay Chart : Technetium Tc 99 m Half - Life 6 . 02 HoursHours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 * Calibration Time 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Within 1 to 5 minutes of intravenous injection , over 90 percent of the technetium Tc 99 m albumin aggregated particles are trapped in the arterioles and capillaries of the lung .
+Following intraperitoneal administration of Technetium Tc 99 m Albumin Aggregated Injection , the radiopharmaceutical mixes with the peritoneal fluid .
+Clearance from the peritoneal cavity varies from insignificant , which may occur with complete shunt blockage , to very rapid clearance with subsequent transfer into the systemic circulation when the shunt is patent .
+12 . 3 Pharmacokinetics Distribution Organ selectivity is a direct result of particle size .
+At 10 microns and below , the albumin aggregates are taken up by the reticuloendothelial system .
+Above 10 to 15 microns , the aggregates become lodged in the lung capillaries by a purely mechanical process .
+Distribution of aggregated albumin in the lungs is a function of regional pulmonary blood flow .
+The albumin aggregated is sufficiently fragile for the capillary micro - occlusion to be temporary .
+Erosion and fragmentation reduce the particle size , allowing passage of the aggregates through the pulmonary alveolar capillary bed .
+The fragments then accumulate in the reticuloendothelial system .
+Elimination Elimination of the Technetium Tc 99 m Albumin Aggregates from the normal and abnormal human lungs occurs with a biological half - life of 10 . 8 hours ( range 6 . 9 to 19 hours , n = 5 ) .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic or mutagenic potential or whether technetium Tc 99 m albumin aggregated affects fertility in males or females .
+15 REFERENCES • Method of calculation : “ S ” Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs , MIRD Pamphlet No . 11 ( 1975 ) .
+• Used biologic data from Kaul et al . , Berlin , 1973 .
+• For the newborn , 1 - year old , and 5 - year old , the “ S ” values calculated form the preliminary phantoms of ORNL were used .
+The 10 - year old , 15 - year old and adult “ S ” values are from Henrichs , et al . , Berlin , 1980 .
+16 HOW SUPPLIED / STORAGE AND HANDLING 16 . 1 How Supplied Pulmotech MAA ( kit for the preparation of technetium Tc 99 m albumin aggregated injection ) is supplied either as a 5 vial clam shell ( NDC 69945 - 139 - 20 ) or as a carton of 30 vials ( NDC 69945 - 139 - 40 ) .
+Each 5 vial kit contains 5 multiple dose Pulmotech MAA vials , 1 prescribing information and 5 radioassay information labels .
+Each 30 vial carton contains 30 multiple dose Pulmotech MAA vials , 1 prescribing information and 30 radioassay information labels .
+16 . 2 Storage and Disposal Store Pulmotech MAA ( kit for the preparation of Tc 99 m albumin aggregated injection ) at 2 ° to 25 ° C ( 36 ° to 77ºF ) before preparation ( radiolabeling ) .
+After preparation with sodium pertechnetate Tc 99 m injection , store radiolabeled technetium Tc 99 m albumin aggregated Injection in a refrigerator at 2 ° to 8 ° C ( 36 ° to 46ºF ) .
+Do not use and discard radiolabeled Pulmotech MAA at 18 hours after preparation .
+17 PATIENT COUNSELING INFORMATION Adequate Hydration Advise patients to drink a sufficient amount of water to ensure adequate hydration before their study and urge them to drink and urinate as often as possible during the first hours following the administration of Technetium Tc 99 m Albumin Aggregated Injection in order to reduce radiation exposure .
+Pregnancy Advise pregnant women of the risk of fetal exposure to radiation doses if they undergo a radionucleotide procedure [ see Use in Specific Populations ( 8 . 1 ) ] .
+Lactation Advise a lactating woman to interrupt breastfeeding and pump and discard breast milk for 13 hours after Technetium Tc 99 m Albumin Aggregated Injection administration in order to minimize radiation exposure to a breastfed infant [ see Use in Specific Populations ( 8 . 2 ) ] .
+Pulmotech is a trademark of a Curium company .
+© 2020 Curium US LLC .
+All Rights Reserved .
+A139I0 Manufactured by : CIS bio International for Curium US LLC 2703 Wagner Place Maryland Heights , MO 63043 Issued : R03 / 2020 CURIUM ™ PRINCIPAL DISPLAY PANEL - CARTON NDC 69945 - 139 - 40 Pulmotech ™ MAA ( kit for the preparation of technetium Tc 99 m albumin aggregated injection ) For intravenous and intraperitoneal use after radiolabeling with sodium pertechnetate Tc 99 m .
+Rx only Before radiolabeling , store at 2 ° to 25 ° C ( 36 ° to 77 ° F ) .
+After radiolabeling , store shielded in refrigerator at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Use within 18 hours of radiolabeling .
+CURIUM ™ 30 Vial Multiple - dose Carton PINCH AT CORNERS / PULL OUT Dosage : See prescribing information .
+CARTON CONTAINS : 30 sterile , multiple - dose Pulmotech MAA vials 30 radioassay information labels 1 Prescribing Information Each Pulmotech MAA vial contains : 2 mg Albumin Aggregated 7 . 1 mg Albumin Human 0 . 22 mg ( maximum ) stannous chloride 0 . 1 mg ( minimum ) stannous chloride 9 mg sodium chloride Hydrochloric acid for pH adjustment Sealed under nitrogen Manufactured for : Curium US LLC 2703 Wagner Place Maryland Heights , MO 63043 Convenient Reorder Point Maximum Six Vials Remaining Open Flap For Package Insert and Radioassay Information Labels A139DK R03 / 2020 [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL – VIAL LABEL NDC 69945 - 139 - 10 Pulmotech ™ MAA Sterile , Multiple - Dose Vial ( kit for the preparation of technetium Tc 99 malbumin aggregated injection ) For intravenous and intraperitoneal use after radiolabeling with sodium pertechnetate Tc 99 m .
+Vial contains : 2 mg Albumin Aggregated , 7 . 1 mg Albumin Human , 0 . 1 mg ( minimum ) Stannous Chloride and 9 mg Sodium Chloride .
+HCl used for pH adjustment .
+Sealed under nitrogen .
+Before radiolabeling , store at 2 ° to 25 ° C ( 36 ° to 77 ° F ) .
+After radiolabeling , store shielded in refrigerator at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Use within 18 hours .
+Dosage : See prescribing information .
+Rx only Manufactured for : Curium US LLC , Maryland Heights , MO 63043 A139VO R03 / 2020 [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,129 @@
+1 INDICATIONS AND USAGE CERIANNA is indicated for use with positron emission tomography ( PET imaging ) for characterization of estrogen receptor ( ER ) status of known or suspected metastatic lesions in patients with confirmed ER - positive breast cancer .
+Limitations of Use Tissue biopsy should be used to confirm recurrence of breast cancer and to verify ER status by pathology .
+CERIANNA is not useful for imaigng other receptors , such as human epidermal growth factor receptor 2 ( HER2 ) and the progesterone receptor ( PR ) CERIANNA is a radioactive diagnostic agent indicated for positron emission tomography ( PET ) imaging .
+Fluoroestradiol F 18 is indicated for characterization of estrogen receptor status of known or suspected metastatic lesions in patients with confirmed ER - positive breast cancer .
+2 DOSAGE AND ADMINISTRATION • Recommended dose is 222 MBq ( 6 mCi ) , with a range of 111 MBq to 222 MBq ( 3 mCi to 6 mCi ) , administered as an intravenous injection over 1 to 2 minutes .
+( 2 . 2 ) • Recommended imaging start time is 80 minutes ( range 20 minutes to 80 minutes ) after drug administration .
+( 2 . 4 ) • The recommended dose for an adult weighing 70 Kg is 222 MBq with an allowable range from 111 to 222 MBq ( 3 – 6 mCi ) .
+This activity injected can be adapted to the body weight of the patient , the type of camera used and the acquisition mode .
+• See full prescribing information for additional preparation , administration , imaging , and radiation dosimetry information .
+( 2 ) 2 . 1 Radiation Safety - Drug Handling CERIANNA is a radioactive drug .
+Only authorized persons qualified by training and experience should receive , use , and administer CERIANNA .
+Handle CERIANNA with appropriate safety measures to minimize radiation exposure during administration [ see Warnings and Precautions ( 5 . 2 ) ] .
+Use waterproof gloves and effective radiation shielding , including syringe shields , when preparing and handling CERIANNA .
+2 . 2 Recommended Dose and Administration Instructions Recommended Dosage The recommended amount of radioactivity to be administered for PET imaging is 222 MBq ( 6 mCi ) , with a range of 111 MBq to 222 MBq ( 3 mCi to 6 mCi ) , administered as a single intravenous injection of 10 mL or less over 1 to 2 minutes .
+Preparation and Administration • For patient preparation instructions , see ( 2 . 3 ) .
+• Use aseptic technique and radiation shielding when withdrawing and administering CERIANNA .
+• Visually inspect the radiopharmaceutical solution .
+Do not use if it contains particulate matter or if it is cloudy or discolored ( CERIANNA is a clear , colorless solution ) .
+• CERIANNA may be diluted with 0 . 9 % Sodium Chloride Injection , USP .
+• Assay the dose in a suitable dose calibrator prior to administration .
+Post - Administration Instructions • Follow the CERIANNA injection with an intravenous flush of 0 . 9 % Sodium Chloride injection , USP .
+• Dispose of any unused CERIANNA in compliance with applicable regulations 2 . 3 Patient Preparation Assessment for Drug Interactions Image patients with CERIANNA prior to starting systemic endocrine therapies that target ER ( e . g . , ER modulators and ER down - regulators ) [ see Drug Interactions ( 7 . 1 ) ] .
+Patient Hydration and Voiding Instruct patients to drink water to ensure adequate hydration prior to administration of CERIANNA and to continue drinking and voiding frequently during the first hours following administration to reduce radiation exposure .
+Pregnancy Status Assessment of pregnancy status is recommended in females of reproductive potential before administering CERIANNA .
+2 . 4 Image Acquisition Position the patient supine with arms above the head , if possible .
+The recommended start time for image acquisition is 80 minutes after the intravenous administration of CERIANNA .
+Scan duration adapted from the range of 20 minutes to 30 minutes and imaging start times adapted within the range of 20 minutes to 80 minutes may be customized according to the equipment used and patient and tumor characteristics for optimal image quality .
+2 . 5 Image Interpretation Uptake of fluoroestradiol F 18 depends on ER density and function in tumors and physiologic tissue , including in liver , ovary , and uterus .
+Detection of ER - positive tumors should be based on comparison with tissue background outside of organs with high physiologic uptake and regions with high activity due to hepatobiliary and urinary excretion .
+2 . 6 Radiation Dosimetry Radiation absorbed dose estimates are shown in Table 1 for organs and tissues of adults from intravenous administration of CERIANNA .
+The radiation effective dose resulting from administration of 222 MBq ( 6 mCi ) of CERIANNA to an adult weighing 70 kg is estimated to be 4 . 9 mSv .
+Critical organs include the liver , gallbladder , and uterus .
+When PET / CT is performed , exposure to radiation will increase by an amount dependent on the settings used for the CT acquisition .
+Table 1 Estimated Radiation Absorbed Doses in Various Organs / Tissues in Adults who Received FLUOROESTRADIOL F 18 Organ Mean Absorbed Dose per unit of Activity Administered ( mGy / MBq ) Adrenals 0 . 023 Brain 0 . 01 Breasts 0 . 009 Gallbladder 0 . 102 Lower large intestine 0 . 012 Small Intestine 0 . 027 Stomach 0 . 014 Upper large intestine 0 . 03 Heart wall 0 . 026 Kidney 0 . 035 Liver 0 . 126 Lungs 0 . 017 Muscle 0 . 021 Ovaries 0 . 018 Pancreas 0 . 023 Red Marrow 0 . 013 Bone surface 0 . 014 Skin 0 . 005 Spleen 0 . 015 Testes 0 . 012 Thymus 0 . 014 Thyroid 0 . 012 Urinary bladder 0 . 05 Uterus 0 . 039 Lens 0 . 009 Effective dose equivalent = 0 . 022 mSv / MBq 3 DOSAGE FORMS AND STRENGTHS Injection : clear , colorless solution in a multiple - dose vial containing 148 MBq / mL to 3 , 700 MBq / mL ( 4 mCi / mL to 100 mCi / mL ) of fluoroestradiol F 18 at end of synthesis .
+Injection : 148 MBq / mL to 3 , 700 MBq / mL ( 4 mCi / mL to 100 mCi / mL ) of fluoroestradiol F 18 in a multiple - dose vial .
+( 3 ) 4 CONTRAINDICATIONS None .
+None .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Risk of Misdiagnosis .
+Do not use CERIANNA in lieu of biopsy when biopsy is indicated in patients with recurrent or metastatic breast cancer .
+Pathology or clinical characteristics that suggest a patient may benefit from systemic hormone therapy should take precedence over a discordant negative CERIANNA scan .
+( 5 . 1 ) • Radiation Risks .
+Ensure safe drug handling and patient preparation procedures to protect patients and health care providers from unintentional radiation exposure .
+( 2 . 1 , 2 . 3 , 5 . 2 ) 5 . 1 Risk of Misdiagnosis Inadequate Tumor Characterization and Other ER - Positive Pathology Breast cancer may be heterogeneous within patients and across time .
+CERIANNA images ER and is not useful for imaging other receptors such as HER2 and PR .
+The uptake of fluoroestradiol F 18 is not specific for breast cancer and may occur in a variety of ER - positive tumors that arise outside of the breast , including from the uterus and ovaries .
+Do not use CERIANNA in lieu of biopsy when biopsy is indicated in patients with recurrent or metastatic breast cancer .
+False Negative CERIANNA Scan A negative CERIANNA scan does not rule out ER - positive breast cancer [ see Clinical Studies ( 14 ) ] .
+Pathology or clinical characteristics that suggest a patient may benefit from systemic hormone therapy should take precedence over a discordant negative CERIANNA scan 5 . 2 Radiation Risks Diagnostic radiopharmaceuticals , including CERIANNA , expose patients to radiation [ see Dosage and Administration ( 2 . 6 ) ] .
+Radiation exposure is associated with a dose - dependent increased risk of cancer .
+Ensure safe drug handling and patient preparation procedures to protect patients and health care providers from unintentional radiation exposure [ see Dosage and Administration ( 2 . 1 ) and ( 2 . 3 ) ] .
+6 ADVERSE REACTIONS Reported adverse reactions include : injection - site pain and dysgeusia To report SUSPECTED ADVERSE REACTIONS , contact Zionexa US Corp at + 1 . 800 . 654 . 0118 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+( 6 ) 6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The safety of CERIANNA was evaluated from published clinical studies of 1207 patients with breast cancer receiving at least one fluoroestradiol F 18 administration .
+The following adverse reactions occurred at a rate < 1 % : • General disorders : injection - site pain • Neurological and gastrointestinal disorders : dysgeusia 7 DRUG INTERACTION Drugs such as tamoxifen and fulvestrant that block the estrogen receptor reduce the uptake of fluoroestradiol F 18 .
+Do not delay indicated therapy in order to administer CERIANNA .
+Image patients with CERIANNA prior to starting systemic endocrine therapies that block ER .
+( 2 . 3 , 7 . 1 ) 7 . 1 Systemic Endocrine Therapies that Target Estrogen Receptors Certain classes of systemic endocrine therapies , including ER modulators and ER down - regulators , block ER , reduce the uptake of fluoroestradiol F 18 , and may reduce detection of ER - positive lesions after administration of CERIANNA .
+Drugs from these classes such as tamoxifen and fulvestrant may block ER for up to 8 and 28 weeks , respectively .
+Do not delay indicated therapy in order to administer CERIANNA .
+Administer CERIANNA prior to starting systemic endocrine therapies that block ER [ see Dosage and Administration ( 2 . 3 ) ] .
+8 USE IN SPECIFIC POPULATIONS • Lactation : Interrupt breastfeeding .
+Advise a lactating woman to avoid breastfeeding for 4 hours after CERIANNA administration .
+( 8 . 2 ) 8 . 1 Pregnancy Risk SummaryAll radiopharmaceuticals , including CERIANNA , have the potential to cause fetal harm depending on the fetal stage of development and the magnitude of radiation dose .
+Advise a pregnant woman of the potential risks of fetal exposure to radiation from administration of CERIANNA .
+There are no available data on CERIANNA use in pregnant women .
+No animal reproduction studies using fluoroestradiol F 18 have been conducted to evaluate its effect on female reproduction and embryo - fetal development .
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown .
+All pregnancies have a background risk of birth defects , loss , or other adverse outcomes .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 - 4 % and 15 - 20 % , respectively .
+8 . 2 Lactation Risk Summary There are no data on the presence of fluoroestradiol F 18 in human milk , or its effects on the breastfed infant or milk production .
+Lactation studies have not been conducted in animals .
+Advise a lactating woman to avoid breastfeeding for 4 hours after CERIANNA administration in order to minimize radiation exposure to a breastfed infant .
+8 . 4 Pediatric Use The safety and effectiveness of CERIANNA in pediatric patients have not been established .
+8 . 5 Geriatric Use Clinical studies of fluoroestradiol F 18 injection did not reveal any difference in pharmacokinetics or biodistribution in patients aged 65 and over .
+11 DESCRIPTION 11 . 1 Chemical Characteristics CERIANNA contains fluoroestradiol fluorine 18 ( F 18 ) , a synthetic estrogen analog .
+Chemically , fluoroestradiol F 18 is [ 18 F ] 16α - fluoro - 3 , 17β - diol - estratriene - 1 , 3 , 5 ( 10 ) .
+The molecular weight is 289 . 37 , and the structural formula is : [ MULTIMEDIA ] CERIANNA is a sterile , clear , colorless solution for intravenous injection , with an osmolarity of 340 mOsm .
+Its pH ranges between 4 . 5 to 7 . 0 .
+The composition of the final product in 40 mL solution is fluoroestradiol no more than 5 μg , fluoroestradiol F 18 148 MBq / mL to 3 , 700 MBq / mL ( 4 mCi / mL to 100 mCi / mL ) , sodium ascorbate 0 . 44 % w / v in sodium chloride 0 . 9 % w / v , and ethanol no more than 3 . 2 % w / v ..
+[ MULTIMEDIA ] 11 . 2 Physical Characteristics CERIANNA is radiolabeled with F 18 , a cyclotron produced radionuclide that decays by positron emission to stable oxygen 18 with a half - life of 109 . 8 minutes .
+The principal photons useful for diagnostic imaging are the coincident pair of 511 keV gamma photons , resulting from the interaction of the emitted positron with an electron ( Table 2 ) .
+Table 2 Principal Radiation Produced from Decay of Fluorine 18 RadiationEnergy ( keV ) % Abundance Positron 249 . 8 96 . 9 Gamma 511 193 . 5 11 . 3 External Radiation The point source air - kerma coefficient for F 18 is 3 . 75 x 10 - 17 Gy m 2 / ( Bq s ) .
+The first half - value thickness of lead ( Pb ) for F 18 gamma rays is approximately 6 mm .
+The relative reduction of radiation emitted by F 18 that results from various thicknesses of lead shielding is shown in Table 3 .
+The use of 8 cm of Pb will decrease the radiation transmission ( i . e . , exposure ) by a factor of about 10 , 000 .
+Table 3 Radiation Attenuation of 511 keV Gamma Rays by Lead ShieldingShield Thickness cm of Lead ( Pb ) Coefficient of Attenuation 0 . 6 0 . 5 2 0 . 1 4 0 . 01 6 0 . 001 8 0 . 0001 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of action Fluoroestradiol F 18 binds ER .
+The following binding affinity : Kd = 0 . 13 ± 0 . 02 nM , Bmax = 1901 ± 89 fmol / mg , and IC50 = 0 . 085 nM , was determined in an ER - positive human breast cancer cell line ( MCF - 7 ) .
+12 . 2 Pharmacodynamics The relationship between fluoroestradiol F18 plasma concentrations and image interpretation has not been studied .
+Fluoroestradiol F18 uptake measured by PET in human tumors is directly proportional to tumor ER expression measured by in vitro assays .
+12 . 3 Pharmacokinetics Distribution After intravenous injection , 95 % of fluoroestradiol F 18 is bound to plasma proteins .
+Fluoroestradiol F 18 distributes primarily to hepatobiliary system , and also to small and large intestines , heart wall , blood , kidney , uterus and bladder .
+Metabolism Fluoroestradiol F 18 is metabolized in the liver .
+At 20 minutes after injection , approximately 20 % of circulating radioactivity in the plasma is in the form of non - metabolized fluoroestradiol F 18 .
+At 2 hours after injection , circulating fluoroestradiol F 18 levels are less than 5 % of peak concentration .
+Excretion Elimination is by biliary and urinary excretion .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis No long - term studies in animals were performed to evaluate the carcinogenic potential of CERIANNA .
+Mutagenesis Fluoroestradiol was evaluated by in vitro bacterial reverse mutation assay ( Ames test ) and in vitro L5178Y / TK + / - mouse lymphoma mutagenesis assay .
+Fluoroestradiol was negative for genotoxicity by Ames test at up to 1 . 25 μg per plate for 5 tester strains ( Salmonella typhimurium tester strains TA98 , TA100 , TA1535 and TA1537 and Escherichia Coli tester strain WP2 uvrA ) in the presence or absence of S9 metabolic activation .
+Fluoroestradiol was negative for genotoxicity by L5178Y / TK + / - mouse lymphoma mutagenesis assay at up to 8 ng / mL in the absence or presence of S9 metabolic activation .
+Potential in vivo genotoxicity of fluoroestradiol was evaluated in a rat micronucleus assay .
+In this assay , fluoroestradiol did not increase the number of micronucleated polychromatic erythrocytes ( MN - PCEs ) at 51 μg / kg / day , when given for 14 consecutive days .
+However , CERIANNA has the potential to be mutagenic because of the F 18 radioisotope .
+Impairment of Fertility No studies in animals have been performed to evaluate potential impairment of fertility in males or females .
+14 CLINICAL STUDIES The effectiveness of CERIANNA for detecting ER - positive non - primary breast cancer lesions was evaluated based on published study reports of fluoroestradiol F 18 .
+Study 1 ( NCT01986569 ) enrolled 90 women ( median age 55 years , 39 % premenopausal ) with histologically confirmed invasive breast cancer .
+The patients had first known or suspected recurrence of treated breast cancer or stage IV metastatic breast cancer .
+Recent biopsy of lesions outside of bone and areas with high physiologic fluoroestradiol F 18 uptake was also required [ see Dosage and Administration ( 2 . 5 ) ] .
+Patients concurrently using estrogen receptor modulators or fulvestrant discontinued them 60 days prior to fluoroestradiol F 18 administration .
+Concurrent use of aromatase inhibitors was permitted .
+Three image readers were blinded to all clinical information , except for the location of the largest biopsied lesion , for which pathologists independently provided an Allred score ( 0 to 8 ) .
+The image readers scored the intensity of FES uptake on a three - point scale relative to normal biodistribution as either “ decreased , ” “ equivocal , ” or “ increased ” ( 1 to 3 ) .
+Image reader performance for distinguishing between ER - positive and ER - negative fluoroestradiol F 18 uptake was compared to biopsy in 85 patients .
+Of the 47 patients with positive biopsy ( Allred score ≥ 3 ) , 36 were positive on imaging ( majority reader score = 3 ) .
+Ten of 11 patients with false negative imaging had Allred scores between 3 and 6 [ see Warnings and Precautions ( 5 . 1 ) ] .
+Of the 38 patients with negative biopsy , all 38 were negative on imaging .
+Study 2 ( NCT00602043 ) in 13 patients showed similar results .
+16 HOW SUPPLIED / STORAGE AND HANDLING 16 . 1 How Supplied CERIANNA is supplied in a 50 mL multiple - dose glass vial ( NDC # 72874 - 001 - 01 ) containing a clear , colorless injection solution at a strength of 148 MBq / mL to 3 , 700 MBq / mL ( 4 mCi / mL to 100 mCi / mL ) fluoroestradiol F 18 at the end of synthesis .
+Each vial contains multiple doses and is enclosed in a shield container to minimize external radiation exposure .
+16 . 2 Storage and Handling Storage Store CERIANNA at controlled room temperature ( USP ) 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) .
+Store CERIANNA upright in the original container with radiation shielding .
+The expiration date and time are provided on the container label .
+Use CERIANNA within 12 hours from the time of the end of synthesis .
+Handling This preparation is approved for use by persons under license by the Nuclear Regulatory Commission or the relevant regulatory authority of an Agreement State .
+17 PATIENT COUNSELING INFORMATION Radiation Risks Advise patients of the radiation risks of CERIANNA [ see Warnings and Precautions ( 5 . 2 ) ] .
+Instruct patients to drink water to ensure adequate hydration prior to administration of CERIANNA and to continue drinking and voiding frequently during the first hours following administration to reduce radiation exposure [ see Dosage and Administration ( 2 . 3 ) ] .
+Pregnancy Advise a pregnant woman of the potential risks of fetal exposure to radiation doses with CERIANNA [ see Use in Specific Populations ( 8 . 1 ) ] .
+Lactation Advise a lactating woman to avoid breastfeeding for 4 hours after CERIANNA administration in order to minimize radiation exposure to a breastfed infant [ see Use in Specific Populations ( 8 . 2 ) ] .
+Distributed by : ZIONEXA US CORP .
+251 Locke Drive , Marlborough , MA 01752 USA PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,206 @@
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of ERY - TAB and other antibacterial drugs , ERY - TAB should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria .
+DESCRIPTION ERY - TAB ( erythromycin delayed - release tablets ) is an antibacterial product containing erythromycin base in a specially enteric - coated tablet to protect it from the inactivating effects of gastric acidity and to permit efficient absorption of the antibiotic in the small intestine .
+ERY - TAB tablets for oral administration are available in three dosage strengths , each white oval tablet containing either 250 mg , 333 mg , or 500 mg of erythromycin as the free base .
+ERY - TAB tablets comply with USP Drug Release Test 1 .
+Erythromycin is produced by a strain of Saccharopolyspora erythraea ( formerly Streptomyces erythraeus ) and belongs to the macrolide group of antibiotics .
+It is basic and readily forms salts with acids .
+Erythromycin is a white to off - white powder , slightly soluble in water , and soluble in alcohol , chloroform , and ether .
+Erythromycin is known chemically as ( 3 R * , 4 S * , 5 S * , 6 R * , 7 R * , 9 R * , 11 R * , 12 R * , 13 S * , 14 R * ) - 4 - [ ( 2 , 6 - dideoxy - 3 - C - methyl - 3 - O - methyl - α - L - ribo - hexopyranosyl ) oxy ] - 14 - ethyl - 7 , 12 , 13 - trihydroxy - 3 , 5 , 7 , 9 , 11 , 13 - hexamethyl - 6 - [ [ 3 , 4 , 6 - trideoxy - 3 - ( dimethylamino ) - β - D - xylo - hexopyranosyl ] oxy ] oxacyclotetradecane - 2 , 10 - dione .
+The molecular formula is C37H67NO13 , and the molecular weight is 733 . 94 .
+The structural formula is : [ MULTIMEDIA ] Inactive Ingredients Ammonium hydroxide , colloidal silicon dioxide , croscarmellose sodium , crospovidone , diacetylated monoglycerides , hydroxypropyl cellulose , hypromellose , hypromellose phthalate , magnesium stearate , microcrystalline cellulose , povidone , propylene glycol , sodium citrate , sorbitan monooleate , talc , and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Orally administered erythromycin base and its salts are readily absorbed in the microbiologically active form .
+Interindividual variations in the absorption of erythromycin are , however , observed , and some patients do not achieve optimal serum levels .
+Erythromycin is largely bound to plasma proteins .
+After absorption , erythromycin diffuses readily into most body fluids .
+In the absence of meningeal inflammation , low concentrations are normally achieved in the spinal fluid but the passage of the drug across the blood - brain barrier increases in meningitis .
+Erythromycin crosses the placental barrier , but fetal plasma levels are low .
+The drug is excreted in human milk .
+Erythromycin is not removed by peritoneal dialysis or hemodialysis .
+In the presence of normal hepatic function , erythromycin is concentrated in the liver and is excreted in the bile ; the effect of hepatic dysfunction on biliary excretion of erythromycin is not known .
+After oral administration , less than 5 % of the administered dose can be recovered in the active form in the urine .
+ERY - TAB tablets are coated with a polymer whose dissolution is pH dependent .
+This coating allows for minimal release of erythromycin in acidic environments , e . g . , stomach .
+The tablets are designed for optimal drug release and absorption in the small intestine .
+In multiple - dose , steady - state studies , ERY - TAB tablets have demonstrated adequate drug delivery in both fasting and non - fasting conditions .
+Bioavailability data are available from Abbott Laboratories , Dept . 422 .
+Microbiology Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms .
+It does not affect nucleic acid synthesis .
+Antagonism has been demonstrated in vitro between erythromycin and clindamycin , lincomycin , and chloramphenicol .
+Many strains of Haemophilus influenzae are resistant to erythromycin alone , but are susceptible to erythromycin and sulfonamides used concomitantly .
+Staphylococci resistant to erythromycin may emerge during a course of erythromycin therapy .
+Erythromycin has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section .
+Gram - positive Organisms Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus ( resistant organisms may emerge during treatment ) Streptococcus pneumoniae Streptococcus pyogenes Gram - negative Organisms Bordetella pertussis Legionella pneumophila Neisseria gonorrhoeae Other Microorganisms Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum The following in vitro data are available , but their clinical significance is unknown .
+Erythromycin exhibits in vitro minimal inhibitory concentrations ( MIC ' s ) of 0 . 5 mcg / mL or less against most ( ≥ 90 % ) strains of the following microorganisms ; however , the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Gram - positive Organisms Viridans group streptococci Gram - negative Organisms Moraxella catarrhalis Susceptibility Tests Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations ( MIC ' s ) .
+These MIC ' s provide estimates of the susceptibility of bacteria to antimicrobial compounds .
+The MIC ' s should be determined using a standardized procedure .
+Standardized procedures are based on a dilution method1 ( broth or agar ) or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder .
+The MIC values should be interpreted according to the following criteria : MIC ( mcg / mL ) Interpretation ≤ 0 . 5 Susceptible ( S ) 1 - 4 Intermediate ( I ) ≥ 8 Resistant ( R ) A report of " Susceptible " indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable .
+A report of " Intermediate " indicates that the result should be considered equivocal , and , if the microorganism is not fully susceptible to alternative , clinically feasible drugs , the test should be repeated .
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used .
+This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation .
+A report of " Resistant " indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable ; other therapy should be selected .
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures .
+Standard erythromycin powder should provide the following MIC values : Microorganism MIC ( mcg / mL ) S . aureus ATCC 29213 0 . 12 - 0 . 5 E . faecalis ATCC 29212 1 - 4 Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds .
+One such standardized procedure2 requires the use of standardized inoculum concentrations .
+This procedure uses paper disks impregnated with 15 - mcg erythromycin to test the susceptibility of microorganisms to erythromycin .
+Reports from the laboratory providing results of the standard single - disk susceptibility test with a 15 - mcg erythromycin disk should be interpreted according to the following criteria : Zone Diameter ( mm ) Interpretation ≥ 23 Susceptible ( S ) 14 - 22 Intermediate ( I ) ≤ 13 Resistant ( R ) Interpretation should be as stated above for results using dilution techniques .
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for erythromycin .
+As with standardized dilution techniques , diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures .
+For the diffusion technique , the 15 - mcg erythromycin disk should provide the following zone diameters in these laboratory test quality control strains : Microorganism Zone Diameter ( mm ) S . aureus ATCC 25923 22 - 30 INDICATIONS AND USAGE To reduce the development of drug - resistant bacteria and maintain the effectiveness of ERY - TAB and other antibacterial drugs , ERY - TAB should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+ERY - TAB tablets are indicated in the treatment of infections caused by susceptible strains of the designated microorganisms in the diseases listed below : Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes ; Streptococcus pneumoniae ; Haemophilus influenzae ( when used concomitantly with adequate doses of sulfonamides , since many strains of H . influenzae are not susceptible to the erythromycin concentrations ordinarily achieved ) .
+( See appropriate sulfonamide labeling for prescribing information . )
+Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes or Streptococcus pneumoniae .
+Listeriosis caused by Listeria monocytogenes .
+Respiratory tract infections due to Mycoplasma pneumoniae .
+Skin and skin structure infections of mild to moderate severity caused by Streptococcus pyogenes or Staphylococcus aureus ( resistant staphylococci may emerge during treatment ) .
+Pertussis ( whooping cough ) caused by Bordetella pertussis .
+Erythromycin is effective in eliminating the organism from the nasopharynx of infected individuals , rendering them noninfectious .
+Some clinical studies suggest that erythromycin may be helpful in the prophylaxis of pertussis in exposed susceptible individuals .
+Diphtheria : Infections due to Corynebacterium diphtheriae , as an adjunct to antitoxin , to prevent establishment of carriers and to eradicate the organism in carriers .
+Erythrasma - In the treatment of infections due to Corynebacterium minutissimum .
+Intestinal amebiasis caused by Entamoeba histolytica ( oral erythromycins only ) .
+Extraenteric amebiasis requires treatment with other agents .
+Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae : Erythrocin ® Lactobionate - I . V . ( erythromycin lactobionate for injection , USP ) followed by erythromycin base orally , as an alternative drug in treatment of acute pelvic inflammatory disease caused by N . gonorrhoeae in female patients with a history of sensitivity to penicillin .
+Patients should have a serologic test for syphilis before receiving erythromycin as treatment of gonorrhea and a follow - up serologic test for syphilis after 3 months .
+Erythromycins are indicated for treatment of the following infections caused by Chlamydia trachomatis : conjunctivitis of the newborn , pneumonia of infancy , and urogenital infections during pregnancy .
+When tetracyclines are contraindicated or not tolerated , erythromycin is indicated for the treatment of uncomplicated urethral , endocervical , or rectal infections in adults due to Chlamydia trachomatis .
+When tetracyclines are contraindicated or not tolerated , erythromycin is indicated for the treatment of nongonococcal urethritis caused by Ureaplasma urealyticum .
+Primary syphilis caused by Treponema pallidum .
+Erythromycin ( oral forms only ) is an alternative choice of treatment for primary syphilis in patients allergic to the penicillins .
+In treatment of primary syphilis , spinal fluid should be examined before treatment and as part of the follow - up after therapy .
+Legionnaires ' Disease caused by Legionella pneumophila .
+Although no controlled clinical efficacy studies have been conducted , in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires ' Disease .
+Prophylaxis Prevention of Initial Attacks of Rheumatic Fever Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever ( treatment of Streptococcus pyogenes infections of the upper respiratory tract e . g . , tonsillitis , or pharyngitis ) . 3 Erythromycin is indicated for the treatment of penicillin - allergic patients .
+The therapeutic dose should be administered for ten days .
+Prevention of Recurrent Attacks of Rheumatic Fever Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever .
+In patients who are allergic to penicillin and sulfonamides , oral erythromycin is recommended by the American Heart Association in the long - term prophylaxis of streptococcal pharyngitis ( for the prevention of recurrent attacks of rheumatic fever ) . 3 CONTRAINDICATIONS Erythromycin is contraindicated in patients with known hypersensitivity to this antibiotic .
+Erythromycin is contraindicated in patients taking terfenadine , astemizole , pimozide , or cisapride .
+( See PRECAUTIONS - Drug Interactions . )
+WARNINGS There have been reports of hepatic dysfunction , including increased liver enzymes , and hepatocellular and / or cholestatic hepatitis , with or without jaundice , occurring in patients receiving oral erythromycin products .
+There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis .
+Infants born to women treated during pregnancy with oral erythromycin for early syphilis should be treated with an appropriate penicillin regimen .
+Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin .
+Therefore , patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase ( CK ) and serum transaminase levels .
+( See package insert for lovastatin . )
+Pseudomembranous colitis has been reported with nearly all antibacterial agents , including erythromycin , and may range in severity from mild to life threatening .
+Therefore , it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents .
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia .
+Studies indicate that a toxin produced by Clostridium difficile is a primary cause of " antibiotic - associated colitis " .
+After the diagnosis of pseudomembranous colitis has been established , therapeutic measures should be initiated .
+Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone .
+In moderate to severe cases , consideration should be given to management with fluids and electrolytes , protein supplementation , and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis .
+PRECAUTIONS General Precautions Prescribing ERY - TAB in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Since erythromycin is principally excreted by the liver , caution should be exercised when erythromycin is administered to patients with impaired hepatic function .
+( See CLINICAL PHARMACOLOGY and WARNINGS . )
+There have been reports that erythromycin may aggravate the weakness of patients with myasthenia gravis .
+There have been reports of infantile hypertrophic pyloric stenosis ( IHPS ) occurring in infants following erythromycin therapy .
+In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis , seven neonates ( 5 % ) developed symptoms of non - bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy .
+A possible dose - response effect was described with an absolute risk of IHPS of 5 . 1 % for infants who took erythromycin for 8 - 14 days and 10 % for infants who took erythromycin for 15 - 21 days . 4 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity ( such as pertussis or neonatal Chlamydia trachomatis infections ) , the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS .
+Parents should be informed to contact their physician if vomiting or irritability with feeding occurs .
+Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi .
+If superinfection occurs , erythromycin should be discontinued and appropriate therapy instituted .
+When indicated , incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy .
+Information for Patients Patients should be counseled that antibacterial drugs including ERY - TAB should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When ERY - TAB is prescribed to treat a bacterial infection , patients should be told thatalthough it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by ERY - TAB or other antibacterial drugs in the future .
+Drug Interactions Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase in serum theophylline levels and potential theophylline toxicity .
+In case of theophylline toxicity and / or elevated serum theophylline levels , the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy .
+Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels .
+There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly .
+Increased anticoagulation effects due to interactions of erythromycin with oral anticoagulants may be more pronounced in the elderly .
+Erythromycin is a substrate and inhibitor of the 3 A isoform subfamily of the cytochrome p450 enzyme system ( CYP3A ) .
+Coadministration of erythromycin and a drug primarily metabolized by CYP3A may be associated with elevations in drug concentrations that could increase or prolong both the therapeutic and adverse effects of the concomitant drug .
+Dosage adjustments may be considered , and when possible , serum concentrations of drugs primarily metabolized by CYP3A should be monitored closely in patients concurrently receiving erythromycin .
+The following are examples of some clinically significant CYP3A based drug interactions .
+Interactions with other drugs metabolized by the CYP3A isoform are also possible .
+The following CYP3A based drug interactions have been observed with erythromycin products in post - marketing experience : Ergotamine / dihydroergotamine Concurrent use of erythromycin and ergotamine or dihydroergotamine has been associated in some patients with acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia .
+Triazolobenzodiazepines ( such as triazolam and alprazolam ) and Related Benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam , and thus , may increase the pharmacologic effect of these benzodiazepines .
+HMG - CoA Reductase Inhibitors Erythromycin has been reported to increase concentrations of HMG - CoA reductase inhibitors ( e . g . , lovastatin and simvastatin ) .
+Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly .
+Sildenafil ( Viagra ) Erythromycin has been reported to increase the systemic exposure ( AUC ) of sildenafil .
+Reduction of sildenafil dosage should be considered .
+( See Viagra package insert . )
+There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine , carbamazepine , tacrolimus , alfentanil , disopyramide , rifabutin , quinidine , methylprednisolone , cilostazol , vinblastine , and bromocriptine .
+Concomitant administration of erythromycin with cisapride , pimozide , astemizole , or terfenadine is contraindicated .
+( See CONTRAINDICATIONS . )
+In addition , there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A , including hexobarbital , phenytoin , and valproate .
+Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly .
+Rare cases of serious cardiovascular adverse events , including electrocardiographic QT / QTc interval prolongation , cardiac arrest , torsades de pointes , and other ventricular arrhythmias have been observed .
+( See CONTRAINDICATIONS . )
+In addition , deaths have been reported rarely with concomitant administration of terfenadine and erythromycin .
+There have been post - marketing reports of drug interactions when erythromycin was coadministered with cisapride , resulting in QT prolongation , cardiac arrhythmias , ventricular tachycardia , ventricular fibrillation , and torsades de pointes most likely due to the inhibition of hepatic metabolism of cisapride by erythromycin .
+Fatalities have been reported .
+( See CONTRAINDICATIONS . )
+Drug / Laboratory Test Interactions Erythromycin interferes with the fluorometric determination of urinary catecholamines .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Long - term ( 2 - year ) oral studies conducted in rats with erythromycin base did not provide evidence of tumorigenicity .
+Mutagenicity studies have not been conducted .
+There was no apparent effect on male or female fertility in rats fed erythromycin ( base ) at levels up to 0 . 25 percent of diet .
+Pregnancy Teratogenic effects Pregnancy Category B There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base ( up to 0 . 25 percent of diet ) prior to and during mating , during gestation , and through weaning of two successive litters .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+Labor and Delivery The effect of erythromycin on labor and delivery is unknown .
+Nursing Mothers Erythromycin is excreted in human milk .
+Caution should be exercised when erythromycin is administered to a nursing woman .
+Pediatric Use See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION .
+ADVERSE REACTIONS The most frequent side effects of oral erythromycin preparations are gastrointestinal and are dose - related .
+They include nausea , vomiting , abdominal pain , diarrhea and anorexia .
+Symptoms of hepatitis , hepatic dysfunction and / or abnormal liver function test results may occur .
+( See WARNINGS . )
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment .
+( See WARNINGS . )
+Erythromycin has been associated with QT prolongation and ventricular arrhythmias , including ventricular tachycardia and torsades de pointes .
+Allergic reactions ranging from urticaria to anaphylaxis have occurred .
+Skin reactions ranging from mild eruptions to erythema multiforme , Stevens - Johnson syndrome , and toxic epidermal necrolysis have been reported rarely .
+There have been rare reports of pancreatitis and convulsions .
+There have been isolated reports of reversible hearing loss occurring chiefly in patients with renal insufficiency and in patients receiving high doses of erythromycin .
+OVERDOSAGE In case of overdosage , erythromycin should be discontinued .
+Overdosage should be handled with the prompt elimination of unabsorbed drug and all other appropriate measures should be instituted .
+Erythromycin is not removed by peritoneal dialysis or hemodialysis .
+DOSAGE AND ADMINISTRATION In most patients , ERY - TAB ( erythromycin delayed - release tablets ) are well absorbed and may be given without regard to meals .
+Adults The usual dose is 250 mg four times daily in equally spaced doses .
+The 333 mg tablet is recommended if dosage is desired every 8 hours .
+If twice - a - day dosage is desired , the recommended dose is 500 mg every 12 hours .
+Dosage may be increased up to 4 g per day according to the severity of the infection .
+However , twice - a - day dosing is not recommended when doses larger than 1 g daily are administered .
+Children Age , weight , and severity of the infection are important factors in determining the proper dosage .
+The usual dosage is 30 to 50 mg / kg / day , in equally divided doses .
+For more severe infections , this dose may be doubled but should not exceed 4 g per day .
+In the treatment of streptococcal infections of the upper respiratory tract ( e . g . , tonsillitis or pharyngitis ) , the therapeutic dosage of erythromycin should be administered for at least ten days .
+The American Heart Association suggests a dosage of 250 mg of erythromycin orally , twice a day in long - term prophylaxis of streptococcal upper respiratory tract infections for the prevention of recurring attacks of rheumatic fever in patients allergic to penicillin and sulfonamides . 3 Conjunctivitis of the Newborn Caused by Chlamydia trachomatis Oral erythromycin suspension 50 mg / kg / day in 4 divided doses for at least 2 weeks . 3 Pneumonia of Infancy Caused by Chlamydia trachomatis Although the optimal duration of therapy has not been established , the recommended therapy is oral erythromycin suspension 50 mg / kg / day in 4 divided doses for at least 3 weeks .
+Urogenital Infections During Pregnancy Due to Chlamydia trachomatis Although the optimal dose and duration of therapy have not been established , the suggested treatment is 500 mg of erythromycin by mouth four times a day or two erythromycin 333 mg tablets orally every 8 hours on an empty stomach for at least 7 days .
+For women who cannot tolerate this regimen , a decreased dose of one erythromycin 500 mg tablet orally every 12 hours , one 333 mg tablet orally every 8 hours or 250 mg by mouth four times a day should be used for at least 14 days . 5 For Adults With Uncomplicated Urethral , Endocervical , or Rectal Infections Caused by Chlamydia trachomatis , When Tetracycline is Contraindicated or Not Tolerated 500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least 7 days . 5 For Patients With Nongonococcal Urethritis Caused by Ureaplasma Urealyticum When Tetracycline is Contraindicated or Not Tolerated 500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least seven days . 5 Primary Syphilis 30 to 40 g given in divided doses over a period of 10 to 15 days .
+Acute Pelvic Inflammatory Disease Caused by N . Gonorrhoeae 500 mg Erythrocin Lactobionate - I . V . ( erythromycin lactobionate for injection , USP ) every 6 hours for 3 days , followed by 500 mg of erythromycin base orally every 12 hours , or 333 mg of erythromycin base orally every 8 hours for 7 days .
+Intestinal Amebiasis Adults 500 mg every 12 hours , 333 mg every 8 hours or 250 mg every 6 hours for 10 to 14 days .
+Children 30 to 50 mg / kg / day in divided doses for 10 to 14 days .
+Pertussis Although optimal dosage and duration have not been established , doses of erythromycin utilized in reported clinical studies were 40 to 50 mg / kg / day , given in divided doses for 5 to 14 days .
+Legionnaires ' Disease Although optimal dosage has not been established , doses utilized in reported clinical data were 1 to 4 grams daily in divided doses .
+Preoperative Prophylaxis for Elective Colorectal Surgery Listed below is an example of a recommended bowel preparation regimen .
+A proposed surgery time of 8 : 00 a . m . has been used .
+Pre - op Day 3 : Minimum residue or clear liquid diet .
+Bisacodyl , 1 tablet orally at 6 : 00 p . m . Pre - op Day 2 : Minimum residue or clear liquid diet .
+Magnesium sulfate , 30 mL , 50 % solution ( 15 g ) orally at 10 : 00 a . m . , 2 : 00 p . m . and 6 : 00 p . m . Enema at 7 : 00 p . m . and 8 : 00 p . m . Pre - op Day 1 : Clear liquid diet .
+Supplemental ( IV ) fluids as needed .
+Magnesium sulfate , 30 mL , 50 % solution ( 15 g ) orally at 10 : 00 a . m . and 2 : 00 p . m . Neomycin sulfate ( 1 . 0 g ) and erythromycin base ( two 500 mg tablets , three 333 mg tablets or four 250 mg tablets ) orally at 1 : 00 p . m . , 2 : 00 p . m . and 11 : 00 p . m . No enema .
+Day of Operation : Patient evacuates rectum at 6 : 30 a . m . for scheduled operation at 8 : 00 a . m . HOW SUPPLIED ERY - TAB ( erythromycin delayed - release tablets , USP ) are supplied as white oval enteric - coated tablets debossed on one side with the Abbott “ A ” logo , and on the other side with a two letter Abbo - Code designation , EH for the 333 mg tablets .
+333 mg tablets : bottles of 15 ( NDC 21695 - 457 - 15 ) , bottles of 21 ( NDC 21695 - 457 - 21 ) , and bottles of 30 ( NDC 21695 - 457 - 30 ) .
+Recommended Storage Store below 86 ° F ( 30 ° C ) .
+REFERENCES • National Committee for Clinical Laboratory Standards .
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically , Third Edition .
+Approved Standard NCCLS Document M7 - A3 , Vol .
+13 , No . 25 NCCLS , Villanova , PA , December 1993 .
+• National Committee for Clinical Laboratory Standards , Performance Standards for Antimicrobial Disk Susceptibility Tests , Fifth Edition .
+Approved Standard NCCLS Document M2 - A5 , Vol .
+13 , No . 24 NCCLS , Villanova , PA , December 1993 .
+• Committee on Rheumatic Fever , Endocarditis , and Kawasaki Disease of the Council on Cardiovascular Disease in the Young , the American Heart Association : Prevention of Rheumatic Fever .
+Circulation .
+78 ( 4 ) : 1082 - 1086 , October 1988 .
+• Honein , M . A . , et .
+al . : Infantile hypertrophic pyloric stenosis after pertussis prophylaxis with erythromycin : a case review and cohort study .
+The Lancet 1999 ; 354 ( 9196 ) : 2101 - 5 .
+• Data on file , Abbott Laboratories .
+333 mg and 500 mg tablets - U . S . Pat .
+No . 4 , 340 , 582 Abbott Laboratories North Chicago , IL 60064 , U . S . A . Repackaged by : Rebel Distributors Corp Thousand Oaks , CA 91320 Principal Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ]

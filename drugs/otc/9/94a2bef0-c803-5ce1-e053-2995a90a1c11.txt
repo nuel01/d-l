@@ -1,0 +1,235 @@
+Rx only To reduce the development of drug - resistant bacteria and maintain the effectiveness of Vancomycin Hydrochloride for Injection , USP and other antibacterial drugs , Vancomycin Hydrochloride for Injection , USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria .
+DESCRIPTION : Vancomycin Hydrochloride for Injection , USP is a lyophilized powder , for preparing intravenous ( IV ) infusions , in vials each containing the equivalent of 1 g vancomycin base .
+500 mg of the base are equivalent to 0 . 34 mmol .
+When reconstituted with Sterile Water for Injection to a concentration of 50 mg / mL , the pH of the solution is between 2 . 5 and 4 . 5 .
+Vancomycin Hydrochloride for Injection , USP should be administered intravenously in diluted solution ( see DOSAGE AND ADMINISTRATION ) .
+FURTHER DILUTION IS REQUIRED BEFORE USE .
+Vancomycin is a tricyclic glycopeptide antibiotic derived from Amycolatopasis orientalis ( formerly Nocardia orientalis ) .
+Vancomycin hydrochloride has the following structural formula : [ MULTIMEDIA ] C 66 H 75 Cl 2 N 9 O 24 • HCl M . W . 1485 . 73 [ MULTIMEDIA ] CLINICAL PHARMACOLOGY : Vancomycin is poorly absorbed after oral administration .
+In subjects with normal kidney function , multiple IV dosing of 1 g of vancomycin ( 15 mg / kg ) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg / mL immediately at the completion of infusion , mean plasma concentrations of approximately 23 mcg / mL two hours after infusion , and mean plasma concentrations of approximately 8 mcg / mL 11 hours after the end of the infusion .
+Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg / mL at the completion of infusion , mean plasma concentrations of about 19 mcg / mL two hours after infusion , and mean plasma concentrations of about 10 mcg / mL six hours after infusion .
+The plasma concentrations during multiple dosing are similar to those after a single dose .
+The mean elimination half - life of vancomycin from plasma is four to six hours in subjects with normal renal function .
+In the first 24 hours , about 75 % of an administered dose of vancomycin is excreted in urine by glomerular filtration .
+Mean plasma clearance is about 0 . 058 L / kg / hr , and mean renal clearance is about 0 . 048 L / kg / hr .
+Renal dysfunction slows excretion of vancomycin .
+In anephric patients , the average half - life of elimination is 7 . 5 days .
+The distribution coefficient is from 0 . 3 to 0 . 43 L / kg .
+There is no apparent metabolism of the drug .
+About 60 % of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in six hours .
+Serum concentrations of about 10 mcg / mL are achieved by intraperitoneal injection of 30 mg / kg of vancomycin .
+Vancomycin is not effectively removed by either hemodialysis or peritoneal dialysis ; there have been no reports of vancomycin clearance with hemoperfusion .
+Total systemic and renal clearance of vancomycin may be reduced in the elderly .
+Vancomycin is approximately 55 % serum protein bound as measured by ultrafiltration at vancomycin serum concentrations of 10 to 100 mcg / mL .
+After IV administration of vancomycin inhibitory concentrations are present in pleural , pericardial , ascitic and synovial fluids ; in urine ; in peritoneal dialysis fluid ; and in atrial appendage tissue .
+Vancomycin does not readily diffuse across normal meninges into the spinal fluid ; but , when the meninges are inflamed , penetration into the spinal fluid occurs .
+Microbiology The bactericidal action of vancomycin results primarily from inhibition of cell - wall biosynthesis .
+In addition , vancomycin alters bacterial - cell - membrane permeability and RNA synthesis .
+There is no cross - resistance between vancomycin and other antibiotics .
+Vancomycin is not active in vitro against gram - negative bacilli , mycobacteria , or fungi .
+Synergy The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus , Streptococcus bovis , enterococci , and the viridans group streptococci .
+Vancomycin has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections as described in INDICATIONS AND USAGE .
+Aerobic gram - positive microorganisms Diphtheroids Enterococci ( e . g . , Enterococcus faecalis ) Staphylococci , including Staphylococcus aureus and Staphylococcus epidermidis ( including heterogeneous methicillin - resistant strains ) Streptococcus bovis Viridans group streptococci The following in vitro data are available , but their clinical significance is unknown .
+Vancomycin exhibits in vitro MICs of 1 mcg / mL or less against most ( ≥ 90 % ) strains of streptococci listed below and MICs of 4 mcg / mL or less against most ( ≥ 90 % ) strains of other listed microorganisms ; however , the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Aerobic gram - positive microorganisms Listeria monocytogenes Streptococcus pyogenes Streptococcus pneumoniae ( including penicillin - resistant strains ) Streptococcus agalactiae Anaerobic gram - positive microorganisms Actinomyces species Lactobacillus species Susceptibility Tests Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations ( MICs ) .
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds .
+The MICs should be determined using a standardized procedure .
+Standardized procedures are based on a dilution method 1 ( broth or agar ) or equivalent with standardized inoculum concentrations and standardized concentrations of vancomycin powder .
+The MIC values should be interpreted according to the following criteria : For testing aerobic microorganisms a other than streptococci : MIC ( mcg / mL ) Interpretation ≤ 4 Susceptible ( S ) 8 to 16 Intermediate ( I ) ≥ 32 Resistant ( R ) a A ß - lactamase test using an inoculum ≥ 10 7 CFU / mL ( or direct colony growth ) and a nitrocefin - based substrate should be performed to detect either ampicillin or penicillin resistance among enterococci due to ß - lactamase production .
+For testing streptococci a other than Streptococcus pneumoniae : MIC ( mcg / mL ) Interpretation ≤ 1 Susceptible ( S ) a Interpretative criteria applicable only to tests performed by broth microdilution method using cation - adjusted Mueller - Hinton broth with 2 to 5 % lysed horse blood 1 .
+The current absence of data on resistant strains precludes defining any categories other than “ Susceptible ” .
+Strains yielding MIC results suggestive of a “ nonsusceptible ” category should be submitted to a reference laboratory for further testing .
+A report of “ Susceptible ” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable .
+A report of “ Intermediate ” indicates that the result should be considered equivocal , and , if the microorganism is not fully susceptible to alternative , clinically feasible drugs , the test should be repeated .
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used .
+This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation .
+A report of “ Resistant ” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable ; other therapy should be selected .
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures .
+Standard vancomycin powder should provide the following MIC values : Microorganism MIC ( mcg / mL ) Enterococcus faecalis ATCC 29212 1 to 4 Staphylococcus aureus ATCC 29213 0 . 5 to 2 Streptococcus pneumoniaea ATCC 49619 0 . 12 to 0 . 5 a Interpretative criteria applicable only to tests performed by broth microdilution method using cation - adjusted Mueller - Hinton broth with 2 to 5 % lysed horse blood 1 .
+Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds .
+One such standardized procedure 2 requires the use of standardized inoculum concentrations .
+This procedure uses paper disks impregnated with 30 - mcg vancomycin to test the susceptibility of microorganisms to vancomycin .
+Reports from the laboratory providing results of the standard single - disk susceptibility test with a 30 - mcg vancomycin disk should be interpreted according to the following criteria : For testing aerobic microorganisms other than enterococci and streptococci : Zone Diameter ( mm ) Interpretation ≥ 15 Susceptible ( S ) - Intermediate ( I ) - Resistant ( R ) For testing enterococci a , b : Zone Diameter ( mm ) Interpretation ≥ 17 Susceptible ( S ) 15 to 16 Intermediate ( I ) ≤ 14 Resistant ( R ) a A direct nitrocefin - based ß - lactamase test using direct colony growth should be performed to detect either ampicillin or penicillin resistance among enterococci due to ß - lactamase production .
+b When testing for enterococci resistance to vancomycin , plates should be held for a full 24 hours and examined using transmitted light .
+The presence of a haze or any growth within the zone of inhibition indicates resistance .
+Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method 1 ( broth or agar ) or equivalent .
+For testing streptococci a other than Streptococcus pneumoniae : Zone Diameter ( mm ) Interpretation ≥ 17 Susceptible ( S ) a Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller - Hinton agar with 5 % defibrinated sheep blood and incubated in 5 % CO 22 .
+The current absence of data on resistant strains precludes defining any categories other than “ Susceptible ” .
+Strains yielding zone diameter results suggestive of a “ nonsusceptible ” category should be submitted to a reference laboratory for further testing .
+Interpretation should be as stated above for results using dilution techniques .
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for vancomycin .
+As with standardized dilution techniques , diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures .
+For the diffusion technique , the 30 - mcg vancomycin disk should provide the following zone diameters in these laboratory test quality control strains : Microorganism Zone Diameter ( mm ) Staphylococcus aureus ATCC 25923 17 to 21 Streptococcus pneumoniaea ATCC 49619 20 to 27 a Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller - Hinton agar with 5 % defibrinated sheep blood and incubated in 5 % CO 22 .
+INDICATIONS AND USAGE : To reduce the development of drug - resistant bacteria and maintain the effectiveness of Vancomycin Hydrochloride for Injection , USP and other antibacterial drugs , vancomycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+Vancomycin Hydrochloride for Injection , USP is indicated for the treatment of serious or severe infections caused by susceptible strains of methicillin - resistant ( β - lactam - resistant ) staphylococci .
+It is indicated for penicillin - allergic patients , for patients who cannot receive or who have failed to respond to other drugs , including the penicillins or cephalosporins , and for infections caused by vancomycin - susceptible organisms that are resistant to other antimicrobial drugs .
+Vancomycin is indicated for initial therapy when methicillin - resistant staphylococci are suspected , but after susceptibility data are available , therapy should be adjusted accordingly .
+Vancomycin is effective in the treatment of staphylococcal endocarditis .
+Its effectiveness has been documented in other infections due to staphylococci , including septicemia , bone infections , lower respiratory tract infections , and skin and skin - structure infections .
+When staphylococcal infections are localized and purulent , antibiotics are used as adjuncts to appropriate surgical measures .
+Vancomycin has been reported to be effective alone or in combination with an aminoglycoside for endocarditis caused by S . viridans or S . bovis .
+For endocarditis caused by enterococci ( e . g . , E . faecalis ) , vancomycin has been reported to be effective only in combination with an aminoglycoside .
+Vancomycin has been reported to be effective for the treatment of diphtheroid endocarditis .
+Vancomycin has been used successfully in combination with either rifampin , an aminoglycoside , or both in early - onset prosthetic valve endocarditis caused by S . epidermidis or diphtheroids .
+Specimens for bacteriologic cultures should be obtained in order to isolate and identify causative organisms and to determine their susceptibilities to vancomycin .
+The parenteral form of vancomycin may be administered orally for treatment of antibiotic - associated pseudomembranous colitis produced by C . difficile and for staphylococcal enterocolitis .
+Parenteral administration of vancomycin hydrochloride alone is of unproven benefit for these indications .
+Vancomycin is not effective by the oral route for other types of infection .
+CONTRAINDICATIONS : Vancomycin is contraindicated in patients with known hypersensitivity to this antibiotic .
+WARNINGS : Rapid bolus administration ( e . g . , over several minutes ) may be associated with exaggerated hypotension and , rarely , cardiac arrest .
+Vancomycin should be administered in a diluted solution over a period of not less than 60 minutes to avoid rapid - infusion - related reactions .
+Stopping the infusion usually results in a prompt cessation of these reactions .
+Ototoxicity has occurred in patients receiving vancomycin .
+It may be transient or permanent .
+It has been reported mostly in patients who have been given excessive doses , who have an underlying hearing loss , or who are receiving concomitant therapy with another ototoxic agent such as an aminoglycoside .
+Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high , prolonged blood concentrations .
+Dosage of vancomycin must be adjusted for patients with renal dysfunction ( see PRECAUTIONSand DOSAGE AND ADMINISTRATION ) .
+Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including vancomycin , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+PRECAUTIONS : General Prescribing vancomycin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Clinically significant serum concentrations have been reported in some patients being treated for active C . difficile - induced pseudomembranous colitis after multiple oral doses of vancomycin .
+Prolonged use of vancomycin may result in the overgrowth of nonsusceptible organisms .
+Careful observation of the patient is essential .
+If superinfection occurs during therapy , appropriate measures should be taken .
+In rare instances , there have been reports of pseudomembranous colitis due to C . difficile developing in patients who received IV vancomycin .
+In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside , serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules ( see DOSAGE AND ADMINISTRATION ) .
+Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity .
+Reversible neutropenia has been reported in patients receiving vancomycin ( see ADVERSE REACTIONS ) .
+Patients who will undergo prolonged therapy with vancomycin or those who are receiving concomitant drugs which may cause neutropenia should have periodic monitoring of the leukocyte count .
+Vancomycin is irritating to tissue and must be given by a secure IV route of administration .
+Pain , tenderness and necrosis occur with intramuscular ( IM ) injection of vancomycin or with inadvertent extravasation .
+Thrombophlebitis may occur , the frequency and severity of which can be minimized by administering the drug slowly as a dilute solution ( 2 . 5 to 5 g / L ) and by rotating the sites of infusion .
+There have been reports that the frequency of infusion - related events ( including hypotension , flushing , erythema , urticaria and pruritus ) increases with the concomitant administration of anesthetic agents .
+Infusion - related events may be minimized by the administration of vancomycin as a 60 - minute infusion prior to anesthetic induction .
+The safety and efficacy of vancomycin administration by the intraperitoneal and intrathecal ( intralumbar or intraventricular ) routes have not been assessed .
+Although the safety and efficacy of vancomycin by the intraperitoneal route have not been established , reports reveal that the product has been given by this route during peritoneal dialysis .
+Administration of vancomycin by the intraperitoneal route during continuous ambulatory peritoneal dialysis has resulted in over 50 reports of chemical peritonitis that developed in some patients within the 12 - hour period after administration .
+To date , all have been self - limited and ranged from cloudy dialysate alone to severe abdominal pain and fever .
+Most cloudy dialysates were sterile and some contained increased numbers of white blood cells and polymorphonuclear cells .
+Fluids usually cleared promptly after discontinuation of the vancomycin .
+Information for Patients Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible .
+Patients should be counseled that antibacterial drugs including vancomycin should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When vancomycin is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin or other antibacterial drugs in the future .
+Drug Interactions Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine - like flushing ( see Pediatric Use ) and anaphylactoid reactions ( see ADVERSE REACTIONS ) .
+Concurrent and / or sequential systemic or topical use of other potentially , neurotoxic and / or nephrotoxic drugs , such as amphotericin B , aminoglycosides , bacitracin , polymyxin B , colistin , viomycin , or cisplatin , when indicated requires careful monitoring .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Although no long - term studies in animals have been performed to evaluate carcinogenic potential , no mutagenic potential of vancomycin was found in standard laboratory tests .
+No definitive fertility studies have been performed .
+Pregnancy Teratogenic Effects : Pregnancy Category C In a controlled clinical study , vancomycin was administered to pregnant women for serious staphylococcal infections that were complications of their IV drug abuse to evaluate potential ototoxic and nephrotoxic effects on the infant .
+Vancomycin was found in cord blood .
+No sensorineural hearing loss or nephrotoxicity attributable to vancomycin was noted .
+One infant experienced conductive hearing loss that was not attributed to the administration of vancomycin .
+Because the number of patients treated in this study was limited and vancomycin was administered only in the second and third trimesters , it is not known whether vancomycin causes fetal harm .
+Nursing Mothers Vancomycin is excreted in human milk .
+Caution should be exercised when vancomycin is administered to a nursing woman .
+Because of the potential for adverse events , a decision should be made whether to discontinue nursing or discontinue the drug , taking into account the importance of the drug to the mother .
+Pediatric Use In premature neonates and young infants , it may be appropriate to confirm desired vancomycin serum concentrations .
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine - like flushing in pediatric patients ( see ADVERSE REACTIONS ) .
+Geriatrics The natural decrement of glomerular filtration with increasing age may lead to elevated vancomycin serum concentrations if dosage is not adjusted .
+Vancomycin dosage schedules should be adjusted in elderly patients ( see DOSAGE AND ADMINISTRATION ) .
+ADVERSE REACTIONS : Infusion - Related Events During or soon after rapid infusion of vancomycin , patients may develop anaphylactoid reactions , including hypotension ( see ANIMAL PHARMACOLOGY ) , wheezing , dyspnea , urticaria , or pruritus .
+Rapid infusion may also cause flushing of the upper body ( “ red neck ” ) or pain and muscle spasm of the chest and back .
+These reactions usually resolve within 20 minutes but may persist for several hours .
+Such events are infrequent if vancomycin is given by a slow infusion over 60 minutes .
+In studies of normal volunteers , infusion - related events did not occur when vancomycin was administered at a rate of 10 mg / min or less .
+Nephrotoxicity Renal failure , principally manifested by increased serum creatinine or BUN concentrations , especially in patients administered large doses of vancomycin , has been reported rarely .
+Cases of interstitial nephritis have also been reported rarely .
+Most of these have occurred in patients who were given aminoglycosides concomitantly or who had pre - existing kidney dysfunction .
+When vancomycin was discontinued , azotemia resolved in most patients .
+Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment ( see WARNINGS ) .
+Ototoxicity A few dozen cases of hearing loss associated with vancomycin have been reported .
+Most of these patients had kidney dysfunction or a pre - existing hearing loss or were receiving concomitant treatment with an ototoxic drug .
+Vertigo , dizziness , and tinnitus have been reported rarely .
+Hematopoietic Reversible neutropenia , usually starting 1 week or more after onset of therapy with vancomycin or after a total dosage of more than 25 g , has been reported for several dozen patients .
+Neutropenia appears to be promptly reversible when vancomycin is discontinued .
+Thrombocytopenia has rarely been reported .
+Although a causal relationship has not been established , reversible agranulocytosis ( granulocytes < 500 / mm 3 ) has been reported rarely .
+Phlebitis Inflammation at the injection site has been reported .
+Miscellaneous Infrequently , patients have been reported to have had anaphylaxis , drug fever , nausea , chills , eosinophilia , rashes including exfoliative dermatitis , Stevens - Johnson syndrome , toxic epidermal necrolysis and vasculitis in association with administration of vancomycin .
+Chemical peritonitis has been reported following intraperitoneal administration of vancomycin ( see PRECAUTIONS ) .
+Post Marketing Reports The following adverse reactions have been identified during post - approval use of vancomycin .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Skin and Subcutaneous Tissue Disorders Drug Rash with Eosinophilia and Systemic Symptoms ( DRESS ) OVERDOSAGE : Supportive care is advised , with maintenance of glomerular filtration .
+Vancomycin is poorly removed by dialysis .
+Hemofiltration and hemoperfusion with polysulfone resin have been reported to result in increased vancomycin clearance .
+The median lethal intravenous dose is 319 mg / kg in rats and 400 mg / kg in mice .
+To obtain up - to - date information about the treatment of overdose , a good resource is your certified Regional Poison Control Center .
+Telephone numbers of certified poison control centers are listed in the Physicians ’ Desk Reference ( PDR ) .
+In managing overdosage , consider the possibility of multiple drug overdoses , interaction among drugs and unusual drug kinetics in your patient .
+DOSAGE AND ADMINISTRATION : Infusion - related events are related to both the concentration and the rate of administration of vancomycin .
+Concentrations of no more than 5 mg / mL and rates of no more than 10 mg / min are recommended in adults ( see also age - specific recommendations ) .
+In selected patients in need of fluid restriction , a concentration up to 10 mg / mL may be used ; use of such higher concentrations may increase the risk of infusion - related events .
+Infusion - related events may occur , however , at any rate or concentration .
+Patients with Normal Renal Function Adults The usual daily dose is 2 g divided either as 500 mg every six hours or 1 g every 12 hours .
+Each dose should be administered at no more than 10 mg / min , or over a period of at least 60 minutes , whichever is longer .
+Other patients factors , such as age or obesity , may call for modification of the usual intravenous daily dose .
+Children The usual intravenous dosage of vancomycin is 10 mg / kg per dose given every 6 hours .
+Each dose should be administered over a period of at least 60 minutes .
+Infants and Neonates In neonates and young infants , the total daily IV dosage may be lower .
+In both neonates and infants , an initial dose of 15 mg / kg is suggested , followed by 10 mg / kg every 12 hours for neonates in the first week of life and every eight hours thereafter up to the age of one month .
+Each dose should be administered over 60 minutes .
+Close monitoring of serum concentrations of vancomycin may be warranted in these patients .
+Patients with Impaired Renal Function and Elderly Patients Dosage adjustment must be made in patients with impaired renal function .
+In premature infants and the elderly , greater dosage reductions than expected may be necessary because of decreased renal function .
+Measurement of vancomycin serum concentrations can be helpful in optimizing therapy , especially in seriously ill patients with changing renal function .
+Vancomycin serum concentrations can be determined by use of microbiologic assay , radioimmunoassay , fluorescence polarization immunoassay , fluorescence immunoassay or high - pressure liquid chromatography .
+If creatinine clearance can be measured or estimated accurately , the dosage for most patients with renal impairment can be calculated using the following table .
+The dosage of vancomycin per day in mg is about 15 times the glomerular filtration rate in mL / min ( see following table ) .
+DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION ( Adapted from Moellering et al . 3 ) Creatinine Clearance Vancomycin Dose _______ mL / min mg / 24 hr _____ 100 1 , 545 90 1 , 390 80 1 , 235 70 1 , 080 60 925 50 770 40 620 30 465 20 310 10 155 The initial dose should be no less than 15 mg / kg , even in patients with mild to moderate renal insufficiency .
+The table is not valid for functionally anephric patients .
+For such patients , an initial dose of 15 mg / kg of body weight should be given to achieve prompt therapeutic serum concentrations .
+The dose required to maintain stable concentrations is 1 . 9 mg / kg / 24 hr .
+In patients with marked renal impairment , it may be more convenient to give maintenance doses of 250 to 1 , 000 mg once every several days rather than administering the drug on a daily basis .
+In anuria , a dose of 1 , 000 mg every 7 to 10 days has been recommended .
+When only serum creatinine is known , the following formula ( based on sex , weight and age of the patient ) may be used to calculate creatinine clearance .
+Calculated creatinine clearances ( mL / min ) are only estimates .
+The creatinine clearance should be measured promptly .
+Men : Weight ( kg ) x ( 140 – age in years ) 72 x serum creatinine concentration ( mg / dL ) Women : 0 . 85 x above value The serum creatinine must represent a steady state of renal function or the estimated value for creatinine clearance will not be valid .
+Such a calculated clearance is an overestimate of actual clearance in patients with conditions : ( 1 ) characterized by decreasing renal function , such as shock , severe heart failure or oliguria ; ( 2 ) in which a normal relationship between muscle mass and total body weight is not present , such as in obese patients or those with liver disease , edema , or ascites ; and ( 3 ) accompanied by debilitation , malnutrition or inactivity .
+The safety and efficacy of vancomycin administration by the intrathecal ( intralumbar or intraventricular ) route have not been assessed .
+Intermittent infusion is the recommended method of administration .
+Preparation and Stability At the time of use , reconstitute vials of vancomycin with Sterile Water for Injection , USP to a concentration of 50 mg of vancomycin / mL .
+( See following table for volume of diluent . )
+Concentration / Vial Volume of Diluent 1 g 20 mL After reconstitution , the vials may be stored in a refrigerator for 96 hours without significant loss of potency .
+Reconstituted solutions of vancomycin ( 1 g / 20 mL ) must be further diluted in at least 200 mL of a suitable infusion solution .
+The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes .
+Compatibility with Other Drugs and IV Fluids The following diluents are physically and chemically compatible ( with 4 g / L vancomycin hydrochloride ) : 5 % Dextrose Injection , USP 5 % Dextrose Injection and 0 . 9 % Sodium Chloride Injection , USP Lactated Ringer ’ s Injection , USP 5 % Dextrose and Lactated Ringer ’ s Injection Normosol ® - M and 5 % Dextrose 0 . 9 % Sodium Chloride Injection , USP Isolyte ® E Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible .
+Vancomycin solution has a low pH and may cause physical instability of other compounds .
+Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration , whenever solution and container permit .
+For Oral Administration Oral vancomycin is used in treating antibiotic - associated pseudomembranous colitis caused by C . difficile and for staphylococcal enterocolitis .
+Vancomycin is not effective by the oral route for other types of infections .
+The usual adult total daily dosage is 500 mg to 2 g given in 3 or 4 divided doses for 7 to 10 days .
+The total daily dose in children is 40 mg / kg of body weight in 3 or 4 divided doses for 7 to 10 days .
+The total daily dosage should not exceed 2 g .
+The appropriate dose may be diluted in 1 oz of water and given to the patient to drink .
+Common flavoring syrups may be added to the solution to improve the taste for oral administration .
+The diluted solution may be administered via a nasogastric tube .
+HOW SUPPLIED : Product No .
+NDC No .
+28421 63323 - 284 - 21 Vancomycin Hydrochloride for Injection , USP equivalent to 1 g vancomycin in a 20 mL flip - top vial , in packages of 10 .
+Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP Controlled Room Temperature ] .
+The container closure is not made with natural rubber latex .
+ANIMAL PHARMACOLOGY : In animal studies , hypotension and bradycardia occurred in dogs receiving an intravenous infusion of vancomycin , 25 mg / kg , at a concentration of 25 mg / mL and an infusion rate of 13 . 3 mL / min .
+REFERENCES : • National Committee for Clinical Laboratory Standards .
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically — Fourth Edition .
+Approved Standard NCCLS Document M7 - A4 , Vol .
+17 , No . 2 , NCCLS , Wayne , PA , January , 1997 .
+• National Committee for Clinical Laboratory Standards .
+Performance Standards for Antimicrobial Disk Susceptibility Tests — Sixth Edition .
+Approved Standard NCCLS Document M2 - A6 , Vol .
+17 , No . 1 , NCCLS , Wayne , PA , January , 1997 .
+• Moellering , R . C . , Krogstad , D . J . , and Greenblatt , D . J . : Vancomycin Therapy in Patients with Impaired Renal Function : A Nomogram for Dosage , Ann .
+Intern .
+Med . , 94 : 343 , 1981 .
+[ MULTIMEDIA ] Lake Zurich , IL 60047 www . fresenius - kabi . us 451476 Issued : October 2015 [ MULTIMEDIA ] PACKAGE LABEL – PRINCIPAL DISPLAY – Vancomycin Hydrochloride 1 g Vial Label NDC 63323 - 284 - 21 28421 VANCOMYCIN HYDROCHLORIDE FOR INJECTION , USP equivalent to 1 g per vial Vancomycin For Intravenous Use Rx only Must be Further Diluted Before Use [ MULTIMEDIA ] [ MULTIMEDIA ]

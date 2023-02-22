@@ -1,0 +1,537 @@
+BLEEDING WARNING : Warfarin sodium can cause major or fatal bleeding .
+Bleeding is more likely to occur during the starting period and with a higher dose ( resulting in a higher INR ) .
+Risk factors for bleeding include high intensity of anticoagulation ( INR > 4 . 0 ) , age ≥ 65 , highly variable INRs , history of gastrointestinal bleeding , hypertension , cerebrovascular disease , serious heart disease , anemia , malignancy , trauma , renal insufficiency , concomitant drugs ( see PRECAUTIONS ) , and long duration of warfarin therapy .
+Regular monitoring of INR should be performed on all treated patients .
+Those at high risk of bleeding may benefit from more frequent INR monitoring , careful dose adjustment to desired INR , and a shorter duration of therapy .
+Patients should be instructed about prevention measures to minimize risk of bleeding and to report immediately to physicians signs and symptoms of bleeding ( see PRECAUTIONS : Information for Patients ) .
+DESCRIPTION Crystalline warfarin sodium is an anticoagulant which acts by inhibiting vitamin K - dependent coagulation factors .
+Chemically , it is 3 - ( α - acetonylbenzyl ) - 4 - hydroxycoumarin sodium salt and is a racemic mixture of theR - andS - enantiomers .
+Crystalline warfarin sodium is an isopropanol clathrate .
+The crystallization of warfarin sodium virtually eliminates trace impurities present in amorphous warfarin .
+Its empirical formula is C19H15NaO4 , and its structural formula may be represented by the following : [ MULTIMEDIA ] Crystalline warfarin sodium occurs as a white , odorless , crystalline powder , is discolored by light and is very soluble in water ; freely soluble in alcohol ; very slightly soluble in chloroform and in ether .
+Warfarin Sodium Tablets , USP for oral use also contain : All strengths : Anhydrous lactose , corn starch and magnesium stearate 1 mg : D & C red # 6 Barium Lake .
+2 mg : FD & C blue # 2 Aluminum Lake , FD & C red # 40 Aluminum Lake .
+2 . 5 mg : FD & C blue # 2 Aluminum Lake , D & C yellow # 10 Aluminum Lake .
+3 mg : FD & C blue # 2 Aluminum Lake , FD & C red # 40 Aluminum Lake , D & C yellow # 10 Aluminum Lake .
+4 mg : FD & C blue # 1 Aluminum Lake .
+5 mg : D & C yellow # 10 Aluminum Lake , D & C red # 6 Barium Lake .
+6 mg : D & C yellow # 10 Aluminum Lake , FD & C blue # 2 Aluminum Lake .
+7 . 5 mg : D & C yellow # 10 Aluminum Lake .
+10 mg : Dye Free [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Warfarin sodium tablets , USP and other coumarin anticoagulants act by inhibiting the synthesis of vitamin K dependent clotting factors , which include Factors II , VII , IX and X , and the anticoagulant proteins C and S . Half - lives of these clotting factors are as follows : Factor II - 60 hours , VII - 4 - 6 hours , IX - 24 hours , and X - 48 - 72 hours .
+The half - lives of proteins C and S are approximately 8 hours and 30 hours , respectively .
+The resultantin vivoeffect is a sequential depression of Factor VII , Protein C , Factor IX , Protein S , and Factor X and II activities .
+Vitamin K is an essential cofactor for the post ribosomal synthesis of the vitamin K dependent clotting factors .
+The vitamin promotes the biosynthesis of γ - carboxyglutamic acid residues in the proteins which are essential for biological activity .
+Mechanism of Action Warfarin is thought to interfere with clotting factor synthesis by inhibition of the C1 subunit of the vitamin K epoxide reductase ( VKORC1 ) enzyme complex , thereby reducing the regeneration of vitamin K1 epoxide .
+The degree of depression is dependent upon the dosage administered and , in part , by the patient ' s VKORC1 genotype .
+Therapeutic doses of warfarin decrease the total amount of the active form of each vitamin K dependent clotting factor made by the liver by approximately 30 % to 50 % .
+An anticoagulation effect generally occurs within 24 hours after drug administration .
+However , peak anticoagulant effect may be delayed 72 to 96 hours .
+The duration of action of a single dose of racemic warfarin is 2 to 5 days .
+The effects of warfarin sodium tablets , USP may become more pronounced as effects of daily maintenance doses overlap .
+Anticoagulants have no direct effect on an established thrombus , nor do they reverse ischemic tissue damage .
+However , once a thrombus has occurred , the goal of anticoagulant treatment is to prevent further extension of the formed clot and prevent secondary thromboembolic complications which may result in serious and possibly fatal sequelae .
+Pharmacokinetics Warfarin sodium tablets , USP is a racemic mixture of theR - andS - enantiomers .
+TheS - enantiomer exhibits 2 - 5 times more anticoagulant activity than theR - enantiomer in humans , but generally has a more rapid clearance .
+Absorption Warfarin sodium tablets , USP is essentially completely absorbed after oral administration with peak concentration generally attained within the first 4 hours .
+Distribution There are no differences in the apparent volumes of distribution after intravenous and oral administration of single doses of warfarin solution .
+Warfarin distributes into a relatively small apparent volume of distribution of about 0 . 14 liter / kg .
+A distribution phase lasting 6 to 12 hours is distinguishable after rapid intravenous or oral administration of an aqueous solution .
+Using a one compartment model , and assuming complete bioavailability , estimates of the volumes of distribution of R - and S - warfarin are similar to each other and to that of the racemate .
+Concentrations in fetal plasma approach the maternal values , but warfarin has not been found in human milk ( seeWARNINGS - Lactation ) .
+Approximately 99 % of the drug is bound to plasma proteins .
+Metabolism The elimination of warfarin is almost entirely by metabolism .
+Warfarin sodium tablets , USP is stereoselectively metabolized by hepatic microsomal enzymes ( cytochrome P - 450 ) to inactive hydroxylated metabolites ( predominant route ) and by reductases to reduced metabolites ( warfarin alcohols ) .
+The warfarin alcohols have minimal anticoagulant activity .
+The metabolites are principally excreted into the urine ; and to a lesser extent into the bile .
+The metabolites of warfarin that have been identified include dehydrowarfarin , two diastereoisomer alcohols , 4 ' - , 6 - , 7 - , 8 - and 10 - hydroxywarfarin .
+The cytochrome P - 450 isozymes involved in the metabolism of warfarin include 2C9 , 2C19 , 2C8 , 2C18 , 1A2 , and 3A4 .
+2C9 is likely to be the principal form of human liver P - 450 which modulates the in vivo anticoagulant activity of warfarin .
+TheS - enantiomer of warfarin is mainly metabolized to 7 - hydroxywarfarin by CYP2C9 , a polymorphic enzyme .
+The variant alleles CYP2C9 * 2 and CYP2C9 * 3 result in decreased in vitro CYP2C9 enzymatic 7 - hydroxylation of S - warfarin .
+The frequencies of these alleles in Caucasians are approximately 11 % and 7 % for CYP2C9 * 2 and CYP2C9 * 3 , respectively1 .
+Patients with one or more of these variant CYP2C9 alleles have decreased S - warfarin clearance ( Table 1 ) . 2 Table 1 .
+Relationship Between S - Warfarin Clearance and CYP2C9 Genotype in Caucasian PatientsCYP2C9 Genotype N S - Warfarin Clearance / Lean Body Weight ( mL / min / kg ) Mean ( SD ) a aSD = standard deviation .
+bp < 0 . 001 .
+Pairwise comparisons indicated significant differences among all 3 genotypes .
+* 1 / * 1 118 0 . 065 ( 0 . 025 ) b * 1 / * 2 or * 1 / * 3 59 0 . 041 ( 0 . 021 ) b * 2 / * 2 , * 2 / * 3 , or * 3 / * 3 11 0 . 020 ( 0 . 011 ) b Total 188 Other CYP2C9 alleles associated with reduced enzymatic activity occur at lower frequencies , including * 5 , * 6 , and * 11 alleles in populations of African ancestry and * 5 , * 9 and * 11 alleles in Caucasians .
+Pharmacogenomics A meta - analysis of 9 qualified studies including 2775 patients ( 99 % Caucasian ) was performed to examine the clinical outcomes associated with CYP2C9 gene variants in warfarin - treated patients . 3 In this meta - analysis , 3 studies assessed bleeding risks and 8 studies assessed daily dose requirements .
+The analysis suggested an increased bleeding risk for patients carrying either the CYP2C9 * 2 or CYP2C9 * 3 alleles .
+Patients carrying at least one copy of the CYP2C9 * 2 allele required a mean daily warfarin dose that was 17 % less than the mean daily dose for patients homozygous for the CYP2C9 * 1 allele .
+For patients carrying at least one copy of the CYP2C9 * 3 allele , the mean daily warfarin dose was 37 % less than the mean daily dose for patients homozygous for the CYP2C9 * 1 allele .
+In an observational study , the risk of achieving INR > 3 during the first 3 weeks of warfarin therapy was determined in 219 Swedish patients retrospectively grouped by CYP2C9 genotype .
+The relative risk of over anticoagulation as measured by INR > 3 during the first 2 weeks of therapy was approximately doubled for those patients classified as * 2 or * 3 compared to patients who were homozygous for the * 1 allele . 4 Warfarin reduces the regeneration of vitamin K from vitamin K epoxide in the vitamin K cycle , through inhibition of vitamin K epoxide reductase ( VKOR ) , a multiprotein enzyme complex .
+Certain single nucleotide polymorphisms in the VKORC1 gene ( especially the – 1639 G > A allele ) have been associated with lower dose requirements for warfarin .
+In 201 Caucasian patients treated with stable warfarin doses , genetic variations in the VKORC1 gene were associated with lower warfarin doses .
+In this study , about 30 % of the variance in warfarin dose could be attributed to variations in the VKORC1 gene alone ; about 40 % of the variance in warfarin dose could be attributed to variations in VKORC1 and CYP2C9 genes combined .
+About 55 % of the variability in warfarin dose could be explained by the combination of VKORC1 and CYP2C9 genotypes , age , height , body weight , interacting drugs , and indication for warfarin therapy in Caucasian patients . 5 Similar observations have been reported in Asian patients . 6 , 7 Excretion The terminal half - life of warfarin after a single dose is approximately one week ; however , the effective half - life ranges from 20 to 60 hours , with a mean of about 40 hours .
+The clearance of R - warfarin is generally half that of S - warfarin , thus as the volumes of distribution are similar , the half - life of R - warfarin is longer than that of S - warfarin .
+The half - life of R - warfarin ranges from 37 to 89 hours , while that of S - warfarin ranges from 21 to 43 hours .
+Studies with radiolabeled drug have demonstrated that up to 92 % of the orally administered dose is recovered in urine .
+Very little warfarin is excreted unchanged in urine .
+Urinary excretion is in the form of metabolites .
+Elderly Patients 60 years or older appear to exhibit greater than expected PT / INR response to the anticoagulant effects of warfarin .
+The cause of the increased sensitivity to the anticoagulant effects of warfarin in this age group is unknown .
+This increased anticoagulant effect from warfarin may be due to a combination of pharmacokinetic and pharmacodynamic factors .
+Racemic warfarin clearance may be unchanged or reduced with increasing age .
+Limited information suggests there is no difference in the clearance of S - warfarin in the elderly versus young subjects .
+However , there may be a slight decrease in the clearance of R - warfarin in the elderly as compared to the young .
+Therefore , as patient age increases , a lower dose of warfarin is usually required to produce a therapeutic level of anticoagulation .
+Asians Asian patients may require lower initiation and maintenance doses of warfarin .
+One non - controlled study conducted in 151 Chinese outpatients reported a mean daily warfarin requirement of 3 . 3 ± 1 . 4 mg to achieve an INR of 2 to 2 . 5 .
+These patients were stabilized on warfarin for various indications .
+Patient age was the most important determinant of warfarin requirement in Chinese patients with a progressively lower warfarin requirement with increasing age .
+Renal Dysfunction Renal clearance is considered to be a minor determinant of anticoagulant response to warfarin .
+No dosage adjustment is necessary for patients with renal failure .
+Hepatic Dysfunction Hepatic dysfunction can potentiate the response to warfarin through impaired synthesis of clotting factors and decreased metabolism of warfarin .
+The administration of warfarin via the intravenous ( IV ) route should provide the patient with the same concentration of an equal oral dose , but maximum plasma concentration will be reached earlier .
+However , the full anticoagulant effect of a dose of warfarin may not be achieved until 72 - 96 hours after dosing , indicating that the administration of IV warfarin should not provide any increased biological effect or earlier onset of action .
+CLINICAL TRIALS Atrial Fibrillation ( AF ) In five prospective randomized controlled clinical trials involving 3711 patients with non - rheumatic AF , warfarin significantly reduced the risk of systemic thromboembolism including stroke ( See Table 2 ) .
+The risk reduction ranged from 60 % to 86 % in all except one trial ( CAFA : 45 % ) which stopped early due to published positive results from two of these trials .
+The incidence of major bleeding in these trials ranged from 0 . 6 to 2 . 7 % ( see table 2 ) .
+Meta - analysis findings of these studies revealed that the effects of warfarin in reducing thromboembolic events including stroke were similar at either moderately high INR ( 2 . 0 - 4 . 5 ) or low INR ( 1 . 4 - 3 . 0 ) .
+There was a significant reduction in minor bleeds at the low INR .
+Similar data from clinical studies in valvular atrial fibrillation patients are not available .
+TABLE 2 CLINICAL STUDIES OF WARFARIN IN NON - RHEUMATIC AF PATIENTS * Study N Thromboembolism % Major Bleeding Warfarin Treated Patients Control Patients PT Ratio INR % Risk Reduction p - value Warfarin Treated Patients Control Patients * All study results of warfarin vs . control are based on intention - to - treat analysis and include ischemic stroke and systemic thromboembolism , excluding hemorrhage , and transient ischemic attacks .
+AFASAK 335 336 1 . 5 - 2 . 0 2 . 8 - 4 . 2 60 0 . 027 0 . 6 0 . 0 SPAF 210 211 1 . 3 - 1 . 8 2 . 0 - 4 . 5 67 0 . 01 1 . 9 1 . 9 BAATAF 212 208 1 . 2 - 1 . 5 1 . 5 - 2 . 7 86 < 0 . 05 0 . 9 0 . 5 CAFA 187 191 1 . 3 - 1 . 6 2 . 0 - 3 . 0 45 0 . 25 2 . 7 0 . 5 SPINAF 260 265 1 . 2 - 1 . 5 1 . 4 - 2 . 8 79 0 . 001 2 . 3 1 . 5 Myocardial Infarction WARIS ( The Warfarin Re - Infarction Study ) was a double - blind , randomized study of 1214 patients 2 to 4 weeks post - infarction treated with warfarin to a target INR of 2 . 8 to 4 . 8 .
+[ But note that a lower INR was achieved and increased bleeding was associated with INR ' s above 4 . 0 ; ( see DOSAGE AND ADMINISTRATION . ) ]
+The primary endpoint was a combination of total mortality and recurrent infarction .
+A secondary endpoint of cerebrovascular events was assessed .
+Mean follow - up of the patients was 37 months .
+The results for each endpoint separately , including an analysis of vascular death , are provided in the following table : TABLE 3 Event Warfarin ( N = 607 ) Placebo ( N = 607 ) RR ( 95 % CI ) % Risk Reduction ( p - value ) RR = Relative risk ; Risk reduction = ( I - RR ) ; CI = Confidence Interval ; MI = Myocardial Infarction ; py = patient years Total Patient Years of Follow - up 2018 1944 Total Mortality 94 ( 4 . 7 / 100 py ) 123 ( 6 . 3 / 100 py ) 0 . 76 ( 0 . 60 , 0 . 97 ) 24 ( p = 0 . 030 ) Vascular Death 82 ( 4 . 1 / 100 py ) 105 ( 5 . 4 / 100 py ) 0 . 78 ( 0 . 60 , 1 . 02 ) 22 ( p = 0 . 068 ) Recurrent MI 82 ( 4 . 1 / 100 py ) 124 ( 6 . 4 / 100 py ) 0 . 66 ( 0 . 51 , 0 . 85 ) 34 ( p = 0 . 001 ) Cerebrovascular Event 20 ( 1 . 0 / 100 py ) 44 ( 2 . 3 / 100 py ) 0 . 46 ( 0 . 28 , 0 . 75 ) 54 ( p = 0 . 002 ) WARIS II ( The Warfarin , Aspirin , Re - Infarction Study ) was an open - label randomized study of 3630 patients hospitalized for acute myocardial infarction treated with warfarin target INR 2 . 8 to 4 . 2 , aspirin 160 mg / day , or warfarin target INR 2 . 0 to 2 . 5 plus aspirin 75 mg / day prior to hospital discharge .
+There were approximately four times as many major bleeding episodes in the two groups receiving warfarin than in the group receiving aspirin alone .
+Major bleeding episodes were not more frequent among patients receiving aspirin plus warfarin than among those receiving warfarin alone , but the incidence of minor bleeding episodes was higher in the combined therapy group .
+The primary endpoint was a composite of death , nonfatal reinfarction , or thromboembolic stroke .
+The mean duration of observation was approximately 4 years .
+The results for WARIS II are provided in the following table8 : TABLE 4 WARIS II - DISTRIBUTION OF SEPARATE EVENTS ACCORDING TO TREATMENT GROUPEvent Aspirin ( N = 1206 ) Warfarin ( N = 1216 ) Aspirin plus Warfarin ( N = 1208 ) Rate Ratio ( 95 % CI ) * p - value * CI denotes confidence interval .
+aThe rate ratio is for aspirin plus warfarin as compared with aspirin .
+bThe rate ratio is for warfarin as compared with aspirin .
+cMajor bleeding episodes were defined as nonfatal cerebral hemorrhage or bleeding necessitating surgical intervention or blood transfusion .
+dMinor bleeding episodes were defined as non - cerebral hemorrhage not necessitating surgical intervention or blood transfusion .
+ND = not determined .
+No .
+of Events Reinfarction 117 90 69 0 . 56 ( 0 . 41 - 0 . 78 ) a 0 . 74 ( 0 . 55 - 0 . 98 ) b < 0 . 001 0 . 03 Thromboembolic stroke 32 17 17 0 . 52 ( 0 . 28 - 0 . 98 ) a 0 . 52 ( 0 . 28 - 0 . 97 ) b 0 . 03 0 . 03 Major Bleedingc 8 33 28 3 . 35 a ( ND ) 4 . 00 b ( ND ) ND ND Minor Bleedingd 39 103 133 3 . 21 a ( ND ) 2 . 55 b ( ND ) ND ND Death 92 96 95 0 . 82 Mechanical and Bioprosthetic Heart Valves In a prospective , randomized , open label , positive - controlled study9in 254 patients , the thromboembolic - free interval was found to be significantly greater in patients with mechanical prosthetic heart valves treated with warfarin alone compared with dipyridamole - aspirin ( p < 0 . 005 ) and pentoxifylline - aspirin ( p < 0 . 05 ) treated patients .
+Rates of thromboembolic events in these groups were 2 . 2 , 8 . 6 , and 7 . 9 / 100 patient years , respectively .
+Major bleeding rates were 2 . 5 , 0 . 0 , and 0 . 9 / 100 patient years , respectively .
+In a prospective , open label , clinical trial comparing moderate ( INR 2 . 65 ) vs . high intensity ( INR 9 . 0 ) warfarin therapies in 258 patients with mechanical prosthetic heart valves , thromboembolism occurred with similar frequency in the two groups ( 4 . 0 and 3 . 7 events / 100 patient years , respectively ) .
+Major bleeding was more common in the high intensity group ( 2 . 1 events / 100 patient years ) vs . 0 . 95 events / 100 patient years in the moderate intensity group . 10 In a randomized trial in 210 patients comparing two intensities of warfarin therapy ( INR 2 . 0 - 2 . 25 vs . INR 2 . 5 - 4 . 0 ) for a three month period following tissue heart valve replacement , thromboembolism occurred with similar frequency in the two groups ( major embolic events 2 . 0 % vs . 1 . 9 % , respectively and minor embolic events 10 . 8 % vs . 10 . 2 % , respectively ) .
+Major bleeding complications were more frequent with the higher intensity ( major hemorrhages 4 . 6 % ) vs . none in the lower intensity . 11 INDICATIONS AND USAGE Warfarin sodium tablets , USP are indicated for the prophylaxis and / or treatment of venous thrombosis and its extension , and pulmonary embolism .
+Warfarin sodium tablets , USP are indicated for the prophylaxis and / or treatment of the thromboembolic complications associated with atrial fibrillation and / or cardiac valve replacement .
+Warfarin sodium tablets , USP are indicated to reduce the risk of death , recurrent myocardial infarction , and thromboembolic events such as stroke or systemic embolization after myocardial infarction .
+CONTRAINDICATIONS Anticoagulation is contraindicated in any localized or general physical condition or personal circumstance in which the hazard of hemorrhage might be greater than the potential clinical benefits of anticoagulation , such as : Pregnancy Warfarin sodium tablets , USP are contraindicated in women who are or may become pregnant because the drug passes through the placental barrier and may cause fatal hemorrhage to the fetusin utero .
+Furthermore , there have been reports of birth malformations in children born to mothers who have been treated with warfarin during pregnancy .
+Embryopathy characterized by nasal hypoplasia with or without stippled epiphyses ( chondrodysplasia punctata ) has been reported in pregnant women exposed to warfarin during the first trimester .
+Central nervous system abnormalities also have been reported , including dorsal midline dysplasia characterized by agenesis of the corpus callosum , Dandy - Walker malformation , and midline cerebellar atrophy .
+Ventral midline dysplasia , characterized by optic atrophy , and eye abnormalities have been observed .
+Mental retardation , blindness , and other central nervous system abnormalities have been reported in association with second and third trimester exposure .
+Although rare , teratogenic reports followingin uteroexposure to warfarin include urinary tract anomalies such as single kidney , asplenia , anencephaly , spina bifida , cranial nerve palsy , hydrocephalus , cardiac defects and congenital heart disease , polydactyly , deformities of toes , diaphragmatic hernia , corneal leukoma , cleft palate , cleft lip , schizencephaly , and microcephaly .
+Spontaneous abortion and stillbirth are known to occur and a higher risk of fetal mortality is associated with the use of warfarin .
+Low birth weight and growth retardation have also been reported .
+Women of childbearing potential who are candidates for anticoagulant therapy should be carefully evaluated and the indications critically reviewed with the patient .
+If the patient becomes pregnant while taking this drug , she should be apprised of the potential risks to the fetus , and the possibility of termination of the pregnancy should be discussed in light of those risks .
+Hemorrhagic tendencies or blood dyscrasias .
+Recent or contemplated surgery of : ( 1 ) central nervous system ; ( 2 ) eye ; ( 3 ) traumatic surgery resulting in large open surfaces .
+Bleeding tendencies associated with active ulceration or overt bleeding of : ( 1 ) gastrointestinal , genitourinary or respiratory tracts ; ( 2 ) cerebrovascular hemorrhage ; ( 3 ) aneurysms - cerebral , dissecting aorta ; ( 4 ) pericarditis and pericardial effusions ; ( 5 ) bacterial endocarditis .
+Threatened abortion , eclampsia and preeclampsia .
+Inadequate laboratory facilities .
+Unsupervised patients with senility , alcoholism , psychosis or other lack of patient cooperation .
+Spinal puncture and other diagnostic or therapeutic procedures with potential for uncontrollable bleeding .
+Miscellaneous : major regional , lumbar block anesthesia , malignant hypertension and known hypersensitivity to warfarin or to any other components of this product .
+WARNINGS The most serious risks associated with anticoagulant therapy with warfarin sodium are hemorrhage in any tissue or organ12 ( see BLACK BOX WARNING ) and , less frequently ( < 0 . 1 % ) , necrosis and / or gangrene of skin and other tissues .
+Hemorrhage and necrosis have in some cases been reported to result in death or permanent disability .
+Necrosis appears to be associated with local thrombosis and usually appears within a few days of the start of anticoagulant therapy .
+In severe cases of necrosis , treatment through debridement or amputation of the affected tissue , limb , breast or penis has been reported .
+Careful diagnosis is required to determine whether necrosis is caused by an underlying disease .
+Warfarin therapy should be discontinued when warfarin is suspected to be the cause of developing necrosis and heparin therapy may be considered for anticoagulation .
+Although various treatments have been attempted , no treatment for necrosis has been considered uniformly effective .
+See below for information on predisposing conditions .
+These and other risks associated with anticoagulant therapy must be weighed against the risk of thrombosis or embolization in untreated cases .
+It cannot be emphasized too strongly that treatment of each patient is a highly individualized matter .
+Warfarin sodium , a narrow therapeutic range ( index ) drug , may be affected by factors such as other drugs and dietary vitamin K . Dosage should be controlled by periodic determinations of prothrombin time ( PT ) / International Normalized Ratio ( INR ) .
+Determinations of whole blood clotting and bleeding times are not effective measures for control of therapy .
+Heparin prolongs the one - stage PT .
+When heparin and warfarin are administered concomitantly , refer below to Conversion From Heparin Therapy for recommendations .
+Increased caution should be observed when warfarin is administered in the presence of any predisposing condition where added risk of hemorrhage , necrosis , and / or gangrene is present .
+Anticoagulation therapy with warfarin may enhance the release of atheromatous plaque emboli , thereby increasing the risk of complications from systemic cholesterol microembolization , including the " purple toes syndrome . "
+Discontinuation of warfarin therapy is recommended when such phenomena are observed .
+Systemic atheroemboli and cholesterol microemboli can present with a variety of signs and symptoms including purple toes syndrome , livedo reticularis , rash , gangrene , abrupt and intense pain in the leg , foot , or toes , foot ulcers , myalgia , penile gangrene , abdominal pain , flank or back pain , hematuria , renal insufficiency , hypertension , cerebral ischemia , spinal cord infarction , pancreatitis , symptoms simulating polyarteritis , or any other sequelae of vascular compromise due to embolic occlusion .
+The most commonly involved visceral organs are the kidneys followed by the pancreas , spleen , and liver .
+Some cases have progressed to necrosis or death .
+Purple toes syndrome is a complication of oral anticoagulation characterized by a dark , purplish or mottled color of the toes , usually occurring between 3 - 10 weeks , or later , after the initiation of therapy with warfarin or related compounds .
+Major features of this syndrome include purple color of plantar surfaces and sides of the toes that blanches on moderate pressure and fades with elevation of the legs ; pain and tenderness of the toes ; waxing and waning of the color over time .
+While the purple toes syndrome is reported to be reversible , some cases progress to gangrene or necrosis which may require debridement of the affected area , or may lead to amputation .
+Warfarin should be used with caution in patients with heparin - induced thrombocytopenia and deep venous thrombosis .
+Cases of venous limb ischemia , necrosis , and gangrene have occurred in patients with heparin - induced thrombocytopenia and deep venous thrombosis when heparin treatment was discontinued and warfarin therapy was started or continued .
+In some patients sequelae have included amputation of the involved area and / or death13 .
+The decision to administer anticoagulants in the following conditions must be based upon clinical judgment in which the risks of anticoagulant therapy are weighed against the benefits : Lactation : Based on very limited published data , warfarin has not been detected in the breast milk of mothers treated with warfarin .
+The same limited published data report that some breast - fed infants , whose mothers were treated with warfarin , had prolonged prothrombin times , although not as prolonged as those of the mothers .
+The decision to breast - feed should be undertaken only after careful consideration of the available alternatives .
+Women who are breast - feeding and anticoagulated with warfarin should be very carefully monitored so that recommended PT / INR values are not exceeded .
+It is prudent to perform coagulation tests and to evaluate vitamin K status in infants before advising women taking warfarin to breast - feed .
+Effects in premature infants have not been evaluated .
+Severe to moderate hepatic or renal insufficiency .
+Infectious diseases or disturbances of intestinal fora : sprue , antibiotic therapy .
+Trauma which may result in internal bleeding .
+Surgery or trauma resulting in large exposed raw surfaces .
+Indwelling catheters .
+Severe to moderate hypertension .
+Known or suspected deficiency in protein C mediated anticoagulant response : Hereditary or acquired deficiencies of protein C or its cofactor , protein S , have been associated with tissue necrosis following warfarin administration .
+Not all patients with these conditions develop necrosis , and tissue necrosis occurs in patients without these deficiencies .
+Inherited resistance to activated protein C has been described in many patients with venous thromboembolic disorders but has not yet been evaluated as a risk factor for tissue necrosis .
+The risk associated with these conditions , both for recurrent thrombosis and for adverse reactions , is difficult to evaluate since it does not appear to be the same for everyone .
+Decisions about testing and therapy must be made on an individual basis .
+It has been reported that concomitant anticoagulation therapy with heparin for 5 to 7 days during initiation of therapy with warfarin may minimize the incidence of tissue necrosis .
+Warfarin therapy should be discontinued when warfarin is suspected to be the cause of developing necrosis , and heparin therapy may be considered for anticoagulation .
+Miscellaneous : polycythemia vera , vasculitis , and severe diabetes .
+PRECAUTIONS Periodic determination of PT / INR is essential .
+( see DOSAGE AND ADMINISTRATION : Laboratory Control . )
+Numerous factors , alone or in combination including changes in diet , medications , botanicals , and genetic variations in the CYP2C9 and VKORC1 enzymes ( see CLINICAL PHARMACOLOGY : Pharmacogenomics ) may influence the response of the patient to warfarin .
+Drug - Drug and Drug - Disease Interactions It is generally good practice to monitor the patient ' s response with additional PT / INR determinations in the period immediately after discharge from the hospital , and whenever other medications , including botanicals , are initiated , discontinued or taken irregularly .
+The following factors are listed for reference ; however , other factors may also affect the anticoagulant response .
+Drugs may interact with warfarin through pharmacodynamic or pharmacokinetic mechanisms .
+Pharmacodynamic mechanisms for drug interactions with warfarin are synergism ( impaired hemostasis , reduced clotting factor synthesis ) , competitive antagonism ( vitamin K ) , and altered physiologic control loop for vitamin K metabolism ( hereditary resistance ) .
+Pharmacokinetic mechanisms for drug interactions with warfarin are mainly enzyme induction , enzyme inhibition , and reduced plasma protein binding .
+It is important to note that some drugs may interact by more than one mechanism .
+The following factors , alone or in combination , may be responsible for INCREASED PT / INR response : ENDOGENOUS FACTORS : blood dyscrasias - seeCONTRAINDICATIONS cancer collagen vascular disease congestive heart failure diarrhea elevated temperature hepatic disorders infectious hepatitis jaundice hyperthyroidism poor nutritional state steatorrhea vitamin K deficiency EXOGENOUS FACTORS : Potential drug interactions with warfarin sodium are listed below by drug class and by specific drugs .
+Classes of Drugs 5 - lipoxygenase Inhibitor Adrenergic Stimulants , Central Alcohol Abuse Reduction Preparations Analgesics Anesthetics , Inhalation Antiandrogen Antiarrhythmics † Antibiotics † Aminoglycosides ( oral ) Cephalosporins , parenteral Macrolides Miscellaneous Penicillins , intravenous , high dose Quinolones ( fluoroquinolones ) Sulfonamides , long acting Tetracyclines Anticoagulants Anticonvulsants † Antidepressants † Antimalarial Agents Antineoplastics † Antiparasitic / Antimicrobials Antiplatelet Drugs / Effects Antithyroid Drugs † Beta - Adrenergic Blockers Cholelitholytic Agents Diabetes Agents , Oral Diuretics † Fungal Medications , Intravaginal , Systemic † Gastric Acidity and Peptic Ulcer Agents † Gastrointestinal Prokinetic Agents Ulcerative Colitis Agents Gout Treatment Agents Hemorrheologic Agents Hepatotoxic Drugs Hyperglycemic Agents Hypertensive Emergency Agents Hypnotics † Hypolipidemics † Bile Acid - Binding Resins † Fibric Acid Derivatives HMG - CoA Reductase Inhibitors † Leukotriene Receptor Antagonist Monoamine Oxidase Inhibitors Narcotics , prolonged Nonsteroidal Anti - Inflammatory Agents Proton Pump Inhibitors Psychostimulants Pyrazolones Salicylates Selective Serotonin Reuptake Inhibitors Steroids , Adrenocortical † Steroids , Anabolic ( 17 - Alkyl Testosterone Derivatives ) Thrombolytics Thyroid Drugs Tuberculosis Agents † Uricosuric Agents Vaccines Vitamins † Specific Drugs Reported also : other medications affecting blood elements which may modify hemostasis dietary deficiencies prolonged hot weather unreliable PT / INR determinations † Increased and decreased PT / INR responses have been reported .
+acetaminophen alcohol † allopurinol aminosalicylic acid amiodarone HCl argatroban aspirin atenolol atorvastatin † azithromycin bivalirudin capecitabine cefamandole cefazolin cefoperazone cefotetan cefoxitin ceftriaxone celecoxib cerivastatin chenodiol chloramphenicol chloral hydrate † chlorpropamide cholestyramine † cimetidine ciprofloxacin cisapride clarithromycin clofibrate cyclophosphamide † danazol dextran dextrothyroxine diazoxide diclofenac dicumarol diflunisal disulfiram doxycycline erythromycin esomeprazole ethacrynic acid ezetimibe fenofibrate fenoprofen fluconazole fluorouracil fluoxetine flutamide fluvastatin fluvoxamine gefitinib gemifibrozil glucagon halothane heparin ibuprofen ifosfamide indomethacin influenza virus vaccine itraconazole ketoprofen ketorolac lansoprazole lepirudin levamisole levofloxacin levothyroxine liothyronine lovastatin mefenamic acid methimazole † methyldopa methylphenidate methylsalicylate ointment ( topical ) metronidazole miconazole ( intravaginal , oral , systemic ) moricizine hydrochloride † nalidixic acid naproxen neomycin norfloxacin ofloxacin olsalazine omeprazole oxandrolone oxaprozin oxymetholone pantoprazole paroxetine penicillin G , intravenous pentoxifylline phenylbutazone phenytoin † piperacillin piroxicam pravastatin † prednisone † propafenone propoxyphene propranolol propylthiouracil † quinidine quinine rabeprazole ranitidine † rofecoxib sertraline simvastatin stanozolol streptokinase sulfamethizole sulfamethoxazole sulfinpyrazone sulfisoxazole sulindac tamoxifen tetracycline thyroid ticarcillin ticlopidine tissue plasminogen activator ( t - PA ) tolbutamide tramadol trimethoprim / sulfamethoxazole urokinase valdecoxib valproate vitamin E warfarin overdose zafirlukast zileuton The following factors , alone or in combination , may be responsible for DECREASED PT / INR response : ENDOGENOUS FACTORS : edema hereditary coumarin resistance hyperlipemia hypothyroidism nephrotic syndrome EXOGENOUS FACTORS : Potential drug interactions with warfarin sodium are listed below by drug class and by specific drugs .
+Classes of Drugs Adrenal Cortical Steroid Inhibitors Antacids Antianxiety Agents Antiarrhythmics † Antibiotics † Anticonvulsants † Antidepressants † Antihistamines Antineoplastics † Antipsychotic Medications Antithyroid Drugs † Barbiturates Diuretics † Enteral Nutritional Supplements Fungal Medications , Systemic † Gastric Acidity and Peptic Ulcer Agents † Hypnotics † Hypolipidemics † Bile Acid - Binding Resins † HMG - CoA Reductase Inhibitors † Immunosuppressives Oral Contraceptives , Estrogen Containing Selective Estrogen Receptor Modulators Steroids , Adrenocortical † Tuberculosis Agents † Vitamins † Specific Drugs Reported also : diet high in vitamin K unreliable PT / INR determinations † Increased and decreased PT / INR responses have been reported .
+alcohol † aminoglutethimide amobarbital atorvastatin † azathioprine butabarbital butalbital carbamazepine chloral hydrate † chlordiazepoxide chlorthalidone cholestyramine † clozapine corticotropin cortisone cyclophosphamide † dicloxacillin ethchlorvynol glutethimide griseofulvin haloperidol meprobamate 6 - mercaptopurine methimazole † moricizine hydrochloride † nafcillin paraldehyde pentobarbital phenobarbital phenytoin † pravastatin † prednisone † primidone propylthiouracil † raloxifene ranitidine † rifampin secobarbital spironolactone sucralfate trazodone vitamin C ( high dose ) vitamin K warfarin underdosage Because a patient may be exposed to a combination of the above factors , the net effect of warfarin sodium on PT / INR response may be unpredictable .
+More frequent PT / INR monitoring is therefore advisable .
+Medications of unknown interaction with coumarins are best regarded with caution .
+When these medications are started or stopped , more frequent PT / INR monitoring is advisable .
+It has been reported that concomitant administration of warfarin and ticlopidine may be associated with cholestatic hepatitis .
+Botanical ( Herbal ) Medicines Caution should be exercised when botanical medicines ( botanicals ) are taken concomitantly with warfarin .
+Few adequate , well - controlled studies exist evaluating the potential for metabolic and / or pharmacologic interactions between botanicals and warfarin .
+Due to a lack of manufacturing standardization with botanical medicinal preparations , the amount of active ingredients may vary .
+This could further confound the ability to assess potential interactions and effects on anticoagulation .
+It is good practice to monitor the patient ' s response with additional PT / INR determinations when initiating or discontinuing botanicals .
+Specific botanicals reported to affect warfarin therapy include the following : • Bromelains , danshen , dong quai ( Angelica sinensis ) , garlic , Ginkgo biloba , ginseng , and cranberry products are associated most often with an INCREASE in the effects of warfarin .
+• Coenzyme Q10 ( ubidecarenone ) and St . John ' s wort are associated most often with a DECREASE in the effects of warfarin .
+Some botanicals may cause bleeding events when taken alone ( e . g . , garlic and Ginkgo biloba ) and may have anticoagulant , antiplatelet , and / or fibrinolytic properties .
+These effects would be expected to be additive to the anticoagulant effects of warfarin .
+Conversely , other botanicals may have coagulant properties when taken alone or may decrease the effects of warfarin .
+Some botanicals that may affect coagulation are listed below for reference ; however , this list should not be considered all - inclusive .
+Many botanicals have several common names and scientific names .
+The most widely recognized common botanical names are listed .
+1 Contains coumarins , has antiplatelet properties , and may have coagulant properties due to possible Vitamin K content .
+2 Contains coumarins and salicylates .
+3 Contains coumarins and has fibrinolytic properties .
+4 Contains coumarins and has antiplatelet properties .
+5 Has antiplatelet and fibrinolytic properties .
+Botanicals that contain coumarins with potential anticoagulant effects : Agrimony1 Alfalfa Angelica ( Dong Quai ) Aniseed Arnica Asafoetida Bogbean2 Boldo Buchu Capsicum3 Cassia4 Celery Chamomile ( German and Roman ) Dandelion4 Fenugreek Horse Chestnut Horseradish Licorice4 Meadowsweet2 Nettle Parsley Passion Flower Prickly Ash ( Northern ) Quassia Red Clover Sweet Clover Sweet Woodruff Tonka Beans Wild Carrot Wild Lettuce Miscellaneous botanicals with anticoagulant properties : Bladder Wrack ( Fucus ) Pau d ' arco Botanicals that contain salicylate and / or have antiplatelet properties : Agrimony1 Aloe Gel Aspen Black Cohosh Black Haw Bogbean2 Cassia4 Clove Dandelion4 Feverfew Garlic5 German Sarsaparilla Ginger Ginkgo Biloba Ginseng ( Panax ) 5 Licorice4 Meadowsweet2 Onion5 Policosanol Poplar Senega Tamarind Willow Wintergreen Botanicals with fibrinolytic properties : Bromelains Capsicum3 Garlic5 Ginseng ( Panax ) 5 Inositol Nicotinate Onion5 Botanicals with coagulant properties : Agrimony1 Mistletoe Goldenseal Yarrow Effect on Other Drugs Coumarins may also affect the action of other drugs .
+Hypoglycemic agents ( chlorpropamide and tolbutamide ) and anticonvulsants ( phenytoin and phenobarbital ) may accumulate in the body as a result of interference with either their metabolism or excretion .
+Considerations for Increased Bleeding Risk Warfarin sodium is a narrow therapeutic range ( index ) drug , and additional caution should be observed when warfarin sodium is administered to certain patients .
+Reported risk factors for bleeding include high intensity of anticoagulation ( INR > 4 . 0 ) , age ≥ 65 , highly variable INRs , history of gastrointestinal bleeding , hypertension , cerebrovascular disease , serious heart disease , anemia , malignancy , trauma , renal insufficiency , concomitant drugs ( see PRECAUTIONS ) and long duration of warfarin therapy .
+Identification of risk factors for bleeding and certain genetic variation in CYP2CP and VKORC1 in a patient may increase the need for more frequent INR monitoring and the use of lower warfarin doses ( see CLINICAL PHARMACOLOGY : Metabolism and DOSAGE AND ADMINISTRATION ) .
+Bleeding is more likely to occur during the starting period and with a higher dose of warfarin sodium ( resulting in a higher INR ) .
+Intramuscular ( I . M . ) injections of concomitant medications should be confined to the upper extremities which permits easy access for manual compression , inspections for bleeding and use of pressure bandages .
+Caution should be observed when warfarin is administered concomitantly with nonsteroidal anti - inflammatory drugs ( NSAIDs ) , including aspirin , to be certain that no change in anticoagulation dosage is required .
+In addition to specific drug interactions that might affect PT / INR , NSAIDs , including aspirin , can inhibit platelet aggregation , and can cause gastrointestinal bleeding , peptic ulceration and / or perforation .
+Information for Patients The objective of anticoagulant therapy is to decrease the clotting ability of the blood so that thrombosis is prevented , while avoiding spontaneous bleeding .
+Effective therapeutic levels with minimal complications are in part dependent upon cooperative and well - instructed patients who communicate effectively with their physician .
+Patients should be advised : Strict adherence to prescribed dosage schedule is necessary .
+Do not take or discontinue any other medication , including salicylates ( e . g . , aspirin and topical analgesics ) , other over - the - counter medications and botanical ( herbal ) products except on advice of the physician .
+Avoid alcohol consumption .
+Do not take warfarin during pregnancy and do not become pregnant while taking it ( see CONTRAINDICATIONS ) .
+Avoid any activity or sport that may result in traumatic injury .
+Prothrombin time tests and regular visits to physician or clinic are needed to monitor therapy .
+Carry identification stating that warfarin is being taken .
+If the prescribed dose of warfarin is forgotten , notify the physician immediately .
+Take the dose as soon as possible on the same day but do not take a double dose of warfarin the next day to make up for missed doses .
+The amount of vitamin K in food may affect therapy with warfarin .
+Eat a normal , balanced diet maintaining a consistent amount of vitamin K . Avoid drastic changes in dietary habits , such as eating large amounts of green leafy vegetables .
+You should also avoid intake of cranberry juice or any other cranberry products .
+Notify your health care provider if any of these products are part of your normal diet .
+Contact physician to report any illness , such as diarrhea , infection or fever .
+Notify physician immediately if any unusual bleeding or symptoms occur .
+Signs and symptoms of bleeding include : pain , swelling or discomfort , prolonged bleeding from cuts , increased menstrual flow or vaginal bleeding , nosebleeds , bleeding of gums from brushing , unusual bleeding or bruising , red or dark brown urine , red or tar black stools , headache , dizziness , or weakness .
+If therapy with warfarin is discontinued , patients should be cautioned that the anticoagulant effects of warfarin may persist for about 2 to 5 days .
+Patients should be informed that all warfarin sodium , USP , products represent the same medication , and should not be taken concomitantly , as overdosage may result .
+A Medication Guide14should be available to patients when their prescriptions for warfarin sodium are issued Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenicity and mutagenicity studies have not been performed with warfarin .
+The reproductive effects of warfarin have not been evaluated .
+The use of warfarin during pregnancy has been associated with the development of fetal malformations in humans ( see CONTRAINDICATIONS ) .
+Use in Pregnancy Pregnancy Category X - See CONTRAINDICATIONS .
+Pediatric Use Safety and effectiveness in pediatric patients below the age of 18 have not been established in randomized , controlled clinical trials .
+However , the use of warfarin in pediatric patients is well - documented for the prevention and treatment of thromboembolic events .
+Difficulty achieving and maintaining therapeutic PT / INR ranges in the pediatric patient has been reported .
+More frequent PT / INR determinations are recommended because of possible changing warfarin requirements .
+Geriatric Use Patients 60 years or older appear to exhibit greater than expected PT / INR response to the anticoagulant effects of warfarin ( see CLINICAL PHARMACOLOGY ) .
+Warfarin is contraindicated in any unsupervised patient with senility .
+Caution should be observed with administration of warfarin sodium to elderly patients in any situation or physical condition where added risk of hemorrhage is present .
+Lower initiation and maintenance doses of warfarin are recommended for elderly patients ( see DOSAGE AND ADMINISTRATION ) .
+ADVERSE REACTIONS Potential adverse reactions to warfarin may include : • Fatal or nonfatal hemorrhage from any tissue or organ .
+This is a consequence of the anticoagulant effect .
+The signs , symptoms , and severity will vary according to the location and degree or extent of the bleeding .
+Hemorrhagic complications may present as paralysis ; paresthesia ; headache , chest , abdomen , joint , muscle or other pain ; dizziness ; shortness of breath , difficult breathing or swallowing ; unexplained swelling ; weakness ; hypotension ; or unexplained shock .
+Therefore , the possibility of hemorrhage should be considered in evaluating the condition of any anticoagulated patient with complaints which do not indicate an obvious diagnosis .
+Bleeding during anticoagulant therapy does not always correlate with PT / INR .
+( See OVERDOSAGE - Treatment . )
+• Bleeding which occurs when the PT / INR is within the therapeutic range warrants diagnostic investigation since it may unmask a previously unsuspected lesion , e . g . , tumor , ulcer , etc .
+• Necrosis of skin and other tissues .
+( See WARNINGS . )
+• Adverse reactions reported infrequently include : hypersensitivity / allergic reactions , including anaphylactic reactions , systemic cholesterol microembolization , purple toes syndrome , hepatitis , cholestatic hepatic injury , jaundice , elevated liver enzymes , hypotension , vasculitis , edema , anemia , pallor , fever , rash , dermatitis , including bullous eruptions , urticaria , angina syndrome , chest pain , abdominal pain including cramping , flatulence / bloating , fatigue , lethargy , malaise , asthenia , nausea , vomiting , diarrhea , pain , headache , dizziness , loss of consciousness , syncope , coma , taste perversion , pruritus , alopecia , cold intolerance , and paresthesia including feeling cold and chills .
+Rare events of tracheal or tracheobronchial calcification have been reported in association with long - term warfarin therapy .
+The clinical significance of this event is unknown .
+Priapism has been associated with anticoagulant administration , however , a causal relationship has not been established .
+OVERDOSAGE Signs and Symptoms Suspected or overt abnormal bleeding ( e . g . , appearance of blood in stools or urine , hematuria , excessive menstrual bleeding , melena , petechiae , excessive bruising or persistent oozing from superficial injuries ) are early manifestations of anticoagulation beyond a safe and satisfactory level .
+Treatment Excessive anticoagulation , with or without bleeding , may be controlled by discontinuing warfarin therapy and if necessary , by administration of oral or parenteral vitamin K1 .
+( Please see recommendations accompanying vitamin K1preparations prior to use . )
+15 , 16 Such use of vitamin K1reduces response to subsequent warfarin therapy .
+Patients may return to a pretreatment thrombotic status following the rapid reversal of a prolonged PT / INR .
+Resumption of warfarin administration reverses the effect of vitamin K , and a therapeutic PT / INR can again be obtained by careful dosage adjustment .
+If rapid anticoagulation is indicated , heparin may be preferable for initial therapy .
+If minor bleeding progresses to major bleeding , give 5 to 25 mg ( rarely up to 50 mg ) parenteral vitamin K1 .
+In emergency situations of severe hemorrhage , clotting factors can be returned to normal by administering 200 to 500 mL of fresh whole blood or fresh frozen plasma , or by giving commercial Factor IX complex .
+A risk of hepatitis and other viral diseases is associated with the use of these blood products ; Factor IX complex is also associated with an increased risk of thrombosis .
+Therefore , these preparations should be used only in exceptional or life - threatening bleeding episodes secondary to warfarin sodium overdosage .
+Purified Factor IX preparations should not be used because they cannot increase the levels of prothrombin , Factor VII and Factor X which are also depressed along with the levels of Factor IX as a result of warfarin treatment .
+Packed red blood cells may also be given if significant blood loss has occurred .
+Infusions of blood or plasma should be monitored carefully to avoid precipitating pulmonary edema in elderly patients or patients with heart disease .
+DOSAGE AND ADMINISTRATION The dosage and administration of warfarin sodium tablets , USP must be individualized for each patient according to the particular patient ' s PT / INR response to the drug .
+The dosage should be adjusted based upon the patient ' s PT / INR . 15 , 16 , 17 , 18 , 19 The best available information supports the following recommendations for dosing of warfarin sodium tablets .
+Venous Thromboembolism ( including deep venous thrombosis [ DVT ] and pulmonary embolism [ PE ] ) For patients with a first episode of DVT or PE secondary to a transient ( reversible ) risk factor , treatment with warfarin for 3 months is recommended .
+For patients with a first episode of idiopathic DVT or PE , warfarin is recommended for at least 6 to 12 months .
+For patients with two or more episodes of documented DVT or PE , indefinite treatment with warfarin is suggested .
+For patients with a first episode of DVT or PE who have documented antiphospholipid antibodies or who have two or more thrombophilic conditions , treatment for 12 months is recommended and indefinite therapy is suggested .
+For patients with a first episode of DVT or PE who have documented deficiency of antithrombin , deficiency of Protein C or Protein S , or the Factor V Leiden or prothrombin 20210 gene mutation , homocystinemia , or high Factor VIII levels ( > 90 th percentile of normal ) , treatment for 6 to 12 months is recommended and indefinite therapy is suggested for idiopathic thrombosis .
+The risk - benefit should be reassessed periodically in patients who receive indefinite anticoagulant treatment . 12 , 20 The dose of warfarin should be adjusted to maintain a target INR of 2 . 5 ( INR range , 2 . 0 to 3 . 0 ) for all treatment durations .
+These recommendations are supported by the 7 th ACCP guidelines . 15 , 17 , 21 , 22 Atrial Fibrillation Five clinical trials evaluated the effects of warfarin in patients with non - valvular atrial fibrillation ( AF ) .
+Meta - analysis findings of these studies revealed that the effects of warfarin in reducing thromboembolic events including stroke were similar at either moderately high INR ( 2 . 0 - 4 . 5 ) or low INR ( 1 . 4 - 3 . 0 ) .
+There was a significant reduction in minor bleeds at the low INR .
+There are no adequate and well - controlled studies in populations with atrial fibrillation and valvular heart disease .
+Similar data from clinical studies in valvular atrial fibrillation patients are not available .
+The trials in non - valvular atrial fibrillation support the American College of Chest Physicians ' ( 7 th ACCP ) recommendation that an INR of 2 . 0 - 3 . 0 be used for warfarin therapy in appropriate AF patients . 17 Oral anticoagulation therapy with warfarin is recommended in patients with persistent or paroxysmal AF ( PAF ) ( intermittent AF ) at high risk of stroke ( i . e . , having any of the following features : prior ischemic stroke , transient ischemic attack , or systemic embolism , age > 75 years , moderately or severely impaired left ventricular systolic function and / or congestive heart failure , history of hypertension , or diabetes mellitus ) .
+In patients with persistent AF or PAF , age 65 to 75 years , in the absence of other risk factors , but who are at intermediate risk of stroke , antithrombotic therapy with either oral warfarin or aspirin , 325 mg / day , is recommended .
+For patients with AF and mitral stenosis , anticoagulation with oral warfarin is recommended ( 7 th ACCP ) .
+For patients with AF and prosthetic heart valves , anticoagulation with oral warfarin should be used ; the target INR may be increased and aspirin added depending on valve type and position , and on patient factors . 17 Post - Myocardial Infarction The results of the WARIS II study and 7 th ACCP guidelines suggest that in most healthcare settings , moderate - and low - risk patients with a myocardial infarction should be treated with aspirin alone over oral vitamin - K antagonist ( VKA ) therapy plus aspirin .
+In healthcare settings in which meticulous INR monitoring is standard and routinely accessible , for both high - and low - risk patients after myocardial infarction ( MI ) , long - term ( up to 4 years ) high - intensity oral warfarin ( target INR , 3 . 5 ; range , 3 . 0 to 4 . 0 ) without concomitant aspirin or moderate - intensity oral warfarin ( target INR , 2 . 5 ; range , 2 . 0 to 3 . 0 ) with aspirin is recommended .
+For high - risk patients with MI , including those with a large anterior MI , those with significant heart failure , those with intracardiac thrombus visible on echocardiography , and those with a history of a thromboembolic event , therapy with combined moderate - intensity ( INR , 2 . 0 to 3 . 0 ) oral warfarin plus low - dose aspirin ( ≤ 100 mg / day ) for 3 months after the MI is suggested . 23 Mechanical and Bioprosthetic Heart Valves For all patients with mechanical prosthetic heart valves , warfarin is recommended .
+For patients with a St . Jude Medical ( St . Paul , MN ) bileaflet valve in the aortic position , a target INR of 2 . 5 ( range , 2 . 0 to 3 . 0 ) is recommended .
+For patients with tilting disk valves and bileaflet mechanical valves in the mitral position , the 7 th ACCP recommends a target INR of 3 . 0 ( range , 2 . 5 to 3 . 5 ) .
+For patients with caged ball or caged disk valves , a target INR of 3 . 0 ( range , 2 . 5 to 3 . 5 ) in combination with aspirin , 75 to 100 mg / day is recommended .
+For patients with bioprosthetic valves , warfarin therapy with a target INR of 2 . 5 ( range , 2 . 0 to 3 . 0 ) is recommended for valves in the mitral position and is suggested for valves in the aortic position for the first 3 months after valve insertion . 15 Recurrent Systemic Embolism and Other Indications Oral anticoagulation therapy has not been evaluated by properly designed clinical trials in patients with valvular disease associated with atrial fibrillation , patients with mitral stenosis , and patients with recurrent systemic embolism of unknown etiology .
+A moderate dose regimen ( INR 2 . 0 to 3 . 0 ) is recommended for these patients . 17 An INR of greater than 4 . 0 appears to provide no additional therapeutic benefit in most patients and is associated with a higher risk of bleeding .
+Initial Dosage The dosing of warfarin sodium tablets , USP must be individualized according to patient ' s sensitivity to the drug as indicated by the PT / INR .
+Use of a large loading dose may increase the incidence of hemorrhagic and other complications , does not offer more rapid protection against thrombi formation , and is not recommended .
+It is recommended that warfarin sodium tablets , USP therapy be initiated with a dose of 2 to 5 mg per day with dosage adjustments based on the results of PT / INR determinations . 17 , 18 The lower initiation doses should be considered for patients with certain genetic variations in CYP2C9 and VKORC1 enzymes as well as for elderly and / or debilitated patients and patients with potential to exhibit greater than expected PT / INR responses to warfarin sodium ( see CLINICAL PHARMACOLOGY and PRECAUTIONS ) .
+Maintenance Most patients are satisfactorily maintained at a dose of 2 to 10 mg daily .
+Flexibility of dosage is provided by breaking scored tablets in half .
+The individual dose and interval should be gauged by the patient ' s prothrombin response .
+Acquired or inherited warfarin resistance is rare , but should be suspected if large daily doses of warfarin sodium tablets , USP are required to maintain a patient ' s PT / INR within a normal therapeutic range .
+Lower maintenance doses are recommended for elderly and / or debilitated patients and patients with a potential to exhibit greater than expected PT / INR response to warfarin sodium tablets , USP ( see PRECAUTIONS ) .
+Duration of Therapy The duration of therapy in each patient should be individualized .
+In general , anticoagulant therapy should be continued until the danger of thrombosis and embolism has passed . 14 , 15 , 17 , 18 , 21 , 22 Missed Dose The anticoagulant effect of warfarin sodium tablets , USP persists beyond 24 hours .
+If the patient forgets to take the prescribed dose of warfarin sodium tablets , USP at the scheduled time , the dose should be taken as soon as possible on the same day .
+The patient should not take the missed dose by doubling the daily dose to make up for missed doses , but should refer back to his or her physician .
+Laboratory Control The PT reflects the depression of vitamin K dependent Factors VII , X and II .
+A system of standardizing the PT in oral anticoagulant control was introduced by the World Health Organization in 1983 .
+It is based upon the determination of an International Normalized Ratio ( INR ) which provides a common basis for communication of PT results and interpretations of therapeutic ranges . 24 The PT should be determined daily after the administration of the initial dose until PT / INR results stabilize in the therapeutic range .
+Intervals between subsequent PT / INR determinations should be based upon the physician ' s judgment of the patient ' s reliability and response to warfarin sodium tablets , USP in order to maintain the individual within the therapeutic range .
+Acceptable intervals for PT / INR determinations are normally within the range of one to four weeks after a stable dosage has been determined .
+To ensure adequate control , it is recommended that additional PT tests be done when other warfarin products are interchanged with warfarin sodium tablets , USP , as well as whenever other medications are initiated , discontinued , or taken irregularly ( see PRECAUTIONS ) .
+Safety and efficacy of warfarin therapy can be improved by increasing the quality of laboratory control .
+Reports suggest that in usual care monitoring , patients are in therapeutic range only 33 % - 64 % of the time .
+Time in therapeutic range is significantly greater ( 56 % - 93 % ) in patients managed by anticoagulation clinics , among self - testing and self - monitoring patients , and in patients managed with the help of computer programs . 25 Self - testing patients had fewer bleeding events than patients in usual care . 25 Treatment During Dentistry and Surgery The management of patients who undergo dental and surgical procedures requires close liaison between attending physicians , surgeons and dentists . 15 , 19 PT / INR determination is recommended just prior to any dental or surgical procedure .
+In patients undergoing minimal invasive procedures who must be anticoagulated prior to , during , or immediately following these procedures , adjusting the dosage of warfarin sodium tablets , USP to maintain the PT / INR at the low end of the therapeutic range may safely allow for continued anticoagulation .
+The operative site should be sufficiently limited and accessible to permit the effective use of local procedures for hemostasis .
+Under these conditions , dental and minor surgical procedures may be performed without undue risk of hemorrhage .
+Some dental or surgical procedures may necessitate the interruption of warfarin therapy .
+When discontinuing warfarin even for a short period of time , the benefits and risks should be strongly considered .
+Conversion from Heparin Therapy Since the anticoagulant effect of warfarin sodium tablets , USP is delayed , heparin is preferred initially for rapid anticoagulation .
+Conversion to warfarin sodium tablets , USP may begin concomitantly with heparin therapy or may be delayed 3 to 6 days .
+To ensure continuous anticoagulation , it is advisable to continue full dose heparin therapy and that warfarin sodium tablets , USP therapy be overlapped with heparin for 4 to 5 days , until warfarin sodium tablets , USP has produced the desired therapeutic response as determined by PT / INR .
+When warfarin sodium tablets , USP has produced the desired PT / INR or prothrombin activity , heparin may be discontinued .
+Warfarin sodium tablets , USP may increase the activated partial thromboplastin time ( aPTT ) test , even in the absence of heparin .
+A severe elevation ( > 50 seconds ) in activated partial thromboplastin time ( aPTT ) with a PT / INR in the desired range has been identified as an indication of increased risk of postoperative hemorrhage .
+During initial therapy with warfarin sodium tablets , USP , the interference with heparin anticoagulation is of minimal clinical significance .
+As heparin may affect the PT / INR , patients receiving both heparin and warfarin sodium tablets , USP should have blood for PT / INR determination drawn at least : • 5 hours after the last IV bolus dose of heparin , or • 4 hours after cessation of a continuous IV infusion of heparin , or • 24 hours after the last subcutaneous heparin injection .
+HOW SUPPLIED Repackaged by Aphena Pharma Solutions - TN .
+See Repackaging Information for available configurations .
+[ MULTIMEDIA ] Warfarin Sodium Tablets , USP : For oral use , single scored , imprinted numerically and packaged with potencies , colors and engravings as follows : Bottles of ( using NDC 60429 - ) Mg Color Imprint 15 20 25 30 35 40 45 50 60 75 90 100 1000 100 10 × 10 Blister pks 1 Pink 1 784 - 15 784 - 30 784 - 45 784 - 01 784 - 10 784 - 77 2 Lavender 2 785 - 15 785 - 30 785 - 35 785 - 40 785 - 45 785 - 60 785 - 01 785 - 10 785 - 77 2 . 5 Green 2 1 / 2 786 - 15 786 - 30 786 - 45 786 - 01 786 - 10 786 - 77 3 Tan 3 787 - 15 787 - 30 787 - 45 787 - 01 787 - 10 787 - 77 4 Blue 4 788 - 15 788 - 30 788 - 45 788 - 01 788 - 10 788 - 77 5 Peach 5 789 - 15 789 - 15 789 - 25 789 - 30 789 - 35 789 - 40 789 - 45 789 - 50 789 - 60 789 - 75 789 - 90 789 - 01 789 - 10 789 - 77 6 Teal 6 790 - 15 790 - 30 790 - 45 790 - 01 790 - 10 790 - 77 7 . 5 Yellow 7 1 / 2 791 - 15 791 - 30 791 - 45 791 - 01 791 - 10 791 - 77 10 White 10 792 - 15 792 - 30 792 - 45 792 - 01 792 - 77 Warfarin Sodium Tablets , USP are available in 1 , 2 , 2 . 5 , 3 , 4 , 5 , 6 , 7 . 5 and 10 mg of warfarin sodium , USP .
+They are flat beveled capsule shaped tablets , scored and engraved as described in the above table on one side , and engraved with " WARFARIN " on top of " TARO " on the other side .
+Storage Store at 20 - 25 ° C ( 68 - 77 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from light .
+Dispense in a tight , light - resistant container as defined in the USP .
+REFERENCES • Yasar U , Eliasson E , Dahl M , Johansson I , Ingelman - Sundberg M , Sjoqvist F . Validation of methods for CYP2C9 genotyping : Frequencies of mutant alleles in Swedish population . Biochem Biophys Res Comm .
+1999 ; 254 : 628 - 631 .
+• Herman D , Locatelli I , Grabnar I , et al .
+Influence of CYP2C9 polymorphisms , demographic factors and concomitant drug therapy on warfarin metabolism and maintenance dose . Pharmacogenomics J . 2005 ; 5 : 193 - 202 .
+• Sanderson S , Emery J , Higgins J . CYP2C9 gene variants , drug dose , and bleeding risk in warfarin - treated patients : A HuGEnet ™ systemic review and meta - analysis .
+Genet Med .
+2005 ; 7 : 97 - 104 .
+• Lindh JD , Lundgren S , Holm L , Alfredsson L , Rane A . Several - fold increase in risk of overanticoagulation by CYP2C9 mutations . Clin Pharmacol Ther .
+2005 ; 78 : 540 - 550 .
+• Wadelius M , Chen LY , Downes K , et al .
+Common VKORC1 and GGCX polymorphisms associated with warfarin dose . Pharmacogenomics J . 2005 ; 5 : 262 - 270 .
+• Veenstra DL , You JHS , Rieder MJ , et al .
+Association of Vitamin K epoxide reductase complex 1 ( VKO - RC1 ) variants with warfarin dose in a Hong Kong Chinese patient population . Pharmacogenet Genomics .
+2005 ; 15 : 687 - 691 .
+• Takahashi H , Wilkinson GR , Nutescu EA , et al .
+Different contributions of polymorphisms in VKORC1 and CYP2C9 to intra - and inter - population differences in maintenance doses of warfarin in Japanese , Caucasians and African Americans . Pharmacogenet Genomics .
+2006 ; 16 : 101 - 110 .
+• Hurlen M , Abdelnoor M , Smith P , Erikssen J , Arnesen H . Warfarin , aspirin , or both after myocardial infarction . N Engl J Med .
+2002 ; 347 : 969 - 974 .
+• Mok CK , Boey J , Wang R , et al .
+Warfarin versus dipyridamole - aspirin and pentoxifylline - aspirin for prevention of prosthetic valve thromboembolism : a prospective randomized clinical trial . Circ .
+1985 ; 72 : 1059 - 1063 .
+• Saour JN , Sieck JO , Mamo LA , Gallus AS .
+Trial of different intensities of anticoagulation in patients with prosthetic heart valves . N Engl J Med .
+1990 ; 322 : 428 - 432 .
+• Turpie AG , Hirsh J , Gunstensen J , Nelson H , Gent M . Randomized comparison to two intensities of oral anticoagulant therapy after tissue heart valve replacement . Lancet .
+1988 ; 331 : 1242 - 1245 .
+• Büller HR , Agnelli G , Hull RD , Hyers TM , Prins MH , Raskob GE .
+Antithrombotic Therapy for Venous Thromboembolic Disease .
+The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy . Chest .
+2004 ; 126 : 401 S - 428 S .
+• Warkentin TE , Elavathil LJ , Hayward CPM , Johnston MG , Russett JI , Kelton JG .
+The pathogenesis of venous limb gangrene associated with heparin - induced thrombocytopenia . Ann Intern Med .
+1997 ; 127 : 804 - 812 .
+• COUMADIN Medication Guide .
+Princeton , NJ : Bristol - Myers Squibb Company ; 2007 .
+• Salem DN , Stein PD , Al - Ahmad A , et al .
+Antithrombotic therapy in valvular heart disease – native and prosthetic .
+The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy . Chest .
+2004 ; 126 : 457 S - 482 S .
+• American Geriatrics Society Clinical Practice Guidelines .
+The use of oral anticoagulants ( warfarin ) in older people . J Amer Geriatr Soc .
+2000 ; 48 : 224 - 227 .
+• Singer DE , Albers GW , Dalen JE , Go AS , Halperin JL , Manning WJ .
+Antithrombotic therapy in atrial fibrillation .
+The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy . Chest .
+2004 ; 126 : 429 S - 456 S .
+• Jaffer AK , Bragg L . Practical tips for warfarin dosing and monitoring . Cleveland Clinic J Med .
+2003 ; 70 : 361 - 371 .
+• Jaffer AK , Brotman DJ , Chukwumerije N .
+When patients on warfarin need surgery . Cleveland Clinic J Med .
+2003 ; 70 : 973 - 984 .
+• Kearon C , Ginsberg JS , Kovacs MJ , et al , for the Extended Low - Intensity Anticoagulation for Thrombo - Embolism Investigators .
+Comparison of low - intensity warfarin therapy with conventional - intensity warfarin therapy for longterm prevention of recurrent venous thromboembolism . N Engl J Med .
+2003 ; 349 : 631 - 639 .
+• Schulman S , Granqvist S , Holmström M , et al , and the Duration of Anticoagulation Trial Study Group .
+The duration of oral anticoagulant therapy after a second episode of venous thromboembolism . N Engl J Med .
+1997 ; 336 : 393 - 398 .
+• Ridker PM , Goldhaber SZ , Danielson E , et al , for the PREVENT Investigators .
+Long - term , low - intensity warfarin therapy for the prevention of recurrent venous thromboembolism . N Engl J Med .
+2003 ; 348 : 1425 - 1434 .
+• Harrington RA , Becker RC , Ezekowitz M , et al .
+Antithrombotic therapy for coronary artery disease .
+The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy . Chest .
+2004 ; 126 : 513 S - 548 S .
+• Ansell J , Hirsh J , Pollen L , Bussey H , Jacobson A , Hylek E .
+The pharmacology and management of the vitamin K antagonists .
+The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy . Chest .
+2004 ; 126 : 204 S - 233 S .
+• Heneghan C , Alonso - Coello P , Garcia - Alamino JM , Perera R , Meats E , Glasziou P . Self - monitoring of oral anticoagulation : a systematic review and meta - analysis .
+Lancet .
+2006 ; 367 : 404 - 411 .
+Mfd .
+by : Taro Pharmaceutical Industries Ltd . , Haifa Bay , Israel 26110 Marketed / Packaged for : GSMS , Inc .
+Camarillo , CA 93012 MEDICATION GUIDE Warfarin Sodium Tablets , USP Crystalline Read this Medication Guide before you start taking Warfarin Sodium ( WARFARIN ) and each time you get a refill .
+There may be new information .
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment .
+You and your healthcare provider should talk about WARFARIN when you start taking it and at regular checkups .
+What is the most important information I should know about WARFARIN ?
+• Take your WARFARIN exactly as prescribed to lower the chance of blood clots forming in your body .
+( See " What is WARFARIN ? " )
+.
+• Warfarin is very important for your health , but it can cause serious and life - threatening bleeding problems .
+To benefit from WARFARIN and also lower your chance for bleeding problems , you must : • Get your regular blood test to check for your response to WARFARIN .
+This blood test is called a PT / INR test .
+The PT / INR test checks to see how fast your blood clots .
+Your healthcare provider will decide what PT / INR numbers are best for you .
+Your dose of WARFARIN will be adjusted to keep your PT / INR in a target range for you .
+• Call your healthcare provider right away if you get any of the following signs or symptoms of bleeding problems : • pain , swelling or discomfort • headaches , dizziness , or weakness • unusual bruising ( bruises that develop without known cause or grow in size ) • nose bleeds • bleeding gums • bleeding from cuts takes a long time to stop • menstrual bleeding or vaginal bleeding that is heavier than normal • pink or brown urine • red or black stools • coughing up blood • vomiting blood or material that looks like coffee grounds • Many other medicines , including prescription and non - prescription medicines , vitamins and herbal supplements can interact with WARFARIN and : Tell your healthcare provider about all the medicines , vitamins and herbal supplements you take .
+Do not stop medicines or take anything new unless you have talked to your healthcare provider .
+Keep a list of your medicines with you at all times to show your healthcare provider and pharmacist .
+• affect the dose you need , or • increase WARFARIN side effects .
+• Do not take other medicines that contain warfarin .
+Warfarin is the active ingredient in WARFARIN .
+• Some foods can interact with WARFARIN and affect your treatment and dose .
+• Eat a normal , balanced diet .
+Talk to your doctor before you make any diet changes .
+Do not eat large amounts of leafy green vegetables .
+Leafy green vegetables contain Vitamin K . Certain vegetable oils also contain large amounts of Vitamin K . Too much Vitamin K can lower the effect of WARFARIN .
+• Avoid drinking cranberry juice or eating cranberry products .
+• Avoid drinking alcohol .
+• Always tell all of your healthcare providers that you take WARFARIN .
+• Wear or carry information that you take WARFARIN .
+What is WARFARIN ?
+WARFARIN is an anticoagulant medicine .
+It is used to lower the chance of blood clots forming in your body .
+Blood clots can cause a stroke , heart attack , or other serious conditions such as blood clots in the legs or lungs .
+Who should not take WARFARIN ?
+Do not take WARFARIN if : • your chance of having bleeding problems is higher than the possible benefit of treatment .
+Your healthcare provider will decide if WARFARIN is right for you .
+Talk to your healthcare provider about all of your health conditions .
+• you are pregnant or plan to become pregnant .
+WARFARIN can cause death or birth defects to an unborn baby .
+Use effective birth control if you can get pregnant .
+• you are allergic to warfarin or to anything else in WARFARIN .
+What should I tell my healthcare provider before starting WARFARIN ?
+Tell your healthcare provider about all of your health conditions , including if you : • have bleeding problems • fall often • have liver or kidney problems • have high blood pressure • have a heart problem called congestive heart failure • have diabetes • drink alcohol or have problems with alcohol abuse .
+Alcohol can affect your WARFARIN dose and should be avoided .
+• are pregnant or planning to become pregnant .
+See " Who should not take WARFARIN ? "
+• are breastfeeding .
+Warfarin Sodium Tablets may increase bleeding in your baby .
+Talk to your doctor about the best way to feed your baby .
+If you choose to breastfeed while taking WARFARIN , both you and your baby should be carefully monitored for bleeding problems .
+Tell your healthcare provider about all the medicines you take including prescription and non - prescription medicines , vitamins , and herbal supplements .
+See " What is the most important information I should know about WARFARIN ? "
+How should I take WARFARIN ?
+• Take WARFARIN exactly as prescribed .
+Your healthcare provider will adjust your dose from time to time depending on your response to WARFARIN .
+• You must have regular blood tests and visits with your healthcare provider to monitor your condition .
+• Take WARFARIN at the same time every day .
+You can take WARFARIN either with food or on an empty stomach .
+• If you miss a dose of WARFARIN , call your healthcare provider .
+Take the dose as soon as possible on the same day .
+Do not take a double dose of WARFARIN the next day to make up for a missed dose .
+• Call your healthcare provider right away if you take too many WARFARIN .
+• Call your healthcare provider if you are sick with diarrhea , an infection , or have a fever .
+• Tell your healthcare provider about any planned surgeries , medical or dental procedures .
+Your WARFARIN may have to be stopped for a short time or you may need your dose adjusted .
+• Call your healthcare provider right away if you fall or injure yourself , especially if you hit your head .
+Your healthcare provider may need to check you .
+What should I avoid while taking WARFARIN ?
+• Do not start , stop , or change any medicine without talking with your healthcare provider .
+• Do not make changes in your diet , such as eating large amounts of green , leafy vegetables .
+• Do not change your weight by dieting , without first checking with your healthcare provider .
+• Avoid drinking alcohol .
+• Do not do any activity or sport that may cause a serious injury .
+What are the possible side effects of WARFARIN ?
+• WARFARIN is very important for your health , but it can cause serious and life - threatening bleeding problems .
+See " What is the most important information I should know about WARFARIN ? "
+• Serious side effects of WARFARIN also include : • death of skin tissue ( skin necrosis or gangrene ) .
+This can happen soon after starting WARFARIN .
+It happens because blood clots form and block blood flow to an area of your body .
+Call your healthcare provider right away if you have pain , color , or temperature change to any area of your body .
+You may need medical care right away to prevent death or loss ( amputation ) of your affected body part .
+• " purple toes syndrome " .
+Call your healthcare provider right away if you have pain in your toes and they look purple in color or dark in color .
+Other side effects with WARFARIN include allergic reactions , liver problems , low blood pressure , swelling , low red blood cells , paleness , fever , and rash .
+Call your healthcare provider if you have any side effect that bothers you .
+These are not all of the side effects of WARFARIN .
+For more information , ask your healthcare provider or pharmacist .
+How should I store WARFARIN ?
+• Store WARFARIN at room temperature between 68 ° and 77 ° F . Protect from light .
+• Keep WARFARIN and all medicines out of the reach of children .
+General Information about WARFARIN Medicines are sometimes prescribed for purposes not mentioned in a Medication Guide .
+Do not use WARFARIN for a condition for which it was not prescribed .
+Do not give WARFARIN to other people , even if they have the same condition .
+It may harm them .
+This Medication Guide summarizes the most important information about WARFARIN .
+If you would like more information , talk with your healthcare provider .
+You can ask your healthcare provider or pharmacist for information about WARFARIN that was written for healthcare professionals .
+If you would like more information , call 1 - 800 - 544 - 1449 .
+Rx only Mfd .
+by : Taro Pharmaceutical Industries Ltd . , Haifa Bay , Israel 26110 Marketed / Packaged by : GSMS , Inc .
+Camarillo , CA 93012 This Medication Guide has been approved by the U . S . Food and Drug Administration .
+January 2009 Repackaging Information Please reference the How Supplied section listed above for a description of individual tablets or capsules .
+This drug product has been received by Aphena Pharma - TN in a manufacturer or distributor packaged configuration and repackaged in full compliance with all applicable cGMP regulations .
+The package configurations available from Aphena are listed below : Count 1 mg 2 . 5 mg 3 mg 4 mg 5 mg 6 mg 7 . 5 mg 10 mg 15 - - - - 43353 - 050 - 15 - - - 20 - - - - 43353 - 050 - 20 - - - 25 - - - - 43353 - 050 - 25 - - - 26 - - - - 43353 - 050 - 68 - - - 28 - - - - 43353 - 050 - 28 - - - 30 43353 - 584 - 30 43353 - 142 - 30 43353 - 089 - 30 43353 - 049 - 30 43353 - 050 - 30 43353 - 587 - 30 43353 - 579 - 30 43353 - 578 - 30 34 - - - - 43353 - 050 - 78 - - - 35 - - - - 43353 - 050 - 35 - - - 40 - 43353 - 142 - 40 - - 43353 - 050 - 40 - - - 45 - 43353 - 142 - 45 - - 43353 - 050 - 45 - - - 50 - - - - 43353 - 050 - 50 - - - 55 - - - - 43353 - 050 - 38 - - - 60 - 43353 - 142 - 53 - - 43353 - 050 - 53 - - - 70 - - - - 43353 - 050 - 61 - - - 75 - - - - 43353 - 050 - 55 - - - 80 - - - - 43353 - 050 - 57 - - - 90 43353 - 584 - 60 43353 - 142 - 60 43353 - 089 - 60 43353 - 049 - 60 43353 - 050 - 60 - - - 100 - - - - 43353 - 050 - 65 - - - 120 - - - - 43353 - 050 - 70 - - - 9000 - - - - - - 43353 - 579 - 09 43353 - 578 - 09 Count 2 mg 15 67544 - 318 - 15 30 67544 - 318 - 30 35 67544 - 318 - 35 40 67544 - 318 - 40 45 67544 - 318 - 45 50 67544 - 318 - 50 60 67544 - 318 - 53 70 67544 - 318 - 61 75 67544 - 318 - 55 90 67544 - 318 - 60 120 67544 - 318 - 70 Store between 20 ° - 25 ° C ( 68 ° - 77 ° F ) .
+See USP Controlled Room Temperature .
+Dispense in a tight light - resistant container as defined by USP .
+Keep this and all drugs out of the reach of children .
+Repackaged by : [ MULTIMEDIA ] Cookeville , TN 38506 20140506 SC [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 1 mg NDC 43353 - 584 - Warfarin Sodium 1 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 2 . 5 mg NDC 43353 - 142 - Warfarin Sodium 2 . 5 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 3 mg NDC 43353 - 089 - Warfarin Sodium 3 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 4 mg NDC 43353 - 049 - Warfarin Sodium 4 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 5 mg NDC 43353 - 050 - Warfarin Sodium 5 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 6 mg NDC 43353 - 587 - Warfarin Sodium 6 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 7 . 5 mg NDC 43353 - 579 - Warfarin Sodium 7 . 5 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - 10 mg NDC 43353 - 578 - Warfarin Sodium 10 mg - Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ]

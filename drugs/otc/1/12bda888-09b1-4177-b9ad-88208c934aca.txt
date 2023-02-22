@@ -1,0 +1,94 @@
+DESCRIPTION STRONTIUM CHLORIDE Sr - 89 INJECTION , USP is a sterile , non - pyrogenic , aqueous solution of Strontium - 89 Chloride for intravenous administration .
+The solution contains no preservative .
+Each milliliter contains : Strontium Chloride 10 . 9 - 22 . 6 mg Water for Injection q . s . to 1 mL The radioactive concentration is 37 MBq / mL , 1 mCi / mL , and the specific activity is 2 . 96 - 6 . 17 MBq / mg , 80 - 167 µCi / mg at calibration .
+The pH of the solution is 4 - 7 . 5 .
+PHYSICAL CHARACTERISTIC Strontium - 89 decays by beta emission with a physical half - life of 50 . 5 days .
+The maximum beta energy is 1 . 463 MeV ( 100 % ) .
+The maximum range of ß - particles from Strontium - 89 in tissue is approximately 8 mm .
+Radioactive decay factors to be applied to the stated value for radioactive concentration at calibration , when calculating injection volumes at the time of administration , are given in Table 1 .
+Table 1 : Decay of Strontium - 89 Day * Factor Day * Factor - 24 1 . 39 + 6 0 . 92 - 22 1 . 35 + 8 0 . 90 - 20 1 . 32 + 10 0 . 87 - 18 1 . 28 + 12 0 . 85 - 16 1 . 25 + 14 0 . 83 - 14 1 . 21 + 16 0 . 80 - 12 1 . 18 + 18 0 . 78 - 10 1 . 15 + 20 0 . 76 - 8 1 . 12 + 22 0 . 74 - 6 1 . 09 + 24 0 . 72 - 4 1 . 06 + 26 0 . 70 - 2 1 . 03 + 28 0 . 68 0 = calibration 1 . 00 * Days before ( - ) or after ( + ) the calibration date stated on the vial .
+CLINICAL PHARMACOLOGY Following intravenous injection , soluble strontium compounds behave like their calcium analogs , clearing rapidly from the blood and selectively localizing in bone mineral .
+Uptake of strontium by bone occurs preferentially in sites of active osteogenesis ; thus primary bone tumors and areas of metastatic involvement ( blastic lesions ) can accumulate significantly greater concentrations of strontium than surrounding normal bone .
+Strontium - 89 Chloride is retained in metastatic bone lesions much longer than in normal bone , where turnover is about 14 days .
+In patients with extensive skeletal metastases , well over half of the injected dose is retained in the bones .
+Excretion pathways are two - thirds urinary and one - third fecal in patients with bone metastases .
+Urinary excretion is higher in people without bone lesions .
+Urinary excretion is greatest in the first two days following injection .
+Strontium - 89 is a pure beta emitter and Strontium - 89 Chloride selectively irradiates sites of primary and metastatic bone involvement with minimal irradiation of soft tissues distant from the bone lesions .
+( The maximum range in tissue is 8 mm ; maximum energy is 1 . 463 MeV . )
+Mean absorbed radiation doses are listed under the Radiation Dosimetry section .
+Clinical trials have examined relief of pain in cancer patients who have received therapy for bone metastases ( external radiation to indexed sites ) but in whom persistent pain recurred .
+In a multi - center Canadian placebo - controlled trial of 126 patients , pain relief occurred in more patients treated with a single injection of Strontium - 89 Chloride than in patients treated with an injection of placebo .
+Results are given in the following tables .
+Table 2 compares the percentage and number of patients treated with Strontium - 89 Chloride Injection or placebo who had reduced pain and no increase in analgesic or radiotherapy re - treatment .
+Table 2 : Comparison of the effects of Strontium - 89 and placebo , as adjunct to radiotherapy , on treatment outcome over time .
+Months Post - Treatment 1 2 3 4 5 6 Strontium - 89 71 . 4 % 78 . 9 % 60 . 6 % 59 . 3 % 36 . 4 % 63 . 6 % ( n = 42 ) ( n = 38 ) ( n = 33 ) ( n = 27 ) ( n = 22 ) ( n = 22 ) Placebo 61 . 4 % 57 . 1 % 55 . 9 % 25 . 0 % 31 . 8 % 35 . 0 % ( n = 44 ) ( n = 35 ) ( n = 34 ) ( n = 24 ) ( n = 22 ) ( n = 20 ) At each visit , treatment success , defined as a reduction in a patient ’ s pain score without any increase in analgesic intake and without any supplementary radiotherapy at the index site , was more frequent among patients assigned to Strontium - 89 Chloride Injection than to placebo .
+Table 3 compares the number and percentage of patients treated with Strontium - 89 Chloride Injection or placebo as an adjunct to radiotherapy who were pain free without analgesic at the intervals shown .
+Table 3 : Comparison of the effects of Strontium - 89 and placebo , as adjunct to radiotherapy , on reduction of pain score and analgesic score to zero .
+Months Post - Treatment 1 2 3 4 5 6 9 Strontium - 89 6 5 5 3 4 4 2 14 . 3 % 13 . 2 % 15 . 2 % 11 . 1 % 18 . 2 % 18 . 2 % 18 . 2 % ( n = 42 ) ( n = 38 ) ( n = 33 ) ( n = 27 ) ( n = 22 ) ( n = 22 ) ( n = 11 ) Placebo 3 3 2 0 1 1 0 6 . 8 % 8 . 6 % 5 . 9 % 4 . 5 % 5 % ( n = 44 ) ( n = 35 ) ( n = 34 ) ( n = 32 ) ( n = 22 ) ( n = 20 ) ( n = 17 ) The number of patients classified at each visit as treatment successes who were pain free at the index site and required no analgesics was consistently higher in the Strontium - 89 group .
+New pain sites were less frequent in patients treated with Strontium - 89 .
+In another clinical trial , pain relief was greater in a group of patients treated with Strontium - 89 compared with a group treated with non - radioactive Strontium - 88 .
+INDICATIONS AND USAGE STRONTIUM CHLORIDE Sr - 89 INJECTION , USP is indicated for the relief of bone pain in patients with painful skeletal metastases .
+The presence of bone metastases should be confirmed prior to therapy .
+CONTRAINDICATIONS None known .
+WARNINGS Use of Strontium - 89 Chloride Injection in patients with evidence of seriously compromised bone marrow from previous therapy or disease infiltration is not recommended unless the potential benefit of the treatment outweighs its risks .
+Bone marrow toxicity is to be expected following the administration of Strontium - 89 , particularly white blood cells and platelets .
+The extent of toxicity is variable .
+It is recommended that the patient ’ s peripheral blood cell counts be monitored at least once every other week .
+Typically , platelets will be depressed by about 30 % compared to pre - administration levels .
+The nadir of platelet depression in most patients is found between 12 and 16 weeks following administration of Strontium - 89 Chloride Injection .
+White blood cells are usually depressed to a varying extent compared to pre - administration levels .
+Thereafter , recovery occurs slowly , typically reaching pre - administration levels six months after treatment unless the patient ' s disease or additional therapy intervenes .
+In considering repeat administration of Strontium - 89 Chloride Injection , the patient ’ s hematologic response to the initial dose , current platelet level and other evidence of marrow depletion should be carefully evaluated .
+Verification of dose and patient identification is necessary prior to administration because Strontium - 89 delivers a relatively high dose of radioactivity .
+Strontium - 89 Chloride Injection may cause fetal harm when administered to a pregnant woman .
+There are no adequate and well - controlled studies in pregnant women .
+If this drug is used during pregnancy , or if the patient becomes pregnant while receiving this drug , the patient should be apprised of the potential hazard to the fetus .
+Women of childbearing potential should be advised to avoid becoming pregnant .
+PRECAUTIONS Strontium - 89 Chloride Injection is not indicated for use in patients with cancer not involving bone .
+Strontium - 89 Chloride Injection should be used with caution in patients with platelet counts below 60 , 000 and white cell counts below 2 , 400 .
+Radiopharmaceuticals should only be used by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+STRONTIUM CHLORIDE Sr - 89 INJECTION , USP like other radioactive drugs , must be handled with care and appropriate safety measures taken to minimize radiation to clinical personnel .
+In view of the delayed onset of pain relief , typically 7 to 20 days post injection ; administration of Strontium - 89 Chloride Injection to patients with very short life expectancy is not recommended .
+A calcium - like flushing sensation has been observed in patients following a rapid ( less than 30 second injection ) administration .
+Special precautions , such as urinary catheterization , should be taken following administration to patients who are incontinent to minimize the risk of radioactive contamination of clothing , bed linen and the patient ’ s environment .
+Strontium - 89 Chloride is excreted primarily by the kidneys .
+In patients with renal dysfunction , the possible risks of administering Strontium - 89 Chloride Injection should be weighed against the possible benefits .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Data from a repetitive dose animal study suggests that Strontium - 89 Chloride is a potential carcinogen .
+Thirty - three of 40 rats injected with Strontium - 89 Chloride in ten consecutive monthly doses of either 250 or 350 µCi / kg developed malignant bone tumors after a latency period of approximately 9 months .
+No neoplasia was observed in the control animals .
+Treatment with Strontium - 89 Chloride should be restricted to patients with well documented metastatic bone disease .
+Adequate studies with Strontium - 89 Chloride have not been performed to evaluate mutagenic potential or effects on fertility .
+Pregnancy : Teratogenic effects .
+Pregnancy Category D . See Warnings section .
+Nursing Mothers Because Strontium acts as a calcium analog , secretion of Strontium - 89 Chloride into human milk is likely .
+It is recommended that nursing be discontinued by mothers about to receive intravenous Strontium - 89 Chloride .
+It is not known whether this drug is excreted in human milk .
+Pediatric Use Safety and effectiveness in children below the age of 18 years have not been established .
+ADVERSE REACTIONS A single case of fatal septicemia following leukopenia was reported during clinical trials .
+Most severe reactions of marrow toxicity can be managed by conventional means .
+A small number of patients have reported a transient increase in bone pain at 36 to 72 hours after injection .
+This is usually mild and self - limiting , and controllable with analgesics .
+A single patient reported chills and fever 12 hours after injection without long - term sequelae .
+Additional post - marketing reactions include the following : hot flush .
+DOSAGE AND ADMINISTRATION The recommended dose of Strontium - 89 Chloride is 148 MBq , 4 mCi , administered by slow intravenous injection ( 1 - 2 minutes ) .
+Alternatively , a dose of 1 . 5 - 2 . 2 MBq / kg , 40 - 60 µCi / kg body weight may be used .
+Repeated administrations of Strontium - 89 Chloride should be based on an individual patient ’ s response to therapy , current symptoms , and hematologic status , and are generally not recommended at intervals of less than 90 days .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+RADIATION DOSIMETRY The estimated radiation dose that would be delivered over time by the intravenous injection of 37 MBq , 1 mCi of Strontium - 89 to a normal healthy adult is given in Table 4 .
+Data are taken from the ICRP publication “ Radiation Dose to Patients from Radiopharmaceuticals ” - ICRP # 53 , Vol .
+18 , No . 1 - 4 , Page 171 , Pergamon Press , 1988 .
+Table 4 : Strontium - 89 Dosimetry Organ mGy / MBq rad / mCi Bone Surface 17 . 0 63 . 0 Red Bone Marrow 11 . 0 40 . 7 Lower Bowel Wall 4 . 7 17 . 4 Bladder Wall 1 . 3 4 . 8 Testes 0 . 8 2 . 9 Ovaries 0 . 8 2 . 9 Uterine Wall 0 . 8 2 . 9 Kidneys 0 . 8 2 . 9 When blastic osseous metastases are present , significantly enhanced localization of the radiopharmaceutical will occur with correspondingly higher doses to the metastases compared with normal bones and other organs .
+The radiation dose hazard in handling Strontium - 89 Chloride injection during dose dispensing and administration is similar to that from phosphorus - 32 .
+The beta emission has a range in water of about 8 mm ( max . )
+and in glass of about 3 mm , but the bremsstrahlung radiation may augment the contact dose .
+Measured values of the dose on the surface of the unshielded vial are about 65 mR / minute / mCi .
+It is recommended that the vial be kept inside its transportation shield whenever possible .
+HOW SUPPLIED / STORAGE AND HANDLING STRONTIUM CHLORIDE Sr - 89 INJECTION , USP is supplied in a 5 mL vial containing 148 MBq , 4 mCi .
+The vial is shipped in a transportation shield - container with a package insert , and two therapeutic agent - warning labels .
+The vial and its contents should be stored inside its transportation container at room temperature ( 15 - 25 ° C , 59 - 77 ° F ) .
+The calibration date and expiration date are quoted on the vial label .
+Do not use after the expiration date .
+Stability studies have shown no change in any of the product characteristics monitored during routine product quality control over the period from manufacture to expiration .
+This radiopharmaceutical is licensed by the Texas Department of Health , or under equivalent licesnses of the U . S . Nuclear Regulatory Comminssion or an agreement state .
+NDC72928 - 089 - 01 PRODUCT INFORMATION ISSUED : January 20 , 2020 Manufactured for : Q BioMed , Inc . 366 Madison Ave , Third Floor New York , NY 10017 Manufactured by : Isotherapeutics Group LLC 1004 S . Velasco St . Angleton , Texas ( TX ) 77515 Printed in U . S . A . L - 089 - 11 I Product Code : P089 - 0 Drug Product Label Vial Label [ MULTIMEDIA ] Outer Container Label [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

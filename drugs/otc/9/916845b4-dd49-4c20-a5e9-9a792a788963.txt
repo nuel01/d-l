@@ -1,0 +1,454 @@
+Fluoroquinolones , including Proquin XR , are associated with an increased risk of tendinitis and tendon rupture in all ages .
+The risk is further increased in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart and lung transplant recipients ( See WARNINGS ) .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Proquin XR and other antibacterial drugs , Proquin XR should be used only to treat uncomplicated urinary tract infections that are strongly suspected to be caused by bacteria .
+DESCRIPTION Proquin XR ( ciprofloxacin hydrochloride ) extended - release tablets contain ciprofloxacin hydrochloride , a synthetic broad - spectrum fluoroquinolone antimicrobial agent for oral administration .
+Ciprofloxacin hydrochloride is 1 - cyclopropyl - 6 - fluoro - 1 , 4 - dihydro - 4 - oxo - 7 - ( 1 - piperazinyl ) - 3 - quinolinecarboxylic acid hydrochloride .
+The molecular weight of the monohydrate is 385 . 82 .
+It is a faintly yellowish to light yellow crystalline substance and its chemical structure is as follows : [ MULTIMEDIA ] Proquin XR is available as 500 mg ( ciprofloxacin equivalent ) tablets , utilizing AcuForm ™ delivery technology .
+Proquin XR tablets are blue film - coated and oval - shaped .
+The inactive ingredients are povidone , magnesium stearate , polyethylene oxide , and film coating ( Opadry ® Blue ) .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Absorption When Proquin XR is administered with food , approximately 87 % of ciprofloxacin is gradually released from the tablet over a 6 - hour period .
+When administered following a meal maximum plasma ciprofloxacin concentrations are attained approximately 4 . 5 - 7 hours after dosing with Proquin XR tablets .
+Proquin XR should be administered with a main meal of the day , preferably the evening meal ; if Proquin XR is given while fasting , the bioavailability will be lowered substantially .
+Administration of Proquin XR with a standardized meal ( 1000 calories , 50 % fat ) increased the Cmax and AUC0 - 24 h by approximately 120 % and 170 % , respectively , compared to administration under fasting conditions ; the mean Tmax was prolonged from 2 . 3 hours to 4 . 5 hours .
+The following table presents the pharmacokinetic parameters obtained at steady state for Proquin XR 500 mg qd versus CIPRO 250 mg bid .
+Steady - State Pharmacokinetics for Ciprofloxacin in Plasma of Healthy Subjects ( Day 3 ) aPharmacokinetic Parameters Proquin XR 500 mg Tablets ( qd ) ( n = 27 ) CIPRO 250 mg Tablets ( bid ) ( n = 27 ) a both treatments were administered following a standardized meal ( approximately 1000 calories , 50 % fat ) .
+b Cmax1 = peak concentration after the evening dose of CIPRO bid .
+Cmax2 = peak concentration after the morning dose of CIPRO bid .
+c Tmax1 = time of peak concentration after the evening dose CIPRO bid .
+Tmax2 = time of peak concentration after the morning dose CIPRO bid .
+Mean ( % CV ) AUC0 - 24 h ( mcg . hr / mL ) 7 . 67 ( 25 ) 7 . 83 ( 16 ) Cmax ( mcg / mL ) 0 . 82 ( 28 ) Cmax1 0 . 57 ( 25 ) b Cmax2 0 . 93 ( 27 ) Cmin ( mcg / mL ) 0 . 06 ( 42 ) 0 . 14 ( 29 ) Mean ± SD Tmax ( hr ) 6 . 1 ± 2 . 6 Tmax1 2 . 5 ± 1 . 2 c Tmax2 2 . 5 ± 1 . 4 Distribution The in vitro binding of ciprofloxacin to plasma proteins over a concentration ranging from 0 . 9 to 30 micromolar is 9 . 9 % to 36 . 6 % , which is not likely to cause clinically significant protein binding interactions with other drugs .
+Metabolism Four metabolites of ciprofloxacin have been identified in human urine and feces .
+The metabolites have antimicrobial activity , but are less active than unchanged ciprofloxacin .
+The metabolites are desethyleneciprofloxacin ( M1 ) , sulfociprofloxacin ( M2 ) , oxociprofloxacin ( M3 ) , and formylciprofloxacin ( M4 ) , which account for approximately 11 % of the total dose .
+Elimination The plasma elimination half - life of ciprofloxacin in healthy volunteers following a Proquin XR 500 mg dose was approximately 4 . 5 hours .
+Following a 500 mg oral dose of Proquin XR , 26 . 9 % was excreted in the urine over 24 hours as unchanged drug for both formulations .
+Following administration of a single 500 mg dose of Proquin XR , approximately 41 % of the oral dose was excreted into the urine over 96 hours as unchanged drug and metabolites .
+The urinary excretion of ciprofloxacin was virtually complete within 24 hours after dosing .
+Urinary excretion is a main route of elimination of ciprofloxacin and its urinary concentrations relative to the MICs of the bacterial species may be important to understanding the efficacy of ciprofloxacin for the treatment of urinary tract infections .
+The mean urinary ciprofloxacin concentration after dosing with Proquin XR 500 mg qd and CIPRO 250 mg bid are shown in the following table : Mean Urinary Concentrations of Ciprofloxacin Treatment Day Mean ( % CV ) urinary ciprofloxacin concentration over 24 hours ( mcg / mL ) Proquin XR 500 mg once daily 1 71 ( 41 ) 3 67 ( 28 ) CIPRO 250 mg twice daily 1 79 ( 32 ) 3 75 ( 24 ) The renal clearance of ciprofloxacin following administration of Proquin XR , which is approximately 304 - 383 mL / minute , exceeds the normal glomerular filtration rate of 120 mL / minute .
+Thus , active tubular secretion would seem to play a significant role in its elimination .
+Approximately 43 % of the oral dose of Proquin XR is recovered from the feces as unchanged drug and metabolites within 7 days after dosing .
+This may arise from either biliary clearance or transintestinal elimination .
+Drug Interactions Antacids : The interaction of Proquin XR ( administered as a single 1000 mg [ 2 x 500 mg ] dose ) and magnesium / aluminum - containing antacids ( 900 mg aluminum hydroxide and 600 mg magnesium hydroxide administered as a single oral dose ) was evaluated in healthy volunteers .
+When Proquin XR was given 2 hours after antacids and 6 hours before antacids , the Cmax values were similar to those when Proquin XR was given alone and AUC values were reduced by approximately 10 % .
+When Proquin XR was given 4 hours before antacids , Cmax was reduced by approximately 11 % and AUC was reduced by approximately 22 % .
+Thus , to minimize the effect of antacids on the absorption of ciprofloxacin , Proquin XR should be given either 2 hours after or at least 4 hours before antacids ( see PRECAUTIONS : Drug Interactions , and Information for Patients ) .
+Caffeine : Some quinolones , including ciprofloxacin also decrease caffeine clearance and inhibit the formation of paraxanthine after caffeine administration .
+( See PRECAUTIONS : Drug Interactions ) Calcium - containing beverages : Concomitant administration of ciprofloxacin with milk products or calcium - fortified juices alone should be avoided since decreased absorption is possible .
+( See PRECAUTIONS : Drug Interactions and Information for Patients , and DOSAGE AND ADMINISTRATION ) Histamine H2 - receptor antagonists : Histamine H2 - receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin .
+Metronidazole : The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly .
+Multivalent cation - containing products : Concomitant administration of ciprofloxacin with sucralfate , VIDEX ® ( didanosine ) chewable / buffered tablets , metal cations such as iron and calcium , and multivitamin preparations with zinc should be avoided .
+( See PRECAUTIONS : Drug Interactions and Information for Patients ) Omeprazole : When Proquin XR was administered following a meal as a single 1000 mg dose ( 2 x 500 mg ) , 2 hours after the third dose of omeprazole ( given 40 mg once daily for three days ) to 27 healthy volunteers , the mean AUC and Cmax of ciprofloxacin were bioequivalent to the mean AUC and Cmax values when Proquin XR was administered alone .
+Omeprazole should be taken as directed and Proquin XR should be taken with a main meal of the day , preferably the evening meal .
+( See PRECAUTIONS : Drug Interactions and Information for Patients ) Probenecid : Co - administration of probenecid with fluoroquinolones results in a reduction in the renal clearance and an increase in their concentrations in the systemic circulation .
+Theophylline : Previous studies with quinolones , including ciprofloxacin , have shown that concomitant administration of these drugs with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing central nervous system ( CNS ) or other adverse reactions .
+( See WARNINGS , PRECAUTIONS : Drug Interactions ) Warfarin : Ciprofloxacin and other quinolones have been reported to enhance the effects of the oral anticoagulant , warfarin , or its derivatives .
+When these products are administered concomitantly , prothrombin time or other suitable coagulation tests should be closely monitored .
+The co - administration of single doses of Proquin XR and Coumadin ® ( 7 . 5 mg ) did not result in significant changes in the pharmacokinetics of ciprofloxacin nor did it significantly affect the pharmacodynamics of S - warfarin and R - warfarin .
+Although the Cmax and AUC of the two warfarin enantiomers and the elimination half - life of S - warfarin were not significantly altered by ciprofloxacin co - administration , the half - life of R - warfarin was statistically significantly prolonged ( P = 0 . 029 ) .
+( See PRECAUTIONS : Drug Interactions ) Special Populations Elderly : When a single 500 mg dose of Proquin XR was administered to elderly subjects ( > 65 years ) Cmax and AUC values were increased by approximately 24 % and 20 % respectively , compared to younger subjects from a reference study .
+This can be at least partially attributed to decreased renal clearance in the elderly .
+However , in elderly subjects , the percentage of the ciprofloxacin dose excreted in the urine was 11 % lower as compared to younger subjects .
+The elimination half - life was not significantly prolonged in elderly subjects ( 4 . 9 hours ) compared to healthy young subjects ( 4 . 5 hours ) .
+These differences are not considered clinically significant .
+( See PRECAUTIONS : Geriatric Use ) Renal Impairment : After receiving a single dose of Proquin XR 500 mg , the ciprofloxacin AUC0 - 24 h in subjects with mild renal impairment ( CLcr = 51 - 80 mL / min ; n = 10 ) and moderate renal impairment ( CLcr = 30 - 50 mL / min ; n = 10 ) were 42 % and 54 % greater , respectively , compared to subjects with normal renal function ( CLcr > 80 mL / min ; n = 10 ) .
+The elimination half - life of ciprofloxacin in patients with mild and moderate renal impairment was approximately 1 . 7 times longer as compared to the control group ( 7 . 8 - 7 . 5 hours versus 4 . 5 hours ) .
+In patients with end - stage renal disease ( CLcr < 10 mL / min ) , the half - life of ciprofloxacin is approximately doubled compared to subjects with normal renal function .
+No dose adjustment of Proquin XR is required for patients with uUTI and mild to moderate renal impairment .
+The efficacy of Proquin XR has not been studied in patients with severe renal impairment .
+( See DOSAGE AND ADMINISTRATION ) Altered Liver Function : In studies in patients with stable chronic cirrhosis , no significant changes in ciprofloxacin pharmacokinetics have been observed .
+The pharmacokinetics of ciprofloxacin in patients with acute hepatic insufficiency , however , has not been fully elucidated .
+( See DOSAGE AND ADMINISTRATION ) Pediatrics : The pharmacokinetics of Proquin XR have not been studied in pediatric populations .
+MICROBIOLOGY Ciprofloxacin has in vitro activity against a wide range of gram - negative and gram - positive organisms .
+The bactericidal action of ciprofloxacin results from inhibition of topoisomerase II ( DNA gyrase ) and topoisomerase IV ( both Type II topoisomerases ) which are required for bacterial DNA replication , transcription , repair and recombination .
+The mechanism of action of quinolones , including ciprofloxacin , is different from that of other antimicrobial agents such as beta - lactams , macrolides , tetracyclines , or aminoglycosides ; therefore , organisms resistant to these drugs may be susceptible to ciprofloxacin .
+There is no known cross - resistance between ciprofloxacin and other classes of antimicrobials .
+Resistance to ciprofloxacin in vitro develops slowly ( multiple step mutation ) .
+Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between < 10 - 9 to 1x10 - 6 .
+Ciprofloxacin is less active when tested at acidic pH . The inoculum size has little effect when tested in vitro .
+The minimal bactericidal concentration ( MBC ) generally does not exceed the MIC by more than a factor of 2 .
+Ciprofloxacin has been shown to be active against most strains of the following organisms , both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section .
+Aerobic gram - negative microorganisms Escherichia coli Klebsiella pneumoniae The following in vitro data are available , but their clinical significance is unknown .
+Ciprofloxacin exhibits in vitro MICs of 1 mcg / mL or less against most ( > 90 % ) strains of the following microorganisms ; however , the safety and effectiveness of Proquin XR in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Aerobic gram - negative microorganisms Proteus mirabilis Susceptibility Tests Interpretive criteria for urinary isolates have not been established for Proquin XR .
+Interpretive criteria established based on systemic drug levels may not be appropriate for uncomplicated urinary tract infections .
+Dilution Techniques : Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations ( MICs ) .
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds .
+The MICs should be determined using a standardized procedure .
+Standardized procedures are based on a dilution method1 ( broth or agar ) or equivalent with standardized inoculum concentrations and standardized concentrations of ciprofloxacin powder .
+The MIC values should be interpreted according to the following criteria : For testing Enterobacteriaceae : MIC ( mcg / mL ) Interpretation ≤ 1 Susceptible ( S ) 2 Intermediate ( I ) ≥ 4 Resistant ( R ) A report of " Susceptible " indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable .
+A report of " Intermediate " indicates that the result should be considered equivocal , and if the microorganism is not fully - susceptible to alternative , clinically feasible drugs , the test should be repeated .
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used .
+This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation .
+A report of " Resistant " indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable ; other therapy should be selected .
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures .
+Standard ciprofloxacin powder should provide the following MIC values : Microorganism MIC Range ( mcg / mL ) Escherichia coli ATCC 25922 0 . 004 - 0 . 015 Staphylococcus aureus ATCC 29213 0 . 12 - 0 . 5 Diffusion Techniques : Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds .
+One such standardized procedure2 requires the use of standardized inoculum concentrations .
+This procedure uses paper disks impregnated with 5 - mcg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin .
+Reports from the laboratory providing results of the standard single - disk susceptibility test with a 5 - mcg ciprofloxacin disk should be interpreted according to the following criteria : For testing Enterobacteriaceae : Zone Diameter ( mm ) Interpretation ≥ 21 Susceptible ( S ) 16 - 20 Intermediate ( I ) ≤ 15 Resistant ( R ) Interpretation should be as stated above for results using dilution techniques .
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for ciprofloxacin .
+As with standardized dilution techniques , diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures .
+For the diffusion technique , the 5 - mcg ciprofloxacin disk should provide the following zone diameters in these laboratory quality control strains : Microorganism Zone Diameter ( mm ) Escherichia coli ATCC 25922 30 - 40 Staphylococcus aureus ATCC 25923 22 - 30 INDICATIONS AND USAGE Proquin XR is indicated only for the treatment of uncomplicated urinary tract infections ( acute cystitis ) caused by susceptible strains of the designated microorganisms listed below .
+Proquin XR is not interchangeable with other ciprofloxacin extended - release or immediate release oral formulations .
+See DOSAGE AND ADMINISTRATION for specific recommendations .
+Uncomplicated urinary tract infections ( acute cystitis ) caused by Escherichia coli and Klebsiella pneumoniae .
+THE SAFETY AND EFFICACY OF PROQUIN XR IN TREATING PYELONEPHRITIS , COMPLICATED URINARY TRACT INFECTIONS , AND INFECTIONS OTHER THAN UNCOMPLICATED URINARY TRACT INFECTIONS HAVE NOT BEEN DEMONSTRATED .
+Alternative therapy should be considered for patients who remain symptomatic or develop fever and back pain while on treatment with Proquin XR .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Proquin XR and other antibacterial drugs , Proquin XR should only be used to treat uncomplicated urinary tract infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and sensitivity information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+CONTRAINDICATIONS Proquin XR is contraindicated in persons with a history of hypersensitivity to ciprofloxacin or any member of the quinolone class of antimicrobial agents , or any of the product components .
+WARNINGS Tendinopathy and Tendon Rupture : Fluoroquinolones , including Proquin XR , are associated with an increased risk of tendinitis and tendon rupture in all ages .
+This adverse reaction most frequently involves the Achilles tendon , and rupture of the Achilles tendon may require surgical repair .
+Tendinitis and tendon rupture in the rotator cuff ( the shoulder ) , the hand , the biceps , the thumb , and other tendon sites have also been reported .
+The risk of developing fluoroquinolone - associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart or lung transplants .
+Factors , in addition to age and corticosteroid use , that may independently increase the risk of tendon rupture include strenuous physical activity , renal failure , and previous tendon disorders such as rheumatoid arthritis .
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors .
+Tendon rupture can occur during or after completion of therapy ; cases occurring up to several months after completion of therapy have been reported .
+Proquin XR should be discontinued if the patient experiences pain , swelling , inflammation or rupture of a tendon .
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture , and to contact their healthcare provider regarding changing to a non - quinolone antimicrobial drug .
+THE SAFETY AND EFFECTIVENESS OF PROQUIN XR IN PEDIATRIC PATIENTS AND ADOLESCENTS ( LESS THAN 18 YEARS OF AGE ) , PREGNANT WOMEN , AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED .
+( See PRECAUTIONS : Pediatric Use , Pregnancy , and Nursing Mothers subsections ) Ciprofloxacin , as with other members of the quinolone class , causes arthropathy and / or chondroplasia in immature dogs .
+Related quinolone - class drugs also produce erosions of cartilage of weight - bearing joints and other signs of arthropathy in immature animals of various species .
+The relevance of these findings to the clinical use of ciprofloxacin is unknown .
+( See ANIMAL PHARMACOLOGY ) Central Nervous System : Convulsions , increased intracranial pressure , and toxic psychosis have been reported in patients receiving quinolones , including ciprofloxacin .
+Ciprofloxacin may also cause CNS events including : dizziness , confusion , tremors , hallucinations , depression , and , rarely , suicidal thoughts or acts .
+The reactions may occur following the first dose .
+If these reactions occur in patients receiving ciprofloxacin , the drug should be discontinued and appropriate measures instituted .
+As with all quinolones , ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold ( e . g . , severe cerebral arteriosclerosis , epilepsy ) , or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold ( e . g . , certain drug therapy , renal dysfunction ) .
+( See PRECAUTIONS : General , Information for Patients , Drug Interactions , and ADVERSE REACTIONS ) Theophylline : SERIOUS AND FATAL REACTIONS HAVE BEEN REPORTED IN PATIENTS RECEIVING CONCURRENT ADMINISTRATION OF FLUOROQUINOLONES , INCLUDING CIPROFLOXACIN , AND THEOPHYLLINE .
+These reactions have included cardiac arrest , seizure , status epilepticus , and respiratory failure .
+Although similar adverse effects have been reported in patients receiving theophylline alone , the possibility that these reactions may be potentiated by Proquin XR cannot be eliminated .
+If concomitant use cannot be avoided , serum levels of theophylline should be monitored and dosage adjustments made as appropriate .
+Hypersensitivity Reactions : Other serious and sometimes fatal events , some due to hypersensitivity , and some due to uncertain etiology , have been reported rarely in patients receiving therapy with quinolones , including ciprofloxacin .
+These events may be severe and generally occur following the administration of multiple doses .
+Clinical manifestations may include one or more of the following : • fever , rash or severe dermatologic reactions ( e . g . , toxic epidermal necrolysis , Stevens - Johnson Syndrome ) ; • vasculitis ; arthralgia ; myalgia ; serum sickness ; • allergic pneumonitis • inertstitial nephritis ; acute renal insufficiency or failure ; • hepatitis ; jaundice ; acute hepatic necrosis or failure ; • anemia , including hemolytic and apalstic ; thrombocytopenia , including thrombotic thrombocytopenic purpura ; leukopenia ; agranulocytosis ; pancytopenia ; and / or other hemtologic abnormalities .
+The drug should be discontinued immediately at the first appearance of a skin rash , jaundice , or any other sign of hypersensitivity and supportive measures instituted ( See PRECAUTIONS : Information for Patients and ADVERSE REACTIONS ) .
+Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including Proquin XR , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who represent with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+Peripheral Neuropathy : Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and / or large axons resulting in paresthesias , hypoesthesias , dyesthesias , and weakness have been reported in patients receiving quinolones , including ciprofloxacin .
+Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy , including pain , burning , tingling , numbness , and / or weakness , or is found to have deficits in light touch , pain , temperature , position , sense , vibratory sensation , and / or motor strength in order to prevent the development of an irreversible condition .
+PRECAUTIONS General Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals , which is usually alkaline .
+( See ANIMAL PHARMACOLOGY ) .
+Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic .
+Alkalinity of the urine should be avoided in patients receiving ciprofloxacin .
+Patients should be well hydrated to prevent the formation of highly concentrated urine .
+Quinolones , including ciprofloxacin , may also cause CNS events , including nervousness , agitation , insomnia , anxiety , nightmares , or paranoia .
+( See WARNINGS ) Moderate to severe photosensitivity / phototoxicity reactions , the latter of which may manifest as exaggerated sunburn reactions ( e . g . , burning , erythema , exudation , vesicles , blistering , edema ) involving areas exposed to light ( typically the face , " V " area of the neck , extensor surfaces of the forearms , dorsa of the hands ) , can be associated with the use of quinolone antibiotics after sun or UV light exposure .
+Therefore , excessive exposure to these sources of light should be avoided .
+Drug therapy should be discontinued if phototoxicity occurs ( See ADVERSE REACTIONS and ADVERSE REACTIONS / Post - Marketing Adverse Events ) .
+Prescribing Proquin XR in the absence of a strongly suspected bacterial infection is unlikely to benefit the patient and increases the risk of the development of drug - resistant bacteria .
+Information for Patients Patients should be advised : • to contact their healthcare provider if they experience pain , swelling , or inflammation of a tendon , or weakness or inability to use one of their joints ; rest and refrain from exercise ; and discontinue Proquin XR treatment .
+The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart or lung transplants .
+• that antibacterial drugs , including Proquin XR , should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When Proquin XR is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by Proquin XR or other antibacterial drugs in the future .
+• that Proquin XR should only be used to treat uncomplicated urinary tract infections ( also known as bladder infections ) .
+The safety and efficacy of Proquin XR to treat other urinary tract or non - urinary tract infections have not been studied .
+• that Proquin XR should be taken with a main meal of the day , preferably the evening meal .
+The patient should not take more than one Proquin XR tablet per day , even if the patient misses a dose .
+• that Proquin XR tablets should be taken whole and never split , crushed , or chewed .
+• that concomitant administration of Proquin XR with aluminum or magnesium - containing antacids , sucralfate , VIDEX ® ( didanosine ) chewable buffered tablets or pediatric powder , metal cations such as iron and calcium , and multivitamin preparations containing zinc should be avoided .
+Proquin XR should be administered at least 4 hours before or 2 hours after these products .
+( See CLINICAL PHARMACOLOGY : Drug Interactions , DOSAGE AND ADMINISTRATION , and PRECAUTIONS : Drug Interactions ) • that Proquin XR should not be taken with dairy products ( like milk or yogurt ) or calcium - fortified juices alone , since the absorption of ciprofloxacin may be significantly reduced .
+However , Proquin XR may be taken with a meal that contains these products .
+( See CLINICAL PHARMACOLOGY : Drug Interactions and PRECAUTIONS : Drug Interactions ) • that ciprofloxacin may be associated with hypersensitivity reactions , even following a single dose , and to discontinue Proquin XR at the first sign of a skin rash or other allergic reaction and contact their physician .
+• that photosensitivity / phototoxicity has been reported in patients receiving quinolone antibiotics .
+Patients should minimize or avoid exposure to natural or artificial sunlight ( tanning beds or UVA / B treatment ) while taking quinolones .
+If patients need to be outdoors while using quinolones , they should wear loose - fitting clothes that protect the skin from sun exposure and discuss other sun protection measures with their physician .
+If a sunburn - like reaction or skin eruption occurs , patients should contact their physician ; • that peripheral neuropathies have been associated with ciprofloxacin use .
+If symptoms of peripheral neuropathy including pain , burning , tingling , numbness and / or weakness develop , patients should discontinue treatment and contact their physician .
+• to contact their doctor if they do not feel better or if they develop fever and back pain while or after taking Proquin XR .
+• that Proquin XR may cause dizziness and lightheadedness ; therefore , patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination .
+• that Proquin XR may increase the effects of theophylline and caffeine .
+There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking quinolones .
+• that convulsions have been reported in patients receiving quinolones , including ciprofloxacin , and to notify their physician before taking this drug if there is a history of this condition .
+• that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible .
+Drug Interactions Caffeine : Some quinolones , including ciprofloxacin , have also been shown to interfere with the metabolism of caffeine .
+This may lead to reduced clearance of caffeine and a prolongation of its serum half - life .
+Cyclosporine : Some quinolones , including ciprofloxacin , have been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly .
+Glyburide : The concomitant administration of ciprofloxacin with the sulfonylurea glyburide has , on rare occasions , resulted in severe hypoglycemia .
+Histamine H2 - receptor antagonists : Histamine H2 - receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin .
+Methotrexate : Renal tubular transport of methotrexate may be inhibited by concomitant administration of ciprofloxacin , potentially leading to increased plasma levels of methotrexate .
+This might increase the risk of methotrexate toxic reactions .
+Therefore , patients under methotrexate therapy should be carefully monitored when concomitant ciprofloxacin therapy is indicated .
+Multivalent cation - containing products : Concurrent administration of a quinolone , including ciprofloxacin , with multivalent cation - containing products such as magnesium or aluminum antacids , sucralfate , VIDEX ® chewable / buffered tablets or pediatric powder , or products containing calcium , iron , or zinc may substantially decrease the absorption of ciprofloxacin , resulting in serum and urine levels considerably lower than desired .
+Proquin XR should be administered at least 4 hours before or 2 hours after these products .
+This time window is different than for other oral formulations of ciprofloxacin , which are usually administered 2 hours before or 6 hours after antacids .
+( See CLINICAL PHARMACOLOGY : Drug Interactions , PRECAUTIONS : Information for Patients , and DOSAGE AND ADMINISTRATION ) Non - steroidal anti - inflammatory drugs ( but not aspirin ) : These drugs in combination with very high doses of quinolones have been shown to provoke convulsions in pre - clinical studies .
+Omeprazole : The rate and extent of absorption of ciprofloxacin was bioequivalent when Proquin XR was given alone or when Proquin XR was given 2 hours after omeprazole at the dose that maximally suppresses gastric acid secretion .
+Omeprazole should be taken as directed and Proquin XR should be taken with a main meal of the day , preferably the evening meal .
+( See CLINICAL PHARMACOLOGY : Drug Interactions and Information for Patients ) .
+Phenytoin : Altered serum levels of phenytoin ( increased and decreased ) have been reported in patients receiving concomitant ciprofloxacin .
+Probenecid : Probenecid interferes with renal tubular secretion of ciprofloxacin and produces an increase in the level of ciprofloxacin in serum .
+Theophylline : As with some other quinolones , concurrent administration of ciprofloxacin with theophylline may lead to elevated serum concentrations of theophylline and prolongation of its elimination half - life .
+This may result in increased risk of theophylline - related adverse reactions .
+( See WARNINGS ) If concomitant use cannot be avoided , serum levels of theophylline should be monitored and dosage adjustments made as appropriate .
+Warfarin : Quinolones have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives .
+When these products are administered concomitantly , prothrombin time or other suitable coagulation tests should be monitored .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Rodent carcinogenicity studies were not required .
+Two in vitro mutagenicity tests were conducted with ciprofloxacin : • Bacterial Reverse Mutation Assay ; negative for mutagenicity in the presence and absence of an S - 9 metabolic activation system .
+• Chinese Hamster Ovary ( CHO ) Chromosomal Aberration Assay ; positive for inducing chromosomal aberrations .
+In addition to the in vitro genotoxicity assays , an in vivo rat micronucleus study with ciprofloxacin was negative .
+Fertility studies performed with male and female rats at oral doses of ciprofloxacin up to 600 mg / kg / day ( approximately 10 - fold the recommended 500 mg therapeutic dose based upon body surface area ) revealed no evidence of impairment .
+Pregnancy : Teratogenic Effects .
+Pregnancy Category C There are no adequate and well - controlled studies of Proquin XR in pregnant women .
+An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk ( quantity and quality of data = fair ) , but the data are insufficient to state that there is no risk .
+A controlled prospective observational study followed 200 women exposed to fluoroquinolones ( 52 . 5 % exposed to ciprofloxacin and 68 % first trimester exposures ) during gestation .
+In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations .
+The reported rates of major congenital malformations were 2 . 2 % for the fluoroquinolone group and 2 . 6 % for the control group ( background incidence of major malformations is 1 - 5 % ) .
+Rates of spontaneous abortions , prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children .
+Another prospective follow up study reported on 549 pregnancies with fluoroquinolone exposure ( 93 % first trimester exposures ) .
+There were 70 ciprofloxacin exposures , all within the first trimester .
+The malformation rates among live - born babies exposed to ciprofloxacin and to fluoroquinolones overall were both within background incidence ranges .
+No specific patterns of congenital abnormalities were found .
+The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin .
+No differences in the rates of prematurity , spontaneous abortions , or birth weight were seen in women exposed to ciprofloxacin during pregnancy .
+However , these small postmarketing epidemiology studies , of which most experience is from short term first semester exposure , are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses .
+Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother ( see WARNINGS ) .
+Embryo / fetal developmental toxicity studies were conducted in pregnant rats and rabbits using oral doses up to 600 mg / kg / day in rats and 30 mg / kg / day in rabbits .
+Fetal development ( skeletal variation ) was affected in rats at the maternally toxic dose of 600 mg / kg / day ( approximately 1 . 8 - fold the recommended 500 mg therapeutic dose based upon plasma AUC measure of systemic exposure ) .
+The maternally toxic 30 mg / kg / day dose to pregnant rabbits resulted in abortions and body weight gain depression ; embryo / fetal lethality and skeletal developmental effects were observed at this dose level ( approximately 1 . 2 - fold the recommended therapeutic dose based upon body surface area ) .
+The 10 mg / kg / day dose level , although maternally toxic , did not induce embryo / fetal developmental effects .
+A peri / postnatal developmental toxicity study with pregnant / lactating female rats exhibited no developmental effects to the F1 pups at the highest dose level of 600 mg / kg / day ; the 300 and 600 mg / kg / day dose levels were maternally toxic to the pregnant dams based upon slight body weight gain reduction .
+No evidence of compound - related fetal malformation was observed in any of the reproductive toxicity studies .
+Nursing Mothers Ciprofloxacin is excreted in human milk .
+The amount of ciprofloxacin absorbed by the nursing infant is unknown .
+Because of the potential for serious adverse reactions in infants nursing from mothers taking ciprofloxacin , a decision should be made whether to discontinue nursing or to discontinue ciprofloxacin taking into account the importance of the drug to the mother .
+Pediatric Use The safety and effectiveness of Proquin XR in pediatric patients and adolescents less than 18 years of age have not been established .
+Quinolones , including ciprofloxacin , cause arthropathy in juvenile animals .
+( See WARNINGS ) Geriatric Use Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as Proquin XR .
+This risk is further increased in patients receiving concomitant corticosteroid therapy .
+Tendinitis or tendon rupture can involve the Achilles , hand , shoulder , or other tendon sites and can occur during or after completion of therapy ; cases occurring up to several months after fluoroquinolone treatment have been reported .
+Caution should be used when prescribing Proquin XR to elderly patients especially those on corticosteroids .
+Patients should be informed of this potential side effect and advised to discontinue Proquin XR and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur ( See Boxed Warning , WARNINGS , and ADVERSE REACTIONS / Post - Marketing Adverse Event Reports ) .
+Clinical experience with Proquin XR did not include sufficient number of subjects 65 years of age or older to determine whether they respond differently than younger subjects .
+Reported clinical experience with other formulations of ciprofloxacin has not identified differences in responses between elderly and younger patients , but greater sensitivity of some older individuals on any drug therapy cannot be ruled out .
+Ciprofloxacin is substantially excreted by the kidney and the risk of adverse reactions may be greater in patients with impaired renal function .
+No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function .
+( See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ) In general , elderly patients may be more susceptible to drug - associated effects on the QT interval .
+Therefore , precaution should be taken when using Proquin XR with concomitant drugs that can result in prolongation of the QT interval ( e . g . class IA or class III antiarrhythmics ) or in patients with risk factors for torsades de pointes ( e . g . , known QT prolongation , uncorrected hypokalemia ) .
+ADVERSE REACTIONS Two clinical trials enrolled 1 , 095 patients , of whom 547 patients received Proquin XR 500 mg once daily and 538 patients received CIPRO 250 mg twice daily for 3 days .
+The patients were followed for approximately 5 weeks after the end of study drug dosing .
+Most adverse events reported were described as mild to moderate in severity and required no treatment .
+Proquin XR was discontinued due to adverse reactions thought to be drug - related in 0 . 5 % of patients .
+The incidence of all adverse events ( regardless of relationship to study drug ) reported for at least 2 % of patients treated with Proquin XR during the entire 5 - week study period was as follows : fungal infection ( 2 . 6 % ) , nasopharyngitis ( 2 . 6 % ) , headache ( 2 . 4 % ) , and micturition urgency ( 2 . 0 % ) .
+The incidence of adverse events ( regardless of relationship to study drug ) reported for at least 1 % of patients treated with Proquin XR during study drug treatment and up to 3 days after study drug was headache ( 1 . 5 % ) .
+The incidence of adverse events , judged by investigators to be at least possibly drug - related , occurring any time during the study in at least 1 % of Proquin XR - treated patients was fungal infection ( 1 . 6 % ) .
+Additional uncommon events , judged by the investigator to be at least possibly drug - related , occurring at any time during the study in less than 1 % of Proquin XR - treated patients were : Cardiac Disorders : ventricular bigeminy .
+Immune System Disorders : hypersensitivity .
+Gastrointestinal Disorders : abdominal pain , nausea , diarrhea , dyspepsia , aggravated irritable bowel syndrome , lower abdominal pain , vomiting .
+General Disorders : suprapubic pain , fatigue , pain , rigors , tenderness .
+Infections and Infestations : urinary tract infection , fungal vaginosis , bacterial vaginitis , vaginal candidiasis , vaginal infection , vaginitis .
+Investigations : blood bilirubin increased , alanine aminotransferase increased , abdominal aortic bruit , aspartate aminotransferase increased , body temperature increased .
+Musculoskeletal and Connective Tissue Disorders : joint swelling , muscle spasms , night cramps .
+Nervous System Disorders : headache , dizziness , disturbance in attention , paresthesia .
+Renal and Urinary Disorders : micturition urgency , dysuria , urinary frequency , abnormal urine odor .
+Reproductive System and Breast Disorders : female genital pruritus .
+Respiratory , Thoracic , and Mediastinal Disorders : dyspnea .
+Skin / Subcutaneous Tissue Disorders : rash , photosensitivity / phototoxicity reaction , pruritus , urticaria .
+Reported Post - Marketing Adverse Events with Other Formulations of Ciprofloxacin The following adverse events , some of them life threatening , regardless of incidence or relationship to drug , have been reported during clinical trials and from worldwide post - marketing experience in patients given ciprofloxacin ( includes all formulations , all dosages , all drug - therapy , and all indications ) .
+Because these reactions have been reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or a causal relationship to drug exposure .
+The events in alphabetical order are : Abnormal gait , achiness , acidosis , agitation , agranulocytosis , allergic reactions ( ranging from urticaria to anaphylactic reactions ) , amylase increase , anemia , angina pectoris , angioedema , anosmia , anxiety , arrhythmia , arthralgia , ataxia , atrial flutter , bleeding diathesis , blurred vision , bronchospasm , C . difficile associated diarrhea , candidiasis ( cutaneous , oral ) , candiduria , cardiac murmur , cardiopulmonary arrest , cardiovascular collapse , cerebral thrombosis , chills , cholestatic jaundice , chromatopsia , confusion , convulsion , delirium , depression , diplopia , drowsiness , dysphagia , dyspnea , edema ( conjunctivae , face , hands , laryngeal , lips , lower extremities , neck , pulmonary ) , epistaxis , erythema multiforme , erythema nodosum , exfoliative dermatitis , fever , fixed eruptions , flushing , gastrointestinal bleeding , gout ( flare up ) , grand mal convulsion , gynecomastia , hallucinations , hearing loss , hematuria , hemolytic anemia , hemoptysis , hemorrhagic cystitis , hepatic failure ( including fatal cases ) , hepatic necrosis , hepatitis , hiccup , hyperesthesia , hyperpigmentation , hypertension , hypertonia , hypoesthesia , hypotension , ileus , insomnia , interstitial nephritis , intestinal perforation , jaundice , joint stiffness , lethargy , lightheadedness , lipase increase , lymphadenopathy , malaise , manic reaction , marrow depression , migraine , moniliasis ( oral , gastrointestinal , vaginal ) , mouth dryness , myalgia , myasthenia , myasthenia gravis ( possible exacerbation ) , myocardial infarction , myoclonus , nephritis , nightmares , nystagmus , oral ulceration , pain ( arm , back , breast , chest , epigastric , eye , extremities , foot , jaw , neck , oral mucosa ) , palpitation , pancreatitis , pancytopenia , paranoia , paresthesia , peripheral neuropathy , perspiration ( increased ) , petechia , phlebitis , phobia , photosensitivity / phototoxicity reaction ( see PRECAUTIONS ) pleural effusion , polyuria , postural hypotension , prothrombin time prolongation , pseudomembranous colitis ( the onset of symptoms may occur during or after antimicrobial treatment ) , pulmonary embolism , purpura , renal calculi , renal failure , respiratory arrest , respiratory distress , restlessness , serum sickness - like reaction , Stevens - Johnson syndrome , sweating , syncope , tachycardia , taste loss , tendonitis , tendon rupture , tinnitus , torsade de pointes , toxic epidermal necrolysis , toxic psychosis , tremor , twitching , unresponsiveness , urethral bleeding , urinary retention , urination ( frequent ) , vaginal pruritus , vasculitis , ventricular ectopy , vesicles , visual acuity ( decreased ) , visual disturbances ( flashing lights , change in color perception , overbrightness of lights ) , weakness .
+Reported Laboratory Changes with Proquin XR and Other Formulations of Ciprofloxacin The following laboratory adverse events were reported for Proquin XR - treated patients during clinical trials : anemia , blood bilirubin increased , alanine aminotransferase increased , aspartate aminotransferase increased , platelet count decreased , and hematuria .
+All events were reported for < 1 % of Proquin XR - treated patients , except for hematuria ( 1 . 2 % ) .
+The following adverse laboratory changes , in alphabetical order , regardless of incidence or relationship to drug , have been reported in patients given ciprofloxacin ( includes all formulations , all dosages , all drug - therapy durations , and all indications ) : Decreases in blood glucose , BUN , hematocrit , hemoglobin , leukocyte counts , platelet counts , prothrombin time , serum albumin , serum potassium , total serum protein , uric acid .
+Increases in alkaline phosphatase , ALT ( SGPT ) , AST ( SGOT ) , atypical lymphocyte counts , blood glucose , blood monocytes , BUN , cholesterol , eosinophils counts , LDH , platelet counts , prothrombin time , sedimentation rate , serum amylase , serum bilirubin , serum calcium , serum cholesterol , serum creatinine phosphokinase , serum creatinine , serum gamma - glutamyl transpeptidase ( GGT ) , serum potassium , serum theophylline ( in patients receiving theophylline concomitantly ) , serum triglycerides , uric acid .
+Others : albuminuria , change in serum phenytoin , crystalluria , cylindruria , immature WBCs , leukocytosis , methemaglobinemia , pancytopenia .
+OVERDOSAGE In the event of an acute overdosage , the stomach should be emptied by inducing vomiting or by gastric lavage .
+The patient should be carefully observed and given supportive treatment .
+Adequate hydration must be maintained .
+Only a small amount of ciprofloxacin ( < 10 % ) is removed from the body after hemodialysis or peritoneal dialysis .
+Serious adverse effects were not observed in rats receiving single oral doses of ciprofloxacin as high as 2 , 000 mg / kg .
+DOSAGE AND ADMINISTRATION Proquin XR and other oral formulations of ciprofloxacin are not interchangeable .
+Proquin XR should be administered orally once daily for 3 days with a main meal of the day , preferably the evening meal .
+Proquin XR should be administered at least 4 hours before or 2 hours after antacids containing magnesium or aluminum , sucralfate , VIDEX ® ( didanosine ) chewable / buffered tablets or pediatric powder , metal cations such as iron , and multivitamin preparations containing zinc .
+Proquin XR tablets should be taken whole and never split , crushed , or chewed .
+( See CLINICAL PHARMACOLOGY : Drug Interactions ) Impaired Renal Function : Ciprofloxacin is eliminated primarily by renal excretion ; however , the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine .
+These alternate pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment .
+No dosage adjustment is required for patient with uUTI and mild to moderate renal impairment .
+The efficacy of Proquin XR has not been studied in patients with severe renal impairment .
+( See CLINICAL PHARMACOLOGY : Special Populations and PRECAUTIONS : Geriatric Use ) Impaired Liver Function : No dosage adjustment is required with Proquin XR in patients with stable chronic cirrhosis .
+However , the pharmacokinetics of ciprofloxacin in patients with acute hepatic insufficiency have not been fully elucidated .
+( See CLINICAL PHARMACOLOGY : Special Populations ) HOW SUPPLIED Proquin XR is available as blue film - coated tablets containing 500 mg ciprofloxacin .
+The tablet is debossed with " 500 " on one side and " DMI " on the other side .
+Package Strength NDC Code Bottles of 30 500 mg 13913 - 001 - 30 Blister Packs of 3 500 mg 13913 - 001 - 03 Store Proquin XR at 25 ° C ( 77 ° F ) ; excursion permitted to 15 - 30 ° C ( 59 - 86 ° F ) [ see USP Controlled Room Temperature ] ANIMAL PHARMACOLOGY There were no indications of gastrointestinal or other toxic effects due to oral administration of Proquin XR tablets to male and female beagle dogs at doses up to 1000 mg / day for 28 days ( approximately 2 . 6 - and 4 . 9 - fold [ male and female dogs , respectively ] the recommended therapeutic dose based upon AUC measures of systemic exposure ) .
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested .
+( See WARNINGS ) Crystalluria , sometimes associated with secondary nephropathy , occurs in laboratory animals dosed with the fluoroquinolone class of drugs .
+This is primarily related to the reduced solubility of ciprofloxacin under alkaline conditions , which predominate in the urine of test animals .
+In contrast , crystalluria is rare in man since human urine is typically acidic .
+In mice , concomitant administration of nonsteroidal anti - inflammatory drugs such as phenylbutazone and indomethacin with quinolones has been reported to enhance the CNS stimulatory effects of quinolones .
+Ocular toxicity seen with some related drugs has not been observed in ciprofloxacin - treated animals .
+There was no indication of ocular toxicity in the dog study cited above .
+CLINICAL STUDIES Proquin XR was evaluated for the treatment of uncomplicated urinary tract infections ( acute cystitis ) in a randomized , double - blind , controlled trial conducted in the US .
+This study compared Proquin XR ( 500 mg once daily for 3 days ) with ciprofloxacin immediate - release tablets ( CIPRO ® 250 mg twice daily for 3 days ) .
+Of the 1 , 037 patients enrolled , 524 were randomly assigned to the Proquin XR treatment group and 513 were randomly assigned to the control group .
+A total of 272 ( 52 % ) patients in the Proquin XR group and 251 ( 49 % ) in the CIPRO group were evaluable for efficacy and included in the Per - Protocol population .
+The primary efficacy variable was bacteriologic eradication of the baseline organism ( s ) with no new infection at the Test - of - Cure ( TOC ) visit ( Day 4 to 11 post - therapy ) .
+The bacteriological eradication and clinical success rates were similar for both treatment groups .
+The eradication and clinical success rates and their corresponding 95 % confidence intervals for the differences between rates ( Proquin XR minus control group ) are given in the following table : Bacteriological Eradication and Clinical Cure Rates at the Test - of - Cure ( TOC ) Visit Proquin XR 500 mg qd x 3 Days CIPRO 250 mg bid x 3 Days * Number of patients with specified baseline organism eradicated / Number of per - protocol patients with specified baseline organism .
+Randomized Patients 524 513 Per Protocol Patients 272 ( 52 % ) 251 ( 49 % ) Bacteriologic Eradication with no new infection at TOC 212 / 272 ( 78 % ) 193 / 251 ( 77 % ) ( - 6 . 2 % , 8 . 2 % ) Clinical Response at TOC 233 / 272 ( 86 % ) 216 / 251 ( 86 % ) ( - 6 . 4 % , 5 . 6 % ) Bacteriologic Eradication by organism * E . coli K . pneumonia 211 / 222 ( 95 % ) 11 / 12 ( 92 % ) 184 / 202 ( 91 % ) 10 / 13 ( 77 % ) The bacteriological eradication rates for baseline organisms at the TOC visit were 93 % ( 254 / 272 ) for Proquin XR and 90 % ( 225 / 251 ) for CIPRO .
+Of the patients with their baseline organism eradicated , new infections were detected in 42 / 254 ( 16 . 5 % ) Proquin XR - treated patients and 32 / 225 ( 14 . 2 % ) CIPRO - treated patients at the TOC visit .
+Gram - negative rods were responsible for new infections in 10 Proquin XR - treated patients and 7 CIPRO - treated patients , and Enterococcus species were isolated in 24 Proquin XR - treated patients , and 20 CIPRO - treated patients .
+REFERENCES • National Committee for Clinical Laboratory Standards .
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically Sixth Edition .
+Approved Standard NCCLS Document M7 - A6 , Vol .
+23 , No . 2 , NCCLS , Wayne , PA , January , 2003 .
+• National Committee for Clinical Laboratory Standards .
+Performance Standards for Antimicrobial Disk Susceptibility Tests Eighth Edition .
+Approved Standard NCCLS Document M2 - A8 , Vol .
+23 , No . 1 , NCCLS , Wayne , PA , January , 2003 .
+PROQUIN ® XR ( pro - kwin ) ( ciprofloxacin hydrochloride extended - release ) Tablets Read the Medication Guide that comes with Proquin ® XR before you start taking it and each time you get a refill .
+There may be new information .
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment .
+What is the most important information I should know about Proquin ® XR ?
+Proquin ® XR belongs to a class of antibiotics called fluoroquinolones .
+Proquin ® XR can cause side effects that may be serious or even cause death .
+If you get any of the following serious side effects , get medical help right away , and talk with your healthcare provider about whether you should continue to take Proquin ® XR .
+Tendon rupture or swelling of the tendon ( tendonitis ) • Tendons are the tough cords of tissue that connects muscles to bones .
+• Pain , swelling , inflammation of tendons including the back of the ankle ( Achilles ) , shoulder , hand , or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics , including Proquin ® XR .
+The risk of getting tendon problems is higher if you : • are over 60 years of age • are taking steroids ( corticosteroids ) • have had a kidney , heart or lung transplant • Swelling of the tendon ( tendonitis ) and tendon rupture ( breakage ) have also happened in patients who take fluoroquinolones who do not have the above risk factors .
+• Other reasons for tendon ruptures include : • physical activity or exercise • kidney failure • tendon problems in the past , such as in people with rheumatoid arthritis ( RA ) .
+• Call your healthcare provider right away at the first sign of tendon pain , swelling , or inflammation .
+Stop taking Proquin ® XR until tendinitis or tendon rupture has been ruled out by your healthcare provider .
+Avoid exercise and using the affected area .
+The most common area of pain and swelling is the Achilles tendon at the back of your ankle .
+This can also happen with other tendons .
+Talk to your healthcare provider about the risk of tendon rupture with continued use of Proquin ® XR .
+You may need a different antibiotic that is not a fluoroquinolone to treat your infection .
+• Tendon rupture can happen while you are taking or after you have finished taking Proquin ® XR .
+Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone .
+• Get medical help right away if you get any of the following signs or symptoms of a tendon rupture : • hear or feel a snap or pop in a tendon area • bruising right after an incident in a tendon area • unable to move the affected area or bear weight • See the section " What are the possible side effects of Proquin ® XR ? "
+for more information about side effects .
+What is Proquin ® XR ?
+Proquin ® XR is a fluoroquinolone antibiotic medicine used to treat simple bladder infections caused by certain germs called bacteria .
+It is not known if Proquin ® XR is safe and works in treating any infections other than simple bladder infections .
+It is also not known if Proquin ® XR is safe and works in children under 18 years of age .
+Children have a higher chance of getting bone , joint , or ( musculoskeletal ) problems while taking fluoroquinolone antibiotic medicines .
+Sometimes infections are caused by viruses rather than by bacteria .
+Examples include viral infections in the sinuses and lungs , such as the common cold of flu .
+Antibiotics including Proquin ® XR do not kill viruses .
+Call your healthcare provider if you think your condition is not getting better while you are taking Proquin ® XR .
+Who should not take Proquin ® XR ?
+Do not take Proquin ® XR if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone , or are allergic to any of the ingredients in Proquin ® XR .
+Ask your healthcare provider if you are not sure .
+See the list of ingredients in Proquin ® XR at the end of this Medication Guide .
+What should I tell my healthcare provider before taking Proquin ® XR ?
+See " What is the most important information I should know about Proquin ® XR ? "
+Tell your healthcare provider about all your medical conditions , including if you : • have tendon problems • have central nervous system problems ( such as epilepsy ) • have nerve problems or anyone in your family has an irregular heartbeat , especially a condition called " QT prolongation . "
+• have a history of seizures • have kidney problems • have low blood potassium ( hypokalemia ) • have rheumatoid arthritis ( RA ) or other history of joint problems • have trouble swallowing pills • are pregnant or planning to become pregnant .
+It is not known if Proquin ® XR will harm your unborn child .
+• are breast - feeding or planning to breast - feed .
+It is not known if Proquin ® XR passes into breast milk .
+You and your healthcare provider should decide whether you will take Proquin ® XR or breast - feed .
+Tell your healthcare provider about all the medicines you take , including prescription and non - prescription medicines , vitamins , and herbal and dietary supplements .
+Proquin ® XR and certain other medicines can affect each other .
+Especially tell your healthcare provider if you take : • an NSAID ( Non - Steroidal Anti - Inflammatory Drug ) .
+Many common medicines for pain relief are NSAIDs .
+Taking an NSAID while you take Proquin ® XR or other fluoroquinolones may increase your risk of central nervous system effects and seizures .
+See " What are the possible side effects of Proquin ® XR ? "
+• a blood thinner ( warfarin , Coumadin , Jantoven ) • theophylline ( Theo - 24 ® , Elixophyllin ® , Theochron ® , Uniphyl ® , Theolair ® ) • glyburide ( Micronase ® , Glynase ® , Diabeta ® , Glucovance ® ) • phenytoin ( Fosphenytoin Sodium ® , Cerebyx ® , Dilantin - 125 ® , Dilantin , Extended Phenytoin Sodium ® , Prompt Phenytoin Sodium ® , Phenytek ® ) • products that contain caffeine • a medicine to control your heart rate or rhythm ( antiarrhythmics ) .
+See " What are the possible side effects of Proquin ® XR ? "
+• an anti - psychotic medicine • a tricyclic antidepressant • a water pill ( diuretic ) • a steroid medicine .
+Corticosteroids taken by mouth or by injection may increase the chance of tendon injury .
+See " What is the most important information I should know about Proquin ® XR ? "
+• methotrexate ( Trexall ® ) • probenecid ( Col - probenecid ® ) • omeperazole ( Nexium ® , Nexium IV ® , Zegrid ® , Prilosec ® ) • metoclopromide ( Reglan ® , Reglan ODT ® ) • cyclosporine ( Gengraf ® , Sandimmune ® , Neoral ® ) • Certain medicines may keep Proquin ® XR from working correctly .
+Take Proquin ® XR at least 4 hours before or 2 hours after taking these products .
+• an antacid , multivitamin , or other product that contains magnesium , calcium , iron or zinc • sucralfate ( Carafate ) • didanosine ( Videx ® , Videx ® EC ) Ask your healthcare provider if you are not sure if any of your medicines are listed above .
+Know the medicines you take .
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine .
+What if I receive a sample of Proquin ® XR from my healthcare provider ?
+This sample contains only one dose for the first day of treatment of Proquin ® XR and is not a complete treatment .
+To treat your bladder infection , you must take all 3 daily doses of Proquin ® XR .
+You must fill a prescription from your healthcare provider for the remaining two daily doses before your next scheduled dose .
+Take all of your doses as prescribed by your healthcare provider , even if you are feeling better after the first dose .
+If you stop taking Proquin ® XR before all of your doses are complete , Proquin ® XR may not cure your bladder infection .
+It is not known if Proquin ® XR will treat infections other than bladder infections .
+See also " How should I take Proquin ® XR ? "
+How should I take Proquin ® XR ?
+• Take Proquin ® XR exactly as prescribed by your healthcare provider .
+• Proquin ® XR should be taken by mouth one time each day for 3 days • Take Proquin ® XR with your main meal of the day , preferably the evening meal .
+Try to take Proquin ® XR at about the same time each day .
+• Swallow Proquin ® XR whole .
+Do not split , crush , or chew Proquin ® XR .
+Tell your healthcare provider if you cannot swallow the tablets whole .
+Your healthcare provider will prescribe a different medicine for you .
+• Drink plenty of fluids while taking Proquin ® XR .
+• Do not take Proquin ® XR at the same time that you drink milk or juices with added calcium , unless you drink them with a main meal .
+• Proquin ® XR does not work as well if you take it without a meal .
+• Do not skip any doses , or stop taking Proquin ® XR even if you begin to feel better , until you finish your prescribed treatment , unless : • you have tendon effects ( see " What is the most important information I should know about Proquin ® XR ? " )
+• you have a serious allergic reaction ( see " What are the possible side effects of Proquin ® XR ? " )
+, or • your healthcare provider tells you to stop .
+• This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to Proquin ® XR .
+If this happens , Proquin ® XR and other antibiotic medicines may not work in the future .
+• Tell your healthcare provider if you do not feel better or if you get fever and back pain , while you are taking Proquin ® XR or after you finish taking it .
+This may mean that your infection has not been cured and you may need another antibiotic medicine to treat your infection .
+• If you miss a dose of Proquin ® XR , take it as soon as your remember .
+Do not take more than one Proquin ® XR tablet a day , even if you miss a dose .
+• If you take too much , call your healthcare provider or get medical help immediately .
+What should I avoid while taking Proquin ® XR ?
+• Proquin ® XR can make you feel dizzy and lightheaded .
+Do not drive , operate machinery , or do other activities that require mental alertness or coordination until you know how Proquin ® XR affects you .
+• Avoid sunlamps , tanning beds , and try to limit your time in the sun .
+Proquin ® XR can make your skin sensitive to the sun ( photosensitivity ) and the light from the sunlamps and tanning beds .
+You could get severe sunburn , blisters or swelling of your skin .
+If you get any of these symptoms while taking Proquin ® XR , call your healthcare provider right away .
+You should use a sunscreen , and wear a hat and clothes that cover your skin if you have to be in sunlight .
+What are the possible side effects of Proquin ® XR ?
+Proquin ® XR can cause side effects that may be serious or even cause death .
+See " What is the most important information I should know about Proquin ® XR ? "
+Other serious side effects of Proquin ® XR include : • Central Nervous System Effects : Tell your healthcare provider if you have a history of seizures .
+Ask your healthcare provider whether taking Proquin ® XR will change your risk of having a seizure .
+Seizures have been reported in patients taking fluoroquinolone antibiotics including Proquin ® XR .
+Central Nervous System ( CNS ) side effects may occur as soon as after taking the first dose of Proquin ® XR .
+Talk to your healthcare provider right away if you experience any of these side effects , or other changes in mood or behavior : • feel dizzy • seizures • dizziness • hear voices , see things , or sense things that are not there ( hallucinations ) • feel restless • tremors • feel anxious or nervous • confusion • depression • trouble sleeping • nightmares • lightheadedness • feel more suspicious ( paranoia ) • suicidal thoughts or acts • Serious allergic reactions : Allergic reactions can happen in people taking fluoroquinolones , including Proquin ® XR , even after only one dose .
+Stop taking Proquin ® XR and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction : • hives • trouble breathing or swallowing • swelling of the lips , tongue , face • throat tightness , hoarseness • rapid heartbeat • faint • yellowing of the skin or eyes .
+Stop taking Proquin ® XR and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes , or if you have dark urine .
+These can be signs of a serious reaction to Proquin ® XR ( a liver problem ) .
+• Skin rash : Skin rash may happen in people taking Proquin ® XR , even after only one dose .
+Stop taking Proquin ® XR at the first sign of a skin rash and call your healthcare provider .
+Skin rash may be sign of a more serious reaction to Proquin ® XR .
+• Serious heart rhythm changes ( QT prolongation and torsades de pointes ) : Tell your healthcare provider right away if you have a change in your heart beat ( get a fast or irregular heartbeat ) , or if you faint .
+Proquin ® XR may cause a rare heart problem known as prolongation of the QT interval .
+This condition can cause an abnormal heartbeat and can be very dangerous .
+The chances of this happening are higher in people : • who are elderly • with a family history of prolonged QT interval , • with low potassium ( hypokalemia ) , • who take certain medicines to control heart rhythm ( antiarrhythmics ) .
+• Intestine infection ( Pseudomembranous colitis ) : Pseudomembranous colitis can happen with most antibiotics , including Proquin ® XR .
+Call your healthcare provider right away if you get watery diarrhea , diarrhea that does not go away , or bloody stools .
+You may have stomach cramps and a fever .
+Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic .
+• Changes in sensation and possible nerve damage ( Peripheral Neuropathy ) : Damage to the nerves in arms , hands , legs , or feet can happen in people taking fluoroquinolones , including Proquin ® XR .
+Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms , hands , legs , or feet : • pain • burning • tingling • numbness • weakness Proquin ® XR may need to be stopped to prevent nerve damage .
+• Low blood sugar ( hypoglycemia ) : People taking fluoroquinolone medicines such as Proquin ® XR with oral anti - diabetes medicines glyburide ( Micronase ® , Glynase ® , Diabeta ® , Glucovance ® ) can get low blood sugar ( hypoglycemia ) .
+Follow your healthcare provider ' s instructions for how often to check your blood sugar .
+Tell your healthcare provider if you get low blood sugar with Proquin ® XR .
+Your antibiotic medicine may need to be changed .
+• Sensitivity to sunlight ( photosensitivity ) : See " What should I avoid while taking Proquin ® XR ? "
+The most common side effects of Proquin ® XR include : • yeast infection • inflamed nose and throat • headache • feeling an urgent need to urinate These are not all the possible side effects of Proquin ® XR .
+Tell your healthcare provider about any side effect that bothers you or that does not go away .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store Proquin ® XR ?
+• Store Proquin ® XR at 59 - 86 ° F ( 15 - 30 ° C ) .
+• Keep Proquin ® XR and all medicines out of the reach of children .
+General Information about Proquin ® XR Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use Proquin ® XR for a condition for which it is not prescribed .
+Do not share Proquin ® XR with other people , even if they have the same symptoms that you have .
+It may harm them .
+This Medication Guide summarizes the most important information about Proquin ® XR .
+If you would like more information about Proquin ® XR , talk with your healthcare provider .
+You can ask your healthcare provider or pharmacist for information about Proquin ® XR that is written for healthcare professionals .
+For more information go to www . proquinxr . com or call 1 - 866 - 458 - 6389 .
+What are the ingredients in Proquin ® XR ?
+• Active Ingredient : ciprofloxacin hydrochloride • Inactive Ingredient : film coating , magnesium stearate , polyethylene oxide , and povidone .
+Revised November 2008 PRO - 001 - C . 1 Proquin ® XR is a registered trademark of Depomed , Inc . © 2005 - 2008 Depomed , Inc Rx Only Proquin ® XR Depomed , Inc . 1360 O ' Brien Drive Menlo Park , CA 94025 - 1436 1 - 866 - 458 - 6389 This Medication Guide has been approved by the U . S . Food and Drug Administration .
+PRINCIPAL DISPLAY PANEL NDC 13913 - 001 - 30 - Bottles of 30 ( 500 mg Tablets ) [ MULTIMEDIA ] [ MULTIMEDIA ]

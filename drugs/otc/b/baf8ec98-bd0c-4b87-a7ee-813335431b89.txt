@@ -1,0 +1,244 @@
+DESCRIPTION Rifabutin Capsules for oral administration contain 150 mg of the rifamycin antimycobacterial agent rifabutin , USP , per capsule along with the inactive ingredients , microcrystalline cellulose , sodium lauryl sulfate , colloidal silicon dioxide , magnesium stearate .
+The hard gelatin capsule contains titanium dioxide , red iron oxide , gelatin , sodium lauryl sulfate and purified water .
+The imprinting ink contains shellac , dehydrated alcohol , isopropyl alcohol , butyl alcohol , propylene glycol , strong ammonia solution , black iron oxide , potassium hydroxide and purified water .
+The chemical name for rifabutin is 1 ' , 4 - didehydro - 1 - deoxy - 1 , 4 - dihydro - 5 ' - ( 2 - methylpropyl ) - 1 - oxorifamycin XIV ( Chemical Abstracts Service , 9 th Collective Index ) or ( 9 S , 12 E , 14 S , 15 R , 16 S , 17 R , 18 R , 19 R , 20 S , 21 S , 22 E , 24 Z ) - 6 , 16 , 18 , 20 - tetrahydroxy - 1 ' - isobutyl - 14 - methoxy - 7 , 9 , 15 , 17 , 19 , 21 , 25 - heptamethyl - spiro [ 9 , 4 - ( epoxypentadeca [ 1 , 11 , 13 ] trienimino ) - 2 H - furo [ 2 ' , 3 ' : 7 , 8 ] naphth [ 1 , 2 - d ] imidazole - 2 , 4 ' - piperidine ] - 5 , 10 , 26 - ( 3 H , 9 H ) - trione - 16 - acetate .
+Rifabutin has a molecular formula of C46H62N4O11 , a molecular weight of 847 . 02 and the following structure : [ MULTIMEDIA ] Rifabutin is a red - violet powder soluble in methanol , slightly soluble in ethanol , and slightly soluble in water ( 0 . 21 mg / mL ) .
+Its log P value ( the base 10 logarithm of the partition coefficient between n - octanol and water ) is 3 . 2 ( n - octanol / water ) .
+FDA approved dissolution method differs from the current USP monograph dissolution method .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Pharmacokinetics Absorption Following a single oral dose of 300 mg to nine healthy adult volunteers , rifabutin was readily absorbed from the gastrointestinal tract with mean ( ± SD ) peak plasma levels ( Cmax ) of 375 ( ± 267 ) ng / mL ( range : 141 to 1033 ng / mL ) attained in 3 . 3 ( ± 0 . 9 ) hours ( Tmax range : 2 to 4 hours ) .
+Absolute bioavailability assessed in five HIV - positive patients , who received both oral and intravenous doses , averaged 20 % .
+Total recovery of radioactivity in the urine indicates that at least 53 % of the orally administered rifabutin dose is absorbed from the gastrointestinal tract .
+The bioavailability of rifabutin from the capsule dosage form , relative to an oral solution , was 85 % in 12 healthy adult volunteers .
+High - fat meals slow the rate without influencing the extent of absorption from the capsule dosage form .
+Plasma concentrations post - Cmax declined in an apparent biphasic manner .
+Pharmacokinetic dose - proportionality was established over the 300 mg to 600 mg dose range in nine healthy adult volunteers ( crossover design ) and in 16 early symptomatic human immunodeficiency virus ( HIV ) - positive patients over a 300 mg to 900 mg dose range .
+Distribution Due to its high lipophilicity , rifabutin demonstrates a high propensity for distribution and intracellular tissue uptake .
+Following intravenous dosing , estimates of apparent steady - state distribution volume ( 9 . 3 ± 1 . 5 L / kg ) in five HIV - positive patients exceeded total body water by approximately 15 - fold .
+Substantially higher intracellular tissue levels than those seen in plasma have been observed in both rat and man .
+The lung - to - plasma concentration ratio , obtained at 12 hours , was approximately 6 . 5 in four surgical patients who received an oral dose .
+Mean rifabutin steady - state trough levels ( Cp , minss ; 24 - hour post - dose ) ranged from 50 to 65 ng / mL in HIV - positive patients and in healthy adult volunteers .
+About 85 % of the drug is bound in a concentration - independent manner to plasma proteins over a concentration range of 0 . 05 to 1 µg / mL .
+Binding does not appear to be influenced by renal or hepatic dysfunction .
+Rifabutin was slowly eliminated from plasma in seven healthy adult volunteers , presumably because of distribution - limited elimination , with a mean terminal half - life of 45 ( ± 17 ) hours ( range : 16 to 69 hours ) .
+Although the systemic levels of rifabutin following multiple dosing decreased by 38 % , its terminal half - life remained unchanged .
+Metabolism Of the five metabolites that have been identified , 25 - O - desacetyl and 31 - hydroxy are the most predominant , and show a plasma metabolite : parent area under the curve ratio of 0 . 10 and 0 . 07 , respectively .
+The former has an activity equal to the parent drug and contributes up to 10 % to the total antimicrobial activity .
+Excretion A mass - balance study in three healthy adult volunteers with 14 C - labeled rifabutin showed that 53 % of the oral dose was excreted in the urine , primarily as metabolites .
+About 30 % of the dose is excreted in the feces .
+Mean systemic clearance ( CLs / F ) in healthy adult volunteers following a single oral dose was 0 . 69 ( ± 0 . 32 ) L / hr / kg ( range : 0 . 46 to 1 . 34 L / hr / kg ) .
+Renal and biliary clearance of unchanged drug each contribute approximately 5 % to CLs / F .
+Pharmacokinetics in Special Populations Geriatric Compared to healthy volunteers , steady - state kinetics of Rifabutin are more variable in elderly patients ( > 70 years ) .
+Pediatric The pharmacokinetics of Rifabutin have not been studied in subjects under 18 years of age .
+Renal Impairment The disposition of rifabutin ( 300 mg ) was studied in 18 patients with varying degrees of renal function .
+Area under plasma concentration time curve ( AUC ) increased by about 71 % in patients with severe renal impairment ( creatinine clearance below 30 mL / min ) compared to patients with creatinine clearance ( Crcl ) between 61 – 74 mL / min .
+In patients with mild to moderate renal impairment ( Crcl between 30 – 61 mL / min ) , the AUC increased by about 41 % .
+In patients with severe renal impairment , carefully monitor for rifabutin associated adverse events .
+A reduction in the dosage of rifabutin is recommended for patientswith Crcl < 30 mL / min if toxicity is suspected ( see DOSAGE AND ADMINISTRATION ) .
+Hepatic Impairment Mild hepatic impairment does not require a dose modification .
+The pharmacokinetics of rifabutin in patients with moderate and severe hepatic impairment is not known .
+Malabsorption in HIV - Infected Patients Alterations in gastric pH due to progressing HIV disease has been linked with malabsorption of some drugs used in HIV - positive patients ( e . g . , rifampin , isoniazid ) .
+Drug serum concentrations data from AIDS patients with varying disease severity ( based on CD4 + counts ) suggests that rifabutin absorption is not influenced by progressing HIV disease .
+Drug - Drug Interactions ( see also PRECAUTIONS - Drug Interactions ) Multiple dosing of rifabutin has been associated with induction of hepatic metabolic enzymes of the CYP3A subfamily .
+Rifabutin ' s predominant metabolite ( 25 - desacetyl rifabutin : LM565 ) , may also contribute to this effect .
+Metabolic induction due to rifabutin is likely to produce a decrease in plasma concentrations of concomitantly administered drugs that are primarily metabolized by the CYP3A enzymes .
+Similarly , concomitant medications that competitively inhibit the CYP3A activity may increase plasma concentrations of rifabutin .
+CLINICAL STUDIES Two randomized , double - blind clinical trials ( Study 023 and Study 027 ) compared Rifabutin ( 300 mg / day ) to placebo in patients with CDC - defined AIDS and CD4 counts ≤ 200 cells / µL .
+These studies accrued patients from 2 / 90 through 2 / 92 .
+Study 023 enrolled 590 patients , with a median CD4 cell count at study entry of 42 cells / µL ( mean 61 ) .
+Study 027 enrolled 556 patients with a median CD4 cell count at study entry of 40 cells / µL ( mean 58 ) .
+Endpoints included the following : ( 1 ) MAC bacteremia , defined as at least one blood culture positive for Mycobacterium avium complex ( MAC ) bacteria .
+( 2 ) Clinically significant disseminated MAC disease , defined as MAC bacteremia accompanied by signs or symptoms of serious MAC infection , including one or more of the following : fever , night sweats , rigors , weight loss , worsening anemia , and / or elevations in alkaline phosphatase .
+( 3 ) Survival .
+MAC Bacteremia Participants who received Rifabutin were one - third to one - half as likely to develop MAC bacteremia as were participants who received placebo .
+These results were statistically significant ( Study 023 : p < 0 . 001 ; Study 027 : p = 0 . 002 ) .
+In Study 023 , the one - year cumulative incidence of MAC bacteremia , on an intent to treat basis , was 9 % for patients randomized to Rifabutin and 22 % for patients randomized to placebo .
+In Study 027 , these rates were 13 % and 28 % for patients receiving Rifabutin and placebo , respectively .
+Most cases of MAC bacteremia ( approximately 90 % in these studies ) occurred among participants whose CD4 count at study entry was ≤ 100 cells / µL .
+The median and mean CD4 counts at onset of MAC bacteremia were 13 cells / µL and 24 cells / µL , respectively .
+These studies did not investigate the optimal time to begin MAC prophylaxis .
+Clinically Significant Disseminated MAC Disease In association with the decreased incidence of bacteremia , patients on Rifabutin showed reductions in the signs and symptoms of disseminated MAC disease , including fever , night sweats , weight loss , fatigue , abdominal pain , anemia , and hepatic dysfunction .
+Survival The one - year survival rates in Study 023 were 77 % for the group receiving Rifabutin and 77 % for the placebo group .
+In Study 027 , the one - year survival rates were 77 % for the group receiving Rifabutin and 70 % for the placebo group .
+These differences were not statistically significant .
+Microbiology Mechanism of Action Rifabutin inhibits DNA - dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells .
+In resistant strains of E . coli , rifabutin , like rifampin , did not inhibit this enzyme .
+It is not known whether rifabutin inhibits DNA - dependent RNA polymerase in Mycobacterium avium or in M . intracellulare which comprise M . avium complex ( MAC ) .
+Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug , please see : https : / / www . fda . gov / STIC .
+In Vitro Studies Rifabutin has demonstrated in vitro activity against M . avium complex ( MAC ) organisms isolated from both HIV - positive and HIV - negative people .
+While - gene probe techniques may be used to identify these two organisms , many reported studies did not distinguish between these two species .
+The vast majority of isolates from MAC - infected , HIV - positive people are M . avium , whereas in HIV - negative people , about 40 % of the MAC isolates are M . intracellulare .
+Various in vitro methodologies employing broth or solid media , with and without polysorbate 80 ( Tween 80 ) , have been used to determine rifabutin MIC values for mycobacterial species .
+In general , MIC values determined in broth are several fold lower than that observed with methods employing solid media .
+Utilization of Tween 80 in these assays has been shown to further lower MIC values .
+However , MIC values were substantially higher for egg - based compared to agar - based solid media .
+Rifabutin activity against 211 MAC isolates from HIV - positive people was evaluated in vitro utilizing a radiometric broth and an agar dilution method .
+Results showed that 78 % and 82 % of these isolates had MIC99 values of ≤ 0 . 25 µg / mL and ≤ 1 . 0 µg / mL , respectively , when evaluated by these two methods .
+Rifabutin was also shown to be active against phagocytized , M . avium complex in a mouse macrophage cell culture model .
+Rifabutin has in vitro activity against many strains of Mycobacterium tuberculosis .
+In one study , utilizing the radiometric broth method , each of 17 and 20 rifampin - naive clinical isolates tested from the United States and Taiwan , respectively , were shown to be susceptible to rifabutin concentrations of ≤ 0 . 125 µg / mL .
+Cross - resistance between rifampin and rifabutin is commonly observed with M . tuberculosis and M . avium complex isolates .
+Isolates of M . tuberculosis resistant to rifampin are likely to be resistant to rifabutin .
+Rifampicin and rifabutin MIC99 values against 523 isolates of M . avium complex were determined utilizing the agar dilution method ( Heifets , Leonid B . and Iseman , Michael D . Determination of in vitro susceptibility of Mycobacteria to Ansamycin .
+Am .
+Rev . Respir .
+Dis .
+1985 ; 132 ( 3 ) : 710 – 711 ) .
+Table 1 Susceptibility of M . Avium Complex Strains to Rifampin and Rifabutin % of Strains Susceptible / Resistant to Different Concentrations of Rifabutin ( μg / mL ) Susceptibility to Rifampin ( µg / mL ) Number of Strains Susceptible to 0 . 5 Resistant to 0 . 5 only Resistant to 1 . 0 Resistant to 2 . 0 Susceptible to 1 . 0 30 100 . 0 0 . 0 0 . 0 0 . 0 Resistant to 1 . 0 only 163 88 . 3 11 . 7 0 . 0 0 . 0 Resistant to 5 . 0 105 38 . 0 57 . 1 2 . 9 2 . 0 Resistant to 10 . 0 225 20 . 0 50 . 2 19 . 6 10 . 2 TOTAL 523 49 . 5 36 . 7 9 . 0 4 . 8 Rifabutin in vitro MIC99 values of ≤ 0 . 5 µg / mL , determined by the agar dilution method , for M . kansasii , M . gordonae and M . marinum have been reported ; however , the clinical significance of these results is unknown .
+INDICATIONS & USAGE Rifabutin Capsules are indicated for the prevention of disseminated Mycobacterium avium complex ( MAC ) disease in patients with advanced HIV infection .
+CONTRAINDICATIONS Rifabutin Capsules are contraindicated in patients who have had clinically significant hypersensitivity to rifabutin or to any other rifamycins .
+WARNINGS Tuberculosis Rifabutin Capsules must not be administered for MAC prophylaxis to patients with active tuberculosis .
+Patients who develop complaints consistent with active tuberculosis while on prophylaxis with Rifabutin should be evaluated immediately , so that those with active disease may be given an effective combination regimen of anti - tuberculosis medications .
+Administration of Rifabutin as a single agent to patients with active tuberculosis is likely to lead to the development of tuberculosis that is resistant both to Rifabutin and to rifampin .
+There is no evidence that Rifabutin is an effective prophylaxis against M . tuberculosis .
+Patients requiring prophylaxis against both M . tuberculosis and Mycobacterium avium complex may be given isoniazid and Rifabutin concurrently .
+Tuberculosis in HIV - positive patients is common and may present with atypical or extrapulmonary findings .
+Patients are likely to have a nonreactive purified protein derivative ( PPD ) despite active disease .
+In addition to chest X - ray and sputum culture , the following studies may be useful in the diagnosis of tuberculosis in the HIV - positive patient : blood culture , urine culture , or biopsy of a suspicious lymph node .
+MAC Treatment with Clarithromycin When Rifabutin is used concomitantly with clarithromycin for MAC treatment , a decreased dose of Rifabutin is recommended due to the increase in plasma concentrations of Rifabutin ( see PRECAUTIONS - Drug Interactions , Table 2 ) .
+Hypersensitivity and Related Reactions Hypersensitivity reactions may occur in patients receiving rifamycins .
+Signs and symptoms of these reactions may include hypotension , urticaria , angioedema , acute bronchospasm , conjunctivitis , thrombocytopenia , neutropenia or flu - like syndrome ( weakness , fatigue , muscle pain , nausea , vomiting , headache , fever , chills , aches , rash , itching , sweats , dizziness , shortness of breath , chest pain , cough , syncope , palpitations ) .
+There have been reports of anaphylaxis with the use of rifamycins .
+Monitor patients receiving Rifabutin therapy for signs and / or symptoms of hypersensitivity reactions .
+If these symptoms occur , administer supportive measures and discontinue Rifabutin .
+Uveitis Due to the possible occurrence of uveitis , patients should also be carefully monitored when Rifabutin is given in combination with clarithromycin ( or other macrolides ) and / or fluconazole and related compounds ( see PRECAUTIONS - Drug Interactions , Table 2 ) .
+If uveitis is suspected , the patient should be referred to an ophthalmologist and , if considered necessary , treatment with Rifabutin should be suspended ( see also ADVERSE REACTIONS ) .
+Clostridioides difficile Associated Diarrhea Clostridioidesdifficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including Rifabutin Capsules and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibacterial use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibacterial use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibacterial treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+Severe Cutaneous Adverse Reactions There have been reports of severe cutaneous adverse reactions ( SCAR ) , such as Stevens - Johnson syndrome ( SJS ) , toxic epidermal necrolysis ( TEN ) , drug reaction with eosinophilia and systemic symptoms ( DRESS ) , and acute generalized exanthematous pustulosis ( AGEP ) associated with Rifabutin ( see ADVERSE REACTIONS ) .
+If patients develop a skin rash they should be monitored closely , and Rifabutin discontinued if lesions progress .
+Specifically , for DRESS , a multi - system potential life - threatening SCAR , time to onset of the first symptoms may be prolonged .
+DRESS is a clinical diagnosis , and its clinical presentation remains the basis for decision making .
+An early withdrawal of Rifabutin is essential because of the syndrome ’ s mortality and visceral involvement ( e . g . , liver , bone marrow or kidney ) .
+Antiretroviral Drug Interactions Protease inhibitors act as substrates or inhibitors of CYP3A4 mediated metabolism .
+Therefore , due to significant drug - drug interactions between protease inhibitors and rifabutin , their concomitant use should be based on the overall assessment of the patient and a patient - specific drug profile .
+The concomitant use of protease inhibitors may require at least a 50 % reduction in rifabutin dose , and depending on the protease inhibitor , an adjustment of the antiretroviral drug dose .
+Increased monitoring for adverse events is recommended when using these drug combinations ( see PRECAUTIONS - Drug Interactions ) .
+Rifabutin is a CYP3A inducer .
+Co - administration with antiretroviral drugs metabolized by CYP3A , including but not limited to products containing bictegravir , rilpivirine , or doravirine may decrease plasma concentrations of those antiretroviral drugs , which may lead to loss of virologic response and possible development of resistance .
+Therefore , co - administration with antiretroviral drugs metabolized by CYP3A is not recommended or there may be a need to increase the dose of antiretroviral drugs ( see PRECAUTIONS - Drug Interactions ) .
+For further recommendations , please refer to the most recent prescribing information of the antiretrovirals or contact the specific manufacturer .
+PRECAUTIONS GENERAL PRECAUTIONS Because treatment with Rifabutin Capsules may be associated with neutropenia , and more rarely thrombocytopenia , physicians should consider obtaining hematologic studies periodically in patients receiving prophylaxis with Rifabutin .
+INFORMATION FOR PATIENTS Patients should be advised of the signs and symptoms of both MAC and tuberculosis , and should be instructed to consult their physicians if they develop new complaints consistent with either of these diseases .
+In addition , since Rifabutin may rarely be associated with myositis and uveitis , patients should be advised to notify their physicians if they develop signs or symptoms suggesting either of these disorders .
+Urine , feces , saliva , sputum , perspiration , tears , and skin may be colored brown - orange with rifabutin and some of its metabolites .
+Soft contact lenses may be permanently stained .
+Patients to be treated with Rifabutin should be made aware of these possibilities .
+Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued .
+Sometimes , after starting treatment with antibacterials , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibacterial .
+If this occurs , patients should contact their physician as soon as possible .
+DRUG INTERACTIONS Effect of Rifabutin on the Pharmacokinetics of Other Drugs Rifabutin induces CYP3A enzymes and therefore may reduce the plasma concentrations of drugs metabolized by those enzymes .
+This effect may reduce the efficacy of standard doses of such drugs , which include itraconazole , clarithromycin , and saquinavir .
+Effect of Other Drugs on Rifabutin Pharmacokinetics Some drugs that inhibit CYP3A may significantly increase the plasma concentration of rifabutin .
+Therefore , carefully monitor for rifabutin associated adverse events in those patients also receiving CYP3A inhibitors , which include fluconazole and clarithromycin .
+In some cases , the dosage of Rifabutin may need to be reduced when it is coadministered with CYP3A inhibitors .
+Table 2 summarizes the results and magnitude of the pertinent drug interactions assessed with rifabutin .
+The clinical relevance of these interactions and subsequent dose modifications should be judged in light of the population studied , severity of the disease , patient ' s drug profile , and the likely impact on the risk / benefit ratio .
+Table 2 Rifabutin Interaction Studies Coadministered drug Dosing regimen of coadministered drug Dosing regimen of rifabutin Study population ( n ) Effect on rifabutin Effect on coadministered drug Recommendation ANTIRETROVIRALS Amprenavir 1200 mg twice a day for 10 days 300 mg once a day for 10 days Healthy male subjects ( 6 ) ↑ AUC by 193 % , ↑ Cmax by 119 % Reduce rifabutin dose by at least 50 % .
+Monitor closely for adverse reactions .
+Bictegravir 75 mg once a day 300 mg once a day ( fasted ) Healthy subjects ND ↓ AUC 38 % ↓ Cmin 56 % ↓ Cmax 20 % Co - administration of rifabutin with Biktarvy ( bictegravir / emtricitabine / tenofovir alafenamide ) is not recommended due to an expected decrease in tenofovir alafenamide in addition to the reported reduction in bictegravir .
+Refer to Biktarvy prescribing information for additional information .
+Delavirdine 400 mg three times a day 300 mg once a day HIV infected patients ( 7 ) ↑ AUC by 230 % , ↑ Cmax by 128 % ↓ AUC by 80 % , ↓ Cmax by 75 % , ↓ Cmin by 17 % CONTRAINDICATED Didanosine 167 or 250 mg twice a day for 12 days 300 or 600 mg once a day for 12 days HIV infected patients ( 11 ) Doravirine 100 mg single dose 300 mg once a day for 16 days Healthy subjects ( 12 ) ND ↓ 50 % in AUC , ↓ 68 % in C24 ↔ in Cmax If concomitant use is necessary , increase the doravirine dosage as instructed in doravirine - containing product prescribing information .
+Fosamprenavir / ritonavir 700 mg twice a day plus ritonavir 100 mg twice a day for 2 weeks 150 mg every other day for 2 weeks Healthy subjects ( 15 ) ↔ AUCa ↓ Cmax by 15 % ↑ AUC by 35 % b , ↑ Cmax by 36 % , ↑ Cmin by 36 % , Reduce rifabutin dose by at least 75 % ( to a maximum 150 mg every other day or three times per week ) when given With fosamprenavir / ritonavir combination .
+Indinavir 800 mg three times a day for 10 days 300 mg once a day for 10 days Healthy subjects ( 10 ) ↑ AUC by 173 % , ↑ Cmax by 134 % ↓ AUC by 34 % , ↓ Cmax by 25 % , ↓ Cmin by 39 % Reduce rifabutin dose by 50 % , and increase indinavir dose from 800 mg to 1000 mg three times a day .
+Lopinavir / ritonavir 400 / 100 mg twice a day for 20 days 150 mg once a day for 10 days Healthy subjects ( 14 ) ↑ AUC by 203 % c ↓ Cmax by 112 % Reduce rifabutin dose by at least 75 % ( to a maximum 150 mg every other day or three times per week ) when given with lopinavir / ritonavir combination .
+Monitor closely for adverse reactions .
+Reduce rifabutin dosage further , as needed .
+Saquinavir / ritonavir 1000 / 100 mg twice a day for 14 or 22 days 150 mg every 3 days for 21 - 22 days Healthy subjects ↑ AUC by 53 % d ↑ Cmax by 88 % ( n = 11 ) ↓ AUC by 13 % , ↓ Cmax by 15 % , ( n = 19 ) Reduce rifabutin dose by at least 75 % ( to a maximum 150 mg every other day or three times per week ) when given with saquinavir / ritonavir combination .
+Monitor closely for adverse reactions .
+Rilpivirine 25 mg once a day 300 mg once a day Healthy subjects ( 18 ) ND ↓ AUC by 42 % ↓ Cmin by 48 % ↓ Cmax by 31 % Co - administration of rifabutin with Odefsey ( rilpivirine / tenofovir alafenamide / emtricitabine ) is not recommended , due to an expected decrease in tenofovir alafenamide in addition to the reported reduction in rilpivirine .
+Refer to Odefsey prescribing information for additional information .
+Ritonavir 500 mg twice a day for 10 days 150 mg once a day for 16 days Healthy subjects ( 5 ) ↑ AUC by 300 % , ↑ Cmax by 150 % ND Reduce rifabutin dose by at least 75 % ( to a maximum 150 mg every other day or three times per week ) when given with lopinavir / ritonavir combination .
+Monitor closely for adverse reactions .
+Reduce rifabutin dosage further , as needed .
+Tipranavir / ritonavir 500 / 200 twice a day for 15 doses 150 mg single dose Healthy subjects ( 20 ) ↑ AUC by 190 % , ↑ Cmax by 70 % Reduce rifabutin dose by at least 75 % ( to a maximum 150 mg every other day or three times per week ) when given with tipranavir / ritonavir combination .
+Monitor closely for adverse reactions .
+Reduce rifabutin dosage further , as needed .
+Nelfinavir 1250 mg twice a day for 7 - 8 days 150 mg once a day for 8 days HIV infected patients ( 11 ) ↑ AUC by 83 % , e ↑ Cmax by 19 % Reduce rifabutin dose by 50 % ( to 150 mg once a day ) and increase the nelfinavir dose to 1250 mg twice a day .
+Zidovudine 100 or 200 mg every four hours 300 or 450 mg once a day HIV infected patients ( 16 ) ↓ AUC by 32 % , ↓ Cmax by 48 % , Because zidovudine levels remained within the therapeutic range during coadministration of rifabutin , dosage adjustments are not necessary .
+ANTIFUNGALS Fluconazole 200 mg once a day for 2 weeks 300 mg once a day for 2 weeks HIV infected patients ( 12 ) ↑ AUC by 82 % , ↑ Cmax by 88 % Monitor for rifabutin associated adverse events .
+Reduce rifabutin dose or suspend rifabutin use if toxicity is suspected .
+Posaconazole 200 mg once a day for 10 days 300 mg once a day for 17 days Healthy subjects ( 8 ) ↑ AUC by 72 % , ↑ Cmax by 31 % ↓ AUC by 49 % , ↓ Cmax by 43 % If co - administration of these two drugs cannot be avoided , patients should be monitored for adverse events associated with rifabutin administration , and lack of posaconazole efficacy .
+Itraconazole 200 mg once a day 300 mg once a day HIV Infected patients ( 6 ) ↑ f ↓ AUC by 70 % , ↓ Cmax by 75 % , If co - administration of these two drugs cannot be avoided , patients should be monitored for adverse events associated with rifabutin administration , and lack of itraconazole efficacy .
+In a separate study , one case of uveitis was associated with increased serum rifabutin levels following co - administration of rifabutin ( 300 mg once a day ) with itraconazole ( 600 - 900 mg once a day ) .
+Voriconazole 400 mg twice a day for 7 days ( maintenance dose ) 300 mg once a day for 7 days Healthy male subjects ( 12 ) ↑ AUC by 331 % , ↑ Cmax by 195 % ↑ AUC by ~ 100 % , ↑ Cmax by ~ 100 % g CONTRAINDICATED ANTI - PCP ( Pneumocystis carinii pneumonia ) Dapsone 50 mg once a day 300 mg once a day HIV infected patients ( 16 ) ND ↓ AUC by 27 - 40 % Sulfamethoxazole - Trimethoprim 800 / 160 mg 300 mg once a day HIV infected patients ( 12 ) ↓ AUC by 15 - 20 % ANTI - MAC ( Mycobacterium avium intracellulare complex ) Azithromycin 500 mg once a day for 1 day , then 250 mg once a day for 9 days 300 mg once a day Healthy subjects ( 6 ) Clarithromycin 500 mg twice a day 300 mg once a day HIV infected patients ( 12 ) ↑ AUC by 75 % ↓ AUC by 50 % Monitor for rifabutin associated adverse events .
+Reduce dose or suspend use of rifabutin if toxicity is suspected .
+Alternative treatment for clarithromycin should be considered when treating patients receiving rifabutin ANTI - TB ( Tuberculosis ) Ethambutol 1200 mg 300 mg once a day for 7 days Healthy subjects ( 10 ) ND Isoniazid 300 mg 300 mg once a day for 7 days Healthy subjects ( 6 ) ND OTHER Methadone 20 – 100 mg once a day 300 mg once a day for 13 days HIV infected patients ( 24 ) ND Ethinylestradiol ( EE ) / Norethindrone ( NE ) 35 mg EE / 1 mg NE for 21 days 300 mg once a day for 10 days Healthy female subjects ( 22 ) ND EE : ↓ AUC by 35 % , ↓ Cmax by 20 % NE : ↓ AUC by 46 % Patients should be advised to use additional or alternative methods of contraception .
+Theophylline 5 mg / kg 300 mg for 14 days Healthy subjects ( 11 ) ND ↑ indicates increase ; ↓ indicates decrease ; ↔ indicates no significant change ND - No Data AUC - Area under the Concentration vs . Time Curve ; Cmax - Maximum serum concentration ; Cmin - Minimum serum concentration a compared to rifabutin 300 mg once a day alone b compared to historical control ( fosamprenavir / ritonavir 700 / 100 mg twice a day ) c also taking zidovudine 500 mg once a day d compared to rifabutin 150 mg once a day alone e compared to rifabutin 300 mg once a day alone f data from a case report g compared to voriconazole 200 mg twice a day alone Other drugs The structurally similar drug , rifampin , is known to reduce the plasma concentrations of a number of other drugs ( see prescribing information for rifampin ) .
+Although a weaker enzyme inducer than rifampin , rifabutin may be expected to have some effect on those drugs as well .
+CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY Long - term carcinogenicity studies were conducted with rifabutin in mice and in rats .
+Rifabutin was not carcinogenic in mice at doses up to 180 mg / kg / day , or approximately 36 times the recommended human daily dose .
+Rifabutin was not carcinogenic in the rat at doses up to 60 mg / kg / day , about 12 times the recommended human dose .
+Rifabutin was not mutagenic in the bacterial mutation assay ( Ames Test ) using both rifabutin - susceptible and resistant strains .
+Rifabutin was not mutagenic in Schizosaccharomyces pombe P1and was not genotoxic in V - 79 Chinese hamster cells , human lymphocytes in vitro , or mouse bone marrow cells in vivo .
+Fertility was impaired in male rats given 160 mg / kg ( 32 times the recommended human daily dose ) .
+PREGNANCY Rifabutin should be used in pregnant women only if the potential benefit justifies the potential risk to the fetus .
+There are no adequate and well - controlled studies in pregnant or breastfeeding women .
+Reproduction studies have been carried out in rats and rabbits given rifabutin using dose levels up to 200 mg / kg ( about 6 to 13 times the recommended human daily dose based on body surface area comparisons ) .
+No teratogenicity was observed in either species .
+In rats , given 200 mg / kg / day , ( about 6 times the recommended human daily dose based on body surface area comparisons ) , there was a decrease in fetal viability .
+In rats , at 40 mg / kg / day ( approximately equivalent to the recommended human daily dose based on body surface area comparisons ) , rifabutin caused an increase in fetal skeletal variants .
+In rabbits , at 80 mg / kg / day ( about 5 times the recommended human daily dose based on body surface area comparisons ) , rifabutin caused maternotoxicity and increase in fetal skeletal anomalies .
+Because animal reproduction studies are not always predictive of human response , rifabutin should be used in pregnant women only if the potential benefit justifies the potential risk to the fetus .
+NURSING MOTHERS It is not known whether rifabutin is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants , a decision should be made whether to discontinue nursing or discontinue the drug , taking into account the importance of the drug to the mother .
+PEDIATRIC USE Safety and effectiveness of rifabutin for prophylaxis of MAC in children have not been established .
+Limited safety data are available from treatment use in 22 HIV - positive children with MAC who received Rifabutin in combination with at least two other antimycobacterials for periods from 1 to 183 weeks .
+Mean doses ( mg / kg ) for these children were : 18 . 5 ( range 15 . 0 to 25 . 0 ) for infants 1 year of age , 8 . 6 ( range 4 . 4 to 18 . 8 ) for children 2 to 10 years of age , and 4 . 0 ( range 2 . 8 to 5 . 4 ) for adolescents 14 to 16 years of age .
+There is no evidence that doses greater than 5 mg / kg daily are useful .
+Adverse experiences were similar to those observed in the adult population , and included leukopenia , neutropenia , and rash .
+In addition , corneal deposits have been observed in some patients during routine ophthalmologic surveillance of HIV - positive pediatric patients receiving Rifabutin as part of a multiple - drug regimen for MAC prophylaxis .
+These are tiny , almost transparent , asymptomatic peripheral and central corneal deposits which do not impair vision .
+Doses of Rifabutin may be administered mixed with foods such as applesauce .
+GERIATRIC USE Clinical studies of Rifabutin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy ( see CLINICAL PHARMACOLOGY ) .
+ADVERSE REACTIONS Adverse Reactions from Clinical Trials Rifabutin Capsules were generally well tolerated in the controlled clinical trials .
+Discontinuation of therapy due to an adverse event was required in 16 % of patients receiving Rifabutin , compared to 8 % of patients receiving placebo in these trials .
+Primary reasons for discontinuation of Rifabutin were rash ( 4 % of treated patients ) , gastrointestinal intolerance ( 3 % ) , and neutropenia ( 2 % ) .
+The following table enumerates adverse experiences that occurred at a frequency of 1 % or greater , among the patients treated with Rifabutin in studies 023 and 027 .
+Table : 3 Clinical Adverse Experiences Reported in ≥ 1 % of Patients Treated With Rifabutin Adverse event Rifabutin ( n = 566 ) % Placebo ( n = 580 ) % Body as a whole Abdominal pain 4 3 Asthenia 1 1 Chest pain 1 1 Fever 2 1 Headache 3 5 Pain 1 2 Blood and lymphatic system Leucopenia 10 7 Anemia 1 2 Digestive System Anorexia 2 2 Diarrhea 3 3 Dyspepsia 3 1 Eructation 3 1 Flatulence 2 1 Nausea 6 5 Nausea and vomiting 3 2 Vomiting 1 1 Musculoskeletal system Myalgia 2 1 Nervous system Insomnia 1 1 Skin and appendages Rash 11 8 Special senses Taste perversion 3 1 Urogenital system Discolored urine 30 6 CLINICAL ADVERSE EVENTS REPORTED IN < 1 % OF PATIENTS WHO RECEIVED RIFABUTIN Considering data from the 023 and 027 pivotal trials , and from other clinical studies , Rifabutin appears to be a likely cause of the following adverse events which occurred in less than 1 % of treated patients : flu - like syndrome , hepatitis , hemolysis , arthralgia , myositis , chest pressure or pain with dyspnea , skin discoloration , thrombocytopenia , pancytopenia and jaundice .
+The following adverse events have occurred in more than one patient receiving Rifabutin , but an etiologic role has not been established : seizure , paresthesia , aphasia , confusion , and non - specific T wave changes on electrocardiogram .
+When Rifabutin was administered at doses from 1050 mg / day to 2400 mg / day , generalized arthralgia and uveitis were reported .
+These adverse experiences abated when Rifabutin was discontinued .
+Mild to severe , reversible uveitis has been reported less frequently when Rifabutin is used at 300 mg as monotherapy in MAC prophylaxis versus Rifabutin in combination with clarithromycin for MAC treatment ( see also WARNINGS ) .
+Uveitis has been infrequently reported when Rifabutin is used at 300 mg / day as monotherapy in MAC prophylaxis of HIV - infected persons , even with the concomitant use of fluconazole and / or macrolide antibacterials .
+However , if higher doses of Rifabutin are administered in combination with these agents , the incidence of uveitis is higher .
+Patients who developed uveitis had mild to severe symptoms that resolved after treatment with corticosteroids and / or mydriatic eye drops ; in some severe cases , however , resolution of symptoms occurred after several weeks .
+When uveitis occurs , temporary discontinuance of Rifabutin and ophthalmologic evaluation are recommended .
+In most mild cases , Rifabutin may be restarted ; however , if signs or symptoms recur , use of Rifabutin should be discontinued ( Morbidity and Mortality Weekly Report , September 9 , 1994 ) .
+Corneal deposits have been reported during routine ophthalmologic surveillance of some HIV - positive pediatric patients receiving Rifabutin as part of a multiple drug regimen for MAC prophylaxis .
+The deposits are tiny , almost transparent , asymptomatic peripheral and central corneal deposits , and do not impair vision .
+The following table enumerates the changes in laboratory values that were considered as laboratory abnormalities in Studies 023 and 027 .
+Table 4 Percentage of Patients With Laboratory Abnormalities Laboratory abnormalities Rifabutin ( n = 566 ) % PLACEBO ( n = 580 ) % Chemistry Increased alkaline phosphatase1 < 1 3 Increased SGOT2 7 12 Increased SGPT2 9 11 Hematology Anemia3 6 7 Eosinophilia 1 1 Leukopenia4 17 16 Neutropenia5 25 20 Thrombocytopenia6 5 4 Includes grades 3 or 4 toxicities as specified : 1 All values > 450 U / L 2 All values > 150 U / L 3 All hemoglobin values < 8 . 0 g / dL 4 All WBC values < 1 , 500 / mm3 5 All ANC values < 750 / mm3 6 All platelet count values < 50 , 000 / mm3 The incidence of neutropenia in patients treated with Rifabutin was significantly greater than in patients treated with placebo ( p = 0 . 03 ) .
+Although thrombocytopenia was not significantly more common among patients treated with Rifabutin in these trials , Rifabutin has been clearly linked to thrombocytopenia in rare cases .
+One patient in Study 023 developed thrombotic thrombocytopenic purpura , which was attributed to Rifabutin .
+Adverse Reactions from Post - Marketing Experience Adverse reactions identified through post - marketing surveillance by system organ class ( SOC ) are listed below : Blood and lymphatic system disorders : White blood cell disorders ( including agranulocytosis , lymphopenia , granulocytopenia , neutropenia , white blood cell count decreased , neutrophil count decreased ) , platelet count decreased .
+Immune system disorders : Hypersensitivity , bronchospasm , rash , and eosinophilia .
+Gastrointestinal disorders : Clostridioides difficile colitis / Clostridioides difficile associated diarrhea .
+Pyrexia , rash and other hypersensitivity reactions such as eosinophilia and bronchospasm might occur , as has been seen with other antibacterials .
+A limited occurrence of skin discoloration has been reported .
+Severe cutaneous adverse reactions ( SCARs ) Rifabutin has been associated with the occurrence of DRESS as well as other SCARs such as SJS , TEN , and AGEP ( see WARNINGS ) .
+Rifamycin hypersensitivity reactions Hypersensitivity to rifamycins have been reported including flu - like symptoms , bronchospasm , hypotension , urticaria , angioedema , conjunctivitis , thrombocytopenia or neutropenia .
+ANIMAL PHARMACOLOGY & OR TOXICOLOGY Liver abnormalities ( increased bilirubin and liver weight ) occurred in mice , rats and monkeys at doses ( respectively ) 0 . 5 , 1 , and 3 times the recommended human daily dose based on body surface area comparisons .
+Testicular atrophy occurred in baboons at doses 2 times the recommended human dose based on body surface area comparisons , and in rats at doses 6 times the recommended human daily dose based on body surface area comparisons .
+OVERDOSAGE No information is available on accidental overdosage in humans .
+Treatment While there is no experience in the treatment of overdose with Rifabutin Capsules , clinical experience with rifamycins suggests that gastric lavage to evacuate gastric contents ( within a few hours of overdose ) , followed by instillation of an activated charcoal slurry into the stomach , may help absorb any remaining drug from the gastrointestinal tract .
+Rifabutin is 85 % protein bound and distributed extensively into tissues ( Vss : 8 to 9 L / kg ) .
+It is not primarily excreted via the urinary route ( less than 10 % as unchanged drug ) ; therefore , neither hemodialysis nor forced diuresis is expected to enhance the systemic elimination of unchanged rifabutin from the body in a patient with an overdose of Rifabutin .
+DOSAGE & ADMINISTRATION It is recommended that Rifabutin Capsules be administered at a dose of 300 mg once daily .
+For those patients with propensity to nausea , vomiting , or other gastrointestinal upset , administration of Rifabutin at doses of 150 mg twice daily taken with food may be useful .
+For patients with severe renal impairment ( creatinine clearance less than 30 mL / min ) , consider reducing the dose of Rifabutin by 50 % , if toxicity is suspected .
+No dosage adjustment is required for patients with mild to moderate renal impairment .
+Reduction of the dose of Rifabutin may also be needed for patients receiving concomitant treatment with certain other drugs ( see PRECAUTIONS - Drug Interactions ) .
+Mild hepatic impairment does not require a dose modification .
+The pharmacokinetics of rifabutin in patients with moderate and severe hepatic impairment is not known .
+HOW SUPPLIED Rifabutin Capsules , USP are supplied as hard gelatin capsule shell with maroon colored cap and body , imprinted with black ink as 041 on cap and Novitium 150 mg ( 150 mg under Novitium ) on body , filled with red - violet powder , each containing 150 mg of Rifabutin , USP .
+Rifabutin is available as follows : NDC 70954 - 041 - 10 Bottles of 100 capsules Keep tightly closed and dispense in a tight container as defined in the USP .
+Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ see USP Controlled Room Temperature ] .
+Manufactured by : Novitium Pharma LLC 70 Lake Drive , East Windsor New Jersey , 08520 Issued : 11 / 2021 PACKAGE LABEL . PRINCIPAL DISPLAY PANEL Rifabutin Capsules , USP 150 mg NDC 70954 - 041 - 10 Bottles of 100 capsules [ MULTIMEDIA ] [ MULTIMEDIA ]

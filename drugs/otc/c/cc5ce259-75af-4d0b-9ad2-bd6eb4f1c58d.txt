@@ -1,0 +1,95 @@
+DESCRIPTION Technescan ™ HDP is supplied as a lyophilized powder , packaged under nitrogen in vials for intravenous administration after reconstitution with ADDITIVE - FREE sodium pertechnetate Tc 99 m .
+Each vial contains 3 . 15 mg oxidronate sodium and 0 . 258 mg , minimum , stannous chloride ( SnCl2 • 2H2O ) , 0 . 297 mg , theoretical , stannous chloride ( SnCl2 • 2H2O ) with 0 . 343 mg , maximum , tin chloride [ stannous and stannic ] dihydrate as SnCl2 • 2H2O as active ingredients .
+In addition , each vial contains 0 . 84 mg gentisic acid as a stabilizer and 30 . 0 mg sodium chloride .
+The pH is adjusted with hydrochloric acid and / or sodium hydroxide .
+The pH of the reconstituted drug is between 4 . 0 and 5 . 5 .
+The contents of the vial are sterile and non - pyrogenic .
+The chemical structure of oxidronate sodium is : [ MULTIMEDIA ] This radiopharmaceutical diagnostic agent , when reconstituted with ADDITIVE - FREE sodium pertechnetate Tc 99 m forms a complex of unknown structure .
+[ MULTIMEDIA ] PHYSICAL CHARACTERISTICS Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours .
+[ 1 ] The principal photon that is useful for detection and imaging is listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data null Radiation Mean Percent / Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 [ 1 ] Kocher , David C . , " Radioactive Decay Data Tables , " DOE / TIC - 11026 , 108 , ( 1981 ) .
+EXTERNAL RADIATION The specific gamma ray constant for Technetium Tc 99 m is 0 . 78 R / mCi - hr at 1 cm .
+The first half - value thickness of lead ( Pb ) for Technetium Tc 99 m is 0 . 017 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 0 . 25 cm of Pb will decrease the external radiation exposure by a factor of about 1000 .
+Table 2 .
+Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 3 .
+Table 3 .
+Physical Decay Chart : Technetium Tc 99 m Half - Life 6 . 02 Hours Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 * Calibration time CLINICAL PHARMACOLOGY During the 24 hours following injection , Technetium Tc 99 m - labeled Technescan HDP is rapidly cleared from blood and other non - osseous tissues and accumulates in the skeleton and urine in humans .
+Blood levels are about 10 % of the injected dose at one hour post - injection and continue to fall to about 6 % , 4 % and 3 % at 2 , 3 and 4 hours , respectively .
+When measured at 24 hours following its administration , skeletal retention is approximately 50 % of the injected dose .
+Technescan HDP exhibits its greatest affinity for areas of altered osteogenesis and actively metabolizing bone .
+INDICATIONS AND USAGE Technescan HDP Tc 99 m is a diagnostic skeletal imaging agent used to demonstrate areas of altered osteogenesis in adult and pediatric patients .
+CONTRAINDICATIONS None known .
+WARNINGS Technetium Tc 99 m Oxidronate may cause life - threatening hypersensitivity reactions .
+Have cardiopulmonary resuscitation equipment and personnel available and monitor all patients for hypersensitivity reactions .
+This class of compounds is known to complex cations such as calcium .
+Particular caution should be used with patients who have , or who may be predisposed to hypocalcemia ( i . e . , alkalosis ) .
+PRECAUTIONS General The components of the kit are sterile and non - pyrogenic .
+It is essential that the user follow the directions carefully and adhere to strict aseptic procedures during preparation .
+Sodium pertechnetate Tc 99 m solutions which contain an oxidizing agent or saline solutions containing preservatives are not suitable for use in the preparation of Technescan HDP Tc 99 m .
+Contents of the vial are intended only for use in the preparation of Technetium Tc 99 m Oxidronate and are NOT to be administered directly to the patient .
+Technetium Tc 99 m Oxidronate should be formulated within eight ( 8 ) hours prior to clinical use .
+Optimal imaging results are obtained one to four hours after administration .
+Technetium Tc 99 m Oxidronate as well as other radioactive drugs , must be handled with care , and appropriate safety measures should be used to minimize radiation exposure to the patients consistent with proper patient management and to ensure minimum radiation exposure to occupational workers .
+Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+To minimize radiation dose to the bladder , the patients should be encouraged to drink fluids and to void immediately before the examination and as often thereafter as possible for the next four to six hours .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic or mutagenic potential or whether Technetium Tc 99 m Oxidronate affects fertility in males and females .
+Pregnancy Category C Animal reproduction studies have not been conducted with Technetium Tc 99 m Oxidronate .
+It is also not known whether Technetium Tc 99 m Oxidronate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Technetium Tc 99 m Oxidronate should be given to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Technetium Tc 99 m is excreted in human milk during lactation , therefore formula feedings should be substituted for breast feedings .
+Overdose In the event of the administration of an overdose with Technescan HDP , encourage patients to drink fluids and void frequently to reduce the radiation dose to the patient .
+ADVERSE REACTIONS Hypersensitivity reactions , including life - threatening reactions , as well as nausea , vomiting and injection site reactions , have been infrequently reported with Technetium Tc 99 m Oxidronate use .
+DOSAGE AND ADMINISTRATION General Instructions The recommended adult dose of Technetium Tc 99 m - labeled Technescan HDP is 555 MBq ( 15 mCi ) with a range of 370 to 740 MBq ( 10 to 20 mCi ) .
+The recommended pediatric dose is 7 . 4 MBq ( 0 . 20 mCi ) / kg with a range of 7 . 4 to 13 MBq ( 0 . 20 to 0 . 35 mCi ) / kg .
+The recommended minimum total pediatric dose is 37 MBq ( 1 . 0 mCi ) .
+The maximum total dose injected into a pediatric or adult patient is 740 MBq ( 20 . 0 mCi ) .
+The maximum dose of oxidronate sodium should not exceed 2 mg .
+Unit dose preparation instructions should be followed for pediatric patients .
+The radioactivity of each dose should be measured by a suitable radiation calibration system just prior to administration .
+The dose should be given intravenously by slow injection .
+For optimal results imaging should be performed 1 to 4 hours post - injection .
+RADIATION DOSIMETRY The estimated absorbed radiation doses from an intravenous injection of Technetium Tc 99 m - labeled Technescan HDP are shown in Table 4 .
+Table 4 .
+Estimated Absorbed Radiation Dose * Ages Newborn 1 Year Old 5 Year Old 10 Year Old 15 Year Old Adult Weight ( kg ) 3 . 5 12 . 1 20 . 3 33 . 5 55 . 0 70 . 0 Maximum Recommended Dose ** 45 . 5 MBq ( 1 . 2 mCi ) 157 . 3 MBq ( 4 . 2 mCi ) 263 . 9 MBq ( 7 . 1 mCi ) 435 . 5 MBq ( 11 . 7 mCi ) 715 . 0 MBq ( 19 . 3 mCi ) 740 . 0 MBq ( 20 . 0 mCi ) Tissue Estimated Absorbed Radiation Doses mGy rads mGy rads mGy rads mGy rads mGy rads mGy rads Kidneys 3 . 0 0 . 30 4 . 2 0 . 42 4 . 0 0 . 40 4 . 4 0 . 44 5 . 2 0 . 52 4 . 4 0 . 44 Ovaries 1 . 5 0 . 15 2 . 5 0 . 25 2 . 4 0 . 24 2 . 6 0 . 26 3 . 0 0 . 30 2 . 4 0 . 24 Red Marrow 10 . 9 1 . 09 12 . 9 1 . 29 10 . 6 1 . 06 10 . 0 1 . 00 10 . 0 1 . 00 9 . 6 0 . 96 Bone Surfaces 104 . 6 10 . 46 113 . 3 11 . 33 79 . 2 7 . 92 78 . 4 7 . 84 78 . 7 7 . 87 64 . 4 6 . 44 Testes 1 . 2 0 . 12 2 . 0 0 . 20 1 . 8 0 . 18 1 . 9 0 . 19 2 . 1 0 . 21 1 . 6 0 . 16 Bladder Wall 11 . 4 1 . 14 17 . 3 1 . 73 15 . 6 1 . 56 17 . 4 1 . 74 19 . 3 1 . 93 15 . 5 1 . 55 Total Body 1 . 8 0 . 18 2 . 7 0 . 27 2 . 6 0 . 26 2 . 7 0 . 27 3 . 0 0 . 30 2 . 5 0 . 25 * Based on data in MIRD Dose Estimate Report No . 14 .
+Bladder initially voided at 2 . 0 hours and then every 4 . 8 hours thereafter .
+** See Dosage and Administration section .
+PREPARATIONS FOR USE All procedures should be conducted using waterproof gloves .
+Use shielded syringe during transport and administration of Tc 99 m solutions .
+• Remove plastic disc from Technescan HDP vial and cleanse top by swabbing with alcohol .
+Note : If dose is for a single adult patient or for a pediatric patient , see unit dose preparation method below .
+• Place vial in lead vial shield .
+Add 3 to 6 mL of sodium pertechnetate Tc 99 m solution and secure with a fitted lead cover .
+In choosing the amount of Tc 99 m radioactivity to be used , the number of doses desired , the activity of each dose [ recommended adult dose is 555 MBq ( 15 mCi ) with a range of 370 to 740 MBq ( 10 to 20 mCi ) ] and radioactive decay must be taken into account .
+The recommended maximum amount of Tc 99 m radioactivity to be added to the vial is 11 . 1 gigabecquerels ( 300 mCi ) .
+Note : The contents of the vial are now radioactive .
+Maintain adequate shielding using the lead vial shield and fitted lead cover during the life of the radioactive preparation .
+• Shake the vial gently , for approximately 30 seconds , to ensure complete dissolution .
+• Record the time , date of preparation and the activity of the Tc 99 m labeled Technescan HDP on the radioassay information label and affix to the vial .
+• Use within eight ( 8 ) hours of preparation .
+Refrigeration of the radiolabeled complex is not necessary .
+Discard unused material in accordance with Nuclear Regulatory Commission or Agreement State regulations pertaining to the disposal of radioactive wastes .
+UNIT DOSE PREPARATION Preparing a dose for a single adult patient or for a pediatric patient To minimize volume injected and to ensure optimum solution concentration , reconstitute the vial contents in 3 to 6 mL of sterile , non - pyrogenic normal saline containing no preservatives .
+Shake the vial gently for approximately 30 seconds to assure complete dissolution , withdraw and discard all but approximately 1 mL of the solution .
+Add appropriate amount of sodium pertechnetate Tc 99 m for a single adult dose or for one or more pediatric doses and shake gently .
+Proceed with steps 4 and 5 .
+No more than 1480 MBq ( 40 mCi ) should be added to the vial when preparing multiple pediatric doses .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+HOW SUPPLIED Technescan HDP is supplied as a lyophilized powder packaged in vials .
+Each vial contains 3 . 15 mg oxidronate sodium and 0 . 258 mg , minimum , stannous chloride ( SnCl2 • 2H2O ) , 0 . 297 mg , theoretical , stannous chloride ( SnCl2 • 2H2O ) with 0 . 343 mg , maximum , tin chloride [ stannous and stannic ] dihydrate as SnCl2 • 2H2O .
+In addition , each vial contains 0 . 84 mg gentisic acid as a stabilizer and 30 . 0 mg sodium chloride .
+Kits containing 5 vials ( NDC 69945 - 091 - 20 ) or 30 vials ( NDC 69945 - 091 - 40 ) are available .
+The drug can be stored at controlled room temperature 20º to 25ºC ( 68º to 77ºF ) both prior to and following reconstitution with ADDITIVE - FREE sodium pertechnetate Tc 99 m .
+This reagent kit is approved for distribution to persons licensed by the U . S . Nuclear Regulatory Commission to use byproduct material identified in Section 35 . 200 or under an equivalent license of an Agreement State .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Manufactured by : Curium US LLC 2703 Wagner Place Maryland Heights , MO 63043 Made in USA A091I0 R12 / 2018 CURIUM ™ PRINCIPAL DISPLAY PANEL Technescan ™ HDP Kit for the Preparation of Technetium Tc 99 m Oxidronate Sterile , Non - Pyrogenic , for IV Injection with Sodium Pertechnetate Tc 99 m Rx only Each vial contains 3 . 15 mg oxidronate sodium and 0 . 258 mg , minimum , stannous chloride ( SnCl2 ● 2H2O ) , 0 . 297 mg , theoretical , stannous chloride ( SnCl2 ● 2H2O ) , with 0 . 343 mg , maximum tin chloride [ stannous and stannic ] dihydrate as SnCl2 ● 2H2O .
+In addition , each vial contains 0 . 84 mg gentisic acid ( stabilizer ) and 30 . 0 mg sodium chloride .
+The pH is adjusted with HCI and / or NaOH .
+Contents are lyophilized and sealed under nitrogen .
+Use within 8 hours of preparation .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUM ™ A091V0 R12 / 2018 [ MULTIMEDIA ] [ MULTIMEDIA ]

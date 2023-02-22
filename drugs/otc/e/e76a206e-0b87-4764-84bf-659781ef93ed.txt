@@ -1,0 +1,167 @@
+FOR DIAGNOSTIC USE For the Production of Sodium Pertechnetate Tc 99 m Injection DESCRIPTION : Sodium Pertechnetate Tc 99 m Injection , as eluted according to the elution instructions with Lantheus Medical Imaging , Inc .
+TECHNELITE ® , Technetium Tc 99 m Generator , is in 0 . 9 % Sodium Chloride Injection , USP as a sterile , non - pyrogenic , diagnostic radiopharmaceutical suitable for intravenous injection and direct instillation .
+The pH is 4 . 5 - 7 . 5 .
+The eluate should be clear , colorless , and free from visible foreign material .
+Each eluate of the TECHNELITE ® , Technetium Tc 99 m Generator should not contain more than 0 . 0056 MBq ( 0 . 15 microcuries ) of Molybdenum Mo99 per 37 MBq ( 1 millicurie ) of Technetium Tc 99 m per administered dose at the time of administration , and not more than 10 micrograms of aluminum per milliliter of the Technetium Tc 99 m Generator eluate , both of which must be determined by the user before administration .
+Since the eluate does not contain an antimicrobial agent , it should not be used later than one ( 1 ) working day after the elution ( 12 hours ) .
+Lantheus Medical Imaging , Inc .
+TECHNELITE ® , Technetium Tc 99 m Generator consists of a column containing uranium fission produced Molybdenum Mo99 adsorbed on alumina .
+The terminally sterilized and sealed column is enclosed in a lead shield ; the shield and other components are sealed in a cylindrical plastic container with an attached handle .
+Built into the top surface are two recessed wells marked SALINE CHARGE and COLLECT .
+Needles protruding from these two wells accommodate supplied sterile eluant charge vials and sterile eluate collection vials .
+The eluting solvent consists of 0 . 9 % Sodium Chloride Injection , USP , prepacked into septum - sealed vials , to make the solution isotonic .
+The eluate collection vial is evacuated , sterile and non - pyrogenic .
+A sterile 0 . 22 micrometer bacteriological filter is incorporated between the column outlet and the collection vials .
+During and subsequent to elution , the eluate collection vial should be kept in a radiation shield .
+The Generator is shipped with a silicone needle seal over the charge needle and a vented needle cover over the collect needle .
+A sterile vial containing bacteriostat is supplied for the customer to aseptically reseal the collect needle after each elution .
+Physical Characteristics Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours . 1 Photons that are useful for imaging studies are listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data - Technetium Tc 99 mRadiation Mean % / Disintegration Mean Energy ( keV ) Gamma - 2 89 . 07 140 . 5 External Radiation The specific gamma ray constant for Technetium Tc 99 m is 5 . 4 microcoulombs / Kg - MBq - hr ( 0 . 795 R / mCi - hr ) at 1 cm .
+The first half - value thickness is 0 . 023 cm of lead ( Pb ) .
+To facilitate control of radiation exposure from millicurie amounts of Technetium Tc 99 m , for example , the use of a 0 . 27 cm thick standard radiation elution lead shield will attenuate the radiation emitted by a factor of about 1000 .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of lead is shown in Table 2 .
+NOTE : Because the generator is well contained and essentially dry , there is little likelihood of contamination due to damage in transit .
+Table 2 .
+Radiation Attenuation of Technetium Tc 99 m by Lead ShieldingShield Thickness lead ( Pb ) cm Coefficient of Attenuation 0 . 023 0 . 5 0 . 09 10 - 1 0 . 18 10 - 2 0 . 27 10 - 3 0 . 33 10 - 4 Molybdenum Mo99 decays to Technetium Tc 99 m with a Molybdenum Mo99 half - life of 66 hours .
+This means that only 78 % of the activity remains after 24 hours ; 60 % remains after 48 hours , etc . ( see Table 3 ) .
+All units have a minimum of 38 mm , 1 . 5 inches ( ~ 6 half - value layers ) of lead surrounding the activity .
+( See Table 3 . )
+Table 3 .
+Molybdenum Mo99 Decay Chart Half - Life 66 . 0 HoursDays Percent Remaining Days Percent Remaining 0 100 10 8 1 78 11 6 2 60 12 5 3 47 13 4 4 37 14 3 5 28 15 2 6 22 20 0 . 6 7 17 25 0 . 2 8 13 30 0 . 05 9 10 The physical decay characteristics of Molybdenum Mo99 are such that approximately 88 % of the decaying Molybdenum Mo99 atoms form Technetium Tc 99 m .
+Since the Molybdenum Mo99 is constantly decaying to fresh Technetium Tc 99 m , it is possible to elute the generator at any time .
+However , the total amount of Technetium Tc 99 m available will depend on the time interval from the previous elution , the quantity of Molydenum Mo99 remaining and the efficiency of the elution .
+Approximately 47 % of maximum Technetium Tc 99 m is reached after 6 hours and 95 % after 23 hours .
+The elution vial shield has a wall thickness of 7 . 9 mm , 0 . 31 inches , and reduces transmitted Technetium Tc 99 m radiation essentially to zero .
+To correct for physical decay of Tc 99 m , the fractions that remain at selected intervals of time are shown in Table 4 .
+Table 4 .
+Physical Decay Chart : Technetium Tc 99 m Half - Life 6 Hours * Calibration Time Hours Percent Remaining Hours Percent Remaining 0 * 100 . 0 9 35 1 89 10 32 2 79 11 28 3 71 12 25 4 63 14 20 5 56 16 16 6 50 18 13 7 45 24 6 8 40 CLINICAL PHARMACOLOGY : The pertechnetate ion distributes in the body similarly to the iodide ion but is not organified when trapped in the thyroid gland .
+It also concentrates in the choroid plexus , thyroid gland , salivary glands , and stomach .
+However , in contrast to the iodide ion , the pertechnetate ion is released unchanged from the thyroid gland .
+After intravascular administration the pertechnetate ion gradually equilibrates with the extracellular space .
+A fraction is promptly excreted via the kidneys .
+Following the administration of Sodium Pertechnetate Tc 99 m Injection as an eye drop , the drug mixes with tears within the conjunctival space .
+Within seconds to minutes it leaves the conjunctival space and escapes into the inferior meatus of the nose through the nasolacrimal drainage system .
+During this process the pertechnetate ion passes through the canaliculi , the lacrimal sac and the nasolacrimal duct .
+In the event of any anatomical or functional blockage of the drainage system there will be a backflow resulting in tearing ( epiphora ) .
+Thus the pertechnetate escapes the conjunctival space in the tears .
+While the major part of the pertechnetate escapes within a few minutes of normal drainage and tearing , it has been documented that there is some degree of transconjunctival absorption with a fractional turnover rate of 0 . 015 / min in normal individuals , 0 . 021 / min in patients without any sac and 0 . 027 / min in patients with inflamed conjunctiva due to chronic dacryocystitis .
+Individual values may vary but these rates are probably representative and indicate that the maximum possible pertechnetate absorbed will remain below one thousandth of that used in other routine diagnostic procedures .
+INDICATIONS AND USAGE : The Technelite generator is a source of sodium pertechnetate Tc 99 m for use in the preparation of FDA - approved diagnostic radiopharmaceuticals , as described in the labeling of these diagnostic radiopharmaceutical kits .
+Sodium Pertechnetate Tc 99 m Injection is used IN ADULTS as an agent for : • Thyroid Imaging • Salivary Gland Imaging • Urinary Bladder Imaging ( direct isotopic cystography ) for the detection of vesico - ureteral reflux .
+• Nasolacrimal Drainage System Imaging Sodium Pertechnetate Tc 99 m Injection is used IN CHILDREN as an agent for : • Thyroid Imaging • Urinary Bladder Imaging ( direct isotopic cystography ) for the detection of vesico - ureteral reflux .
+CONTRAINDICATIONS : None known .
+WARNINGS : Radiation risks associated with the use of Sodium Pertechnetate Tc 99 m Injection are greater in children than in adults and , in general , the younger the child , the greater the risk owing to greater absorbed radiation doses and longer life - expectancy .
+These greater risks should be taken firmly into account in all benefit - risk assessments involving children .
+Long - term cumulative radiation exposure may be associated with an increased risk of cancer .
+PRECAUTIONS : General As in the use of any radioactive material , care should be taken to minimize radiation exposure to the patient consistent with proper patient management and to ensure minimum radiation exposure to occupational workers .
+Since the eluate does not contain an antimicrobial agent , it should not be used after 12 hours from the time of TECHNELITE ® , Technetium Tc 99 m Generator elution .
+After the termination of the nasolacrimal imaging procedure , blowing the nose and washing the eyes with sterile distilled water or an isotonic sodium chloride solution will further minimize the radiation dose .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No animal studies have been performed to evaluate carcinogenic potential or whether Sodium Pertechnetate Tc 99 m affects fertility in males or females .
+Pregnancy Animal reproductive studies have not been conducted with Sodium Pertechnetate Tc 99 m .
+It is also not known whether Sodium Pertechnetate Tc 99 m can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Sodium Pertechnetate Tc 99 m Injection should be given to a pregnant woman only if clearly needed .
+Ideally examinations using radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Sodium Pertechnetate Tc 99 m is excreted in human milk during lactation ; therefore formula feedings should be substituted for breast feeding .
+This radiopharmaceutical preparation should not be administered to pregnant or lactating women unless expected benefits to be gained outweigh the potential risks .
+Pediatric Use See INDICATIONS and DOSAGE AND ADMINISTRATION sections .
+Also see the description of additional risks under WARNINGS .
+Geriatric Use Clinical studies of TechneLite ® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS : Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99 m Injection .
+DOSAGE AND ADMINISTRATION : Sodium Pertechnetate Tc 99 m Injection is usually administered by intravascular injection .
+For imaging the urinary bladder and ureters ( direct isotopic cystography ) , the Sodium Pertechnetate Tc 99 m Injection is administered by direct instillation aseptically into the bladder via a urethral catheter , following which the catheter is flushed with approximately 200 mL of 0 . 9 % Sodium Chloride Injection , USP directly into the bladder .
+The dosage employed varies with each diagnostic procedure .
+When imaging the nasolacrimal drainage system , instill the Sodium Pertechnetate Tc 99 m Injection by the use of a device such as a micropipette or similar method which will ensure the accuracy of the dose .
+The suggested dose range employed for various diagnostic indications in the average ADULT PATIENT ( 70 kg ) is : Vesico - ureteral Imaging 18 . 5 to 37 MBq ( 0 . 5 to 1 mCi ) Thyroid Gland Imaging 37 to 370 MBq ( 1 to 10 mCi ) Salivary Gland Imaging 37 to 185 MBq ( 1 to 5 mCi ) Nasolacrimal Drainage System Maximum 3 . 7 MBq ( 100µCi ) The recommended dosage range in PEDIATRIC PATIENTS is : Vesico - ureteral Imaging 18 . 5 to 37 MBq ( 0 . 5 to 1 mCi ) Thyroid Gland Imaging 2 . 22 to 2 . 96 MBq ( 60 to 80µCi ) / kg body weight The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration of the dose .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+The solution to be administered as the patient dose should be clear and contain no particulate matter .
+Do not use an eluate of the TECHNELITE ® , Technetium Tc 99 m Generator later than one ( 1 ) working day after elution ( 12 hours ) .
+Radiation Dosimetry The estimated absorbed radiation doses to an average ADULT and Pediatric patient from an intravenous injection of a maximum dose of 1110 MBq ( 30 millicuries ) of Sodium Pertechnetate Tc 99 m Injection distributed uniformly in the total body are shown in Tables 5 and 6 .
+Table 5 .
+Adult Absorbed Radiation Doses ( mGy ) from Intravenous InjectionOrgan Absorbed Radiation Dose ( mGy ) for a 1110 MBq ( 30 mCi ) dose To obtain radiation absorbed dose in rads ( 30 mCi dose ) from the above table , divide individual organ values by a factor of 10 ( does not apply for effective dose ) .
+Adrenals 4 . 1 Urinary Bladder Wall 20 Bone Surfaces 6 . 2 Brain 2 . 2 Breasts 2 Gallbladder Wall 8 . 3 Stomach Wall 29 Small Intestine 18 ULI Wall 63 LLI Wall 23 Heart Wall 3 . 5 Kidneys 6 Liver 4 . 7 Lungs 2 . 9 Muscle 3 . 6 Ovaries 11 Pancreas 6 . 3 Red Marrow 4 . 1 Skin 2 Spleen 4 . 8 Testes 3 . 1 Thymus 2 . 7 Thyroid 24 Uterus 9 Remaining Tissues 3 . 9 Effective Dose ( mSv ) 14 Table 6 .
+Pediatric Absorbed Radiation Doses ( mGy ) from Intravenous InjectionAge 15 years 10 years 5 years 1 year To obtain radiation absorbed dose in rads ( 30 mCi dose ) from the above table , divide individual organ values by a factor of 10 ( does not apply for effective dose ) .
+Administered activity in MBq ( mCi ) 1110 ( 30 ) 740 ( 20 ) 555 ( 15 ) 370 ( 10 ) Organ Adrenals 5 . 3 5 . 4 6 . 2 7 . 1 Urinary Bladder Wall 26 22 18 22 Bone Surfaces 7 . 6 7 . 5 8 . 1 10 Brain 2 . 8 3 . 1 3 . 7 4 . 5 Breasts 2 . 6 2 . 6 3 . 2 4 . 1 Gallbladder Wall 11 12 13 13 Stomach Wall 38 36 43 59 Small Intestine 22 23 26 30 ULI Wall 81 89 110 140 LLI Wall 31 33 40 48 Heart Wall 4 . 5 4 . 6 5 . 2 6 . 4 Kidneys 7 . 2 6 . 9 7 . 8 8 . 5 Liver 6 6 . 7 8 9 . 1 Lungs 3 . 8 3 . 8 4 . 4 5 . 3 Muscle 4 . 5 4 . 5 5 6 Ovaries 14 13 14 17 Pancreas 8 . 1 8 . 2 8 . 9 10 Red Marrow 5 . 1 5 5 . 2 6 Skin 2 . 5 2 . 6 3 . 2 3 . 8 Spleen 6 6 6 . 7 7 . 8 Testes 4 . 1 4 . 3 4 . 9 6 Thymus 3 . 6 3 . 5 4 . 2 5 . 3 Thyroid 40 41 67 81 Uterus 11 11 12 14 Remaining Tissues 4 . 8 4 . 8 5 . 4 6 . 4 Effective Dose ( mSv ) 19 19 23 29 The estimated absorbed radiation doses to an average ADULT from the instillation of Sodium Pertechnetate Tc 99 m Injection for imaging the nasolacrimal drainage system are shown in Table 7 .
+Table 7 .
+Absorbed Radiation Dose from Dacryoscintigraphy Using Sodium Pertechnetate Tc 99 m Absorbed Dose Target Organ mGy / 3 . 7 MBq ( rad / 100µCi ) * Assuming no blockage of drainage system Eye Lens : If lacrimal fluid turnover is 16 % / min If lacrimal fluid turnover is 100 % / min If drainage system is blocked Total Body * Ovaries * Testes * Thyroid * 0 . 140 0 . 022 4 . 020 0 . 011 0 . 030 0 . 009 0 . 130 0 . 014 0 . 002 0 . 402 0 . 001 0 . 003 0 . 001 0 . 013 In pediatric patients , an average 30 minute exposure to 37 MBq ( 1 millicurie ) of Sodium Pertechnetate Tc 99 m Injection following instillation for direct cystography , results in an estimated absorbed radiation dose shown in Table 8 .
+Table 8 .
+Pediatric Absorbed Radiation Dose from CystographyAge Bladder wall dose , mGy ( rad ) Gonadal dose , mGy ( rad ) 1 year 3 . 6 ( 0 . 36 ) 0 . 15 ( 0 . 015 ) 5 years 2 . 0 ( 0 . 2 ) 0 . 095 ( 0 . 0095 ) 10 years 1 . 3 ( 0 . 13 ) 0 . 066 ( 0 . 0066 ) 15 years 0 . 92 ( 0 . 092 ) 0 . 046 ( 0 . 0046 ) HOW SUPPLIED : Lantheus Medical Imaging TechneLite ® , ( Technetium Tc 99 m Generator ) for the Production of Sodium Pertechnetate Tc 99 m Injection is supplied in a multi - dose container and is available in the following quantities of radioactivity of Mo99 on the calibration date ( date of manufacture ) as specified on the product lot identification label affixed to the generator : Table 9 Available Quantities of RadioactivityHigh Enriched Uranium ( HEU ) Low Enriched Uranium ( LEU ) NDC # GBq of Mo99 Ci of Mo99 NDC # GBq of Mo99 Ci of Mo99 11994 - 090 - 36 37 . 0 1 11994 - 091 - 36 37 . 0 1 11994 - 090 - 73 74 . 0 2 11994 - 091 - 73 74 . 0 2 11994 - 090 - 92 92 . 5 2 . 5 11994 - 091 - 92 92 . 5 2 . 5 11994 - 090 - 01 111 . 0 3 11994 - 091 - 01 111 . 0 3 11994 - 090 - 03 148 . 0 4 11994 - 091 - 03 148 . 0 4 11994 - 090 - 04 166 . 5 4 . 5 11994 - 091 - 04 166 . 5 4 . 5 11994 - 090 - 05 185 . 0 5 11994 - 091 - 05 185 . 0 5 11994 - 090 - 06 222 . 0 6 11994 - 091 - 06 222 . 0 6 11994 - 090 - 07 277 . 5 7 . 5 11994 - 091 - 07 277 . 5 7 . 5 11994 - 090 - 09 370 . 0 10 11994 - 091 - 09 370 . 0 10 11994 - 090 - 10 462 . 5 12 . 5 11994 - 091 - 10 462 . 5 12 . 5 11994 - 090 - 11 555 . 0 15 11994 - 091 - 11 555 . 0 15 11994 - 090 - 12 666 . 0 18 11994 - 091 - 12 666 . 0 18 11994 - 090 - 13 740 . 0 20 11994 - 091 - 13 740 . 0 20 Each generator is supplied with the following standard components : • Collect Needle Seal Vial • Eluant Charge Vials ( may be supplied separately ) • Eluate Collection Vials ( may be supplied separately ) • 1 Package Insert • 6 Radiation Labels ( Collection Vial ) • 6 Radiation Labels ( Eluting Shield ) First order generators are shipped with the following accessory components : • 2 Eluting Shields Additional quantities of these components may be obtained at the customer ' s request .
+STORAGE : Store generator and Sodium Pertechnetate Tc 99 m Injection at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP Controlled Room Temperature ] .
+EXPIRATION : The expiration time of the Sodium Pertechnetate Tc 99 m solution is not later than 12 hours after elution .
+If the eluate is to be used to reconstitute a kit for the preparation of a Technetium Tc 99 m radiopharmaceutical , the kit should not be used after 12 hours from time of Generator elution or after the expiration time stated on the labeling for the prepared drug , whichever is earlier .
+The generator should not be used after the expiration date stated on the label .
+ELUTION INSTRUCTIONS - TOTAL ELUTION METHOD • Waterproof gloves should be worn during elution .
+• Remove dust ( clear plastic ) cover of generator .
+• Perform all subsequent operations aseptically .
+• Remove silicone needle seal from eluant charge well .
+Discard as radioactive waste .
+• Remove flip - off seal and swab septum of eluant charge vial with a bactericide ( such as 70 % isopropyl alcohol ) , allow to dry , and insert the vial into charge well .
+Vial should be firmly inserted to assure puncture of septum .
+Caution : Excessive use of bactericides containing alcohol may adversely affect Technetium Tc 99 m yield .
+• Open elution shield base and insert an eluate collection vial from which the flip - off seal has been removed .
+Screw base back on securely .
+Swab the exposed vial septum with a bactericide and allow to dry .
+• Remove vented needle cover from collect well .
+Discard as radioactive waste .
+• Insert shielded eluate collection vial in collect well .
+Elution should commence within 30 seconds and can be visually checked by the appearance of bubbles in the eluant charge vial .
+To assure proper yield and functioning , elution must proceed to completion as evidenced by emptying of the charge vial .
+Allow generator to elute for at least 3 minutes after the charge has been drained , or for a total of 6 minutes .
+**** NOTE 1 ( non - eluting generator ) : If bubbles do not appear in the eluant charge vial within 30 seconds , remove the eluate collection vial to prevent vacuum loss ; then remove and reinsert the charge vial .
+Reinsert the eluate collection vial and if elution does not commence , use a second shielded collection vial .
+If the elution still does not commence , contact Lanthues Medical Imaging , Inc .
+**** NOTE 2 ( partial eluting generator ) : If the saline charge vial does not fully empty or the expected eluate volume is not recovered , remove the evacuated collection vial and the saline charge vial .
+Insert a new saline charge vial and a new evacuated collection vial .
+Allow the elution process to complete .
+If the replacement saline charge vial does not fully empty or the expected eluate volume is not recovered in the replacement collection vial , contact Lantheus Medical Imaging , Inc .
+DO NOT USE ELUATE COLLECTED FROM A PARTIALLY ELUTED GENERATOR .
+Caution : Tampering with the internal components could compromise sterility and present a radiation hazard .
+This generator should not be dismantled .
+• After elution has been completed , remove shield containing the collection vial .
+Obtain the collect needle seal vial , and using a bactericide , swab the septum of the collect needle seal vial and insert over the collect needle .
+The eluant vial is sterile and should stay in place until the next elution , functioning as a seal for the needles within the charge well .
+Upon initiating the next elution , discard the empty eluant vial as radioactive waste .
+• Perform the Assay and Radiometric Molybdenum Test Procedures described below for each elution performed .
+• Fill out and attach the appropriate supplied pressure sensitive radioactivity labels to the elution shield containing the filled eluate collection vial .
+Do not use an eluate of the Technetium Tc 99 m Generator later than 1 working day after the time of elution ( 12 hours ) .
+• Use a shielded syringe when introducing the Sodium Pertechnetate Tc 99 m solution into mixing vials .
+• Maintain adequate shielding during the life of the radioactive preparation by using a lead vial shield and cover , and use a shielded syringe for withdrawing and injecting the preparation .
+ASSAY INSTRUCTIONS FOR THE TECHNELITE ® , TECHNETIUM Tc 99 m GENERATOR ELUATE The TECHNELITE ® , Technetium Tc 99 m Generator Eluate may be assayed using an ionization chamber dose calibrator .
+The manufacturer ' s instructions for operation of the dose calibrator should be followed for measurement of Technetium Tc 99 m and Molybdenum Mo99 activity in the generator eluate .
+The Molybdenum 99 / Technetium 99 m ratio is to be determined at the time of each elution prior to administration , and from that ratio , the expiration time ( up to 12 hours ) of the eluate mathematically determined .
+Each eluate must meet or exceed the purity requirements of the current United States Pharmacopeia ; that is , not more than 0 . 0056 MBq ( 0 . 15 microcurie ) of Molybdenum 99 per 37 MBq ( 1 millicurie ) of Technetium 99 m per administered dose at the time of administration .
+RADIOMETRIC MOLYBDENUM TEST PROCEDURE This method is based on the fact that most Technetium Tc 99 m radiation can be readily shielded and only the more energetic gamma rays from Molybdenum Mo99 ( 739 KeV and 778 KeV ) are counted in the 550 - 850 KeV energy range .
+The entire eluate may be assayed for Molybdenum Mo99 activity as follows : • A Cesium Cs 137 reference source which has the same geometry as the generator eluate must be used to standardize the well counter .
+• Determine the background after setting the window to the 550 - 850 KeV energy range .
+• Count the Technetium Tc 99 m eluate in its lead shield ( thereby shielding out Technetium Tc 99 m ) by placing over the well or probe .
+• Count the Cs 137 reference source in the same shield geometry for the same time period .
+• Compute Molybdenum Mo99 activity in the eluate as follows : µCi Molybdenum = µCi simulated Mo99 x net cpm Eluate Mo99 ( total ) net cpm simulated Mo99 reference source Divide this number by the mCi of Technetium Tc 99 m .
+This result ( µCi Mo99 / mCi Tc 99 m ) can be converted to MBq Mo99 / MBq Tc 99 m by multiplying by 10 - 3 .
+The U . S . Pharmacopeia and the U . S . Nuclear Regulatory Commission or equivalent Agreement State regulations specify a limit of 0 . 00015 MBq Molybdenum Mo99 per MBq of Technetium Tc 99 m ( 0 . 15µCi Mo99 / mCi Tc 99 m ) at the time of administration to each patient .
+If this limit is exceeded , the eluate should not be used .
+Discard the eluate and contact Lantheus Medical Imaging , Inc .
+COLORIMETRIC ALUMINUM ION TEST PROCEDURE Obtain an aluminum ion indicator kit and determine the aluminum ion concentration of the eluate per the manufacturer ' s instructions .
+The concentration must not exceed 10 micrograms per milliliter of eluate .
+DISPOSAL : All components shipped with the TECHNELITE ® , Technetium Tc 99 m Generator should be monitored for contamination prior to disposing into routine trash systems .
+The Technetium Tc 99 m should not be disposed of into routine trash systems .
+The generator should be disposed through a USNRC or Agreement State licensed disposal agency or by a method approved by the appropriate regulatory authority .
+Spent generators may be returned ; complete return instructions are available on request .
+This radioactive drug is approved for distribution to persons licensed pursuant to the Code of Massachusetts Regulations 105 CMR 120 . 100 for the uses listed in 105 CMR 120 . 547 or 120 . 552 or under equivalent regulations of the U . S . Nuclear Regulatory Commision , an Agreement State or a Licensing State .
+Lantheus Medical Imaging 331 Treble Cove Road N . Billerica , MA 01862 USA For Ordering Call Toll - Free : 800 - 299 - 3431 All other business : 800 - 362 - 2668 ( In Massachusetts and International , call 978 - 667 - 9531 ) Patent : http : / / www . lantheus . com / patents / index . html Lantheus Medical Imaging Printed in U . S . A . 513160 - 0522 May 2022 PRINCIPAL DISPLAY PANEL - Generator Label - NDC 11994 - 090 Sterile , Non - Pyrogenic Diagnostic Agent for Intravenous Injection TechneLite ® Molybdenum Mo 99 - Technetium Tc 99 m Generator for the Production of Sodium Pertechnetate Tc 99 m Injection Rx only .
+See Package Insert for dosing information .
+DIN 02328550 AUSTR R 130301 Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP Controlled Room Temperature ] .
+Eluate must be used within 12 hours of elution .
+CAUTION : This generator should not be dismantled .
+Manufacturer : Lantheus Medical Imaging ® N . Billerica , Massachusetts 01862 USA Canadian License Holder : Lantheus MI Canada , Inc .
+Montréal , Canada Australian Sponsor : Global Medical Solutions Australia Pty Ltd .
+515128 - 0522 CAUTION : RADIOACTIVE MATERIAL [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - Generator Label - NDC 11994 - 091 Sterile , Non - Pyrogenic Diagnostic Agent for Intravenous Injection TechneLite ® Molybdenum Mo 99 - Technetium Tc 99 m Generator for the Production of Sodium Pertechnetate Tc 99 m Injection Rx only .
+See Package Insert for dosing information .
+DIN 02328550 AUSTR R 130301 Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP Controlled Room Temperature ] .
+Eluate must be used within 12 hours of elution .
+CAUTION : This generator should not be dismantled .
+Manufacturer : Lantheus Medical Imaging ® N . Billerica , Massachusetts 01862 USA Canadian License Holder : Lantheus MI Canada , Inc .
+Montréal , Canada Australian Sponsor : Global Medical Solutions Australia Pty Ltd .
+515128 - 0522 CAUTION : RADIOACTIVE MATERIAL [ MULTIMEDIA ] [ MULTIMEDIA ]

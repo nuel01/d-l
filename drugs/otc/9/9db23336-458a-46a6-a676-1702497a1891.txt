@@ -1,0 +1,524 @@
+Warnings and Precautions ( 5 . 5 ) 11 / 2019 1 INDICATIONS AND USAGE Temozolomide capsules , USP is an alkylating drug indicated for the treatment of adult patients with : • Newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment .
+( 1 . 1 ) • Refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine .
+( 1 . 2 ) 1 . 1 Newly Diagnosed Glioblastoma Temozolomide capsules , USP is indicated for the treatment of adult patients with newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment .
+1 . 2 Refractory Anaplastic Astrocytoma Temozolomide capsules , USP is indicated for the treatment of adult patients with refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine .
+2 DOSAGE AND ADMINISTRATION • Administer orally .
+• Newly Diagnosed Glioblastoma : • 75 mg / m2 once daily for 42 days concomitant with focal radiotherapy followed by initial maintenance dose of 150 mg / m2 once daily for Days 1 to 5 of each 28 - day cycle for 6 cycles .
+May increase maintenance dose to 200 mg / m2 for cycles 2 – 6 based on toxicity .
+( 2 . 1 ) • Provide Pneumocystis pneumonia ( PCP ) prophylaxis during concomitant phase and continue in patients who develop lymphopenia until resolution to grade 1 or less .
+( 2 . 1 ) • Refractory Anaplastic Astrocytoma : Initial dose of 150 mg / m2once daily on Days 1 to 5 of each 28 - day cycle .
+( 2 . 2 ) 2 . 1 Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma Administer Temozolomide capsules , USP orally once daily for 42 consecutive days during the concomitant phase with focal radiotherapy and then once daily on Days 1 to 5 of each 28 - day cycle for 6 cycles during the maintenance phase .
+Provide Pneumocystis pneumonia ( PCP ) prophylaxis during the concomitant phase and continue in patients who develop lymphocytopenia until resolution to grade 1 or less [ see Warnings and Precautions ( 5 . 3 ) ] .
+Concomitant Phase The recommended dosage of Temozolomide capsules , USP is 75 mg / m2 orally once daily for 42 days ( up to 49 days ) concomitant with focal radiotherapy ( 60 Gy administered in 30 fractions ) .
+Focal radiotherapy includes the tumor bed or resection site with a 2 - to 3 - cm margin .
+Obtain a complete blood count weekly .
+No dose reductions are recommended during the concomitant phase .
+The recommended dosage modifications during the concomitant phase are provided in Table 1 .
+TABLE 1 : Temozolomide Dosage Modifications During Concomitant Phase Adverse Reaction Interruption Discontinuation Absolute Neutrophil Count Withhold Temozolomide if ANC is greater than or equal to 0 . 5 x 109 / L and less than 1 . 5 x 109 / L .
+Resume Temozolomide when ANC is greater than or equal to 1 . 5 x 109 / L .
+Discontinue Temozolomide if platelet count is less than 0 . 5 x 109 / L .
+Platelet Count Withhold Temozolomide if platelet count is greater than or equal to 10 x 109 / L and less than 100 x 109 / L .
+Resume Temozolomide when platelet count is greater than or equal to 100 x 109 / L .
+Discontinue Temozolomide if platelet count is less than 10 x 109 / L .
+Non - hematological Adverse Reaction ( except for alopecia , nausea , vomiting ) Withhold Temozolomide if Grade 2 adverse reaction occurs .
+Resume Temozolomide when resolution to Grade 1 or less .
+Discontinue Temozolomide if Grade 3 or 4 adverse reaction occurs .
+Maintenance Phase Beginning 4 weeks after Concomitant Phase completion , administer Temozolomide capsules , USP orally once daily on Days 1 to 5 of each 28 - day cycle for 6 cycles .
+The recommended dosage of Temozolomide capsules , USP is as follows : • Cycle 1 : 150 mg / m2 per day • Cycles 2 to 6 : May increase to 200 mg / m2 per day if the following conditions are met before starting cycle 2 .
+If the dose was not escalated at the onset of Cycle 2 , do not increase the dose for Cycles 3 to 6 .
+• Nonhematologic toxicity is grade 2 or less ( except for alopecia , nausea , and vomiting ) • ANC is greater than or equal to 1 . 5 x 109 / L and • Platelet count is greater than or equal to 100 x 109 / L .
+Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1 . 5 x 109 / L and the platelet count is above 100 x 109 / L .
+Do not start the next cycle until the ANC and platelet count exceed these levels .
+The recommended dosage modifications during the maintenance phase are provided in Table 2 .
+If Temozolomide is withheld , reduce the dose for the next cycle by 50 mg / m2 per day .
+Permanently discontinue Temozolomide in patients who are unable to tolerate a dose of 100 mg / m2 per day .
+TABLE 2 : Temozolomide Dosage Modifications During Maintenance Treatment Toxicity Interruption and Dose Reduction Discontinuation Absolute Neutrophil Count Withhold Temozolomide if ANC less than 1 x 109 / L .
+When ANC is above 1 . 5 x 109 / L , resume Temozolomide at reduced dose for the next cycle .
+Unable to tolerate a dose of 100 mg / m2 per day .
+Platelet Count Withhold Temozolomide if platelet less than 50 x 109 / L .
+When platelet count is above 100 x 109 / L , resume Temozolomide at reduced dose for the next cycle .
+Unable to tolerate a dose of 100 mg / m2 per day .
+Nonhematological Adverse Reaction ( except for alopecia , nausea , vomiting ) Withhold Temozolomide if Grade 3 adverse reaction .
+When resolved to grade 1 or less , resume Temozolomide at reduced dose for the next cycle .
+Recurrent Grade 3 after dose reduction .
+Grade 4 Unable to tolerate a dose of 100 mg / m2 per day .
+2 . 2 Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma The recommended initial dosage of Temozolomide is 150 mg / m2 once daily on Days 1 to 5 of each 28 - day cycle .
+Increase the Temozolomide dose to 200 mg / m2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle : • ANC is greater than or equal to 1 . 5 x 109 / L and • Platelet count is greater than or equal to 100 x 109 / L Continue Temozolomide until disease progression or unacceptable toxicity .
+In the clinical trial , treatment could be continued for a maximum of 2 years , but the optimum duration of therapy is not known .
+Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1 . 5 x 109 / L and the platelet count is above 100 x 109 / L .
+Do not start the next cycle until the ANC and platelet count exceed these levels .
+If the ANC is less than 1 x 109 / L or the platelet count is less than 50 x 109 / L during any cycle , reduce the Temozolomide dose for the next cycle by 50 mg / m2 per day .
+Permanently discontinue Temozolomide in patients who are unable to tolerate a dose of 100 mg / m2 per day .
+2 . 3 Preparation and Administration Temozolomide is a cytotoxic drug .
+Follow applicable special handling and disposal procedures . 1 Temozolomide capsules , USP Administer Temozolomide consistently with respect to food ( fasting vs . nonfasting ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+To reduce nausea and vomiting , take Temozolomide on an empty stomach or at bedtime and consider antiemetic therapy prior to and / or following Temozolomide administration .
+Swallow Temozolomide capsules , USP whole .
+Do not open or chew capsules .
+If capsules are accidentally opened or damaged , take precautions to avoid inhalation or contact with the skin or mucous membranes .
+In case of powder contact , the hands should be washed .
+3 DOSAGE FORMS AND STRENGTHS • Capsules : - 5 mg : white opaque bodies with green opaque caps .
+The capsule body is imprinted with “ 5 mg ” .
+The cap is imprinted with “ NIV - 132 . ”
+- 20 mg : white opaque bodies with rich yellow opaque caps .
+The capsule body is imprinted with “ 20 mg ” .
+The cap is imprinted with “ NIV - 142 . ”
+- 100 mg : buff opaque bodies with peach opaque caps .
+The capsule body is imprinted with “ 100 mg ” .
+The cap is imprinted with “ NIV - 143 . ”
+- 140 mg : white opaque bodies with blue opaque caps .
+The capsule body is imprinted with “ 140 mg ” .
+The cap is imprinted with “ NIV - 144 . ”
+- 180 mg : white opaque bodies with red opaque caps .
+The capsule body is imprinted with “ 180 mg ” .
+The cap is imprinted with “ NIV - 145 . ”
+- 250 mg : white opaque bodies with white opaque caps .
+The capsule body is imprinted with “ 250 mg ” .
+The cap is imprinted with “ NIV - 146 . ”
+• Capsules : 5 mg , 20 mg , 100 mg , 140 mg , 180 mg , and 250 mg ( 3 ) 4 CONTRAINDICATIONS Temozolomide capsules , USP is contraindicated in patients with a history of hypersensitivity reactions to : • temozolomide or any other ingredients in Temozolomide capsules , USP ; and • dacarbazine , since both temozolomide and dacarbazine are metabolized to the same active metabolite 5 - ( 3 - methyltriazen - 1 - yl ) - imidazole - 4 - carboxamide .
+Reactions to Temozolomide have included anaphylaxis [ see Adverse Reactions ( 6 . 2 ) ] .
+History of hypersensitivity to temozolomide or any other ingredients in Temozolomide capsules , USP and dacarbazine .
+( 4 . 1 ) 5 WARNINGS AND PRECAUTIONS • Myelosuppression : Monitor absolute neutrophil count ( ANC ) and platelet count prior to each cycle and during treatment .
+Geriatric patients and women have a higher risk of developing myelosuppression .
+( 5 . 1 ) • Myelodysplastic Syndrome and Secondary Malignancies , including myeloid leukemia , have been observed .
+( 5 . 2 ) • Pneumocystis Pneumonia ( PCP ) : Closely monitor all patients , particularly those receiving steroids , for the development of lymphopenia and PCP .
+( 5 . 3 ) • Hepatotoxicity : Fatal and severe hepatotoxicity have been reported .
+Perform liver tests at baseline , midway through the first cycle , prior to each subsequent cycle , and approximately 2 to 4 weeks after the last dose of Temozolomide capsules , USP .
+( 5 . 4 ) • Embryo - Fetal Toxicity : Can cause fetal harm .
+Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception .
+Advise male patients with pregnant partners or female partners of reproductive potential to use condoms .
+( 5 . 5 , 8 . 1 , 8 . 3 ) 5 . 1 Myelosuppression Myelosuppression , including pancytopenia , leukopenia and anemia , some with fatal outcomes , have occurred with Temozolomide [ see Adverse Reactions ( 6 . 1 , 6 . 2 ) ] .
+Geriatric patients and women have been shown in clinical trials to have a higher risk of developing myelosuppression .
+Prior to dosing , patients must have an ANC of 1 . 5 x 109 / L or greater and a platelet count of 100 x 109 / L or greater .
+For the concomitant phase with radiotherapy , obtain a complete blood count prior to initiation of treatment and weekly during treatment [ see Dosage and Administration ( 2 . 1 ) ] .
+For the 28 - day treatment cycles , obtain a complete blood count prior to treatment on Day 1 and on Day 22 of each cycle .
+Perform complete blood counts weekly until recovery if the ANC falls below 1 . 5 x 109 / L and the platelet count falls below 100 x 109 / L [ see Dosage and Administration ( 2 . 1 , 2 . 2 ) ] .
+5 . 2 Myelodysplastic Syndrome and Secondary Malignancies Cases of myelodysplastic syndrome and secondary malignancies , including myeloid leukemia , have been observed following Temozolomide administration .
+5 . 3 Pneumocystis Pneumonia Pneumocystis pneumonia ( PCP ) can occur in patients receiving Temozolomide .
+The risk of PCP is increased in patients receiving steroids or with longer treatment regimens .
+For patients with newly diagnosed glioblastoma , provide PCP prophylaxis for all patients during the concomitant phase .
+Continue in patients who experience lymphopenia until resolution to Grade 1 or less [ see Dosage and Administration ( 2 . 1 ) ] .
+Monitor all patients receiving Temozolomide capsules , USP for the development of lymphopenia and PCP .
+5 . 4 Hepatotoxicity Fatal and severe hepatotoxicity have been reported in patients receiving Temozolomide .
+Perform liver tests at baseline , midway through the first cycle , prior to each subsequent cycle , and approximately two to four weeks after the last dose of Temozolomide .
+5 . 5 Embryo - Fetal Toxicity Based on findings from animal studies and its mechanism of action , Temozolomide can cause fetal harm when administered to a pregnant woman .
+Adverse developmental outcomes have been reported in both pregnant patients and pregnant partners of male patients .
+Oral administration of temozolomide to rats and rabbits during the period of organogenesis resulted in embryolethality and polymalformations at doses less than the maximum human dose based on body surface area .
+Advise pregnant women of the potential risk to the fetus .
+Advise females of reproductive potential to use effective contraception during treatment with Temozolomide and for at least 6 months after the final dose .
+Because of potential risk of genotoxic effects on sperm , advise male patients with female partners of reproductive potential to use condoms during treatment with Temozolomide and for at least 3 months after the final dose .
+Advise male patients not to donate semen during treatment with Temozolomide and for at least 3 months after the final dose [ see Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling : • Myelosuppression [ see Warnings and Precautions ( 5 . 1 ) ] .
+• Myelodysplastic Syndrome and Secondary Malignancies [ see Warnings and Precautions ( 5 . 2 ) ] .
+• Pneumocystis Pneumonia [ see Warnings and Precautions ( 5 . 3 ) ] .
+• Hepatotoxicity [ see Warnings and Precautions ( 5 . 4 ) ] .
+• The most common adverse reactions ( ≥ 20 % incidence ) are : alopecia , fatigue , nausea , vomiting , headache , constipation , anorexia , and convulsions .
+( 6 . 1 ) • The most common Grade 3 to 4 hematologic laboratory abnormalities ( ≥ 10 % incidence ) in patients with anaplastic astrocytoma are : decreased lymphocytes , decreased platelets , decreased neutrophils , and decreased leukocytes .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Nivagen Pharmaceutical , Inc . , at 1 - 877 - 977 - 0687 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+Newly Diagnosed Glioblastoma The safety of Temozolomide was evaluated in Study MK - 7365 - 051 [ see Clinical Studies ( 14 . 1 ) ] .
+Forty - nine percent ( 49 % ) of patients treated with Temozolomide reported one or more severe or life - threatening reactions , most commonly fatigue ( 13 % ) , convulsions ( 6 % ) , headache ( 5 % ) , and thrombocytopenia ( 5 % ) .
+The most common adverse reactions ( ≥ 20 % ) across the cumulative Temozolomide experience were alopecia , fatigue , nausea , and vomiting .
+Table 3 summarizes the adverse reactions in Newly Diagnosed Glioblastoma Trial .
+Overall , the pattern of reactions during the maintenance phase was consistent with the known safety profile of Temozolomide .
+TABLE 3 : Adverse Reactions ( ≥ 5 % ) in Patients Receiving Temozolomide in Newly Diagnosed Glioblastoma Trial Adverse Reactions Concomitant Phase Maintenance Phase Radiation Therapy and Temozolomide N = 288 [ 1 ] Radiation Therapy Alone N = 285 Temozolomide N = 224 All Grades ( % ) Grade ≥ 3 ( % ) All Grades ( % ) Grade ≥ 3 ( % ) All Grades ( % ) Grade ≥ 3 ( % ) Skin and Subcutaneous Tissue Alopecia 69 63 55 Rash 19 1 15 13 1 Dry Skin 2 2 5 < 1 Pruritus 4 1 5 Erythema 5 5 1 General Fatigue 54 7 49 5 61 9 Anorexia 19 1 9 < 1 27 1 Headache 19 2 17 4 23 4 Weakness 3 2 3 1 7 2 Dizziness 4 1 4 5 Gastrointestinal System Nausea 36 1 16 < 1 49 1 Vomiting 20 < 1 6 < 1 29 2 Constipation 18 1 6 22 Diarrhea 6 3 10 1 Stomatitis 7 5 < 1 9 1 Abdominal Pain 2 < 1 1 5 < 1 Eye Vision Blurred 9 1 9 1 8 Injury Radiation Injury NOS 7 4 < 1 2 Central and Peripheral Nervous System Convulsions 6 3 7 3 11 3 Memory Impairment 3 < 1 4 < 1 7 1 Confusion 4 1 4 2 5 2 Special Senses Other Taste Perversion 6 2 5 Respiratory System Coughing 5 1 1 8 < 1 Dyspnea 4 2 3 1 5 < 1 Psychiatric Insomnia 5 3 < 1 4 Immune System Allergic Reaction 5 2 < 1 3 Platelet , Bleeding and Clotting Thrombocytopenia 4 3 1 8 4 Musculoskeletal System Arthralgia 2 < 1 1 6 [ 1 ] One patient who was randomized to radiation therapy only arm received radiation therapy and Temozolomide .
+NOS = not otherwise specified .
+Note : Grade 5 ( fatal ) adverse reactions are included in the Grade ≥ 3 column .
+When laboratory abnormalities and adverse reactions were combined , Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8 % of patients , and Grade 3 or Grade 4 platelet abnormalities including thrombocytopenic reactions , were observed in 14 % of patients .
+Refractory Anaplastic Astrocytoma The safety of Temozolomide was evaluated in Study MK - 7365 - 006 [ see Clinical Studies ( 14 . 2 ) ] .
+Myelosuppression ( thrombocytopenia and neutropenia ) was the dose - limiting adverse reaction .
+It usually occurred within the first few cycles of therapy and was not cumulative .
+Myelosuppression occurred late in the treatment cycle and returned to normal , on average , within 14 days of nadir counts .
+The median nadirs occurred at 26 days for platelets ( range : 21 - 40 days ) and 28 days for neutrophils ( range : 1 - 44 days ) .
+Only 14 % ( 22 / 158 ) of patients had a neutrophil nadir and 20 % ( 32 / 158 ) of patients had a platelet nadir , which may have delayed the start of the next cycle .
+Less than 10 % of patients required hospitalization , blood transfusion , or discontinuation of therapy due to myelosuppression .
+The most common adverse reactions ( ≥ 20 % ) were nausea , vomiting , headache , fatigue , constipation , and convulsions .
+Tables 4 and 5 summarize the adverse reactions and hematological laboratory abnormalities in Refractory Anaplastic Astrocytoma Trial .
+TABLE 4 : Adverse Reactions ( ≥ 5 % ) in Patients Receiving Temozolomide in Refractory Anaplastic Astrocytoma Trial Adverse Reactions Temozolomide N = 158 All Reactions ( % ) Grades 3 - 4 ( % ) Gastrointestinal System Nausea 53 10 Vomiting 42 6 Constipation 33 1 Diarrhea 16 2 Abdominal pain 9 1 Anorexia 9 1 General Headache 41 6 Fatigue 34 4 Asthenia 13 6 Fever 13 2 Back pain 8 3 Central and Peripheral Nervous System Convulsions 23 5 Hemiparesis 18 6 Dizziness 12 1 Coordination abnormal 11 1 Amnesia 10 4 Insomnia 10 Paresthesia 9 1 Somnolence 9 3 Paresis 8 3 Urinary incontinence 8 2 Ataxia 8 2 Dysphasia 7 1 Convulsions local 6 Gait abnormal 6 1 Confusion 5 Cardiovascular Edema peripheral 11 1 Resistance Mechanism Infection viral 11 Endocrine Adrenal hypercorticism 8 Respiratory System Upper respiratory tract infection 8 Pharyngitis 8 Sinusitis 6 Coughing 5 Skin and Appendages Rash 8 Pruritus 8 1 Urinary System Urinary tract infection 8 Micturition increased frequency 6 Psychiatric Anxiety 7 1 Depression 6 Reproductive Disorders Breast pain , female 6 Metabolic Weight increase 5 Musculoskeletal System Myalgia 5 Vision Diplopia 5 Vision abnormal [ 1 ] 5 [ 1 ] This term includes blurred vision ; visual deficit ; vision changes ; and vision troubles .
+TABLE 5 : Grade 3 to 4 Adverse Hematologic Laboratory Abnormalities in Refractory Anaplastic Astrocytoma Trial Temozolomide [ 1 ] ' [ 2 ] Decreased lymphocytes 55 % Decreased platelets 19 % Decreased neutrophils 14 % Decreased leukocytes 11 % Decreased hemoglobin 4 % [ 1 ] Change from Grade 0 to 2 at baseline to Grade 3 or 4 during treatment .
+[ 2 ] Denominator range = 142 , 158 Hematological Toxicities for Advanced Gliomas : In clinical trial experience with 110 to 111 females and 169 to 174 males ( depending on measurements ) , females experienced higher rates of Grade 4 neutropenia ( ANC < 0 . 5 x 109 / L ) and thrombocytopenia ( < 20 x 109 / L ) than males in the first cycle of therapy ( 12 % vs . 5 % and 9 % vs . 3 % , respectively ) .
+In the entire safety database for which hematologic data exist ( N = 932 ) , 7 % ( 4 / 61 ) and 9 . 5 % ( 6 / 63 ) of patients > 70 years experienced Grade 4 neutropenia or thrombocytopenia in the first cycle , respectively .
+For patients ≤ 70 years , 7 % ( 62 / 871 ) and 5 . 5 % ( 48 / 879 ) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle , respectively .
+Pancytopenia , leukopenia , and anemia also occurred .
+6 . 2 Postmarketing Experience The following adverse reactions have been identified during post - approval use of Temozolomide .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure .
+Dermatologic : Toxic epidermal necrolysis and Stevens - Johnson syndrome Immune System : Hypersensitivity reactions , including anaphylaxis .
+Erythema multiforme , which resolved after discontinuation of Temozolomide and , in some cases , recurred upon rechallenge .
+Hematopoietic : Prolonged pancytopenia , which may result in aplastic anemia and fatal outcomes .
+Hepatobiliary : Fatal and severe hepatotoxicity , elevation of liver enzymes , hyperbilirubinemia , cholestasis , and hepatitis .
+Infections : Serious opportunistic infections , including some cases with fatal outcomes , with bacterial , viral ( primary and reactivated ) , fungal , and protozoan organisms .
+Pulmonary : Interstitial pneumonitis , pneumonitis , alveolitis , and pulmonary fibrosis .
+Endocrine : Diabetes insipidus 8 USE IN SPECIFIC POPULATIONS Lactation : Advise not to brestfeed .
+( 8 . 2 ) 8 . 1 Pregnancy Risk Summary Based on its mechanism of action [ see Clinical Pharmacology ( 12 . 1 ) ] and findings from animal studies , Temozolomide can cause fetal harm when administered to a pregnant woman .
+Available postmarketing reports describe cases of spontaneous abortions and congenital malformations , including polymalformations with central nervous system , facial , cardiac , skeletal , and genitourinary system anomalies with exposure to Temozolomide during pregnancy .
+These cases report similar adverse developmental outcomes to those observed in animal studies .
+Administration of Temozolomide to rats and rabbits during the period of organogenesis caused numerous external , internal , and skeletal malformations at doses less than the maximum human dose based on body surface area ( see Data ) .
+Advise pregnant women of the potential risk to a fetus .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+Data Animal Data Five consecutive days of oral administration of temozolomide at doses of 75 and 150 mg / m2 ( 0 . 38 and 0 . 75 times the human dose of 200 mg / m2 ) in rats and rabbits , respectively , during the period of organogenesis ( Gestation Days 8 - 12 ) caused numerous malformations of the external and internal organs and skeleton in both species .
+In rabbits , temozolomide at the 150 mg / m2 dose ( 0 . 75 times the human dose of 200 mg / m2 ) caused embryolethality as indicated by increased resorptions .
+8 . 2 Lactation There are no data on the presence of Temozolomide or its metabolites in human milk , the effects on a breastfed child , or the effects on milk production .
+Because of the potential for serious adverse reactions , including myelosuppression from temozolomide in the breastfed children , advise women not to breastfeed during treatment with Temozolomide and for at least 1 week after the final dose .
+8 . 3 Females and Males of Reproductive Potential Pregnancy Testing Verify pregnancy status in females of reproductive potential prior to initiating Temozolomide [ see Use in Specific Populations ( 8 . 1 ) ] .
+Contraception Females Temozolomide can cause embryo - fetal harm when administered to a pregnant woman [ see Use in Specific Populations ( 8 . 1 ) ] .
+Advise females of reproductive potential to use effective contraception during treatment with Temozolomide and for at least 6 months after the last dose .
+Males Because of the potential for embryofetal toxicity and genotoxic effects on sperm cells , advise male patients with pregnant partners or female partners of reproductive potential to use condoms during treatment with Temozolomide and for at least 3 months after the final dose [ see Use in Specific Populations ( 8 . 1 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+Advise male patients not to donate semen during treatment with Temozolomide and for at least 3 months after the final dose .
+Infertility Temozolomide may impair male fertility [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+Limited data from male patients show changes in sperm parameters during treatment with Temozolomide ; however , no information is available on the duration or reversibility of these changes .
+8 . 4 Pediatric Use Safety and effectiveness of Temozolomide have not been established in pediatric patients .
+Safety and effectiveness of Temozolomide capsules , USP were assessed , but not established , in 2 open - label studies in pediatric patients aged 3 to18 years .
+In one study , 29 patients with recurrent brain stem glioma and 34 patients with recurrent high - grade astrocytoma were enrolled .
+In a second study conducted by the Children ’ s Oncology Group ( COG ) , 122 patients were enrolled , including patients with medulloblastoma / PNET ( 29 ) , high grade astrocytoma ( 23 ) , low grade astrocytoma ( 22 ) , brain stem glioma ( 16 ) , ependymoma ( 14 ) , other CNS tumors ( 9 ) , and non - CNS tumors ( 9 ) .
+The adverse reaction profile in pediatric patients was similar to adults .
+8 . 5 Geriatric Use In the Newly Diagnosed Glioblastoma trial , Study MK - 7365 - 051 , 15 % of patients were 65 years and older .
+This study did not include sufficient numbers of patients aged 65 years and older to determine differences in effectiveness from younger patients .
+No overall differences in safety were observed between patients ≥ 65 years and younger patients .
+In the Refractory Anaplastic Astrocytoma trial , Study MK - 7365 - 0006 , 4 % of patients were 70 years and older .
+This study did not include sufficient numbers of patients aged 70 years and older to determine differences in effectiveness from younger patients .
+Patients 70 years and older had a higher incidence of Grade 4 neutropenia ( 25 % ) and Grade 4 thrombocytopenia ( 20 % ) in the first cycle of therapy than patients less than 70 years of age [ see Warnings and Precautions ( 5 . 1 ) , Adverse Reactions ( 6 . 1 ) ] .
+8 . 6 Renal Impairment No dosage adjustment is recommended for patients with creatinine clearance ( CLcr ) of 36 to 130 mL / min / m2 [ see Clinical Pharmacology ( 12 . 3 ) ] .
+The recommended dose of Temozolomide has not been established for patients with severe renal impairment ( CLcr < 36 mL / min / m2 ) or for patients with end - stage renal disease on dialysis .
+8 . 7 Hepatic Impairment No dosage adjustment is recommended for patients with mild to moderate hepatic impairment ( Child Pugh class Aand B ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+The recommended dose of Temozolomide has not been established for patients with severe hepatic impairment ( Child - Pugh class C ) .
+10 OVERDOSAGE Dose - limiting toxicity was myelosuppression and was reported with any dose but is expected to be more severe at higher doses .
+An overdose of 2000 mg per day for 5 days was taken by one patient and the adverse reactions reported were pancytopenia , pyrexia , multi - organ failure , and death .
+There are reports of patients who have taken more than 5 days of treatment ( up to 64 days ) , with adverse reactions reported including myelosuppression , which in some cases was severe and prolonged , and infections and resulted in death .
+In the event of an overdose , monitor complete blood count and provide supportive measures as necessary .
+11 DESCRIPTION Temozolomide is an alkylating drug .
+The chemical name of temozolomide is 3 , 4 - dihydro - 3 - methyl - 4 - oxoimidazo [ 5 , 1 - d ] - as - tetrazine - 8 - carboxamide .
+The structural formula of temozolomide is : [ MULTIMEDIA ] The material is a white to light tan / light pink powder with a molecular formula of C6H6N6O2 and a molecular weight of 194 . 15 .
+The molecule is stable at acidic pH ( < 5 ) and labile at pH > 7 ; hence Temozolomide capsules , USP can be administered orally .
+The prodrug , temozolomide , is rapidly hydrolyzed to the active 5 - ( 3 - methyltriazen - 1 - yl ) imidazole - 4 - carboxamide ( MTIC ) at neutral and alkaline pH values , with hydrolysis taking place even faster at alkaline pH . Temozolomide capsules , USP : Temozolomide capsules , USP for oral use contains either 5 mg , 20 mg , 100 mg , 140 mg , 180 mg , or 250 mg of temozolomide .
+The inactive ingredients are as follows : • Temozolomide capsules , USP , 5 mg : lactose anhydrous ( 103 . 52 mg ) , colloidal silicon dioxide ( 0 . 180 mg ) , sodium starch glycolate ( 5 . 650 mg ) , tartaric acid ( 2 . 260 mg ) , and stearic acid ( 3 . 390 mg ) .
+• Temozolomide capsules , USP , 20 mg : lactose anhydrous ( 179 . 0 mg ) , colloidal silicon dioxide ( 0 . 320 mg ) , sodium starch glycolate ( 10 . 350 mg ) , tartaric acid ( 4 . 140 mg ) , and stearic acid ( 6 . 210 mg ) .
+• Temozolomide capsules , USP , 100 mg : lactose anhydrous ( 73 . 0 mg ) , colloidal silicon dioxide ( 0 . 280 mg ) , sodium starch glycolate ( 9 . 00 mg ) , tartaric acid ( 3 . 60 mg ) , and stearic acid ( 5 . 40 mg ) .
+• Temozolomide capsules , USP , 140 mg : lactose anhydrous ( 102 . 2 mg ) , colloidal silicon dioxide ( 0 . 390 mg ) , sodium starch glycolate ( 12 . 60 mg ) , tartaric acid ( 5 . 040 mg ) , and stearic acid ( 7 . 560 mg ) .
+• Temozolomide capsules , USP , 180 mg : lactose anhydrous ( 131 . 4 mg ) , colloidal silicon dioxide ( 0 . 500 mg ) , sodium starch glycolate ( 16 . 20 mg ) , tartaric acid ( 6 . 480 mg ) , and stearic acid ( 9 . 720 mg ) .
+• Temozolomide capsules , USP , 250 mg : lactose anhydrous ( 182 . 5 mg ) , colloidal silicon dioxide ( 0 . 700 mg ) , sodium starch glycolate ( 22 . 50 mg ) , tartaric acid ( 9 . 000 mg ) , and stearic acid ( 13 . 50 mg ) .
+The body of the capsules for 5 mg , 20 mg , 140 mg , 180 mg and 250 mg strengths is made of gelatin , and titanium dioxide and is white opaque .
+The body of the capsules for 100 mg strengths is made of gelatin , titanium dioxide and ferric oxide yellow and is buff opaque .
+The cap is also made of gelatin , and the colors vary based on the dosage strength .
+The capsule body and cap are imprinted with pharmaceutical branding ink , which contains shellac , dehydrated alcohol , isopropyl alcohol , butyl alcohol , propylene glycol , purified water , strong ammonia solution , potassium hydroxide , and Black Iron Oxide .
+• Temozolomide capsules , USP , 5 mg : The green opaque cap contains gelatin , titanium dioxide , FDA / E172 yellow iron oxide , and FD & C Blue # 2 .
+• Temozolomide capsules , USP , 20 mg : The rich yellow opaque cap contains gelatin , titanium dioxide , and FDA / E172 yellow iron oxide .
+• Temozolomide capsules , USP , 100 mg : The peach opaque cap contains gelatin , titanium dioxide , ferric oxide yellow , and ferric oxide red .
+• Temozolomide capsules , USP , 140 mg : The blue opaque cap contains gelatin , titanium dioxide , and FD & C Blue # 2 .
+• Temozolomide capsules , USP , 180 mg : The red opaque cap contains gelatin , titanium dioxide , and ferric oxide red .
+• Temozolomide capsules , USP , 250 mg : The white opaque cap contains gelatin , and titanium dioxide .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5 - ( 3 - methyltriazen - 1 - yl ) - imidazole - 4 - carboxamide ( MTIC ) .
+The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA .
+Alkylation ( methylation ) occurs mainly at the O6 and N7 positions of guanine .
+12 . 3 Pharmacokinetics Following a single oral dose of 150 mg / m2 , the mean Cmax value for temozolomide was 7 . 5 mcg / mL and for MTIC was 282 ng / mL .
+The mean AUC value for temozolomide was 23 . 4 mcg · hr / mL and for MTIC was 864 ng · hr / mL .
+Temozolomide exhibits linear kinetics over the therapeutic dosing range of 75 mg / m2 / day to 250 mg / m2 / day .
+Absorption The median Tmax is 1 hour .
+Effect of Food The mean Cmax and AUC decreased by 32 % and 9 % , respectively , and median Tmax increased by 2 - fold ( from 1 - 2 . 25 hours ) when Temozolomide capsules , USP were administered after a modified high - fat breakfast ( 587 calories comprised of 1 fried egg , 2 strips of bacon , 2 slices of toast , 2 pats of butter , and 8 oz whole milk ) .
+Distribution Temozolomide has a mean apparent volume of distribution of 0 . 4 L / kg ( % CV = 13 % ) .
+The mean percent bound of drug - related total radioactivity is 15 % .
+Elimination Clearance of temozolomide is about 5 . 5 L / hr / m2 and the mean elimination half - life is 1 . 8 hours .
+Metabolism Temozolomide is spontaneously hydrolyzed at physiologic pH to the active species , MTIC and to temozolomide acid metabolite .
+MTIC is further hydrolyzed to 5 - amino - imidazole - 4 - carboxamide ( AIC ) , which is known to be an intermediate in purine and nucleic acid biosynthesis , and to methylhydrazine , which is believed to be the active alkylating species .
+Cytochrome P450 enzymes play only a minor role in the metabolism of temozolomide and MTIC .
+Relative to the AUC of temozolomide , the exposure to MTIC and AIC is 2 . 4 % and 23 % , respectively .
+Excretion About 38 % of the administered temozolomide total radioactive dose is recovered over 7 days : 38 % in urine and 0 . 8 % in feces .
+The majority of the recovery of radioactivity in urine is unchanged temozolomide ( 6 % ) , AIC ( 12 % ) , temozolomide acid metabolite ( 2 . 3 % ) , and unidentified polar metabolite ( s ) ( 17 % ) .
+Specific Populations No clinically meaningful differences in the pharmacokinetics of temozolomide were observed based on age ( range : 19 - 78 years ) , gender , smoking status ( smoker vs . non - smoker ) , creatinine clearance ( CLcr ) of 36 to 130 mL / min / m2 , or mild to moderate hepatic impairment ( Child Pugh class A and B ) .
+The pharmacokinetics of temozolomide has not been studied in patients with CLcr < 36 mL / min / m2 , end - stage renal disease on dialysis , or severe hepatic impairment ( Child - Pugh class C ) .
+Drug Interaction Studies Effect of Other Drugs on Temozolomide Pharmacokinetics In a multiple - dose study , administration of Temozolomide capsules , USP with ranitidine did not change the Cmax or AUC values for temozolomide or MTIC .
+A population analysis indicated that administration of valproic acid decreases the clearance of temozolomide by about 5 % .
+A population analysis did not demonstrate any influence of coadministered dexamethasone , prochlorperazine , phenytoin , carbamazepine , ondansetron , histamine - 2 - receptor antagonists , or phenobarbital on the clearance of orally administered Temozolomide capsules , USP .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Temozolomide is carcinogenic in rats at doses less than the maximum recommended human dose .
+Temozolomide induced mammary carcinomas in both males and females at doses 0 . 13 to 0 . 63 times the maximum human dose ( 25 - 125 mg / m2 ) when administered orally on 5 consecutive days every 28 days for 6 cycles .
+Temozolomide also induced fibrosarcomas of the heart , eye , seminal vesicles , salivary glands , abdominal cavity , uterus , and prostate , carcinomas of the seminal vesicles , schwannomas of the heart , optic nerve , and harderian gland , and adenomas of the skin , lung , pituitary , and thyroid at doses 0 . 5 times the maximum daily dose .
+Mammary tumors were also induced following 3 cycles of temozolomide at the maximum recommended daily dose .
+Temozolomide is a mutagen and a clastogen .
+In a reverse bacterial mutagenesis assay ( Ames assay ) , temozolomide increased revertant frequency in the absence and presence of metabolic activation .
+Temozolomide was clastogenic in human lymphocytes in the presence and absence of metabolic activation .
+Temozolomide impairs male fertility .
+Temozolomide caused syncytial cells / immature sperm formation at doses of 50 and 125 mg / m2 ( 0 . 25 and 0 . 63 times the human dose of 200 mg / m2 ) in rats and dogs , respectively , and testicular atrophy in dogs at 125 mg / m2 .
+13 . 2 Animal Toxicology and / or Pharmacology Toxicology studies in rats and dogs identified a low incidence of hemorrhage , degeneration , and necrosis of the retina at temozolomide doses equal to or greater than 125 mg / m2 ( 0 . 63 times the human dose of 200 mg / m2 ) .
+These changes were most commonly seen at doses where mortality was observed .
+14 CLINICAL STUDIES 14 . 1 Newly Diagnosed Glioblastoma The efficacy of Temozolomide was evaluated in Study MK - 7365 - 051 , a randomized ( 1 : 1 ) , multicenter , open - label trial .
+Eligible patients were required to have newly diagnosed glioblastoma .
+Patients were randomized to receive either radiation therapy alone or concomitant Temozolomide 75 mg / m2 once daily starting the first day of radiation therapy and continuing until the last day of radiation therapy for 42 days ( with a maximum of 49 days ) , followed by Temozolomide 150 mg / m2 or 200 mg / m2 once daily on Days 1 to 5 of each 28 - day cycle , starting 4 weeks after the end of radiation therapy and continuing for 6 cycles .
+In both arms , focal radiation therapy was delivered as 60 Gy / 30 fractions and included radiation to the tumor bed or resection site with a 2 - to 3 - cm margin .
+PCP prophylaxis was required during the concomitant phase , regardless of lymphocyte count and continued until recovery of lymphocyte count to grade 1 or less .
+The major efficacy outcome measure was overall survival .
+A total of 573 patients were randomized , 287 to Temozolomide and radiation therapy and 286 to radiation therapy alone .
+At the time of disease progression , Temozolomide was administered as salvage therapy in 161 patients of the 282 ( 57 % ) in the radiation therapy alone arm and 62 patients of the 277 ( 22 % ) in the Temozolomide and radiation therapy arm .
+The addition of concomitant and maintenance Temozolomide to radiation therapy for the treatment of patients with newly diagnosed glioblastoma showed a statistically significant improvement in overall survival compared to radiotherapy alone ( Figure 1 ) .
+The hazard ratio ( HR ) for overall survival was 0 . 63 ( 95 % CI : 0 . 52 , 0 . 75 ) with a log - rank P < 0 . 0001 in favor of the Temozolomide arm .
+The median survival was increased by 2 . 5 months in the Temozolomide arm .
+FIGURE 1 : Kaplan - Meier Curves for Overall Survival ( ITT Population ) in Newly Diagnosed Glioblastoma Trial [ MULTIMEDIA ] [ MULTIMEDIA ] 14 . 2 Refractory Anaplastic Astrocytoma The efficacy of Temozolomide was evaluated in Study MK - 7365 - 006 , a single - arm , multicenter trial .
+Eligible patients had anaplastic astrocytoma at first relapse and a baseline Karnofsky performance status ( KPS ) of 70 or greater .
+Patients had previously received radiation therapy and may also have previously received a nitrosourea with or without other chemotherapy .
+Fifty - four patients had disease progression on prior therapy with both a nitrosourea and procarbazine and their malignancy was considered refractory to chemotherapy ( refractory anaplastic astrocytoma population ) .
+Temozolomide capsules , USP were given on Days 1 to 5 of each 28 - day cycle at a starting dose of 150 mg / m2 / day .
+If ANC was ≥ 1 . 5 x 109 / L and platelet count was ≥ 100 x 109 / L at the nadir and on Day 1 of the next cycle , the Temozolomide dose was increased to 200 mg / m2 / day .
+The major efficacy outcome measure was progression - free survival at 6 months and the additional efficacy outcome measures were overall survival and overall response rate .
+In the refractory anaplastic astrocytoma population ( n = 54 ) , the median age was 42 years ( range : 19 to 76 ) ; 65 % were male ; and 72 % had a KPS of > 80 .
+Sixty - three percent of patients had surgery other than a biopsy at the time of initial diagnosis .
+Of those patients undergoing resection , 73 % underwent a subtotal resection and 27 % underwent a gross total resection .
+Eighteen percent of patients had surgery at the time of first relapse .
+The median time from initial diagnosis to first relapse was 13 . 8 months ( range : 4 . 2 months to 6 . 3 years ) .
+In the refractory anaplastic astrocytoma population , the overall response rate ( CR + PR ) was 22 % ( 12 of 54 patients ) and the complete response rate was 9 % ( 5 of 54 patients ) .
+The median duration of all responses was 50 weeks ( range : 16 to 114 weeks ) and the median duration of complete responses was 64 weeks ( range : 52 to 114 weeks ) .
+In this population , progression - free survival at 6 months was 45 % ( 95 % CI : 31 % , 58 % ) and progression - free survival at 12 months was 29 % ( 95 % CI : 16 % , 42 % ) .
+Median progression - free survival was 4 . 4 months .
+Overall survival at 6 months was 74 % ( 95 % CI : 62 % , 86 % ) and 12 - month overall survival was 65 % ( 95 % CI : 52 % , 78 % ) .
+Median overall survival was 15 . 9 months .
+15 REFERENCES 1 .
+“ OSHA Hazardous Drugs . ”
+OSHA .
+http : / / www . osha . gov / SLTC / hazardousdrugs / index .
+16 HOW SUPPLIED / STORAGE AND HANDLING Temozolomide is a cytotoxic drug .
+Follow applicable special handling and disposal procedures . 1 Temozolomide capsules , USP Temozolomide capsules , USP are supplied in HDPE bottle with child - resistant Polypropylene closure containing the following capsule strengths : 5 mg : white opaque bodies with green opaque caps .
+The capsule body is imprinted with “ 5 mg ” .
+The cap is imprinted with “ NIV - 132 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 132 - 05 14 - count – NDC 75834 - 132 - 14 20 mg : white opaque bodies with rich yellow opaque caps .
+The capsule body is imprinted with “ 20 mg ” .
+The cap is imprinted with “ NIV - 142 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 142 - 05 14 - count – NDC 75834 - 142 - 14 100 mg : buff opaque bodies with peach opaque caps .
+The capsule body is imprinted with “ 100 mg ” .
+The cap is imprinted with “ NIV - 143 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 143 - 05 14 - count – NDC 75834 - 143 - 14 140 mg : white opaque bodies with blue opaque caps .
+The capsule body is imprinted with “ 140 mg ” .
+The cap is imprinted with “ NIV - 144 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 144 - 05 14 - count – NDC 75834 - 144 - 14 180 mg : white opaque bodies with red opaque caps .
+The capsule body is imprinted with “ 180 mg ” .
+The cap is imprinted with “ NIV - 145 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 145 - 05 14 - count – NDC 75834 - 145 - 14 250 mg : white opaque bodies with white opaque caps .
+The capsule body is imprinted with “ 250 mg ” .
+The cap is imprinted with “ NIV - 146 ” .
+They are supplied as follows : 5 - count – NDC 75834 - 146 - 05 Store Temozolomide capsules , USP at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) [ see USP Controlled Room Temperature ] .
+17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Patient Information ) .
+Myelosuppression Inform patients that Temozolomide can cause low blood cell counts and the need for frequent monitoring of blood cell counts .
+Advise patients to contact their healthcare provider immediately for bleeding , fever , or other signs of infection [ see Warnings and Precautions ( 5 . 1 ) ] .
+Myelodysplastic Syndrome and Secondary Malignancies Advise patients of the increased risk of myelodysplastic syndrome and secondary malignancies [ see Warnings and Precautions ( 5 . 2 ) ] .
+Pneumocystis Pneumonia Advise patients of the increased risk of Pneumocystis pneumonia and to contact their healthcare provided immediately for new or worsening pulmonary symptoms .
+Inform patients that prophylaxis for Pneumocystis pneumonia may be needed [ see Dosage and Administration ( 2 . 1 ) , Warnings and Precautions ( 5 . 3 ) ] .
+Hepatotoxicity Advise patients of the increased risk of hepatotoxicity and to contact their healthcare provider immediately for signs or symptoms of hepatoxicity [ see Warnings and Precautions ( 5 . 4 ) ] .
+Administration Instructions Advise patient to not open capsules .
+If capsules are accidentally opened or damaged , advise patients to take rigorous precautions with capsule contents to avoid inhalation or contact with the skin or mucous membranes .
+In case of powder contact , the hands should be washed .
+[ see Dosage and Administration ( 2 . 3 ) ] .
+Embryo - Fetal Toxicity Advise pregnant women and females of reproductive potential of the potential risk to a fetus .
+Advise females to inform their healthcare provider of a known or suspected pregnancy [ see Warnings and Precautions ( 5 . 5 ) , Use in Specific Populations ( 8 . 1 ) ] .
+Advise females of reproductive potential to use effective contraception during treatment with Temozolomide and for at least 6 months after the last dose [ see Use in Specific Populations ( 8 . 3 ) ] .
+Advise male patients with pregnant partners or female partners of reproductive potential to use condoms during treatment with Temozolomide and for at least 3 months after the final dose [ see Use in Specific Populations ( 8 . 3 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+Advise male patients not to donate semen during treatment with Temozolomide and for at least 3 months after the final dose [ see Use in Specific Populations ( 8 . 3 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+Lactation Advise women not to breastfeed during treatment with Temozolomide and for at least 1 week after the final dose [ see Use in Specific Populations ( 8 . 2 ) ] .
+Infertility Advise males of reproductive potential that Temozolomide may impair fertility [ see Use in Specific Populations ( 8 . 3 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+Manufactured for : Nivagen Pharmaceutical , Inc .
+Sacramento , CA 95827 USA Toll free number : 1 - 877 - 977 - 0687 Revised : 06 / 2020 .
+SPL UNCLASSIFIED SECTION Patient Information Temozolomide ( te moe zoe ' loe mide ) capsules , USP ( temozolomide ) What is the most important information I should know about Temozolomide capsules , USP ?
+Temozolomide capsules , USP may cause birth defects .
+Females and female partners of male patients who take Temozolomide capsules , USP : • Avoid becoming pregnant while taking Temozolomide capsules , USP .
+• Females who can become pregnant should use an effective form of birth control ( contraception ) during treatment and for at least 6 months after your last dose of Temozolomide capsules , USP .
+Your doctor should to do a pregnancy test to make sure that you are not pregnant before you start taking Temozolomide capsules , USP .
+• Tell your doctor right away if you become pregnant or think you are pregnant during treatment with Temozolomide capsules , USP .
+Males taking Temozolomide capsules , USP and have a female partner who is pregnant or who can become pregnant : • Use a condom for birth control ( contraception ) during treatment and for at least 3 months after taking your final dose of Temozolomide capsules , USP .
+• Do not donate semen during treatment and for at least 3 months after your final dose of Temozolomide capsules , USP .
+See the section “ What are the possible side effects of Temozolomide capsules , USP ? ”
+for more information about side effects .
+What is Temozolomide capsules , USP ?
+Temozolomide capsules , USP is a prescription medicine used to treat adults with certain brain cancer tumors .
+It is not known if Temozolomide capsules , USP is safe and effective in children .
+Who should not take Temozolomide capsules , USP ?
+Do not take Temozolomide capsules , USP if you : • have had an allergic reaction to temozolomide or any of the other ingredients in Temozolomide capsules , USP .
+See the end of this leaflet for a list of ingredients in Temozolomide capsules , USP .
+Symptoms of an allergic reaction with Temozolomide capsules , USP may include : a red itchy rash , or a severe allergic reaction , such as trouble breathing , swelling of the face , throat , or tongue , or severe skin reaction .
+If you are not sure , ask your doctor .
+• have had an allergic reaction to dacarbazine ( DTIC ) , another cancer medicine .
+What should I tell my doctor before taking Temozolomide capsules , USP ?
+Tell your doctor about all of your medical conditions , including if you : • have kidney problems • have liver problems • are pregnant or plan to become pregnant .
+See “ What is the most important information I should know about Temozolomide capsules , USP ? ”
+• are breast - feeding or plan to breastfeed .
+It is not known if Temozolomide capsules , USP passes into your breast milk .
+Do not breastfeed during treatment and for at least 1 week after your last dose of Temozolomide capsules , USP .
+Tell your doctor about all the medicines you take , including prescription and non - prescription medicines , vitamins , and herbal supplements .
+Especially tell your doctor if you take a medicine that contains valproic acid .
+Know the medicines you take .
+Keep a list of them and show it to your doctor and pharmacist when you get a new medicine .
+How should I take Temozolomide capsules , USP ?
+You may take Temozolomide capsules , USP by mouth as a capsule .
+Take Temozolomide capsules , USP exactly as prescribed by your doctor .
+There are 2 common dosing schedules for taking Temozolomide capsules , USP depending on the type of brain cancer tumor that you have .
+• People with certain brain cancer tumors take or receive Temozolomide capsules , USP : • 1 time each day for 42 days in a row ( possibly 49 days depending on side effects ) along with receiving radiation treatment .
+This is 1 cycle of treatment .
+• After this , your doctor may prescribe 6 more cycles of Temozolomide capsules , USP as “ maintenance ” treatment .
+For each of these cycles , you take or receive Temozolomide capsules , USP 1 time each day for 5 days in a row and then you stop taking it for the next 23 days .
+This is a 28 - day maintenance treatment cycle .
+• People with certain other brain cancer tumors take or receive Temozolomide capsules , USP : • 1 time each day for 5 days in a row only , and then stop taking it for the next 23 days .
+This is 1 cycle of treatment ( 28 days ) .
+• Your doctor will watch your progress on Temozolomide capsules , USP and decide how long you should take it .
+You might take Temozolomide capsules , USP until your tumor gets worse or for possibly up to 2 years .
+• If your doctor prescribes a treatment regimen that is different from the information in this leaflet , make sure you follow the instructions given to you by your doctor .
+• Your doctor may change your dose of Temozolomide capsules , USP or tell you to stop Temozolomide capsules , USP for a short period of time or permanently if you have certain side effects .
+• Your doctor will decide how many treatment cycles of Temozolomide capsules , USP that you will receive , depending on how you respond to and tolerate treatment .
+Temozolomide capsules , USP : • Take Temozolomide capsules , USP exactly as your doctor tells you to .
+• Temozolomide capsules , USP , 5 mg , 20 mg , 140 mg , 180 mg and 250 mg strengths contain a white capsule body and Temozolomide capsules , USP , 100 mg contain a buff capsule body with a color cap and the colors vary based on the dosage strength .
+Your doctor may prescribe more than 1 strength of Temozolomide capsules , USP for you , so it is important that you understand how to take your medicine the right way .
+Be sure that you understand exactly how many capsules you need to take on each day of your treatment , and what strengths to take .
+This may be different whenever you start a new cycle .
+• Do not take more Temozolomide capsules , USP than prescribed .
+• Talk to your doctor or pharmacist before taking your dose if you are not sure how much Temozolomide capsules , USP to take .
+This will help to prevent taking too much Temozolomide capsules , USP and decrease your chances of getting serious side effects .
+• Take each day ’ s dose of Temozolomide capsules , USP at one time , with a full glass of water .
+• Swallow Temozolomide capsules , USP whole .
+Do not chew , open , or split the capsules .
+• Take Temozolomide capsules , USP at the same time each day .
+• Take Temozolomide capsules , USP the same way each time , either with food or without food .
+• If Temozolomide capsules , USP are accidentally opened or damaged , be careful not to breathe in ( inhale ) the powder from the capsules or get the powder on your skin or mucous membranes ( for example , in your nose or mouth ) .
+If contact with any of these areas happens , flush the area with water .
+• To help reduce nausea and vomiting , try to take Temozolomide capsules , USP on an empty stomach or at bedtime .
+Your doctor may prescribe medicine to help prevent or treat nausea , or other medicines to reduce side effects with Temozolomide capsules , USP .
+• See your doctor regularly to check your progress .
+Your doctor will check you for side effects .
+• If you take more Temozolomide capsules , USP than prescribed , call your doctor or get emergency medical help right away .
+What are the possible side effects of Temozolomide capsules , USP ?
+Temozolomide capsules , USP can cause serious side effects , including : • See “ What is the most important information I should know about Temozolomide capsules , USP ? ”
+• Decreased blood cell counts .
+Temozolomide capsules , USP can affect your bone marrow and cause you to have decreased blood cell counts .
+Decreased white blood cell count , red blood cell count and platelet count are common with Temozolomide capsules , USP but it can also be severe and lead to death .
+• Your doctor will do blood tests regularly to check your blood cell counts before you start and during treatment with Temozolomide capsules , USP .
+• Your doctor may need to change the dose of Temozolomide capsules , USP , or when you get it depending on your blood cell counts .
+• People who are age 70 or older and women have a higher risk for developing decreased blood cell counts during treatment with Temozolomide capsules , USP .
+• Secondary cancers .
+Blood problems such as myelodysplastic syndrome ( MDS ) and new cancers ( secondary cancers ) , including a certain kind of leukemia , can happen in people who take Temozolomide capsules , USP .
+Your doctor will monitor you for this .
+• Pneumocystis pneumonia ( PCP ) .
+PCP is an infection that people can get when their immune system is weak .
+Temozolomide capsules , USP decreases white blood cells , which makes your immune system weaker and can increase your risk of getting PCP .
+• People who are taking steroid medicines or who stay on Temozolomide capsules , USP for a longer period of time may have an increased risk of getting PCP infection .
+• Anyone who takes Temozolomide capsules , USP will be watched carefully by their doctor for low blood cell counts and this infection .
+• Tell your doctor if you have any of the following signs and symptoms of PCP infection : shortness of breath , or fever , chills , dry cough .
+• Liver problems .
+Liver problems can happen with Temozolomide capsules , USP and can sometimes be severe and lead to death .
+Your doctor will do blood tests to check your liver function before you start taking Temozolomide capsules , USP , during treatment , and about 2 to 4 weeks after your last dose of Temozolomide capsules , USP .
+Common side effects of Temozolomide capsules , USP include : • hair loss • feeling tired • nausea and vomiting .
+• headache • constipation • loss of appetite • convulsions • rash • diarrhea • unable to move ( paralysis ) on one side of the body • weakness • fever • dizziness • coordination problems • viral infection • memory loss • sleep problems Temozolomide capsules , USP can affect fertility in males and may affect your ability to father a child .
+Talk with your doctor if fertility is a concern for you .
+Tell your doctor about any side effect that bothers you or that does not go away .
+These are not all the possible side effects with Temozolomide capsules , USP .
+For more information , ask your doctor or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store Temozolomide capsules , USP ?
+• Store Temozolomide capsules , USP at room temperature between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+• Keep Temozolomide capsules , USP and all medicines out of the reach of children .
+General information about the safe and effective use of Temozolomide capsules , USP .
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet .
+Do not use Temozolomide capsules , USP for a condition for which it was not prescribed .
+Do not give Temozolomide capsules , USP to other people , even if they have the same symptoms that you have .
+It may harm them .
+This leaflet summarizes the most important information about Temozolomide capsules , USP .
+If you would like more information , talk with your doctor .
+You can ask your pharmacist or doctor for information about Temozolomide capsules , USP that is written for health professionals .
+For more information , contact Nivagen Pharmaceuticals , Inc . at 1 - 877 - 977 - 0687 .
+What are the ingredients in Temozolomide capsules , USP ?
+Temozolomide capsules , USP : Active ingredient : temozolomide .
+Inactive ingredients : lactose anhydrous , colloidal silicon dioxide , sodium starch glycolate , tartaric acid , stearic acid .
+The body of the capsules for 5 mg , 20 mg , 140 mg , 180 mg and 250 mg strengths is made of gelatin and titanium dioxide and is white opaque .
+The body of the capsules for 100 mg strength is made of gelatin , titanium dioxide and ferric oxide yellow and is buff opaque .
+The cap is also made of gelatin , and the colors vary based on the dosage strength .
+The capsule body and cap are imprinted with pharmaceutical branding ink , which contains shellac , dehydrated alcohol , isopropyl alcohol , butyl alcohol , propylene glycol , purified water , strong ammonia solution , potassium hydroxide , and Black Iron Oxide .
+Temozolomide capsules , USP , 5 mg : The green opaque cap contains gelatin , titanium dioxide , FDA / E172 yellow iron oxide , and FD & C Blue # 2 .
+Temozolomide capsules , USP , 20 mg : The rich yellow opaque cap contains gelatin , titanium dioxide , and FDA / E172 yellow iron oxide .
+Temozolomide capsules , USP , 100 mg : The peach opaque cap contains gelatin , titanium dioxide , ferric oxide yellow , and ferric oxide red .
+Temozolomide capsules , USP , 140 mg : The blue opaque cap contains gelatin , titanium dioxide and FD & C Blue # 2 .
+Temozolomide capsules , USP , 180 mg : The red opaque cap contains gelatin , titanium dioxide and ferric oxide red .
+Temozolomide capsules , USP , 250 mg : The white opaque cap contains gelatin , and titanium dioxide .
+Manufactured for Nivagen Pharmaceutical , Inc .
+Sacramento , CA 95827 USA Toll free number : 1 - 877 - 977 - 0687 Revised : 06 / 2020 Temozolomide ( te moe zoe ' loe mide ) capsules , USP PHARMACIST : Dispense enclosed Patient Package Insert to each patient .
+PHARMACIST INFORMATION SHEET IMPORTANT DISPENSING INFORMATION For every patient , dispense Temozolomide capsules , USP in a separate vial or in its original package , making sure each container lists the strength per capsule and that patients take the appropriate number of capsules from each package or vial .
+Please see the dispensing instructions below for more information .
+What is Temozolomide ?
+[ See Full Prescribing Information , Indications and Usage ( 1 ) . ]
+Temozolomide is an oral alkylating agent for the treatment of newly diagnosed glioblastoma multiforme and refractory anaplastic astrocytoma .
+How is Temozolomide dosed ?
+[ See Full Prescribing Information , Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma ( 2 . 1 ) , Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma ( 2 . 2 ) . ]
+The physician calculates the daily dose of Temozolomide capsule , USP for a given patient based on the patient ’ s body surface area ( BSA ) .
+Round off the resulting dose to the nearest 5 mg .
+An example of the dosing may be as follows : the initial daily dose of Temozolomide in milligrams is the BSA multiplied by mg / m2 / day ( e . g . , a patient with a BSA of 1 . 84 is 1 . 84 x 75 mg = 138 , or 140 mg / day ) .
+Adjust the dose for subsequent cycles according to nadir neutrophil and platelet counts in the previous cycle and at the time of initiating the next cycle .
+How might the dose of Temozolomide be modified for Refractory Anaplastic Astrocytoma ?
+[ See Full Prescribing Information , Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma ( 2 . 2 ) . ]
+The initial dose is 150 mg / m2 orally once daily for 5 consecutive days per 28 - day treatment cycle .
+Increase the Temozolomide dose to 200 mg / m2 / day for 5 consecutive days per 28 - day treatment cycle if both the nadir and day of dosing ( Day 29 , Day 1 of next cycle ) absolute neutrophil counts ( ANC ) are greater than or equal to 1 . 5 x 109 / L ( 1500 / μL ) and both the nadir and Day 29 , Day 1 of next cycle platelet counts are greater than or equal to 100 x 109 / L ( 100 , 000 / μL ) .
+During treatment , obtain a complete blood count on Day 22 ( 21 days after the first dose ) , and weekly until the ANC is above 1 . 5 x 109 / L ( 1500 / μL ) and the platelet count exceeds 100 x 109 / L ( 100 , 000 / μL ) .
+Do not start the next cycle of Temozolomide until the ANC and platelet count exceed these levels .
+If the ANC falls to less than 1 . 0 x 109 / L ( 1000 / μL ) or the platelet count is less than 50 x 109 / L ( 50 , 000 / μL ) during any cycle , reduce the dose for the next cycle by 50 mg / m2 .
+Permanently discontinue Temozolomide in patients who are unable to tolerate a dose of 100 mg / m2 per day .
+Patients should continue taking Temozolomide until their physician determines that their disease has progressed or until unacceptable side effects or toxicities occur .
+In the clinical trial , treatment could be continued for a maximum of 2 years , but the optimum duration of therapy is not known .
+Physicians may alter the treatment regimen for a given patient .
+Dosing for Patients with Newly Diagnosed Glioblastoma Multiforme [ See Full Prescribing Information , Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma ( 2 . 1 ) . ]
+Concomitant Phase Treatment Schedule Administer Temozolomide orally at 75 mg / m2 daily for 42 days concomitant with focal radiotherapy ( 60 Gy administered in 30 fractions ) , followed by maintenance Temozolomide for 6 cycles .
+No dose reductions are recommended ; however , dose interruptions may occur based on patient tolerance .
+Continue the Temozolomide dose throughout the 42 - day concomitant period up to 49 days if all of the following conditions are met : absolute neutrophil count greater than or equal to 1 . 5 x 109 / L , platelet count greater than or equal to 100 x109 / L , and nonhematological adverse reactions less than or equal to Grade 1 ( except for alopecia , nausea and vomiting ) .
+During treatment , obtain a complete blood count weekly .
+Interrupt or discontinue temozolomide dosing during the concomitant phase according to the hematological and nonhematological toxicity criteria [ see Table 1 in the Full Prescribing Information , Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma ( 2 . 1 ) ] .
+Pneumocystis pneumonia ( PCP ) prophylaxis is required during the concomitant administration of Temozolomide and radiotherapy , and should be continued in patients who develop lymphocytopenia until resolution to Grade 1 or less .
+Maintenance Phase Treatment Schedule Four weeks after completing the Temozolomide and radiotherapy phase , administer Temozolomide for an additional 6 cycles of maintenance treatment .
+Dosage in Cycle 1 ( maintenance ) is 150 mg / m2 once daily for 5 days followed by 23 days without treatment .
+At the start of Cycle 2 , escalate the dose to 200 mg / m2 , if the nonhematologic adverse reactions for Cycle 1 are Grade less than or equal to 2 ( except for alopecia , nausea and vomiting ) , absolute neutrophil count ( ANC ) is greater than or equal to 1 . 5 x 109 / L , and the platelet count is greater than or equal to 100 x 109 / L .
+If the dose was not escalated at Cycle 2 , do not escalate the dose in subsequent cycles .
+Maintain the dose at 200 mg / m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs .
+During treatment , obtain a complete blood count on Day 22 ( 21 days after the first dose ) and weekly until the ANC is above 1 . 5 x 109 / L ( 1500 / μL ) and the platelet count exceeds 100 x 109 / L ( 100 , 000 / μL ) .
+Do not start the next cycle of Temozolomide until the ANC and platelet count exceed these levels .
+Base dose reductions during the next cycle on the lowest blood counts and worst nonhematologic adverse reactions during the previous cycle .
+Apply dose reductions or discontinuations during the maintenance phase [ see Table 2 in the Full Prescribing Information , Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma ( 2 . 1 ) ] .
+How is Temozolomide taken ?
+[ See Full Prescribing Information , Preparation and Administration , Temozolomide capsules , USP ( 2 . 3 ) . ]
+Advise patients to take each day ’ s dose with a full glass of water , preferably on an empty stomach or at bedtime .
+Taking the medication on an empty stomach or at bedtime may help ease nausea .
+If patients are also taking anti - nausea or other medications to relieve the side effects associated with Temozolomide , advise them to take these medications prior to and / or following administration of Temozolomide capsules , USP .
+Advise patients that Temozolomide capsules , USP should be swallowed whole and NEVER CHEWED .
+Advise patients that they SHOULD NOT open or split the capsules .
+If capsules are accidentally opened or damaged , advise patients to take rigorous precautions with the capsule contents to avoid inhalation or contact with the skin or mucous membranes .
+In case of powder contact , advise the patients to wash their hands .
+Advise patients to keep this medication away from children .
+What should the patient avoid during treatment with Temozolomide ?
+[ See Full Prescribing Information , Use in Specific Populations , Pregnancy ( 8 . 1 ) , Lactation ( 8 . 2 ) , Females and Males of Reproductive Potential ( 8 . 3 ) . ]
+There are no dietary restrictions for patients taking Temozolomide .
+Temozolomide may affect testicular function and may cause birth defects .
+Advise male patients to exercise adequate birth control measures .
+Advise female patients to avoid becoming pregnant while receiving this drug .
+Advise pregnant women of the potential risk to the fetus .
+Advise females of reproductive potential to use effective contraception during treatment and for at least 6 months after the last dose .
+Advise males of reproductive potential to use condoms during treatment and for at least 3 months after the last dose .
+Advise male patients not to donate semen during treatment with Temozolomide and for at least 3 months after the final dose .
+It is not known whether Temozolomide is excreted into breast milk .
+Because of the potential for serious adverse reactions in breastfed children , advise women not to breastfeed while taking Temozolomide and for at least 1 week after the last dose .
+What are the side effects of Temozolomide ?
+[ See Full Prescribing Information , Adverse Reactions ( 6 ) . ]
+Alopecia , fatigue , nausea , and vomiting are the most common side effects associated with Temozolomide .
+Noncumulative myelosuppression is the dose - limiting toxicity .
+Patients should be evaluated periodically by their physician to monitor blood counts .
+Other commonly reported side effects reported by patients takingTemozolomide are headache , constipation , anorexia , and convulsions .
+How is Temozolomide supplied ?
+[ See Full Prescribing Information , How Supplied / Storage and Handling ( 16 ) . ]
+Temozolomide capsules , USP are available in 5 - mg , 20 - mg , 100 - mg , 140 - mg , 180 - mg , and 250 - mg strengths .
+5 mg , 20 mg , 140 mg , 180 mg , and 250 mg capsules strengths contain a white opaque capsule body with a color cap .
+100 mg capsules strength contains a buff opaque capsule body with a color cap .
+The cap colors vary based on the dosage strength .
+Temozolomide capsule , USP Strength Color 5 mg Green Opaque Cap 20 mg Rich Yellow Opaque Cap 100 mg Peach Opaque Cap 140 mg Blue Opaque Cap 180 mg Red Opaque Cap 250 mg White Opaque Cap The 5 - mg , 20 - mg , 100 - mg , 140 - mg , and 180 - mg capsule strengths are available in 5 - count and 14 - count packages .
+The 250 - mg capsule strength is available in a 5 - count package .
+How is Temozolomide capsules , USP dispensed ?
+Dispense each strength of Temozolomide capsules , USP in a separate vial or in its original package ( one strength per one container ) .
+Follow the instructions below : Based on the dose prescribed , determine the number of each strength of Temozolomide capsules , USP needed for the full 42 - or 5 - day cycle as prescribed by the physician .
+For example , in a 5 - day cycle , 275 mg / day would be dispensed as five 250 - mg capsules , five 20 - mg capsules and five 5 - mg capsules .
+Label each container with the appropriate number of capsules to be taken each day .
+Dispense to the patient , making sure each container lists the strength ( mg ) per capsule and that he or she understands to take the appropriate number of capsules of Temozolomide from each package or vial to equal the total daily dose prescribed by the physician .
+How can Temozolomide capsules , USP be ordered ?
+Temozolomide capsules , USP can be ordered from your wholesaler .
+It is important to understand if Temozolomide capsules , USP are being used as part of a 42 - day regimen or as part of a 5 - day course .
+Remember to order enough Temozolomide capsules , USP for the appropriate cycle .
+For example : • a 5 - day course of 360 mg / day would require the following to be ordered : two 5 - count packages of 180 - mg capsules .
+• a 42 - day course of 140 mg / day would require the following to be ordered : three 14 - count packages of 140 - mg capsules .
+Temozolomide capsule , USP Product NDC Number Bottles : 5 - mg capsules ( 5 count ) 75834 - 132 - 05 5 - mg capsules ( 14 count ) 75834 - 132 - 14 20 - mg capsules ( 5 count ) 75834 - 142 - 05 20 - mg capsules ( 14 count ) 75834 - 142 - 14 100 - mg capsules ( 5 count ) 75834 - 143 - 05 100 - mg capsules ( 14 count ) 75834 - 143 - 14 140 - mg capsules ( 5 count ) 75834 - 144 - 05 140 - mg capsules ( 14 count ) 75834 - 144 - 14 180 - mg capsules ( 5 count ) 75834 - 145 - 05 180 - mg capsules ( 14 count ) 75834 - 145 - 14 250 - mg capsules ( 5 count ) 75834 - 146 - 05 References : “ OSHA Hazardous Drugs . ”
+OSHA .
+http : / / www . osha . gov / SLTC / hazardousdrugs / index .
+Manufactured for : Nivagen Pharmaceutical , Inc .
+Sacramento , CA 95827 USA Toll free number : 1 - 877 - 977 - 0687 Revised : 03 / 2021 PACKAGE LABEL . PRINCIPAL DISPLAY PANEL NDC 75834 - 132 - 05 Temozolomide 5 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 132 - 05 Temozolomide 5 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 132 - 14 Temozolomide 5 mg per Capsule Bottle Label - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 132 - 14 Temozolomide 5 mg per Capsule Bottle Carton - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 142 - 05 Temozolomide 20 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 142 - 05 Temozolomide 20 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 142 - 14 Temozolomide 20 mg per Capsule Bottle Label - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 142 - 14 Temozolomide 20 mg per Capsule Bottle Carton - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 143 - 05 Temozolomide 100 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 143 - 05 Temozolomide 100 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 143 - 14 Temozolomide 100 mg per Capsule Bottle Label - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 143 - 14 Temozolomide 100 mg per Capsule Bottle Carton - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 144 - 05 Temozolomide 140 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 144 - 05 Temozolomide 140 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 144 - 14 Temozolomide 140 mg per Capsule Bottle Label - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 144 - 14 Temozolomide 140 mg per Capsule Bottle Carton - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 145 - 05 Temozolomide 180 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 145 - 05 Temozolomide 180 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 145 - 14 Temozolomide 180 mg per Capsule Bottle Label - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 145 - 14 Temozolomide 180 mg per Capsule Bottle Carton - 14 Capsules Count [ MULTIMEDIA ] NDC 75834 - 146 - 05 Temozolomide 250 mg per Capsule Bottle Label - 5 Capsules Count [ MULTIMEDIA ] NDC 75834 - 146 - 05 Temozolomide 250 mg per Capsule Bottle Carton - 5 Capsules Count [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

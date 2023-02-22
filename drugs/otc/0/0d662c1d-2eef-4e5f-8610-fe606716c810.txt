@@ -1,0 +1,404 @@
+Rx only This drug should be administered only by adequately trained individuals familiar with its actions , characteristics , and hazards .
+NOT FOR USE IN NEONATES CONTAINS BENZYL ALCOHOL DESCRIPTION : Cisatracurium Besylate Injection , USP is a non - depolarizing skeletal muscle relaxant for intravenous administration .
+Compared to other neuromuscular blocking agents , it is intermediate in its onset and duration of action .
+Cisatracurium besylate is one of 10 isomers of atracurium besylate and constitutes approximately 15 % of that mixture .
+Cisatracurium besylate is [ 1 R - [ 1α , 2α ( 1 ' R * , 2 ' R * ) ] ] - 2 , 2 ' - [ 1 , 5 - pentanediylbis [ oxy ( 3 - oxo - 3 , 1 - propanediyl ) ] ] bis [ 1 - [ ( 3 , 4 - dimethoxyphenyl ) methyl ] - 1 , 2 , 3 , 4 - tetrahydro - 6 , 7 - dimethoxy - 2 - methylisoquinolinium ] dibenzenesulfonate .
+The molecular formula of the cisatracurium parent bis - cation is C53H72N2O12 and the molecular weight is 929 . 2 .
+The molecular formula of cisatracurium as the besylate salt is C65H82N2O18S2 and the molecular weight is 1243 . 50 .
+The structural formula of cisatracurium besylate is : [ MULTIMEDIA ] The log of the partition coefficient of cisatracurium besylate is - 2 . 12 in a 1 - octanol / distilled water system at 25 ° C . Cisatracurium Besylate Injection , USP is a sterile , non - pyrogenic aqueous solution provided in 5 mL , 10 mL , and 20 mL vials .
+The pH is adjusted to 3 . 25 to 3 . 65 with benzenesulfonic acid .
+The 5 mL and 10 mL vials each contain cisatracurium besylate , equivalent to 2 mg / mL cisatracurium .
+The 20 mL vial , intended for ICU use only , contains cisatracurium besylate , equivalent to 10 mg / mL cisatracurium .
+The 10 mL vial , intended for multiple dose use , contains 0 . 9 % benzyl alcohol as a preservative .
+The 5 mL and 20 mL vials are single dose vials and do not contain benzyl alcohol .
+Cisatracurium besylate slowly loses potency with time at a rate of approximately 5 % per year under refrigeration ( 5 ° C ) .
+Cisatracurium should be refrigerated at 2 ° to 8 ° C ( 36 ° to 46 ° F ) in the carton to preserve potency .
+The rate of loss in potency increases to approximately 5 % per month at 25 ° C ( 77 ° F ) .
+Upon removal from refrigeration to room temperature storage conditions ( 25 ° C / 77 ° F ) , use cisatracurium within 21 days , even if rerefrigerated .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY : Cisatracurium binds competitively to cholinergic receptors on the motor end - plate to antagonize the action of acetylcholine , resulting in block of neuromuscular transmission .
+This action is antagonized by acetylcholinesterase inhibitors such as neostigmine .
+Pharmacodynamics The neuromuscular blocking potency of cisatracurium is approximately threefold that of atracurium besylate .
+The time to maximum block is up to 2 minutes longer for equipotent doses of cisatracurium compared to atracurium besylate .
+The clinically effective duration of action and rate of spontaneous recovery from equipotent doses of cisatracurium and atracurium besylate are similar .
+The average ED95 ( dose required to produce 95 % suppression of the adductor pollicis muscle twitch response to ulnar nerve stimulation ) of cisatracurium is 0 . 05 mg / kg ( range : 0 . 048 to 0 . 053 ) in adults receiving opioid / nitrous oxide / oxygen anesthesia .
+For comparison , the average ED95 for atracurium when also expressed as the parent bis - cation is 0 . 17 mg / kg under similar anesthetic conditions .
+The pharmacodynamics of 2 x ED95 to 8 x ED95 doses of cisatracurium administered over 5 to 10 seconds during opioid / nitrous oxide / oxygen anesthesia are summarized in Table 1 .
+When the dose is doubled , the clinically effective duration of block increases by approximately 25 minutes .
+Once recovery begins , the rate of recovery is independent of dose .
+Isoflurane or enflurane administered with nitrous oxide / oxygen to achieve 1 . 25 MAC [ Minimum Alveolar Concentration ] may prolong the clinically effective duration of action of initial and maintenance doses , and decrease the average infusion rate requirement of cisatracurium .
+The magnitude of these effects may depend on the duration of administration of the volatile agents .
+Fifteen to 30 minutes of exposure to 1 . 25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of cisatracurium and therefore , no adjustment to the initial dose should be necessary when cisatracurium is administered shortly after initiation of volatile agents .
+In long surgical procedures during enflurane or isoflurane anesthesia , less frequent maintenance dosing , lower maintenance doses , or reduced infusion rates of cisatracurium may be necessary .
+The average infusion rate requirement may be decreased by as much as 30 % to 40 % .
+The onset , duration of action , and recovery profiles of cisatracurium during propofol / oxygen or propofol / nitrous oxide / oxygen anesthesia are similar to those during opioid / nitrous oxide / oxygen anesthesia .
+Table 1 .
+Pharmacodynamic Dose Response * of Cisatracurium Besylate Injection During Opioid / Nitrous Oxide / Oxygen Anesthesia Time to Spontaneous Recovery Initial Dose of Cisatracurium ( mg / kg ) Time to 90 % Block ( min ) Time to Maximum Block ( min ) 5 % Recovery ( min ) 25 % Recovery † ( min ) 95 % Recovery ( min ) T4 : T1 Ratio ‡ ≥ 70 % ( min ) 25 % to 75 % Recovery Index ( min ) Adults 0 . 1 ( 2 x ED95 ) ( n § = 98 ) 3 . 3 ( 1 to 8 . 7 ) 5 ( 1 . 2 to 17 . 2 ) 33 ( 15 to 51 ) 42 ( 22 to 63 ) 64 ( 25 to 93 ) 64 ( 32 to 91 ) 13 ( 5 to 30 ) 0 . 15 | | ( 3 x ED95 ) ( n = 39 ) 2 . 6 ( 1 to 4 . 4 ) 3 . 5 ( 1 . 6 to 6 . 8 ) 46 ( 28 to 65 ) 55 ( 44 to 74 ) 76 ( 60 to 103 ) 75 ( 63 to 98 ) 13 ( 11 to 16 ) 0 . 2 ( 4 x ED95 ) ( n = 30 ) 2 . 4 ( 1 . 5 to 4 . 5 ) 2 . 9 ( 1 . 9 to 5 . 2 ) 59 ( 31 to 103 ) 65 ( 43 to 103 ) 81 ( 53 to 114 ) 85 ( 55 to 114 ) 12 ( 2 to 30 ) 0 . 25 ( 5 x ED95 ) ( n = 15 ) 1 . 6 ( 0 . 8 to 3 . 3 ) 2 ( 1 . 2 to 3 . 7 ) 70 ( 58 to 85 ) 78 ( 66 to 86 ) 91 ( 76 to 109 ) 97 ( 82 to 113 ) 8 ( 5 to 12 ) 0 . 4 ( 8 x ED95 ) ( n = 15 ) 1 . 5 ( 1 . 3 to 1 . 8 ) 1 . 9 ( 1 . 4 to 2 . 3 ) 83 ( 37 to 103 ) 91 ( 59 to 107 ) 121 ( 110 to 134 ) 126 ( 115 to 137 ) 14 ( 10 to 18 ) Infants ( 1 to 23 mos . )
+0 . 15 ** ( n = 18 to 26 ) 1 . 5 ( 0 . 7 to 3 . 2 ) 2 ( 1 . 3 to 4 . 3 ) 36 ( 28 to 50 ) 43 ( 34 to 58 ) 64 ( 54 to 84 ) 59 ( 49 to 76 ) 11 . 3 ( 7 . 3 to 18 . 3 ) Children ( 2 to12 years ) 0 . 08 ¶ ( 2 x ED95 ) ( n = 60 ) 2 . 2 ( 1 . 2 to 6 . 8 ) 3 . 3 ( 1 . 7 to 9 . 7 ) 22 ( 11 to 38 ) 29 ( 20 to 46 ) 52 ( 37 to 64 ) 50 ( 37 to 62 ) 11 ( 7 to 15 ) 0 . 1 ( n = 16 ) 1 . 7 ( 1 . 3 to 2 . 7 ) 2 . 8 ( 1 . 8 to 6 . 7 ) 21 ( 13 to 31 ) 28 ( 21 to 38 ) 46 ( 37 to 58 ) 44 ( 36 to 58 ) 10 ( 7 to 12 ) 0 . 15 ** ( n = 23 to 24 ) 2 . 1 ( 1 . 3 to 2 . 8 ) 3 ( 1 . 5 to 8 ) 29 ( 19 to 38 ) 36 ( 29 to 46 ) 55 ( 45 to 72 ) 54 ( 44 to 66 ) 10 . 6 ( 8 . 5 to 17 . 7 ) * Values shown are medians of means from individual studies .
+Values in parentheses are ranges of individual patient values .
+† Clinically effective duration of block .
+‡ Train - of - four ratio .
+§ n = the number of patients with Time to Maximum Block data .
+| | Propofol anesthesia .
+¶ Halothane anesthesia .
+** Thiopentone , alfentanil , N2O / O2 anesthesia .
+When administered during the induction of adequate anesthesia using propofol , nitrous oxide / oxygen , and co - induction agents ( e . g . , fentanyl and midazolam ) , GOOD or EXCELLENT conditions for tracheal intubation occurred in 96 / 102 ( 94 % ) patients in 1 . 5 to 2 minutes following 0 . 15 mg / kg cisatracurium and in 97 / 110 ( 88 % ) patients in 1 . 5 minutes following 0 . 2 mg / kg cisatracurium .
+In one intubation study during thiopental anesthesia in which fentanyl and midazolam were administered two minutes prior to induction , intubation conditions were assessed at 120 seconds .
+Table 2 displays these results in this study of 51 patients .
+Table 2 .
+Study of Tracheal Intubation Comparing Two Doses of Cisatracurium ( Thiopental Anesthesia ) Intubating Conditions at 120 seconds 3 x ED95 0 . 15 mg / kg n = 26 4 x ED95 0 . 2 mg / kg n = 25 Excellent and Good Proportion 23 / 26 24 / 25 Percent 88 % 96 % 95 % CI 76 , 100 88 , 100 Excellent Proportion 8 / 26 15 / 26 Percent 31 % 60 % Good Proportion 15 / 26 9 / 25 Percent 58 % 36 % While GOOD or EXCELLENT intubation conditions were achieved in the majority of patients in this setting , EXCELLENT intubation conditions were more frequently achieved with the 0 . 2 mg / kg dose ( 60 % ) than the 0 . 15 mg / kg dose ( 31 % ) when intubation was attempted 2 minutes following cisatracurium .
+A second study evaluated intubation conditions after 3 and 4 x ED95 ( 0 . 15 mg / kg and 0 . 2 mg / kg ) following induction with fentanyl and midazolam and either thiopental or propofol anesthesia .
+This study compared intubation conditions produced by these doses of cisatracurium after 1 . 5 minutes .
+Table 3 displays these results .
+Table 3 .
+Study of Tracheal Intubation Comparing Three Doses of Cisatracurium ( Thiopental or Propofol Anesthesia ) Intubating Conditions at 90 seconds 3 x ED95 0 . 15 mg / kg Propofol n = 31 3 x ED95 0 . 15 mg / kg Thiopental n = 31 4 x ED95 0 . 2 mg / kg Propofol n = 30 4 x ED95 0 . 2 mg / kg Thiopental n = 28 Excellent and Good Proportion 29 / 31 28 / 31 28 / 30 27 / 28 Percent 94 % 90 % 93 % 96 % 95 % CI 85 , 100 80 , 100 84 , 100 90 , 100 Excellent Proportion 18 / 31 17 / 31 22 / 30 16 / 28 Percent 58 % 55 % 70 % 57 % Good Proportion 11 / 31 11 / 31 6 / 30 11 / 28 Percent 35 % 35 % 20 % 39 % EXCELLENT intubation conditions were more frequently observed with the 0 . 2 mg / kg dose when intubation was attempted 1 . 5 minutes following cisatracurium .
+A third study in pediatric patients ( ages 1 month to 12 years ) evaluated intubation conditions at 120 seconds after 0 . 15 mg / kg cisatracurium following induction with either halothane ( with halothane / nitrous oxide / oxygen maintenance ) or thiopentone and fentanyl ( with thiopentone / fentanyl nitrous oxide / oxygen maintenance ) .
+The results are summarized in Table 4 .
+Table 4 .
+Study of Tracheal Intubation for Pediatrics Stratified by Age Group ( 0 . 15 mg / kg Cisatracurium with Halothane or Thiopentone / Fentanyl Anesthesia ) Cisatracurium 0 . 15 mg / kg 1 to 11 mo . n = 30 Cisatracurium 0 . 15 mg / kg 1 to 4 years n = 31 Cisatracurium 0 . 15 mg / kg 5 to 12 years n = 30 Intubating Conditions at 120 seconds ** Halothane Anesthesia Thiopentone / Fentanyl Anesthesia Halothane Anesthesia Thiopentone / Fentanyl Anesthesia Halothane Anesthesia Thiopentone / Fentanyl Anesthesia Excellent and Good Proportion 30 / 30 30 / 30 29 / 30 26 / 30 29 / 30 29 / 30 Percent 100 % 100 % 97 % 87 % 97 % 97 % Excellent Proportion 30 / 30 25 / 30 27 / 30 19 / 30 22 / 30 21 / 30 Percent 100 % 83 % 90 % 63 % 73 % 70 % Good Proportion 0 5 / 30 2 / 30 7 / 30 7 / 30 8 / 30 Percent 0 % 17 % 7 % 23 % 23 % 27 % Poor Proportion 0 / 30 0 / 30 1 / 30 4 / 30 1 / 30 1 / 30 Percent 0 % 0 % 3 % 13 % 3 % 3 % ** Excellent : Easy passage of the tube without coughing .
+Vocal cords relaxed and abducted .
+Good : Passage of tube with slight coughing and / or bucking .
+Vocal cords relaxed and abducted .
+Poor : Passage of tube with moderate coughing and / or bucking .
+Vocal cords moderately adducted .
+Response of patient requires adjustment of ventilation pressure and / or rate .
+EXCELLENT or GOOD intubating conditions were produced 120 seconds following 0 . 15 mg / kg cisatracurium in 88 / 90 ( 98 % ) of patients induced with halothane and in 85 / 90 ( 94 % ) of patients induced with thiopentone and fentanyl .
+There were no patients for whom intubation was not possible , but there were 7 / 120 patients ages 1 to 12 years for whom intubating conditions were described as poor .
+Repeated administration of maintenance doses or a continuous infusion of cisatracurium for up to 3 hours is not associated with development of tachyphylaxis or cumulative neuromuscular blocking effects .
+The time needed to recover from successive maintenance doses does not change with the number of doses administered as long as partial recovery is allowed to occur between doses .
+Maintenance doses can therefore be administered at relatively regular intervals with predictable results .
+The rate of spontaneous recovery of neuromuscular function after infusion is independent of the duration of infusion and comparable to the rate of recovery following initial doses ( Table 1 ) .
+Long - term infusion ( up to 6 days ) of cisatracurium during mechanical ventilation in the ICU has been evaluated in two studies .
+In a randomized , double - blind study using presence of a single twitch during train - of - four ( TOF ) monitoring to regulate dosage , patients treated with cisatracurium ( n = 19 ) recovered neuromuscular function ( T4 : T1 ratio ≥ 70 % ) following termination of infusion in approximately 55 minutes ( range : 20 to 270 ) whereas those treated with vecuronium ( n = 12 ) recovered in 178 minutes ( range : 40 minutes to 33 hours ) .
+In another study comparing cisatracurium and atracurium , patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium ( range : 20 to 175 ; n = 34 ) and atracurium ( range : 35 to 85 ; n = 15 ) .
+The neuromuscular block produced by cisatracurium is readily antagonized by anticholinesterase agents once recovery has started .
+As with other non - depolarizing neuromuscular blocking agents , the more profound the neuromuscular block at the time of reversal , the longer the time required for recovery of neuromuscular function .
+In children ( 2 to 12 years ) cisatracurium has a lower ED95 than in adults ( 0 . 04 mg / kg , halothane / nitrous oxide / oxygen anesthesia ) .
+At 0 . 1 mg / kg during opioid anesthesia , cisatracurium had a faster onset and shorter duration of action in children than in adults ( Table 1 ) .
+Recovery following reversal is faster in children than in adults .
+At 0 . 15 mg / kg during opioid anesthesia , cisatracurium had a faster onset and longer clinically effective duration of action in infants aged 1 to 23 months compared to children aged 2 to 12 years ( Table 1 ) .
+Studies were conducted during both opioid - based and halothane - based anesthesia in children aged 1 to 11 months , 1 to 4 years , and 5 to 12 years .
+Cisatracurium had a faster onset and longer duration of action in infants 1 to 11 months compared to children 1 to 4 years , who in turn have a faster onset and longer duration of action for cisatracurium compared to children 5 to 12 years .
+The mean time to onset of maximum T1 suppression was generally faster for pediatric patients induced with halothane compared to thiopentone / fentanyl and the clinically effective duration ( time to 25 % recovery ) was longer ( by up to 15 % ) for pediatric patients under halothane anesthesia .
+Hemodynamics Profile The cardiovascular profile of cisatracurium allows it to be administered by rapid bolus at higher multiples of the ED95 than atracurium .
+Cisatracurium has no dose - related effects on mean arterial blood pressure ( MAP ) or heart rate ( HR ) following doses ranging from 2 to 8 x ED95 ( > 0 . 1 to > 0 . 4 mg / kg ) , administered over 5 to 10 seconds , in healthy adult patients ( Figure 1 ) or in patients with serious cardiovascular disease ( Figure 2 ) .
+A total of 141 patients undergoing coronary artery bypass grafting ( CABG ) have been administered cisatracurium in three active controlled clinical trials and have received doses ranging from 2 to 8 x ED95 .
+While the hemodynamic profile was comparable in both the cisatracurium and active control groups , data for doses above 0 . 3 mg / kg in this population are limited .
+Unlike atracurium , cisatracurium , at therapeutic doses of 2 x ED95 to 8 x ED95 ( 0 . 1 to 0 . 4 mg / kg ) , administered over 5 to 10 seconds , does not cause dose - related elevations in mean plasma histamine concentration .
+Figure 1 .
+Maximum Percent Change from Preinjection in Heart Rate ( HR ) and Mean Arterial Pressure ( MAP ) During First 5 Minutes after Initial 4 x ED95 to 8 x ED95 Doses of Cisatracurium in Healthy Adult Patients Receiving Opioid / Nitrous Oxide / Oxygen Anesthesia ( n = 44 ) [ MULTIMEDIA ] Figure 2 .
+Percent Change from Preinjection in Heart Rate ( HR ) and Mean Arterial Pressure ( MAP ) 10 Minutes After an Initial 4 x ED95 to 8 x ED95 Dose of Cisatracurium in Patients Undergoing CABG Surgery Receiving Oxygen / Fentanyl / Midazolam / Anesthesia ( n = 54 ) [ MULTIMEDIA ] No clinically significant changes in MAP or HR were observed following administration of doses up to 0 . 1 mg / kg cisatracurium over 5 to 10 seconds in 2 - to 12 - year - old children receiving either halothane / nitrous oxide / oxygen or opioid / nitrous oxide / oxygen anesthesia .
+Doses of 0 . 15 mg / kg cisatracurium administered over 5 seconds were not consistently associated with changes in HR and MAP in pediatric patients aged 1 month to 12 years receiving opioid / nitrous oxide / oxygen or halothane / nitrous oxide / oxygen anesthesia .
+Figure 3 .
+Heart Rate and MAP Change at 1 Minute After the Initial Dose , By Age Group Treatment Group : Cisatracurium 0 : 3 x ED95 Opioid Intubation at 120 Sec .
+1 to 11 Months [ MULTIMEDIA ] 1 to 5 Years [ MULTIMEDIA ] 5 to 13 Years [ MULTIMEDIA ] Figure 4 .
+Heart Rate and MAP Change at 1 Minute After the Initial Dose , By Age Group Treatment Group : Cisatracurium H : 3 x ED95 Halothane Intubation at 120 Sec .
+1 to 11 Months [ MULTIMEDIA ] 1 to 5 Years [ MULTIMEDIA ] 5 to 13 Years [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] Pharmacokinetics General The neuromuscular blocking activity of cisatracurium is due to parent drug .
+Cisatracurium plasma concentration - time data following intravenous bolus administration are best described by a two - compartment open model ( with elimination from both compartments ) with an elimination half - life ( t1 / 2β ) of 22 minutes , a plasma clearance ( CL ) of 4 . 57 mL / min / kg , and a volume of distribution at steady state ( Vss ) of 145 mL / kg .
+Cisatracurium undergoes organ - independent Hofmann elimination ( a chemical process dependent on pH and temperature ) to form the monoquaternary acrylate metabolite and laudanosine , neither of which has any neuromuscular blocking activity ( see Pharmacokinetics , Metabolism ) .
+Following administration of radiolabeled cisatracurium , 95 % of the dose was recovered in the urine ; less than 10 % of the dose was excreted as unchanged parent drug .
+Laudanosine , a metabolite of cisatracurium ( and atracurium ) has been noted to cause transient hypotension and , in higher doses , cerebral excitatory effects when administered to several animal species .
+The relationship between CNS excitation and laudanosine concentrations in humans has not been established ( seePRECAUTIONS , Long - Term Use in the Intensive Care Unit [ ICU ] ) .
+Because cisatracurium is three times more potent than atracurium and lower doses are required , the corresponding laudanosine concentrations following cisatracurium are one third of those that would be expected following an equipotent dose of atracurium ( see Pharmacokinetics , Special Populations , Intensive Care Unit Patients ) .
+Results from population pharmacokinetic / pharmacodynamic ( PK / PD ) analyses from 241 healthy surgical patients are summarized in Table 5 .
+Table 5 .
+Key Population PK / PD Parameter Estimates for Cisatracurium in Healthy Surgical Patients * Following 0 . 1 ( 2 x ED95 ) to 0 . 4 mg / kg ( 8 x ED95 ) Cisatracurium Parameter Estimate † Magnitude of Interpatient Variability ( CV ) ‡ CL ( mL / min / kg ) 4 . 57 16 % Vss ( mL / kg ) § 145 27 % keo ( min - 1 ) ll 0 . 0575 61 % EC50 ( ng / mL ) ¶ 141 52 % * Healthy male non - obese patients 19 to 64 years of age with creatinine clearance values greater than 70 mL / min who received cisatracurium during opioid anesthesia and had venous samples collected .
+† The percent standard error of the mean ( % SEM ) ranged from 3 % to 12 % indicating good precision for the PK / PD estimates .
+‡ Expressed as a coefficient of variation ; the % SEM ranged from 20 % to 35 % indicating adequate precision for the estimates of interpatient variability .
+§ Vss is the volume of distribution at steady state estimated using a two - compartment model with elimination from both compartments .
+Vss is equal to the sum of the volume in the central compartment ( Vc ) and the volume in the peripheral compartment ( Vp ) ; interpatient variability could only be estimated for Vc .
+ll Rate constant describing the equilibration between plasma concentrations and neuromuscular block .
+¶ Concentration required to produce 50 % T1 suppression ; an index of patient sensitivity .
+The magnitude of interpatient variability in CL was low ( 16 % ) , as expected based on the importance of Hofmann elimination ( see Pharmacokinetics , Elimination ) .
+The magnitudes of interpatient variability in CL and volume of distribution were low in comparison to those for keo and EC50 .
+This suggests that any alterations in the time course of cisatracurium - induced block are more likely to be due to variability in the pharmacodynamic parameters than in the pharmacokinetic parameters .
+Parameter estimates from the population pharmacokinetic analyses were supported by noncompartmental pharmacokinetic analyses on data from healthy patients and from special patient populations .
+Conventional pharmacokinetic analyses have shown that the pharmacokinetics of cisatracurium are proportional to dose between 0 . 1 ( 2 x ED95 ) and 0 . 2 ( 4 x ED95 ) mg / kg cisatracurium .
+In addition , population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0 . 1 ( 2 x ED95 ) and 0 . 4 ( 8 x ED95 ) mg / kg cisatracurium .
+Distribution The volume of distribution of cisatracurium is limited by its large molecular weight and high polarity .
+The Vss was equal to 145 mL / kg ( Table 4 ) in healthy 19 - to 64 - year - old surgical patients receiving opioid anesthesia .
+The Vss was 21 % larger in similar patients receiving inhalation anesthesia ( see Pharmacokinetics , Special Populations , Other Patient Factors ) .
+Protein Binding The binding of cisatracurium to plasma proteins has not been successfully studied due to its rapid degradation at physiologic pH . Inhibition of degradation requires nonphysiological conditions of temperature and pH which are associated with changes in protein binding .
+Metabolism The degradation of cisatracurium is largely independent of liver metabolism .
+Results from in vitro experiments suggest that cisatracurium undergoes Hofmann elimination ( a pH and temperature - dependent chemical process ) to form laudanosine ( see PRECAUTIONS , Long - Term Use in the Intensive Care Unit [ ICU ] ) and the monoquaternary acrylate metabolite .
+The monoquaternary acrylate undergoes hydrolysis by non - specific plasma esterases to form the monoquaternary alcohol ( MQA ) metabolite .
+The MQA metabolite can also undergo Hofmann elimination but at a much slower rate than cisatracurium .
+Laudanosine is further metabolized to desmethyl metabolites which are conjugated with glucuronic acid and excreted in the urine .
+Organ - independent Hofmann elimination is the predominant pathway for the elimination of cisatracurium .
+The liver and kidney play a minor role in the elimination of cisatracurium but are primary pathways for the elimination of metabolites .
+Therefore , the t1 / 2ß values of metabolites ( including laudanosine ) are longer in patients with kidney or liver dysfunction and metabolite concentrations may be higher after long - term administration ( see PRECAUTIONS , Long - Term Use in the Intensive Care Unit [ ICU ] ) .
+Most importantly , Cmax values of laudanosine are significantly lower in healthy surgical patients receiving infusions of cisatracurium than in patients receiving infusions of atracurium ( mean ± SD Cmax : 60 ± 52 and 342 ± 93 ng / mL , respectively ) .
+Elimination Clearance and Half - life Mean CL values for cisatracurium ranged from 4 . 5 to 5 . 7 mL / min / kg in studies of healthy surgical patients .
+Compartmental pharmacokinetic modeling suggests that approximately 80 % of the CL is accounted for by Hofmann elimination and the remaining 20 % by renal and hepatic elimination .
+These findings are consistent with the low magnitude of interpatient variability in CL ( 16 % ) estimated as part of the population PK / PD analyses and with the recovery of parent and metabolites in urine .
+Following 14 C - cisatracurium administration to 6 healthy male patients , 95 % of the dose was recovered in the urine ( mostly as conjugated metabolites ) and 4 % in the feces ; less than 10 % of the dose was excreted as unchanged parent drug in the urine .
+In 12 healthy surgical patients receiving non - radiolabeled cisatracurium who had Foley catheters placed for surgical management , approximately 15 % of the dose was excreted unchanged in the urine .
+In studies of healthy surgical patients , mean t1 / 2β values of cisatracurium ranged from 22 to 29 minutes and were consistent with the t1 / 2β of cisatracurium in vitro ( 29 minutes ) .
+The mean ± SD t1 / 2β values of laudanosine were 3 . 1 ± 0 . 4 and 3 . 3 ± 2 . 1 hours in healthy surgical patients receiving cisatracurium ( n = 10 ) or atracurium ( n = 10 ) , respectively .
+During IV infusions of cisatracurium , peak plasma concentrations ( Cmax ) of laudanosine and the MQA metabolite are approximately 6 % and 11 % of the parent compound , respectively .
+Special Populations Geriatric Patients ( ≥ 65 years ) The results of conventional pharmacokinetic analysis from a study of 12 healthy elderly patients and 12 healthy young adult patients receiving a single intravenous dose of 0 . 1 mg / kg cisatracurium are summarized in Table 6 .
+Plasma clearances of cisatracurium were not affected by age ; however , the volumes of distribution were slightly larger in elderly patients than in young patients resulting in slightly longer t1 / 2β values for cisatracurium .
+The rate of equilibration between plasma cisatracurium concentrations and neuromuscular block was slower in elderly patients than in young patients ( mean ± SD keo : 0 . 071 ± 0 . 036 and 0 . 105 ± 0 . 021 minutes - 1 , respectively ) ; there was no difference in the patient sensitivity to cisatracurium - induced block , as indicated by EC50 values ( mean ± SD EC50 : 91 ± 22 and 89 ± 23 ng / mL , respectively ) .
+These changes were consistent with the 1 - minute slower times to maximum block in elderly patients receiving 0 . 1 mg / kg cisatracurium , when compared to young patients receiving the same dose .
+The minor differences in PK / PD parameters of cisatracurium between elderly patients and young patients were not associated with clinically significant differences in the recovery profile of cisatracurium .
+Table 6 .
+Pharmacokinetic Parameters * of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0 . 1 mg / kg ( 2 x ED95 ) Cisatracurium ( Isoflurane / Nitrous Oxide / Oxygen Anesthesia ) Parameter Healthy Elderly Patients Healthy Young Adult Patients Elimination Half - Life ( t ½ β , min ) 25 . 8 ± 3 . 6 † 22 . 1 ± 2 . 5 Volume of Distribution at Steady State ‡ ( mL / kg ) 156 ± 17 † 133 ± 15 Plasma Clearance ( mL / min / kg ) 5 . 7 ± 1 5 . 3 ± 0 . 9 * Values presented are mean ± SD .
+† P < 0 . 05 for comparisons between healthy elderly and healthy young adult patients .
+‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored .
+Patients with Hepatic Disease Table 7 summarizes the conventional pharmacokinetic analysis from a study of cisatracurium in 13 patients with end - stage liver disease undergoing liver transplantation and 11 healthy adult patients undergoing elective surgery .
+The slightly larger volumes of distribution in liver transplant patients were associated with slightly higher plasma clearances of cisatracurium .
+The parallel changes in these parameters resulted in no difference in t ½ β values .
+There were no differences in keo or EC50 between patient groups .
+The times to maximum block were approximately one minute faster in liver transplant patients than in healthy adult patients receiving 0 . 1 mg / kg cisatracurium .
+These minor differences in pharmacokinetics were not associated with clinically significant differences in the recovery profile of cisatracurium .
+The t ½ β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long - term administration ( see Pharmacokinetics , Special Populations , Intensive Care Unit Patients ) .
+Table 7 .
+Pharmacokinetic Parameters * of Cisatracurium in Healthy Adult Patients and in Patients Undergoing Liver Transplantation Following 0 . 1 mg / kg ( 2 x ED95 ) Cisatracurium ( Isoflurane / Nitrous Oxide / Oxygen Anesthesia ) Parameter Liver Transplant Patients Healthy Adult Patients Elimination Half - Life ( t ½ β , min ) 24 . 4 ± 2 . 9 23 . 5 ± 3 . 5 Volume of Distribution at Steady State ‡ ( mL / kg ) 195 ± 38 † 161 ± 23 Plasma Clearance ( mL / min / kg ) 6 . 6 ± 1 . 1 † 5 . 7 ± 0 . 8 * Values presented are mean ± SD .
+† P < 0 . 05 for comparisons between liver transplant patients and healthy adult patients .
+‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored .
+Patients with Renal Dysfunction Results from a conventional pharmacokinetic study of cisatracurium in 13 healthy adult patients and 15 patients with end - stage renal disease ( ESRD ) undergoing elective surgery are summarized in Table 8 .
+The PK / PD parameters of cisatracurium were similar in healthy adult patients and ESRD patients .
+The times to 90 % block were approximately one minute slower in ESRD patients following 0 . 1 mg / kg cisatracurium .
+There were no differences in the durations or rates of recovery of cisatracurium between ESRD and healthy adult patients .
+The t ½ β values of metabolites are longer in patients with renal failure and concentrations may be higher after long - term administration ( see Pharmacokinetics , Special Populations , Intensive Care Unit Patients ) .
+Table 8 .
+Pharmacokinetic Parameters * for Cisatracurium in Healthy Adult Patients and in Patients With End - Stage Renal Disease ( ESRD ) Receiving 0 . 1 mg / kg ( 2 x ED95 ) Cisatracurium ( Opioid / Nitrous Oxide / Oxygen Anesthesia ) Parameter Healthy Adult Patients ESRD Patients Elimination Half - Life ( t ½ β , min ) 29 . 4 ± 4 . 1 32 . 3 ± 6 . 3 Volume of Distribution at Steady State † ( mL / kg ) 149 ± 35 160 ± 32 Plasma Clearance ( mL / min / kg ) 4 . 66 ± 0 . 86 4 . 26 ± 0 . 62 * Values presented are mean ± SD .
+† Volume of distribution is underestimated because elimination from the peripheral compartment is ignored .
+Population pharmacokinetic analyses revealed that patients with creatinine clearances ≤ 70 mL / min had a slower rate of equilibration between plasma concentrations and neuromuscular block than patients with normal renal function ; this change was associated with a slightly slower ( ~ 40 seconds ) predicted time to 90 % T1 suppression in patients with renal dysfunction following 0 . 1 mg / kg cisatracurium .
+There was no clinically significant alteration in the recovery profile of cisatracurium in patients with renal dysfunction .
+The recovery profile of cisatracurium is unchanged in the presence of renal or hepatic failure , which is consistent with predominantly organ - independent elimination .
+Intensive Care Unit ( ICU ) Patients The pharmacokinetics of cisatracurium , atracurium , and their metabolites were determined in six ICU patients receiving cisatracurium and in six ICU patients receiving atracurium and are presented in Table 9 .
+The plasma clearances of cisatracurium and atracurium are similar .
+The volume of distribution was larger and the t1 / 2β was longer for cisatracurium than for atracurium .
+The relationships between plasma cisatracurium or atracurium concentrations and neuromuscular block have not been evaluated in ICU patients .
+The minor differences in pharmacokinetics were not associated with any differences in the recovery profiles of cisatracurium and atracurium in ICU patients .
+Table 9 .
+Parameter Estimates * for Cisatracurium , Atracurium , and Metabolites in ICU Patients After Long - Term ( 24 to 48 Hour ) Administration of Cisatracurium or Atracurium Besylate Parameter Cisatracurium ( n = 6 ) Atracurium ( n = 6 ) Parent Compound CL ( mL / min / kg ) t ½ β ( min ) Vβ ( mL / kg ) ‡ 7 . 45 ± 1 . 02 26 . 8 ± 11 . 1 280 ± 103 7 . 49 ± 0 . 66 † 16 . 5 ± 6 † 178 ± 71 † Laudanosine Cmax ( ng / mL ) t ½ β ( hrs ) 707 ± 360 6 . 6 ± 4 . 1 2318 ± 1498 8 . 4 ± 7 . 3 MQA metabolite Cmax ( ng / mL ) t ½ β ( min ) 152 to 181 § 26 to 31 § 943 ± 333 ll 21 to 58 § * Presented as mean ± standard deviation .
+† n = 5 .
+‡ Volume of distribution during the terminal elimination phase , an underestimate because elimination from the peripheral compartment is ignored .
+§ n = 2 , range presented .
+ll n = 3 .
+Plasma metabolite pharmacokinetics are listed in Table 9 .
+Limited pharmacokinetic data are available for patients with liver / kidney dysfunction receiving cisatracurium .
+Data from studies of atracurium demonstrate that renal / hepatic failure in ICU patients produces little to no effect on its pharmacokinetics , but decreases the biotransformation and elimination of the metabolites .
+Following atracurium , t1 / 2β values for laudanosine were longer in ICU patients with renal failure than in ICU patients with normal renal function ( 15 and 6 hours , respectively ) .
+The t1 / 2β values of laudanosine were 39 ± 14 hours in ICU patients with liver failure receiving atracurium after an unsuccessful liver transplantation and 5 ± 2 hours in similar ICU patients after successful liver transplantation .
+Therefore , relative to ICU patients with normal renal and hepatic function receiving cisatracurium , metabolite concentrations ( plasma and tissues ) may be higher in ICU patients with renal or hepatic failure ( seePRECAUTIONS , Long - Term Use in the Intensive Care Unit [ ICU ] ) .
+Consistent with the decreased infusion rate requirements for cisatracurium , metabolite concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium besylate .
+Pediatric Patients The population PK / PD of cisatracurium were described in 20 healthy pediatric patients during halothane anesthesia , using the same model developed for healthy adult patients .
+The CL was higher in healthy pediatric patients ( 5 . 89 mL / min / kg ) than in healthy adult patients ( 4 . 57 mL / min / kg ) during opioid anesthesia .
+The rate of equilibration between plasma concentrations and neuromuscular block , as indicated by keo , was faster in healthy pediatric patients receiving halothane anesthesia ( 0 . 133 minutes - 1 ) than in healthy adult patients receiving opioid anesthesia ( 0 . 0575 minutes - 1 ) .
+The EC50 in healthy pediatric patients ( 125 ng / mL ) was similar to the value in healthy adult patients ( 141 ng / mL ) during opioid anesthesia .
+The minor differences in the PK / PD parameters of cisatracurium were associated with a faster time to onset and a shorter duration of cisatracurium - induced neuromuscular block in pediatric patients .
+Other Patient Factors Population PK / PD analyses revealed that gender and obesity were associated with statistically significant effects on the pharmacokinetics and / or pharmacodynamics of cisatracurium ; these factors were not associated with clinically significant alterations in the predicted onset or recovery profile of cisatracurium .
+The use of inhalation agents was associated with a 21 % larger Vss , a 78 % larger keo , and a 15 % lower EC50 for cisatracurium .
+These changes resulted in a slightly faster ( ~ 45 seconds ) predicted time to 90 % T1 suppression in patients receiving 0 . 1 mg / kg cisatracurium during inhalation anesthesia than in patients receiving the same dose of cisatracurium during opioid anesthesia ; however , there were no clinically significant differences in the predicted recovery profile of cisatracurium between patient groups .
+Individualization of Dosages DOSES OF CISATRACURIUM SHOULD BE INDIVIDUALIZED AND A PERIPHERAL NERVE STIMULATOR SHOULD BE USED TO MEASURE NEUROMUSCULAR FUNCTION DURING ADMINISTRATION OF CISATRACURIUM IN ORDER TO MONITOR DRUG EFFECT , TO DETERMINE THE NEED FOR ADDITIONAL DOSES , AND TO CONFIRM RECOVERY FROM NEUROMUSCULAR BLOCK .
+Based on the known action of cisatracurium and other neuromuscular blocking agents , the following factors should be considered when administering cisatracurium .
+Renal and Hepatic Disease SeePRECAUTIONS .
+Long - Term Use in the Intensive Care Unit ( ICU ) The long - term infusion ( up to 6 days ) of cisatracurium during mechanical ventilation in the ICU has been evaluated in two studies .
+Average infusion rates of approximately 3 mcg / kg / min ( range : 0 . 5 to 10 . 2 ) were required to achieve adequate neuromuscular block .
+As with other neuromuscular blocking agents , these data indicate the presence of wide interpatient variability in dosage requirements .
+In addition , dosage requirements may increase or decrease with time ( see PRECAUTIONS ) .
+Use of cisatracurium in the ICU for longer than 6 days has not been studied .
+Drugs or Conditions Causing Potentiation of or Resistance to Neuromuscular Block Persons with certain pre - existing conditions or receiving certain drugs may require individualization of dosing ( see PRECAUTIONS ) .
+Burns Patients with burns have been shown to develop resistance to non - depolarizing neuromuscular blocking agents , and may require individualization of dosing ( see PRECAUTIONS ) .
+INDICATIONS AND USAGE : Cisatracurium Besylate Injection is an intermediate - onset / intermediate - duration neuromuscular blocking agent indicated for inpatients and outpatients as an adjunct to general anesthesia , to facilitate tracheal intubation , and to provide skeletal muscle relaxation during surgery or mechanical ventilation in the ICU .
+CONTRAINDICATIONS : Cisatracurium is contraindicated in patients with known hypersensitivity to the product and its components .
+The 10 mL multiple dose vials of cisatracurium is contraindicated for use in premature infants because the formulation contains benzyl alcohol ( see WARNINGS andPRECAUTIONS , Pediatric Use ) .
+WARNINGS : Anaphylaxis Severe anaphylactic reactions to neuromuscular blocking agents , including cisatracurium , have been reported .
+These reactions have in some cases been life - threatening and fatal .
+Due to the potential severity of these reactions , the necessary precautions , such as the immediate availability of appropriate emergency treatment , should be taken .
+Precautions should also be taken in those individuals who have had previous anaphylactic reactions to other neuromuscular blocking agents since cross - reactivity between neuromuscular blocking agents , both depolarizing and non - depolarizing , has been reported in this class of drugs .
+Administration CISATRACURIUM SHOULD BE ADMINISTERED IN CAREFULLY ADJUSTED DOSAGE BY OR UNDER THE SUPERVISION OF EXPERIENCED CLINICIANS WHO ARE FAMILIAR WITH THE DRUG ' S ACTIONS AND THE POSSIBLE COMPLICATIONS OF ITS USE .
+THE DRUG SHOULD NOT BE ADMINISTERED UNLESS PERSONNEL AND FACILITIES FOR RESUSCITATION AND LIFE SUPPORT ( TRACHEAL INTUBATION , ARTIFICIAL VENTILATION , OXYGEN THERAPY ) , AND AN ANTAGONIST OF CISATRACURIUM ARE IMMEDIATELY AVAILABLE .
+IT IS RECOMMENDED THAT A PERIPHERAL NERVE STIMULATOR BE USED TO MEASURE NEUROMUSCULAR FUNCTION DURING THE ADMINISTRATION OF CISATRACURIUM IN ORDER TO MONITOR DRUG EFFECT , DETERMINE THE NEED FOR ADDITIONAL DOSES , AND CONFIRM RECOVERY FROM NEUROMUSCULAR BLOCK .
+CISATRACURIUM HAS NO KNOWN EFFECT ON CONSCIOUSNESS , PAIN THRESHOLD , OR CEREBRATION .
+TO AVOID DISTRESS TO THE PATIENT , NEUROMUSCULAR BLOCK SHOULD NOT BE INDUCED BEFORE UNCONSCIOUSNESS .
+Cisatracurium Besylate Injection is acidic ( pH 3 . 25 to 3 . 65 ) and may not be compatible with alkaline solutions having a pH greater than 8 . 5 ( e . g . , barbiturate solutions ) .
+The 10 mL multiple dose vials of cisatracurium contain benzyl alcohol , which is potentially toxic when administered locally to neural tissue .
+Exposure to excessive amounts of benzyl alcohol has been associated with toxicity ( hypotension , metabolic acidosis ) , particularly in neonates , and an increased incidence of kernicterus , particularly in small preterm infants .
+There have been rare reports of deaths , primarily in preterm infants , associated with exposure to excessive amounts of benzyl alcohol .
+The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol .
+Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered .
+The amount of benzyl alcohol at which toxicity may occur is not known .
+If the patient requires more than the recommended dosages or other medications containing this preservative , the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources .
+Single dose vials ( 5 mL and 20 mL ) of cisatracurium do not contain benzyl alcohol ( see WARNINGS and PRECAUTIONS , Pediatric Use ) .
+PRECAUTIONS : Because of its intermediate onset of action , cisatracurium is not recommended for rapid sequence endotracheal intubation .
+Recommended doses of cisatracurium have no clinically significant effects on heart rate ; therefore , cisatracurium will not counteract the bradycardia produced by many anesthetic agents or by vagal stimulation .
+Neuromuscular blocking agents may have a profound effect in patients with neuromuscular diseases ( e . g . , myasthenia gravis and the myasthenic syndrome ) .
+In these and other conditions in which prolonged neuromuscular block is a possibility ( e . g . , carcinomatosis ) , the use of a peripheral nerve stimulator and a dose of not more than 0 . 02 mg / kg cisatracurium is recommended to assess the level of neuromuscular block and to monitor dosage requirements .
+Patients with burns have been shown to develop resistance to non - depolarizing neuromuscular blocking agents , including atracurium .
+The extent of altered response depends upon the size of the burn and the time elapsed since the burn injury .
+Cisatracurium has not been studied in patients with burns ; however , based on its structural similarity to atracurium , the possibility of increased dosing requirements and shortened duration of action must be considered if cisatracurium is administered to burn patients .
+Patients with hemiparesis or paraparesis also may demonstrate resistance to non - depolarizing muscle relaxants in the affected limbs .
+To avoid inaccurate dosing , neuromuscular monitoring should be performed on a non - paretic limb .
+Acid - base and / or serum electrolyte abnormalities may potentiate or antagonize the action of neuromuscular blocking agents .
+No data are available to support the use of cisatracurium by intramuscular injection .
+Allergic Reactions Since allergic cross - reactivity has been reported in this class , request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents .
+In addition , inform your patients that severe anaphylactic reactions to neuromuscular blocking agents , including cisatracurium have been reported ( see CONTRAINDICATIONS ) .
+Renal and Hepatic Disease No clinically significant alterations in the recovery profile were observed in patients with renal dysfunction or in patients with end - stage liver disease following a 0 . 1 mg / kg dose of cisatracurium .
+The onset time was approximately 1 minute faster in patients with end - stage liver disease and approximately 1 minute slower in patients with renal dysfunction than in healthy adult control patients .
+Malignant Hyperthermia ( MH ) In a study of MH - susceptible pigs , cisatracurium besylate ( highest dose 2000 mcg / kg equivalent to 3 x ED95 in pigs and 40 x ED95 in humans ) did not trigger MH .
+Cisatracurium besylate has not been studied in MH - susceptible patients .
+Because MH can develop in the absence of established triggering agents , the clinician should be prepared to recognize and treat MH in any patient undergoing general anesthesia .
+Long - Term Use in the Intensive Care Unit ( ICU ) Long - term infusion ( up to 6 days ) of cisatracurium during mechanical ventilation in the ICU has been safely used in two studies .
+Dosage requirements may increase or decrease with time ( see CLINICAL PHARMACOLOGY , Individualization of Dosages ) .
+Little information is available on the plasma levels and clinical consequences of cisatracurium metabolites that may accumulate during days to weeks of cisatracurium administration in ICU patients .
+Laudanosine , a major , biologically active metabolite of atracurium and cisatracurium without neuromuscular blocking activity , produces transient hypotension and , in higher doses , cerebral excitatory effects ( generalized muscle twitching and seizures ) when administered to several species of animals .
+There have been rare spontaneous reports of seizures in ICU patients who have received atracurium or other agents .
+These patients usually had predisposing causes ( such as cranial trauma , cerebral edema , hypoxic encephalopathy , viral encephalitis , uremia ) .
+There are insufficient data to determine whether or not laudanosine contributes to seizures in ICU patients .
+Consistent with the decreased infusion rate requirements for cisatracurium , laudanosine concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium for up to 48 hours ( see Pharmacokinetics , Special Populations , Intensive Care Unit Patients ) .
+In a randomized , double - blind study using train - of - four nerve stimulator monitoring to maintain at least one visible twitch , evaluable patients treated with cisatracurium ( n = 19 ) recovered neuromuscular function ( T4 : T1 ratio ≥ 70 % ) following termination of infusion in approximately 55 minutes ( range : 20 to 270 ) whereas evaluable vecuronium - treated patients ( n = 12 ) recovered in 178 minutes ( range : 40 minutes to 33 hours ) .
+In another study comparing cisatracurium and atracurium , patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium ( range : 20 to 175 ; n = 34 ) and atracurium ( range : 35 to 85 ; n = 15 ) .
+WHENEVER THE USE OF CISATRACURIUM OR ANY OTHER NEUROMUSCULAR BLOCKING AGENT IN THE ICU IS CONTEMPLATED , IT IS RECOMMENDED THAT NEUROMUSCULAR FUNCTION BE MONITORED DURING ADMINISTRATION WITH A NERVE STIMULATOR .
+ADDITIONAL DOSES OF CISATRACURIUM OR ANY OTHER NEUROMUSCULAR BLOCKING AGENT SHOULD NOT BE GIVEN BEFORE THERE IS A DEFINITE RESPONSE TO NERVE STIMULATION .
+IF NO RESPONSE IS ELICITED , INFUSION ADMINISTRATION SHOULD BE DISCONTINUED UNTIL A RESPONSE RETURNS .
+The effects of hemofiltration , hemodialysis , and hemoperfusion on plasma levels of cisatracurium and its metabolites are unknown .
+Drug Interactions Cisatracurium has been used safely following varying degrees of recovery from succinylcholine - induced neuromuscular block .
+Administration of 0 . 1 mg / kg ( 2 x ED95 ) cisatracurium at 10 % or 95 % recovery following an intubating dose of succinylcholine ( 1 mg / kg ) produced ≥ 95 % neuromuscular block .
+The time to onset of maximum block following cisatracurium is approximately 2 minutes faster with prior administration of succinylcholine .
+Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of cisatracurium .
+Infusion requirements of cisatracurium in patients administered succinylcholine prior to infusions of cisatracurium were comparable to or slightly greater than when succinylcholine was not administered .
+The use of cisatracurium before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied .
+Although not studied systematically in clinical trials , no drug interactions were observed when vecuronium , pancuronium , or atracurium were administered following varying degrees of recovery from single doses or infusions of cisatracurium .
+Isoflurane or enflurane administered with nitrous oxide / oxygen to achieve 1 . 25 MAC [ Minimum Alveolar Concentration ] may prolong the clinically effective duration of action of initial and maintenance doses of cisatracurium and decrease the required infusion rate of cisatracurium .
+The magnitude of these effects may depend on the duration of administration of the volatile agents .
+Fifteen to 30 minutes of exposure to 1 . 25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of cisatracurium and therefore , no adjustment to the initial dose should be necessary when cisatracurium is administered shortly after initiation of volatile agents .
+In long surgical procedures during enflurane or isoflurane anesthesia , less frequent maintenance dosing , lower maintenance doses , or reduced infusion rates of cisatracurium may be necessary .
+The average infusion rate requirement may be decreased by as much as 30 % to 40 % .
+In clinical studies propofol had no effect on the duration of action or dosing requirements for cisatracurium .
+Other drugs which may enhance the neuromuscular blocking action of non - depolarizing agents such as cisatracurium include certain antibiotics ( e . g . , aminoglycosides , tetracyclines , bacitracin , polymyxins , lincomycin , clindamycin , colistin , and sodium colistimethate ) , magnesium salts , lithium , local anesthetics , procainamide , and quinidine .
+Resistance to the neuromuscular blocking action of non - depolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine .
+While the effects of chronic phenytoin or carbamazepine therapy on the action of cisatracurium are unknown , slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher .
+Drug / Laboratory Test Interactions None known .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis and fertility studies have not been performed .
+Cisatracurium besylate was evaluated in a battery of four short - term mutagenicity tests .
+It was non - mutagenic in the Ames Salmonella assay , a rat bone marrow cytogenetic assay , and an in vitro human lymphocyte cytogenetics assay .
+As was the case with atracurium , the mouse lymphoma assay was positive both in the presence and absence of exogenous metabolic activation ( rat liver S - 9 ) .
+In the absence of S - 9 , cisatracurium besylate was positive at in vitro cisatracurium concentrations of 40 mcg / mL and higher .
+The highest non - mutagenic concentration ( 30 mcg / mL ) and incubation time ( 4 hours ) resulted in an AUC approximately 120 times that noted in clinical studies and approximately 8 . 5 times the mean peak clinical concentration noted .
+In the presence of S - 9 , cisatracurium besylate was positive at a cisatracurium concentration of 300 mcg / mL but not at lower or higher concentrations .
+Pregnancy Teratogenic Effects Pregnancy Category B Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses ( 4 mg / kg daily ; equivalent to 8 x the human ED95 following a bolus dose of 0 . 2 mg / kg intravenous ) and in ventilated rats treated intravenously with paralyzing doses of cisatracurium at 0 . 5 and 1 mg / kg ; equivalent to 10 x and 20 x the human ED95 dose , respectively , revealed no maternal or fetal toxicity or teratogenic effects .
+There are no adequate and well - controlled studies of cisatracurium in pregnant women .
+Because animal studies are not always predictive of human response , cisatracurium should be used during pregnancy only if clearly needed .
+Labor and Delivery The use of cisatracurium during labor , vaginal delivery , or cesarean section has not been studied in humans and it is not known whether cisatracurium administered to the mother has effects on the fetus .
+Doses of 0 . 2 or 0 . 4 mg / kg cisatracurium given to female beagles undergoing cesarean section resulted in negligible levels of cisatracurium in umbilical vessel blood of neonates and no deleterious effects on the puppies .
+The action of neuromuscular blocking agents may be enhanced by magnesium salts administered for the management of toxemia of pregnancy .
+Nursing Mothers It is not known whether cisatracurium besylate is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised following administration of cisatracurium to a nursing woman .
+Pediatric Use Cisatracurium has not been studied in pediatric patients below the age of 1 month ( see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATIONfor clinical experience and recommendations for use in children 1 month to 12 years of age ) .
+Intubation of the trachea in patients 1 to 4 years old was facilitated more reliably when cisatracurium was used in combination with halothane than when opioids and nitrous oxide were used for induction of anesthesia .
+The 10 mL multiple dose vials of cisatracurium contain benzyl alcohol as a preservative .
+Benzyl alcohol , a component of this product , has been associated with serious adverse events and death , particularly in pediatric patients .
+The “ gasping syndrome ” , ( characterized by central nervous system depression , metabolic acidosis , gasping respirations , and high levels of benzyl alcohol and its metabolites found in the blood and urine ) has been associated with benzyl alcohol dosages > 99 mg / kg / day in neonates and low - birth - weight neonates .
+Additional symptoms may include gradual neurological deterioration , seizures , intracranial hemorrhage , hematologic abnormalities , skin breakdown , hepatic and renal failure , hypotension , bradycardia , and cardiovascular collapse .
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “ gasping syndrome ” , the minimum amount of benzyl alcohol at which toxicity may occur is not known .
+Premature and low - birth - weight infants , as well as patients receiving high dosages , may be more likely to develop toxicity .
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources .
+Geriatric Use Of the total number of subjects in clinical studies of cisatracurium , 57 were 65 and over , 63 were 70 and over , and 15 were 80 and over .
+The geriatric population included a subset of patients with significant cardiovascular disease ( see CLINICALPHARMACOLOGY , Hemodynamics Profile and Special Populations , Geriatric Patients ) .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between elderly and younger subjects , but greater sensitivity of some older individuals to cisatracurium cannot be ruled out .
+Minor differences in the pharmacokinetics of cisatracurium between elderly and young adult patients are not associated with clinically significant differences in the recovery profile of cisatracurium following a single 0 . 1 mg / kg dose ; the time to maximum block is approximately 1 minute slower in elderly patients ( see CLINICAL PHARMACOLOGY , Pharmacokinetics ) .
+ADVERSE REACTIONS : Observed in Clinical Trials of Surgical Patients Adverse experiences were uncommon among the 945 surgical patients who received cisatracurium in conjunction with other drugs in US and European clinical studies in the course of a wide variety of procedures in patients receiving opioid , propofol , or inhalation anesthesia .
+The following adverse experiences were judged by investigators during the clinical trials to have a possible causal relationship to administration of cisatracurium : Incidence Greater than 1 % None .
+Incidence Less than 1 % Cardiovascular bradycardia ( 0 . 4 % ) hypotension ( 0 . 2 % ) flushing ( 0 . 2 % ) Respiratory bronchospasm ( 0 . 2 % ) Dermatological rash ( 0 . 1 % ) Observed in Clinical Trials of Intensive Care Unit Patients Adverse experiences were uncommon among the 68 ICU patients who received cisatracurium in conjunction with other drugs in US and European clinical studies .
+One patient experienced bronchospasm .
+In one of the two ICU studies , a randomized and double - blind study of ICU patients using TOF neuromuscular monitoring , there were two reports of prolonged recovery ( 167 and 270 minutes ) among 28 patients administered cisatracurium and 13 reports of prolonged recovery ( range : 90 minutes to 33 hours ) among 30 patients administered vecuronium .
+Observed During Clinical Practice In addition to adverse events reported from clinical trials , the following events have been identified during post - approval use of cisatracurium besylate in conjunction with one or more anesthetic agents in clinical practice .
+Because they are reported voluntarily from a population of unknown size , estimates of frequency cannot be made .
+These events have been chosen for inclusion due to a combination of their seriousness , frequency of reporting , or potential causal connection to cisatracurium besylate .
+General Histamine release , hypersensitivity reactions including anaphylactic or anaphylactoid reactions which in some cases have been life threatening and fatal .
+Because these reactions were reported voluntarily from a population of uncertain size , it is not possible to reliably estimate their frequency ( see WARNINGSand PRECAUTIONS ) .
+There are rare reports of wheezing , laryngospasm , bronchospasm , rash and itching following administration of cisatracurium in children .
+These reported adverse events were not serious and their etiology could not be established with certainty .
+Musculoskeletal Prolonged neuromuscular block , inadequate neuromuscular block , muscle weakness , and myopathy .
+OVERDOSAGE : Overdosage with neuromuscular blocking agents may result in neuromuscular block beyond the time needed for surgery and anesthesia .
+The primary treatment is maintenance of a patent airway and controlled ventilation until recovery of normal neuromuscular function is assured .
+Once recovery from neuromuscular block begins , further recovery may be facilitated by administration of an anticholinesterase agent ( e . g . , neostigmine , edrophonium ) in conjunction with an appropriate anticholinergic agent ( see Antagonism of Neuromuscular Blockbelow ) .
+Antagonism of Neuromuscular Block ANTAGONISTS ( SUCH AS NEOSTIGMINE AND EDROPHONIUM ) SHOULD NOT BE ADMINISTERED WHEN COMPLETE NEUROMUSCULAR BLOCK IS EVIDENT OR SUSPECTED .
+THE USE OF A PERIPHERAL NERVE STIMULATOR TO EVALUATE RECOVERY AND ANTAGONISM OF NEUROMUSCULAR BLOCK IS RECOMMENDED .
+Administration of 0 . 04 to 0 . 07 mg / kg neostigmine at approximately 10 % recovery from neuromuscular block ( range : 0 to 15 % ) produced 95 % recovery of the muscle twitch response and a T4 : T1 ratio ≥ 70 % in an average of 9 to 10 minutes .
+The times from 25 % recovery of the muscle twitch response to a T4 : T1 ratio ≥ 70 % following these doses of neostigmine averaged 7 minutes .
+The mean 25 % to 75 % recovery index following reversal was 3 to 4 minutes .
+Administration of 1 mg / kg edrophonium at approximately 25 % recovery from neuromuscular block ( range : 16 % to 30 % ) produced 95 % recovery and a T4 : T1 ratio ≥ 70 % in an average of 3 to 5 minutes .
+Patients administered antagonists should be evaluated for evidence of adequate clinical recovery ( e . g . , 5 - second head lift and grip strength ) .
+Ventilation must be supported until no longer required .
+The onset of antagonism may be delayed in the presence of debilitation , cachexia , carcinomatosis , and the concomitant use of certain broad spectrum antibiotics , or anesthetic agents and other drugs which enhance neuromuscular block or separately cause respiratory depression ( see PRECAUTIONS , Drug Interactions ) .
+Under such circumstances the management is the same as that of prolonged neuromuscular block ( see OVERDOSAGE ) .
+DOSAGE AND ADMINISTRATION : NOTE : CONTAINS BENZYL ALCOHOL ( see WARNINGS and PRECAUTIONS , Pediatric Use ) .
+CISATRACURIUM BESYLATE INJECTION SHOULD ONLY BE ADMINISTERED INTRAVENOUSLY .
+The dosage information provided below is intended as a guide only .
+Doses of Cisatracurium should be individualized ( see CLINICAL PHARMACOLOGY , Individualization of Dosages ) .
+The use of a peripheral nerve stimulator will permit the most advantageous use of cisatracurium , minimize the possibility of overdosage or underdosage , and assist in the evaluation of recovery .
+Adults Initial Doses One of two intubating doses of cisatracurium may be chosen , based on the desired time to tracheal intubation and the anticipated length of surgery .
+In addition to the dose of neuromuscular blocking agent , the presence of co - induction agents ( e . g . , fentanyl and midazolam ) and the depth of anesthesia are factors that can influence intubation conditions .
+Doses of 0 . 15 ( 3 x ED95 ) and 0 . 2 ( 4 x ED95 ) mg / kg cisatracurium , as components of a propofol / nitrous oxide / oxygen induction - intubation technique , may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1 . 5 minutes , respectively .
+Similar intubation conditions may be expected when these doses of cisatracurium are administered as components of a thiopental / nitrous oxide / oxygen induction - intubation technique .
+In two intubation studies using thiopental or propofol and midazolam and fentanyl as co - induction agents , EXCELLENT intubation conditions were most frequently achieved with the 0 . 2 mg / kg compared to 0 . 15 mg / kg dose of cisatracurium .
+The clinically effective durations of action for 0 . 15 and 0 . 2 mg / kg cisatracurium during propofol anesthesia are 55 minutes ( range : 44 to 74 minutes ) and 61 minutes ( range : 41 to 81 minutes ) , respectively .
+Lower doses may result in a longer time for the development of satisfactory intubation conditions .
+Doses up to 8 x ED95 cisatracurium have been safely administered to healthy adult patients and patients with serious cardiovascular disease .
+These larger doses are associated with longer clinically effective durations of action ( see CLINICAL PHARMACOLOGY ) .
+Because slower times to onset of complete neuromuscular block were observed in elderly patients and patients with renal dysfunction , extending the interval between administration of cisatracurium and the intubation attempt for these patients may be required to achieve adequate intubation conditions .
+A dose of 0 . 03 mg / kg cisatracurium is recommended for maintenance of neuromuscular block during prolonged surgical procedures .
+Maintenance doses of 0 . 03 mg / kg each sustain neuromuscular block for approximately 20 minutes .
+Maintenance dosing is generally required 40 to 50 minutes following an initial dose of 0 . 15 mg / kg cisatracurium and 50 to 60 minutes following an initial dose of 0 . 2 mg / kg cisatracurium , but the need for maintenance doses should be determined by clinical criteria .
+For shorter or longer durations of action , smaller or larger maintenance doses may be administered .
+Isoflurane or enflurane administered with nitrous oxide / oxygen to achieve 1 . 25 MAC ( Minimum Alveolar Concentration ) may prolong the clinically effective duration of action of initial and maintenance doses .
+The magnitude of these effects may depend on the duration of administration of the volatile agents .
+Fifteen to 30 minutes of exposure to 1 . 25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of cisatracurium and therefore , no adjustment to the initial dose should be necessary when cisatracurium is administered shortly after initiation of volatile agents .
+In long surgical procedures during enflurane or isoflurane anesthesia , less frequent maintenance dosing or lower maintenance doses of cisatracurium may be necessary .
+No adjustments to the initial dose of cisatracurium are required when used in patients receiving propofol anesthesia .
+Children Initial Doses The recommended dose of cisatracurium for children 2 to 12 years of age is 0 . 1 to 0 . 15 mg / kg administered over 5 to 10 seconds during either halothane or opioid anesthesia .
+When administered during stable opioid / nitrous oxide / oxygen anesthesia , 0 . 1 mg / kg cisatracurium produces maximum neuromuscular block in an average of 2 . 8 minutes ( range : 1 . 8 to 6 . 7 minutes ) and clinically effective block for 28 minutes ( range : 21 to 38 minutes ) .
+When administered during stable opioid / nitrous oxide / oxygen anesthesia , 0 . 15 mg / kg cisatracurium produces maximum neuromuscular block in about 3 minutes ( range : 1 . 5 to 8 minutes ) and clinically effective block ( time to 25 % recovery ) for 36 minutes ( range : 29 to 46 minutes ) .
+Infants Initial Doses The recommended dose of cisatracurium for intubation of infants 1 month to 23 months is 0 . 15 mg / kg administered over 5 to 10 seconds during either halothane or opioid anesthesia .
+When administered during stable opioid / nitrous oxide / oxygen anesthesia , 0 . 15 mg / kg cisatracurium produces maximum neuromuscular block in about 2 minutes ( range : 1 . 3 to 3 . 4 minutes ) and clinically effective block ( time to 25 % recovery ) for about 43 minutes ( range : 34 to 58 minutes ) .
+Use by Continuous Infusion Infusion in the Operating Room ( OR ) After administration of an initial bolus dose of cisatracurium , a diluted solution of cisatracurium can be administered by continuous infusion to adults and children aged 2 or more years for maintenance of neuromuscular block during extended surgical procedures .
+Infusion of cisatracurium should be individualized for each patient .
+The rate of administration should be adjusted according to the patient ' s response as determined by peripheral nerve stimulation .
+Accurate dosing is best achieved using a precision infusion device .
+Infusion of cisatracurium should be initiated only after early evidence of spontaneous recovery from the initial bolus dose .
+An initial infusion rate of 3 mcg / kg / min may be required to rapidly counteract the spontaneous recovery of neuromuscular function .
+Thereafter , a rate of 1 to 2 mcg / kg / min should be adequate to maintain continuous neuromuscular block in the range of 89 % to 99 % in most pediatric and adult patients under opioid / nitrous oxide / oxygen anesthesia .
+Reduction of the infusion rate by up to 30 % to 40 % should be considered when cisatracurium is administered during stable isoflurane or enflurane anesthesia ( administered with nitrous oxide / oxygen at the 1 . 25 MAC level ) .
+Greater reductions in the infusion rate of cisatracurium may be required with longer durations of administration of isoflurane or enflurane .
+The rate of infusion of atracurium required to maintain adequate surgical relaxation in patients undergoing coronary artery bypass surgery with induced hypothermia ( 25 ° to 28 ° C ) is approximately half the rate required during normothermia .
+Based on the structural similarity between cisatracurium and atracurium , a similar effect on the infusion rate of cisatracurium may be expected .
+Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium may be expected to proceed at a rate comparable to that following administration of a single bolus dose .
+Infusion in the Intensive Care Unit ( ICU ) The principles for infusion of cisatracurium in the OR are also applicable to use in the ICU .
+An infusion rate of approximately 3 mcg / kg / min ( range : 0 . 5 to 10 . 2 mcg / kg / min ) should provide adequate neuromuscular block in adult patients in the ICU .
+There may be wide interpatient variability in dosage requirements and these may increase or decrease with time ( seePRECAUTIONS , Long - Term Use in the Intensive Care Unit [ ICU ] ) .
+Following recovery from neuromuscular block , readministration of a bolus dose may be necessary to quickly re - establish neuromuscular block prior to reinstitution of the infusion .
+Infusion Rate Tables The amount of infusion solution required per minute will depend upon the concentration of cisatracurium in the infusion solution , the desired dose of cisatracurium , and the patient ' s weight .
+The contribution of the infusion solution to the fluid requirements of the patient also must be considered .
+Tables 10 and 11 provide guidelines for delivery , in mL / hr ( equivalent to microdrops / minute when 60 microdrops = 1 mL ) , of cisatracurium solutions in concentrations of 0 . 1 mg / mL ( 10 mg / 100 mL ) or 0 . 4 mg / mL ( 40 mg / 100 mL ) .
+Table 10 .
+Infusion Rates of Cisatracurium for Maintenance of Neuromuscular Block During Opioid / Nitrous Oxide / Oxygen Anesthesia for a Concentration of 0 . 1 mg / mL Drug Delivery Rate ( mcg / kg / min ) 1 1 . 5 2 3 5 Patient Weight ( kg ) Infusion Delivery Rate ( mL / hr ) 10 6 9 12 18 30 45 27 41 54 81 135 70 42 63 84 126 210 100 60 90 120 180 300 Table 11 .
+Infusion Rates of Cisatracurium for Maintenance of Neuromuscular Block During Opioid / Nitrous Oxide / Oxygen Anesthesia for a Concentration of 0 . 4 mg / mL Drug Delivery Rate ( mcg / kg / min ) 1 1 . 5 2 3 5 Patient Weight ( kg ) Infusion Delivery Rate ( mL / hr ) 10 1 . 5 2 . 3 3 4 . 5 7 . 5 45 6 . 8 10 . 1 13 . 5 20 . 3 33 . 8 70 10 . 5 15 . 8 21 31 . 5 52 . 5 100 15 22 . 5 30 45 75 Cisatracurium Besylate Injection Compatibility and Admixtures Y - site Administration Cisatracurium Besylate Injection is acidic ( pH = 3 . 25 to 3 . 65 ) and may not be compatible with alkaline solution having a pH greater than 8 . 5 ( e . g . , barbiturate solutions ) .
+Studies have shown that Cisatracurium Besylate Injection is compatible with : • 5 % Dextrose Injection , USP • 0 . 9 % Sodium Chloride Injection , USP • 5 % Dextrose and 0 . 9 % Sodium Chloride Injection , USP • SUFENTA ® ( sufentanil citrate ) Injection , diluted as directed • ALFENTA ® ( alfentanil hydrochloride ) Injection , diluted as directed • SUBLIMAZE ® ( fentanyl citrate ) Injection , diluted as directed • VERSED ® ( midazolam hydrochloride ) Injection , diluted as directed • Droperidol Injection , diluted as directed Cisatracurium Besylate Injection is not compatible with DIPRIVAN ® ( propofol ) Injection or TORADOL ® ( ketorolac ) Injection for Y - site administration .
+Studies of other parenteral products have not been conducted .
+Dilution Stability Cisatracurium Besylate Injection diluted in 5 % Dextrose Injection , USP ; 0 . 9 % Sodium Chloride Injection , USP ; or 5 % Dextrose and 0 . 9 % Sodium Chloride Injection , USP to 0 . 1 mg / mL may be stored either under refrigeration or at room temperature for 24 hours without significant loss of potency .
+Dilutions to 0 . 1 mg / mL or 0 . 2 mg / mL in 5 % Dextrose and Lactated Ringer ' s Injection may be stored under refrigeration for 24 hours .
+Cisatracurium Besylate Injection should not be diluted in Lactated Ringer ' s Injection , USP due to chemical instability .
+NOTE : Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+Solutions which are not clear , or contain visible particulates , should not be used .
+Cisatracurium Besylate Injection is a colorless to slightly yellow or greenish - yellow solution .
+HOW SUPPLIED : Cisatracurium Besylate Injection , USP is supplied as : Product Code Unit of Sale Strength Each 416005 NDC 63323 - 416 - 05 Unit of 10 10 mg per 5 mL ( 2 mg per mL ) NDC 63323 - 416 - 01 5 mL Single Dose Vial 417010 NDC 63323 - 417 - 10 Unit of 10 20 mg per 10 mL ( 2 mg per mL ) NDC 63323 - 417 - 01 10 mL Single Dose Vial NOTE : 10 mL Multiple dose Vials contain 0 . 9 % w / v benzyl alcohol as a preservative ( see WARNINGS concerning newborn infants ) .
+Cisatracurium Besylate Injection , USP is supplied as : Product Code Unit of Sale Strength Each 416020 NDC 63323 - 418 - 20 Unit of 10 200 mg per 20 mL ( 10 mg per mL ) NDC 63323 - 418 - 01 20 mL Single Dose Vial Intended only for use in the ICU .
+Storage Cisatracurium Besylate Injection , USP should be refrigerated at 2 ° to 8 ° C ( 36 ° to 46 ° F ) in the carton to preserve potency .
+Protect from light .
+DO NOT FREEZE .
+Upon removal from refrigeration to room temperature storage conditions ( 25 ° C / 77 ° F ) , use Cisatracurium Besylate Injection , USP within 21 days even if rerefrigerated .
+The container closure is not made with natural rubber latex .
+The brand names mentioned in this document are the trademarks of their respective owners .
+[ MULTIMEDIA ] Lake Zurich , IL 60047 www . fresenius - kabi . com / us 451248 E Revised : April 2021 [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Dose Vial Label NDC 63323 - 416 - 01 416005 Cisatracurium Besylate Injection , USP 10 mg ( base ) per 5 mL ( 2 mg per mL ) For intravenous injection .
+Preservative free .
+5 mL Single Dose Vial Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 5 mL Single Dose Vial Tray Label NDC 63323 - 416 - 05 416005 Cisatracurium Besylate Injection , USP 10 mg per 5 mL * ( 2 mg per mL ) For Intravenous Injection Rx only 10 x 5 mL Single Dose Vials [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL – PRINCIPAL DISPLAY – Sticker Label CISATRACURIUM BESYLATE INJECTION , USP For IV Use Only 2 mg per mL [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY – Cisatracurium 10 mL Multiple Dose Vial Label NDC 63323 - 417 - 01 417010 Cisatracurium Besylate Injection , USP 20 mg per 10 mL * ( 2 mg per mL ) For intravenous injection .
+0 . 9 % benzyl alcohol added as a preservative .
+10 mL Multiple Dose Vial Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY – Cisatracurium 10 mL Multiple Dose Vial Tray Label NDC 63323 - 417 - 10 417010 Cisatracurium Besylate Injection , USP 20 mg per 10 mL * ( 2 mg per mL ) 0 . 9 % benzyl alcohol ( added as a preservative ) For Intravenous Injection Rx only 10 x 10 mL Multiple Dose Vials [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL – PRINCIPAL DISPLAY – Sticker Label CISATRACURIUM BESYLATE INJECTION , USP For IV Use Only Contains Benzyl Alcohol 2 mg per mL [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Dose Vial Label NDC 63323 - 418 - 01 416020 Cisatracurium Besylate Injection , USP 200 mg per 20 mL * ( 10 mg per mL ) For ICU use only .
+For intravenous injection .
+Preservative free .
+20 mL Single Dose Vial Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL - PRINCIPAL DISPLAY - Cisatracurium 20 mL Single Dose Vial Tray Label NDC 63323 - 418 - 20 416020 Cisatracurium Besylate Injection , USP 200 mg per 20 mL * ( 10 mg per mL ) For Intravenous Injection For ICU use only .
+Rx only 10 x 20 mL Single Dose Vials [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL – PRINCIPAL DISPLAY – Sticker Label CISATRACURIUM BESYLATE INJECTION , USP For IV Use Only For ICU Use Only 10 mg per mL [ MULTIMEDIA ] [ MULTIMEDIA ]

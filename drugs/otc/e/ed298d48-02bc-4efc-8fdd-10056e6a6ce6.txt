@@ -1,0 +1,140 @@
+For intravenous injection only DIAGNOSTIC USE ONLY DESCRIPTION ACTHREL ® ( corticorelin ovine triflutate for injection ) is a sterile , nonpyrogenic , lyophilized white cake powder , containing corticorelin ovine triflutate , a trifluoroacetate salt of a synthetic peptide that is used for the determination of pituitary corticotroph responsiveness .
+Corticorelin ovine has an amino acid sequence identical to ovine corticotropin - releasing hormone ( oCRH ) .
+Corticorelin ovine is an analogue of the naturally occurring human CRH ( hCRH ) peptide .
+Both peptides are potent stimulators of adrenocorticotropic hormone ( ACTH ) release from the anterior pituitary .
+ACTH stimulates cortisol production from the adrenal cortex .
+The structural formula for corticorelin ovine triflutate is described below : Ser - Gin - Glu - Pro - Pro - Ile - Ser - Leu - Asp - Leu - Thr - Phe - His - Leu - Leu - Arg - Glu - Val - Leu - Glu - Met - Thr - Lys - Ala - Asp - Gin - Leu - Ala - Gln - Gln - Ala - His - Ser - Asn - Arg - Lys - Leu - Leu - Asp - Ile - Ala - NH2 ∙ xCF2COOH whereas x = 4 - 8 .
+The empirical formula of corticorelin ovine is C205H339N59O63S with a molecular weight of 4670 . 35 Daltons .
+ACTHREL ® for injection is available in vials containing 100 mcg corticorelin ovine ( as the trifluoroacetate ) , 0 . 88 mg ascorbic acid , 10 mg lactose , and 26 mg cysteine hydrochloride monohydrate .
+Trace amounts of chloride ion may be present from the manufacturing process .
+The preparation is intended for intravenous administration .
+CLINICAL PHARMACOLOGY Pharmacodynamics In normal subjects , intravenous administration of corticorelin results in a rapid and sustained increase of plasma ACTH levels and a near parallel increase of plasma cortisol .
+In addition , intravenous administration of corticorelin to normal subjects causes a concomitant and prolonged release of the related proopiomelanocortin peptides β - and γ - lipotropins ( β - and γ - LPH ) and β - endorphin ( β - END ) .
+A number of dose - response studies have been performed on normal subjects using a range of corticorelin doses .
+In one study , doses of corticorelin ranging from 0 . 001 to 30 mcg / kg body weight were administered to 29 healthy volunteers .
+Blood samples were taken over a 2 - hour period for determination of plasma ACTH and cortisol concentrations .
+There was a direct dose - dependent relationship that was more pronounced for ACTH than for cortisol .
+The threshold dose was 0 . 03 mcg / kg , the half - maximal dose was 0 . 3 - 1 . 0 mcg / kg and the maximally effective dose was 3 - 10 mcg / kg .
+Plasma ACTH levels in normal subjects increased 2 minutes after injection of corticorelin doses of ≥ 0 . 3 mcg / kg and reached peak levels after 10 - 15 minutes .
+Plasma cortisol levels increased within 10 minutes and reached peak levels at 30 to 60 minutes .
+As the dose of corticorelin was increased , the rises in plasma ACTH and cortisol were more sustained , showing a biphasic response with a second lower peak at 2 - 3 hours after injection .
+Similar results were found in another study using 0 . 3 , 3 . 0 , and 30 mcg / kg doses .
+The duration of mean plasma ACTH increase after injection of 0 . 3 , 3 . 0 , and 30 mcg / kg was 4 , 7 , and 8 hours , respectively .
+The effect on plasma cortisol was similar , but more prolonged .
+Because there are differences in basal levels and peak response levels following a . m . or p . m . administration , it is recommended that subsequent evaluations in the same patient using the corticorelin stimulation test be carried out at the same time of day as the original evaluation .
+Baseline ACTH and cortisol levels are usually higher in the morning .
+Pooled ACTH values from normal unstressed subjects ( n = 119 ) were 25 ± 7 pg / mL in the a . m . and 10 ± 3 in the p . m . ; similar pooled cortisol values ( n = 170 ) were 11 ± 3 mcg / dL in the a . m . and 4 ± 2 mcg / dL in the p . m .
+The normal unstressed person has about seven to ten secretory episodes of ACTH each day .
+Most of them occur in the early morning hours and are responsible for the morning plasma cortisol surge .
+The following figure shows the daily circadian rhythm of ACTH and cortisol secretions in a normal unstressed person .
+Insulin , plasma renin activity , prolactin , and growth hormone release are not affected by corticorelin administration in humans .
+[ MULTIMEDIA ] Continuous 24 - hour infusion of corticorelin ( 0 . 5 , 1 . 0 , and 3 . 0 mcg / kg / hr ) increased plasma ACTH concentrations to a plateau of 15 - 20 pg / mL by the third hour and urinary - free cortisol reaches 173 ± 43 mcg / dL by 24 hours , comparable to those levels observed in patients with major depression , but less than levels noted in Cushing ' s disease .
+Continuous infusion did not abolish the circadian rhythm of plasma ACTH and cortisol , but did appear to desensitize the corticotroph .
+Intermittent doses of corticorelin ( 25 mcg every 4 hours for 72 hours ) , however , continued to elicit the expected ACTH and cortisol responses .
+Intravenous administration of 1 mcg / kg corticorelin in combination with 10 pressor units intramuscular vasopressin had a synergistic effect on ACTH and a less marked synergistic effect on cortisol secretion .
+The basal and peak response levels of ACTH and cortisol to a 1 mcg / kg or 100 mcg dose of corticorelin administered to normal volunteers in the morning and the evening are given below .
+These values were obtained by combining the results from 9 clinical trials conducted in the a . m . and 4 clinical trials conducted in the p . m .
+The following table is to be used only as a general guide .
+Basal Concentrations and Peak Responses of ACTH and Cortisol in Normal Subjects after 1 mcg / kg or 100 mcg of ACTHREL ® Time of Day No .
+of Subjects ACTH Concentration mean ( range ) pg / mL Cortisol Concentration mean ( range ) mcg / dL Basal Peak Basal Peak a . m . 143 28 ( 16 - 65 ) 68 ( 39 - 114 ) 11 ( 8 - 13 ) 21 ( 17 - 25 ) p . m . 70 9 ( 8 - 13 ) 30 ( 25 - 42 ) 4 ( 2 - 6 ) 16 ( 15 - 18 ) [ MULTIMEDIA ] Pharmacokinetics Following a single intravenous injection of 1 mcg / kg of corticorelin to normal men , the disappearance of immunoreactive corticorelin ( IR - corticorelin ) from plasma follows a biexponential decay curve .
+Plasma half - lives for IR - corticorelin are 11 . 6 ± 1 . 5 minutes ( mean ± SE ) for the fast component and 73 ± 8 minutes for the slow component .
+The mean volume of distribution for IR - corticorelin is 6 . 2 ± 0 . 5 L with an approximate metabolic clearance rate of 95 ± 11 L / m2 / day .
+Graded intravenous doses of corticorelin ( 0 . 01 , 0 . 03 , 0 . 1 , 0 . 3 , 1 , 3 , 10 , 30 mcg / kg ) produced a linear increase in plasma IR - corticorelin .
+Corticorelin does not appear to be bound specifically by a circulating plasma protein .
+INDICATIONS AND USAGE ACTHREL ® is indicated for use in differentiating pituitary and ectopic production of ACTH in patients with ACTH - dependent Cushing ' s syndrome .
+Differential Diagnosis There are two forms of Cushing ' s syndrome : • ACTH - dependent ( 83 % ) , in which hypercortisolism is due either to pituitary hypersecretion of ACTH ( Cushing ' s disease ) resulting from an adenoma ( 40 % , usually microadenomas ) or nonadenomatous hyperplasia , possibly of hypothalamic origin ( 28 % ) , or to hypercortisolism that is secondary to ectopic secretion of ACTH ( 15 % ) and , • ACTH - independent ( 17 % ) , in which hypercortisolism is due to autonomous cortisol secretion by an adrenal tumor ( 9 % adenomas , 8 % carcinomas ) .
+After the establishment of hypercortisolism consistent with the presence of Cushing ' s syndrome , and following the elimination of autonomous adrenal hyperfunction as its cause , the corticorelin test is used to aid in establishing the source of excessive ACTH secretion .
+The corticorelin stimulation test helps to differentiate between the etiologies of ACTH - dependent hypercortisolism as follows : • High basal plasma ACTH plus high basal plasma cortisol ( 20 - 40 mcg / dL ) .
+ACTHREL ® injection ( 1 mcg / kg ) results in : • Increased plasma ACTH levels • Increased plasma cortisol levels Diagnosis : Cushing ' s disease ( ACTH of pituitary origin ) • High basal plasma ACTH ( may be very high ) plus high basal plasma cortisol ( 20 - 40 mcg / dL ) .
+ACTHREL ® injection ( 1 mcg / kg ) results in : • Little or no response of plasma ACTH levels • Little or no response of plasma cortisol levels Diagnosis : Ectopic ACTH syndrome Test Methodology To evaluate the status of the pituitary - adrenal axis in the differentiation of a pituitary source from an ectopic source of excessive ACTH secretion , a corticorelin test procedure requires a minimum of five blood samples .
+Procedure • Venous blood samples should be drawn 15 minutes before and immediately prior to ACTHREL ® administration .
+The ACTH baseline is obtained by averaging the values of the two samples .
+• Administer ACTHREL ® as an intravenous infusion over a 30 to 60 - second interval at a dose of 1 mcg / kg body weight .
+Higher doses are not recommended ( see PRECAUTIONS and ADVERSE REACTIONS ) .
+• Draw venous blood samples at 15 , 30 , and 60 minutes after administration .
+• Blood samples should be handled as recommended by the laboratory that will determine their ACTH content .
+It is extremely important to recognize that the reliability of the ACTHREL ® test is directly related to the inter - assay and intra - assay variability of the laboratory performing the assay .
+Cortisol determinations may be performed on the same blood samples for the same time points as outlined above .
+The blood sample handling precautions noted for ACTH should be followed for cortisol .
+Interpretation of Test Results The interpretation of the ACTH and cortisol responses following ACTHREL ® administration requires a knowledge of the clinical status of the individual patient , understanding of hypothalamic - pituitary - adrenal physiology , and familiarity with the normal hormonal ranges and the standards used by the laboratory that performs the ACTH and cortisol assays .
+Cushing ' s Disease The results of challenge with corticorelin injection have been reported in approximately 300 patients with Cushing ' s disease .
+Although the ACTH and cortisol responses were variable , a hyper - response to corticorelin was seen in a majority of patients , despite high basal cortisol levels .
+This response pattern indicates an impairment of the negative feedback of cortisol on the pituitary .
+Patients with pituitary - dependent Cushing ' s disease tested with corticorelin do not show the negative correlation between basal and stimulated levels of ACTH and cortisol that is found in normal subjects .
+A positive correlation between basal ACTH levels and maximum ACTH increments after corticorelin administration has been found in Cushing ' s disease patients .
+Ectopic ACTH Secretion Patients with Cushing ' s syndrome due to ectopic ACTH secretion ( N = 32 ) were found to have very high basal levels of ACTH and cortisol , which were not further stimulated by corticorelin .
+However , there have been rare instances of patients with ectopic sources of ACTH that have responded to the corticorelin test .
+SUMMARY OF ACTH RESPONSES IN PATIENTS WITH HIGH BASAL CORTISOL High ACTH Response Low ACTH Response High Basal ACTH Cushing ' s Disease Ectopic ACTH Secretion CUSHING ' S DISEASE ACTH RESPONSES ( mean of 181 patients ) Basal ACTH 63 ± 72 pg / mL ( mean ± SD ) Peak ACTH 189 ± 262 pg / mL ( mean ± SD ) Mean of individual change from baseline + 227 % ECTOPIC ACTH SECRETION RESPONSES ( mean for 31 patients ) Basal ACTH 266 ± 464 pg / mL ( mean ± SD ) Peak ACTH 276 ± 466 pg / mL ( mean ± SD ) Mean of individual change from baseline + 15 % False negative responses to the corticorelin test in Cushing ' s disease patients occur approximately 5 to 10 % of the time , which may lead the clinician to an incorrect diagnosis of ectopic production of ACTH at that frequency ( see INDICATIONS AND USAGE , Differential Diagnosis ) .
+CONTRAINDICATIONS ACTHREL is contraindicated in patients with a history of a hypersensitivity reaction to ovine corticorelin or any of its excipients .
+PRECAUTIONS General The severity of adverse effects to a corticorelin injection appear to be dose - dependent .
+Dosages above 1 mcg / kg are not recommended .
+While few adverse effects have been observed at the 1 mcg / kg or 100 mcg dose , higher doses have been associated with transient tachycardia , decreased blood pressure , loss of consciousness , and asystole ( see ADVERSE REACTIONS ) .
+These symptoms can be substantially reduced by administering the drug as a 30 - second intravenous infusion instead of a bolus injection .
+At a dose of 200 mcg corticorelin , 4 of 60 volunteers and patients with disturbances of the hypothalamic - pituitary - adrenal ( HPA ) axis were reported to have had decreased blood pressures .
+One patient had a severe hypotensive reaction with asystole .
+Three other patients had an " absence - like " loss of consciousness lasting approximately 5 minutes .
+In subsequent investigations by the same researchers over a 3 - year period using 100 mcg of corticorelin , one patient in approximately 150 to 200 experienced a severe drop in blood pressure and loss of sinus rhythm after receiving 55 mcg of corticorelin , which may have been due to interaction with heparin ( see PRECAUTIONS - Drug Interactions ) .
+Hypersensitivity Hypersensitivity reactions have been reported in patients receiving ACTHREL .
+Reactions included urticaria , flushing of the face , neck and upper chest ; dyspnea , wheezing , urticaria and angioedema involving tongue , lip and facial swelling ( see ADVERSE REACTIONS ) .
+Should a hypersensitivity reaction occur , discontinue ACTHREL , monitor and treat if indicated .
+Drug Interactions The plasma ACTH response to corticorelin injection is inhibited or blunted in normal subjects pretreated with dexamethasone .
+The use of a heparin solution to maintain i . v . cannula patency during the corticorelin test is not recommended .
+A possible interaction between corticorelin and heparin may have been responsible for a major hypotensive reaction that occurred after corticorelin administration ( see ADVERSE REACTIONS ) .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Animal studies have not been conducted with corticorelin to evaluate carcinogenic potential , mutagenicity , or effect on fertility .
+Pregnancy Animal reproduction studies have not been conducted with corticorelin .
+It is also not known whether corticorelin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+ACTHREL ® should be given to a pregnant woman only if clearly needed .
+Nursing Mothers It is not known whether corticorelin is secreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when ACTHREL ® is administered to a nursing woman .
+PEDIATRIC USE Only a few tests have been performed on children .
+Dosages were 1 mcg / kg body weight .
+Patient studies have involved only children with multiple hypothalamic and / or pituitary hormone deficiencies , or tumors .
+Only two studies with normal pediatric subjects have been conducted .
+No differences in response to the corticorelin test have been reported in the children studied .
+ADVERSE REACTIONS Hypersensitivity reactions have been reported with 1 mcg / kg or 100 mcg / patient and include flushing of the face , neck , and upper chest ; dyspnea , wheezing , urticaria , and angioedema ( involving tongue , lip and facial swelling ) .
+Subjects have also reported an urge to take a deep breath , which occurs with a timing similar to , but less frequently than , that of flushing .
+Higher doses ( > 3 mcg / kg ) are associated with more prolonged flushing , tachycardia , hypotension , dyspnea , and " chest compression " or tightness .
+In addition , at doses of > 5 mcg / kg , significant increases in heart rate and decreases in blood pressure were observed .
+The cardiovascular effects occurred 2 - 3 minutes after injection and lasted for 30 - 60 minutes .
+The facial flushing was more prolonged , lasting up to 4 hours in some subjects .
+All signs and symptoms could be reduced by administering the drug as a 30 - second infusion instead of by bolus injection .
+Total doses of up to 200 mcg of corticorelin were administered as a bolus injection to 60 men and women , including both healthy normal subjects and patients with endocrine disorders .
+In most cases , only minor adverse effects , such as transient flushing and feelings of dyspnea , were noted .
+However , a few patients with disorders of the pituitary - adrenal axis had major symptoms .
+One patient had a precipitous fall in blood pressure and pulse rate and developed asystole , which required resuscitation .
+In two patients with Cushing ' s disease and in one with secondary adrenal insufficiency , an " absence - like " loss of consciousness occurred , which started within a few seconds after injection of corticorelin and lasted from 10 seconds to 5 minutes .
+This was accompanied by a slight fall in blood pressure .
+One patient with a well documented seizure diathesis experienced a grand mal epileptic seizure following ACTHREL ® administration .
+The patient had discontinued anti - convulsant therapy the day of the procedure ( see PRECAUTIONS - Drug Interactions ) .
+OVERDOSAGE Symptoms of overdose include severe facial flushing , cardiovascular changes , and dyspnea .
+In the event of toxic overdose ( see ADVERSE REACTIONS ) , adverse effects should be treated symptomatically .
+DOSAGE AND ADMINISTRATION Dosage A single intravenous dose of ACTHREL ® at 1 mcg / kg is recommended for the testing of pituitary corticotrophin function .
+A dose of 1 mcg / kg is the lowest dose that produces maximal cortisol responses and significant ( though apparently sub - maximal ) ACTH responses .
+Doses above 1 mcg / kg are not recommended ( see PRECAUTIONS and ADVERSE REACTIONS ) .
+At a dose of 1 mcg / kg , the ACTH and cortisol responses to ACTHREL ® are prolonged and remain elevated for up to 2 hours .
+The maximum increment in plasma ACTH occurs between 15 and 60 minutes after ACTHREL ® administration , whereas the maximum increment in plasma cortisol occurs between 30 and 120 minutes .
+In a clinical study of 30 normal healthy men , the peak plasma ACTH and cortisol responses to ACTHREL ® administration in the early afternoon occurred at 42 ± 29 minutes and 65 ± 26 minutes ( average ± SD ) , respectively .
+If a repeated evaluation using the corticorelin stimulation test with ACTHREL ® is needed , it is recommended that the repeat test be carried out at the same time of day as the original test because there are differences in basal levels and peak response levels following a . m . or p . m . administration to normal humans .
+Administration ACTHREL ® is to be reconstituted aseptically with 2 mL of Sodium Chloride injection , USP ( 0 . 9 % sodium chloride ) , at the time of use by injecting 2 mL of the saline diluent into the lyophilized drug product cake .
+To avoid bubble formation , DO NOT SHAKE the vial ; instead , roll the vial to dissolve the product .
+The sterile solution containing 50 mcg corticorelin / mL is then ready for injection by the intravenous route .
+The dosage to be administered is determined by the patient ' s weight ( 1 mcg corticorelin / kg ) .
+Some of the adverse effects can be reduced by administering the drug as an infusion over 30 seconds instead of as a bolus injection .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+HOW SUPPLIED ACTHREL ® is supplied as a sterile , nonpyrogenic , lyophilized , white cake containing 100 mcg corticorelin ovine ( as the trifluoroacetate ) , 0 . 88 mg ascorbic acid , 10 mg lactose , and 26 mg cysteine hydrochloride monohydrate .
+Trace amounts of chloride ion may be present from the manufacturing process .
+The package provides a single - dose , rubber - capped , 5 mL , brown - glass vial ( NDC 55566 - 0302 - 1 ) containing 100 mcg corticorelin ovine ( as the trifluoroacetate ) .
+ACTHREL ® is stable in the lyophilized form when stored refrigerated at 2 ° C to 8 ° C ( 36 ° F to 46 ° F ) and protected from light .
+The reconstituted solution is stable up to 8 hours under refrigerated conditions .
+Discard unused reconstituted solution .
+MANUFACTURED FOR : FERRING PHARMACEUTICALS INC .
+PARSIPPANY , NJ 07054 Origin Germany Rx only Rev . 09 / 2018 XXXXXXXXXX PRINCIPAL DISPLAY PANEL - 100 mcg Vial Label 100 mcg ACTHREL ® ( corticorelin ovine triflutate for injection ) NDC 55566 - 0302 - 1 Contains 100 mcg corticorelin ovine ( as the trifluoroacetate ) , 10 mg lactose , 0 . 88 mg ascorbic acid , and 26 mg cysteine hydrochloride monohydrate .
+Sterile .
+For intravenous use only .
+Reconstitute with sodium chloride injection immediately prior to use .
+Protect from light .
+Rx only .
+Dosage : See package insert .
+Store at refrigerator temperature 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Manufactured for : Ferring Pharmaceuticals Inc .
+Parsippany , NJ 07054 6010 – 06 Made in Germany LOT : EXP : 2008052635 [ MULTIMEDIA ] [ MULTIMEDIA ]

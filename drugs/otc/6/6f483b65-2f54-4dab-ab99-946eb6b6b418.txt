@@ -1,0 +1,353 @@
+Indications and Usage ( 1 ) 09 / 2020 Dosage and Administration ( 2 . 1 ) 09 / 2020 Warnings and Precautions ( 5 . 1 , 5 . 4 ) 09 / 2020 1 INDICATIONS AND USAGE IXINITY , Coagulation Factor IX ( Recombinant ) , is a human blood coagulation factor indicated for the treatment of : • Adults and children ≥ 12 years of age with hemophilia B for : • On - demand treatment and control of bleeding episodes • Perioperative management • Adults with hemophilia B for : • Routine prophylaxis to reduce the frequency of bleeding episodes IXINITY is not indicated for induction of immune tolerance in patients with hemophilia B [ see Warnings and Precautions ( 5 . 3 ) ] .
+IXINITY , Coagulation Factor IX ( Recombinant ) , is a human blood coagulation factor indicated for the treatment of : • Adults and children ≥ 12 years of age with hemophilia B for : • On - demand treatment and control of bleeding episodes ( 1 ) • Perioperative management ( 1 ) • Adults with hemophilia B for : • Routine prophylaxis to reduce the frequency of bleeding episodes ( 1 ) IXINITY is not indicated for induction of immune tolerance in patients with hemophilia B . ( 1 ) 2 DOSAGE AND ADMINISTRATION For intravenous use after reconstitution only .
+For intravenous use after reconstitution only .
+On - demand treatment and control of bleeding episodes and perioperative management of bleeding : • One international unit ( IU ) of IXINITY per kg body weight increases the circulating activity of factor IX by 0 . 98 IU / dL .
+( 2 . 1 ) Initial dose : • Required factor IX units ( IU ) = body weight ( kg ) x desired factor IX increase ( % of normal or IU / dL ) x reciprocal of observed recovery ( IU / kg per IU / dL ) .
+( 2 . 1 ) • The maintenance dose depends on the type of bleed or surgery , the intensity of the hemostatic challenge , and number of days until adequate wound healing is achieved .
+( 2 . 1 ) Routine prophylaxis : • 40 to 70 IU / kg twice weekly .
+( 2 . 1 ) 2 . 1 Dose • Each vial of IXINITY has the recombinant factor IX ( rFIX ) potency in international units ( IU ) stated on the vial .
+• Dosage and duration of treatment for factor IX products depend on the severity of the factor IX deficiency , the location and extent of bleeding , the patient ’ s clinical condition , age , and pharmacokinetic parameters of factor IX , such as incremental recovery and half - life .
+Initial Dose Calculate the initial dose of IXINITY based on the empirical finding that one international unit ( IU ) of IXINITY per kg body weight increases the circulating level of factor IX by 0 . 98 international units / dL ( IU / dL ) of plasma in adults and children ≥ 12 years of age .
+Initial Dose = body weight ( kg ) x desired factor IX increase ( % of normal or IU / dL ) × reciprocal of observed recovery ( IU / kg per IU / dL ) Incremental Recovery in Previously Treated Patients ( PTPs ) Base calculation of the dose on the patient ’ s individual incremental recovery using serial factor IX activity assays , to account for the wide range of inter - individual differences in incremental recovery and the type of aPTT reagent used for the assay .
+Titrate the dose based on the patient ’ s clinical response and individual pharmacokinetics , in particular incremental recovery and half - life .
+For an incremental recovery of 0 . 98 IU / dL per IU / kg , calculate the dose as follows : Dose ( IU ) = body weight ( kg ) x desired factor IX increase ( % of normal or IU / dL ) × 1 . 02 dL / kg Examples ( assuming patient ’ s baseline factor IX level is < 1 % of normal ) : • A dose of 4550 international units ( IUs ) of IXINITY administered to a 70 kg patient should be expected to result in a peak post - infusion factor IX increase of 4550 IU × ( 0 . 98 IU / dL per IU / kg ) / ( 70 kg ) = 64 IU / dL ( approximately 60 % of normal ) • A peak of 70 % is required in a 60 kg patient .
+The appropriate dose would be ( 60 kg × 70 IU / dL ) / ( 0 . 98 IU / dL per IU / kg ) = 4286 IU • Monitor factor IX activity to ensure that the desired factor IX activity level has been achieved [ see Warnings and Precautions ( 5 . 5 ) ] .
+• Titrate doses using factor IX activity and pharmacokinetic parameters such as half - life and incremental recovery , as well as by taking the clinical situation into consideration , to adjust the dose and frequency of repeated infusions as appropriate .
+• Factor IX activity measurements in the clinical laboratory may be affected by the type of activated partial thromboplastin time ( aPTT ) reagent or laboratory standard used [ see Warnings and Precautions ( 5 . 5 ) ] .
+On - demand Treatment and Control of Bleeding Episodes and Perioperative Management of Bleeding Guides for dosing IXINITY in the on - demand treatment and control of bleeding episodes ( Table 1 ) and perioperative management ( Table 2 ) are provided in the tables below .
+Individual patients may vary in their response to factor IX and may demonstrate different levels of in vivo recovery and different half - lives .
+For surgical procedures , initiate treatment with IXINITY early enough pre - operatively to achieve and maintain the desired factor IX level before starting the procedure .
+Routine Prophylaxis The dose for previously treated patients ( PTPs ) is 40 to 70 IU / kg twice weekly .
+Adjust the dose based on the individual patient ’ s bleeding pattern , and physical activity .
+Table 1 Dosing for On - demand Treatment and Control of Bleeding EpisodesAdapted from Srivastava et al . 2013 ( 1 ) .
+Type of Bleeding Episode Desired Peak Factor IX Level ( % of normal or IU / dL ) Dosing Interval ( hours ) Duration of therapy ( days ) Minor Early bleeds : uncomplicated hemarthroses and superficial muscle ( except iliopsoas ) with no neurovascular compromise , other soft tissue 30 - 60 24 1 - 3 , until healing is achieved Moderate Hemarthrosis of longer duration , recurrent hemarthrosis , mucous membranes , deep lacerations , hematuria 40 - 60 24 2 - 7 , until healing is achieved Major or Life Threatening Iliopsoas , deep muscle with neurovascular injury , substantial blood loss , CNS , pharyngeal , retropharyngeal , retroperitoneal 60 - 100 12 - 24 2 - 14 , until healing is achieved Table 2 Dosing for Perioperative ManagementAdapted from Srivastava et al . 2013 ( 1 ) .
+Type of Surgery Desired Peak Factor IX Level ( % of normal or IU / dL ) Dosing Interval ( hours ) Duration of therapy ( days ) Minor ( including uncomplicated dental extractions ) Pre - op 50 - 80 Post - op 30 - 80 24 1 - 5 , depending on type of procedure Major Pre - op 60 - 80 Post - op 40 - 60 30 - 50 20 - 40 8 - 24 1 - 3 4 - 6 7 - 14 2 . 2 Preparation and Reconstitution The procedures below are provided as general recommendations for the preparation and reconstitution of IXINITY .
+Before starting reconstitution and administration you will need the following items that are included in each kit of IXINITY : • One ( or more ) vial ( s ) of IXINITY 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU powder • One ( or more ) 10 mL syringe ( s ) , pre - filled with 5 mL of Sterile Water for Injection ( pre - filled syringe ) with plunger rod attached • One sterile vial adapter with filter In addition , you will need the following items that are not included in the kit : • One sterile LUER - LOK ™ syringe ( administration syringe ) ; additional or larger syringes may be required if pooling multiple vials • Sterile alcohol swabs • Sterile infusion set • Sterile gauze pad • Sterile bandage Always work on a clean surface and wash your hands before performing the following procedures : • Use aseptic technique during reconstitution procedure .
+• Allow IXINITY and the pre - filled syringe to reach room temperature before use .
+• Remove cap from the vial ( See Figure A ) .
+Peel back the cover of the vial adapter package ( leave the vial adapter in the package ) .
+[ MULTIMEDIA ] Figure A • Place the administration syringe , if using , and vial adapter on a clean flat work surface .
+• Twist off the cap of the pre - filled syringe and place it on the clean flat surface ( See Figure B ) .
+[ MULTIMEDIA ] Figure B • Wipe the top of the IXINITY vial with an alcohol swab ( or similar germicidal solution ) and allow it to dry .
+Place on a clean , flat surface .
+• Firmly hold the package containing the vial adapter on a clean , flat surface .
+Connect the pre - filled syringe to the vial adapter by pushing the syringe tip down onto the LUER - LOK in the center of the vial adapter , and screw until the syringe is secured ( See Figure C ) .
+[ MULTIMEDIA ] Figure C • Carefully lift up the combined syringe - and - vial - adapter and remove it from the plastic package ( See Figure D ) .
+[ MULTIMEDIA ] Figure D • With one hand , continue to hold the combined syringe - and - vial - adapter .
+With the other hand , hold the IXINITY vial tightly on a clean , flat surface .
+In a continuous motion , place the vial adapter over the IXINITY vial ; firmly push the filter spike of the vial adapter through the center of IXINITY vial ’ s rubber circle until the clear plastic cap snaps onto the IXINITY vial ( See Figure E ) .
+Push the plunger down to complete the transfer of all liquid from the syringe to the IXINITY vial .
+[ MULTIMEDIA ] Figure E • With the syringe and the vial still attached , gently swirl , in a circular motion , the IXINITY vial until the product is fully dissolved / reconstituted ( See Figure F ) .
+[ MULTIMEDIA ] Figure F • Remove the pre - filled syringe ( now empty ) from the vial adapter by turning it counterclockwise until it is completely detached ( See Figure G ) .
+[ MULTIMEDIA ] Figure G • Remove the administration syringe from its packaging .
+• Leave the vial adapter attached to the vial and attach the administration syringe to the vial adapter by turning clockwise until it is securely attached ( See Figure H ) .
+[ MULTIMEDIA ] Figure H • Keeping the administration syringe plunger pressed , turn the IXINITY vial upside down .
+Draw the solution from the vial through the filter spike in the vial adapter by pulling the plunger back slowly until all solution is transferred into the administration syringe ( See Figure I ) .
+[ MULTIMEDIA ] Figure I • Keep the administration syringe plunger facing downwards and prevent it from moving .
+With one hand hold the vial - and - vial - adapter , and with the other hand firmly grasp the barrel of the administration syringe and unscrew the syringe from the vial adapter ( See Figure J ) .
+[ MULTIMEDIA ] Figure J • If only dosing with a single vial , proceed to administer IXINITY via intravenous infusion ; otherwise proceed to Pooling Instructions .
+POOLING INSTRUCTIONS • 1 .
+If two or more vials are required to achieve the required dose , remove the pre - filled syringe from the vial adapter on the reconstituted second vial by turning it counterclockwise until it is completely detached .
+• 2 .
+Leave the vial adapter attached to the vial and attach the administration syringe containing the reconstituted IXINITY from the first vial by turning it clockwise until it is securely in place .
+• 3 .
+Turn the IXINITY vial upside down and slowly pull on the plunger rod to draw the solution into the administration syringe ( see Figure I ) .
+• 4 .
+Continue with remaining vials , if required .
+Once pooling is complete , proceed to administer IXINITY via intravenous infusion .
+• After reconstitution of the lyophilized powder , all dosage strengths should yield a clear , colorless solution without visible particles .
+Discard if visible particulate matter or discoloration is observed .
+• Infuse reconstituted solution immediately or within 3 hours of storage at room temperature after reconstitution .
+Do not refrigerate after reconstitution .
+• Do not touch the syringe tip or the inside of the cap .
+Place the syringe containing the IXINITY solution on the clean surface , making sure that the tip does not touch anything .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 2 . 3 Administration For intravenous use after reconstitution only .
+• Inspect parenteral drug products visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+• Do not mix IXINITY with other medicinal products for infusion .
+• Attach the administration syringe containing the reconstituted IXINITY solution to a sterile infusion set .
+• Adapt the infusion rate to the comfort level of each patient , not exceeding 10 mL per minute .
+• Record the name and batch number of the product in the patient record .
+Dispose of any unused product or waste material in accordance with local requirements .
+3 DOSAGE FORMS AND STRENGTHS IXINITY is available as a lyophilized white or almost white powder , in single - use glass vials containing nominally 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU per vial .
+IXINITY is available as a lyophilized white or almost white powder , in single - use glass vials containing nominally 250 , 500 , 1000 , 1500 , 2000 , or 3000 international units ( IU ) per vial ( 3 ) 4 CONTRAINDICATIONS IXINITY is contraindicated in patients who have known hypersensitivity to IXINITY or its excipients , including hamster protein [ see Warnings and Precautions ( 5 . 1 ) ] .
+Do not use in patients with known hypersensitivity to IXINITY or its excipients , including hamster protein ( 4 ) 5 WARNINGS AND PRECAUTIONS • Hypersensitivity reactions , including anaphylaxis has occurred .
+Should symptoms occur , discontinue IXINITY and administer appropriate treatment .
+Patients may also develop hypersensitivity to hamster ( CHO ) protein , which is present in trace amounts in the product ( 5 . 1 ) • Development of neutralizing antibodies ( inhibitors ) to IXINITY may occur .
+If expected factor IX activity plasma levels are not attained , or if bleeding is not controlled with an appropriate dose , perform an assay that measures factor IX inhibitor concentration ( 5 . 2 ) • Nephrotic syndrome has been reported following immune tolerance induction with factor IX products in hemophilia B patients with factor IX inhibitors ( 5 . 3 ) • Thromboembolism has occurred with IXINITY use ( 5 . 4 ) 5 . 1 Hypersensitivity Reactions Hypersensitivity reactions , including anaphylaxis , has occurred with IXINITY .
+Signs of allergic reactions , which can progress to anaphylaxis , include urticaria , angioedema , chest or throat tightness , hypotension , lethargy , nausea , vomiting , dysphagia , paresthesia , restlessness , wheezing and dyspnea .
+Immediately discontinue administration and initiate appropriate treatment if allergic or anaphylactic - type reactions occur .
+In case of severe allergic reactions , consider alternative hemostatic measures .
+There are literature reports of allergic reactions occurring in close temporal association with the development of factor IX inhibitors .
+IXINITY contains trace amounts of Chinese hamster ovary ( CHO ) proteins .
+Patients treated with this product may develop hypersensitivity to CHO proteins .
+5 . 2 Neutralizing Antibodies Development of neutralizing antibodies ( inhibitors ) to IXINITY may occur .
+If expected factor IX activity plasma levels are not attained , or if bleeding is not controlled as expected with the calculated dose , perform an assay that measures factor IX inhibitor concentration [ see Warnings and Precautions ( 5 . 5 ) ] .
+Patients with factor IX inhibitors are at an increased risk of severe hypersensitivity reactions or anaphylaxis if re - exposed to IXINITY .
+5 . 3 Nephrotic Syndrome Nephrotic syndrome may occur with IXINITY .
+Nephrotic syndrome has been reported following attempted immune tolerance induction in hemophilia B patients with factor IX inhibitors and a history of allergic reactions .
+5 . 4 Thromboembolism Thromboembolism has occurred with IXINITY use .
+Because of the potential risk for thromboembolism with the use of factor IX products , monitor for early signs of thromboembolism and consumptive coagulopathy when administering IXINITY to patients with liver disease , fibrinolysis , peri - operative status , or risk for thromboembolic events or disseminated intravascular coagulation .
+5 . 5 Monitoring Laboratory Tests • Monitor patients for factor IX activity levels with the one - stage clotting assay to confirm that adequate factor IX levels have been achieved and maintained , when clinically indicated .
+Factor IX results can be affected by the type of aPTT reagent used [ see Dosage and Administration ( 2 . 1 ) ] .
+• Monitor patients for the development of inhibitors if expected factor IX activity plasma levels are not attained , or if bleeding is not controlled with the recommended dose of IXINITY .
+Assays used to determine if factor IX inhibitor is present should be titered in Bethesda Units ( BUs ) .
+6 ADVERSE REACTIONS The most common adverse reaction ( > 2 % ) reported in clinical trials was headache .
+The most common adverse reaction observed in > 2 % of patients in clinical trials was headache ( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Aptevo BioTherapeutics at 1 - 844 - 859 - 6675 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice .
+A total of 14 adverse reactions were reported following IXINITY administration among 6 of the 77 subjects who received at least one dose of IXINITY in trials of previously treated patients ( PTPs ) , which included 11 subjects < 18 years of age .
+A total of 9641 infusions of IXINITY were administered to the 77 subjects .
+The adverse reactions that were assessed as probably or possibly related to study drug are provided in the table below .
+Table 3 Summary of Adverse ReactionsMedDRA Standard System Organ Class Adverse Reaction Number of Events Number of Subjects ( n = 77 ) ( % ) Congenital , familial and genetic disorders Hemophilia ( i . e . lack of efficacy ) 1 1 ( 1 . 3 % ) General disorders and administration site conditions Asthenia 1 1 ( 1 . 3 % ) Injection site discomfort 1 1 ( 1 . 3 % ) Infections and infestations Influenza 1 1 ( 1 . 3 % ) Nervous system disorders Headache 5 2 ( 2 . 6 % ) Dysgeusia 1 1 ( 1 . 3 % ) Lethargy 1 1 ( 1 . 3 % ) Psychiatric disorders Apathy 1 1 ( 1 . 3 % ) Depression 1 1 ( 1 . 3 % ) Skin and subcutaneous tissue disorders Rash pruritic 1 1 ( 1 . 3 % ) 6 . 2 Immunogenicity All subjects participating in the clinical trial were monitored for inhibitory and non - inhibitory antibodies to factor IX and antibodies for CHO proteins at the following time points ; pre - infusion , after the first 5 exposure days , and then every 3 months thereafter .
+No subjects in IXINITY clinical trials developed inhibitors to factor IX , including 55 subjects with more than 50 exposure days and 45 of those subjects with more than 100 exposure days .
+Non - inhibitory factor IX binding antibodies were detected in 30 % ( 23 / 77 ) of subjects , including 5 subjects positive at baseline .
+In three of the subjects , the non - inhibitory factor IX antibodies were persistent , while in the remainder the antibodies were sporadic and non - persistent .
+No clinical adverse findings related to non - inhibitory factor IX antibody formation were identified .
+Detection of non - inhibitory antibodies against factor IX has been reported following administration of other factor IX products .
+The clinical significance of this finding is unknown .
+In IXINITY clinical trials , 29 % ( 20 / 68 ) of subjects tested positive for antibodies against CHO cell proteins .
+No clinical adverse findings were associated with these antibodies .
+Reports have been published of sporadic detection of antibodies against CHO cell proteins in subjects treated with other recombinant coagulation factor products produced in CHO cells , as well as in non - hemophilic subjects ( 2 ) .
+The clinical significance of this is unknown .
+The manufacturing process for IXINITY was modified to include an additional step to ensure increased clearance of CHO proteins to address the anti - CHO protein response seen in clinical trials .
+The anti - CHO protein response status of the clinical trial subjects who transitioned to the modified product ( n = 17 ) remained negative ( n = 10 ) , stable / nonspecific assay binding ( n = 5 ) , or declined ( n = 2 ) after the transition to modified IXINITY for at least 3 months .
+The detection of antibody formation is dependent on the sensitivity and specificity of the assay .
+Additionally , the observed incidence of antibody positivity in an assay may be influenced by several factors including assay methodology , sample handling , timing of sample collection and concomitant medications .
+For these reasons , comparisons of the incidence of antibodies to IXINITY with the incidence of antibodies to other products may be misleading .
+6 . 3 Postmarketing Experience The following adverse reactions have been identified during post approval use of IXINITY .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Immune System Disorders : Anaphylaxis Vascular Disorders : Deep vein thrombosis The following class adverse reactions have been seen with another recombinant factor IX : inadequate factor IX recovery , inhibitor development , angioedema , hypotension , and thrombosis .
+8 USE IN SPECIFIC POPULATIONS 8 . 1 Pregnancy Risk Summary There are no data with IXINITY use in pregnant women to inform a drug - associated risk .
+Animal reproduction studies have not been conducted with IXINITY .
+In the U . S . general population , the estimated background risk of major birth defect and miscarriage in clinically recognized pregnancies is 2 - 4 % and 15 - 20 % , respectively .
+8 . 2 Lactation Risk Summary There is no information regarding the presence of IXINITY in human milk , the effect on the breastfed infant , or the effects on milk production .
+The developmental and health benefits of breastfeeding should be considered along with the mother ’ s clinical need for IXINITY and any potential adverse effects on the breastfed infant from IXINITY or from the underlying maternal condition .
+8 . 4 Pediatric Use The safety and effectiveness of IXINITY in pediatric patients below the age of 12 years have not been established .
+8 . 5 Geriatric Use Clinical studies of IXINITY did not include subjects aged 65 and over .
+It is not known whether elderly patients respond differently than younger patients .
+Individualize dose selection for elderly patients [ see Dosage and Administration ( 2 . 1 ) ] .
+11 DESCRIPTION IXINITY [ coagulation factor IX ( recombinant ) ] is a purified protein that has 415 amino acids .
+It has an amino acid sequence that is comparable to the Thr148 allelic form of plasma - derived factor IX .
+Coagulation factor IX ( recombinant ) is a single - chain glycoprotein with a molecular mass of about 55 , 000 Dalton that is secreted by a genetically engineered mammalian cell line derived from Chinese hamster ovary ( CHO ) cells .
+No human or animal proteins are added during any stage of manufacturing or formulation of IXINITY .
+The CHO cell line secretes recombinant factor IX into a defined cell culture medium that does not contain hormones .
+The recombinant factor IX is purified by a chromatography purification process .
+The process includes three validated steps for virus inactivation and removal , namely , solvent / detergent treatment , a chromatographic step , and nanofiltration .
+The process also includes a validated step to reduce the presence of CHO proteins in the final drug product .
+IXINITY is formulated as a sterile , nonpyrogenic lyophilized powder to be reconstituted with Sterile Water for Injection for intravenous administration .
+It does not contain any preservatives and is available in single - use vials containing the labeled amount of factor IX activity , expressed in international units ( IU ) .
+Each vial contains nominally 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU of recombinant coagulation factor IX .
+After reconstitution of the lyophilized powder , all dosage strengths yield a clear , colorless solution .
+The concentrations of excipients are : Excipient Concentration Histidine 10 mM Mannitol 3 % Trehalose Dihydrate 1 % Sodium Chloride 66 mM Polysorbate 80 0 . 0075 % 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Hemophilia B is a sex - linked hereditary disorder of blood coagulation caused by a deficiency in factor IX and results in bleeding into joints , muscles or internal organs , either spontaneously or as a result of accidental or surgical trauma .
+Treatment with IXINITY replaces factor IX , thereby enabling a temporary correction of the factor deficiency and correction of the bleeding tendencies .
+12 . 2 Pharmacodynamics The administration of IXINITY increases plasma levels of factor IX and can temporarily correct the coagulation defect in these patients , as reflected by decrease in the aPTT .
+12 . 3 Pharmacokinetics Pharmacokinetic studies with IXINITY were conducted in 32 previously treated patients ( PTPs ) ≥ 12 years of age with severe to moderately severe hemophilia B ( factor IX ≤ 2 IU / dL ) .
+Intravenous administration of 75 ± 5 IU / kg of IXINITY to 32 PTPs showed an initial recovery ranging from 51 to 113 % ( median 70 % ) .
+The results of pharmacokinetic studies are summarized below in Table 4 .
+Table 4 Pharmacokinetic Parameters for IXINITY ( n = 32 ) Parameters Mean ( ± SD ) ( Range ) AUC0 –∞ ( IU / dL / hr ) 1573 ( ± 451 ) ( 862 - 2643 ) Incremental Recovery ( IU / dL per IU / kg ) 0 . 98 ( ± 0 . 21 ) ( 0 . 67 - 1 . 50 ) Terminal Half - life ( hours ) 24 ( ± 7 ) ( 13 - 43 ) Cmax ( IU / dL ) 73 ( ± 17 ) ( 51 - 113 ) Mean Residence Time ( hours ) 32 ( ± 6 ) ( 19 - 47 ) VDss ( mL / kg ) 175 ( ± 57 ) ( 102 - 314 ) Clearance [ mL / ( kg · hr ) ] 5 . 1 ( ± 1 . 3 ) ( 2 . 8 - 7 . 7 ) Pharmacokinetic parameters were re - assessed in a subset of 14 subjects after routine treatment with IXINITY for a median of 5 . 8 months ( range 3 . 1 to 18 . 6 months ) as summarized in Table 5 below .
+Table 5 Pharmacokinetic Parameters for IXINITY Following Repeat - Dosing ( n = 14 ) Parameters Initial Mean ( ± SD ) Repeat - Dosing PK Mean ( ± SD ) AUC0 –∞ ( IU / dL / hr ) 1438 ( ± 409 ) 1530 ( ± 435 ) Incremental Recovery ( IU / dL per IU / kg ) 0 . 96 ( ± 0 . 22 ) 0 . 95 ( ± 0 . 18 ) Terminal Half - life ( hours ) 24 ( ± 7 ) 24 ( ± 6 ) Cmax ( IU / dL ) 73 ( ± 16 ) 73 ( ± 15 ) Mean Residence Time ( hours ) 30 ( ± 6 ) 31 ( ± 5 ) VDss ( mL / kg ) 193 ( ± 62 ) 185 ( ± 70 ) Clearance [ mL / ( kg · hr ) ] 5 . 6 ± ( 1 . 3 ) 5 . 3 ( ± 1 . 5 ) Repeat dosing did not impact the pharmacokinetics of IXINITY .
+The PK data were divided into two subgroups of subjects with a BMI ≤ 30 ( n = 26 ) or BMI > 30 ( n = 6 ) .
+The AUC ( 0 - ∞ ) and Cmax values of IXINITY were 40 % and 34 % higher , respectively , in subjects with BMI > 30 .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No macroscopic or microscopic pathologies in reproductive organs were observed in repeated dose toxicity studies of IXINITY in animals .
+Animal studies regarding impairment of fertility were not conducted .
+No nonclinical investigations of genotoxicity , carcinogenicity , or toxicity to reproduction and development have been conducted with IXINITY .
+14 CLINICAL STUDIES The efficacy of IXINITY was evaluated in a prospective , open - label , uncontrolled multicenter study in which a total of 77 subjects ( 76 male , 1 female carrier in surgery study ) were exposed to IXINITY for treatment of hemophilia B or for perioperative management .
+All male subjects either had severe or moderately severe ( factor IX level ≤ 2 IU / dL ) hemophilia B , or had factor IX levels between 2 - 8 IU / dL and clinically severe hemophilia B with recurrent hemarthroses and required surgery ( n = 3 in surgery study , 1 continued to treatment phase ) .
+Previously treated patients ( PTPs ) were defined as patients with a minimum of 150 exposures to another factor IX preparation .
+Of the 77 subjects , 68 PTPs between 7 and 64 years of age received IXINITY either as routine prophylaxis or on - demand treatment .
+Routine prophylaxis treatment was defined as PTPs who received a starting dose of 40 - 70 international units ( IU ) per kg twice weekly .
+Excluded from the study were patients with a history of a detectable factor IX inhibitor ( ≥ 0 . 6 BU ) , a history of hypersensitivity reactions following exposure to factor IX - containing products , a known allergic reaction to hamster proteins , evidence of severe liver impairment , evidence of impaired renal function , CD4 count < 400 cells / mm3 , or any coagulation defect other than hemophilia B .
+In addition , there was a prospective , open - label , uncontrolled , multicenter substudy where 17 subjects ( 16 male , 1 female carrier ) underwent surgeries ( 19 major procedures in males ) receiving IXINITY for perioperative management ; some of the surgery subjects also participated in the treatment trial .
+Of the 68 PTPs in the treatment group , subjects were primarily prescribed a routine prophylaxis ( n = 58 ) or an on - demand regimen ( n = 9 ) ; one subject was not assigned a regimen .
+Subjects were allowed to switch regimens during the course of the study .
+As a result , 61 subjects were treated at some point with routine prophylaxis treatment and 12 were treated at some point with an on - demand regimen .
+Subjects in the routine prophylaxis therapy group received mean intravenous doses of 55 ± 12 . 8 IU / kg of IXINITY twice weekly .
+Subjects in the on - demand therapy group received mean doses of 60 ± 18 . 2 IU / kg ( median 59 . 3 , interquartile range 49 . 9 , 71 . 8 ) for bleeding episodes .
+The mean number of exposure days ( ED ) was 138 . 2 ( median 127 . 5 ) , including 45 subjects with ≥ 100 ED and 55 subjects with ≥ 50 ED .
+Median duration on study for the on - demand group was 14 . 1 months ( range 2 . 3 - 36 . 9 ) .
+Prophylaxis and Reduction of Bleeding Episodes In the prophylaxis arm , the mean annualized bleed rate ( ABR ) was 3 . 55 ( Table 6 ) .
+Table 6 Efficacy of Prophylaxis with IXINITY ( N = 61 ) Total ABR Mean ± SD 3 . 55 ± 7 . 19 Median ( IQR ) 1 . 52 ( 0 – 3 . 47 ) Spontaneous ABR Mean ± SD 1 . 07 ± 3 . 06 Median ( IQR ) 0 . 00 ( 0 – 1 . 22 ) Subjects with zero bleeding episodes % ( n ) 31 . 1 % ( 19 ) Control of Bleeding Episodes A total of 508 bleeding episodes were treated with IXINITY , of which 286 bleeds were recorded for subjects treated with the routine prophylaxis treatment regimen and 222 with the on - demand regimen .
+Bleeding resolved in 360 episodes ( 70 . 9 % ) after a single infusion of IXINITY and in 66 ( 13 . 0 % ) episodes after two infusions .
+For 24 bleeding episodes ( 4 . 7 % ) , five or more infusions were required ; these 24 bleeding episodes were predominantly related to trauma , target joints , or muscle bleeds .
+Hemostatic efficacy to resolve a bleed was rated by subjects as excellent or good in 84 % of treated bleeding episodes .
+Excellent was defined as a dramatic response with abrupt pain relief and clear reduction in joint or hemorrhage site size , and good was defined as pain relief or reduction in hemorrhage size that may have required an additional infusion for resolution .
+Perioperative Management The efficacy analysis of IXINITY in perioperative management included 19 major surgeries performed in 16 male PTPs between 12 and 56 years of age ( female carrier not included in efficacy analysis ) .
+Efficacy of IXINITY for support of major surgery was based on the surgeon ’ s assessment of efficacy including : a ) at the time of surgery as estimation of blood loss as ‘ less than expected ’ , ‘ expected ’ , or ‘ more than expected ’ ; and b ) at 12 and 24 hours post - surgical assessments of hemostasis as ‘ adequate ’ , ‘ better than adequate ’ , or ‘ poorly controlled ’ .
+Transfusion requirements to support surgery were also monitored .
+There were no transfusions required during the procedures .
+IXINITY was administered during major surgical procedures as bolus ( n = 13 ) or continuous infusion ( n = 6 ) .
+IXINITY was rated as adequate or better in controlling hemostasis post - surgery as assessed by the surgeon when used in various procedures , including , knee arthroplasty ( n = 8 ) , elbow arthroplasty ( n = 2 ) , knee amputation ( n = 1 ) , percutaneous Achilles tendon lengthening ( n = 1 ) , open inguinal hernia repair ( n = 1 ) , tibiotalar fusion ( n = 1 ) , arthroscopic synovectomy ( n = 2 ) , and debridement ( ankle , knee ) ( n = 3 ) .
+In all instances , blood loss at surgery was ‘ expected ’ or ‘ less than expected ’ as assessed by the surgeon .
+15 REFERENCES • Srivastava A , et al .
+World Federation of Hemophilia , Guidelines for the management of hemophilia .
+Haemophilia .
+2013 ; 19 : e1 – e47 .
+• Ingerslev J , Christiansen K , Ravn HB , et al .
+Antibodies to heterologous proteins in hemophilia A patients receiving recombinant factor VIII ( Recombinate ™ ) .
+Thromb Haemost .
+2002 ; 87 : 626 – 634 .
+16 HOW SUPPLIED / STORAGE AND HANDLING IXINITY is supplied as a lyophilized powder in single - use glass vials containing the labeled amount of factor IX activity , expressed in international units ( IU ) .
+The actual factor IX activity in IU is stated on the label of each vial .
+Kits include one single - use vial ( containing nominally 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU per vial ) , a 10 mL syringe pre - filled with 5 mL of Sterile Water for Injection with plunger rod attached , and a vial adapter with filter .
+None of the kit components are made with natural rubber latex .
+Color Code Nominal Strength Kit NDC Number Yellow 250 IU 70504 - 0287 - 5 Blue 500 IU 70504 - 0282 - 5 Green 1000 IU 70504 - 0283 - 5 Orange 1500 IU 70504 - 0284 - 5 Red 2000 IU 70504 - 0288 - 5 Brown 3000 IU 70504 - 0289 - 5 250 IU strength only ; store at 2 to 8 ° C ( 36 to 46 ° F ) .
+500 , 1000 , 1500 , 2000 , and 3000 IU strengths : store at 2 to 25 ° C ( 36 to 77 ° F ) .
+Do not freeze .
+Keep the vial in the carton and protect from light .
+Infuse reconstituted solution immediately or within 3 hours of storage at room temperature after reconstitution .
+Do not refrigerate after reconstitution .
+17 PATIENT COUNSELING INFORMATION • Advise patients to read the FDA - approved patient labeling ( Patient Information and Instructions for Use ) .
+• Inform patients of the early signs of hypersensitivity reactions ( including hives , generalized urticaria , chest tightness , wheezing , and hypotension ) and anaphylaxis .
+Instruct patients to discontinue use of the product and contact their physician if these symptoms occur .
+• Advise patients to contact their physician or treatment facility for further treatment and / or assessment if they experience a lack of clinical response to factor IX replacement therapy , as in some cases this may be a manifestation of an inhibitor .
+Manufactured by : Aptevo BioTherapeutics LLC Seattle WA , 98121 U . S . License No . 2054 Patient Information IXINITY ® [ coagulation factor IX ( recombinant ) ] This leaflet summarizes important information about IXINITY .
+Please read it carefully before using this medicine .
+This information does not take the place of talking with your healthcare provider , and it does not include all of the important information about IXINITY .
+If you have any questions after reading this , ask your healthcare provider .
+What is IXINITY ?
+IXINITY is a medicine used to replace clotting factor ( factor IX ) that is missing in people with hemophilia B . Hemophilia B is also called congenital factor IX deficiency or Christmas disease .
+Hemophilia B is an inherited bleeding disorder that prevents clotting .
+Your healthcare provider may give you IXINITY when you have surgery .
+Who should not use IXINITY ?
+You should not use IXINITY if you : • Are allergic to hamsters • Are allergic to any ingredients in IXINITY Tell your healthcare provider if you are pregnant or breastfeeding because IXINITY may not be right for you .
+What should I tell my healthcare provider before using IXINITY ?
+You should tell your healthcare provider if you : • Have or have had any medical problems • Take any medicines , including prescription and non - prescription medicines , such as over - the - counter medicines , supplements , or herbal remedies • Have any allergies , including allergies to hamsters • Are breastfeeding .
+It is not known if IXINITY passes into your milk and if it can harm your baby • Are pregnant or planning to become pregnant .
+It is not known if IXINITY may harm your baby • Have been told that you have inhibitors to factor IX ( because IXINITY may not work for you ) How should I infuse IXINITY ?
+IXINITY is given directly into the bloodstream .
+IXINITY should be administered as ordered by your healthcare provider .
+You should be trained on how to do infusions by your healthcare provider or hemophilia treatment center .
+Many people with hemophilia B learn to infuse their IXINITY by themselves or with the help of a family member .
+See the step - by - step guide ( Instructions for Use ) provided at the end of this leaflet .
+Your healthcare provider will tell you how much IXINITY to use based on your weight , the severity of you hemophilia B , and where you are bleeding .
+You may have to have blood tests done after getting IXINITY to be sure that your blood level of factor IX is high enough to stop the bleeding .
+Call you healthcare provider right away if your bleeding does not stop after taking IXINITY .
+What are the possible side effects of IXINITY ?
+Allergic reactions may occur with IXINITY .
+Call your healthcare provider or get emergency treatment right away if you get any of the following symptoms : rash , hives , itching , tightness of the throat , chest pain or tightness , difficulty breathing , lightheadedness , dizziness , nausea , or fainting .
+Tell your healthcare provider about any side effect that bothers you or does not go away .
+The most common side effect of IXINITY in clinical trials was headache .
+These are not all the side effects possible with IXINITY .
+You can ask your healthcare provider for information that is written for healthcare professionals .
+Call your healthcare provider for medical advice about side effects .
+You may report side effects to the FDA at 1 - 800 - FDA - 1088 .
+What are the IXINITY dosage strengths ?
+IXINITY comes in vials containing six different dosage strengths : 250 , 500 , 1000 , 1500 , 2000 and 3000 international units ( IU ) .
+The actual strength will be printed on the label of the vial and on the box .
+The six different strengths in the vials are color coded as follows : Color Code Nominal Strength Yellow 250 IU Blue 500 IU Green 1000 IU Orange 1500 IU Red 2000 IU Brown 3000 IU Always check the actual dosage strength printed on the label to make sure you are using the strength prescribed by your healthcare provider .
+How should I store IXINITY ?
+250 IU strength only ; store at 2 to 8 ° C ( 36 to 46 ° F ) .
+Do not freeze .
+500 , 1000 , 1500 , 2000 , and 3000 IU strengths ; store at 2 to 25 ° C ( 36 to 77 ° F ) .
+Do not freeze .
+Do not use IXINITY after the expiration date printed on the label .
+Throw away any unused IXINITY and diluents after it reaches this date .
+Reconstituted product ( after mixing dry product with Sterile Water for Injection ) must be used within 3 hours and cannot be stored or refrigerated .
+Discard any IXINITY left in the vial at the end of your infusion .
+What else should I know about IXINITY ?
+Your body may form inhibitors to factor IX .
+An inhibitor is part of the body ’ s immune system .
+If you form inhibitors , it may stop IXINITY from working properly .
+Consult with your healthcare provider to make sure you are carefully monitored with blood tests to check for the development of inhibitors to factor IX .
+Consult your doctor promptly if bleeding is not controlled with IXINITY as expected .
+Medicines are sometimes prescribed for purposes other than those listed here .
+Do not use IXINITY for a condition for which it is not prescribed .
+Do not share IXINITY with other people , even if they have the same symptoms as you .
+Resources available to patients For information on patient assistance programs that may be available to you , please call our IXINITY Patient Care Center at 1 - 855 - IXINITY ( 1 - 855 - 494 - 6489 ) .
+Manufactured by : Aptevo BioTherapeutics LLC Seattle WA , 98121 U . S . License No . 2054 Instructions for Use IXINITY [ coagulation factor IX ( recombinant ) ] For intravenous use after reconstitution only Do not attempt to do an infusion to yourself unless you have been taught how by your healthcare provider or hemophilia center .
+Always follow the specific instructions given by your healthcare provider .
+The steps listed below are general guidelines for using IXINITY .
+If you are unsure of the procedures , please call your healthcare provider before using IXINITY .
+Your healthcare provider will prescribe the dose that you should take .
+Before starting reconstitution and administration you will need the following items that are included in each kit of IXINITY : • One ( or more ) vial ( s ) of IXINITY 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU powder , as prescribed by your healthcare provider • One ( or more ) 10 mL syringe ( s ) , pre - filled with 5 mL of Sterile Water for Injection ( pre - filled syringe ) with plunger rod attached • Sterile vial adapter with filter In addition , you will need the following items that are not included in the kit : • One sterile LUER - LOK syringe ( administration syringe ) ; additional or larger syringes may be required if pooling multiple vials • Sterile alcohol swabs • Sterile infusion set • Sterile gauze pad • Sterile bandage IXINITY is supplied in kits that include single - use vials which contain vials of IXINITY ( 250 , 500 , 1000 , 1500 , 2000 , or 3000 IU of powder ) , a 10 mL syringe pre - filled with 5 mL of Sterile Water for Injection with plunger rod attached ( to be used for reconstitution only ) , and a sterile vial adapter with filter .
+[ MULTIMEDIA ] RECONSTITUTION INSTRUCTIONS Wash your hands and then clean a flat area before starting the steps for reconstituting IXINITY .
+Use an aseptic technique during reconstitution .
+1 .
+Remove the pre - filled syringe and IXINITY vial from storage and allow them to reach room temperature before use .
+Check the expiration date on the IXINITY vial .
+2 .
+Remove the plastic cap from the IXINITY vial and place the vial top up on the clean surface .
+You will see a rubber circle on the top of the vial .
+[ MULTIMEDIA ] 3 .
+Wipe the top of the IXINITY vial with a sterile alcohol swab and allow it to dry .
+After cleaning , do not touch the rubber circle with your hands or allow it to touch another object .
+4 .
+Peel back the paper cover of the vial adapter package .
+Be careful not to touch the LUER - LOK ( tip ) in the center of the vial adapter .
+Do not remove the adapter from the package .
+[ MULTIMEDIA ] 5 .
+Leave the vial adapter in the package and place it open end up on the clean surface with the LUER - LOK pointing up .
+6 .
+Twist off the tip cap counterclockwise from the pre - filled syringe .
+Do not touch the inside of the cap or the syringe tip .
+[ MULTIMEDIA ] 7 .
+While firmly holding the package containing the adapter with one hand and the barrel of the pre - filled syringe with the other , connect the pre - filled syringe to the vial adapter by pushing the syringe tip down onto the LUER - LOK in the center of the vial adapter , turning clockwise until the syringe is secured .
+[ MULTIMEDIA ] 8 .
+Carefully lift up the combined syringe - and - vial - adapter and remove it from the plastic package and discard packaging .
+[ MULTIMEDIA ] 9 .
+With one hand , continue to hold the combined syringe - and - vial - adapter .
+With the other hand , hold the IXINITY vial tightly on the clean , flat surface .
+Do not touch the top of the IXINITY vial or the filter spike of the combined syringe and vial adapter .
+10 .
+Place the vial adapter over the IXINITY vial on the table ; firmly push the filter spike of the vial adapter through the center of the IXINITY vial rubber circle until the clear plastic cap snaps onto the IXINITY vial .
+[ MULTIMEDIA ] 11 .
+Slowly push the plunger rod down to transfer all of the liquid from the syringe into the IXINITY vial .
+• With the syringe and the vial still attached , gently swirl , in a circular motion , the IXINITY vial until the product is fully dissolved .
+IXINITY is a clear , colorless solution without visible particles .
+Inspect the final solution for specks before administration .
+Do not use contents of vial if specks or particles persist after proper reconstitution .
+12 .
+NOTE : If you use more than one vial of IXINITY per infusion , reconstitute each vial as per the previous instructions .
+[ MULTIMEDIA ] 13 .
+Remove the diluent syringe from the vial adapter by turning syringe counterclockwise until it is completely detached .
+Do not touch the luer tip of the vial adapter .
+[ MULTIMEDIA ] 14 .
+Remove the LUER - LOK syringe ( administration syringe ) from its sterile packaging , taking care to not touch the luer tip of the syringe .
+Attach to the reconstituted vial and vial adapter by turning syringe clockwise until it is securely attached .
+[ MULTIMEDIA ] 15 .
+Press and keep the plunger down and turn the IXINITY vial / vial adapter / administration syringe upside down to transfer the solution .
+Draw up the solution into the administration syringe slowly until all solution is transferred into the syringe .
+Inspect the vial to confirm as much liquid as possible has been extracted into the administration syringe .
+NOTE : If you use more than one vial of IXINITY per infusion , extract reconstituted liquid from each vial , as per the previous instructions .
+[ MULTIMEDIA ] 16 .
+Hold onto the vial adapter with one hand and firmly grasp the administration syringe with the other and unscrew the administration syringe from the vial adapter turning either counterclockwise .
+Do not touch the tip of the syringe to any object or surface .
+NOTE : If multiple reconstituted vials are required for infusion , do not detach the large LUER - LOK administration syringe from the first vial until you are ready to attach the next vial ( with vial adapter attached ) .
+[ MULTIMEDIA ] 17 .
+Prior to administering the solution , invert the administration syringe so that the tip is pointed toward the ceiling and express any air in the syringe .
+Place the administration syringe containing the IXINITY solution on the clean surface , making sure that the tip does not touch anything .
+The reconstituted solution should be infused immediately or within 3 hours of storage at room temperature after reconstitution .
+NOTE : The luer tip of the syringe must not be touched by any objects or surfaces , when disconnecting the syringe from the vial adapter , and when transferring the administration syringe to the infusion set .
+If you are using more than one vial , stop here and proceed to the Pooling Instructions .
+POOLING INSTRUCTIONS POOLING is the process of combining two or more reconstituted vials into a larger administration syringe prior to intravenous administration .
+Do not detach the large LUER - LOK administration syringe until you are ready to attach the next vial ( with vial adapter attached ) .
+Follow the instructions above for reconstitution of the second vial .
+• Remove the administration syringe from the first vial adapter by turning it counter clockwise until it is completely detached .
+• Attach the administration syringe to the second reconstituted vial by turning clockwise until it is securely attached .
+• Turn the IXINITY vial / vial adapter / administration syringe upside down , slowly pull on the plunger rod to draw the solution into the administration syringe ( see Step 15 above ) .
+Repeat this POOLING procedure with each vial you will be using .
+Once you have pooled the required dose , proceed to administration using the administration syringe .
+ADMINISTRATION INSTRUCTIONS For intravenous use after reconstitution only .
+IXINITY is administered by intravenous ( IV ) infusion after reconstitution with diluent ( Sterile Water for Injection ) supplied in the pre - filled syringe .
+IXINITY must not be mixed with other medicinal products for infusion .
+Reconstituted IXINITY must be pulled into an administration syringe prior to infusion .
+IXINITY is normally administered intravenously over about 5 minutes at a maximum infusion rate of 10 mL per minute .
+The infusion rate should be adapted to the comfort level of each patient .
+• Attach the administration syringe containing the reconstituted IXINITY solution to the luer end of the sterile infusion set .
+Inspect for and remove any air bubbles in the infusion set and administration syringe .
+NOTE : The luer tip of the administration syringe and the luer connection of the infusion set must not be touched by any object or surface , prior to connection of the administration syringe .
+• Transfer IXINITY solution into the tube by pressing the syringe plunger until the tubing is completely filled .
+Once again , inspect for and remove any air bubbles in the infusion set and administration syringe .
+• Perform venipuncture as directed by your healthcare provider .
+• Limit the amount of blood entering the tubing .
+Blood must never enter the syringe .
+If blood is observed in the tubing or syringe , discard all material and resume administration with a new package .
+• Following completion of the infusion , remove the infusion set , press the sterile gauze on the infusion site until bleeding has stopped , then apply a sterile bandage .
+The amount of drug product remaining in the infusion set should be minimal .
+Log the batch number of the IXINITY used ; it is located on the container .
+Dispose of all unused solution , empty vials , and used needles and syringes in an appropriate container for throwing away medical waste as it may hurt others if not handled properly .
+Contact your healthcare provider or local hemophilia treatment center if you experience any problems .
+IXINITY ® coagulation factor IX ( recombinant ) and any and all Aptevo BioTherapeutics LLC brand , product , service and feature names , logos , and slogans are trademarks or registered trademarks of Aptevo BioTherapeutics LLC in the United States or other countries .
+All rights reserved .
+LUER - LOK ™ is a trademark of Becton , Dickinson and Company .
+All other brand , product , service and feature names or trademarks are the property of their respective owners .
+Manufactured by : Aptevo BioTherapeutics LLC Seattle WA , 98121 U . S . License No . 2054 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0275 - 1 - 250 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0287 - 5 - 250 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0270 - 1 - 500 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0282 - 5 - 500 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0271 - 1 - 1000 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0283 - 5 - 1000 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0272 - 1 - 1500 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0284 - 5 - 1500 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0276 - 1 - 2000 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0288 - 5 - 2000 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0277 - 1 - 3000 IU Single - Use Vial Label [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0289 - 5 - 3000 IU Kit Carton [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - NDC : 70504 - 0280 - 1 - Water for Injection 5 mL Single - Use Syringe Label [ MULTIMEDIA ] [ MULTIMEDIA ]

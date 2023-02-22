@@ -1,0 +1,202 @@
+DESCRIPTION Cyanocobalamin is a synthetic form of vitamin B12 with equivalent vitamin B12 activity .
+The chemical name is 5 , 6 - dimethyl - benzimidazolyl cyanocobamide .
+The cobalt content is 4 . 35 % .
+The molecular formula is C63H88CoN14O14P , which corresponds to a molecular weight of 1355 . 38 and the following structural formula : [ MULTIMEDIA ] Cyanocobalamin occurs as dark red crystals or orthorhombic needles or crystalline red powder .
+It is very hygroscopic in the anhydrous form , and sparingly to moderately soluble in water ( 1 : 80 ) .
+Its pharmacologic activity is destroyed by heavy metals ( iron ) and strong oxidizing or reducing agents ( vitamin C ) , but not by autoclaving for short periods of time ( 15 - 20 minutes ) at 121 ° C .
+The vitamin B12 coenzymes are very unstable in light .
+Nascobal ® Nasal Spray is a solution of Cyanocobalamin , USP ( vitamin B12 ) for administration as a spray to the nasal mucosa .
+Each bottle of Nascobal Nasal Spray contains 1 . 3 mL of a 500 mcg / 0 . 1 mL solution of cyanocobalamin with sodium citrate , citric acid , and glycerin and benzalkonium chloride in purified water .
+The spray solution has a pH between 4 . 5 and 5 . 5 .
+The spray pump unit must be fully primed ( see Dosage and Administration ) prior to initial use .
+After initial priming , each spray delivers an average of 500 mcg of cyanocobalamin and the 1 . 3 mL of spray solution contained in the bottle will deliver 4 doses of Nascobal Nasal Spray .
+The unit must be re - primed before each dose .
+( see Dosage and Administration ) .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY GENERAL PHARMACOLOGY AND MECHANISM OF ACTION Vitamin B12 is essential to growth , cell reproduction , hematopoiesis , and nucleoprotein and myelin synthesis .
+Cells characterized by rapid division ( e . g . , epithelial cells , bone marrow , myeloid cells ) appear to have the greatest requirement for vitamin B12 .
+Vitamin B12 can be converted to coenzyme B12 in tissues , and as such is essential for conversion of methylmalonate to succinate and synthesis of methionine from homocysteine , a reaction which also requires folate .
+In the absence of coenzyme B12 , tetrahydrofolate cannot be regenerated from its inactive storage form , 5 - methyltetrahydrofolate , and a functional folate deficiency occurs .
+Vitamin B12 also may be involved in maintaining sulfhydryl ( SH ) groups in the reduced form required by many SH - activated enzyme systems .
+Through these reactions , vitamin B12 is associated with fat and carbohydrate metabolism and protein synthesis .
+Vitamin B12 deficiency results in megaloblastic anemia , GI lesions , and neurologic damage that begins with an inability to produce myelin and is followed by gradual degeneration of the axon and nerve head .
+Cyanocobalamin is the most stable and widely used form of vitamin B12 , and has hematopoietic activity apparently identical to that of the antianemia factor in purified liver extract .
+The information below , describing the clinical pharmacology of cyanocobalamin , has been derived from studies with injectable vitamin B12 .
+Vitamin B12 is quantitatively and rapidly absorbed from intramuscular and subcutaneous sites of injection .
+It is bound to plasma proteins and stored in the liver .
+Vitamin B12 is excreted in the bile and undergoes some enterohepatic recycling .
+Absorbed vitamin B12 is transported via specific B12 binding proteins , transcobalamin I and II , to the various tissues .
+The liver is the main organ for vitamin B12 storage .
+Parenteral ( intramuscular ) administration of vitamin B12 completely reverses the megaloblastic anemia and GI symptoms of vitamin B12 deficiency ; the degree of improvement in neurologic symptoms depends on the duration and severity of the lesions , although progression of the lesions is immediately arrested .
+Gastrointestinal absorption of vitamin B12 depends on the presence of sufficient intrinsic factor and calcium ions .
+Intrinsic factor deficiency causes pernicious anemia , which may be associated with subacute combined degeneration of the spinal cord .
+Prompt parenteral administration of vitamin B12 prevents progression of neurologic damage .
+The average diet supplies about 4 to 15 mcg / day of vitamin B12 in a protein - bound form that is available for absorption after normal digestion .
+Vitamin B12 is not present in foods of plant origin , but is abundant in foods of animal origin .
+In people with normal absorption , deficiencies have been reported only in strict vegetarians who consume no products of animal origin ( including no milk products or eggs ) .
+Vitamin B12 is bound to intrinsic factor during transit through the stomach ; separation occurs in the terminal ileum in the presence of calcium , and vitamin B12 enters the mucosal cell for absorption .
+It is then transported by the transcobalamin binding proteins .
+A small amount ( approximately 1 % of the total amount ingested ) is absorbed by simple diffusion , but this mechanism is adequate only with very large doses .
+Oral absorption is considered too undependable to rely on in patients with pernicious anemia or other conditions resulting in malabsorption of vitamin B12 .
+Colchicine , para - aminosalicylic acid , and heavy alcohol intake for longer than 2 weeks may produce malabsorption of vitamin B12 .
+PHARMACOKINETICS Absorption A three way crossover study in 25 fasting healthy subjects was conducted to compare the bioavailability of the B12 nasal spray to the B12 nasal gel and to evaluate the relative bioavailability of the nasal formulations as compared to the intramuscular injection .
+The peak concentrations after administration of intranasal spray were reached in 1 . 25 + / - 1 . 9 hours .
+The average peak concentration of B12 obtained after baseline correction following administration of intranasal spray was 757 . 96 + / - 532 . 17 pg / mL .
+The bioavailability of the nasal spray relative to the intramuscular injection was found to be 6 . 1 % .
+The bioavailability of the B12 nasal spray was found to be 10 % less than the B12 nasal gel .
+The 90 % confidence intervals for the loge - transformed AUC ( 0 - t ) and Cmax was 71 . 71 % - 114 . 19 % and 71 . 6 % - 118 . 66 % respectively .
+In pernicious anemia patients , once weekly intranasal dosing with 500 mcg B12 gel resulted in a consistent increase in pre - dose serum B12 levels during one month of treatment ( p < 0 . 003 ) above that seen one month after 100 mcg intramuscular dose ( Figure ) .
+Distribution In the blood , B12 is bound to transcobalamin II , a specific B - globulin carrier protein , and is distributed and stored primarily in the liver and bone marrow .
+Elimination About 3 - 8 mcg of B12 is secreted into the GI tract daily via the bile ; in normal subjects with sufficient intrinsic factor , all but about 1 mcg is reabsorbed .
+When B12 is administered in doses which saturate the binding capacity of plasma proteins and the liver , the unbound B12 is rapidly eliminated in the urine .
+Retention of B12 in the body is dose - dependent .
+About 80 - 90 % of an intramuscular dose up to 50 mcg is retained in the body ; this percentage drops to 55 % for a 100 mcg dose , and decreases to 15 % when a 1000 mcg dose is given .
+[ MULTIMEDIA ] Figure .
+Vitamin B12 Serum Trough Levels After Intramuscular Solution ( IM ) of 100 mcg and Nasal Gel ( IN ) Administration of 500 mcg Cyanocobalamin After Weekly Doses .
+[ MULTIMEDIA ] INDICATIONS AND USAGE Nascobal Nasal Spray is indicated for the maintenance of normal hematologic status in pernicious anemia patients who are in remission following intramuscular vitamin B12 therapy and who have no nervous system involvement .
+Nascobal Nasal Spray is also indicated as a supplement for other vitamin B12 deficiencies , including : I . Dietary deficiency of vitamin B12 occurring in strict vegetarians ( Isolated vitamin B12 deficiency is very rare ) .
+II .
+Malabsorption of vitamin B12 resulting from structural or functional damage to the stomach , where intrinsic factor is secreted , or to the ileum , where intrinsic factor facilitates vitamin B12 absorption .
+These conditions include HIV infection , AIDS , Crohn ' s disease , tropical sprue , and nontropical sprue ( idiopathic steatorrhea , gluten - induced enteropathy ) .
+Folate deficiency in these patients is usually more severe than vitamin B12 deficiency .
+III .
+Inadequate secretion of intrinsic factor , resulting from lesions that destroy the gastric mucosa ( ingestion of corrosives , extensive neoplasia ) , and a number of conditions associated with a variable degree of gastric atrophy ( such as multiple sclerosis , HIV infection , AIDS , certain endocrine disorders , iron deficiency , and subtotal gastrectomy ) .
+Total gastrectomy always produces vitamin B12 deficiency .
+Structural lesions leading to vitamin B12 deficiency include regional ileitis , ileal resections , malignancies , etc .
+IV .
+Competition for vitamin B12 by intestinal parasites or bacteria .
+The fish tapeworm ( Diphyllobothrium latum ) absorbs huge quantities of vitamin B12 and infested patients often have associated gastric atrophy .
+The blind loop syndrome may produce deficiency of vitamin B12 or folate .
+V . Inadequate utilization of vitamin B12 .
+This may occur if antimetabolites for the vitamin are employed in the treatment of neoplasia .
+Requirements of vitamin B12 in excess of normal ( due to pregnancy , thyrotoxicosis , hemolytic anemia , hemorrhage , malignancy , hepatic and renal disease ) can usually be met with intranasal or oral supplementation .
+Nascobal Nasal Spray is not suitable for vitamin B12 absorption test ( Schilling Test ) .
+CONTRAINDICATION Sensitivity to cobalt and / or vitamin B12 or any component of the medication is a contraindication .
+WARNINGS Patients with early Leber ' s disease ( hereditary optic nerve atrophy ) who were treated with vitamin B12 suffered severe and swift optic atrophy .
+Hypokalemia and sudden death may occur in severe megaloblastic anemia which is treated intensely with vitamin B12 .
+Folic acid is not a substitute for vitamin B12 although it may improve vitamin B12 - deficient megaloblastic anemia .
+Exclusive use of folic acid in treating vitamin B12 - deficient megaloblastic anemia could result in progressive and irreversible neurologic damage .
+Anaphylactic shock and death have been reported after parenteral vitamin B12 administration .
+No such reactions have been reported in clinical trials with Nascobal Nasal Spray or Nascobal Nasal Gel .
+Blunted or impeded therapeutic response to vitamin B12 may be due to such conditions as infection , uremia , drugs having bone marrow suppressant properties such as chloramphenicol , and concurrent iron or folic acid deficiency .
+PRECAUTIONS 1 .
+GENERAL An intradermal test dose of parenteral vitamin B12 is recommended before Nascobal Nasal Spray is administered to patients suspected of cyanocobalamin sensitivity .
+Vitamin B12 deficiency that is allowed to progress for longer than three months may produce permanent degenerative lesions of the spinal cord .
+Doses of folic acid greater than 0 . 1 mg per day may result in hematologic remission in patients with vitamin B12 deficiency .
+Neurologic manifestations will not be prevented with folic acid , and if not treated with vitamin B12 , irreversible damage will result .
+Doses of vitamin B12 exceeding 10 mcg daily may produce hematologic response in patients with folate deficiency .
+Indiscriminate administration may mask the true diagnosis .
+The validity of diagnostic vitamin B12 or folic acid blood assays could be compromised by medications , and this should be considered before relying on such tests for therapy .
+Vitamin B12 is not a substitute for folic acid and since it might improve folic acid deficient megaloblastic anemia , indiscriminate use of vitamin B12 could mask the true diagnosis .
+Hypokalemia and thrombocytosis could occur upon conversion of severe megaloblastic to normal erythropoiesis with vitamin B12 therapy .
+Therefore , serum potassium levels and the platelet count should be monitored carefully during therapy .
+Vitamin B12 deficiency may suppress the signs of polycythemia vera .
+Treatment with vitamin B12 may unmask this condition .
+If a patient is not properly maintained with Nascobal ® Nasal Spray , intramuscular vitamin B12 is necessary for adequate treatment of the patient .
+No single regimen fits all cases , and the status of the patient observed in follow - up is the final criterion for adequacy of therapy .
+The effectiveness of Nascobal Nasal Spray in patients with nasal congestion , allergic rhinitis and upper respiratory infections has not been determined .
+Therefore , treatment with Nascobal Nasal Spray should be deferred until symptoms have subsided .
+2 .
+INFORMATION FOR PATIENTS Patients with pernicious anemia should be instructed that they will require weekly intranasal administration of Nascobal Nasal Spray for the remainder of their lives .
+Failure to do so will result in return of the anemia and in development of incapacitating and irreversible damage to the nerves of the spinal cord .
+Also , patients should be warned about the danger of taking folic acid in place of vitamin B12 , because the former may prevent anemia but allow progression of subacute combined degeneration of the spinal cord .
+( Hot foods may cause nasal secretions and a resulting loss of medication ; therefore , patients should be told to administer Nascobal Nasal Spray at least one hour before or one hour after ingestion of hot foods or liquids . )
+A vegetarian diet which contains no animal products ( including milk products or eggs ) does not supply any vitamin B12 .
+Therefore , patients following such a diet should be advised to take Nascobal Nasal Spray weekly .
+The need for vitamin B12 is increased by pregnancy and lactation .
+Deficiency has been recognized in infants of vegetarian mothers who were breast fed , even though the mothers had no symptoms of deficiency at the time .
+Because the nasal dosage forms of vitamin B12 have a lower absorption than intramuscular dosage , nasal dosage forms are administered weekly , rather than the monthly intramuscular dosage .
+As shown in the Figure above , at the end of a month , weekly nasal administration results in significantly higher serum vitamin B12 levels than after intramuscular administration .
+The patient should also understand the importance of returning for follow - up blood tests every 3 to 6 months to confirm adequacy of the therapy .
+Careful instructions on the actuator assembly , removal of the safety clip , priming of the actuator and nasal administration of Nascobal Nasal Spray should be given to the patient .
+Although instructions for patients are supplied with individual bottles , procedures for use should be demonstrated to each patient .
+3 .
+LABORATORY TESTS Hematocrit , reticulocyte count , vitamin B12 , folate and iron levels should be obtained prior to treatment .
+If folate levels are low , folic acid should also be administered .
+All hematologic parameters should be normal when beginning treatment with Nascobal ® Nasal Spray .
+Vitamin B12 blood levels and peripheral blood counts must be monitored initially at one month after the start of treatment with Nascobal ® Nasal Spray , and then at intervals of 3 to 6 months .
+A decline in the serum levels of B12 after one month of treatment with B12 nasal spray may indicate that the dose may need to be adjusted upward .
+Patients should be seen one month after each dose adjustment ; continued low levels of serum B12 may indicate that the patient is not a candidate for this mode of administration .
+Patients with pernicious anemia have about 3 times the incidence of carcinoma of the stomach as in the general population , so appropriate tests for this condition should be carried out when indicated .
+4 .
+DRUG / LABORATORY TEST INTERACTIONS Persons taking most antibiotics , methotrexate or pyrimethamine invalidate folic acid and vitamin B12 diagnostic blood assays .
+Colchicine , para - aminosalicylic acid and heavy alcohol intake for longer than 2 weeks may produce malabsorption of vitamin B12 .
+5 .
+CARCINOGENESIS , MUTAGENESIS , IMPAIRMENT OF FERTILITY Long - term studies in animals to evaluate carcinogenic potential have not been done .
+There is no evidence from long - term use in patients with pernicious anemia that vitamin B12 is carcinogenic .
+Pernicious anemia is associated with an increased incidence of carcinoma of the stomach , but this is believed to be related to the underlying pathology and not to treatment with vitamin B12 .
+6 .
+PREGNANCY Pregnancy Category C : Animal reproduction studies have not been conducted with vitamin B12 .
+It is also not known whether vitamin B12 can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Adequate and well - controlled studies have not been done in pregnant women .
+However , vitamin B12 is an essential vitamin and requirements are increased during pregnancy .
+Amounts of vitamin B12 that are recommended by the Food and Nutrition Board , National Academy of Science - National Research Council for pregnant women should be consumed during pregnancy .
+7 .
+NURSING MOTHERS Vitamin B12 appears in the milk of nursing mothers in concentrations which approximate the mother ' s vitamin B12 blood level .
+Amounts of vitamin B12 that are recommended by the Food and Nutrition Board , National Academy of Science - National Research Council for lactating women should be consumed during lactation .
+8 .
+PEDIATRIC USE Intake in pediatric patients should be in the amount recommended by the Food and Nutrition Board , National Academy of Science - National Research Council .
+ADVERSE REACTIONS The incidence of adverse experiences described in the Table below are based on data from a short - term clinical trial in vitamin B12 deficient patients in hematologic remission receiving Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration ( N = 24 ) and intramuscular vitamin B12 ( N = 25 ) .
+In the pharmacokinetic study comparing Nascobal Nasal Spray and Nascobal Nasal Gel , the incidence of adverse events was similar .
+Table Adverse Experiences by Body System , Number of Patients and Number of Occurrences by Treatment Following Intramuscular and Intranasal Administration of Cyanocobalamin .
+* There may be a possible relationship between these adverse experiences and the study drugs .
+These adverse experiences could have also been produced by the patient ’ s clinical state or other concomitant therapy .
+± Sore throat , Common cold Number of Patients ( Occurrences ) Body System Adverse Experience Vitamin B12Nasal Gel , 500 mcgN = 24 IntramuscularVitamin B12 , 100 mcgN = 25 Body as a Whole Asthenia 1 ( 1 ) 4 ( 4 ) Back Pain 0 ( 0 ) 1 ( 1 ) Generalized Pain 0 ( 0 ) 2 ( 3 ) Headache 1 ( 2 ) * 5 ( 11 ) Infection ± 3 ( 4 ) 3 ( 3 ) Cardiovascular System Peripheral Vascular Disorder 0 ( 0 ) 1 ( 1 ) Digestive System Dyspepsia 0 ( 0 ) 1 ( 2 ) Glossitis 1 ( 1 ) 0 ( 0 ) Nausea 1 ( 1 ) * 1 ( 1 ) Nausea and Vomiting 0 ( 0 ) 1 ( 1 ) Vomiting 0 ( 0 ) 1 ( 1 ) Musculoskeletal System Arthritis 0 ( 0 ) 2 ( 2 ) Myalgia 0 ( 0 ) 1 ( 1 ) Nervous System Abnormal Gait 0 ( 0 ) 1 ( 1 ) Anxiety 0 ( 0 ) 1 ( 1 ) * Dizziness 0 ( 0 ) 3 ( 3 ) Hypoesthesia 0 ( 0 ) 1 ( 1 ) Incoordination 0 ( 0 ) 1 ( 2 ) * Nervousness 0 ( 0 ) 1 ( 3 ) * Paresthesia 1 ( 1 ) 1 ( 1 ) Respiratory System Dyspnea 0 ( 0 ) 1 ( 1 ) Rhinitis 1 ( 1 ) 2 ( 2 ) The intensity of the reported adverse experiences following the administration of Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration and intramuscular vitamin B12 were generally mild .
+One patient reported severe headache following intramuscular dosing .
+Similarly , a few adverse experiences of moderate intensity were reported following intramuscular dosing ( two headaches and rhinitis ; one dyspepsia , arthritis , and dizziness ) , and dosing with Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration ( one headache , infection , and paresthesia ) .
+The majority of the reported adverse experiences following dosing with Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration and intramuscular vitamin B12 were judged to be intercurrent events .
+For the other reported adverse experiences , the relationship to study drug was judged as " possible " or " remote " .
+Of the adverse experiences judged to be of " possible " relationship to the study drug , anxiety , incoordination , and nervousness were reported following intramuscular vitamin B12 and headache , nausea , and rhinitis were reported following dosing with Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration .
+The following adverse reactions have been reported with parenteral vitamin B12 : Cardiovascular : Pulmonary edema and congestive heart failure early in treatment ; peripheral vascular thrombosis .
+Hematological : Polycythemia vera .
+Gastrointestinal : Mild transient diarrhea .
+Dermatological : Itching ; transitory exanthema .
+Miscellaneous : Feeling of swelling of the entire body .
+OVERDOSAGE No overdosage has been reported with Nascobal Nasal Spray , Nascobal ( Cyanocobalamin , USP ) Gel for Intranasal Administration or parenteral vitamin B12 .
+DOSAGE AND ADMINISTRATION The recommended initial dose of Nascobal Nasal Spray is one spray ( 500 mcg ) administered in ONE nostril once weekly .
+Nascobal Nasal Spray should be administered at least one hour before or one hour after ingestion of hot foods or liquids .
+Periodic monitoring of serum B12 levels should be obtained to establish adequacy of therapy .
+Priming ( Activation ) of Pump Before the first dose and administration , the pump must be primed .
+Remove the clear plastic safety clip from the pump .
+To prime the pump , place nozzle between the first and second finger with the thumb on the bottom of the bottle .
+Pump the unit firmly and quickly until the first appearance of spray .
+Then prime the pump an additional 2 times .
+Now the nasal spray is ready for use .
+The unit must be re - primed before each dose .
+Prime the pump once immediately before each administration of dose 2 through 4 .
+[ MULTIMEDIA ] See LABORATORY TESTS for monitoring B12 levels and adjustment of dosage .
+[ MULTIMEDIA ] HOW SUPPLIED Nascobal Nasal Spray is available as a spray in 3 mL glass bottles containing 1 . 3 mL of solution .
+It is available in a dosage strength of 500 mcg per actuation ( 0 . 1 mL / actuation ) .
+A screw - on actuator is provided .
+This actuator , following priming , will deliver 0 . 1 mL of the spray .
+Nascobal Nasal Spray is provided in a carton containing a nasal spray actuator with dust cover , a bottle of nasal spray solution , and a package insert .
+One bottle will deliver 4 doses ( NDC 49884 - 270 - 86 ) .
+PHARMACIST ASSEMBLY INSTRUCTIONS FOR NASCOBAL NASAL SPRAY The pharmacist should assemble the Nascobal Nasal Spray unit prior to dispensing to the patient , according to the following instructions : • 1 .
+Open the carton and remove the spray actuator and spray solution bottle .
+• 2 .
+Assemble Nascobal Nasal Spray by first unscrewing the white cap from the spray solution bottle and screwing the actuator unit tightly onto the bottle .
+Make sure the clear dust cover is on the pump unit .
+• 3 .
+Return the Nascobal Nasal Spray bottle to the carton for dispensing to the patient .
+[ MULTIMEDIA ] [ MULTIMEDIA ] INFORMATION FOR PATIENTS Patients with pernicious anemia should be instructed that they will require weekly intranasal administration of Nascobal Nasal Spray for the remainder of their lives .
+Failure to do so will result in return of the anemia and in development of incapacitating and irreversible damage to the nerves of the spinal cord .
+Also , patients should be warned about the danger of taking folic acid in place of vitamin B12 , because the former may prevent anemia but allow progression of subacute combined degeneration of the spinal cord .
+( Hot foods may cause nasal secretions and a resulting loss of medication ; therefore , patients should be told to administer Nascobal Nasal Spray at least one hour before or one hour after ingestion of hot foods or liquids . )
+A vegetarian diet which contains no animal products ( including milk products or eggs ) does not supply any vitamin B12 .
+Therefore , patients following such a diet should be advised to take Nascobal Nasal Spray weekly .
+The need for vitamin B12 is increased by pregnancy and lactation .
+Deficiency has been recognized in infants of vegetarian mothers who were breast fed , even though the mothers had no symptoms of deficiency at the time .
+Because the nasal dosage forms of Vitamin B12 have a lower absorption than intramuscular dosage , nasal dosage forms are administered weekly , rather than the monthly intramuscular dosage .
+As shown in the Figure above , at the end of a month , weekly nasal administration results in significantly higher serum Vitamin B12 levels than after intramuscular administration .
+The patient should also understand the importance of returning for follow - up blood tests every 3 to 6 months to confirm adequacy of the therapy .
+Careful instructions on the actuator assembly , removal of safety clip , priming of the actuator and nasal administration of Nascobal Nasal Spray should be given to the patient .
+Although instructions for patients are supplied with individual bottles , procedures for use should be demonstrated to each patient .
+STORAGE CONDITIONS Protect from light .
+Keep covered in carton until ready to use .
+Store upright at controlled room temperature 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+Protect from freezing .
+To report suspected adverse reactions , contact Par Pharmaceutical Companies , Inc . at 1 - 800 - 828 - 9393 Distributed by : Par Pharmaceutical Companies , Inc Spring Valley , NY 10977 OS270 - 01 - 03 Rev . 07 / 2011 FOR NASAL USE ONLY KEEP OUT OF REACH OF CHILDREN Each 0 . 1 mL contains 500 mcg Cyancobalamin USP and the following inactive ingredients : Citric Acid USP , Sodium Citrate USP , Glycerin USP , Benzalkonium Chloride NF and Purified Water USP .
+One bottle will deliver four doses .
+Read instructions carefully before using .
+See package insert for complete prescribing information .
+Store upright at controlled room temperature 15 ° - 30 ° C ( 59 ° - 86 ° F ) .
+Package / Label Display Panel [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,218 @@
+Suicidality and Antidepressant DrugsAntidepressants increased the risk compared to placebo of suicidal thinking and behavior ( suicidality ) in children , adolescents , and young adults in short - term studies of major depressive disorder ( MDD ) and other psychiatric disorders .
+Anyone considering the use of trazodone HCl or any other antidepressant in a child , adolescent , or young adult must balance this risk with the clinical need .
+Short - term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 ; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older .
+Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide .
+Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening , suicidality , or unusual changes in behavior .
+Families and caregivers should be advised of the need for close observation and communication with the prescriber .
+Trazodone HCl is not approved for use in pediatric patients .
+( See Warnings : Clinical Worsening and Suicide Risk , Precautions : Information for Patients , and Precautions : Pediatric Use DESCRIPTION Trazodone HCl is an antidepressant chemically unrelated to tricyclic , tetracyclic , or other known antidepressant agents .
+Trazodone HCl is a triazolopyridine derivative designated as 2 - [ 3 - [ 4 - ( m - Chlorophenyl ) - 1 - piperazinyl ] propyl ] s - triazolo [ 4 , 3 - a ] - pyridin - 3 ( 2 H ) - one monohydrochloride .
+It is a white to off - white crystalline powder which is sparingly soluble in chloroform and in water .
+Its molecular weight is 408 . 3 .
+The molecular formula is C19H22ClN5O • HCl and the structural formula is represented as follows : [ MULTIMEDIA ] Each tablet , for oral administration , contains 50 mg , 100 mg or 150 mg of trazodone hydrochloride , USP .
+In addition , each tablet contains the following inactive ingredients : colloidal silicon dioxide , anhydrous lactose , magnesium stearate , microcrystalline cellulose and sodium starch glycolate .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY The mechanism of trazodone HCl ’ s antidepressant action in man is not fully understood .
+In animals , trazodone HCl selectively inhibits its serotonin uptake by brain synaptosomes and potentiates the behavioral changes induced by the serotonin precursor , 5 - hydroxytryptophan .
+Cardiac conduction effects of trazodone HCl in the anesthetized dog are qualitatively dissimilar and quantitatively less pronounced than those seen with tricyclic antidepressants .
+Trazodone HCl is not a monoamine oxidase inhibitor and , unlike amphetamine type drugs , does not stimulate the central nervous system .
+Pharmacokinetics AbsorptionIn humans , trazodone is well absorbed after oral administration without selective localization in any tissue .
+When trazodone is taken shortly after ingestion of food , there may be an increase in the amount of drug absorbed , a decrease in maximum concentration and a lengthening in the time to maximum concentration .
+Peak plasma levels occur approximately one hour after dosing when trazodone is taken on an empty stomach or two hours after dosing when taken with food .
+MetabolismIn vitro studies in human liver microsomes show that trazodone is metabolized to an active metabolite , m - chlorophenylpiperazine ( mCPP ) by cytochrome P450 3A4 ( CYP3A4 ) .
+Other metabolic pathways that may be involved in metabolism of trazodone have not been well characterized .
+EliminationIn some patients trazodone may accumulate in the plasma .
+Drug - Drug InteractionsSee also PRECAUTIONS : Drug Interactions .
+In vitro drug metabolism studies reveal that trazodone is a substrate of the cytochrome P450 3A4 ( CYP3A4 ) enzyme and trazodone metabolism can be inhibited by the CYP3A4 inhibitors ketoconazole , ritonavir , and indinavir .
+The effect of short - term administration of ritonavir ( 200 mg twice daily , 4 doses ) on the pharmacokinetics of a single dose of trazodone ( 50 mg ) has been studied in 10 healthy subjects .
+The Cmax of trazodone increased by 34 % , the AUC increased 2 . 4 - fold , the half - life increased by 2 . 2 - fold , and the clearance decreased by 52 % .
+Adverse effects including nausea , hypotension , and syncope were observed when ritonavir and trazodone were co - administered .
+Carbamazepine induces CYP34A .
+Following co - administration of carbamazepine 400 mg / day with trazodone 100 mg to 300 mg daily , carbamazepine reduced plasma concentrations of trazodone ( as well as mCPP ) by 76 and 60 % , respectively , compared to pre - carbamazepine values .
+For those patients who responded to trazodone HCl , one - third of the inpatients and one - half of the outpatients had a significant therapeutic response by the end of the first week of treatment .
+Three - fourths of all responders demonstrated a significant therapeutic effect by the end of the second week .
+One - fourth of responders required 2 - 4 weeks for a significant therapeutic response .
+INDICATIONS AND USAGE Trazodone hydrochloride tablets are indicated for the treatment of depression .
+The efficacy of trazodone HCl has been demonstrated in both inpatient and outpatient settings and for depressed patients with and without prominent anxiety .
+The depressive illness of patients studied corresponds to the Major Depressive Episode criteria of the American Psychiatric Association ’ s Diagnostic and Statistical Manual , lll . a Major Depressive Episode implies a prominent and relatively persistent ( nearly every day for at least two weeks ) depressed or dysphoric mood that usually interferes with daily functioning , and includes at least four of the following eight symptoms : change in appetite , change in sleep , psychomotor agitation or retardation , loss of interest in usual activities or decrease in sexual drive , increased fatigability , feelings of guilt or worthlessness , slowed thinking or impaired concentration , and suicidal ideation or attempts .
+CONTRAINDICATIONS Trazodone hydrochloride tablets are contraindicated in patients hypersensitive to trazodone HCl .
+WARNINGS Enter section text here Clinical Worsening and Suicide Risk Patients with major depressive disorder ( MDD ) , both adult and pediatric , may experience worsening of their depression and / or the emergence of suicidal ideation and behavior ( suicidality ) or unusual changes in behavior , whether or not they are taking antidepressant medications , and this risk may persist until significant remission occurs .
+Suicide is a known risk of depression and certain other psychiatric disorders , and these disorders themselves are the strongest predictors of suicide .
+There has been a long - standing concern , however , that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment .
+Pooled analyses of short - term placebo - controlled trials of antidepressant drugs ( SSRIs and others ) showed that these drugs increase the risk of suicidal thinking and behavior ( suicidality ) in children , adolescents , and young adults ( aged 18 - 24 ) with major depressive disorder ( MDD ) and other psychiatric disorders .
+Short - term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 ; there was a reduction with antidepressants compared to placebo in adults aged 65 and older .
+The pooled analysis of placebo - controlled trials in children and adolescents with MDD , obsessive compulsive disorder ( OCD ) , or other psychiatric disorders including a total of 24 short - term trials of 9 antidepressant drugs in over 4400 patients .
+The pooled analyses of placebo - controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short - term trials ( median duration of 2 months ) of 11 antidepressant drugs in over 77 , 000 patients .
+There was considerable variation in risk of suicidality among drugs , but a tendency toward an increase in the younger patients for almost all drugs studied .
+There were differences in absolute risk of suicidality across the different indications , with the highest incidence in MDD .
+The risk differences ( drug vs placebo ) , however , were relatively stable within age strata and across indications .
+These risk differences ( drug - placebo difference in the number of cases of suicidality per 1000 patients treated ) are provided in Table 1 .
+Table 1 Age Range Drug - Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated Increases Compared to Placebo less than 18 14 additional cases 18 - 24 5 additional cases Decreases Compared to Placebo 25 - 64 1 fewer case ≥ 65 6 fewer cases No suicides occurred in any of the pediatric trials .
+There were suicides in the adult trials , but the number was not sufficient to reach any conclusion about the drug effect on suicide .
+It is unknown whether the suicidality risk extends to longer - term use , i . e . , beyond several months .
+However , there is substantial evidence from placebo - controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression .
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening , suicidality , and unusual changes in behavior , especially during the initial few months of a course of drug therapy , or at times of dose changes , either increases or decreases .
+The following symptoms , anxiety , agitation , panic attacks , insomnia , irritability , hostility , aggressiveness , impulsivity , akathisia ( psychomotor restlessness ) , hypomania , and mania , have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications , both psychiatric and nonpsychiatric .
+Although a causal link between the emergence of such symptoms and either the worsening of depression and / or the emergence of suicidal impulses has not been established , there is concern that such symptoms may represent precursors to emerging suicidality .
+Consideration should be given to changing the therapeutic regimen , including possibly discontinuing the medication , in patients whose depression is persistently worse , or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality , especially if these symptoms are severe , abrupt in onset , or were not part of the patient ’ s presenting symptoms .
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications , both psychiatric and nonpsychiatric , should be alerted about the need to monitor patients for the emergence of agitation , irritability , unusual changes in behavior , and the other symptoms described above , as well as the emergence of suicidality , and to report such symptoms immediately to health care providers .
+Such monitoring should include daily observation by families and caregivers .
+Prescriptions for trazodone HCl should be written for the smallest quantity of tablets consistent with good patient management , in order to reduce the risk of overdose .
+Screening Patients for Bipolar Disorder A major depressive episode may be the initial presentation of bipolar disorder .
+It is generally believed ( though not established in controlled trials ) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed / manic episode in patients at risk for bipolar disorder .
+Whether any of the symptoms described above represent such a conversion is unknown .
+However , prior to initiating treatment with an antidepressant , patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder ; such screening should include a detailed psychiatric history , including a family history of suicide , bipolar disorder , and depression .
+It should be noted that trazodone HCl is not approved for use in treating bipolar depression .
+TRAZODONE HAS BEEN ASSOCIATED WITH THE OCCURRENCE OF PRIAPISM .
+IN MANY OF THE CASES REPORTED , SURGICAL INTERVENTION WAS REQUIRED AND , IN SOME OF THESE CASES , PERMANENT IMPAIRMENT OF ERECTILE FUNCTION OR IMPOTENCE RESULTED .
+MALE PATIENTS WITH PROLONGED OR INAPPROPRIATE ERECTIONS SHOULD IMMEDIATELY DISCONTINUE THE DRUG AND CONSULT THEIR PHYSICIAN .
+The detumescence of priapism and drug - induced penile erections has been accomplished by both pharmacologic , e . g . , the intracavernosal injection of alpha - adrenergic stimulants such as epinephrine and norepinephrine , as well as surgical procedures . b - g Any pharmacologic or surgical procedure utilized in the treatment of priapism should be performed under the supervision of a urologist or a physician familiar with the procedure and should not be initiated without urologic consultation if the priapism has persisted for more than 24 hours .
+Trazodone is not recommended for use during the initial recovery phase of myocardial infarction .
+Caution should be used when administering trazodone HCl to patients with cardiac disease , and such patients should be closely monitored , since antidepressant drugs ( including trazodone HCl ) have been associated with the occurrence of cardiac arrhythmias .
+Recent clinical studies in patients with pre - existing cardiac disease indicate that trazodone HCl may be arrhythmogenic in some patients in that population .
+Arrhythmias identified include isolated PVCs , ventricular couplets , and in two patients short episodes ( 3 - 4 beats ) of ventricular tachycardia .
+PRECAUTIONS Enter section text here General The possibility of suicide in seriously depressed patients is inherent in the illness and may persist until significant remission occurs .
+Therefore , prescriptions should be written for the smallest number of tablets consistent with good patient management .
+Hypotension , including orthostatic hypotension and syncope , has been reported to occur in patients receiving trazodone HCl .
+Concomitant administration of antihypertensive therapy with trazodone HCl may require a reduction in the dose of the antihypertensive drug .
+Little is known about the interaction between trazodone HCl and general anesthetics ; therefore , prior to elective surgery , trazodone HCl should be discontinued for as long as clinically feasible .
+As with all antidepressants , the use of trazodone HCl should be based on the consideration of the physician that the expected benefits of therapy outweigh potential risk factors .
+Information for Patients Prescribers or other health professionals should inform patients , their families , and their caregivers about the benefits and risks associated with treatment with trazodone HCl and should counsel them in its appropriate use .
+A patient Medication Guide about “ Antidepressant Medicines , Depression and other Serious Mental Illness , and Suicidal Thoughts or Actions ” is available for trazodone HCl .
+The prescriber or health professional should instruct patients , their families , and their caregivers to read the Medication Guide and should assist them in understanding its contents .
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have .
+The complete text of the Medication Guide is reprinted at the end of this document .
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking trazodone HCl .
+Clinical Worsening and Suicide Risk Patients , their families and their caregivers should be encouraged to be alert to the emergence of anxiety , agitation , panic attacks , insomnia , irritability , hostility , aggressiveness , impulsivity , akathisia , ( psychomotor restlessness ) , hypomania , mania , other unusual changes in behavior , worsening of depression , and suicidal ideation , especially early during antidepressant treatment and when the dose is adjusted up or down .
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day - to - day basis , since changes may be abrupt .
+Such symptoms should be reported to the patient ’ s prescriber or health professional , especially if they are severe , abrupt in onset , or were not part of the patient ’ s presenting symptoms .
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication .
+Because priapism has been reported to occur in patients receiving trazodone HCl , patients with prolonged or inappropriate penile erection should immediately discontinue the drug and consult with the physician ( see WARNINGS ) .
+Antidepressants may impair the mental and / or physical abilities required for the performance of potentially hazardous tasks , such as operating an automobile or machinery ; the patient should be cautioned accordingly .
+Trazodone HCl may enhance the response to alcohol , barbiturates , and other CNS depressants .
+Trazodone HCl should be given shortly after a meal or light snack .
+Within any individual patient , total drug absorption may be up to 20 % higher when the drug is taken with food rather than on an empty stomach .
+The risk of dizziness / lightheadedness may increase under fasting conditions .
+Laboratory Tests Occasional low white blood cell and neutrophil counts have been noted in patients receiving trazodone HCl .
+These were not considered clinically significant and did not necessitate discontinuation of the drug ; however , the drug should be discontinued in any patient whose white blood cell count or absolute neutrophil count falls below normal levels .
+White blood cell and differential counts are recommended for patients who develop fever and sore throat ( or other signs of infection ) during therapy .
+Drug Interactions In vitro drug metabolism studies suggest that there is a potential for drug interactions when trazodone is given with CYP3A4 inhibitors .
+Ritonavir , a potent CYP3A4 inhibitor , increased the Cmax , AUC , and elimination half - life , and decreased clearance of trazodone after administration of ritonavir twice daily for 2 days .
+Adverse effects including nausea , hypotension , and syncope were observed when ritonavir and trazodone were co - administered .
+It is likely that ketoconazole , indinavir , and other CYP3A4 inhibitors such as intraconazole or nefazadone may lead to substantial increases in trazodone plasma concentrations , with the potential for adverse effects .
+If trazodone is used with a potent CYP3A4 inhibitor , a lower dose of trazodone should be considered .
+Carbamazepine reduced plasma concentrations of trazodone when co - administered .
+Patients should be more closely monitored to see if there is a need for an increased dose of trazodone when taking both drugs .
+Increased serum digoxin or phenytoin levels have been reported to occur in patients receiving trazodone concurrently with either of those two drugs .
+It is not known whether interactions will occur between monoamine oxidase ( MAO ) inhibitors and trazodone HCl .
+Due to the absence of clinical experience , if MAO inhibitors are discontinued shortly before or are to be given concomitantly with trazodone HCl , therapy should be initiated cautiously with gradual increase in dosage until optimum response is achieved .
+Therapeutic Interactions Concurrent administration with electroshock therapy should be avoided because of the absence of experience in this area .
+There have been reports of increased and decreased prothrombin time occurring in patients taking warfarin and trazodone HCl .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No drug - or dose - related occurrence of carcinogenesis was evident in rats receiving trazodone HCl in daily oral doses up to 300 mg / kg for 18 months .
+Pregnancy Teratogenic Effects : Pregnancy Category C Trazodone hydrochloride has been shown to cause increased fetal resorption and other adverse effects on the fetus in two studies using the rat when given at dose levels approximately 30 - 50 times the proposed maximum human dose .
+There was also an increase in congenital anomalies in one of three rabbit studies at approximately 15 - 50 times the maximum human dose .
+There are no adequate and well - controlled studies in pregnant women .
+Trazodone HCl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Trazodone HCl and / or its metabolites have been found in the milk of lactating rats , suggesting that the drug may be secreted in human milk .
+Caution should be exercised when trazodone HCl is administered to a nursing woman .
+Pediatric Use Safety and effectiveness in the pediatric population have not been established ( see BOX WARNING and WARNINGS — Clinical Worsening and Suicide Risk ) .
+Anyone considering the use of trazodone HCl in a child or adolescent must balance the potential risks with the clinical need .
+ADVERSE REACTIONS Because the frequency of adverse drug effects is affected by diverse factors ( e . g . , drug dose , method of detection , physician judgment , disease under treatment , etc . ) a single meaningful estimate of adverse event incidence is difficult to obtain .
+This problem is illustrated by the variation in adverse event incidence observed and reported from the inpatients and outpatients treated with trazodone HCl .
+It is impossible to determine precisely what accounts for the differences observed .
+Clinical Trial Reports Table 2 below is presented solely to indicate the relative frequency of adverse events reported in representative controlled clinical studies conducted to evaluate the safety and efficacy of trazodone HCl .
+The figures cited cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics and other factors often differ from those which prevailed in clinical trials .
+These incidence figures , also , cannot be compared with those obtained from other clinical studies involving related drug products and placebo as each group of drug trials is conducted under a different set of conditions .
+Table 2 Treatment Emergent Symptom Incidence InpatientsOutpatients T1 P2 T1 P2 Number of Patients 142 95 157 158 % of Patients Reporting Allergic Skin Condition / Edema 2 . 8 1 . 1 7 . 0 1 . 3 Autonomic Blurred Vision 6 . 3 4 . 2 14 . 7 3 . 8 Constipation 7 . 0 4 . 2 7 . 6 5 . 7 Dry Mouth 14 . 8 8 . 4 33 . 8 20 . 3 Cardiovascular Hypertension 2 . 1 1 . 1 1 . 3 * 3 Hypotension 7 . 0 1 . 1 3 . 8 0 . 0 Shortness of Breath * 3 1 . 1 1 . 3 0 . 0 Syncope 2 . 8 2 . 1 4 . 5 1 . 3 Tachycardia / Palpitations 0 . 0 0 . 0 7 . 0 7 . 0 CNS Anger / Hostility 3 . 5 6 . 3 1 . 3 2 . 5 Confusion 4 . 9 0 . 0 5 . 7 7 . 6 Decreased Concentration 2 . 8 2 . 1 1 . 3 0 . 0 Disorientation 2 . 1 0 . 0 * 3 0 . 0 Dizziness / Lightheadedness 19 . 7 5 . 3 28 . 0 15 . 2 Drowsiness 23 . 9 6 . 3 40 . 8 19 . 6 Excitement 1 . 4 1 . 1 5 . 1 5 . 7 Fatigue 11 . 3 4 . 2 5 . 7 2 . 5 Headache 9 . 9 5 . 3 19 . 8 15 . 8 Insomnia 9 . 9 10 . 5 6 . 4 12 . 0 Impaired Memory 1 . 4 0 . 0 * 3 * 3 Nervousness 14 . 8 10 . 5 6 . 4 8 . 2 Gastrointestinal Abdominal / Gastric Disorder 3 . 5 4 . 2 5 . 7 4 . 4 Bad Taste in Mouth 1 . 4 0 . 0 0 . 0 0 . 0 Diarrhea 0 . 0 1 . 1 4 . 5 1 . 9 Nausea / Vomiting 9 . 9 1 . 1 12 . 7 9 . 5 Musculoskeletal Musculoskeletal Aches / Pains 5 . 6 3 . 2 5 . 1 2 . 5 Neurological Incoordination 4 . 9 0 . 0 1 . 9 0 . 0 Paresthesia 1 . 4 0 . 0 0 . 0 * 3 Tremors 2 . 8 1 . 1 5 . 1 3 . 8 Sexual Function Decreased Libido * 3 1 . 1 1 . 3 * 3 Other Decreased Appetite 3 . 5 5 . 3 0 . 0 * 3 Eyes Red / Tired / Itching 2 . 8 0 . 0 0 . 0 0 . 0 Head Full - Heavy 2 . 8 0 . 0 0 . 0 0 . 0 Malaise 2 . 8 0 . 0 0 . 0 0 . 0 Nasal / Sinus Congestion 2 . 8 0 . 0 5 . 7 3 . 2 Nightmares / Vivid Dreams * 3 1 . 1 5 . 1 5 . 7 Sweating / Clamminess 1 . 4 1 . 1 * 3 * 3 Tinnitus 1 . 4 0 . 0 0 . 0 * 3 Weight Gain 1 . 4 0 . 0 4 . 5 1 . 9 Weight Loss * 3 3 . 2 5 . 7 2 . 5 1 T = Trazodone HCl 2 P = Placebo 3 Incidence less than 1 % Occasional sinus bradycardia has occurred in long - term studies .
+In addition to the relatively common ( i . e . , greater than 1 % ) untoward events enumerated above , the following adverse events have been reported to occur in association with the use of trazodone HCl in the controlled clinical studies : akathisia , allergic reaction , anemia , chest pain , delayed urine flow , early menses , flatulence , hallucinations / delusions , hematuria , hypersalivation , hypomania , impaired speech , impotence , increased appetite , increased libido , increased urinary frequency , missed periods , muscle twitches , numbness , and retrograde ejaculation .
+Post Introduction Reports : Although the following adverse reactions have been reported in trazodone HCl users , the causal association has neither been confirmed nor refuted .
+Voluntary reports received since market introduction include the following : abnormal dreams , agitation , alopecia , anxiety , aphasia , apnea , ataxia , breast enlargement or engorgement , cardiospasm , cerebrovascular accident , chills , cholestatis , clitorism , congestive heart failure , diplopia , edema , extrapyramidal symptoms , grand mal seizures , hallucinations , hemolytic anemia , hirsutism , hyperbilirubinemia , increased amylase , increased salivation , insomnia , leukocytosis , leukonychia , jaundice , lactation , liver enzyme alterations , methemoglobinemia , nausea / vomiting ( most frequently ) , paresthesia , paranoid reaction , priapism ( see WARNINGS and PRECAUTIONS , Information for Patients ; some patients have required surgical intervention ) , pruritus , psoriasis , psychosis , rash , stupor , inappropriate ADH syndrome , tardive dyskinesia , unexplained death , urinary incontinence , urinary retention , urticaria , vasodilation , vertigo , and weakness .
+Cardiovascular system effects which have been reported include the following : conduction block orthostatic hypotension and syncope , palpitations , bradycardia , atrial fibrillation , myocardial infarction , cardiac arrest , arrhythmia , and ventricular ectopic activity , including ventricular tachycardia ( see WARNINGS ) .
+OVERDOSAGE Animal Oral LD50 : The oral LD50 of the drug is 610 mg / kg in mice , 486 mg / kg in rats , and 560 mg / kg in rabbits .
+Signs and Symptoms : Death from overdose has occurred in patients ingesting trazodone HCl and other drugs concurrently ( namely , alcohol ; alcohol + chloral hydrate + diazepam ; amobarbital ; chlordiazepoxide ; or meprobamate ) .
+The most severe reactions reported to have occurred with overdose of trazodone HCl alone have been priapism , respiratory arrest , seizures , and EKG changes .
+The reactions reported most frequently have been drowsiness and vomiting .
+Overdosage may cause an increase in incidence or severity of any of the reported adverse reactions ( see ADVERSE REACTIONS ) .
+Treatment There is no specific antidote for trazodone HCl .
+Treatment should be symptomatic and supportive in the case of hypotension or excessive sedation .
+Any patient suspected of having taken an overdose should have the stomach emptied by gastric lavage .
+Forced diuresis may be useful in facilitating elimination of the drug .
+DOSAGE AND ADMINISTRATION The dosage should be initiated at a low level and increased gradually , noting the clinical response and any evidence of intolerance .
+Occurrence of drowsiness may require the administration of a major portion of the daily dose at bedtime or a reduction of dosage .
+Trazodone HCl should be taken shortly after a meal or light snack .
+Symptomatic relief may be seen during the first week with optimal antidepressant effects typically evident within two weeks .
+Twenty - five percent of those who respond to trazodone HCl require more than two weeks ( up to four weeks ) of drug administration .
+Usual Adult Dosage : An initial dose of 150 mg / day in divided doses is suggested .
+The dose may be increased by 50 mg / day every three to four days .
+The maximum dose for outpatients usually should not exceed 400 mg / day in divided doses .
+Inpatients ( i . e . , more severely depressed patients ) may be given up to but not in excess of 600 mg / day in divided doses .
+Maintenance : Dosage during prolonged maintenance therapy should be kept at the lowest effective level .
+Once an adequate response has been achieved , dosage may be gradually reduced , with subsequent adjustment depending on therapeutic response .
+Although there has been no systematic evaluation of the efficacy of trazodone beyond 6 weeks , it is generally recommended that a course of antidepressant drug treatment should be continued for several months .
+HOW SUPPLIED Trazodone Hydrochloride Tablets , USP : 50 mg - White , round , scored tablets in bottles of 30 , 90 , 100 , 500 , and 1000 .
+Debossed : PLIVA 433 100 mg - White , round , scored tablets in bottles of 30 , 90 , 100 , 500 and 1000 .
+Debossed : PLIVA 434 150 mg - White , trapezoidal - shaped tablets , bisected one side to yield two 75 mg units ( Debossed PLIVA 441 ) ; trisected the other side to yield three 50 mg units ( Debossed 50 in each triangular segment ) ; in bottles of 30 , 90 , 100 , 500 , and 1000 .
+Dispense in a tight , light - resistant container .
+Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ See USP Controlled Room Temperature ] .
+REFERENCES a ) Williams JBW , Ed : Diagnostic and Statistical Manual of Mental Disorders lll , American Psychiatric Association , May , 1980 .
+( b ) Lue TF , Physiology of erection and pathophysiology of impotence .
+In : Wash PC , Retik AB , Stamey TA , Vaughan ED , eds .
+Campbell ’ s Urology .
+Sixth edition .
+Philadelphia : W . B . Saunders : 1992 : 722 - 725 .
+( c ) Goldstein I , Krane RJ , Diagnosis and therapy of erectile dysfunction .
+In : Wash PC .
+Retik AB , Stamey TA , Vaughan ED , eds .
+Campbell ’ s Urology .
+Sixth edition .
+Philadelphia : W . B . Saunders : 1992 : 3071 - 3072 .
+( d ) Yealy DM , Hogya PT : Priapism .
+Emerg Med Clin North Am , 1988 : 6 : 509 - 520 .
+( e ) Banos JE , Bosch F , Farre M . Drug - induced priapism , its aetiology , incidence and treatment .
+Med Toxicol Adverse Drug Exp .
+1989 : 4 : 46 - 58 .
+( f ) O ’ Brien WM , O ’ Connor KP , Lynch JH .
+Priapism : current concepts .
+Ann Emerg Med .
+1989 : 980 - 983 .
+( g ) Bardin ED , Krieger JN .
+Pharmacological priapism : comparison of trazodone - and papaverine - associated cases .
+Int Urol Nephrol .
+1990 : 22 : 147 - 152 .
+Medication Guide Antidepressant Medicines , Depression and other Serious Mental Illnesses , and Suicidal Thoughts or Actions Read the Medication Guide that comes with you or your family member ’ s antidepressant medicine .
+This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines .
+Talk to your , or your family member ’ s , healthcare provider about : • all risks and benefits of treatment with antidepressant medicines • all treatment choices for depression or other serious mental illness What is the most important information I should know about antidepressant medicines , depression and other serious mental illnesses , and suicidal thoughts or actions ?
+1 .
+Antidepressant medicines may increase suicidal thoughts or actions in some children , teenagers , and young adults within the first few months of treatment .
+2 .
+Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions .
+Some people may have a particularly high risk of having suicidal thoughts or actions .
+These include people who have ( or have a family history of ) bipolar illness ( also called manic - depressive illness ) or suicidal thoughts or actions .
+3 .
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member ?
+• Pay close attention to any changes , especially sudden changes , in mood , behaviors , thoughts , or feelings .
+This is very important when an antidepressant medicine is started or when the dose is changed .
+• Call the healthcare provider right away to report new or sudden changes in mood , behavior , thoughts , or feelings .
+• Keep all follow - up visits with the healthcare provider as scheduled .
+Call the healthcare provider between visits as needed , especially if you have concerns about symptoms .
+Call a healthcare provider right away if you or your family member has any of the following symptoms , especially if they are new , worse , or worry you : • thoughts about suicide or dying • new or worse irritability • attempts to commit suicide • acting aggressive , being angry , or violent • new or worse depression • acting on dangerous impulses • new or worse anxiety • an extreme increase in activity and talking ( mania ) • feeling very agitated or restless • other unusual changes in behavior or mood • panic attacks • trouble sleeping ( insomnia ) What else do I need to know about antidepressant medicines ?
+• Never stop an antidepressant medicine without first talking to a healthcare provider .
+Stopping an antidepressant medicine suddenly can cause other symptoms .
+• Antidepressants are medicines used to treat depression and other illnesses .
+It is important to discuss all the risks of treating depression and also the risks of not treating it .
+Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider , not just the use of antidepressants .
+• Antidepressant medicines have other side effects .
+Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member .
+• Antidepressant medicines can interact with other medicines .
+Know all of the medicines that you or your family member takes .
+Keep a list of all medicines to show the healthcare provider .
+Do not start new medicines without first checking with your healthcare provider .
+• Not all antidepressant medicines prescribed for children are FDA approved for use in children .
+Talk to your child ’ s healthcare provider for more information .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+This Medication Guide has been approved by the U . S . Food and Drug Administration for all antidepressants .
+Mfg by PLIVA ® Hrvatska d . o . o . , Zagreb Croatia for PLIVA ® , Inc .
+Pomona , NY 10970 Dist .
+by Barr Laboratories , Inc . , Pomona , NY 10970 Revised January 2008 BR - 433 , 434 , 441 Z21 - 0433 c / n . 1 FLEXIDOSE ® is a registered trademark of PLIVA ® , Inc . for its tablets .
+The trapezoidal shaped tablet is a trademark and original design of PLIVA ® Inc .
+TRAZODONE 50 MG PACKAGE LABEL [ MULTIMEDIA ] TRAZODONE 100 MG PACKAGE LABEL [ MULTIMEDIA ] TRAZODONE 150 MG PACKAGE LABEL [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

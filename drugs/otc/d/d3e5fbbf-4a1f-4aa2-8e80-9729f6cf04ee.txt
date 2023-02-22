@@ -1,0 +1,258 @@
+For Subcutaneous ( SC ) Use Only SPINAL / EPIDURAL HEMATOMAS When neuraxial anesthesia ( epidural / spinal anesthesia ) or spinal puncture is employed , patients anticoagulated or scheduled to be anticoagulated with low molecular weight heparins or heparinoids for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long - term or permanent paralysis .
+The risk of these events is increased by the use of indwelling epidural catheters for administration of analgesia or by the concomitant use of drugs affecting hemostasis such as non - steroidal anti - inflammatory drugs ( NSAIDs ) , platelet inhibitors , or other anticoagulants .
+The risk also appears to be increased by traumatic or repeated epidural or spinal puncture .
+Patients should be frequently monitored for signs and symptoms of neurological impairment .
+If neurological compromise is noted , urgent treatment is necessary .
+The physician should consider the potential benefit versus risk before neuraxial intervention in patients anticoagulated or to be anticoagulated for thromboprophylaxis ( see also WARNINGS , Hemorrhage , and PRECAUTIONS , Drug Interactions ) .
+DESCRIPTION INNOHEP ® is a sterile solution , containing tinzaparin sodium , a low molecular weight heparin .
+It is available in a multiple dose 2 mL vial .
+Each 2 mL vial contains 20 , 000 anti - Factor Xa IU ( anti - Xa ) of tinzaparin sodium per mL , for a total of 40 , 000 IU , and 3 . 1 mg / mL sodium metabisulfite as a stabilizer .
+The vial contains 10 mg / mL benzyl alcohol as a preservative .
+Sodium hydroxide may be added to achieve a pH range of 5 . 0 to 7 . 5 .
+Table 1 Composition of 20 , 000 anti - Xa IU / mL INNOHEP ® ( tinzaparin sodium injection ) Component Quantity per mL 1 Corresponding to 3 . 4 mg / mL sodium bisulfite Tinzaparin sodium 20 , 000 anti - Xa IU Benzyl alcohol , USP 10 mg Sodium metabisulfite , USP 3 . 106 mg1 Sodium hydroxide , USP as necessary Water for Injection , USP q . s . to 1 mL Tinzaparin sodium is the sodium salt of a low molecular weight heparin obtained by controlled enzymatic depolymerization of heparin from porcine intestinal mucosa using heparinase from Flavobacterium heparinum .
+The majority of the components have a 2 - O - sulpho - 4 - enepyranosuronic acid structure at the non - reducing end and a 2 - N , 6 - O - disulpho - D - glucosamine structure at the reducing end of the chain .
+Potency is determined by means of a biological assay and interpreted by the first International Low Molecular Weight Heparin Standard as units of anti - factor Xa ( anti - Xa ) activity per milligram .
+The mean tinzaparin sodium anti - factor Xa activity is approximately 100 IU per milligram .
+The average molecular weight ranges between 5 , 500 and 7 , 500 daltons .
+The molecular weight distribution is : [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Tinzaparin sodium is a low molecular weight heparin with antithrombotic properties .
+Tinzaparin sodium inhibits reactions that lead to the clotting of blood including the formation of fibrin clots , both in vitro and in vivo .
+It acts as a potent co - inhibitor of several activated coagulation factors , especially Factors Xa and IIa ( thrombin ) .
+The primary inhibitory activity is mediated through the plasma protease inhibitor , antithrombin .
+Bleeding time is usually unaffected by tinzaparin sodium .
+Activated partial thromboplastin time ( aPTT ) is prolonged by therapeutic doses of tinzaparin sodium used in the treatment of deep vein thrombosis ( DVT ) .
+Prothrombin time ( PT ) may be slightly prolonged with tinzaparin sodium treatment but usually remains within the normal range .
+Neither aPTT nor PT can be used for therapeutic monitoring of tinzaparin sodium .
+Neither unfractionated heparin nor tinzaparin sodium have intrinsic fibrinolytic activity ; therefore , they do not lyse existing clots .
+Tinzaparin sodium induces release of tissue factor pathway inhibitor , which may contribute to the antithrombotic effect .
+Heparin is also known to have a variety of actions that are independent of its anticoagulant effects .
+These include interactions with endothelial cell growth factors , inhibition of smooth muscle cell proliferation , activation of lipoprotein lipase , suppression of aldosterone secretion , and induction of platelet aggregation .
+Pharmacokinetics / Pharmacodynamics Anti - Xa and anti - IIa activities are the primary biomarkers for assessing tinzaparin sodium exposure because plasma concentrations of low molecular weight heparins cannot be measured directly .
+Because of analytical assay limitations , anti - Xa activity is the more widely used biomarker .
+The measurements of anti - Xa and anti - IIa activities in plasma serve as surrogates for the concentrations of molecules which contain the high - affinity binding site for antithrombin ( anti - Xa and anti - IIa activities ) .
+Monitoring patients based on anti - Xa activity is generally not advised .
+The data are provided in Figure 1 and Table 2 .
+below .
+Studies with tinzaparin sodium in healthy volunteers and patients have been conducted with both fixed - and weight - adjusted dose administration .
+Recommended therapy with tinzaparin sodium is based on weight - adjusted dosing ( see DOSAGE AND ADMINISTRATION ) .
+[ MULTIMEDIA ] Table 2 Summary of Pharmacokinetic Parameters ( Mean and Standard Deviation ) Based on Anti - Xa Activity Following Single and Once Daily Multiple Dose SC Administration of Tinzaparin Sodium to Healthy VolunteersParameter ( Units ) Single Dose ( N = 23 ) Multiple Dose ( N = 14 ) 4 , 500 IU * Day 1 ( 175 IU / kg ) Day 5 ( 175 IU / kg ) * Dosing based on single dose of 4 , 500 IU .
+Mean dose administered was 64 . 3 IU / kg .
+Cmax ( IU / mL ) 0 . 25 ( 0 . 05 ) 0 . 87 ( 0 . 15 ) 0 . 93 ( 0 . 15 ) Tmax ( hr ) 3 . 7 ( 0 . 9 ) 4 . 4 ( 0 . 7 ) 4 . 6 ( 1 . 0 ) AUC0 ‑∞ ( IU * hr / mL ) 2 . 0 ( 0 . 5 ) 9 . 0 ( 1 . 1 ) 9 . 7 ( 1 . 4 ) Half - life ( hr ) 3 . 4 ( 1 . 7 ) 3 . 3 ( 0 . 8 ) 3 . 5 ( 0 . 6 ) [ MULTIMEDIA ] Absorption Plasma levels of anti - Xa activity increase in the first 2 to 3 hours following SC injection of tinzaparin sodium and reach a maximum within 4 to 5 hours .
+Maximum concentrations ( Cmax ) of 0 . 25 and 0 . 87 IU / mL are achieved following a single SC fixed dose of 4 , 500 IU ( approximately 64 . 3 IU / kg ) and weight - adjusted dose of 175 IU / kg of tinzaparin sodium , respectively .
+Based on the extent of absorption ( AUC0 ‑∞ ) , a comparison of 4 , 500 IU and 12 , 250 IU single doses indicates that increases in anti - Xa activity are greater than dose proportional relative to the increase in dose .
+Following a single SC injection of tinzaparin sodium , the mean anti - Xa to anti - IIa activity ratio , based on the area under the anti - Xa and anti - IIa time profiles , is 2 . 8 and is higher than that of unfractionated heparin ( approximately 1 . 2 ) .
+The absolute bioavailability ( following 4 , 500 IU SC and intravenous [ IV ] administrations ) is 86 . 7 % based on anti - Xa activity .
+Distribution The volume of distribution of tinzaparin sodium ranges from 3 . 1 L to 5 . 0 L .
+These values are similar in magnitude to blood volume , suggesting that the distribution of anti - Xa activity is limited to the central compartment .
+Metabolism Low molecular weight heparins are partially metabolized by desulphation and depolymerization .
+Elimination In healthy volunteers , the elimination half - life following SC administration of 4 , 500 IU or 175 IU / kg tinzaparin sodium is approximately 3 - 4 hours based on anti - Xa activity .
+Clearance following IV administration of 4 , 500 IU tinzaparin sodium is approximately 1 . 7 L / hr .
+The primary route of elimination is renal .
+Anti - Xa activity did not accumulate with once daily dosing of 175 IU / kg for five days in healthy volunteers .
+( See Figure 1 and Table 2 . )
+Special Populations Population Pharmacokinetics Anti - Xa concentrations from approximately 180 patients receiving SC tinzaparin sodium once daily ( 175 IU / kg body weight ) as the treatment of proximal DVT and approximately 240 patients undergoing elective hip replacement surgery receiving SC tinzaparin sodium once daily ( ~ 65 IU / kg body weight ) were analyzed by population pharmacokinetic methods .
+The results indicate that neither age nor gender significantly alter tinzaparin sodium clearance based on anti - Xa activity ( see PRECAUTIONS , General ) .
+However , a reduction in tinzaparin sodium clearance was observed in patients with impaired renal function ( reduced calculated creatinine clearance ) ( see Special Populations , Renal Impairment ) .
+Weight is also an important factor for the prediction of tinzaparin sodium clearance , consistent with the recommendation that INNOHEP ® therapy be based on weight - adjusted dosing ( see DOSAGE AND ADMINISTRATION ) .
+Renal Impairment Population Pharmacokinetics In patients being treated with tinzaparin sodium ( 175 IU / kg ) for DVT , a population pharmacokinetic ( PK ) analysis determined that tinzaparin sodium clearance based on anti - Xa activity was related to creatinine clearance calculated by the Cockroft Gault equation .
+In this PK analysis , a reduction in tinzaparin sodium clearance in moderate ( 30 - 50 mL / min ) and severe ( < 30 mL / min ) renal impairment was observed .
+Patients with severe renal impairment exhibited a 24 % reduction in tinzaparin sodium clearance relative to patients with normal renal function ( > 80 mL / min ) .
+Hemodialysis Studies In a study of 12 chronic renal failure patients undergoing hemodialysis , anti - Xa clearance was reduced 28 % , consistent with estimates from the population PK analyses .
+In another study of 6 patients undergoing hemodialysis , the half - life of anti - Xa activity following a single IV dose of 75 IU / kg of tinzaparin sodium on an off - dialysis day was prolonged relative to that for healthy volunteers ( 5 . 2 versus 1 . 6 hours ) .
+Patients with severe renal impairment should be dosed with caution ( see PRECAUTIONS ) .
+Patients aged 90 years or older with creatinine clearance ≤ 60 mL / min should not be treated with INNOHEP ® ( see CONTRAINDICATIONS ) .
+Hepatic Impairment No prospective studies have assessed tinzaparin sodium pharmacokinetics or pharmacodynamics in hepatically - impaired patients .
+However , the hepatic route is not a major route of elimination of low molecular weight heparins ( see WARNINGS , Hemorrhage ) .
+Elderly Since renal function declines with age , elimination of tinzaparin sodium may be reduced in elderly patients .
+In a prospective study of 30 elderly patients [ 6 men , 24 women ; aged 87 . 0 ± 5 . 9 years ; mean body weight 62 . 7 ± 14 . 6 kg ; creatinine clearance 40 . 6 ± 15 . 3 mL / min ( range 20 - 72 ) ] treated with tinzaparin sodium 175 IU / kg once daily for ten days for acute venous thromboembolism , there was no accumulation of anti - Xa activity based on peak anti - Xa activity levels .
+A phase III / IV clinical study ( IRIS ; INNOHEP ® in Renal Insufficiency Study ) compared INNOHEP ® ( 175 IU / kg once daily ) and unfractionated heparin ( UFH ) in the initial treatment of deep vein thrombosis ( DVT ) and / or pulmonary embolism ( PE ) in elderly patients with renal insufficiency ( i . e . , patients aged 70 years or older with estimated creatinine clearance of ≤ 30 mL / min calculated by the Cockcroft Gault formula or patients aged 75 years or older with estimated creatinine clearance of ≤ 60 mL / min ) .
+Oral anticoagulants were co - administered beginning on Days 1 - 3 and study treatment was continued for at least 5 days until INR was between 2 - 3 on 2 successive days ; oral anticoagulants were then continued alone and patients were followed until 90 days after treatment start .
+An interim analysis of this ongoing study with INNOHEP ® indicates that patients aged 90 years or older with renal insufficiency have an increased mortality .
+Based on this finding , patients aged 90 years or older with creatinine clearance ≤ 60 mL / min should not be treated with INNOHEP ® ( see CONTRAINDICATIONS ) .
+Obesity Based on the results of a prospective clinical study and the population PK analyses , weight - based dosing is appropriate for heavy / obese patients .
+Tinzaparin sodium PK parameters based on anti - Xa activity are independent of body weight and body mass index ( BMI ) when tinzaparin sodium is dosed on a weight basis at 175 IU / kg or 75 IU / kg .
+In a prospective study of heavy / obese subjects ( 101 to 165 kg ; BMI 26 ‑ 61 kg / m2 ) , anti - Xa activity time profiles were similar to those in normal - weight volunteer studies .
+Data at the 175 IU / kg dose are shown in Figure 2 .
+Clinical trial experience is limited in patients with a BMI > 40 kg / m2 .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Pregnancy The disposition of INNOHEP ® was studied in 54 pregnant patients in any trimester .
+In this open - label , prospective , dose finding study , those treated with an INNOHEP ® dose of 175 IU / kg had similar 24 - hour anti - Xa curves at 28 ( n = 17 ) and 36 ( n = 20 ) weeks gestation .
+The 175 IU / kg dose resulted in a mean anti - Xa level of 0 . 3 to 1 . 0 IU / mL 4 hours after administration .
+Mean anti - Xa levels 4 hours post dose suggest that as pregnancy advances there is no clinically significant decrease in anti - Xa levels .
+Pregnancy has little or no influence on the pharmacokinetics of INNOHEP ® and no dosing adjustment is needed for pregnancy .
+( See Dosage And Administration . )
+CLINICAL STUDIES Treatment of Acute Deep Vein Thrombosis ( DVT ) With or Without Pulmonary Embolism ( PE ) In a randomized , multicenter , double - blind trial INNOHEP ® ( tinzaparin sodium injection ) was compared to unfractionated heparin in 435 hospitalized patients with symptomatic , proximal DVT .
+Six percent of the enrolled patients had symptomatic pulmonary embolism confirmed by segmental or greater lung scan defect .
+The study patients ranged in age from 19 to 92 years ( mean 61 ± 17 years ) , 55 % were male , 88 % were white and 8 % black .
+Patients received either INNOHEP ® SC once daily according to body weight ( 175 IU / kg ) and a placebo IV bolus followed by continuous placebo IV infusion , or unfractionated heparin as an initial IV bolus dose ( 5 , 000 IU ) followed by continuous IV infusion of unfractionated heparin with the rate adjusted according to the aPTT ( 1 . 5 to 2 . 5 times control value ) and a once daily SC placebo injection .
+Treatment continued for approximately 6 days , and both treatment groups also received oral warfarin sodium starting on Day 2 which continued to Day 90 with doses titrated to a target INR of 2 . 0 to 3 . 0 .
+The 90 - day cumulative thromboembolic ( TE ) rate [ recurrent DVT or PE ] with INNOHEP ® was not significantly different than the rate with unfractionated heparin .
+The data are provided in Table 3 .
+Table 3 Efficacy of Once Daily INNOHEP ® in the Treatment of Acute Deep Vein Thrombosis Dosing Regimen Indication INNOHEP ® 1 175 IU / kg Once Daily SC n ( % ) Heparin1 5 , 000 IU Bolus then aPTT Adjusted Continuous Infusion IV n ( % ) Treatment of Acute DVT 1 Patients were also treated with warfarin sodium commencing within 24 - 48 hours of tinzaparin sodium or standard heparin therapy .
+2 All randomized patients who received at least one dose of active study drug 3 TE = thromboembolic events ( DVT and / or PE ) 4 The 95 % Confidence Interval ( CI ) for the total TE event rate difference ( 4 . 0 % ) was 0 . 07 % , 8 . 07 % .
+Intent to Treat Population2 216 ( 100 % ) 219 ( 100 % ) Patient Outcome at 90 Days Total TE3 Events 6 ( 2 . 8 % ) 4 15 ( 6 . 8 % ) 4 DVTs 3 ( 1 . 4 % ) 9 ( 4 . 1 % ) PEs 3 ( 1 . 4 % ) 6 ( 2 . 7 % ) Mortality with INNOHEP ® was 4 . 6 % ( 10 patients ) and with heparin 9 . 6 % ( 21 patients ) .
+The 95 % confidence interval ( CI ) for the mortality difference was 0 . 16 % , 9 . 76 % .
+In a multicenter , open - label , randomized clinical trial INNOHEP ® was compared to unfractionated heparin as initial treatment for hospitalized patients with symptomatic PE not requiring thrombolytic therapy , embolectomy , or vena cava interruption .
+Patients were excluded if they carried an unusually high risk for thromboembolic and / or bleeding events or other complications .
+Of the 608 patients treated , 422 had documented DVT .
+Prior to determination of study eligibility and randomization , patients were allowed to receive unfractionated heparin ; 78 % of the patients received unfractionated heparin at therapeutic doses for up to 24 hours , and an additional 4 % received heparin at therapeutic doses for greater than 24 hours .
+After randomization , INNOHEP ® was administered SC once daily , 175 IU / kg body weight ; heparin as an initial IV bolus ( 50 IU / kg ) followed by continuous IV infusion with the rate adjusted according to the aPTT ( 2 to 3 times control value ) .
+For both groups , treatment continued for approximately 8 days .
+All patients also received oral anticoagulant treatment starting in the first 3 days which continued to Day 90 .
+Thromboembolic events were infrequent for both treatment groups .
+No difference was observed between the two treatment groups for incidence of recurrence of thromboembolic events .
+INDICATIONS AND USAGE INNOHEP ® is indicated for the treatment of acute symptomatic deep vein thrombosis with or without pulmonary embolism when administered in conjunction with warfarin sodium .
+The safety and effectiveness of INNOHEP ® were established in hospitalized patients .
+CONTRAINDICATIONS INNOHEP ® is contraindicated in patients with active major bleeding , in patients with ( or history of ) heparin - induced thrombocytopenia , or in patients with hypersensitivity to tinzaparin sodium .
+INNOHEP ® is contraindicated in patients aged 90 years or older with creatinine clearance ≤ 60 mL / min .
+Patients with known hypersensitivity to heparin , sulfites , benzyl alcohol , or pork products should not be treated with INNOHEP ® .
+WARNINGS INNOHEP ® is not intended for intramuscular or intravenous administration .
+INNOHEP ® cannot be used interchangeably ( unit for unit ) with heparin or other low molecular weight heparins as they differ in manufacturing process , molecular weight distribution , anti - Xa and anti - IIa activities , units , and dosage .
+Each of these medications has its own instructions for use .
+INNOHEP ® should not be used in patients with a history of heparin - induced thrombocytopenia ( see CONTRAINDICATIONS ) .
+Hemorrhage : INNOHEP ® , like other anticoagulants , should be used with extreme caution in conditions with increased risk of hemorrhage , such as bacterial endocarditis ; severe uncontrolled hypertension ; congenital or acquired bleeding disorders including hepatic failure and amyloidosis ; active ulcerative and angiodysplastic gastrointestinal disease ; hemorrhagic stroke ; shortly after brain , spinal or ophthalmological surgery , or in patients treated concomitantly with platelet inhibitors .
+Bleeding can occur in any tissue or organ of the body during therapy with INNOHEP ® .
+Hemorrhage in some cases has been reported to result in death or permanent disability .
+A hemorrhagic event should be seriously considered in the presence of an unexplained fall in hematocrit , hemoglobin , or blood pressure .
+If severe hemorrhage occurs , INNOHEP ® should be discontinued .
+Spinal or epidural hematomas can occur with the associated use of low molecular weight heparins or heparinoids and spinal / epidural anesthesia or spinal puncture which can result in long - term or permanent paralysis .
+The risk of these events is higher with the use of post - operative indwelling epidural catheters or with the concomitant use of additional drugs affecting hemostasis such as NSAIDs ( see boxed WARNING and PRECAUTIONS , Drug Interactions ) .
+Thrombocytopenia : Thrombocytopenia can occur with the administration of INNOHEP ® .
+In clinical studies , thrombocytopenia ( platelet count < 100 , 000 / mm3 if baseline value ≥ 150 , 000 / mm3 , ≥ 50 % decline if baseline < 150 , 000 / mm3 ) was identified in 1 % of patients given INNOHEP ® ; severe thrombocytopenia ( platelet count less than 50 , 000 / mm3 ) occurred in 0 . 13 % .
+Thrombocytopenia of any degree should be monitored closely .
+If the platelet count falls below 100 , 000 / mm3 , INNOHEP ® should be discontinued .
+Cases of thrombocytopenia with disseminated thrombosis also have been observed in clinical practice with heparins , and low molecular weight heparins , including tinzaparin sodium .
+Some of these cases were complicated by organ infarction with secondary organ dysfunction or limb ischemia , and have resulted in death .
+Hypersensitivity : INNOHEP ® contains sodium metabisulfite , a sulfite that may cause allergic - type reactions including anaphylactic symptoms and life - threatening asthmatic episodes in certain susceptible people .
+The overall prevalence of sulfite sensitivity in the general population is unknown , but is probably low .
+Sulfite sensitivity is more frequent in asthmatic people than in non - asthmatic people .
+Priapism : Priapism has been reported from post - marketing surveillance as a rare occurrence .
+In some cases surgical intervention was required .
+Miscellaneous : INNOHEP ® multiple dose vial contains benzyl alcohol as a preservative .
+The administration of medications containing benzyl alcohol as a preservative to premature neonates has been associated with a fatal “ Gasping Syndrome . "
+Because benzyl alcohol may cross the placenta , INNOHEP ® preserved with benzyl alcohol should be used with caution in pregnant women only if clearly needed ( see PRECAUTIONS , Pregnancy ) .
+PRECAUTIONS General : INNOHEP ® should not be mixed with other injections or infusions .
+INNOHEP ® should be used with care in patients with a bleeding diathesis , uncontrolled arterial hypertension , or a history of recent gastrointestinal ulceration , diabetic retinopathy , and hemorrhage .
+Consistent with expected age - related changes in renal function , elderly patients and patients with renal insufficiency may show reduced elimination of tinzaparin sodium .
+INNOHEP ® should be used with care in these patients ( see CLINICAL PHARMACOLOGY , Special Populations ) .
+Patients aged 90 years or older with creatinine clearance ≤ 60 mL / min should not be treated with INNOHEP ® ( see CONTRAINDICATIONS ) .
+Laboratory Tests : Periodic complete blood counts including platelet count and hematocrit or hemoglobin , and stool tests for occult blood are recommended during treatment with INNOHEP ® .
+When administered at the recommended doses , routine anticoagulation tests such as prothrombin time ( PT ) and activated partial thromboplastin time ( aPTT ) are relatively insensitive measures of INNOHEP ® activity and , therefore , are unsuitable for monitoring .
+Drug Interactions : Because of increased risk of bleeding , INNOHEP ® should be used with caution in patients receiving oral anticoagulants , platelet inhibitors ( e . g . , salicylates , dipyridamole , sulfinpyrazone , dextran , NSAIDs including ketorolac tromethamine , ticlopidine , and clopidogrel ) , and thrombolytics .
+If coadministration is essential , close clinical and laboratory monitoring of these patients is advised ( see PRECAUTIONS , Laboratory Tests ) .
+Laboratory Test Interactions Elevation of Serum Transaminases : Asymptomatic reversible increases in aspartate ( AST [ SGOT ] ) and alanine ( ALT [ SGPT ] ) aminotransferase levels have occurred in patients during treatment with INNOHEP ® ( see ADVERSE REACTIONS , Elevations of Serum Aminotransferases ) .
+Similar increases in transaminase levels have also been observed in patients and volunteers treated with heparin and other low molecular weight heparins .
+Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction , liver disease , and pulmonary emboli , elevations that might be caused by drugs like INNOHEP ® should be interpreted with caution .
+Carcinogenesis , Mutagenesis , Impairment of Fertility : No long - term studies in animals have been performed to evaluate the carcinogenic potential of tinzaparin sodium .
+Tinzaparin sodium displayed no genotoxic potential in an in vitro bacterial cell mutation assay ( AMES test ) , in vitro Chinese hamster ovary cell forward gene mutation test , in vitro human lymphocyte chromosomal aberration assay , and in vivo mouse micronucleus assay .
+Tinzaparin sodium at SC doses up to 1800 IU / kg / day in rats ( about 2 times the maximum recommended human dose based on body surface area ) was found to have no effect on fertility and reproductive performance .
+Pregnancy Pregnancy : Category B : All pregnancies have a background risk of birth defects , loss , or other adverse outcome regardless of drug exposure .
+The fetal risk summary below describes the potential of INNOHEP ® to increase the risk of developmental abnormalities above background risk .
+Fetal Risk Summary INNOHEP ® is not predicted to increase the risk of developmental abnormalities .
+INNOHEP ® does not cross the placenta , based on human and animal studies , and shows no evidence of teratogenic effects or fetotoxicity .
+Clinical Considerations Pregnancy alone confers an increased risk for thromboembolism that is even higher for women with preexisting thromboembolic disease , certain high risk pregnancy conditions , and a history of complications during a previous pregnancy .
+All patients receiving anticoagulants such as tinzaparin , including pregnant women , are at risk for bleeding .
+Pregnant women receiving tinzaparin should be carefully monitored for evidence of bleeding or excessive anticoagulation .
+Hemorrhage can occur at any site and may lead to death of mother and / or fetus .
+Pregnant women should be apprised of the potential hazard to the fetus and the mother if tinzaparin is administered during pregnancy .
+Consideration for use of a shorter acting agent should be specifically addressed as delivery approaches .
+Data Human Data - Fifty - four women pregnant or planning to become pregnant with conditions requiring anticoagulation received INNOHEP ® in an open - label , prospective , pregnancy dose finding study .
+( See Clinical Pharmacology , Special Populations , Pregnancy . )
+Patients received 50 to 175 IU / kg / day , with dosing starting as early as prior to conception or as late as 32 weeks gestation .
+Duration of exposure ranged from 3 to 463 days ( median 159 days ) .
+From 55 pregnancies , there were 50 live births , 3 first trimester miscarriages , and 2 intrauterine deaths at 17 and 30 weeks .
+Approximately 6 % of pregnancies were complicated by fetal distress .
+Approximately 10 % of pregnant women receiving INNOHEP ® experienced significant vaginal bleeding .
+A cause and effect relationship for the above observations has not been established .
+Animal Data - Teratogenicity studies have been performed in rats at SC doses up to 1800 IU / kg / day ( about 2 times the maximum recommended human dose based on body surface area ) and in rabbits at SC doses up to 1900 IU / kg / day ( about 4 times the maximum recommended human dose based on body surface area ) and have revealed no evidence of impaired fertility or harm to the fetus due to tinzaparin sodium .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+INNOHEP ® does not cross the placenta .
+Cases of " Gasping Syndrome " have occurred in premature infants when large amounts of benzyl alcohol have been administered ( 99 - 404 mg / kg / day ) .
+The 2 mL vial of INNOHEP ® contains 20 mg of benzyl alcohol ( 10 mg of benzyl alcohol per mL ) ( see WARNINGS , Miscellaneous ) .
+If INNOHEP ® is used during pregnancy , or if the patient becomes pregnant while taking this drug , the patient should be apprised of potential hazards to the fetus .
+Nursing Mothers : In studies where tinzaparin sodium was administered subcutaneously to lactating rats , very low levels of tinzaparin sodium were found in breast milk .
+It is not known whether tinzaparin sodium is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when INNOHEP ® is administered to nursing women .
+Pediatric Use : Safety and effectiveness of tinzaparin sodium in pediatric patients have not been established .
+Geriatric Use : In the clinical studies for the treatment of DVT described in the CLINICAL STUDIES section , 58 % of patients were 65 or older and 29 % were 75 and over .
+In these studies , no significant overall differences in safety or effectiveness were observed between these subjects and younger subjects .
+In the interim analysis of an ongoing study ( IRIS study ) comparing INNOHEP ® ( 175 IU / kg once daily ) and unfractionated heparin ( UFH ) in the initial treatment of deep vein thrombosis ( DVT ) and / or pulmonary embolism ( PE ) in elderly patients ( 75 years or older ) with creatinine clearance ≤ 60 mL / min , a higher mortality was observed in patients aged 90 years or older who were treated with INNOHEP ® as compared to those treated with unfractionated heparin .
+Patients aged 90 years or older with creatinine clearance ≤ 60 mL / min should not be treated with INNOHEP ® ( see CLINICAL PHARMACOLOGY , Special Populations and CONTRAINDICATIONS ) .
+ADVERSE REACTIONS Bleeding : Bleeding is the most common adverse event associated with INNOHEP ® ( tinzaparin sodium injection ) ; however , the incidence of major bleeding is low .
+In clinical trials , the definition of major bleeding included bleeding accompanied by ≥ 2 gram / dL decrease in hemoglobin , requiring transfusion of 2 or more units of blood products , or bleeding which was intracranial , retroperitoneal , or into a major prosthetic joint .
+The data are provided in Table 4 .
+Table 4 Major Bleeding Events1 in Treatment of Acute Deep Vein Thrombosis With or Without Pulmonary EmbolismIndication Treatment Group1 Treatment of Acute DVT With or Without PE INNOHEP ® N = 519 % Heparin N = 524 % 1 INNOHEP ® 175 IU / kg once daily SC .
+Unfractionated heparin initial IV bolus of 5 , 000 IU followed by continuous IV infusion adjusted to an aPTT of 1 . 5 to 2 . 5 or initial IV bolus of 50 IU / kg followed by continuous IV infusion adjusted to an aPTT of 2 . 0 to 3 . 0 .
+In all groups treatment continued for approximately 6 to 8 days , and all patients received oral anticoagulant treatment commencing in the first 2 to 3 days .
+2 Bleeding accompanied by ≥ 2 gram / dL decline in hemoglobin , requiring transfusion of 2 or more units of blood products , or bleeding which was intracranial , retroperitoneal , or into a major prosthetic joint .
+3 The 95 % CI on the difference in major bleeding event rates ( 1 . 9 % ) was 0 . 33 % , 3 . 47 % .
+Major Bleeding Events2 0 . 83 2 . 73 Fatal or nonfatal hemorrhage from any tissue or organ can occur .
+The signs , symptoms , and severity will vary according to the location and degree or extent of the bleeding .
+Hemorrhagic complications may present as , but are not limited to , paralysis ; paresthesia ; headache , chest , abdomen , joint , muscle or other pain ; dizziness ; shortness of breath , difficult breathing or swallowing ; swelling ; weakness ; hypotension , shock , or coma .
+Therefore , the possibility of hemorrhage should be considered in evaluating the condition of any anticoagulated patient with complaints which do not indicate an obvious diagnosis ( see WARNINGS , Hemorrhage ) .
+Thrombocytopenia : In clinical studies thrombocytopenia was identified in 1 % of patients treated with INNOHEP ® .
+Severe thrombocytopenia ( platelet count < 50 , 000 / mm3 ) occurred in 0 . 13 % ( see WARNINGS , Thrombocytopenia ) .
+Elevations of Serum Aminotransferases : Asymptomatic increases in aspartate ( AST [ SGOT ] ) and / or alanine ( ALT [ SGPT ] ) aminotransferase levels greater than 3 times the upper limit of normal of the laboratory reference range have been reported in up to 8 . 8 % and 13 % for AST and ALT , respectively , of patients receiving tinzaparin sodium for the treatment of DVT .
+Similar increases in aminotransferase levels have also been observed in patients and healthy volunteers treated with heparin and other low molecular weight heparins .
+Such elevations are reversible and are rarely associated with increases in bilirubin ( see PRECAUTIONS , Laboratory Tests ) .
+Local Reactions : Mild local irritation , pain , hematoma , and ecchymosis may follow SC injection of INNOHEP ® .
+Injection site hematoma has been reported in approximately 16 % of patients treated with INNOHEP ® .
+Hypersensitivity : Anaphylactic / anaphylactoid reactions may occur in association with INNOHEP ® use ( see CONTRAINDICATIONS and WARNINGS ) .
+Adverse Events : Adverse events with INNOHEP ® or heparin reported at a frequency of ≥ 1 % in clinical trials with patients undergoing treatment for proximal DVT with or without PE , are provided in Table 5 .
+Table 5 Adverse Events Occurring in ≥ 1 % in Treatment of Acute Deep Vein Thrombosis With or Without Pulmonary Embolism Studies Treatment Group1 Adverse Events INNOHEP ® N = 519 n ( % ) Heparin N = 524 n ( % ) NOS = not otherwise specified 1 INNOHEP ® 175 IU / kg once daily SC .
+Unfractionated heparin initial IV bolus of 5 , 000 IU followed by continuous IV infusion adjusted to an aPTT of 1 . 5 to 2 . 5 or initial IV bolus of 50 IU / kg followed by continuous IV infusion adjusted to an aPTT of 2 . 0 to 3 . 0 .
+In all groups treatment continued for approximately 6 to 8 days , and all patients received oral anticoagulant treatment commencing in the first 2 to 3 days .
+Urinary Tract Infection 19 ( 3 . 7 % ) 18 ( 3 . 4 % ) Pulmonary Embolism 12 ( 2 . 3 % ) 12 ( 2 . 3 % ) Chest Pain 12 ( 2 . 3 % ) 8 ( 1 . 5 % ) Epistaxis 10 ( 1 . 9 % ) 7 ( 1 . 3 % ) Headache 9 ( 1 . 7 % ) 9 ( 1 . 7 % ) Nausea 9 ( 1 . 7 % ) 10 ( 1 . 9 % ) Hemorrhage NOS 8 ( 1 . 5 % ) 23 ( 4 . 4 % ) Back Pain 8 ( 1 . 5 % ) 2 ( 0 . 4 % ) Fever 8 ( 1 . 5 % ) 11 ( 2 . 1 % ) Pain 8 ( 1 . 5 % ) 7 ( 1 . 3 % ) Constipation 7 ( 1 . 3 % ) 9 ( 1 . 7 % ) Rash 6 ( 1 . 2 % ) 8 ( 1 . 5 % ) Dyspnea 6 ( 1 . 2 % ) 9 ( 1 . 7 % ) Vomiting 5 ( 1 . 0 % ) 8 ( 1 . 5 % ) Hematuria 5 ( 1 . 0 % ) 6 ( 1 . 1 % ) Abdominal Pain 4 ( 0 . 8 % ) 6 ( 1 . 1 % ) Diarrhea 3 ( 0 . 6 % ) 7 ( 1 . 3 % ) Anemia 0 7 ( 1 . 3 % ) Other Adverse Events in Completed or Ongoing Trials : Other adverse events reported at a frequency of ≥ 1 % in 4 , 000 patients who received INNOHEP ® in completed or ongoing clinical trials are listed by body system : Body as a Whole : injection site hematoma , reaction unclassified .
+Cardiovascular Disorders , General : hypotension , hypertension .
+Central and Peripheral Nervous System Disorders : dizziness .
+Gastrointestinal System Disorders : flatulence , gastrointestinal disorder ( not otherwise specified ) , dyspepsia .
+Heart Rate and Rhythm Disorders : tachycardia .
+Myo - , Endo - , Pericardial and Valve Disorders : angina pectoris .
+Platelet , Bleeding and Clotting Disorders : hematoma , thrombocytopenia .
+Psychiatric Disorders : insomnia , confusion .
+Red Blood Cell Disorders : anemia .
+Resistance Mechanism Disorders : healing impaired , infection .
+Respiratory System Disorders : pneumonia , respiratory disorder .
+Skin and Appendages Disorders : rash erythematous , pruritus , bullous eruption , skin disorder .
+Urinary System Disorders : urinary retention , dysuria .
+Vascular ( Extracardiac ) Disorders : thrombophlebitis deep , thrombophlebitis leg deep .
+Serious adverse events reported in clinical trials or from post - marketing experience are included in Tables 6 and 7 , respectively : Table 6 Serious Adverse Events Associated With INNOHEP ® in Clinical TrialsCategory Serious Adverse Event Bleeding - related Anorectal bleeding Cerebral / intracranial bleeding Epistaxis Gastrointestinal hemorrhage Hemarthrosis Hematemesis Hematuria Hemopericardium Hemorrhage NOS Injection site bleeding Melena Purpura Retroperitoneal / intra - abdominal bleeding Vaginal hemorrhage Wound hematoma Organ dysfunction Angina pectoris Cardiac arrhythmia Dependent edema Myocardial infarction / coronary thrombosis Thromboembolism Fetal / neonatal Congenital anomaly Fetal death Fetal distress Cutaneous Bullous eruption Erythematous rash Maculopapular rash Skin necrosis Hematologic Granulocytopenia Thrombocytopenia Allergic reactions Allergic reaction Injection site reaction Cellulitis Neoplastic Neoplasm Table 7 Other Serious Adverse Events Associated With INNOHEP ® from Post - Marketing SurveillanceCategory Serious Adverse Event Organ dysfunction Cholestatic hepatitis Increase in hepatic enzymes Peripheral ischemia Priapism Bleeding - related Hematoma Hemoptysis Ocular hemorrhage Rectal bleeding Cutaneous reactions Epidermal necrolysis Ischemic necrosis Stevens - Johnson syndrome Urticaria Hematologic Agranulocytosis Pancytopenia Thrombocythemia Injection site reactions Abscess Necrosis Allergic reactions Allergic purpura Angioedema Fetal / neonatal Cutis aplasia of the scalp Neonatal hypotonia General Acute febrile reaction Ongoing Safety Surveillance : When neuraxial anesthesia ( epidural / spinal anesthesia ) or spinal puncture is employed , patients anticoagulated or scheduled to be anticoagulated with low molecular weight heparins or heparinoids for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long - term or permanent paralysis ( see boxed WARNING ) .
+Spinal epidural hematoma with INNOHEP ® administered at a therapeutic dose has been reported in at least one patient who had not received neuraxial anesthesia or spinal puncture .
+OVERDOSAGE Symptoms / Treatment : Accidental overdosage of INNOHEP ® ( tinzaparin sodium injection ) may lead to bleeding complications ( see WARNINGS , Hemorrhage ) .
+Nosebleeds , blood in urine or tarry stools may be noted as the first signs of bleeding .
+Easy bruising or petechial hemorrhages may precede frank bleeding .
+In case of minor bleeding , the patient should be monitored for signs of more severe bleeding .
+Of patients known to have received an overdose of tinzaparin sodium in clinical trials , defined as one or more doses > 200 IU / kg for the treatment of DVT or > 100 IU / kg for the prevention of DVT , approximately 16 % experienced a bleeding complication .
+Of spontaneous reports of probable overdosing with tinzaparin sodium , approximately 81 % were accompanied by bleeding , usually hematoma .
+Most patients who have bleeding complications while receiving INNOHEP ® can be controlled by discontinuing INNOHEP ® , applying pressure to the site , if possible , and replacing volume and hemostatic blood elements ( e . g . , red blood cells , fresh frozen plasma , platelets ) as required .
+In the event that this is ineffective , protamine sulfate can be administered .
+In cases of serious bleeding or large overdose , protamine sulfate ( 1 % solution ) can be given by slow IV infusion at a dose of 1 mg protamine for every 100 anti - Xa IU of INNOHEP ® given .
+A second infusion of 0 . 5 mg protamine sulfate per 100 anti - Xa IU of INNOHEP ® may be administered if the aPTT measured 2 to 4 hours after the first infusion remains prolonged .
+Even with the additional dose of protamine , the aPTT may remain more prolonged than would usually be found following administration of protamine to reverse unfractionated heparin .
+Protamine does not completely neutralize tinzaparin sodium anti - Xa activity ( maximum about 60 % ) .
+Particular care should be taken to avoid overdosage with protamine sulfate .
+Administration of protamine sulfate can cause severe hypotensive and anaphylactoid reactions .
+Because fatal reactions have been reported with protamine sulfate , it should be given only when resuscitation facilities are readily available .
+For additional information consult the labeling of Protamine Sulfate Injection , USP , products .
+Single SC doses of tinzaparin sodium at 22 , 000 and 7 , 700 IU / kg ( about 10 and 7 times the maximum recommended human dose , respectively , based upon body surface area ) were lethal to mice and rats , respectively .
+Symptoms of acute toxicity included hematoma formation and bleeding at the injection site , anemia , decreased motor activity , unsteady gait , piloerection , and ptosis .
+DOSAGE AND ADMINISTRATION All patients should be evaluated for bleeding disorders before administration of INNOHEP ® .
+Since coagulation parameters are unsuitable for monitoring INNOHEP ® activity , routine monitoring of coagulation parameters is not required ( see PRECAUTIONS , Laboratory Tests ) .
+Adult Dosage The recommended dose of INNOHEP ® for the treatment of DVT with or without PE is 175 anti - Xa IU / kg of body weight , administered SC once daily for at least 6 days and until the patient is adequately anticoagulated with warfarin ( INR at least 2 . 0 for two consecutive days ) .
+Warfarin sodium therapy should be initiated when appropriate ( usually within 1 - 3 days of INNOHEP ® initiation ) .
+Pregnancy has little or no influence on the pharmacokinetics of INNOHEP ® and no dosing adjustment is needed for pregnancy .
+As INNOHEP ® may theoretically affect the PT / INR , patients receiving both INNOHEP ® and warfarin should have blood for PT / INR determination drawn just prior to the next scheduled dose of INNOHEP ® .
+Table 8 provides INNOHEP ® doses for the treatment of DVT with or without PE .
+It is necessary to calculate the appropriate INNOHEP ® dose for patient weights not displayed in Table 8 .
+An appropriately calibrated syringe should be used to assure withdrawal of the correct volume of drug from INNOHEP ® vials .
+Table 8 INNOHEP ® Weight - based Dosing for Treatment of Deep Vein Thrombosis With or Without Symptomatic Pulmonary Embolism DVT Treatment Patient Body Weight in Pounds 175 IU / kg SC Once Daily 20 , 000 IU per mL Patient Body Weight in Kilograms Dose ( IU ) Amount ( mL ) 68 - 80 6 , 000 0 . 3 31 - 36 81 - 94 7 , 000 0 . 35 37 - 42 95 - 107 8 , 000 0 . 4 43 - 48 108 - 118 9 , 000 0 . 45 49 - 53 119 - 131 10 , 000 0 . 5 54 - 59 132 - 144 11 , 000 0 . 55 60 - 65 145 - 155 12 , 000 0 . 6 66 - 70 156 - 168 13 , 000 0 . 65 71 - 76 169 - 182 14 , 000 0 . 7 77 - 82 183 - 195 15 , 000 0 . 75 83 - 88 196 - 206 16 , 000 0 . 8 89 - 93 207 - 219 17 , 000 0 . 85 94 - 99 220 - 232 18 , 000 0 . 9 100 - 105 233 - 243 19 , 000 0 . 95 106 - 110 244 - 256 20 , 000 1 111 - 116 257 - 270 21 , 000 1 . 05 117 - 122 271 - 283 22 , 000 1 . 1 123 - 128 284 - 294 23 , 000 1 . 15 129 - 133 295 - 307 24 , 000 1 . 2 134 - 139 308 - 320 25 , 000 1 . 25 140 - 145 321 - 331 26 , 000 1 . 3 146 - 150 332 - 344 27 , 000 1 . 35 151 - 156 345 - 358 28 , 000 1 . 4 157 - 162 To calculate the volume ( mL ) of an INNOHEP ® 175 anti - Xa IU per kg SC dose for treatment of deep vein thrombosis : • Patient weight ( kg ) X 0 . 00875 mL / kg = volume to be administered ( mL ) subcutaneously Administration INNOHEP ® is a clear , colorless to slightly yellow solution , and as with other parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration .
+INNOHEP ® is administered by SC injection .
+It must not be administered by intramuscular or intravenous injection .
+Subcutaneous Injection Technique : Patients should be lying down ( supine ) or sitting and INNOHEP ® administered by deep SC injection .
+Administration should be alternated between the left and right anterolateral and left and right posterolateral abdominal wall .
+The injection site should be varied daily .
+The whole length of the needle should be introduced into a skin fold held between the thumb and forefinger ; the skin fold should be held throughout the injection .
+To minimize bruising , do not rub the injection site after completion of the injection .
+HOW SUPPLIED INNOHEP ® is available in a multiple dose 2 mL vial in the following packages : Box of 1 2 mL vial ( 20 , 000 anti - Xa IU per mL ) NDC 67211 - 342 - 08 Box of 10 2 mL vials ( 20 , 000 anti - Xa IU per mL ) NDC 67211 - 342 - 53 Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° - 30 ° C ( 59 ° - 86 ° F ) [ See USP Controlled Room Temperature ] .
+Keep out of the reach of children .
+MANUFACTURED FOR : Celgene Corporation Boulder , CO 80301 MANUFACTURED BY : LEO Pharmaceutical Products DK - 2750 Ballerup , Denmark Innohep ® is a registered trademark of LEO Pharmaceutical Products .
+April 2008

@@ -1,0 +1,59 @@
+DESCRIPTION Indium In 111 Chloride Sterile Solution is indicated for radiolabeling ProstaScint ™ preparations used for in vivo diagnostic imaging procedures .
+It is also indicated for radiolabeling Zevalin ™ preparations used for Radioimmunotherapy procedures .
+It is supplied as a sterile , non - pyrogenic solution of Indium In 111 Chloride in 0 . 05 molar hydrochloric acid .
+No carrier has been added to the solution .
+Each 0 . 5 milliliter of the solution contains 185 megabequerels ( 5 millicuries ) of Indium In 111 Chloride at time of calibration ( specific activity of > 1 . 85 GBq / μg Indium ; > 50 mCi / μg Indium at this time of calibration ) .
+The solution pH is 1 . 1 to 1 . 4 .
+Radionuclidic Purity Indium In - 111 is cyclotron produced by the proton irradiation ( ( p , 2 n ) reaction ) of cadmium Cd - 112 enriched target .
+At time of calibration , it contains not less than 99 . 925 % indium In - 111 and , not more than 0 . 075 % indium In - 114 m and zinc Zn - 65 combined .
+At the time of expiration , it contains not less than 99 . 85 % indium 111 and not more than 0 . 15 % indium In - 114 m and zinc Zn - 65 combined .
+No carrier has been added .
+Radiochemical Purity At the time of calibration , the Indium In 111 Chloride Sterile Solution contains not less than 95 % of the Indium present as ionic In3 + .
+Chemical Purity Indium In 111 Chloride Sterile Solution is tested for the following metallic impurities : copper , iron , cadmium , lead , zinc , nickel , and mercury , and contains extremely low levels of these metals .
+The sum of the individual impurity ratios for the metals listed is not more than 0 . 60 ppm .
+Physical Characteristics Indium In - 111 decays by electron capture to cadmium Cd - 111 ( stable ) with a physical half - life of 67 . 32 hours ( 2 . 81 days ) ( see Table 2 ) [ 1 ] .
+Photons useful for detection and imaging are listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data * Radiation Mean Percent Per Disintegration Mean Energy ( keV ) * Kocher , David C . , " Radioactive Decay Data Tables " , DOE / TIC - 11026 , 115 ( 1981 ) .
+Gamma - 2 90 . 2 171 . 3 Gamma - 3 94 . 0 245 . 4 [ 1 ] From Radiopharmaceutical Internal Dosimetry Information Center , Oak Ridge Associated Universities , Oak Ridge , TN 37831 - 0117 , February 1985 .
+External Radiation The exposure rate constant for 37 MBq ( 1 mCi ) of indium In - 111 is 8 . 3 x 10 - 4 C / kg / hr ( 3 . 21 R / hr ) at 1 cm .
+The specific gamma ray constant for indium In - 111 is 3 . 21 R / hr - mCi @ 1 cm null .
+The first half - value thickness of lead ( Pb ) is 0 . 023 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 0 . 834 cm of Pb will decrease the external radiation exposure by a factor of about 1000 .
+Table 2 .
+Indium In - 111 Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 023 0 . 5 0 . 203 10 - 1 0 . 513 10 - 2 0 . 834 10 - 3 1 . 12 10 - 4 These estimates of attenuation do not take into consideration the presence of longer - lived contaminants with higher energy photons , namely indium In - 114 m .
+To correct for physical decay of indium In - 111 , the fractions that remain at selected intervals before and after calibration time are shown in Table 3 .
+Table 3 .
+Indium In - 111 Physical Decay Chart ; Half - Life 67 . 32 hours ( 2 . 81 days ) * Calibration time Hours Fraction Remaining Hours Fraction Remaining - 72 2 . 10 0 * 1 . 00 - 60 1 . 85 6 0 . 94 - 48 1 . 64 12 0 . 88 - 36 1 . 45 24 0 . 78 - 24 1 . 28 36 0 . 69 - 12 1 . 13 48 0 . 61 - 6 1 . 06 72 0 . 48 CLINICAL PHARMACOLOGY Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+INDICATIONS AND USAGE Indium In 111 Chloride Sterile Solution is indicated for radiolabeling ProstaScint preparations used for in vivo diagnostic imaging procedures .
+It is also indicated for radiolabeling Zevalin preparations used for Radioimmunotherapy procedures .
+Please refer to the package insert for ProstaScint or Zevalin for information on the final drug product .
+CONTRAINDICATIONS Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+WARNINGS CONTENTS OF THE VIAL OF INDIUM In 111 CHLORIDE SOLUTION ARE INTENDED ONLY TO BE USED AS AN INGREDIENT FOR RADIOLABELING PROSTASCINT FOR USE IN IN VIVO DIAGNOSTIC IMAGING PROCEDURES OR TO BE USED AS AN INGREDIENT FOR RADIOLABELING ZEVALIN ™ FOR USE IN RADIOIMMUNOTHERAPY PROCEDURES , AND ARE NOT TO BE ADMINISTERED DIRECTLY TO HUMANS .
+PRECAUTIONS General Caution must be used to maintain proper aseptic technique while withdrawing and transferring contents of the Indium Chloride solution vial .
+Do not use after expiration time and date indicated on vial label .
+Contents of the vial are radioactive and adequate shielding and handling precautions must be maintained at all times .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+Pregnancy Category Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+Nursing Mothers Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+Pediatric Use Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+ADVERSE REACTIONS Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+DOSAGE AND ADMINISTRATION Radiation Dosimetry Please refer to the package insert for ProstaScint or Zevalin for this information on the final drug product .
+HOW SUPPLIED Indium In 111 Chloride Sterile Solution is supplied in 10 mL vials containing 0 . 5 mL of solution .
+It is a sterile non - pyrogenic solution in 0 . 05 molar hydrochloric acid .
+No carrier is added to the solution .
+Each 0 . 5 mL contains 185 megabequerels ( 5 millicuries ) of Indium In 111 Chloride at time of calibration .
+The pH of the solution is 1 . 1 to 1 . 4 .
+Special Storage and Handling The contents of the vial are radioactive and adequate shielding and handling precautions must be maintained .
+Store at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ see USP ] .
+Storage and disposal of Indium In 111 Chloride Sterile Solution should be controlled in a manner that is in compliance with the appropriate regulations of the government agency authorized to license the use of the radionuclide .
+The vial should be kept inside its transportation shield whenever possible and should be handled with forceps when contents are being removed .
+Pharmacovigilance : 1 - 866 - 789 - 2211 ProstaScint is a trademark of EUSA Pharma ( USA ) , Inc .
+Zevalin is a trademark of RIT Oncology , LLC .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA A132I0 R12 / 2018 CURIUMTM PRINCIPAL DISPLAY PANEL Indium In 111 Chloride Sterile Solution Sterile , Non - Pyrogenic Solution Contains no Bacteriostatic Preservative Store at Controlled Room Temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) SINGLE DOSE - NOT FOR DIRECT ADMINISTRATION NO CARRIER ADDED FOR USE ONLY IN RADIOLABELING ProstaScint ™ ( Capromab Pendetide ) , and Zevalin ™ ( Ibritumomab Tiuxetan ) SEE PACKAGE INSERT FOR INFORMATION Rx only WARNING : Radioactive drugs must be handled only by qualified personnel in conformity with regulations of the U . S . Nuclear Regulatory Commission or state regulatory agencies where applicable .
+Bottle containing drug should be kept in this container or within heavier shield .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUMTM CAUTION RADIOACTIVE MATERIAL A132C0 R12 / 2018 [ MULTIMEDIA ] [ MULTIMEDIA ]

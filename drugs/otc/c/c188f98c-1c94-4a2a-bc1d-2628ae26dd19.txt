@@ -1,0 +1,314 @@
+SPL UNCLASSIFIED SECTION 25 mg / mL Aminophylline , Dihydrate ( Equivalent to 19 . 7 mg / mL of Anhydrous Theophylline ) Ampul Fliptop Vial DESCRIPTION Aminophylline Injection , USP is a sterile , nonpyrogenic solution of aminophylline in water for injection .
+Aminophylline ( dihydrate ) is approximately 79 % of anhydrous theophylline by weight .
+Aminophylline Injection is administered by slow intravenous injection or diluted and administered by intravenous infusion .
+The solution contains no bacteriostat or antimicrobial agent and is intended for use only as a single - dose injection .
+When smaller doses are required the unused portion should be discarded .
+Aminophylline is a 2 : 1 complex of theophylline and ethylenediamine .
+Theophylline is structurally classified as a methylxanthine .
+Aminophylline occurs as a white or slightly yellowish granule or powder , with a slight ammoniacal odor .
+Aminophylline has the chemical name 1 H - Purine - 2 , 6 - dione , 3 , 7 - dihydro - 1 , 3 - dimethyl - , compound with 1 , 2 - ethanediamine ( 2 : 1 ) .
+The structural formula of aminophylline ( dihydrate ) is as follows : [ MULTIMEDIA ] Aminophylline Injection , USP contains aminophylline ( calculated as the dihydrate ) 25 mg / mL ( equivalent to 19 . 7 mg / mL anhydrous theophylline ) prepared with the aid of ethylenediamine .
+The solution may contain an excess of ethylenediamine for pH adjustment .
+pH is 8 . 8 ( 8 . 6 to 9 . 0 ) .
+The osmolar concentration is 0 . 17 mOsmol / mL ( calc . )
+.
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action : Theophylline has two distinct actions in the airways of patients with reversible obstruction ; smooth muscle relaxation ( i . e . , bronchodilation ) and suppression of the response of the airways to stimuli ( i . e . , nonbronchodilator prophylactic effects ) .
+While the mechanisms of action of theophylline are not known with certainty , studies in animals suggest that bronchodilation is mediated by the inhibition of two isozymes of phosphodiesterase ( PDE III and , to a lesser extent , PDE IV ) , while nonbronchodilator prophylactic actions are probably mediated through one or more different molecular mechanisms , that do not involve inhibition of PDE III or antagonism of adenosine receptors .
+Some of the adverse effects associated with theophylline appear to be mediated by inhibition of PDE III ( e . g . , hypotension , tachycardia , headache , and emesis ) and adenosine receptor antagonism ( e . g . , alterations in cerebral blood flow ) .
+Theophylline increases the force of contraction of diaphragmatic muscles .
+This action appears to be due to enhancement of calcium uptake through an adenosine - mediated channel .
+Serum Concentration - Effect Relationship : Bronchodilation occurs over the serum theophylline concentration range of 5 - 20 mcg / mL .
+Clinically important improvement in symptom control and pulmonary function has been found in most studies to require serum theophylline concentrations > 10 mcg / mL .
+At serum theophylline concentrations > 20 mcg / mL , both the frequency and severity of adverse reactions increase .
+In general , maintaining the average serum theophylline concentration between 10 and 15 mcg / mL will achieve most of the drug ' s potential therapeutic benefit while minimizing the risk of serious adverse events .
+Pharmacokinetics : Overview : The pharmacokinetics of theophylline vary widely among similar patients and cannot be predicted by age , sex , body weight or other demographic characteristics .
+In addition , certain concurrent illnesses and alterations in normal physiology ( see TABLE I ) and co - administration of other drugs ( see TABLE II ) can significantly alter the pharmacokinetic characteristics of theophylline .
+Within - subject variability in metabolism has also been reported in some studies , especially in acutely ill patients .
+It is , therefore , recommended that serum theophylline concentrations be measured frequently in acutely ill patients receiving intravenous theophylline ( e . g . , at 24 - hr .
+intervals ) .
+More frequent measurements should be made during the initiation of therapy and in the presence of any condition that may significantly alter theophylline clearance ( see PRECAUTIONS , Effects on Laboratory Tests ) .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Note : In addition to the factors listed above , theophylline clearance is increased and half - life decreased by low carbohydrate / high protein diets , parenteral nutrition , and daily consumption of charcoal - broiled beef .
+A high carbohydrate / low protein diet can decrease the clearance and prolong the half - life of theophylline .
+Distribution : Once theophylline enters the systemic circulation , about 40 % is bound to plasma protein , primarily albumin .
+Unbound theophylline distributes throughout body water , but distributes poorly into body fat .
+The apparent volume of distribution of theophylline is approximately 0 . 45 L / kg ( range 0 . 3 - 0 . 7 L / kg ) based on ideal body weight .
+Theophylline passes freely across the placenta , into breast milk and into the cerebrospinal fluid ( CSF ) .
+Saliva theophylline concentrations approximate unbound serum concentrations , but are not reliable for routine or therapeutic monitoring unless special techniques are used .
+An increase in the volume of distribution of theophylline , primarily due to reduction in plasma protein binding , occurs in premature neonates , patients with hepatic cirrhosis , uncorrected acidemia , the elderly and in women during the third trimester of pregnancy .
+In such cases , the patient may show signs of toxicity at total ( bound + unbound ) serum concentrations of theophylline in the therapeutic range ( 10 - 20 mcg / mL ) due to elevated concentrations of the pharmacologically active unbound drug .
+Similarly , a patient with decreased theophylline binding may have a sub - therapeutic total drug concentration while the pharmacologically active unbound concentration is in the therapeutic range .
+If only total serum theophylline concentration is measured , this may lead to an unnecessary and potentially dangerous dose increase .
+In patients with reduced protein binding , measurement of unbound serum theophylline concentration provides a more reliable means of dosage adjustment than measurement of total serum theophylline concentration .
+Generally , concentrations of unbound theophylline should be maintained in the range of 6 - 12 mcg / mL .
+Metabolism : In adults and children beyond one year of age , approximately 90 % of the dose is metabolized in the liver .
+Biotransformation takes place through demethylation to 1 - methylxanthine and 3 - methylxanthine and hydroxylation to 1 , 3 - dimethyluric acid .
+1 - methylxanthine is further hydroxylated , by xanthine oxidase , to 1 - methyluric acid .
+About 6 % of a theophylline dose is N - methylated to caffeine .
+Theophylline demethylation to 3 - methylxanthine is catalyzed by cytochrome P - 450 1A2 , while cytochromes P - 450 2E1 and P - 450 3A3 catalyze the hydroxylation to 1 , 3 - dimethyluric acid .
+Demethylation to 1 - methylxanthine appears to be catalyzed either by cytochrome P - 450 1A2 or a closely related cytochrome .
+In neonates , the N - demethylation pathway is absent while the function of the hydroxylation pathway is markedly deficient .
+The activity of these pathways slowly increases to maximal levels by one year of age .
+Caffeine and 3 - methylxanthine are the only theophylline metabolites with pharmacologic activity .
+3 - methylxanthine has approximately one tenth the pharmacologic activity of theophylline and serum concentrations in adults with normal renal function are < 1 mcg / mL .
+In patients with end - stage renal disease , 3 - methylxanthine may accumulate to concentrations that approximate the unmetabolized theophylline concentration .
+Caffeine concentrations are usually undetectable in adults regardless of renal function .
+In neonates , caffeine may accumulate to concentrations that approximate the unmetabolized theophylline concentration and thus , exert a pharmacologic effect .
+Both the N - demethylation and hydroxylation pathways of theophylline biotransformation are capacity - limited .
+Due to the wide intersubject variability of the rate of theophylline metabolism , nonlinearity of elimination may begin in some patients at serum theophylline concentrations < 10 mcg / mL .
+Since this nonlinearity results in more than proportional changes in serum theophylline concentrations with changes in dose , it is advisable to make increases or decreases in dose in small increments in order to achieve desired changes in serum theophylline concentrations ( see DOSAGE AND ADMINISTRATION , TABLE VI ) .
+Accurate prediction of dose - dependency of theophylline metabolism in patients a priori is not possible , but patients with very high initial clearance rates ( i . e . , low steady state serum theophylline concentrations at above average doses ) have the greatest likelihood of experiencing large changes in serum theophylline concentration in response to dosage changes .
+Excretion : In neonates , approximately 50 % of the theophylline dose is excreted unchanged in the urine .
+Beyond the first three months of life , approximately 10 % of the theophylline dose is excreted unchanged in the urine .
+The remainder is excreted in the urine mainly as 1 , 3 - dimethyluric acid ( 35 - 40 % ) , 1 - methyluric acid ( 20 - 25 % ) and 3 - methylxanthine ( 15 - 20 % ) .
+Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline ( i . e . , caffeine , 3 - methylxanthine ) do not accumulate to clinically significant levels even in the face of end - stage renal disease , no dosage adjustment for renal insufficiency is necessary in adults and children > 3 months of age .
+In contrast , the large fraction of the theophylline dose excreted in the urine as unchanged theophylline and caffeine in neonates requires careful attention to dose reduction and frequent monitoring of serum theophylline concentrations in neonates with reduced renal function ( see WARNINGS ) .
+Serum Concentrations at Steady State : In a patient who has received no theophylline in the previous 24 hours , a loading dose of intravenous theophylline of 4 . 6 mg / kg ( 5 . 7 mg / kg as aminophylline ) , calculated on the basis of ideal body weight and administered over 30 minutes , on average , will produce a maximum post - distribution serum concentration of 10 mcg / mL with a range of 6 - 16 mcg / mL .
+In non - smoking adults , initiation of a constant intravenous theophylline infusion of 0 . 4 mg / kg / hr ( 0 . 5 mg / kg / hr as aminophylline ) at the completion of the loading dose , on average , will result in a steady - state concentration of 10 mcg / mL with a range of 7 - 26 mcg / mL .
+The mean and range of steady - state serum concentrations are similar when the average child ( age 1 to 9 years ) is given a loading dose of 4 . 6 mg / kg theophylline ( 5 . 7 mg / kg as aminophylline ) followed by a constant intravenous infusion of 0 . 8 mg / kg / hr ( 1 . 0 mg / kg / hr as aminophylline ) ( see DOSAGE AND ADMINISTRATION ) .
+Special Populations ( see TABLE I for mean clearance and half - life values ) Geriatric : The clearance of theophylline is decreased by an average of 30 % in healthy elderly adults ( > 60 yrs . )
+compared to healthy young adults .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in elderly patients ( see WARNINGS ) .
+Pediatrics : The clearance of theophylline is very low in neonates ( see WARNINGS ) .
+Theophylline clearance reaches maximal values by one year of age , remains relatively constant until about 9 years of age and then slowly decreases by approximately 50 % to adult values at about age 16 .
+Renal excretion of unchanged theophylline in neonates amounts to about 50 % of the dose , compared to about 10 % in children older than three months and in adults .
+Careful attention to dosage selection and monitoring of serum theophylline concentrations are required in children ( see WARNINGS and DOSAGE AND ADMINISTRATION ) .
+Gender : Gender differences in theophylline clearance are relatively small and unlikely to be of clinical significance .
+Significant reduction in theophylline clearance , however , has been reported in women on the 20 th day of the menstrual cycle and during the third trimester of pregnancy .
+Race : Pharmacokinetic differences in theophylline clearance due to race have not been studied .
+Renal Insufficiency : Only a small fraction , e . g . , about 10 % , of the administered theophylline dose is excreted unchanged in the urine of children greater than three months of age and adults .
+Since little theophylline is excreted unchanged in the urine and since active metabolites of theophylline ( i . e . , caffeine , 3 - methylxanthine ) do not accumulate to clinically significant levels even in the face of end - stage renal disease , no dosage adjustment for renal insufficiency is necessary in adults and children > 3 months of age .
+In contrast , approximately 50 % of the administered theophylline dose is excreted unchanged in the urine in neonates .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in neonates with decreased renal function ( see WARNINGS ) .
+Hepatic Insufficiency : Theophylline clearance is decreased by 50 % or more in patients with hepatic insufficiency ( e . g . , cirrhosis , acute hepatitis , cholestasis ) .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with reduced hepatic function ( see WARNINGS ) .
+Congestive Heart Failure ( CHF ) : Theophylline clearance is decreased by 50 % or more in patients with CHF .
+The extent of reduction in theophylline clearance in patients with CHF appears to be directly correlated to the severity of the cardiac disease .
+Since theophylline clearance is independent of liver blood flow , the reduction in clearance appears to be due to impaired hepatocyte function rather than reduced perfusion .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with CHF ( see WARNINGS ) .
+Smokers : Tobacco and marijuana smoking appears to increase the clearance of theophylline by induction of metabolic pathways .
+Theophylline clearance has been shown to increase by approximately 50 % in young adult tobacco smokers and by approximately 80 % in elderly tobacco smokers compared to nonsmoking subjects .
+Passive smoke exposure has also been shown to increase theophylline clearance by up to 50 % .
+Abstinence from tobacco smoking for one week causes a reduction of approximately 40 % in theophylline clearance .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients who stop smoking ( see WARNINGS ) .
+Use of nicotine gum has been shown to have no effect on theophylline clearance .
+Fever : Fever , regardless of its underlying cause , can decrease the clearance of theophylline .
+The magnitude and duration of the fever appear to be directly correlated to the degree of decrease of theophylline clearance .
+Precise data are lacking , but a temperature of 39 ° C ( 102 ° F ) for at least 24 hours is probably required to produce a clinically significant increase in serum theophylline concentrations .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with sustained fever ( see WARNINGS ) .
+Miscellaneous : Other factors associated with decreased theophylline clearance include the third trimester of pregnancy , sepsis with multiple organ failure , and hypothyroidism .
+Careful attention to dose reduction and frequent monitoring of serum theophylline concentrations are required in patients with any of these conditions ( see WARNINGS ) .
+Other factors associated with increased theophylline clearance include hyperthyroidism and cystic fibrosis .
+Clinical Studies : Inhaled beta - 2 selective agonists and systemically administered corticosteroids are the treatments of first choice for management of acute exacerbations of asthma .
+The results of controlled clinical trials on the efficacy of adding intravenous theophylline to inhaled beta - 2 selective agonists and systemically administered corticosteroids in the management of acute exacerbations of asthma have been conflicting .
+Most studies in patients treated for acute asthma exacerbations in an emergency department have shown that addition of intravenous theophylline does not produce greater bronchodilation and increases the risk of adverse effects .
+In contrast , other studies have shown that addition of intravenous theophylline is beneficial in the treatment of acute asthma exacerbations in patients requiring hospitalization , particularly in patients who are not responding adequately to inhaled beta - 2 selective agonists .
+In patients with chronic obstructive pulmonary disease ( COPD ) , clinical studies have shown that theophylline decreases dyspnea , air trapping , the work of breathing , and improves contractility of diaphragmatic muscles with little or no improvement in pulmonary function measurements .
+[ MULTIMEDIA ] [ MULTIMEDIA ] INDICATIONS AND USAGE Intravenous theophylline is indicated as an adjunct to inhaled beta - 2 selective agonists and systemically administered corticosteroids for the treatment of acute exacerbations of the symptoms and reversible airflow obstruction associated with asthma and other chronic lung diseases , e . g . , emphysema and chronic bronchitis .
+CONTRAINDICATIONS Aminophylline is contraindicated in patients with a history of hypersensitivity to theophylline or other components in the product including ethylenediamine .
+WARNINGS Concurrent Illness : Theophylline should be used with extreme caution in patients with the following clinical conditions due to the increased risk of exacerbation of the concurrent condition : Active peptic ulcer disease Seizure disorders Cardiac arrhythmias ( not including bradyarrhythmias ) Conditions That Reduce Theophylline Clearance : There are several readily identifiable causes of reduced theophylline clearance .
+If the infusion rate is not appropriately reduced in the presence of these risk factors , severe and potentially fatal theophylline toxicity can occur .
+Careful consideration must be given to the benefits and risks of theophylline use and the need for more intensive monitoring of serum theophylline concentrations in patients with the following risk factors : Age Neonates ( term and premature ) Children < 1 year Elderly ( > 60 years ) Concurrent Diseases Acute pulmonary edema Congestive heart failure Cor pulmonale Fever ; ≥ 102 ° for 24 hours or more ; or lesser temperature elevations for longer periods Hypothyroidism Liver disease ; cirrhosis , acute hepatitis Reduced renal function in infants < 3 months of age Sepsis with multi - organ failure Shock Cessation of Smoking Drug Interactions Adding a drug that inhibits theophylline metabolism ( e . g . , cimetidine , erythromycin , tacrine ) or stopping a concurrently administered drug that enhances theophylline metabolism ( e . g . , carbamazepine , rifampin ) ( see PRECAUTIONS , Drug Interactions , TABLE II ) .
+When Signs or Symptoms of Theophylline Toxicity Are Present : Whenever a patient receiving theophylline develops nausea or vomiting , particularly repetitive vomiting , or other signs or symptoms consistent with theophylline toxicity ( even if another cause may be suspected ) , the intravenous infusion should be stopped and a serum theophylline concentration measured immediately .
+Dosage Increases Increases in the dose of intravenous theophylline should not be made in response to an acute exacerbation of symptoms unless the steady - state serum theophylline concentration is < 10 mcg / mL .
+As the rate of theophylline clearance may be dose - dependent ( i . e . , steady - state serum concentrations may increase disproportionately to the increase in dose ) , an increase in dose based upon a sub - therapeutic serum concentration measurement should be conservative .
+In general , limiting infusion rate increases to about 25 % of the previous infusion rate will reduce the risk of unintended excessive increases in serum theophylline concentration ( see DOSAGE AND ADMINISTRATION , TABLE VI ) .
+PRECAUTIONS General Careful consideration of the various interacting drugs and physiologic conditions that can alter theophylline clearance and require dosage adjustment should occur prior to initiation of theophylline therapy and prior to increases in theophylline dose ( see WARNINGS ) .
+Monitoring Serum Theophylline Concentrations : Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate .
+Specifically , the serum theophylline concentration should be measured as follows : 1 .
+Before making a dose increase to determine whether the serum concentration is sub - therapeutic in a patient who continues to be symptomatic . 2 .
+Whenever signs or symptoms of theophylline toxicity are present . 3 .
+Whenever there is a new illness , worsening of an existing concurrent illness or a change in the patient ' s treatment regimen that may alter theophylline clearance ( e . g . , fever > 102 ° F sustained for ≥ 24 hours , hepatitis , or drugs listed in TABLE II are added or discontinued ) .
+In patients who have received no theophylline in the previous 24 hours , a serum concentration should be measured 30 minutes after completion of the intravenous loading dose to determine whether the serum concentration is < 10 mcg / mL indicating the need for an additional loading dose or > 20 mcg / mL indicating the need to delay starting the constant intravenous infusion .
+Once the infusion is begun , a second measurement should be obtained after one expected half - life ( e . g . , approximately 4 hours in children 1 to 9 years and 8 hours in non - smoking adults ; see TABLE I for the expected half - life in additional patient populations ) .
+The second measurement should be compared to the first to determine the direction in which the serum concentration has changed .
+The infusion rate can then be adjusted before steady state is reached in an attempt to prevent an excessive or sub - therapeutic theophylline concentration from being achieved .
+If a patient has received theophylline in the previous 24 hours , the serum concentration should be measured before administering an intravenous loading dose to make sure that it is safe to do so .
+If a loading dose is not indicated ( i . e . , the serum theophylline concentration is ≥ 10 mcg / mL ) , a second measurement should be obtained as above at the appropriate time after starting the intravenous infusion .
+If , on the other hand , a loading dose is indicated ( see DOSAGE AND ADMINISTRATIONfor guidance on selection of the appropriate loading dose ) , a second blood sample should be obtained after the loading dose and a third sample should be obtained one expected half - life after starting the constant infusion to determine the direction in which the serum concentration has changed .
+Once the above procedures related to initiation of intravenous theophylline infusion have been completed , subsequent serum samples for determination of theophylline concentration should be obtained at 24 - hour intervals for the duration of the infusion .
+The theophylline infusion rate should be increased or decreased as appropriate based on the serum theophylline levels .
+When signs or symptoms of theophylline toxicity are present , the intravenous infusion should be stopped and a serum sample for theophylline concentration should be obtained as soon as possible , analyzed immediately , and the result reported to the clinician without delay .
+In patients in whom decreased serum protein binding is suspected ( e . g . , cirrhosis , women during the third trimester of pregnancy ) , the concentration of unbound theophylline should be measured and the dosage adjusted to achieve an unbound concentration of 6 - 12 mcg / mL .
+Saliva concentrations of theophylline cannot be used reliably to adjust dosage without special techniques .
+Effects on Laboratory Tests : As a result of its pharmacological effects , theophylline at serum concentrations within the 10 - 20 mcg / mL range modestly increases plasma glucose ( from a mean of 88 mg % to 98 mg % ) , uric acid ( from a mean of 4 mg / dl to 6 mg / dl ) , free fatty acids ( from a mean of 451 µEq / L to 800 µEq / L ) , total cholesterol ( from a mean of 140 vs 160 mg / dl ) , HDL ( from a mean of 36 to 50 mg / dl ) , HDL / LDL ratio ( from a mean of 0 . 5 to 0 . 7 ) , and urinary free cortisol excretion ( from a mean of 44 to 63 mcg / 24 hr ) .
+Theophylline at serum concentrations within the 10 - 20 mcg / mL range may also transiently decrease serum concentrations of triiodothyronine ( 144 before , 131 after one week and 142 ng / dl after 4 weeks of theophylline ) .
+The clinical importance of these changes should be weighed against the potential therapeutic benefit of theophylline in individual patients .
+Drug Interactions : Theophylline interacts with a wide variety of drugs .
+The interaction may be pharmacodynamic , i . e . , alterations in the therapeutic response to theophylline or another drug or occurrence of adverse effects without a change in serum theophylline concentration .
+More frequently , however , the interaction is pharmacokinetic , i . e . , the rate of theophylline clearance is altered by another drug resulting in increased or decreased serum theophylline concentrations .
+Theophylline only rarely alters the pharmacokinetics of other drugs .
+The drugs listed in TABLE II have the potential to produce clinically significant pharmacodynamic or pharmacokinetic interactions with theophylline .
+The information in the " Effect " column of TABLE II assumes that the interacting drug is being added to a steady - state theophylline regimen .
+If theophylline is being initiated in a patient who is already taking a drug that inhibits theophylline clearance ( e . g . , cimetidine , erythromycin ) , the dose of theophylline required to achieve a therapeutic serum theophylline concentration will be smaller .
+Conversely , if theophylline is being initiated in a patient who is already taking a drug that enhances theophylline clearance ( e . g . , rifampin ) , the dose of theophylline required to achieve a therapeutic serum theophylline concentration will be larger .
+Discontinuation of a concomitant drug that increases theophylline clearance will result in accumulation of theophylline to potentially toxic levels , unless the theophylline dose is appropriately reduced .
+Discontinuation of a concomitant drug that inhibits theophylline clearance will result in decreased serum theophylline concentrations , unless the theophylline dose is appropriately increased .
+The drugs listed in TABLE III have either been documented not to interact with theophylline or do not produce a clinically significant interaction ( i . e . , < 15 % change in theophylline clearance ) .
+The listing of drugs in TABLES II and III are current as of September 1 , 1995 .
+New interactions are continuously being reported for theophylline , especially with new chemical entities .
+The clinician should not assume that a drug does not interact with theophylline if it is not listed in TABLE II .
+Before addition of a newly available drug in a patient receiving theophylline , the package insert of the new drug and / or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] The Effect of Other Drugs on Theophylline Serum Concentration Measurements : Most serum theophylline assays in clinical use are immunoassays which are specific for theophylline .
+Other xanthines such as caffeine , dyphylline , and pentoxifylline are not detected by these assays .
+Some drugs ( e . g . , cefazolin , cephalothin ) , however , may interfere with certain HPLC techniques .
+Caffeine and xanthine metabolites in neonates or patients with renal dysfunction may cause the reading from some dry reagent office methods to be higher than the actual serum theophylline concentration .
+Carcinogenesis , Mutagenesis , and Impairment of Fertility : Long term carcinogenicity studies have been carried out in mice ( oral doses 30 - 150 mg / kg ) and rats ( oral doses 5 - 75 mg / kg ) .
+Results are pending .
+Theophylline has been studied in Ames salmonella , in vivo and in vitro cytogenetics , micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic .
+In a 14 week continuous breeding study , theophylline , administered to mating pairs of B6C3F1 mice at oral doses of 120 , 270 and 500 mg / kg ( approximately 1 . 0 - 3 . 0 times the human dose on a mg / m2 basis ) impaired fertility , as evidenced by decreases in the number of live pups per litter , decreases in the mean number of litters per fertile pair , and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose .
+In 13 week toxicity studies , theophylline was administered to F344 rats and B6C3F1 mice at oral doses of 40 - 300 mg / kg ( approximately 2 times the human dose on a mg / m2 basis ) .
+At the high dose , systemic toxicity was observed in both species including decreases in testicular weight .
+Pregnancy : There are no adequate and well controlled studies in pregnant women .
+Additionally , there are no teratogenicity studies in nonrodents ( e . g . , rabbits ) .
+Theophylline was not shown to be teratogenic in CD - 1 mice at oral doses up to 400 mg / kg , approximately 2 . 0 times the human dose on a mg / m2 basis or in CD - 1 rats at oral doses up to 260 mg / kg , approximately 3 . 0 times the recommended human dose on a mg / m2 basis .
+At a dose of 220 mg / kg , embryotoxicity was observed in rats in the absence of maternal toxicity .
+Nursing Mothers : Theophylline is excreted into breast milk and may cause irritability or other signs of mild toxicity in nursing human infants .
+The concentration of theophylline in breast milk is about equivalent to the maternal serum concentration .
+An infant ingesting a liter of breast milk containing 10 - 20 mcg / mL of theophylline per day is likely to receive 10 - 20 mg of theophylline per day .
+Serious adverse effects in the infant are unlikely unless the mother has toxic serum theophylline concentrations .
+Pediatric Use : Theophylline is safe and effective for the approved indications in pediatric patients ( see INDICATIONS AND USAGE ) .
+The constant infusion rate of intravenous theophylline must be selected with caution in pediatric patients since the rate of theophylline clearance is highly variable across the age range of neonates to adolescents ( see CLINICAL PHARMACOLOGY , TABLE I , WARNINGS , and DOSAGE AND ADMINISTRATION , TABLE V ) .
+Due to the immaturity of theophylline metabolic pathways in pediatric patients under the age of one year , particular attention to dosage selection and frequent monitoring of serum theophylline concentrations are required when theophylline is prescribed to pediatric patients in this age group .
+Geriatric Use : Elderly patients are at significantly greater risk of experiencing serious toxicity from theophylline than younger patients due to pharmacokinetic and pharmacodynamic changes associated with aging .
+Theophylline clearance is reduced in patients greater than 60 years of age , resulting in increased serum theophylline concentrations in response to a given theophylline infusion rate .
+Protein binding may be decreased in the elderly resulting in a larger proportion of the total serum theophylline concentration in the pharmacologically active unbound form .
+Elderly patients also appear to be more sensitive to the toxic effects of theophylline after chronic overdosage than younger patients .
+For these reasons , the maximum infusion rate of theophylline in patients greater than 60 years of age ordinarily should not exceed 17 mg / hr ( 21 mg / hr as aminophylline ) unless the patient continues to be symptomatic and the peak steady state serum theophylline concentration is < 10 mcg / mL ( see DOSAGE AND ADMINISTRATION ) .
+Theophylline infusion rates greater than 17 mg / hr ( 21 mg / hr as aminophylline ) should be prescribed with caution in elderly patients .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] ADVERSE REACTIONS Adverse reactions associated with theophylline are generally mild when peak serum theophylline concentrations are < 20 mcg / mL and mainly consist of transient caffeine - like adverse effects such as nausea , vomiting , headache , and insomnia .
+When peak serum theophylline concentrations exceed 20 mcg / mL , however , theophylline produces a wide range of adverse reactions including persistent vomiting , cardiac arrhythmias , and intractable seizures which can be lethal ( see OVERDOSAGE ) .
+Other adverse reactions that have been reported at serum theophylline concentrations < 20 mcg / mL include diarrhea , irritability , restlessness , fine skeletal muscle tremors , and transient diuresis .
+In patients with hypoxia secondary to COPD , multifocal atrial tachycardia and flutter have been reported at serum theophylline concentrations ≥ 15 mcg / mL .
+There have been a few isolated reports of seizures at serum theophylline concentrations < 20 mcg / mL in patients with an underlying neurological disease or in elderly patients .
+The occurrence of seizures in elderly patients with serum theophylline concentrations < 20 mcg / mL may be secondary to decreased protein binding resulting in a larger proportion of the total serum theophylline concentration in the pharmacologically active unbound form .
+The clinical characteristics of the seizures reported in patients with serum theophylline concentrations < 20 mcg / mL have generally been milder than seizures associated with excessive serum theophylline concentrations resulting from an overdose ( i . e . , they have generally been transient , often stopped without anticonvulsant therapy , and did not result in neurological residua ) .
+Products containing aminophylline may rarely produce severe allergic reactions of the skin , including exfoliative dermatitis , after systemic administration in a patient who has been previously sensitized by topical application of a substance containing ethylenediamine .
+In such patients skin patch tests are positive for ethylenediamine , a component of aminophylline , and negative for theophylline .
+Pharmacists and other individuals who experience repeated skin exposure while physically handling aminophylline may develop a contact dermatitis due to the ethylenediamine component .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] OVERDOSAGE General : The chronicity and pattern of theophylline overdosage significantly influences clinical manifestations of toxicity , management and outcome .
+There are two common presentations : 1 ) acute overdose , i . e . , infusion of an excessive loading dose or excessive maintenance infusion rate for less than 24 hours , and 2 ) chronic overdosage , i . e . , excessive maintenance infusion rate for greater than 24 hours .
+The most common causes of chronic theophylline overdosage include clinician prescribing of an excessive dose or a normal dose in the presence of factors known to decrease the rate of theophylline clearance and increasing the dose in response to an exacerbation of symptoms without first measuring the serum theophylline concentration to determine whether a dose increase is safe .
+Several studies have described the clinical manifestations of theophylline overdose following oral administration and attempted to determine the factors that predict life - threatening toxicity .
+In general , patients who experience an acute overdose are less likely to experience seizures than patients who have experienced a chronic overdosage , unless the peak serum theophylline concentration is > 100 mcg / mL .
+After a chronic overdosage , generalized seizures , life - threatening cardiac arrhythmias , and death may occur at serum theophylline concentrations > 30 mcg / mL .
+The severity of toxicity after chronic overdosage is more strongly correlated with the patient ' s age than the peak serum theophylline concentration ; patients > 60 years are at the greatest risk for severe toxicity and mortality after a chronic overdosage .
+Pre - existing or concurrent disease may also significantly increase the susceptibility of a patient to a particular toxic manifestation , e . g . , patients with neurologic disorders have an increased risk of seizures and patients with cardiac disease have an increased risk of cardiac arrhythmias for a given serum theophylline concentration compared to patients without the underlying disease .
+The frequency of various reported manifestations of oral theophylline overdose according to the mode of overdose are listed in TABLE IV .
+Other manifestations of theophylline toxicity include increases in serum calcium , creatine kinase , myoglobin and leukocyte count , decreases in serum phosphate and magnesium , acute myocardial infarction , and urinary retention in men with obstructive uropathy .
+Seizures associated with serum theophylline concentrations > 30 mcg / mL are often resistant to anticonvulsant therapy and may result in irreversible brain injury if not rapidly controlled .
+Death from theophylline toxicity is most often secondary to cardiorespiratory arrest and / or hypoxic encephalopathy following prolonged generalized seizures or intractable cardiac arrhythmias causing hemodynamic compromise .
+Overdose Management : General Recommendations for Patients with Symptoms of Theophylline Overdose or Serum Theophylline Concentrations > 30 mcg / mL While Receiving Intravenous Theophylline .
+1 .
+Stop the theophylline infusion . 2 .
+While simultaneously instituting treatment , contact a regional poison center to obtain updated information and advice on individualizing the recommendations that follow . 3 .
+Institute supportive care , including establishment of intravenous access , maintenance of the airway , and electrocardiographic monitoring . 4 .
+Treatment of seizures : Because of the high morbidity and mortality associated with theophylline - induced seizures , treatment should be rapid and aggressive .
+Anticonvulsant therapy should be initiated with an intravenous benzodiazepine , e . g . , diazepam , in increments of 0 . 1 - 0 . 2 mg / kg every 1 - 3 minutes until seizures are terminated .
+Repetitive seizures should be treated with a loading dose of phenobarbital ( 20 mg / kg infused over 30 - 60 minutes ) .
+Case reports of theophylline overdose in humans and animal studies suggest that phenytoin is ineffective in terminating theophylline - induced seizures .
+The doses of benzodiazepines and phenobarbital required to terminate theophylline - induced seizures are close to the doses that may cause severe respiratory depression or respiratory arrest ; the clinician should therefore be prepared to provide assisted ventilation .
+Elderly patients and patients with COPD may be more susceptible to the respiratory depressant effects of anticonvulsants .
+Barbiturate - induced coma or administration of general anesthesia may be required to terminate repetitive seizures or status epilepticus .
+General anesthesia should be used with caution in patients with theophylline overdose because fluorinated volatile anesthetics may sensitize the myocardium to endogenous catecholamines released by theophylline .
+Enflurane appears less likely to be associated with this effect than halothane and may , therefore , be safer .
+Neuromuscular blocking agents alone should not be used to terminate seizures since they abolish the musculoskeletal manifestations without terminating seizure activity in the brain . 5 .
+Anticipate Need for Anticonvulsants : In patients with theophylline overdose who are at high risk for theophylline - induced seizures , e . g . , patients with acute overdoses and serum theophylline concentrations > 100 mcg / mL or chronic overdosage in patients > 60 years of age with serum theophylline concentrations > 30 mcg / mL , the need for anticonvulsant therapy should be anticipated .
+A benzodiazepine such as diazepam should be drawn into a syringe and kept at the patient ' s bedside and medical personnel qualified to treat seizures should be immediately available .
+In selected patients at high risk for theophylline - induced seizures , consideration should be given to the administration of prophylactic anticonvulsant therapy .
+Situations where prophylactic anticonvulsant therapy should be considered in high risk patients include anticipated delays in instituting methods for extracorporeal removal of theophylline ( e . g . , transfer of a high risk patient from one health care facility to another for extracorporeal removal ) and clinical circumstances that significantly interfere with efforts to enhance theophylline clearance ( e . g . , a neonate where dialysis may not be technically feasible or a patient with vomiting unresponsive to antiemetics who is unable to tolerate multiple - dose oral activated charcoal ) .
+In animal studies , prophylactic administration of phenobarbital , but not phenytoin , has been shown to delay the onset of theophylline - induced generalized seizures and to increase the dose of theophylline required to induce seizures ( i . e . , markedly increases the LD50 ) .
+Although there are no controlled studies in humans , a loading dose of intravenous phenobarbital ( 20 mg / kg infused over 60 minutes ) may delay or prevent life - threatening seizures in high risk patients while efforts to enhance theophylline clearance are continued .
+Phenobarbital may cause respiratory depression , particularly in elderly patients and patients with COPD . 6 .
+Treatment of cardiac arrhythmias : Sinus tachycardia and simple ventricular premature beats are not harbingers of life - threatening arrhythmias , they do not require treatment in the absence of hemodynamic compromise , and they resolve with declining serum theophylline concentrations .
+Other arrhythmias , especially those associated with hemodynamic compromise , should be treated with antiarrhythmic therapy appropriate for the type of arrhythmia . 7 .
+Serum Theophylline Concentration Monitoring : The serum theophylline concentration should be measured immediately upon presentation , 2 - 4 hours later , and then at sufficient intervals , e . g . , every 4 hours , to guide treatment decisions and to assess the effectiveness of therapy .
+Serum theophylline concentrations may continue to increase after presentation of the patient for medical care as a result of continued absorption of theophylline from the gastrointestinal tract .
+Serial monitoring of serum theophylline serum concentrations should be continued until it is clear that the concentration is no longer rising and has returned to nontoxic levels . 8 .
+General Monitoring Procedures : Electrocardiographic monitoring should be initiated on presentation and continued until the serum theophylline level has returned to a nontoxic level .
+Serum electrolytes and glucose should be measured on presentation and at appropriate intervals indicated by clinical circumstances .
+Fluid and electrolyte abnormalities should be promptly corrected .
+Monitoring and treatment should be continued until the serum concentration decreases below 20 mcg / mL . 9 .
+Enhance clearance of theophylline : Multiple - dose oral activated charcoal ( e . g . , 0 . 5 mg / kg up to 20 g , every two hours ) increases the clearance of theophylline at least twofold by adsorption of theophylline secreted into gastrointestinal fluids .
+Charcoal must be retained in , and pass through , the gastrointestinal tract to be effective ; emesis should therefore be controlled by administration of appropriate antiemetics .
+Alternatively , the charcoal can be administered continuously through a nasogastric tube in conjunction with appropriate antiemetics .
+A single dose of sorbitol may be administered with the activated charcoal to promote stooling to facilitate clearance of the adsorbed theophylline from the gastrointestinal tract .
+Sorbitol alone does not enhance clearance of theophylline and should be dosed with caution to prevent excessive stooling which can result in severe fluid and electrolyte imbalances .
+Commercially available fixed combinations of liquid charcoal and sorbitol should be avoided in young children and after the first dose in adolescents and adults since they do not allow for individualization of charcoal and sorbitol dosing .
+In patients with intractable vomiting , extracorporeal methods of theophylline removal should be instituted ( see OVERDOSAGE , Extracorporeal Removal ) .
+Specific Recommendations : Acute Overdose ( e . g . , excessive loading dose or excessive infusion rate < 24 hours ) A . Serum Concentration > 20 < 30 mcg / mL1 .
+Stop the theophylline infusion . 2 .
+Monitor the patient and obtain a serum theophylline concentration in 2 - 4 hours to insure that the concentration is decreasing . B . Serum Concentration > 30 < 100 mcg / mL1 .
+Stop the theophylline infusion . 2 .
+Administer multiple dose oral activated charcoal and measures to control emesis . 3 .
+Monitor the patient and obtain serial theophylline concentrations every 2 - 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions . 4 .
+Institute extracorporeal removal if emesis , seizures , or cardiac arrhythmias cannot be adequately controlled ( see OVERDOSAGE , Extracorporeal Removal ) .
+C . Serum Concentration > 100 mcg / mL1 .
+Stop the theophylline infusion . 2 .
+Consider prophylactic anticonvulsant therapy . 3 .
+Administer multiple - dose oral activated charcoal and measures to control emesis . 4 .
+Consider extracorporeal removal , even if the patient has not experienced a seizure ( see OVERDOSAGE , Extracorporeal Removal ) . 5 .
+Monitor the patient and obtain serial theophylline concentrations every 2 - 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions .
+Chronic Overdosage ( e . g . , excessive infusion rate for greater than 24 hours ) A . Serum Concentration > 20 < 30 mcg / mL ( with manifestations of theophylline toxicity ) 1 .
+Stop the theophylline infusion . 2 .
+Monitor the patient and obtain a serum theophylline concentration in 2 - 4 hours to insure that the concentration is decreasing . B . Serum Concentration > 30 mcg / mL in patients < 60 years of age1 . Stop the theophylline infusion . 2 .
+Administer multiple - dose oral activated charcoal and measures to control emesis . 3 .
+Monitor the patient and obtain serial theophylline concentrations every 2 - 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions . 4 .
+Institute extracorporeal removal if emesis , seizures , or cardiac arrhythmias cannot be adequately controlled ( see OVERDOSAGE , Extracorporeal Removal ) .
+C . Serum Concentration > 30 mcg / mL in patients ≥ 60 years of age1 . Stop the theophylline infusion . 2 .
+Consider prophylactic anticonvulsant therapy . 3 .
+Administer multiple - dose oral activated charcoal and measures to control emesis . 4 .
+Consider extracorporeal removal even if the patient has not experienced a seizure ( see OVERDOSAGE , Extracorporeal Removal ) . 5 .
+Monitor the patient and obtain serial theophylline concentrations every 2 - 4 hours to gauge the effectiveness of therapy and to guide further treatment decisions .
+Extracorporeal Removal : Increasing the rate of theophylline clearance by extracorporeal methods may rapidly decrease serum concentrations , but the risks of the procedure must be weighed against the potential benefit .
+Charcoal hemoperfusion is the most effective method of extracorporeal removal , increasing theophylline clearance up to six fold , but serious complications , including hypotension , hypocalcemia , platelet consumption and bleeding diatheses may occur .
+Hemodialysis is about as efficient as multiple - dose oral activated charcoal and has a lower risk of serious complications than charcoal hemoperfusion .
+Hemodialysis should be considered as an alternative when charcoal hemoperfusion is not feasible and multiple - dose oral charcoal is ineffective because of intractable emesis .
+Serum theophylline concentrations may rebound 5 - 10 mcg / mL after discontinuation of charcoal hemoperfusion or hemodialysis due to redistribution of theophylline from the tissue compartment .
+Peritoneal dialysis is ineffective for theophylline removal ; exchange transfusions in neonates have been minimally effective .
+DOSAGE AND ADMINISTRATION General Considerations : The steady - state serum theophylline concentration is a function of the infusion rate and the rate of theophylline clearance in the individual patient .
+Because of marked individual differences in the rate of theophylline clearance , the dose required to achieve a serum theophylline concentration in the 10 - 20 mcg / mL range varies fourfold among otherwise similar patients in the absence of factors known to alter theophylline clearance .
+For a given population there is no single theophylline dose that will provide both safe and effective serum concentrations for all patients .
+Administration of the median theophylline dose required to achieve a therapeutic serum theophylline concentration in a given population may result in either sub - therapeutic or potentially toxic serum theophylline concentrations in individual patients .
+The dose of theophylline must be individualized on the basis of serum theophylline concentration measurements in order to achieve a dose that will provide maximum potential benefit with minimal risk of adverse effects .
+When theophylline is used as an acute bronchodilator , the goal of obtaining a therapeutic serum concentration is best accomplished with an intravenous loading dose .
+Because of rapid distribution into body fluids , the serum concentration ( C ) obtained from an initial loading dose ( LD ) is related primarily to the volume of distribution ( V ) , the apparent space into which the drug diffuses : C = LD / V If a mean volume of distribution of about 0 . 5 L / kg is assumed ( actual range is 0 . 3 to 0 . 7 L / kg ) , each mg / kg ( ideal body weight ) of theophylline administered as a loading dose over 30 minutes results in an average 2 mcg / mL increase in serum theophylline concentration .
+Therefore , in a patient who has received no theophylline in the previous 24 hours , a loading dose of intravenous theophylline of 4 . 6 mg / kg ( 5 . 7 mg / kg as aminophylline ) , calculated on the basis of ideal body weight and administered over 30 minutes , on average , will produce a maximum post - distribution serum concentration of 10 mcg / mL with a range of 6 - 16 mcg / mL .
+When a loading dose becomes necessary in the patient who has already received theophylline , estimation of the serum concentration based upon the history is unreliable , and an immediate serum level determination is indicated .
+The loading dose can then be determined as follows : D = ( Desired C - Measured C ) ( V ) where D is the loading dose , C is the serum theophylline concentration , and V is the volume of distribution .
+The mean volume of distribution can be assumed to be 0 . 5 L / kg and the desired serum concentration should be conservative ( e . g . , 10 mcg / mL ) to allow for the variability in the volume of distribution .
+A loading dose should not be given before obtaining a serum theophylline concentration if the patient has received any theophylline in the previous 24 hours .
+A serum concentration obtained 30 minutes after an intravenous loading dose , when distribution is complete , can be used to assess the need for and size of subsequent loading doses , if clinically indicated , and for guidance of continuing therapy .
+Once a serum concentration of 10 to 15 mcg / mL has been achieved with the use of a loading dose ( s ) , a constant intravenous infusion is started .
+The rate of administration is based upon mean pharmacokinetic parameters for the population and calculated to achieve a target serum concentration of 10 mcg / mL ( see TABLE V ) .
+For example , in non - smoking adults , initiation of a constant intravenous theophylline infusion of 0 . 4 mg / kg / hr ( 0 . 5 mg / kg / hr as aminophylline ) at the completion of the loading dose , on average , will result in a steady - state concentration of 10 mcg / mL with a range of 7 - 26 mcg / mL .
+The mean and range of steady - state serum concentrations are similar when the average child ( age 1 to 9 years ) is given a loading dose of 4 . 6 mg / kg theophylline ( 5 . 7 mg / kg as aminophylline ) followed by a constant intravenous infusion of 0 . 8 mg / kg / hr ( 1 . 0 mg / kg / hr as aminophylline ) .
+Since there is large interpatient variability in theophylline clearance , serum concentrations will rise or fall when the patient ' s clearance is significantly different from the mean population value used to calculate the initial infusion rate .
+Therefore , a second serum concentration should be obtained one expected half - life after starting the constant infusion ( e . g . , approximately 4 hours for children age 1 to 9 and 8 hours for nonsmoking adults ; see TABLE I for the expected half - life in additional patient populations ) to determine if the concentration is accumulating or declining from the post loading dose level .
+If the level is declining as a result of a higher than average clearance , an additional loading dose can be administered and / or the infusion rate increased .
+In contrast , if the second sample demonstrates a higher level , accumulation of the drug can be assumed , and the infusion rate should be decreased before the concentration exceeds 20 mcg / mL .
+An additional sample is obtained 12 to 24 hours later to determine if further adjustments are required and then at 24 - hour intervals to adjust for changes , if they occur .
+This empiric method , based upon mean pharmacokinetic parameters , will prevent large fluctuations in serum concentration during the most critical period of the patient ' s course .
+In patients with cor pulmonale , cardiac decompensation , or liver dysfunction , or in those taking drugs that markedly reduce theophylline clearance ( e . g . , cimetidine ) , the initial theophylline infusion rate should not exceed 17 mg / hr ( 21 mg / hr as aminophylline ) unless serum concentrations can be monitored at 24 - hour intervals .
+In these patients , 5 days may be required before steady - state is reached .
+Theophylline distributes poorly into body fat , therefore , mg / kg dose should be calculated on the basis of ideal body weight .
+TABLE V contains initial theophylline infusion rates following an appropriate loading dose recommended for patients in various age groups and clinical circumstances .
+TABLE VI contains recommendations for final theophylline dosage adjustment based upon serum theophylline concentrations .
+Application of these general dosing recommendations to individual patients must take into account the unique clinical characteristics of each patient .
+In general , these recommendations should serve as the upper limit for dosage adjustments in order to decrease the risk of potentially serious adverse events associated with unexpected large increases in serum theophylline concentration .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Intravenous Admixture Incompatibility : Although there have been reports of aminophylline precipitating in acidic media , these reports do not apply to the dilute solutions found in intravenous infusions .
+Aminophylline injection should not be mixed in a syringe with other drugs but should be added separately to the intravenous solution .
+When an intravenous solution containing aminophylline is given " piggyback " , the intravenous system already in place should be turned off while the aminophylline is infused if there is a potential problem with admixture incompatibility .
+Because of the alkalinity of aminophylline containing solutions , drugs known to be alkali labile should be avoided in admixtures .
+These include epinephrine HCl , norepinephrine bitartrate , isoproterenol HCl and penicillin G potassium .
+It is suggested that specialized literature be consulted before preparing admixtures with aminophylline and other drugs .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Do not administer unless solution is clear and container is undamaged .
+Discard unused portion .
+Do not use if crystals have separated from solution .
+[ MULTIMEDIA ] [ MULTIMEDIA ] HOW SUPPLIED Aminophylline Injection , USP 25 mg / mL is supplied in single - dose containers as follows : [ MULTIMEDIA ] Store at 20 to 25 ° C ( 68 to 77 ° F ) .
+[ See USP Controlled Room Temperature . ]
+PROTECT FROM LIGHT .
+Store in carton until time of use .
+SINGLE - DOSE CONTAINER .
+Discard unused portion .
+Distributed by Hospira , Inc . , Lake Forest , IL 60045 USA LAB - 1171 - 1 . 0 Revised : 03 / 2018 Product repackaged by : Henry Schein , Inc . , Bastian , VA 24314 From Original Manufacturer / Distributor NDC and Unit of Sale Henry Schein Repackaged NDC and Unit of Sale Total Strength / Total Volume ( Concentration ) per unit NDC 0409 - 5921 - 01 25 single - dose containers in a carton NDC 0404 - 9813 - 10 1 single - dose container in a bag Single - dose vial bears NDC 0409 - 5921 - 16 250 mg / 10 ml ( 25 mg / ml ) NDC 0409 - 5922 - 01 25 single - dose containers in a carton NDC 0404 - 9814 - 20 1 single - dose container in a bag Single - dose vial bears NDC 0409 - 5922 - 16 500 mg / 20 ml ( 25 mg / ml ) [ MULTIMEDIA ] Sample Package Label [ MULTIMEDIA ] [ MULTIMEDIA ]

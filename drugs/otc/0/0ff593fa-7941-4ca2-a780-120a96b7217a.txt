@@ -1,0 +1,203 @@
+Rx Only FOR INTRAVENOUS INFUSION ONLY DESCRIPTION Acyclovir for Injection , USP is a synthetic nucleoside analogue , active against herpes viruses .
+Acyclovir for Injection , USP is a sterile lyophilized powder for intravenous administration only .
+Each 500 mg vial contains 500 mg of acyclovir and 49 mg of sodium and each 1 , 000 mg vial contains 1 , 000 mg acyclovir and 98 mg of sodium .
+Reconstitution of the 500 mg or 1 , 000 mg vials with 10 mL or 20 mL , respectively , of Sterile Water for Injection , USP results in a solution containing 50 mg / mL of acyclovir .
+The pH of the reconstituted solution is approximately 11 .
+Further dilution in any appropriate intravenous solution must be performed before infusion ( see DOSAGE AND ADMINISTRATION , Method of Preparation and Administration ) .
+Acyclovir USP is a white to off - white , crystalline powder .
+Acyclovir sodium is the sodium salt of acyclovir , which is formed in situ , with the molecular formula C8H10N5NaO3 and a molecular weight of 247 . 19 .
+The maximum solubility in water at 25 ° C exceeds 100 mg / mL .
+At physiologic pH , acyclovir sodium exists as the unionized form with a molecular weight of 225 and a maximum solubility in water at 37 ° C of 2 . 5 mg / mL .
+The pka ' s of acyclovir are 2 . 27 and 9 . 25 .
+The chemical name of acyclovir sodium is 2 - amino - 1 , 9 - dihydro - 9 - [ ( 2 - hydroxyethoxy ) methyl ] - 6 H - purin - 6 - one monosodium salt ; it has the following structural formula : [ MULTIMEDIA ] [ MULTIMEDIA ] VIROLOGY Mechanism of Antiviral Action Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 ( HSV - 1 ) , 2 ( HSV - 2 ) , and varicella - zoster virus ( VZV ) .
+The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase ( TK ) encoded by HSV and VZV .
+This viral enzyme converts acyclovir into acyclovir monophosphate , a nucleotide analogue .
+The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes .
+In vitro , acyclovir triphosphate stops replication of herpes viral DNA .
+This is accomplished in three ways : 1 ) competitive inhibition of viral DNA polymerase , 2 ) incorporation into and termination of the growing viral DNA chain , and 3 ) inactivation of the viral DNA polymerase .
+The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK .
+Antiviral Activities The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans , and virus sensitivity testing has not been standardized .
+Sensitivity testing results , expressed as the concentration of drug required to inhibit by 50 % the growth of virus in cell culture ( IC50 ) , vary greatly depending upon a number of factors .
+Using plaque - reduction assays , the IC50 against herpes simplex virus isolates ranges from 0 . 02 to 13 . 5 mcg / mL for HSV - 1 and from 0 . 01 to 9 . 9 mcg / mL for HSV - 2 .
+The IC50 for acyclovir against most laboratory strains and clinical isolates of VZV ranges from 0 . 12 to 10 . 8 mcg / mL .
+Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean IC50 of 1 . 35 mcg / mL .
+Drug Resistance Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and / or DNA polymerase .
+Clinical isolates of HSV and VZV with reduced susceptibility to acyclovir have been recovered from immunocompromised patients , especially with advanced HIV infection .
+While most of the acyclovir - resistant mutants isolated thus far from such patients have been found to be TK - deficient mutants , other mutants involving the viral TK gene ( TK partial and TK altered ) and DNA polymerase have been isolated .
+TK - negative mutants may cause severe disease in infants and immunocompromised adults .
+The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy .
+CLINICAL PHARMACOLOGY Pharmacokinetics The pharmacokinetics of acyclovir after intravenous administration have been evaluated in adult patients with normal renal function during Phase 1 / 2 studies after single doses ranging from 0 . 5 to 15 mg / kg and after multiple doses ranging from 2 . 5 to 15 mg / kg every 8 hours .
+Proportionality between dose and plasma levels is seen after single doses or at steady - state after multiple dosing .
+Average steady - state peak and trough concentrations from 1 - hour infusions administered every 8 hours are given in Table 1 .
+Table 1 Acyclovir Peak and Trough Concentrations at Steady - State Dosage Regimen CSSmax CSStrough 5 mg / kg q 8 h ( n = 8 ) 9 . 8 mcg / mL range : 5 . 5 to 13 . 8 0 . 7 mcg / mL range : 0 . 2 to 1 10 mg / kg q 8 h ( n = 7 ) 22 . 9 mcg / mL range : 14 . 1 to 44 . 1 1 . 9 mcg / mL range : 0 . 5 to 2 . 9 Concentrations achieved in the cerebrospinal fluid are approximately 50 % of plasma values .
+Plasma protein binding is relatively low ( 9 % to 33 % ) and drug interactions involving binding site displacement are not anticipated .
+Renal excretion of unchanged drug is the major route of acyclovir elimination accounting for 62 % to 91 % of the dose .
+The only major urinary metabolite detected is 9 - carboxymethoxymethylguanine accounting for up to 14 . 1 % of the dose in patients with normal renal function .
+The half - life and total body clearance of acyclovir are dependent on renal function as shown in Table 2 .
+Table 2 Acyclovir Half - life and Total Body Clearance Creatinine Clearance ( mL / min / 1 . 73m2 ) Half - Life ( h ) Total Body Clearance ( mL / min / 1 . 73 m2 ) ( mL / min / kg ) > 80 2 . 5 327 5 . 1 50 to 80 3 248 3 . 9 15 to 50 3 . 5 190 3 . 4 0 ( Anuric ) 19 . 5 29 0 . 5 Special Populations : Adults with Impaired Renal Function Acyclovir for Injection , USP was administered at a dose of 2 . 5 mg / kg to 6 adult patients with severe renal failure .
+The peak and trough plasma levels during the 47 hours preceding hemodialysis were 8 . 5 mcg / mL and 0 . 7 mcg / mL , respectively .
+Consult DOSAGE AND ADMINISTRATION section for recommended adjustments in dosing based upon creatinine clearance .
+Pediatrics Acyclovir pharmacokinetics were determined in 16 pediatric patients with normal renal function ranging in age from 3 months to 16 years at doses of approximately 10 mg / kg and 20 mg / kg every 8 hours ( Table 3 ) .
+Concentrations achieved at these regimens are similar to those in adults receiving 5 mg / kg and 10 mg / kg every 8 hours , respectively ( Table 1 ) .
+Acyclovir pharmacokinetics were determined in 12 patients ranging in age from birth to 3 months at doses of 5 mg / kg , 10 mg / kg , and 15 mg / kg every 8 hours ( Table 3 ) .
+Table 3 Acyclovir Pharmacokinetics in Pediatric Patients ( Mean ± SD ) Parameter Aged from Birth to 3 Months ( n = 12 ) Aged 3 Months to 12 Years ( n = 16 ) CL ( mL / min / kg ) 4 . 46 + 1 . 61 8 . 44 + 2 . 92 VDSS ( L / kg ) 1 . 08 + 0 . 35 1 . 01 + 0 . 28 Elimination half - life ( h ) 3 . 80 + 1 . 19 2 . 36 + 0 . 97 Acyclovir pharmacokinetic samples were collected in full - term and pre - term neonates with normal renal function who received varying dosing regimens of acyclovir for the treatment of suspected neonatal HSV infection .
+Model - predicted pharmacokinetic parameters stratified by post - menstrual age ( PMA ) are summarized in Table 4 .
+Table 4 .
+Acyclovir Pharmacokinetics in Neonates Aged from Birth to 3 Months aAdministered over 1 hour .
+Post - Menstrual Age ( PMA ) n IV Dosea Parameter ( Median [ Range ] ) Cminss ( mg / L ) Cmaxss ( mg / L ) CL ( L / h / kg ) V ( L / kg ) < 30 Weeks 13 500 mg / m2 every 8 h or 10 or 20 mg / kg every 12 h 3 . 92 ( 2 . 38 - 39 . 3 ) 10 . 3 ( 4 . 59 - 110 ) 0 . 21 ( 0 . 10 - 0 . 31 ) 2 . 88 ( 0 . 65 - 5 . 30 ) 30 to < 36 Weeks 9 500 mg / m2 every 8 h or 10 or 20 mg / kg every 12 h or 20 mg / kg every 8 h 5 . 10 ( 2 . 54 - 9 . 62 ) 8 . 83 ( 5 . 44 - 29 . 8 ) 0 . 45 ( 0 . 30 - 0 . 81 ) 4 . 49 ( 1 . 87 - 10 . 85 ) 36 to 41 Weeks 6 500 mg / m2 every 8 h 2 . 90 ( 2 . 19 - 7 . 46 ) 12 . 4 ( 10 . 8 - 86 . 1 ) 0 . 59 ( 0 . 13 - 0 . 77 ) 2 . 55 ( 0 . 29 - 4 . 09 ) Overall 28 – 4 . 15 ( 2 . 19 - 39 . 3 ) 11 . 1 ( 4 . 59 - 110 ) 0 . 28 ( 0 . 10 - 0 . 81 ) 3 . 34 ( 0 . 29 - 10 . 9 ) Geriatrics Acyclovir plasma concentrations are higher in geriatric patients compared with younger adults , in part due to age - related changes in renal function .
+Dosage reduction may be required in geriatric patients with underlying renal impairment ( see PRECAUTIONS : Geriatric Use ) .
+Drug Interactions Coadministration of probenecid with acyclovir has been shown to increase the mean acyclovir half - life and the area under the concentration - time curve .
+Urinary excretion and renal clearance were correspondingly reduced .
+CLINICAL TRIALS Herpes Simplex Infections in Immunocompromised Patients A multicenter trial of acyclovir at a dose of 250 mg / m2 every 8 hours ( 750 mg / m2 / day ) for 7 days was conducted in 98 immunocompromised patients ( 73 adults and 25 children ) with orofacial , esophageal , genital and other localized infections ( 52 treated with acyclovir and 46 with placebo ) .
+Acyclovir decreased virus excretion , reduced pain , and promoted healing of lesions .
+Initial Episodes of Herpes Genitalis In placebo - controlled trials , 58 patients with initial genital herpes were treated with intravenous acyclovir 5 mg / kg or placebo ( 27 patients treated with acyclovir and 31 treated with placebo ) every eight hours for 5 days .
+Acyclovir decreased the duration of viral excretion , new lesion formation , and duration of vesicles , and promoted healing of lesions .
+Herpes Simplex Encephalitis Sixty - two patients aged 6 months to 79 years with brain biopsy - proven herpes simplex encephalitis were randomized to receive either acyclovir ( 10 mg / kg every 8 hours ) or vidarabine ( 15 mg / kg / day ) for 10 days ( 28 were treated with acyclovir and 34 with vidarabine ) .
+Overall mortality at 12 months for patients treated with acyclovir was 25 % compared with 59 % for patients treated with vidarabine .
+The proportion of patients treated with acyclovir functioning normally or with only mild sequelae ( e . g . , decreased attention span ) was 32 % compared with 12 % of patients treated with vidarabine .
+Patients younger than 30 years and those who had the least severe neurologic involvement at time of entry into study had the best outcome with treatment with acyclovir .
+An additional controlled study performed in Europe demonstrated similar findings .
+Neonatal Herpes Simplex Virus Infection The safety and efficacy of acyclovir was evaluated for the treatment of herpes simplex virus infection in neonates and infants .
+In one study ( Study 1 ) , acyclovir 10 mg / kg every 8 hours ( 30 mg / kg / day ) was compared with vidarabine .
+In a follow - up study , ( Study 2 ) , acyclovir 20 mg / kg every 8 hours ( 60 mg / kg / day ) was compared with acyclovir 15 mg / kg every 8 hours ( 45 mg / kg / day ) .
+Study 2 was an open - label clinical trial with an objective of establishing the safety and efficacy of acyclovir 15 mg / kg every 8 hours ( 45 mg / kg / day ) or 20 mg / kg every 8 hours ( 60 mg / kg / day ) administered to neonates ≤ 28 days old with suspected HSV infection .
+Neonates aged ≤ 28 days with suspected HSV infection were eligible for enrollment .
+In total , 88 neonates were enrolled in the trial and received IV acyclovir for 21 days .
+Of the 88 subjects , 69 had confirmed systemic disease , 10 had confirmed localized disease , and 9 had suspected but unconfirmed infection .
+Among the 79 subjects with confirmed infection , 13 subjects received 45 mg / kg / day and 66 subjects received 60 mg / kg / day .
+The mean gestational ages ( GA ) were 37 . 5 and 37 . 9 weeks for the 45 - mg / kg / day and 60 - mg / kg / day doses , respectively .
+The number of premature infants ( ≤ 37 weeks GA ) receiving 45 mg / kg / day and 60 mg / kg / day were 7 ( 54 % ) and 22 ( 33 % ) , respectively .
+Among 69 patients with proven systemic ( disseminated or CNS ) herpes infection , 57 were randomized to receive acyclovir ( 20 mg / kg every 8 hours ) while the remaining 12 patients received a lower dose of acyclovir every 8 hours .
+Overall , the mortality among patients treated with acyclovir 20 mg / kg every 8 hours was lower compared with patients who received a lower dose of acyclovir .
+Varicella - Zoster Infections in Immunocompromised Patients A multicenter trial of Acyclovir for Injection , USP at a dose of 500 mg / m2 every 8 hours for 7 days was conducted in immunocompromised patients with zoster infections ( shingles ) .
+Ninety - four ( 94 ) patients were evaluated ( 52 patients were treated with acyclovir and 42 with placebo ) .
+Acyclovir was superior to placebo as measured by reductions in cutaneous dissemination and visceral dissemination .
+INDICATIONS AND USAGE Herpes Simplex Infections in Immunocompromised Patients Acyclovir for Injection , USP is indicated for the treatment of initial and recurrent mucosal and cutaneous herpes simplex ( HSV - 1 and HSV - 2 ) in immunocompromised patients .
+Initial Episodes of Herpes Genitalis Acyclovir for Injection , USP is indicated for the treatment of severe initial clinical episodes of herpes genitalis in immunocompetent patients .
+Herpes Simplex Encephalitis Acyclovir for Injection , USP is indicated for the treatment of herpes simplex encephalitis .
+Neonatal Herpes Simplex Virus Infection Acyclovir for Injection , USP is indicated for the treatment of neonates and infants with herpes simplex infections .
+Varicella - Zoster Infections in Immunocompromised Patients Acyclovir for Injection , USP is indicated for the treatment of varicella - zoster ( shingles ) infections in immunocompromised patients .
+CONTRAINDICATIONS Acyclovir for Injection , USP is contraindicated for patients who develop hypersensitivity to acyclovir or valacyclovir .
+WARNINGS Acyclovir for Injection , USP is intended for intravenous infusion only , and should not be administered topically , intramuscularly , orally , subcutaneously , or in the eye .
+Intravenous infusions must be given over a period of at least 1 hour to reduce the risk of renal tubular damage ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+Renal failure , in some cases resulting in death , has been observed with acyclovir therapy ( see ADVERSE REACTIONS : Observed During Clinical Practice and OVERDOSAGE ) .
+Thrombotic thrombocytopenic purpura / hemolytic uremic syndrome ( TTP / HUS ) , which has resulted in death , has occurred in immunocompromised patients receiving acyclovir therapy .
+PRECAUTIONS General Precipitation of acyclovir crystals in renal tubules can occur if the maximum solubility of free acyclovir ( 2 . 5 mg / mL at 37 ° C in water ) is exceeded or if the drug is administered by bolus injection .
+Ensuing renal tubular damage can produce acute renal failure .
+Abnormal renal function ( decreased creatinine clearance ) can occur as a result of acyclovir administration and depends on the state of the patient ' s hydration , other treatments , and the rate of drug administration .
+Concomitant use of other nephrotoxic drugs , preexisting renal disease , and dehydration make further renal impairment with acyclovir more likely .
+Administration of acyclovir by intravenous infusion must be accompanied by adequate hydration .
+When dosage adjustments are required , they should be based on estimated creatinine clearance ( see DOSAGE AND ADMINISTRATION ) .
+Approximately 1 % of patients receiving intravenous acyclovir have manifested encephalopathic changes characterized by either lethargy , obtundation , tremors , confusion , hallucinations , agitation , seizures , or coma .
+Acyclovir should be used with caution in those patients who have underlying neurologic abnormalities and those with serious renal , hepatic , or electrolyte abnormalities , or significant hypoxia .
+Drug Interactions See CLINICAL PHARMACOLOGY : Pharmacokinetics .
+Carcinogenesis , Mutagenesis , Impairment of Fertility The data presented below include references to peak steady - state plasma acyclovir concentrations observed in humans treated with 30 mg / kg / day ( 10 mg / kg every 8 hours , dosing appropriate for treatment of herpes zoster or herpes encephalitis ) , or 15 mg / kg / day ( 5 mg / kg every 8 hours , dosing appropriate for treatment of primary genital herpes or herpes simplex infections in immunocompromised patients ) .
+Plasma drug concentrations in animal studies are expressed as multiples of human exposure to acyclovir at the higher and lower dosing schedules ( see CLINICAL PHARMACOLOGY : Pharmacokinetics ) .
+Acyclovir was tested in lifetime bioassays in rats and mice at single daily doses of up to 450 mg / kg administered by gavage .
+There was no statistically significant difference in the incidence of tumors between treated and control animals , nor did acyclovir shorten the latency of tumors .
+At 450 mg / kg / day , plasma concentrations in both the mouse and rat bioassay were lower than concentrations in humans .
+Acyclovir was tested in 16 in vitro and in vivo genetic toxicity assays .
+Acyclovir was positive in 5 of the assays .
+Acyclovir did not impair fertility or reproduction in mice ( 450 mg / kg / day , PO ) or in rats ( 25 mg / kg / day , SC ) .
+In the mouse study , plasma levels were the same as human levels , while in the rat study , they were 1 to 2 times human levels .
+At higher doses ( 50 mg / kg / day , SC ) in rats and rabbits ( 1 to 2 and 1 to 3 times human levels , respectively ) implantation efficacy , but not litter size , was decreased .
+In a rat peri - and post - natal study at 50 mg / kg / day , SC , there was a statistically significant decrease in group mean numbers of corpora lutea , total implantation sites , and live fetuses .
+No testicular abnormalities were seen in dogs given 50 mg / kg / day , IV for 1 month ( one to three times human levels ) or in dogs given 60 mg / kg / day orally for 1 year ( the same as human levels ) .
+Testicular atrophy and aspermatogenesis were observed in rats and dogs at higher dose levels .
+Pregnancy : Teratogenic Effects Acyclovir administered during organogenesis was not teratogenic in the mouse ( 450 mg / kg / day , PO ) , rabbit ( 50 mg / kg / day , SC and IV ) , or rat ( 50 mg / kg / day , SC ) .
+These exposures resulted in plasma levels the same as , 4 and 9 , and 1 and 2 times , respectively , human levels .
+There are no adequate and well - controlled studies in pregnant women .
+A prospective epidemiologic registry of acyclovir use during pregnancy was established in 1984 and completed in April 1999 .
+There were 749 pregnancies followed in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes .
+The occurrence rate of birth defects approximated that found in the general population .
+However , the small size of the registry was insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses .
+Acyclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Acyclovir concentrations have been documented in breastmilk in two women following oral administration of acyclovir and ranged from 0 . 6 to 4 . 1 times corresponding plasma levels .
+These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0 . 3 mg / kg / day .
+Acyclovir should be administered to a nursing mother with caution and only when indicated .
+Pediatric Use The safety and efficacy of Acyclovir for Injection has been evaluated in pediatric patients , including neonates ( see CLINICAL PHARMACOLOGY , CLINICAL TRIALS , INDICATIONS AND USAGE , ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION ) .
+Geriatric Use Clinical studies of acyclovir for injection did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients .
+Other reported clinical experience has identified differences in the severity of CNS adverse events between elderly and younger patients ( see ADVERSE REACTIONS : Observed During Clinical Practice ) .
+In general , dose selection for an elderly patient should be cautious , reflecting the greater frequency of decreased renal function , and of concomitant disease or other drug therapy .
+This drug is known to be substantially excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function .
+ADVERSE REACTIONS Adult and Pediatric Clinical Trials The adverse reactions listed below have been observed in controlled and uncontrolled clinical trials in approximately 700 patients who received acyclovir at approximately 5 mg / kg ( 250 mg / m2 ) three times daily , and approximately 300 patients who received approximately 10 mg / kg ( 500 mg / m2 ) three times daily .
+The most frequent adverse reactions reported during administration of acyclovir were inflammation or phlebitis at the injection site in approximately 9 % of the patients , and transient elevations of serum creatinine or BUN in 5 % to 10 % ( the higher incidence occurred usually following rapid [ less than 10 minutes ] intravenous infusion ) .
+Nausea and / or vomiting occurred in approximately 7 % of the patients ( the majority occurring in non - hospitalized patients who received 10 mg / kg ) .
+Itching , rash or hives occurred in approximately 2 % of patients .
+Elevation of transaminases occurred in 1 % to 2 % of patients .
+The following hematologic abnormalities occurred at a frequency of less than 1 % : anemia , neutropenia , thrombocytopenia , thrombocytosis , leukocytosis , and neutrophilia .
+In addition , anorexia and hematuria were observed .
+Neonatal Clinical Trial In Study 2 , 72 of the 88 enrolled neonates received 60 mg / kg / day .
+Among subjects with recorded normal baseline values , the following laboratory abnormalities were reported : 6 % ( 4 / 64 ) with Grade 3 or 4 increase in creatinine ; 4 % ( 2 / 52 ) with total bilirubin Grade 3 or 4 toxicity ; 13 % ( 8 / 64 ) with hemoglobin < 8 gram % ; 16 % ( 10 / 64 ) and 3 % ( 2 / 64 ) with absolute neutrophil count 500 to 1 , 000 cells / mm3 and < 500 cells / mm3 , respectively ; 10 % ( 6 / 63 ) and 5 % ( 3 / 63 ) with platelet count 50 , 000 to 100 , 000 and < 50 , 000 , respectively .
+Observed During Clinical Practice In addition to adverse events reported from clinical trials , the following events have been identified during post - approval use of Acyclovir for Injection , USP in clinical practice .
+Because they are reported voluntarily from a population of unknown size , estimates of frequency cannot be made .
+These events have been chosen for inclusion due to either their seriousness , frequency of reporting , potential causal connection to acyclovir , or a combination of these factors .
+General : Anaphylaxis , angioedema , fatigue , fever , headache , pain , peripheral edema .
+Digestive : Abdominal pain , diarrhea , gastrointestinal distress , nausea .
+Cardiovascular : Hypotension .
+Hematologic and Lymphatic : Disseminated intravascular coagulation , hemolysis , leukocytoclastic vasculitis , leukopenia , lymphadenopathy .
+Hepatobiliary Tract and Pancreas : Elevated liver function tests , hepatitis , hyperbilirubinemia , jaundice .
+Musculoskeletal : Myalgia .
+Nervous : Aggressive behavior , agitation , ataxia , coma , confusion , delirium , dizziness , dysarthria , encephalopathy , hallucinations , obtundation , paresthesia , psychosis , seizure , somnolence , tremor .
+These symptoms may be marked , particularly in older adults ( see PRECAUTIONS ) .
+Skin : Alopecia , erythema multiforme , photosensitive rash , pruritus , rash , Stevens - Johnson syndrome , toxic epidermal necrolysis , urticaria .
+Severe local inflammatory reactions , including tissue necrosis , have occurred following infusion of acyclovir into extravascular tissues .
+Special Senses : Visual abnormalities .
+Urogenital : Renal failure , elevated blood urea nitrogen , elevated creatinine ( see WARNINGS ) .
+OVERDOSAGE Overdoses involving ingestions of up to 20 g have been reported .
+Adverse events that have been reported in association with overdosage include agitation , coma , seizures , and lethargy .
+Precipitation of acyclovir in renal tubules may occur when the solubility ( 2 . 5 mg / mL ) is exceeded in the intratubular fluid .
+Overdosage has been reported following bolus injections or inappropriately high doses and in patients whose fluid and electrolyte balance were not properly monitored .
+This has resulted in elevated BUN and serum creatinine , and subsequent renal failure .
+In the event of acute renal failure and anuria , the patient may benefit from hemodialysis until renal function is restored ( see DOSAGE AND ADMINISTRATION ) .
+DOSAGE AND ADMINISTRATION CAUTION - RAPID OR BOLUS INTRAVENOUS INJECTION MUST BE AVOIDED ( see WARNINGS and PRECAUTIONS ) .
+INTRAMUSCULAR OR SUBCUTANEOUS INJECTION MUST BE AVOIDED ( see WARNINGS ) .
+Therapy should be initiated as early as possible following onset of signs and symptoms of herpes infections .
+A maximum dose equivalent to 20 mg / kg every 8 hours should not be exceeded for any patient .
+Dosage 1 .
+Herpes Simplex Infections : Mucosal and Cutaneous Herpes Simplex ( HSV - 1 and HSV - 2 ) Infections in Immunocompromised Patients : Adults and Adolescents ( Aged 12 years and older ) : 5 mg / kg infused at a constant rate over 1 hour , every 8 hours for 7 days .
+Pediatrics ( Aged 3 months to 12 years ) : 10 mg / kg infused at a constant rate over 1 hour , every 8 hours for 7 days .
+2 .
+Severe Initial Clinical Episodes of Herpes Genitalis : Adults and Adolescents ( Aged 12 years and older ) : 5 mg / kg infused at a constant rate over 1 hour , every 8 hours for 5 days .
+3 .
+Herpes Simplex Encephalitis : Adults and Adolescents ( Aged 12 years and older ) : 10 mg / kg infused at a constant rate over 1 hour , every 8 hours for 10 days .
+Pediatrics ( Aged 3 months to 12 years ) : 20 mg / kg infused at a constant rate over 1 hour , every 8 hours for 10 days .
+4 .
+Neonatal Herpes Simplex Virus Infections : PMA of at Least 34 Weeks : 20 mg / kg infused at a constant rate over 1 hour , every 8 hours for 21 days .
+PMA of Less than 34 Weeks : 20 mg / kg infused at a constant rate over 1 hour , every 12 hours for 21 days .
+In neonates with ongoing medical conditions affecting their renal function beyond the effect of prematurity , the doses recommended should be used with caution .
+5 .
+Varicella Zoster Infections : Zoster in Immunocompromised Patients : Adults and Adolescents ( Aged 12 years and older ) : 10 mg / kg infused at a constant rate over 1 hour , every 8 hours for 7 days .
+Pediatrics ( Younger than 12 years ) : 20 mg / kg infused at a constant rate over 1 hour , every 8 hours for 7 days .
+Obese Patients : Obese patients should be dosed at the recommended adult dose using Ideal Body Weight .
+6 .
+Patients with Acute or Chronic Renal Impairment ( Older than 3 Months ) : Refer to DOSAGE AND ADMINISTRATION section for recommended doses , and adjust the dosing interval as indicated in Table 6 .
+Table 6 Dosage Adjustments for Patients with Renal Impairment Creatinine Clearance ( mL / min / 1 . 73 m2 ) Percent of Recommended Dose Dosing Interval ( hours ) > 50 100 % 8 > 25 to 50 100 % 12 > 10 to 25 100 % 24 ≤ 10 50 % 24 Hemodialysis : For patients who require dialysis , the mean plasma half - life of acyclovir during hemodialysis is approximately 5 hours .
+This results in a 60 % decrease in plasma concentrations following a six - hour dialysis period .
+Therefore , the patient ' s dosing schedule should be adjusted so that an additional dose is administered after each dialysis .
+Peritoneal Dialysis : No supplemental dose appears to be necessary after adjustment of the dosing interval .
+Method of Preparation : Each 10 mL vial contains acyclovir sodium equivalent to 500 mg of acyclovir .
+Each 20 mL vial contains acyclovir sodium equivalent to 1 , 000 mg of acyclovir .
+The contents of the vial should be dissolved in Sterile Water for Injection as follows : Contents of Vial Amount of Diluent 500 mg 10 mL 1 , 000 mg 20 mL The resulting solution contains 50 mg acyclovir per mL .
+The pH of the solution is approximately 11 .
+Shake the vial well to assure complete dissolution before measuring and transferring each individual dose .
+The reconstituted solution should be used within 12 hours .
+Refrigeration of reconstituted solution may result in the formation of a precipitate which will redissolve at room temperature .
+DO NOT USE BACTERIOSTATIC WATER FOR INJECTION CONTAINING BENZYL ALCOHOL OR PARABENS .
+Administration : The calculated dose should then be removed and added to any appropriate intravenous solution at a volume selected for administration during each 1 hour infusion .
+Infusion concentrations of approximately 7 mg / mL or lower are recommended .
+In clinical studies , the average 70 kg adult received between 60 and 150 mL of fluid per dose .
+Higher concentrations ( e . g . , 10 mg / mL ) may produce phlebitis or inflammation at the injection site upon inadvertent extravasation .
+Standard , commercially available electrolyte and glucose solutions are suitable for intravenous administration ; biologic or colloidal fluids ( e . g . , blood products , protein solutions , etc . ) are not recommended .
+Once diluted for administration , each dose should be used within 24 hours .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+HOW SUPPLIED NDC Acyclovir for Injection , USP Packaging 68382 - 125 - 10 500 mg / vial 10 vials packed in a carton 68382 - 126 - 10 1 , 000 mg / vial 10 vials packed in a carton Vial stopper is not made with natural rubber latex .
+Store at 25 ° C ( 77 ° F ) ; excursions permitted between 15 ° to 30 ° C ( 59 ° to 86 ° F ) .
+[ See USP Controlled Room Temperature ] .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+This product ' s label may have been updated .
+For current full prescribing information , please visit www . zydususa . com Manufactured by : Cadila Healthcare Limited .
+Ahmedabad , India Distributed by : Zydus Pharmaceuticals ( USA ) Inc .
+Pennington , NJ 08534 Rev . : 02 / 2019 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL Acyclovir for Injection , USP 500 mg / vial - Vial Label NDC 68382 - 125 - 01 Acyclovir for Injection , USP Equivalent to 500 mg / vial acyclovir For Intravenous Infusion Only Rx only zydus pharmaceuticals [ MULTIMEDIA ] Acyclovir for Injection , USP 500 mg / vial - Carton Label NDC 68382 - 125 - 10 Acyclovir for Injection , USP Equivalent to 500 mg / vial acyclovir For Intravenous Infusion Only 10 x 500 mg vials Rx only zydus pharmaceuticals [ MULTIMEDIA ] Acyclovir for Injection , USP 1000 mg / vial - Vial Label NDC 68382 - 126 - 01 Acyclovir for Injection , USP Equivalent to 1000 mg / vial acyclovir For Intravenous Infusion Only Rx only zydus pharmaceuticals [ MULTIMEDIA ] Acyclovir for Injection , USP 1000 mg / vial - Carton Label NDC 68382 - 126 - 10 Acyclovir for Injection , USP Equivalent to 1000 mg / vial acyclovir For Intravenous Infusion Only 10 x 1000 mg vials Rx only zydus pharmaceuticals [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

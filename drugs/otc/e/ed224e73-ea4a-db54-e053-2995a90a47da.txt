@@ -1,0 +1,144 @@
+1 INDICATIONS AND USAGE Gallium Ga 68 Gozeotide Injection is indicated for positron emission tomography ( PET ) of prostate - specific membrane antigen ( PSMA ) positive lesions in men with prostate cancer : • with suspected metastasis who are candidates for initial definitive therapy .
+• with suspected recurrence based on elevated serum prostate - specific antigen ( PSA ) level .
+Gallium Ga 68 Gozetotide Injection is a radioactive diagnostic agent indicated for positron emission tomography ( PET ) of prostate - specific membrane antigen ( PSMA ) positive lesions in men with prostate cancer : • with suspected metastasis who are candidates for initial definitive therapy .
+• with suspected recurrence based on elevated serum prostate - specific antigen ( PSA ) level .
+( 1 ) 2 DOSAGE AND ADMINISTRATION • Use appropriate aseptic technique and radiation safety handling measures to maintain sterility during all operations involved in the manipulation and administration of Gallium Ga 68 Gozetotide Injection .
+( 2 . 1 ) • The recommended adult dose is 111 MBq to 259 MBq ( 3 mCi to 7 mCi ) as a bolus intravenous injection .
+( 2 . 2 ) • A diuretic expected to act within the uptake time period may be administered at the time of radiotracer injection .
+( 2 . 2 ) • Initiate imaging 50 to 100 minutes after administration .
+The patient should void immediately prior to initiation of imaging .
+Scan should begin caudally and proceed cranially .
+( 2 . 4 ) • See full prescribing information for additional preparation , administration , imaging , and radiation dosimetry information .
+( 2 ) 2 . 1 Radiation Safety – Drug Handling Handle Gallium Ga 68 Gozetotide Injection with appropriate safety measures to minimize radiation exposure [ see Warnings and Precautions ( 5 . 2 ) ] .
+Use waterproof gloves , effective radiation shielding , and other appropriate safety measures when preparing and handling Gallium Ga 68 Gozetotide Injection .
+Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides , and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+2 . 2 Recommended Dosage and Administration Instructions Recommended Dosage In adults , the recommended amount of radioactivity to be administered for PET is 111 MBq to 259 MBq ( 3 mCi to 7 mCi ) administered as an intravenous bolus injection .
+Administration • Use aseptic technique and radiation shielding when withdrawing and administering Gallium Ga 68 Gozetotide Injection .
+• Calculate the necessary volume to administer based on calibration time and required dose .
+• Inspect Gallium Ga 68 Gozetotide Injection visually for particulate matter and discoloration before administration .
+Do not use the drug if the solution contains particulate matter or is discolored .
+• Gallium Ga 68 Gozetotide Injection may be diluted with sterile 0 . 9 % Sodium Chloride Injection , USP .
+• Assay the final dose immediately before administration to the patient in a dose calibrator .
+• After injection of Gallium Ga 68 Gozeotide Injection , administer an intravenous flush of sterile 0 . 9 % Sodium Chloride Injection , USP to ensure full delivery of the dose .
+• Dispose of any unused drug in a safe manner in compliance with applicable regulations .
+• Unless contraindicated , a diuretic expected to act within the uptake time period may be administered at the time of radiotracer injection to potentially decrease artifact from radiotracer accumulation in the urinary bladder and ureters .
+2 . 3 Patient Preparation Prior to PET Imaging Instruct patients to drink a sufficient amount of water to ensure adequate hydration prior to administration of Gallium Ga 68 Gozeotide Injection and to continue to drink and void frequently following administration to reduce radiation exposure , particularly during the first hour after administration [ see Warnings and Precautions ( 5 . 2 ) ] .
+2 . 4 Image Acquisition Position the patient supine with arms above the head .
+Begin PET scanning 50 to 100 minutes after the intravenous administration of Gallium Ga 68 Gozetotide Injection .
+Patients should void immediately prior to image acquisition and that image acquisition should begin at the proximal thighs and proceed cranially to the skull base or skull vertex .
+Adapt imaging technique according to the equipment used and patient characteristics in order to obtain the best image quality possible .
+2 . 5 Image Interpretation Gallium Ga 68 Gozetotide binds to prostate - specific membrane antigen ( PSMA ) .
+Based on the intensity of the signals , PET images obtained using Gallium Ga 68 Gozetotide Injection indicate the presence of PSMA in tissues .
+Lesions should be considered suspicious if uptake is greater than physiologic uptake in that tissue or greater than adjacent background if no physiologic uptake is expected .
+Tumors that do not bear PSMA will not be visualized .
+Increased uptake in tumors is not specific for prostate cancer [ see Warnings and Precautions ( 5 . 1 ) ] .
+2 . 6 Radiation Dosimetry Estimated radiation absorbed doses per injected activity for organs and tissues of adult male patients following an intravenous bolus of Gallium Ga 68 Gozetotide Injection are shown in Table 1 .
+The effective radiation dose resulting from the administration of 259 MBq ( 7 mCi ) is about 4 . 4 mSv .
+The radiation doses for this administered dose to the critical organs , which are the kidneys , urinary bladder , and spleen , are 96 . 2 mGy , 25 . 4 mGy , and 16 . 8 mGy , respectively .
+These radiation doses are for Gallium Ga 68 Gozetotide Injection alone .
+If CT or a transmission source are used for attenuation correction , the radiation dose will increase by an amount that varies by technique .
+Table 1 : Estimated Radiation Absorbed Dose per Injected Activity in Selected Organs and Tissues of Adults after Intravenous Administration of Gallium Ga 68 Gozetotide InjectionOrgan Absorbed dose ( mGy / MBq ) Mean SD Adrenals 0 . 0156 0 . 0014 Brain 0 . 0104 0 . 0011 Breasts 0 . 0103 0 . 0011 Gallbladder 0 . 0157 0 . 0012 Lower Colon 0 . 0134 0 . 0009 Small Intestine 0 . 0140 0 . 0020 Stomach 0 . 0129 0 . 0008 Heart 0 . 0120 0 . 0009 Kidneys 0 . 3714 0 . 0922 Liver 0 . 0409 0 . 0076 Lungs 0 . 0111 0 . 0007 Muscle 0 . 0103 0 . 0003 Pancreas 0 . 0147 0 . 0009 Red Marrow 0 . 0114 0 . 0016 Skin 0 . 0091 0 . 0003 Spleen 0 . 0650 0 . 0180 Testes 0 . 0111 0 . 0006 Thymus 0 . 0105 0 . 0006 Thyroid 0 . 0104 0 . 0006 Urinary Bladder 0 . 0982 0 . 0286 Total Body 0 . 0143 0 . 0013 Effective Dose ( mSv / MBq ) 0 . 0169 0 . 0015 3 DOSAGE FORMS AND STRENGTHS Injection : supplied as a clear , colorless solution in a 20 mL multiple - dose vial containing 18 . 5 MBq / mL to 185 MBq / mL ( 0 . 5 mCi / mL to 5 mCi / mL ) of Gallium Ga 68 Gozetotide at calibration time .
+Injection : clear , colorless solution in a multiple - dose vial containing 18 . 5 MBq / mL to 185 MBq / mL ( 0 . 5 mCi / mL to 5 mCi / mL ) Gallium Ga 68 Gozetotide at calibration time ( 3 ) 4 CONTRAINDICATIONS None None ( 4 ) 5 WARNINGS AND PRECAUTIONS • Risk for misdiagnosis : Gallium Ga 68 gozetotide uptake can be seen in a variety of tumor types and in non - malignant processes .
+Image interpretation errors can occur with gallium Ga 68 gozetotide PET .
+( 5 . 1 ) • Radiation risk : Ensure safe handling to protect patients and health care workers from unintentional radiation exposure .
+( 2 . 1 , 5 . 2 ) 5 . 1 Risk for Misdiagnosis Image interpretation errors can occur with gallium Ga 68 gozetotide PET .
+A negative image does not rule out the presence of prostate cancer and a positive image does not confirm the presence of prostate cancer .
+The performance of Gallium Ga 68 Gozetotide Injection for imaging of biochemically recurrent prostate cancer seems to be affected by serum PSA levels and by site of disease [ See Clinical Studies ( 14 ) ] .
+The performance of Gallium Ga 68 Gozetotide Injection for imaging of metastatic pelvic lymph nodes prior to initial definitive therapy seems to be affected by Gleason score [ See Clinical Studies ( 14 ) ] .
+Gallium Ga 68 Gozetotide uptake is not specific for prostate cancer and may occur with other types of cancer as well as non - malignant processes such as Paget ' s disease , fibrous dysplasia , and osteophytosis .
+Clinical correlation , which may include histopathological evaluation of the suspected prostate cancer site , is recommended .
+5 . 2 Radiation Risks Gallium Ga 68 Gozetotide Injection contributes to a patient ' s overall long - term cumulative radiation exposure .
+Long - term cumulative radiation exposure is associated with an increased risk for cancer .
+Ensure safe handling to minimize radiation exposure to the patient and health care workers .
+Advise patients to hydrate before and after administration and to void frequently after administration [ see Dosage and Administration ( 2 . 1 , 2 . 3 ) ] .
+6 ADVERSE REACTIONS The most commonly reported adverse reactions include nausea , diarrhea , and dizziness .
+( 6 ) To report SUSPECTED ADVERSE REACTIONS , contact UCSF Nuclear Medicine at 1 - 888 - 919 - 0740 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+.
+Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The safety of Gallium Ga 68 Gozetotide Injection was evaluated in 960 patients , each receiving one dose of Gallium Ga 68 Gozetotide Injection .
+The average injected activity was 188 . 7 ± 40 . 7 MBq ( 5 . 1 ± 1 . 1 mCi ) .
+The most commonly reported adverse reactions were nausea , diarrhea , and dizziness , occurring at a rate of < 1 % 7 DRUG INTERACTIONS Androgen deprivation therapy and other therapies targeting the androgen pathway Androgen deprivation therapy ( ADT ) and other therapies targeting the androgen pathway , such as androgen receptor antagonists , can result in changes in uptake of gallium Ga 68 gozetotide in prostate cancer .
+The effect of these therapies on performance of gallium Ga 68 gozetotide PET has not been established .
+8 USE IN SPECIFIC POPULATIONS 8 . 1 Pregnancy Risk Summary Gallium Ga 68 Gozetotide Injection is not indicated for use in females .
+There are no available data with Gallium Ga 68 Gozetotide Injection use in pregnant women to evaluate for a drug - associated risk of major birth defects , miscarriage , or adverse maternal or fetal outcomes .
+All radiopharmaceuticals , including Gallium Ga 68 Gozetotide Injection , have the potential to cause fetal harm depending on the fetal stage of development and the magnitude of the radiation dose .
+Animal reproduction studies have not been conducted with gallium Ga 68 gozetotide Injection .
+8 . 2 Lactation Risk Summary Gallium Ga 68 Gozetotide Injection is not indicated for use in females .
+There are no data on the presence of gallium Ga 68 gozetotide in human milk , the effect on the breastfed infant , or the effect on milk production .
+8 . 4 Pediatric Use The safety and effectiveness of Gallium Ga 68 Gozetotide Injection have not been estabished in pediatric patients .
+8 . 5 Geriatric Use The efficacy of Gallium Ga 68 Gozetotide PET in geriatric patients with prostate cancer is based on data from two prospective studies [ see Clinical Studies ( 14 ) ] .
+Of the total number of subjects in these studies of Gallium Ga 68 Gozetotide Injection , 691 of 960 ( 72 % ) were 65 years of age and older .
+The efficacy and safety profies of Gallium Ga 68 Gozetotide Injection appear similar in younger adult and geriatric patients with prostate cancer , althougth the number of younger adult patients in the trials was not large enought to allow definitive comparisons .
+10 OVERDOSAGE In the event of an overdose of Gallium Ga 68 Gozetotide Injection , reduce the radiation absorbed dose to the patient where possible by increasing the elimination of the drug from the body using hydration and frequent bladder voiding .
+A diuretic might also be considered .
+If possible , an estimate of the radiation effective dose given to the patient should be made .
+11 DESCRIPTION 11 . 1 Chemical Characteristics Gallium Ga Gozetotide Injection is a radioactive diagnostic agent for intravenous administration .
+It contains 0 . 5 mcg / mL Gozetotide , 18 . 5 MBq / mL to 185 MBq / mL ( 0 . 5 mCi / mL to 5 mCi / mL ) of gallium Ga gozetotide at calibration time in 0 . 9 % sodium chloride solution with not more than 10 % ethanol ( approximately 11 mL total volume ) .
+Gallium Ga Gozetotide Injection is provided as a sterile , pyrogen free , clear , colorless solution for intravenous use , with a pH between 4 . 0 and 7 . 0 .
+Gozetotide is also known as PSMA - 11 .
+Gallium Ga Gozetotide is a urea based peptidomimetic that has a covalently bound chelator ( HBED - CC ) .
+The peptide has the amino acid sequence Glu - NH - CO - NH - Lys ( Ahx ) - HBED - CC .
+Gallium Ga Gozeotide has a molecular weight of 1011 . 91 g / mol and its chemical structure is shown in Figure 1 .
+Figure 1 : Chemical Structure of Gallium Ga Gozetotide [ MULTIMEDIA ] [ MULTIMEDIA ] 11 . 2 Physical Characteristics Gallium - 68 ( Ga 68 ) decays with a half - life of 68 minutes to stable zinc - 68 .
+Table 2 and Table 3 display the principle radiation emission data and physical decay of Ga 68 .
+Table 2 : Principal Radiation Emission Data ( > 1 % ) for Gallium Ga 68 Radiation / Emission % Disintegration Mean Energy ( MeV ) beta + 88 % 0 . 8360 beta + 1 . 1 % 0 . 3526 gamma 178 % 0 . 5110 gamma 3 . 0 % 1 . 0770 X - ray 2 . 8 % 0 . 0086 X - ray 1 . 4 % 0 . 0086 Table 3 : Physical Decay Chart for Gallium Ga 68 Minutes Fraction Remaining 0 1 15 0 . 858 30 0 . 736 60 0 . 541 90 0 . 398 120 0 . 293 180 0 . 158 360 0 . 025 11 . 3 External Radiation Table 4 displays the radiation attenuation by lead shielding of Ga 68 .
+Table 4 : Radiation Attenuation of 511 keV Photons by Lead ( Pb ) ShieldingShield Thickness ( Pb ) mm Coefficient of Attenuation 6 0 . 5 12 0 . 25 17 0 . 1 34 0 . 01 51 0 . 001 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Gallium Ga 68 gozetotode binds to prostate - specific membrane antigen ( PSMA ) .
+It binds to cells that express PSMA , including malignant prostate cancer cells , which usually overexpress PSMA .
+Gallium - 68 ( Ga 68 ) is a β + emitting radionuclide that allows positron emission tomography ( PET ) .
+12 . 2 Pharmacodynamics The relationship between galium Ga 68 gozetotide plasma concentrations and successful imaging was not explored in clinical trials .
+12 . 3 Pharmacokinetics Distribution Intravenously injected gallium Ga 68 gozetotide is cleared from the blood and is accumulated preferentially in the liver ( 15 % ) , kidneys ( 7 % ) , spleen ( 2 % ) , and salivary glands ( 0 . 5 % ) .
+Gallium Ga 68 gozetotide uptake is also seen in the adrenals and prostate .
+There is no uptake in the cerebral cortex or in the heart , and usually lung uptake is low .
+Elimination A total of 14 % of the injected dose is excreted in urine in the first 2 hours post - injection .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies were performed to evaluate the carcinogenicity potential of gallium Ga 68 gozetotide .
+14 CLINICAL STUDIES The safety and efficacy of Gallium Ga 68 Gozetotide Injection were established in two prospective , open - label studies , PSMA - PreRP ( NCT03368547 and NCT02919111 ) and PSMA - BCR ( NCT02940262 and NCT02918357 ) , in men with prostate cancer .
+PSMA - PreRP This two - center study enrolled 325 patients with biopsy - proven prostate cancer who were considered candidates for prostatectomy and pelvic lymph node dissection .
+All enrolled patients met at least one of the following criteria : serum prostate - specific antigen ( PSA ) of at least 10 ng / mL , tumor stage cT2b or greater , or Gleason score greater than 6 .
+Each patient received a single gallium Ga 68 gozetotide PET / CT or PET / MR from mid - thigh to skull base .
+A total of 123 patients ( 38 % ) proceeded to standard - of - care prostatectomy and template pelvic lymph node dissection and had sufficient histopathology data for evaluation ( evaluable patients ) .
+Three members of a pool of six central readers independently interpreted each PET scan for the presence of abnormal gallium Ga 68 gozetotide uptake in pelvic lymph nodes located in the common iliac , external iliac , internal iliac , and obturator subregions bilaterally as well as in any other pelvic location .
+The readers were blinded to all clinical information except for the history of prostate cancer prior to definitive treatment .
+Extrapelvic sites and the prostate gland itself were not analyzed in this study .
+For each patient , gallium Ga 68 gozetotide PET results and reference standard histopathology obtained from dissected pelvic lymph nodes were compared by region ( left hemipelvis , right hemipelvis , and other ) .
+For the 123 evaluable patients , the mean age was 65 years ( range 45 to 76 years ) , and 89 % were white .
+The median serum PSA was 11 . 8 ng / mL .
+The summed Gleason score was 7 for 44 % , 8 for 20 % , and 9 for 31 % of the patients , with the remainder of the patients having Gleason scores of 6 or 10 .
+Table 5 compares majority PET reads to pelvic lymph node histopathology results at the patient - level with region matching , such that at least one true positive region defines a true positive patient .
+As shown , approximately 24 % of subjects studied were found to have pelvic nodal metastases based on histopathology ( 95 % confidence interval : 17 % , 32 % ) .
+Table 5 : Patient - Level Performance of Ga 68 PSMA - 11 PET for Detection of Pelvic Lymph Node Metastasis [ 1 ] in the PSMA - PreRP Study ( n = 123 ) Histopathology Predictive value ( 95 % CI ) [ 2 ] Positive Negative PET scan Positive 14 9 PPV 61 % ( 41 % , 81 % ) Negative 16 84 NPV 84 % ( 79 % , 91 % ) Total 30 93 Diagnostic performance ( 95 % CI ) Sensitivity 47 % ( 29 % , 65 % ) Specificity 90 % ( 84 % , 96 % ) [ 1 ] with region matching where at least one true positive region defines a true positive patient [ 2 ] PPV : positive predictive value , NPV : negative predictive value Among the pool of six readers , sensitivity ranged from 36 % to 60 % , specificity from 83 % to 96 % , positive predictive value from 38 % to 80 % , and negative predictive value from 80 % to 88 % .
+In an exploratory subgroup analysis based on summed Gleason score , there was a numerical trend toward more true positives in patients with Gleason score of 8 or higher compared to those with Gleason score of 7 or lower .
+An exploratory analysis was performed to estimate the sensitivity and specificity for pelvic nodal metastasis detection in all scanned patients , including the patients who were lacking histopathology reference standard .
+An imputation method was used based on patient - specific factors .
+This exploratory analysis resulted in an imputed sensitivity of 47 % , with a 95 % confidence interval ranging from 38 % to 55 % , and an imputed specificity of 74 % , with a 95 % confidence interval ranging from 68 % to 80 % for all patients imaged with gallium Ga 68 gozetotide PET .
+PSMA - BCR This two - center study enrolled 635 patients with biochemical evidence of recurrent prostate cancer after definitive therapy , defined by serum PSA of > 0 . 2 ng / mL more than 6 weeks after prostatectomy or by an increase in serum PSA of at least 2 ng / mL above nadir after definitive radiotherapy .
+All patients received a single gallium Ga 68 gozetotide PET / CT or PET / MR from mid - thigh to skull base .
+Three members of a pool of nine independent central readers evaluated each scan for the presence and regional location ( 20 subregions grouped into four regions ) of abnormal gallium Ga 68 gozetotide uptake suggestive of recurrent prostate cancer .
+The readers were blinded to all clinical information other than type of primary therapy and most recent serum PSA level .
+A total of 469 patients ( 74 % ) had at least one positive region detected by gallium Ga 68 gozetotide PET majority read .
+The distribution of gallium Ga 68 gozetotide PET positive regions was 34 % bone , 25 % prostate bed , 25 % pelvic lymph node , and 17 % extrapelvic soft tissue .
+Two hundred and ten patients had composite reference standard information collected in a PET positive region ( evaluable patients ) , consisting of at least one of the following : histopathology , imaging ( bone scintigraphy , CT , or MRI ) acquired at baseline or within 12 months after gallium Ga 68 gozetotide PET , or serial serum PSA .
+Composite reference standard information for gallium Ga 68 gozetotide PET negative regions was not systematically collected in this study .
+In the 210 evaluable patients , the mean age was 70 years ( range 49 to 88 years ) and 82 % were 65 years of age or older .
+White patients made up 90 % of the group .
+The median serum PSA was 3 . 6 ng / mL .
+Prior treatment included radical prostatectomy in 64 % and radiotherapy in 73 % .
+Of the 210 evaluable patients , 192 patients ( 91 % ) were found to be true positive in one or more regions against the composite reference standard ( 95 % confidence interval : 88 % , 95 % ) .
+Among the pool of nine readers used in the study , the proportion of patients who were true positive in one or more regions ranged from 82 % to 97 % .
+The prostate bed had the lowest proportion of true positive results at the region - level ( 76 % versus 96 % for non - prostate regions ) .
+An exploratory analysis was also performed in which gallium Ga 68 gozetotide PET positive patients who lacked reference standard information were imputed using an estimated likelihood that at least one location - matched PET positive lesion was reference standard positive based on patient - specific factors .
+In this exploratory analysis , 340 of 475 patients ( 72 % ) were imputed as true positive in one or more regions ( 95 % confidence interval : 68 % , 76 % ) .
+In another exploratory analysis using the same imputation approach for PET positive patients who lacked reference standard information , 340 of 635 patients ( 54 % ) were correctly detected as true positive ( 95 % confidence interval : 50 % , 57 % ) among all BCR patients who received a PET scan , whether it was read as positive or negative .
+The likelihood of identifying a gallium Ga 68 gozetotide PET positive lesion in this study generally increased with higher serum PSA level .
+Table 6 shows the patient - level gallium Ga 68 gozetotide PET results stratified by serum PSA level .
+The mean time between PSA measurement and PET scan was 40 days with a range of 0 to 367 days .
+Percent PET positivity was calculated as the proportion of patients with a positive gallium Ga 68 gozetotide PET out of all patients scanned .
+Percent PET positivity includes patients determined to be either true positive or false positive as well as those in whom such determination was not made due to the absence of composite reference standard data .
+Table 6 : Patient - Level gallium Ga 68 gozetotide PET Results and Percent PET Positivity Stratified by Serum PSA Level in the PSMA - BCR Study ( n = 628 ) [ 1 ] PSA ( ng / mL ) PET positive patients PET negative patients Percent PET positivity ( 95 % CI ) [ 2 ] Total TP [ 3 ] FP ‡ Without reference standard With reference standard < 0 . 5 48 11 1 36 87 36 % 12 ( 27 % , 44 % ) 0 . 5 and < 1 44 15 3 26 35 56 % 18 ( 45 % , 67 % ) 1 and < 2 71 29 1 41 15 83 % 30 ( 75 % , 91 % ) 2 299 137 13 149 29 91 % 150 ( 88 % , 94 % ) Total 462 192 18 252 166 74 % 210 ( 70 % , 77 % ) [ 1 ] 7 patients were excluded from this table due to protocol deviations [ 2 ] Percent PET positivity = PET positive patients / total patients scanned [ 3 ] TP : true positive , FP : false positive 16 HOW SUPPLIED / STORAGE AND HANDLING How Supplied Gallium Ga 68 Gozetotide Injection ( NDC 24275 - 0525 - 1 ) is a clear , colorless solution , supplied in a capped glass vial containing 18 . 5 MBq / mL to 185 MBq / mL ( 0 . 5 mCi / mL to 5 mCi / mL ) of gallium Ga 68 gozetotide at end of synthesis , in approximately 11 mL .
+The contents of each vial are sterile , pyrogen - free and preservative - free .
+The expiration date and time are provided on the container label .
+Use Gallium Ga 68 Gozetotide Injection within 4 hours of calibration time .
+Storage and Handling Storage Store Gallium Ga 68 Gozetotide Injection upright in a lead shielded container at 25 ° C ( 77 ° F ) ; excursions are permitted from 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) .
+Store Gallium Ga 68 Gozetotide Injection within the original container in radiation shielding .
+Handling Receipt , transfer , handling , possession , or use of this product is subject to the radioactive material regulations and licensing requirements of the U . S . Nuclear Regulatory Commission , Agreement States , or Licensing States as appropriate .
+17 PATIENT COUNSELING INFORMATION Adequate Hydration Instruct patients to drink a sufficient amount of water to ensure adequate hydration before their PET study and urge them to drink and urinate as often as possible during the first hours following the administration of Gallium Ga 68 Gozetotide Injection , in order to reduce radiation exposure [ see Dosage and Administration ( 2 . 3 ) and Warnings and Precautions ( 5 . 2 ) ] .
+Manufactured and Distributed by : University of California , San Francisco UCSF Radiopharmaceutical Facility 185 Berry Street Suite 350 San Francisco , CA 94107 415 - 353 - 4476 Drug Product Label Vial and Radiation Shield [ MULTIMEDIA ] [ MULTIMEDIA ]

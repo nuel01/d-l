@@ -1,0 +1,426 @@
+Description PHOTOFRIN ® ( porfimer sodium ) for Injection is a photosensitizing agent used in the photodynamic therapy ( PDT ) of tumors and of high - grade dysplasia ( HGD ) in Barrett ’ s esophagus ( BE ) .
+Following reconstitution of the freeze - dried product with 5 % Dextrose Injection ( USP ) or 0 . 9 % Sodium Chloride Injection ( USP ) , it is injected intravenously .
+This is followed 40 − 50 hours later by illumination of the tumor or HGD in BE with laser light ( 630 nm wavelength ) .
+PHOTOFRIN ® is not a single chemical entity ; it is a mixture of oligomers formed by ether and ester linkages of up to eight porphyrin units .
+It is a dark red to reddish brown cake or powder .
+Each vial of PHOTOFRIN ® contains 75 mg of porfimer sodium as a sterile freeze - dried cake or powder .
+Hydrochloric Acid and / or Sodium Hydroxide may be added during manufacture to adjust the pH to within 7 . 2 - 7 . 9 .
+There are no preservatives or other additives .
+The structural formula below is representative of the components present in PHOTOFRIN ® .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Clinical Pharmacology Pharmacology The cytotoxic and antitumor actions of PHOTOFRIN ® are light and oxygen dependent .
+Photodynamic therapy with PHOTOFRIN ® is a two - stage process .
+The first stage is the intravenous injection of PHOTOFRIN ® .
+Clearance from a variety of tissues occurs over 40 - 72 hours , but tumors , skin , and organs of the reticuloendothelial system ( including liver and spleen ) retain PHOTOFRIN ® for a longer period .
+Illumination with 630 nm wavelength laser light constitutes the second stage of therapy .
+Tumor selectivity in treatment occurs through a combination of selective retention of PHOTOFRIN ® and selective delivery of light .
+Cellular damage caused by PHOTOFRIN ® PDT is a consequence of the propagation of radical reactions .
+Radical initiation may occur after PHOTOFRIN ® absorbs light to form a porphyrin excited state .
+Spin transfer from PHOTOFRIN ® to molecular oxygen may then generate singlet oxygen .
+Subsequent radical reactions can form superoxide and hydroxyl radicals .
+Tumor death also occurs through ischemic necrosis secondary to vascular occlusion that appears to be partly mediated by thromboxane A2 release .
+The laser treatment induces a photochemical , not a thermal , effect .
+The necrotic reaction and associated inflammatory responses may evolve over several days .
+Pharmacokinetics Following a 2 mg / kg dose of porfimer sodium to 4 male cancer patients , the average peak plasma concentration was 15 ± 3 mcg / mL , the elimination half - life was 250 ± 285 hours , the steady - state volume of distribution was 0 . 49 ± 0 . 28 L / kg , and the total plasma clearance was 0 . 051 ± 0 . 035 mL / min / kg .
+The mean plasma concentration at 48 hours was 2 . 6 ± 0 . 4 mcg / mL .
+The influence of impaired hepatic function on PHOTOFRIN ® disposition has not been evaluated .
+PHOTOFRIN ® was approximately 90 % protein bound in human serum , studied in vitro .
+The binding was independent of concentration over the concentration range of 20 − 100 mcg / mL .
+The pharmacokinetics of PHOTOFRIN ® was also studied in 24 healthy subjects ( 12 men and 12 women ) who received a single dose of 2 mg / kg PHOTOFRIN ® given via the intravenous route .
+The serum decay was bi - exponential , with a slow distribution phase and a very long elimination phase .
+The elimination half - life was 415 ± 104 hours ( 17 ± 4 . 3 days ) .
+The Cmax was determined to be 40 ± 11 . 6 mcg / mL and AUCinf was 2400 ± 552 mcg • hour / mL .
+Women had a lower Cmax and a higher AUC .
+The clinical significance of these differences is unknown .
+The Tmax was approximately 1 . 5 hours in women and 0 . 17 hours in men .
+At the time of intended photoactivation 40 - 50 hours after injection , the pharmacokinetic profiles of PHOTOFRIN ® in men and women were similar .
+Clinical Studies Clinical studies of PDT with PHOTOFRIN ® were conducted in patients with obstructing esophageal and endobronchial non - small - cell lung cancers , in patients with early - stage radiologically occult endobronchial cancer , and in patients with high - grade dysplasia ( HGD ) associated with Barrett ’ s Esophagus ( BE ) .
+In all clinical studies , the method of PDT administration was essentially identical .
+A course of therapy consisted of one injection of PHOTOFRIN ® ( 2 mg / kg administered as a slow intravenous injection over 3 − 5 minutes ) followed by up to two non - thermal applications of 630 nm laser light .
+Light doses of 300 Joules / cm ( J / cm ) of diffuser length were used in esophageal cancer .
+Light doses of 200 J / cm of diffuser length were used in endobronchial cancer for both palliation of obstructing cancer and treatment of superficial lesions .
+For the ablation of HGD in BE , the light dose administered was 130 J / cm of diffuser length using a centering balloon ( for details , see DOSAGE AND ADMINISTRATION ) .
+In all cases , the first application of light occurred 40 − 50 hours after PHOTOFRIN ® injection .
+For treatment of esophageal and endobronchial cancer , debridement of residua was performed via endoscopy / bronchoscopy 96 − 120 hours after injection , after which any residual tumor could be retreated with a second laser light application at the same dose used for the initial treatment .
+Additional courses of PDT with PHOTOFRIN ® were allowed after 1 month , up to a maximum of three courses .
+For ablation of HGD in BE , a second laser light application of 50 J / cm of diffuser length without a centering balloon could be given 96 - 120 hours after the PHOTOFRIN ® injection for untreated areas ( " skip " areas ) .
+Additional courses of PDT with PHOTOFRIN ® were allowed after 3 months , up to a maximum of three courses .
+Esophageal Cancer Photodynamic therapy with PHOTOFRIN ® was utilized in a multicenter , single - arm study in 17 patients with completely obstructing esophageal carcinoma .
+Assessments were made at 1 week and 1 month after the last treatment procedure .
+As shown in Table 1 , after a single course of therapy , 94 % of patients obtained an objective tumor response and 76 % of patients experienced some palliation of their dysphagia .
+On average , before treatment these patients had difficulty swallowing liquids , even saliva .
+After one course of therapy , there was a statistically significant improvement in mean dysphagia grade ( 1 . 5 units , p < 0 . 05 ) and 13 of 17 patients could swallow liquids without difficulty 1 week and / or 1 month after treatment .
+Based on all courses , three patients achieved a complete tumor response ( CR ) .
+In two of these patients , the CR was documented only at Week 1 as they had no further assessments .
+The third patient achieved a CR after a second course of therapy , which was supported by negative histopathology and maintained for the entire follow - up of 6 months .
+Of the 17 treated patients , 11 ( 65 % ) received clinically important benefit from PDT .
+Clinically important benefit was defined hierarchically as a complete tumor response ( 3 patients ) , achievement of normal swallowing ( 2 patients went from Grade 5 dysphagia to Grade 1 ) , or achievement of a marked improvement of two or more grades of dysphagia with minimal adverse reactions ( 6 patients ) .
+The median duration of benefit in these patients was 69 days .
+Duration of benefit was calculated only for the period with documented evidence of improvement .
+All of these patients were still in response at their last assessment and , therefore , the estimate of 69 days is conservative .
+The median survival for these 11 patients was 115 days .
+TABLE 1 .
+Course 1 Efficacy Results in Patients with Completely Obstructing Esophageal CancerEFFICACY PARAMETER PDT N = 17 OBJECTIVE TUMOR RESPONSE [ 1 ] ( % of patients ) Week 1 82 % Month 1 35 % [ 2 ] Any assessment [ 3 ] 94 % IMPROVEMENT [ 4 ] IN DYSPHAGIA ( % of patients ) Week 1 71 % Month 1 47 % Any assessment null 76 % MEAN DYSPHAGIA GRADE [ 5 ] AT BASELINE ( units ) 4 . 6 MEAN IMPROVEMENT null IN DYSPHAGIA GRADE ( units ) Week 1 1 . 4 Month 1 1 . 5 MEAN NUMBER OF LASER APPLICATIONS ( units ) 1 . 4 [ 1 ] CR + PR , CR = complete response ( absence of endoscopically visible tumor ) , PR = partial response ( appearance of a visible lumen ) .
+[ 2 ] Eight of the 17 treated patients did not have assessments at Month 1 .
+[ 3 ] Week 1 or Month 1 .
+[ 4 ] Patients with at least a one - grade improvement in dysphagia grade .
+[ 5 ] Dysphagia Scale : Grade 1 = normal swallowing , Grade 2 = difficulty swallowing some hard solids ; can swallow semisolids , Grade 3 = unable to swallow any solids ; can swallow liquids , Grade 4 = difficulty swallowing liquids , Grade 5 = unable to swallow saliva .
+Endobronchial Cancer Two randomized multicenter Phase III studies were conducted to compare the safety and efficacy of PHOTOFRIN ® PDT versus Nd : YAG laser therapy for reduction of obstruction and palliation of symptomatic patients with partially or completely obstructing endobronchial non - small - cell lung cancer .
+Assessments were made at 1 week and at monthly intervals after treatment .
+Table 2 shows the results from all randomized patients in the two studies combined .
+Objective tumor response rates ( CR + PR ) , which demonstrate reduction of obstruction , were 59 % for PDT and 58 % for Nd : YAG at Week 1 .
+The response rate at 1 month or later was 60 % for PDT and 41 % for Nd : YAG .
+TABLE 2 .
+Efficacy Results from Studies in Late - stage Obstructing Endobronchial Cancer − All Randomized Patients [ 1 ] EFFICACY PARAMETER PDT N = 102 ( % of Patients ) Nd : YAG N = 109 ( % of Patients ) OBJECTIVE TUMOR RESPONSE [ 2 ] Week 1 59 % 58 % Month 1 or later 60 % 41 % null ATELECTASIS IMPROVEMENT [ 3 ] n = 60 n = 71 Week 1 35 % 18 % Month 1 or later 35 % 20 % [ 1 ] Statistical comparisons were precluded by the amount of missing data at Month 1 or later ( e . g . for tumor response , PDT 28 % missing , Nd : YAG 38 % ) .
+[ 2 ] CR + PR , CR = complete response ( absence of bronchoscopically visible tumor ) , PR = partial response ( increase of ≥ 50 % in the smallest luminal diameter ) ; for completely obstructing tumors , any appearance of a lumen ) .
+[ 3 ] In patients with atelectasis at baseline .
+Patient symptoms were evaluated using a 5 - or 6 - grade pulmonary symptom severity rating scale for dyspnea , cough , and hemoptysis .
+Patients with moderate to severe symptoms are those most in need of palliation .
+Improvements of 2 or more grades are considered to be clinically significant .
+Table 3 shows the percentages of patients with moderate to severe symptoms at baseline who demonstrated a 2 - grade improvement at any time during the interval evaluated .
+TABLE 3 .
+Efficacy Results from Studies in Late - stage Obstructing Endobronchial Cancer − Clinically Significant Improvements in Patients with Moderate to Severe Symptoms at Baseline [ 1 ] CLINICALLY SIGNIFICANT SYMPTOM IMPROVEMENT [ 2 ] PDT N = 102 ( % of Patients ) Nd : YAG N = 109 ( % of Patients ) ANY SYMPTOM n = 89 n = 89 Week 1 25 % 29 % Month 1 or later 40 % 27 % null DYSPNEA n = 60 n = 68 Week 1 15 % 18 % Month 1 or later 23 % 13 % COUGH n = 63 n = 65 Week 1 6 % 9 % Month 1 or later 24 % 8 % HEMOPTYSIS n = 24 n = 31 Week 1 58 % 29 % Month 1 or later 79 % 35 % [ 1 ] Statistical comparisons were precluded by the amount of missing data at Month 1 or later .
+[ 2 ] Dyspnea was graded on a 6 - point severity rating scale ; cough and hemoptysis on a 5 - point scale .
+Clinically significant improvement was defined as a change of at least two grades from baseline .
+In a separate retrospective analysis , patients were individually evaluated to identify those patients whose benefit to risk ratio was most favorable , i . e . , those who obtained clinically important benefit with minimal adverse reactions .
+Clinically important benefit was defined as one of the following : • A substantial improvement in pulmonary symptoms at Month 1 or later ( dyspnea ≥ 2 grades , hemoptysis ≥ 3 grades , cough ≥ 3 grades or increase in FEV1 ≥ 40 % ) ; • A moderate improvement in symptoms at Month 2 or later ( dyspnea 1 grade , cough 2 grades , hemoptysis 2 grades or increase in FEV1 ≥ 20 % ) ; or • A durable objective tumor response ( CR or PR maintained to Month 2 or longer ) .
+Thirty - six ( 36 ) of the 99 PDT - treated patients ( 36 % ) and 23 of the 99 Nd : YAG - treated patients ( 23 % ) received clinically important benefit with only minimal or moderate toxicities of short duration .
+Thirty - four of 99 PDT - treated patients demonstrated improvements in 2 or more efficacy endpoints ( dyspnea , cough , hemoptysis , sputum , atelectasis , pulmonary function tests of FEV1 or FVC , Karnofsky Performance Score or tumor response ) and 29 patients had improvements in 3 or more .
+The median duration of documented benefit in the 36 patients was 63 days .
+In these patients with late - stage obstructing lung cancer , median survival was 174 days in PDT - treated patients and 161 days in Nd : YAG - treated patients .
+The efficacy of PHOTOFRIN ® PDT was also evaluated in the treatment of microinvasive endobronchial tumors in 62 inoperable patients in three noncomparative studies .
+Microinvasive lung cancer is defined histologically as disease , which invades beyond the basement membrane but not through or into the cartilage .
+For 11 of the 62 patients , it was clearly documented that surgery and radiotherapy were not indicated .
+These 11 patients were all inoperable for medical or technical reasons .
+Radiotherapy was not indicated due to prior high - dose radiotherapy ( 7 patients ) , poor pulmonary function ( 2 patients ) , multifocal multilobar disease ( 1 patient ) , and poor medical condition ( 1 patient ) .
+As shown in Table 4 , the complete tumor response rate , biopsy - proven at least 3 months after treatment , was 50 % , median time to tumor recurrence was more than 2 . 7 years , median survival was 2 . 9 years and disease - specific survival was 4 . 1 years .
+TABLE 4 .
+Overall Efficacy Results in Patients with Superficial Endobronchial Tumors PDT EFFICACY PARAMETER n = 11 n = 62 COMPLETE TUMOR RESPONSE , BIOPSY - PROVEN AT 3 MONTHS Number of Patients ( % ) 3 ( 27 ) 31 ( 50 ) [ 1 ] TIME TO TUMOR RECURRENCE IN PATIENTS WITH COMPLETE RESPONSE Number of Patients ( % ) with Recurrences 1 ( 33 ) 11 ( 35 ) Median Time to Tumor Recurrence > 2 . 7 years [ 95 % Confidence Interval ] [ 1 . 6 , — [ 2 ] ] SURVIVAL Number of Patients ( % ) who Died of Any Cause 4 ( 36 ) 32 ( 52 ) Median Survival 2 . 9 years [ 95 % Confidence Interval ] [ 2 . 1 , 5 . 7 ] DISEASE - SPECIFIC SURVIVAL Number of Patients ( % ) who Died of Lung Cancer 3 ( 27 ) 22 ( 35 ) Median Disease - Specific Survival 4 . 1 years [ 95 % Confidence Interval ] [ 2 . 5 , — null ] [ 1 ] Not included are an additional 18 patients ( 6 patients not eligible for surgery or radiotherapy ) who had complete tumor responses which were documented earlier than 3 months after treatment .
+[ 2 ] The upper limit of the confidence interval could not be estimated due to an insufficient number of patients whose tumors recurred ( Time to Tumor Recurrence ) or who died ( Survival ) .
+High - Grade Dysplasia in Barrett ’ s Esophagus The safety and efficacy of PDT with PHOTOFRIN ® in ablation of HGD in patients with BE was assessed in one controlled clinical study and two supportive studies .
+Controlled Study A multicenter , partially blinded , randomized , controlled study was conducted in North America and Europe to assess the efficacy of PDT with PHOTOFRIN ® for Injection plus omeprazole ( PHOTOFRIN ® PDT + OM ) in producing complete ablation of HGD in patients with BE compared to control patients receiving omeprazole alone ( OM Only ) .
+A total of 485 patients with the diagnosis of HGD were screened for the study ; 208 ( 43 % ) were randomized to treatment , 237 ( 49 % ) were excluded because the diagnosis of HGD was not confirmed and 40 ( 8 % ) did not meet other screening criteria or declined toparticipate in the study .
+The high patient exclusion rate re - enforces the recommendation by the American College of Gastroenterology that the diagnosis of HGD in BE should be confirmed by an expert GI pathologist .
+Patients were centrally randomized in a 2 : 1 proportion to receive PHOTOFRIN ® PDT + OM ( 138 patients ) or OM Only ( 70 patients ) .
+All patients underwent rigorous systematic quarterly endoscopic biopsy surveillance .
+Four - quadrant jumbo biopsies at every 2 cm of the entire Barrett ’ s mucosa were obtained at each follow - up visit ( every three months or six months if four consecutive quarterly follow - up endoscopic biopsy results were negative for HGD ) .
+All histological assessments were carried out at a central pathology laboratory and read by pathologists blinded to the treatment administered .
+A total of 208 patients who had biopsy - proven HGD in BE were enrolled in the study .
+Of those , 199 patients were considered evaluable : 130 of 138 ( 94 % ) patients randomized to the PHOTOFRIN ® PDT + OM group and 69 of 70 ( 99 % ) randomized to the OM Only group had no esophageal invasive cancer , suspicion of esophageal invasive cancer , lymph node involvement , or metastases , and had received at least one PHOTOFRIN ® PDT course or one week of OM treatment , respectively .
+The mean age was 66 years ( 38 to 89 years ) in the PHOTOFRIN ® PDT + OM group , and 67 ( 36 to 88 ) in the OM Only group .
+The patients in both treatment groups were predominantly male ( 85 % ) , Caucasian ( 99 % ) , and former smokers ( 64 % ) .
+These characteristics are typical of patients with HGD .
+Patients randomized to the PHOTOFRIN ® PDT + OM treatment received up to three courses of treatment separated by at least 90 days .
+Each course consisted of intravenous administration of 2 . 0 mg / kg of PHOTOFRIN ® followed 40 - 50 hours later by a 630 nm laser light dose of 130 J / cm of diffuser length delivered using a centering balloon .
+A second laser light dose of 50 J / cm of diffuser length could be administered without a centering balloon 96 - 120 hours after the injection of PHOTOFRIN ® for treatment of " skip " areas .
+Since centering balloons are up to 7 cm in length , patients with more extensive HGD were treated with two or three courses .
+Both the PHOTOFRIN ® PDT treatment group and the control group received 20 mg of omeprazole BID to decrease reflux esophagitis .
+The primary efficacy endpoint was the Complete Response rate ( CR3 or better ) at any one of the endoscopic assessment time points .
+The CR3 or better response was defined as the complete ablation of HGD and referred to as a composite of the following three response levels .
+• CR1 − Complete replacement of all Barrett ’ s metaplasia and dysplasia with normal squamous cell epithelium ; • CR2 − Ablation of all histological grades of dysplasia , including patients with indefinite grade of dysplasia , but some areas of Barrett ’ s epithelium still remain ; and • CR3 − Ablation of all areas of HGD but with some areas of low - grade dysplasia with or without areas which are indefinite for dysplasia , or areas of Barrett ’ s metaplastic epithelium .
+There were five secondary efficacy endpoints : • Quality of Complete Response , which consisted of two parameters : • CR1 response ( complete replacement of all Barrett ’ s metaplasia and dysplasia with normal squamous cell epithelium ) ; and • CR2 or better response ( a composite endpoint of complete ablation of all grades of dysplasia and of CR1 response as defined above ) ; • Duration of CR ; • Time to Progression to Cancer ; • Time to Treatment Failure ( a composite endpoint of progression to cancer and other therapeutic intervention for HGD ) ; and • Survival time Table 5 presents the overall clinical response for both treatment groups in the intent - to - treat ( ITT ) population whose response was CR3 or better at any one of the evaluation time points .
+Overall , PHOTOFRIN ® PDT + OM was effective in eliminating HGD in patients with BE .
+The proportion of responders was significantly higher in the PHOTOFRIN ® PDT + OM group than in the OM Only group ( 77 % versus 39 % , respectively ; p < 0 . 0001 ) .
+Table 5 .
+Complete Response Rates After a Minimum Follow - Up of 24 Months in the ITT Population Treatment Groups Responders PHOTOFRIN ® PDT + OM OM Only p - value [ 1 ] Numbers of patients N 138 70 CR3 or better [ 2 ] n 106 27 Proportion ( % ) 0 . 768 ( 76 . 8 ) 0 . 386 ( 38 . 6 ) < 0 . 0001 95 % CI ( 0 . 689 , 0 . 836 ) ( 0 . 272 , 0 . 510 ) [ 1 ] Fisher ’ s Exact test .
+[ 2 ] CR3 or better : Ablation of all areas of HGD . NOTE : Six patients in the PHOTOFRIN ® PDT + OM group and three patients in the OM Only group without post - baseline biopsy data are considered as non - responders .
+The quality of response in the PHOTOFRIN ® PDT + OM group was significantly better than that measured in the OM Only group at all response levels ( p < 0 . 0001 ) .
+Seventy - two ( 52 % ) patients in the PHOTOFRIN ® PDT + OM group achieved a CR1 response as compared to only five ( 7 % ) patients in the OM Only group .
+Eighty - one ( 59 % ) patients in the PHOTOFRIN ® PDT + OM group achieved a CR2 or better response as compared to ten ( 14 % ) patients in the OM Only group .
+The probability of maintaining a complete response ( CR3 or better ) by the end of the follow - up period was 53 % in PHOTOFRIN ® PDT + OM group and only 13 % in OM Only group .
+The time to patients ’ progression to cancer was significantly longer in the PHOTOFRIN ® PDT + OM group than in OM Only group ( see Kaplan - Meier plot below ) .
+Figure 1 .
+Comparison by Treatment Group of the Time to Progression to Cancer Over Time ( ITT population ) [ MULTIMEDIA ] At the end of the follow - up , patients in the PHOTOFRIN ® PDT + OM group had an 83 % chance of being cancer - free compared to 53 % chance among patients in the OM Only group ( p = 0 . 0014 ) .
+Durability of cancer risk reduction beyond two years has not been demonstrated .
+At the end of the follow - up , the proportion of patients ’ progression to cancer was statistically lower in the PHOTOFRIN ® PDT + OM group than in the OM Only group : 13 % ( 18 of 138 patients ) versus 28 % ( 20 of 70 patients ) , p = 0 . 0060 .
+Progression to cancer was related to complete response status .
+Patients who did not have a complete response had a greater risk of progression to cancer than patients who achieved a CR3 or better response , both in the PHOTOFRIN ® PDT + OM group ( 38 % vs . 6 % ) and in the OM Only group ( 44 % vs . 4 % ) .
+Patients who progressed to cancer after a complete response had mostly a CR3 response .
+No CR1 patients had progressed to cancer during the follow - up period .
+Eighteen ( 13 % ) patients in the PHOTOFRIN ® PDT + OM group and 22 ( 31 % ) patients in the OM Only group had another therapeutic intervention for HGD .
+Patients who experienced a progression of HGD to cancer , or who underwent therapy for HGD other than specified in the treatment arm were discontinued from the study .
+A disproportionate percentage of patients were discontinued from the OM Only group during the course of the study .
+By the end of the follow - up period , 81 ( 59 % ) patients in the PHOTOFRIN ® PDT + OM group and 28 ( 40 % ) patients in the OM Only group remained in their respective treatment arms .
+Median survival time could not be estimated for either group , because very few ( 3 ) patients died during the study period .
+Complete response was influenced by the following factors : treatment with PHOTOFRIN ® PDT + OM ( vs . OM Only ) , single focus of HGD ( vs . multiple foci ) , and prior omeprazole intake of at least 3 months ( yes vs . no ) .
+Complete response was not influenced by the duration of HGD , length of BE , nodular conditions , gender , age , smoking history , and study center ’ s size .
+[ MULTIMEDIA ] Supportive Studies Two uncontrolled , supportive studies were conducted that were physician - sponsored , single center Phase II trials .
+Both studies included patients that had low - grade dysplasia ( LGD ) , HGD and early adenocarcinoma .
+All HGD in BE patients were treated with PHOTOFRIN ® PDT and omeprazole .
+The first study enrolled 99 patients ( 44 with HGD ) ; the purpose of this study was to determine the required light dose to produce effective results .
+The second study enrolled 86 patients ( 42 with HGD ) , who were randomized to receive either PHOTOFRIN ® PDT with prednisone or PHOTOFRIN ® PDT without prednisone to determine whether steroid treatment would reduce the incidence and severity of esophageal strictures .
+A CR3 or better response was demonstrated in 93 % of 44 patients with HGD in the first study and in 95 % of 42 patients with HGD in the second study after a minimum follow - up of 12 months .
+A CR2 or better response was achieved in 82 % of patients in the first study and in 91 % of patients in the second study .
+A CR1 response occurred in 57 % of patients in the first study and in 60 % of the second study .
+Progression to cancer during the above follow - up period occurred in 18 % of patients in the first study and in 7 % of patients in the second study .
+No reduction in the incidence or severity of esophageal strictures was found in the prednisone group in the second study .
+INDICATIONS AND USAGE Photodynamic therapy with PHOTOFRIN ® is indicated for : • Palliation of patients with completely obstructing esophageal cancer , or of patients with partially obstructing esophageal cancer who , in the opinion of their physician , cannot be satisfactorily treated with Nd : YAG laser therapy .
+• Reduction of obstruction and palliation of symptoms in patients with completely or partially obstructing endobronchial non - small - cell lung cancer ( NSCLC ) .
+• Treatment of microinvasive endobronchial NSCLC in patients for whom surgery and radiotherapy are not indicated .
+• Ablation of high - grade dysplasia in Barrett ’ s esophagus patients who do not undergo esophagectomy .
+CONTRAINDICATIONS PHOTOFRIN ® is contraindicated in patients with porphyria or in patients with known allergies to porphyrins .
+Photodynamic therapy is contraindicated in patients with an existing tracheoesophageal or bronchoesophageal fistula .
+Photodynamic therapy is contraindicated in patients with tumors eroding into a major blood vessel .
+Photodynamic therapy is not suitable for emergency treatment of patients with severe acute respiratory distress caused by an obstructing endobronchial lesion because 40 to 50 hours are required between injection with PHOTOFRIN ® and laser light treatment .
+Photodynamic therapy is not suitable for patients with esophageal or gastric varices , or patients with esophageal ulcers > 1 cm in diameter .
+WARNINGS Following injection with PHOTOFRIN ® precautions must be taken to avoid exposure of skin and eyes to direct sunlight or bright indoor light ( see PRECAUTIONS , General Precautions and Information for Patients ) .
+Esophageal Cancer If the esophageal tumor is eroding into the trachea or bronchial tree , the likelihood of tracheoesophageal or bronchoesophageal fistula resulting from treatment is sufficiently high that PDT is not recommended .
+Patients with esophageal varices should be treated with extreme caution .
+Light should not be given directly to the variceal area because of the high risk of bleeding .
+Endobronchial Cancer Patients should be assessed for the possibility that a tumor may be eroding into a pulmonary blood vessel ( see CONTRAINDICATIONS ) .
+Patients at high risk for fatal massive hemoptysis ( FMH ) include those with large , centrally located tumors , those with cavitating tumors or those with extensive tumor extrinsic to the bronchus .
+If the endobronchial tumor invades deeply into the bronchial wall , the possibility exists for fistula formation upon resolution of tumor .
+Photodynamic therapy should be used with extreme caution for endobronchial tumors in locations where treatment - induced inflammation could obstruct the main airway , e . g . , long or circumferential tumors of the trachea , tumors of the carina that involve both mainstem bronchi circumferentially , or circumferential tumors in the mainstem bronchus in patients with prior pneumonectomy .
+High - Grade Dysplasia ( HGD ) in Barrett ’ s Esophagus ( BE ) The long - term effect of PDT on HGD in BE is unknown .
+There is always a risk of cancer or abnormal epithelium that is invisible to the endoscopist beneath the new squamous cell epithelium ; these facts emphasize the risk of overlooking cancer in such patients and the need for rigorous continuing surveillance despite the endoscopic appearance of complete squamous cell reepithelialization .
+It is recommended that endoscopic biopsy surveillance be conducted every three months , until four consecutive negative evaluations for HGD have been recorded ; further follow - up may be scheduled every 6 to 12 months , as per judgment of physicians .
+The follow - up period of the pivotal study at the time of analysis was a minimum of two years ( ranging from 2 to 3 . 6 years ) .
+PRECAUTIONS General Precautions and Information for Patients Photosensitivity All patients who receive PHOTOFRIN ® will be photosensitive and must observe precautions to avoid exposure of skin and eyes to direct sunlight or bright indoor light ( from examination lamps , including dental lamps , operating room lamps , unshaded light bulbs at close proximity , etc . ) for at least 30 days .
+Some patients may remain photosensitive for up to 90 days or more .
+The photosensitivity is due to residual drug , which will be present in all parts of the skin .
+Exposure of the skin to ambient indoor light is , however , beneficial because the remaining drug will be inactivated gradually and safely through a photobleaching reaction .
+Therefore , patients should not stay in a darkened room during this period and should be encouraged to expose their skin to ambient indoor light .
+The level of photosensitivity will vary for different areas of the body , depending on the extent of previous exposure to light .
+Before exposing any area of skin to direct sunlight or bright indoor light , the patient should test it for residual photosensitivity .
+A small area of skin should be exposed to sunlight for 10 minutes .
+If no photosensitivity reaction ( erythema , edema , blistering ) occurs within 24 hours , the patient can gradually resume normal outdoor activities , initially continuing to exercise caution and gradually allowing increased exposure .
+If some photosensitivity reaction occurs with the limited skin test , the patient should continue precautions for another 2 weeks before retesting .
+The tissue around the eyes may be more sensitive , and therefore , it is not recommended that the face be used for testing .
+If patients travel to a different geographical area with greater sunshine , they should retest their level of photosensitivity .
+Conventional UV ( ultraviolet ) sunscreens are of no value in protecting against photosensitivity reactions because photoactivation is caused by visible light .
+Ocular Sensitivity Ocular discomfort , commonly described as sensitivity to sun , bright lights , or car headlights , has been reported in patients who received PHOTOFRIN ® .
+For 30 days , when outdoors , patients should wear dark sunglasses which have an average white light transmittance of < 4 % .
+Use Before or After Radiotherapy If PDT is to be used before or after radiotherapy , sufficient time should be allotted between the two therapies to ensure that the inflammatory response produced by the first treatment has subsided before commencing the second treatment .
+The inflammatory response from PDT will depend on tumor size and extent of surrounding normal tissue that receives light .
+It is recommended that 2 to 4 weeks be allowed after PDT before commencing radiotherapy .
+Similarly , if PDT is to be given after radiotherapy , the acute inflammatory reaction from radiotherapy usually subsides within 4 weeks after completing radiotherapy , after which PDT may be given .
+Chest Pain As a result of PDT treatment , patients may complain of substernal chest pain because of inflammatory responses within the area of treatment .
+Such pain may be of sufficient intensity to warrant the short - term prescription of opiate analgesics .
+Respiratory Distress Patients with endobronchial lesions must be closely monitored between the laser light therapy and the mandatory debridement bronchoscopy for any evidence of respiratory distress .
+Inflammation , mucositis , and necrotic debris may cause obstruction of the airway .
+If respiratory distress occurs , the physician should be prepared to carry out immediate bronchoscopy to remove secretions and debris to open the airway .
+Esophageal Strictures Esophageal strictures as a result of PDT of HGD in BE are common adverse events .
+An esophageal stricture was defined as a fixed lumen narrowing with solid food dysphagia and requiring dilation .
+Regardless of the indication , esophageal strictures were reported in 122 of the 318 ( 38 % ) patients enrolled in the three clinical studies .
+Overall , esophageal strictures occurred within six months following PDT and were manageable through dilations .
+Multiple dilations of esophageal strictures may be required , as shown in Table 6 .
+Special care should be taken during dilation to avoid perforation of the esophagus .
+TABLE 6 .
+Esophageal Dilations in Patients with Treatment - related StricturesNumber of Dilations Number of Patients with Strictures , N = 122 Percentage of Patients with Strictures 1 − 2 Dilations 38 31 % 3 − 5 Dilations 33 27 % 6 − 10 Dilations 26 21 % > 10 Dilations 25 20 % A high proportion of patients who developed an esophageal stricture received a nodule pre - treatment prior to developing the event ( 49 % ) and / or had a mucosal segment treated twice ( 82 % ) .
+Therefore , nodule pre - treatment and re - treating the same mucosal segment more than once may influence the risk of developing an esophageal stricture .
+Prior to initiating treatment with PHOTOFRIN ® PDT , the diagnosis of HGD in BE should be confirmed by an expert GI pathologist .
+Photodynamic therapy with PHOTOFRIN ® should be applied by physicians trained in the endoscopic use of PDT with PHOTOFRIN ® , and only in those facilities properly equipped for the procedure .
+Avoidance of Pregnancy Women of childbearing potential should practice an effective method of contraception during therapy ( see Pregnancy ) .
+Drug Interactions There have been no formal interaction studies of PHOTOFRIN ® and any other drugs .
+However , it is possible that concomitant use of other photosensitizing agents ( e . g . , tetracyclines , sulfonamides , phenothiazines , sulfonylurea hypoglycemic agents , thiazide diuretics , griseofulvin , and fluoroquinolones ) could increase the risk of photosensitivity reaction .
+PHOTOFRIN ® PDT causes direct intracellular damage by initiating radical chain reactions that damage intracellular membranes and mitochondria .
+Tissue damage also results from ischemia secondary to vasoconstriction , platelet activation and aggregation and clotting .
+Research in animals and in cell culture has suggested that many drugs could influence the effects of PDT , possible examples of which are described below .
+There are no human data that support or rebut these possibilities .
+Compounds that quench active oxygen species or scavenge radicals , such as dimethyl sulfoxide , β - carotene , ethanol , formate and mannitol would be expected to decrease PDT activity .
+Preclinical data also suggest that tissue ischemia , allopurinol , calcium channel blockers and some prostaglandin synthesis inhibitors could interfere with PHOTOFRIN ® PDT .
+Drugs that decrease clotting , vasoconstriction or platelet aggregation , e . g . , thromboxane A2 inhibitors , could decrease the efficacy of PDT .
+Glucocorticoid hormones given before or concomitant with PDT may decrease the efficacy of the treatment .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term studies have been conducted to evaluate the carcinogenic potential of PHOTOFRIN ® .
+In vitro , PHOTOFRIN ® PDT did not cause mutations in the Ames test , nor did it cause chromosome aberrations or mutations ( HGPRT locus ) in Chinese hamster ovary ( CHO ) cells .
+PHOTOFRIN ® caused < 2 - fold , but significant , increases in sister chromatid exchange in CHO cells irradiated with visible light and a 3 - fold increase in Chinese hamster lung fibroblasts irradiated with near UV light .
+PHOTOFRIN ® PDT caused an increase in thymidine kinase mutants and DNA - protein cross - links in mouse L5178Y cells , but not mouse LYR83 cells .
+PHOTOFRIN ® PDT caused a light - dose dependant increase in DNA - strand breaks in malignant human cervical carcinoma cells , but not in normal cells .
+PHOTOFRIN ® was negative in a Chinese hamster ovarian cells ( CHO / HGPRT ) mutation test .
+In vivo , PHOTOFRIN ® did not cause chromosomal aberrations in the mouse micronucleus test .
+PHOTOFRIN ® given to male and female rats intravenously , at 4 mg / kg / d ( 0 . 32 times the clinical dose on a mg / m2 basis ) before conception and through Day 7 of pregnancy caused no impairment of fertility .
+In this study , long - term dosing with PHOTOFRIN ® caused discoloration of testes and ovaries and hypertrophy of the testes .
+PHOTOFRIN ® also caused decreased body weight in the parent rats .
+Pregnancy : Pregnancy Category C There are no adequate and well - controlled studies in pregnant women .
+PHOTOFRIN ® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+PHOTOFRIN ® given to rat dams during fetal organogenesis intravenously at 8 mg / kg / d ( 0 . 64 times the clinical dose on a mg / m2 basis ) for 10 days caused no major malformations or developmental changes .
+This dose caused maternal and fetal toxicity resulting in increased resorptions , decreased litter size , delayed ossification , and reduced fetal weight .
+PHOTOFRIN ® caused no major malformations when given to rabbits intravenously during organogenesis at 4 mg / kg / d ( 0 . 65 times the clinical dose on a mg / m2 basis ) for 13 days .
+This dose caused maternal toxicity resulting in increased resorptions , decreased litter size , and reduced fetal body weight .
+PHOTOFRIN ® given to rats during late pregnancy through lactation intravenously at 4 mg / kg / d ( 0 . 32 times the clinical dose on a mg / m2 basis ) for at least 42 days caused a reversible decrease in growth of offspring .
+Parturition was unaffected .
+Nursing Mothers It is not known whether this drug is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from PHOTOFRIN ® , women receiving PHOTOFRIN ® must not breast feed .
+Pediatric Use Safety and effectiveness in children have not been established .
+Use in Elderly Patients Approximately 70 % of the patients treated with PDT using PHOTOFRIN ® in clinical trials were over 60 years of age .
+There was no apparent difference in effectiveness or safety in these patients compared to younger people .
+Dose modification based upon age is not required .
+ADVERSE REACTIONS Systemically induced effects associated with PDT with PHOTOFRIN ® consist of photosensitivity and mild constipation .
+All patients who receive PHOTOFRIN ® will be photosensitive and must observe precautions to avoid sunlight and bright indoor light ( see PRECAUTIONS ) .
+Photosensitivity reactions occurred in approximately 20 % of cancer patients and in 68 % of high - grade dysplasia ( HGD ) in Barrett ’ s esophagus ( BE ) patients treated with PHOTOFRIN ® .
+Typically these reactions were mostly mild to moderate erythema but they also included swelling , itching , burning sensation , feeling hot , or blisters .
+In a single study of 24 healthy subjects , some evidence of photosensitivity reactions occurred in all subjects .
+Other less common skin manifestations were also reported in areas where photosensitivity reactions had occurred , such as increased hair growth , skin discoloration , skin nodules , increased wrinkles and increased skin fragility .
+These manifestations may be attributable to a pseudoporphyria state ( temporary drug - induced cutaneous porphyria ) .
+Most toxicities associated with this therapy are local effects seen in the region of illumination and occasionally in surrounding tissues .
+The local adverse reactions are characteristic of an inflammatory response induced by the photodynamic effect .
+A few cases of fluid imbalance have been reported following the use of PDT with PHOTOFRIN ® in patients with overtly disseminated intraperitoneal malignancies .
+Fluid imbalance is an expected PDT treatment - related event .
+A case of cataracts has been reported in a 51 year - old obese man treated with PHOTOFRIN ® PDT for HGD in BE .
+The patient suffered from a PDT response with development of a deep esophageal ulcer .
+Within two months post PDT , the patient noted difficulty with his distant vision .
+A thorough eye examination revealed a change in the refractive error that later progressed to cataracts in both eyes .
+Both of his parents had a history of cataracts in their 70 s .
+Whether PHOTOFRIN ® directly caused or accelerated a familial underlying condition is unknown .
+Esophageal Carcinoma The following adverse events were reported over the entire follow - up period in at least 5 % of patients treated with PHOTOFRIN ® PDT , who had completely or partially obstructing esophageal cancer .
+Table 7 presents data from 88 patients who received the currently marketed formulation .
+The relationship of many of these adverse events to PDT with PHOTOFRIN ® is uncertain .
+TABLE 7 .
+Adverse Events Reported in 5 % or More of Patients [ 1 ] with Obstructing Esophageal CancerBODY SYSTEM / Adverse Event Number ( % ) of Patients N = 88 n ( % ) Patients with at Least One Adverse Event 84 ( 95 ) AUTONOMIC NERVOUS SYSTEM Hypertension 5 ( 6 ) Hypotension 6 ( 7 ) BODY AS A WHOLE Asthenia 5 ( 6 ) Back pain 10 ( 11 ) Chest pain 19 ( 22 ) Chest pain ( substernal ) 4 ( 5 ) Edema generalized 4 ( 5 ) Edema peripheral 6 ( 7 ) Fever 27 ( 31 ) Pain 19 ( 22 ) Surgical complication 4 ( 5 ) CARDIOVASCULAR Cardiac failure 6 ( 7 ) GASTROINTESTINAL Abdominal pain 18 ( 20 ) Constipation 21 ( 24 ) Diarrhea 4 ( 5 ) Dyspepsia 5 ( 6 ) Dysphagia 9 ( 10 ) Eructation 4 ( 5 ) Esophageal edema 7 ( 8 ) Esophageal tumor bleeding 7 ( 8 ) Esophageal stricture 5 ( 6 ) Esophagitis 4 ( 5 ) Hematemesis 7 ( 8 ) Melena 4 ( 5 ) Nausea 21 ( 24 ) Vomiting 15 ( 17 ) HEART RATE / RHYTHM Atrial fibrillation 9 ( 10 ) Tachycardia 5 ( 6 ) METABOLIC & NUTRITIONAL Dehydration 6 ( 7 ) Weight decrease 8 ( 9 ) PSYCHIATRIC Anorexia 7 ( 8 ) Anxiety 6 ( 7 ) Confusion 7 ( 8 ) Insomnia 12 ( 14 ) RED BLOOD CELL Anemia 28 ( 32 ) RESISTANCE MECHANISM Moniliasis 8 ( 9 ) RESPIRATORY Coughing 6 ( 7 ) Dyspnea 18 ( 20 ) Pharyngitis 10 ( 11 ) Pleural effusion 28 ( 32 ) Pneumonia 16 ( 18 ) Respiratory insufficiency 9 ( 10 ) Tracheoesophageal fistula 5 ( 6 ) SKIN & APPENDAGES Photosensitivity reaction 17 ( 19 ) URINARY Urinary tract infection 6 ( 7 ) [ 1 ] Based on adverse events reported at any time during the entire period of follow - up .
+Location of the tumor was a prognostic factor for three adverse events : upper - third of the esophagus ( esophageal edema ) , middle - third ( atrial fibrillation ) , and lower - third , the most vascular region ( anemia ) .
+Also , patients with large tumors ( > 10 cm ) were more likely to experience anemia .
+Two of 17 patients with complete esophageal obstruction from tumor experienced esophageal perforations , which were considered to be possibly treatment associated ; these perforations occurred during subsequent endoscopies .
+Serious and other notable adverse events observed in less than 5 % of PDT - treated patients with obstructing esophageal cancer in the clinical studies include the following ; their relationship to therapy is uncertain .
+In the gastrointestinal system , esophageal perforation , gastric ulcer , ileus , jaundice , and peritonitis have occurred .
+Sepsis has been reported occasionally .
+Cardiovascular events have included angina pectoris , bradycardia , myocardial infarction , sick sinus syndrome , and supraventricular tachycardia .
+Respiratory events of bronchitis , bronchospasm , laryngotracheal edema , pneumonitis , pulmonary hemorrhage , pulmonary edema , respiratory failure , and stridor have occurred .
+The temporal relationship of some gastrointestinal , cardiovascular and respiratory events to the administration of light was suggestive of mediastinal inflammation in some patients .
+Vision - related events of abnormal vision , diplopia , eye pain and photophobia have been reported .
+Obstructing Endobronchial Cancer Table 8 presents adverse events that were reported over the entire follow - up period in at least 5 % of patients with obstructing endobronchial cancer treated with PHOTOFRIN ® PDT or Nd : YAG .
+These data are based on the 86 patients who received the currently marketed formulation .
+Since it seems likely that most adverse events caused by these acute acting therapies would occur within 30 days of treatment , Table 8 presents those events occurring within 30 days of a treatment procedure , as well as those occurring over the entire follow - up period .
+It should be noted that follow - up was 33 % longer for the PDT group than for the Nd : YAG group , thereby introducing a bias against PDT when adverse event rates are compared for the entire follow - up period .
+The extent of follow - up in the 30 - day period following treatment was comparable between groups ( only 9 % more for PDT ) .
+TABLE 8 .
+Adverse Events Reported in 5 % or More of Patients with Obstructing Endobronchial Cancer Number ( % ) of Patients BODY SYSTEM / Adverse Event Within 30 Days of Treatment Entire Follow - up Period [ 1 ] PDT N = 86 n ( % ) Nd : YAG N = 86 n ( % ) PDT N = 86 n ( % ) Nd : YAG N = 86 n ( % ) Patients with at Least One Adverse Event 43 ( 50 ) 33 ( 38 ) 62 ( 72 ) 48 ( 56 ) BODY AS A WHOLE Back pain 3 ( 3 ) 1 ( 1 ) 3 ( 3 ) 5 ( 6 ) Chest pain 6 ( 7 ) 6 ( 7 ) 7 ( 8 ) 8 ( 9 ) Edema peripheral 3 ( 3 ) 3 ( 3 ) 4 ( 5 ) 3 ( 3 ) Fever 7 ( 8 ) 7 ( 8 ) 14 ( 16 ) 8 ( 9 ) Pain 1 ( 1 ) 4 ( 5 ) 4 ( 5 ) 8 ( 9 ) CENTRAL NERVOUS SYSTEM Dysphonia 3 ( 3 ) 2 ( 2 ) 4 ( 5 ) 2 ( 2 ) GASTROINTESTINAL Constipation 4 ( 5 ) 1 ( 1 ) 4 ( 5 ) 2 ( 2 ) Dyspepsia 1 ( 1 ) 4 ( 5 ) 2 ( 2 ) 5 ( 6 ) PSYCHIATRIC Anxiety 3 ( 3 ) 0 ( 0 ) 5 ( 6 ) 0 ( 0 ) Insomnia 4 ( 5 ) 2 ( 2 ) 4 ( 5 ) 3 ( 4 ) RESPIRATORY Bronchitis 9 ( 10 ) 2 ( 2 ) 9 ( 10 ) 2 ( 2 ) Coughing 5 ( 6 ) 8 ( 9 ) 13 ( 15 ) 11 ( 13 ) Dyspnea 15 ( 17 ) 7 ( 8 ) 26 ( 30 ) 13 ( 15 ) Hemoptysis 6 ( 7 ) 5 ( 6 ) 14 ( 16 ) 7 ( 8 ) Pleural effusion 0 ( 0 ) 0 ( 0 ) 4 ( 5 ) 1 ( 1 ) Pneumonia 5 ( 6 ) 4 ( 5 ) 10 ( 12 ) 5 ( 6 ) Pneumothorax 0 ( 0 ) 0 ( 0 ) 0 ( 0 ) 4 ( 5 ) Respiratory insufficiency 0 ( 0 ) 0 ( 0 ) 5 ( 6 ) 1 ( 1 ) Sputum increased 4 ( 5 ) 5 ( 6 ) 7 ( 8 ) 6 ( 7 ) SKIN & APPENDAGES Photosensitivity reaction 16 ( 19 ) 0 ( 0 ) 18 ( 21 ) 0 ( 0 ) [ 1 ] Follow - up was 33 % longer for the PDT group than for the Nd : YAG group , introducing a bias against PDT when adverse events are compared for the entire follow - up period .
+Transient inflammatory reactions in PDT - treated patients occur in about 10 % of patients and manifest as fever , bronchitis , chest pain , and dyspnea .
+The incidences of bronchitis and dyspnea were higher with PDT than with Nd : YAG .
+Most cases of bronchitis occurred within 1 week of treatment and all but one were mild or moderate in intensity .
+The events usually resolved within 10 days with antibiotic therapy .
+Treatment - related worsening of dyspnea is generally transient and self - limiting .
+Debridement of the treated area is mandatory to remove exudate and necrotic tissue .
+Life - threatening respiratory insufficiency likely due to therapy occurred in 3 % of PDT - treated patients and 2 % of Nd : YAG - treated patients ( see WARNINGS and PRECAUTIONS ) .
+There was a trend toward a higher rate of fatal massive hemoptysis ( FMH ) occurring on the PDT arm ( 10 % ) versus the Nd : YAG arm ( 5 % ) , however , the rate of FMH occurring within 30 days of treatment was the same for PDT and Nd : YAG ( 4 % total events , 3 % treatment - associated events ) .
+Patients who have received radiation therapy have a higher incidence of FMH after treatment with PDT and after other forms of local therapy than patients who have not received radiation therapy , but analyses suggest that this increased risk may be due to associated prognostic factors such as having a centrally located tumor .
+The incidence of FMH in patients previously treated with radiotherapy was 21 % ( 6 / 29 ) in the PDT group and 10 % ( 3 / 29 ) in the Nd : YAG group .
+In patients with no prior radiotherapy , the overall incidence of FMH was less than 1 % .
+Characteristics of patients at high risk for FMH are described in WARNINGS and CONTRAINDICATIONS .
+Other serious or notable adverse events were observed in less than 5 % of PDT - treated patients with endobronchial cancer ; their relationship to therapy is uncertain .
+In the respiratory system , pulmonary thrombosis , pulmonary embolism , and lung abscess have occurred .
+Cardiac failure , sepsis , and possible cerebrovascular accident have also been reported in one patient each .
+Superficial Endobronchial Tumors The following adverse events were reported over the entire follow - up period in at least 5 % of patients with superficial tumors ( microinvasive or carcinoma in situ ) who received the currently marketed formulation .
+TABLE 9 .
+Adverse Events Reported in 5 % or More of Patients [ 1 ] with Superficial Endobronchial TumorsAdverse Event Number ( % ) of Patients N = 90 Patients with at Least One Adverse Event 44 ( 49 % ) Photosensitivity reaction 20 ( 22 % ) Coughing 8 ( 9 % ) Dyspnea 6 ( 7 % ) Edema 16 ( 18 % ) Exudate 20 ( 22 % ) Obstruction 19 ( 21 % ) Stricture 10 ( 11 % ) Ulceration 8 ( 9 % ) [ 1 ] Based on adverse events reported at any time during the entire period of follow - up .
+In patients with superficial endobronchial tumors , 44 of 90 patients ( 49 % ) experienced an adverse event , two - thirds of which were related to the respiratory system .
+The most common reaction to therapy was a mucositis reaction in one - fifth of the patients , which manifested as edema , exudate , and obstruction .
+The obstruction ( mucus plug ) is easily removed with suction or forceps .
+Mucositis can be minimized by avoiding exposure of normal tissue to excessive light ( see PRECAUTIONS ) .
+Three patients experienced life - threatening dyspnea : one was given a double dose of light , one was treated concurrently in both mainstem bronchi and the other had had prior pneumonectomy and was treated in the sole remaining main airway ( see WARNINGS ) .
+Stent placement was required in 3 % of the patients due to endobronchial stricture .
+Fatal massive hemoptysis occurred within 30 days of treatment in one patient with superficial tumors ( 1 % ) .
+High - Grade Dysplasia ( HGD ) in Barrett ’ s Esophagus ( BE ) Table 10 presents adverse events that were reported , regardless of the relationship to treatment , over the follow - up period in at least 5 % of patients with HGD in BE in either controlled or uncontrolled clinical trials .
+Table 10 .
+Treatment Emergent Adverse Events Reported in ≥ 5 % of Patients Treated with PHOTOFRIN ® PDT in the Clinical Trials on High - Grade Dysplasia in Barrett ’ s Esophagus [ 1 ] Treatment Groups BODY SYSTEM / Adverse Event HGD null PHOTOFRIN ® PDT + OM N = 219 n ( % ) HGD [ 2 ] OM Only N = 69 n ( % ) Other [ 3 ] PHOTOFRIN ® PDT N = 99 n ( % ) Total PHOTOFRIN ® PDT N = 318 n ( % ) Patients with at Least One Adverse Event 217 ( 99 ) 51 ( 74 ) 99 ( 100 ) 316 ( 99 ) GASTROINTESTINAL 180 ( 82 ) 25 ( 36 ) 87 ( 88 ) 267 ( 84 ) Nausea 61 ( 28 ) 5 ( 7 ) 63 ( 64 ) 124 ( 39 ) Esophageal Stricture [ 4 ] 85 ( 39 ) 0 37 ( 37 ) 122 ( 38 ) Vomiting 72 ( 33 ) 4 ( 6 ) 35 ( 35 ) 107 ( 34 ) Dysphagia 50 ( 23 ) 1 ( 1 ) 27 ( 27 ) 77 ( 24 ) Esophageal Narrowing [ 5 ] 60 ( 27 ) 4 ( 6 ) 16 ( 16 ) 76 ( 24 ) Constipation 45 ( 21 ) 5 ( 7 ) 9 ( 9 ) 54 ( 17 ) Abdominal Pain ( Upper , lower , NOS ) 32 ( 15 ) 4 ( 6 ) 8 ( 8 ) 40 ( 12 ) Diarrhea 22 ( 10 ) 7 ( 10 ) 6 ( 6 ) 28 ( 9 ) Esophageal Pain 15 ( 7 ) 0 9 ( 9 ) 24 ( 8 ) Hiccup 18 ( 8 ) 0 1 ( 1 ) 19 ( 6 ) Dyspepsia 12 ( 5 ) 3 ( 4 ) 6 ( 6 ) 18 ( 6 ) Odynophagia 13 ( 6 ) 0 4 ( 4 ) 17 ( 5 ) Eructation 11 ( 5 ) 0 4 ( 4 ) 15 ( 5 ) GENERAL and ADMINISTRATION SITE CONDITIONS 135 ( 62 ) 17 ( 25 ) 66 ( 67 ) 201 ( 63 ) Chest Pain 71 ( 32 ) 8 ( 12 ) 40 ( 40 ) 111 ( 35 ) Pyrexia 47 ( 21 ) 3 ( 4 ) 13 ( 13 ) 60 ( 19 ) Chest Discomfort 14 ( 6 ) 1 ( 1 ) 21 ( 21 ) 35 ( 11 ) Pain 17 ( 8 ) 2 ( 3 ) 7 ( 7 ) 24 ( 8 ) Fatigue 13 ( 6 ) 2 ( 3 ) 0 13 ( 4 ) SKIN and SUBCUTANEOUS TISSUE 120 ( 55 ) 8 ( 12 ) 29 ( 29 ) 149 ( 47 ) Photosensitivity Reaction 101 ( 46 ) 0 16 ( 16 ) 117 ( 37 ) Rash 14 ( 6 ) 3 ( 4 ) 7 ( 7 ) 21 ( 7 ) Pruritis 13 ( 6 ) 1 ( 1 ) 1 ( 1 ) 14 ( 4 ) RESPIRATORY , THORACIC and MEDIASTINAL 67 ( 31 ) 21 ( 30 ) 22 ( 22 ) 89 ( 28 ) Pleural Effusion 25 ( 11 ) 0 15 ( 15 ) 40 ( 13 ) Dyspnea 16 ( 7 ) 3 ( 4 ) 4 ( 4 ) 20 ( 6 ) INFECTIONS and INFESTATIONS 58 ( 26 ) 22 ( 32 ) 8 ( 8 ) 66 ( 21 ) Sinusitis 11 ( 5 ) 3 ( 4 ) 2 ( 2 ) 13 ( 4 ) Bronchitis 10 ( 5 ) 3 ( 4 ) 2 ( 2 ) 12 ( 4 ) METABOLISM and NUTRITION 53 ( 24 ) 9 ( 13 ) 16 ( 16 ) 69 ( 22 ) Dehydration 24 ( 11 ) 2 ( 3 ) 8 ( 8 ) 32 ( 10 ) Anorexia 6 ( 3 ) 2 ( 3 ) 8 ( 8 ) 14 ( 4 ) NERVOUS SYSTEM 51 ( 23 ) 14 ( 20 ) 11 ( 11 ) 62 ( 19 ) Headache 17 ( 8 ) 6 ( 9 ) 2 ( 2 ) 19 ( 6 ) INJURY , POISONING and PROCEDURAL 42 ( 19 ) 10 ( 14 ) 19 ( 19 ) 61 ( 19 ) Post Procedural Pain 16 ( 7 ) 1 ( 1 ) 14 ( 14 ) 30 ( 9 ) Sunburn 8 ( 4 ) 0 6 ( 6 ) 14 ( 4 ) MUSCULOSKELETAL and CONNECTIVE TISSUE 46 ( 21 ) 18 ( 26 ) 9 ( 9 ) 55 ( 17 ) Back Pain 15 ( 7 ) 4 ( 6 ) 1 ( 1 ) 16 ( 5 ) Arthralgia 10 ( 5 ) 6 ( 9 ) 1 ( 1 ) 11 ( 3 ) INVESTIGATIONS 41 ( 19 ) 5 ( 7 ) 14 ( 14 ) 55 ( 17 ) Weight Decreased 17 ( 8 ) 2 ( 3 ) 3 ( 3 ) 20 ( 6 ) Body Temperature Increased 8 ( 4 ) 0 8 ( 8 ) 16 ( 5 ) PSYCHIATRIC 37 ( 17 ) 8 ( 12 ) 4 ( 4 ) 41 ( 13 ) Insomnia 11 ( 5 ) 3 ( 4 ) 1 ( 1 ) 12 ( 4 ) Depression 10 ( 5 ) 3 ( 4 ) 0 10 ( 3 ) Anxiety 10 ( 5 ) 1 ( 1 ) 0 10 ( 3 ) VASCULAR 25 ( 11 ) 6 ( 9 ) 4 ( 4 ) 29 ( 9 ) Hypertension 10 ( 5 ) 1 ( 1 ) 0 10 ( 3 ) [ 1 ] Includes all HGD patients in the Safety population from PHO BAR 01 ( N = 133 ) , TCSC 93 - 07 ( N = 44 ) , and TCSC 96 - 01 ( N = 42 ) [ 2 ] Includes all HGD patients in the Safety population from PHO BAR 01 ( N = 69 ) [ 3 ] Includes patients with Barrett ’ s metaplasia , indefinite dysplasia , LGD , and adenocarcinoma at baseline in the Safety population from TCSC 93 - 07 ( N = 55 ) and TCSC 96 - 01 ( N = 44 ) [ 4 ] In the controlled clinical trial , an esophageal stricture was defined as a fixed lumen narrowing with solid food dysphagia which required dilations .
+In the uncontrolled clinical trials , an esophageal stricture was defined as any dilated esophageal narrowing .
+[ 5 ] An esophageal narrowing was defined as an undilated esophageal stenosis .
+NOTE : Adverse events classified using MedDRA 5 . 0 dictionary , except esophageal strictures / narrowing .
+In the PHOTOFRIN ® PDT + OM group , severe treatment - associated adverse events included chest pain of non - cardiac origin , dysphagia , nausea , vomiting , regurgitation , and heartburn .
+The severity of these symptoms decreased within 4 to 6 weeks following treatment .
+The majority of the photosensitivity reactions occurred within 90 days following PHOTOFRIN ® injection and was of mild ( 69 % ) or moderate ( 24 % ) intensity .
+Almost all ( 98 % ) of the photosensitivity reactions were considered to be associated with treatment .
+Fourteen ( 10 % ) patients reported severe reactions , all of which resolved .
+The typical reaction was described as skin disorder , sunburn or rash , and affected mostly the face , hands , and neck .
+Associated symptoms and signs were swelling , pruritis , erythema , blisters , itching , burning sensation , and feeling of heat .
+The majority of esophageal stenosis and strictures reported in the PHOTOFRIN ® PDT + OM group were of mild ( 55 % ) or moderate ( 37 % ) intensity , while approximately 8 % were of severe intensity .
+The majority of esophageal strictures were reported during Course 2 of treatment .
+All esophageal strictures were considered to be associated with treatment .
+Most esophageal strictures were manageable through dilations ( see PRECAUTIONS ) .
+Laboratory Abnormalities In patients with esophageal cancer , PDT with PHOTOFRIN ® may result in anemia due to tumor bleeding .
+No significant effects were observed for other parameters in patients with endobronchial carcinoma or with HGD in BE .
+OVERDOSAGE PHOTOFRIN ® Overdose There is no information on overdosage situations involving PHOTOFRIN ® .
+Higher than recommended drug doses of two 2 mg / kg doses given two days apart ( 10 patients ) and three 2 mg / kg doses given within two weeks ( 1 patient ) , were tolerated without notable adverse reactions .
+Effects of overdosage on the duration of photosensitivity are unknown .
+Laser treatment should not be given if an overdose of PHOTOFRIN ® is administered .
+In the event of an overdose , patients should protect their eyes and skin from direct sunlight or bright indoor lights for 30 days .
+At this time , patients should test for residual photosensitivity ( see PRECAUTIONS ) .
+PHOTOFRIN ® is not dialyzable .
+Overdose of Laser Light Following PHOTOFRIN ® Injection Light doses of two to three times the recommended dose have been administered to a few patients with superficial endobronchial tumors .
+One patient experienced life - threatening dyspnea and the others had no notable complications .
+Increased symptoms and damage to normal tissue might be expected following an overdose of light .
+There is no information on overdose of laser light following PHOTOFRIN ® injection in patients with esophageal cancer or in patients with high - grade dysplasia in Barrett ’ s esophagus .
+DOSAGE AND ADMINISTRATION Photodynamic therapy with PHOTOFRIN ® is a two - stage process requiring administration of both drug and light .
+The first stage of PDT is the intravenous injection of PHOTOFRIN ® at 2 mg / kg .
+Illumination with laser light 40 − 50 hours following injection with PHOTOFRIN ® constitutes the second stage of therapy .
+A second laser light application may be given 96 - 120 hours after injection , preceded by gentle debridement of residual tumor ( see Administration of Laser Light ) .
+In clinical studies on esophageal and endobronchial cancers , debridement via endoscopy was required 2 - 3 days after the initial light application .
+Standard endoscopic techniques are used for light administration and debridement .
+Practitioners should be fully familiar with the patient ’ s condition and trained in the safe and efficacious treatment of esophageal or endobronchial cancer , or high - grade dysplasia in Barrett ’ s esophagus using photodynamic therapy with PHOTOFRIN ® and associated light delivery devices .
+For the treatment of esophageal and endobronchial cancer , patients may receive a second course of PDT a minimum of 30 days after the initial therapy ; up to three courses of PDT ( each separated by a minimum of 30 days ) can be given .
+Before each course of treatment , patients with esophageal cancer should be evaluated for the presence of a tracheoesophageal or bronchoesophageal fistula ( see CONTRAINDICATIONS ) .
+In patients with endobronchial lesions who have recently undergone radiotherapy , sufficient time ( approximately 4 weeks ) should be allowed between the therapies to ensure that the acute inflammation produced by radiotherapy has subsided prior to PDT ( see PRECAUTIONS , Use Before or After Radiotherapy ) .
+All patients should be evaluated for the possibility that the tumor may be eroding into a major blood vessel ( see CONTRAINDICATIONS ) .
+For the ablation of high - grade dysplasia in Barrett ’ s esophagus , patients may receive an additional course of PDT at a minimum of 90 days after the initial therapy ; up to three courses of PDT ( each injection separated by a minimum of 90 days ) can be given to a previously treated segment which still shows high - grade dysplasia , low - grade dysplasia , or Barrett ’ s metaplasia , or to a new segment if the initial Barrett ’ s segment was > 7 cm in length .
+Both residual and additional segments may be treated in the same light session ( s ) provided that the total length of the segments treated with the balloon / diffuser combination is not greater than 7 cm .
+In the case of a previously treated esophageal segment , if it has not sufficiently healed and / or histological assessment of biopsies is not clear , the subsequent course of PDT may be delayed for an additional 1 - 2 months .
+PHOTOFRIN ® Administration PHOTOFRIN ® should be administered as a single slow intravenous injection over 3 to 5 minutes at 2 mg / kg body weight .
+Reconstitute each vial of PHOTOFRIN ® with 31 . 8 mL of either 5 % Dextrose Injection ( USP ) or 0 . 9 % Sodium Chloride Injection ( USP ) , resulting in a final concentration of 2 . 5 mg / mL .
+Shake well until dissolved .
+Do not mix PHOTOFRIN ® with other drugs in the same solution .
+PHOTOFRIN ® , reconstituted with 5 % Dextrose Injection ( USP ) or with 0 . 9 % Sodium Chloride Injection ( USP ) , has a pH in the range of 7 to 8 .
+PHOTOFRIN ® has been formulated with an overage to deliver the 75 mg labeled quantity .
+The reconstituted product should be protected from bright light and used immediately .
+Reconstituted PHOTOFRIN ® is an opaque solution , in which detection of particulate matter by visual inspection is extremely difficult .
+Reconstituted PHOTOFRIN ® , however , like all parenteral drug products , should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+Precautions should be taken to prevent extravasation at the injection site .
+If extravasation occurs , care must be taken to protect the area from light .
+There is no known benefit from injecting the extravasation site with another substance .
+Administration of Laser Light Esophageal and Endobronchial Cancer Initiate 630 nm wavelength laser light delivery to the patient 40 − 50 hours following injection with PHOTOFRIN ® .
+A second laser light treatment may be given as early as 96 hours or as late as 120 hours after the initial injection with PHOTOFRIN ® .
+No further injection of PHOTOFRIN ® should be given for such retreatment with laser light .
+Before providing a second laser light treatment , the residual tumor should be debrided .
+Vigorous debridement may cause tumor bleeding .
+For endobronchial tumors , debridement of necrotic tissue should be discontinued when the volume of bleeding increases , as this may indicate that debridement has gone beyond the zone of the PDT treatment effect .
+The laser system must be approved for delivery of a stable power output at a wavelength of 630 ± 3 nm .
+Light is delivered to the tumor by cylindrical OPTIGUIDE ™ fiber optic diffusers passed through the operating channel of an endoscope / bronchoscope .
+Instructions for use of the fiber optic and the selected laser system should be read carefully before use .
+OPTIGUIDE ™ cylindrical diffusers are available in several lengths .
+The choice of diffuser tip length depends on the length of the tumor .
+Diffuser length should be sized to avoid exposure of nonmalignant tissue to light and to prevent overlapping of previously treated malignant tissue .
+Photoactivation of PHOTOFRIN ® is controlled by the total light dose delivered : • In the treatment of esophageal cancer , a light dose of 300 J / cm of diffuser length should be delivered .
+The total power output at the fiber tip is set to deliver the appropriate light dose using exposure times of 12 minutes and 30 seconds .
+• In the treatment of endobronchial cancer , the light dose should be 200 J / cm of diffuser length .
+The total power output at the fiber tip is set to deliver the appropriate light dose using exposure times of 8 minutes and 20 seconds .
+For noncircumferential endobronchial tumors that are soft enough to penetrate , interstitial fiber placement is preferred to intraluminal activation , since this method produces better efficacy and results in less exposure of the normal bronchial mucosa to light .
+It is important to perform a debridement 2 to 3 days after each light administration to minimize the potential for obstruction caused by necrotic debris ( see PRECAUTIONS ) .
+Refer to the OPTIGUIDE ™ instructions for use for complete instructions concerning the fiber optic diffuser .
+High - Grade Dysplasia ( HGD ) in Barrett ’ s Esophagus ( BE ) Approximately 40 - 50 hours after PHOTOFRIN ® administration light should be delivered by a X - Cell Photodynamic Therapy ( PDT ) Balloon with Fiber Optic Diffuser .
+The choice of fiber optic / balloon diffuser combination will depend on the length of Barrett ’ s mucosa to be treated ( Table 11 ) .
+TABLE 11 .
+Fiber Optic Diffuser / Balloon Combination [ 1 ] Treated Barrett ’ s Mucosa Length ( cm ) Fiber Optic Diffuser Size ( cm ) Balloon Window Size ( cm ) 6 - 7 9 7 4 - 5 7 5 1 - 3 5 3 [ 1 ] Whenever possible , the BE segment selected for treatment should include normal tissue margins of a few millimeters at the proximal and distal ends .
+Light Doses : Photoactivation is controlled by the total light dose delivered .
+The objective is to expose and treat all areas of HGD and the entire length of BE .
+The light dose administered will be 130 J / cm of diffuser length using a centering balloon .
+Based on the pivotal clinical study , acceptable light intensity for the balloon / diffuser combinations range from 200 - 270 mW / cm of diffuser .
+To calculate the light dose , the following specific light dosimetry equation applies for all fiber optic diffusers : [ MULTIMEDIA ] Table 12 provides the settings that will be used to deliver the dose within the shortest time ( light intensity of 270 mW / cm ) .
+A second option ( light intensity of 200 mW / cm ) has also been included where necessary to accommodate lasers with a total capacity that does not exceed 2 . 5 W . TABLE 12 .
+Fiber Optic Power Outputs and Treatment Times Required to Deliver 130 J / cm of Diffuser Length Using the Centering BalloonBalloon Window Length ( cm ) Diffuser Length ( cm ) Light Intensity ( mW / cm ) Required Power Output from Diffuser [ 1 ] ( mW ) Treatment Time ( sec ) Treatment Time ( min : sec ) 3 5 270 1350 480 8 : 00 5 7 270 1900 480 8 : 00 7 9 270 2440 480 8 : 00 200 1800 650 10 : 50 [ 1 ] as measured by immersing the diffuser into the cuvet in the power meter and slowly increasing the laser power .
+Note : No more than 1 . 5 times the required diffuser power output should be needed from the laser .
+If more than this is required , the system should be checked .
+Short fiber diffusers ( ≤ 2 . 5 cm ) are to be used to pretreat nodules with 50 J / cm of diffuser length prior to regular balloon treatment in the first laser light session or for the treatment of " skip " areas ( i . e . , an area that does not show sufficient mucosal response ) after the first light session .
+For this treatment , the fiber optic diffuser is used without a centering balloon , and a light intensity of 400 mW / cm should be used .
+For nodule pre - treatment and treatment of skipped areas , care should be taken to minimize exposure to normal tissue as it is also sensitized .
+Table 13 lists appropriate fiber optic power outputs and treatment times using a light intensity of 400 mW / cm .
+TABLE 13 .
+Short Fiber Optic Diffusers to be Used Without a Centering Balloon to Deliver 50 J / cm of Diffuser Length at a Light Intensity of 400 mW / cmDiffuser Length ( cm ) Required Power Output From Diffuser [ 1 ] ( mW ) Treatment Time ( sec ) Treatment Time ( min : sec ) 1 . 0 400 125 2 : 05 1 . 5 600 125 2 : 05 2 . 0 800 125 2 : 05 2 . 5 1000 125 2 : 05 [ 1 ] as measured by immersing the diffuser into the cuvet in the power meter and slowly increasing the laser power .
+Note : No more than 1 . 5 times the required diffuser power output should be needed from the laser .
+If more than this is required , the system should be checked .
+A maximum of 7 cm of esophageal mucosa is treated at the first light session using an appropriate size of centering balloon and fiber optic diffuser ( Table 11 ) .
+Whenever possible , the segment selected for the first light application should contain all the areas of HGD .
+Also , whenever possible , the Barrett ’ s esophagus ( BE ) segment selected for the first light application should include normal tissue margin of a few millimeters at the proximal and distal ends .
+Nodules are to be pretreated at a light dose of 50 J / cm of diffuser length with a short ( ≤ 2 . 5 cm ) fiber optic diffuser placed directly against the nodule followed by standard balloon application as described above .
+[ MULTIMEDIA ] Repeat Light Application A second laser light application may be given to a previously treated segment that shows a " skip " area , using a short , ≤ 2 . 5 cm fiber optic diffuser at the light dose of 50 J / cm of the diffuser length .
+Patients with BE > 7 cm , should have the remaining untreated length of Barrett ’ s epithelium treated with a second PDT course at least 90 days later .
+The treatment regimen is summarized in Table 14 .
+TABLE 14 .
+High - Grade Dysplasia in Barrett ' s Esophagus of > 7 cmProcedure Study Day Light Delivery Devices Treatment Intent PHOTOFRIN ® Injection Day 1 NA Uptake of photosensitizer Laser Light Application Day 3 [ 1 ] 3 , 5 or 7 cm balloon ( 130 J / cm ) Photoactivation Laser Light Application ( Optional ) Day 5 Short ( ≤ 2 . 5 cm ) fiber optic diffuser ( 50 J / cm ) Treatment of " skip " areas only [ 1 ] Discrete nodules will receive an initial light application of 50 J / cm ( using a short diffuser ) before the balloon light application .
+HOW SUPPLIED PHOTOFRIN ® ( porfimer sodium ) for Injection is supplied as a freeze - dried cake or powder as follows : NDC 58914 - 155 - 75 — 75 mg vial PHOTOFRIN ® freeze - dried cake or powder should be stored at Controlled Room Temperature 20 − 25 ° C ( 68 − 77 ° F ) [ see USP ] .
+Spills and Disposal Spills of PHOTOFRIN ® should be wiped up with a damp cloth .
+Skin and eye contact should be avoided due to the potential for photosensitivity reactions upon exposure to light ; use of rubber gloves and eye protection is recommended .
+All contaminated materials should be disposed of in a polyethylene bag in a manner consistent with local regulations .
+Accidental Exposure PHOTOFRIN ® is neither a primary ocular irritant nor a primary dermal irritant .
+However , because of its potential to induce photosensitivity , PHOTOFRIN ® might be an eye and / or skin irritant in the presence of bright light .
+It is important to avoid contact with the eyes and skin during preparation and / or administration .
+As with therapeutic overdosage , any overexposed person must be protected from bright light .
+Manufactured by WYETH - AYERST LEDERLE PARENTERALS , INC .
+Carolina , Puerto Rico 00987 for Axcan Scandipharm Inc .
+Birmingham , AL 35242 For inquiries call Axcan Scandipharm Inc . at : 1 - 800 - 742 - 6706 September 29 , 2005

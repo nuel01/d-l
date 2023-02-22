@@ -1,0 +1,505 @@
+Rx only DESCRIPTION Levetiracetam is an antiepileptic drug available as 250 mg ( blue ) , 500 mg ( yellow ) , 750 mg ( orange ) , and 1000 mg ( white ) tablets .
+The chemical name of levetiracetam , USP , a single enantiomer , is ( - ) - ( S ) - α - ethyl - 2 - oxo - 1 - pyrrolidine acetamide , its molecular formula is C8H14N2O2 and its molecular weight is 170 . 21 .
+Levetiracetam , USP is chemically unrelated to existing antiepileptic drugs ( AEDs ) .
+It has the following structural formula : [ MULTIMEDIA ] Levetiracetam , USP is a white to off - white crystalline powder with a faint odor and a bitter taste .
+It is very soluble in water ( 104 . 0 g / 100 mL ) .
+It is freely soluble in chloroform ( 65 . 3 g / 100 mL ) and in methanol ( 53 . 6 g / 100 mL ) , soluble in ethanol ( 16 . 5 g / 100 mL ) , sparingly soluble in acetonitrile ( 5 . 7 g / 100 mL ) and practically insoluble in n - hexane .
+( Solubility limits are expressed as g / 100 mL solvent . )
+Levetiracetam tablets contain the labeled amount of levetiracetam , USP .
+Inactive ingredients : colloidal silicon dioxide , corn starch , hypromellose , magnesium stearate , polyethylene glycol 400 , povidone , sodium starch glycolate , talc , titanium dioxide , and additional agents listed below : 250 mg tablets : FD & C Blue # 2 Lake of indigo carmine 500 mg tablets : Ferric oxide yellow 750 mg tablets : Ferric oxide red and FD & C # 6 lake of sunset yellow [ MULTIMEDIA ] CLINICALS PHARMACOLOGY Mechanism Of Action The precise mechanism ( s ) by which levetiracetam exerts its antiepileptic effect is unknown .
+The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures .
+Levetiracetam did not inhibit single seizures induced by maximal stimulation with electrical current or different chemoconvulsants and showed only minimal activity in submaximal stimulation and in threshold tests .
+Protection was observed , however , against secondarily generalized activity from focal seizures induced by pilocarpine and kainic acid , two chemoconvulsants that induce seizures that mimic some features of human complex partial seizures with secondary generalization .
+Levetiracetam also displayed inhibitory properties in the kindling model in rats , another model of human complex partial seizures , both during kindling development and in the fully kindled state .
+The predictive value of these animal models for specific types of human epilepsy is uncertain .
+In vitro and In vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability , suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity .
+Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors , such as those associated with benzodiazepines , GABA ( gamma - aminobutyric acid ) , glycine , NMDA ( N - methyl - D - aspartate ) , re - uptake sites , and second messenger systems .
+Furthermore , in vitro studies have failed to find an effect of levetiracetam on neuronal voltage - gated sodium or T - type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission .
+However , in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA - and glycine - gated currents and partially inhibits N - type calcium currents in neuronal cells .
+A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam .
+Experimental data indicate that this binding site is the synaptic vesicle protein SV2A , thought to be involved in the regulation of vesicle exocytosis .
+Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood , levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure - prone mice .
+These findings suggest that the interaction of levetiracetam with the SV2A protein may contribute to the antiepileptic mechanism of action of the drug .
+Pharmacokinetics The pharmacokinetics of levetiracetam have been studied in healthy adult subjects , adults and pediatric patients with epilepsy , elderly subjects and subjects with renal and hepatic impairment .
+Overview Levetiracetam is rapidly and almost completely absorbed after oral administration .
+Levetiracetam tablets and oral solution are bioequivalent .
+The pharmacokinetics are linear and time - invariant , with low intra - and inter - subject variability .
+The extent of bioavailability of levetiracetam is not affected by food .
+Levetiracetam is not significantly protein - bound ( < 10 % bound ) and its volume of distribution is close to the volume of intracellular and extracellular water .
+Sixty - six percent ( 66 % ) of the dose is renally excreted unchanged .
+The major metabolic pathway of levetiracetam ( 24 % of dose ) is an enzymatic hydrolysis of the acetamide group .
+It is not liver cytochrome P450 dependent .
+The metabolites have no known pharmacological activity and are renally excreted .
+Plasma half - life of levetiracetam across studies is approximately 6 - 8 hours .
+It is increased in the elderly ( primarily due to impaired renal clearance ) and in subjects with renal impairment .
+Absorption And Distribution Absorption of levetiracetam is rapid , with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects .
+The oral bioavailability of levetiracetam tablets is 100 % and the tablets and oral solution are bioequivalent in rate and extent of absorption .
+Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20 % and delays Tmax by 1 . 5 hours .
+The pharmacokinetics of levetiracetam are linear over the dose range of 500 - 5000 mg .
+Steady state is achieved after 2 days of multiple twice - daily dosing .
+Levetiracetam and its major metabolite are less than 10 % bound to plasma proteins ; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely .
+Metabolism Levetiracetam is not extensively metabolized in humans .
+The major metabolic pathway is the enzymatic hydrolysis of the acetamide group , which produces the carboxylic acid metabolite , ucb L057 ( 24 % of dose ) and is not dependent on any liver cytochrome P450 isoenzymes .
+The major metabolite is inactive in animal seizure models .
+Two minor metabolites were identified as the product of hydroxylation of the 2 - oxo - pyrrolidine ring ( 2 % of dose ) and opening of the 2 - oxo - pyrrolidine ring in position 5 ( 1 % of dose ) .
+There is no enantiomeric interconversion of levetiracetam or its major metabolite .
+Elimination Levetiracetam plasma half - life in adults is 7 ± 1 hour and is unaffected by either dose or repeated administration .
+Levetiracetam is eliminated from the systemic circulation by renal excretion as unchanged drug which represents 66 % of administered dose .
+The total body clearance is 0 . 96 mL / min / kg and the renal clearance is 0 . 6 mL / min / kg .
+The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption .
+The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL / min / kg .
+Levetiracetam elimination is correlated to creatinine clearance .
+Levetiracetam clearance is reduced in patients with impaired renal function ( see Special Populations , Renal Impairment and DOSAGE AND ADMINISTRATION , Adult Patients with Impaired Renal Function ) .
+Pharmacokinetic Interactions In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce , or be subject to , pharmacokinetic interactions .
+Levetiracetam and its major metabolite , at concentrations well above Cmax levels achieved within the therapeutic dose range , are neither inhibitors of , nor high affinity substrates for , human liver cytochrome P450 isoforms , epoxide hydrolase or UDP - glucuronidation enzymes .
+In addition , levetiracetam does not affect the in vitro glucuronidation of valproic acid .
+Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies ( phenytoin , valproate , warfarin , digoxin , oral contraceptive , probenecid ) and through pharmacokinetic screening in the placebo - controlled clinical studies in epilepsy patients ( see PRECAUTIONS , Drug Interactions ) .
+Special Populations Elderly Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects ( age 61 - 88 years ) with creatinine clearance ranging from 30 to 74 mL / min .
+Following oral administration of twice - daily dosing for 10 days , total body clearance decreased by 38 % and the half - life was 2 . 5 hours longer in the elderly compared to healthy adults .
+This is most likely due to the decrease in renal function in these subjects .
+Pediatric Patients Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients ( age 6 - 12 years ) after single dose ( 20 mg / kg ) .
+The body weight adjusted apparent clearance of levetiracetam was approximately 40 % higher than in adults .
+A repeat dose pharmacokinetic study was conducted in pediatric patients ( age 4 - 12 years ) at doses of 20 mg / kg / day , 40 mg / kg / day , and 60 mg / kg / day .
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite ( ucb L057 ) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t ½ of 5 hours across the three dosing levels .
+The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg / kg / day .
+The potential interaction of levetiracetam with other AEDs was also evaluated in these patients ( see PRECAUTIONS , Drug Interactions ) .
+Levetiracetam had no significant effect on the plasma concentrations of carbamazepine , valproic acid , topiramate or lamotrigine .
+However , there was about a 22 % increase of apparent clearance of levetiracetam when it was co - administered with an enzyme - inducing AED ( e . g . carbamazepine ) .
+Population pharmacokinetic analysis showed that body weight was significantly correlated to clearance of levetiracetam in pediatric patients ; clearance increased with an increase in body weight .
+Gender Levetiracetam Cmax and AUC were 20 % higher in women ( N = 11 ) compared to men ( N = 12 ) .
+However , clearances adjusted for body weight were comparable Race Formal pharmacokinetic studies of the effects of race have not been conducted .
+Cross study comparisons involving Caucasians ( N = 12 ) and Asians ( N = 12 ) , however , show that pharmacokinetics of levetiracetam were comparable between the two races .
+Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance , pharmacokinetic differences due to race are not expected .
+Renal Impairment The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function .
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40 % in the mild group ( CLcr = 50 - 80 mL / min ) , 50 % in the moderate group ( CLcr = 30 - 50 mL / min ) and 60 % in the severe renal impairment group ( CLcr < 30 mL / min ) .
+Clearance of levetiracetam is correlated with creatinine clearance .
+In anuric ( end stage renal disease ) patients , the total body clearance decreased 70 % compared to normal subjects ( CLcr > 80 mL / min ) .
+Approximately 50 % of the pool of levetiracetam in the body is removed during a standard 4 - hour hemodialysis procedure .
+Dosage should be reduced in patients with impaired renal function receiving levetiracetam , and supplemental doses should be given to patients after dialysis ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION , Adult Patients with Impaired Renal Function ) .
+Hepatic Impairment In subjects with mild ( Child - Pugh A ) to moderate ( Child - Pugh B ) hepatic impairment , the pharmacokinetics of levetiracetam were unchanged .
+In patients with severe hepatic impairment ( Child - Pugh C ) , total body clearance was 50 % that of normal subjects , but decreased renal clearance accounted for most of the decrease .
+No dose adjustment is needed for patients with hepatic impairment .
+CLINICAL STUDIES In the following studies , statistical significance versus placebo indicates a p value < 0 . 05 .
+Effectiveness In Partial Onset Seizures In Adults With Epilepsy The effectiveness of levetiracetam as adjunctive therapy ( added to other antiepileptic drugs ) in adults was established in three multicenter , randomized , double - blind , placebo - controlled clinical studies in patients who had refractory partial onset seizures with or without secondary generalization .
+The tablet formulation was used in all these studies .
+In these studies , 904 patients were randomized to placebo , 1000 mg , 2000 mg , or 3000 mg / day .
+Patients enrolled in Study 1 or Study 2 had refractory partial onset seizures for at least two years and had taken two or more classical AEDs .
+Patients enrolled in Study 3 had refractory partial onset seizures for at least 1 year and had taken one classical AED .
+At the time of the study , patients were taking a stable dose regimen of at least one and could take a maximum of two AEDs .
+During the baseline period , patients had to have experienced at least two partial onset seizures during each 4 - week period .
+Study 1 Study 1 was a double - blind , placebo - controlled , parallel - group study conducted at 41 sites in the United States comparing levetiracetam 1000 mg / day ( N = 97 ) , levetiracetam 3000 mg / day ( N = 101 ) , and placebo ( N = 95 ) given in equally divided doses twice daily .
+After a prospective baseline period of 12 weeks , patients were randomized to one of the three treatment groups described above .
+The 18 - week treatment period consisted of a 6 - week titration period , followed by a 12 - week fixed dose evaluation period , during which concomitant AED regimens were held constant .
+The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period ( titration + evaluation period ) .
+Secondary outcome variables included the responder rate ( incidence of patients with ≥ 50 % reduction from baseline in partial onset seizure frequency ) .
+The results of the analysis of Study 1 are displayed in Table 1 .
+Table 1 : Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 1 Placebo ( N = 95 ) Levetiracetam 1000 mg / day ( N = 97 ) Levetiracetam 3000 mg / day ( N = 101 ) Percent reduction in partial seizure frequency over placebo - 26 . 1 % [ 1 ] 30 . 1 % null [ 1 ] statistically significant versus placebo The percentage of patients ( y - axis ) who achieved ≥ 50 % reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period ( titration + evaluation period ) within the three treatment groups ( x - axis ) is presented in Figure 1 .
+Figure 1 : Responder Rate ( ≥ 50 % Reduction From Baseline ) In Study 1 [ MULTIMEDIA ] Study 2 Study 2 was a double - blind , placebo - controlled , crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg / day ( N = 106 ) , levetiracetam 2000 mg / day ( N = 105 ) , and placebo ( N = 111 ) given in equally divided doses twice daily .
+The first period of the study ( Period A ) was designed to be analyzed as a parallel - group study .
+After a prospective baseline period of up to 12 weeks , patients were randomized to one of the three treatment groups described above .
+The 16 - week treatment period consisted of the 4 - week titration period followed by a 12 - week fixed dose evaluation period , during which concomitant AED regimens were held constant .
+The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period ( titration + evaluation period ) .
+Secondary outcome variables included the responder rate ( incidence of patients with ≥ 50 % reduction from baseline in partial onset seizure frequency ) .
+The results of the analysis of Period A are displayed in Table 2 .
+Table 2 : Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 2 : Period A Placebo ( N = 111 ) Levetiracetam 1000 mg / day ( N = 106 ) Levetiracetam 2000 mg / day ( N = 105 ) Percent reduction in partial seizure frequency over placebo - 17 . 1 % [ 1 ] 21 . 4 % null [ 1 ] statistically significant versus placebo The percentage of patients ( y - axis ) who achieved ≥ 50 % reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period ( titration + evaluation period ) within the three treatment groups ( x - axis ) is presented in Figure 2 .
+Figure 2 : Responder Rate ( ≥ 50 % Reduction From Baseline ) In Study 2 : Period A [ MULTIMEDIA ] The comparison of levetiracetam 2000 mg / day to levetiracetam 1000 mg / day for responder rate was statistically significant ( P = 0 . 02 ) .
+Analysis of the trial as a cross - over yielded similar results .
+Study 3 Study 3 was a double - blind , placebo - controlled , parallel - group study conducted at 47 centers in Europe comparing levetiracetam 3000 mg / day ( N = 180 ) and placebo ( N = 104 ) in patients with refractory partial onset seizures , with or without secondary generalization , receiving only one concomitant AED .
+Study drug was given in two divided doses .
+After a prospective baseline period of 12 weeks , patients were randomized to one of two treatment groups described above .
+The 16 - week treatment period consisted of a 4 - week titration period , followed by a 12 - week fixed dose evaluation period , during which concomitant AED doses were held constant .
+The primary measure of effectiveness was a between group comparison of the percent reduction in weekly seizure frequency relative to placebo over the entire randomized treatment period ( titration + evaluation period ) .
+Secondary outcome variables included the responder rate ( incidence of patients with ≥ 50 % reduction from baseline in partial onset seizure frequency ) .
+Table 3 displays the results of the analysis of Study 3 .
+Table 3 : Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 3 Placebo ( N = 104 ) Levetiracetam 3000 mg / day ( N = 180 ) Percent reduction in partial seizure frequency over placebo - 23 . 0 % The percentage of patients ( y - axis ) who achieved ≥ 50 % reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period ( titration + evaluation period ) within the two treatment groups ( x - axis ) is presented in Figure 3 .
+Figure 3 : Responder Rate ( ≥ 50 % Reduction From Baseline ) In Study 3 [ MULTIMEDIA ] Effectiveness In Partial Onset Seizures In Pediatric Patients With Epilepsy The effectiveness of levetiracetam as adjunctive therapy ( added to other antiepileptic drugs ) in pediatric patients was established in one multicenter , randomized double - blind , placebo - controlled study , conducted at 60 sites in North America , in children 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs ( AEDs ) .
+Eligible patients on a stable dose of 1 - 2 AEDs , who still experienced at least 4 partial onset seizures during the 4 weeks prior to screening , as well as at least 4 partial onset seizures in each of the two 4 - week baseline periods , were randomized to receive either levetiracetam or placebo .
+The enrolled population included 198 patients ( levetiracetam N = 101 , placebo N = 97 ) with refractory partial onset seizures , whether or not secondarily generalized .
+The study consisted of an 8 - week baseline period and 4 - week titration period followed by a 10 - week evaluation period .
+Dosing was initiated at a dose of 20 mg / kg / day in two divided doses .
+During the treatment period , levetiracetam doses were adjusted in 20 mg / kg / day increments , at 2 - week intervals to the target dose of 60 mg / kg / day .
+The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire 14 - week randomized treatment period ( titration + evaluation period ) .
+Secondary outcome variables included the responder rate ( incidence of patients with ≥ 50 % reduction from baseline in partial onset seizure frequency per week ) .
+Table 4 displays the result of this study .
+Table 4 : Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures Placebo ( N = 97 ) Levetiracetam ( N = 101 ) Percent reduction in partial seizure frequency over placebo - 26 . 8 % The percentage of patients ( y - axis ) who achieved ≥ 50 % reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period ( titration + evaluation period ) within the two treatment groups ( x - axis ) is presented in Figure 4 .
+Figure 4 : Responder Rate ( ≥ 50 % Reduction From Baseline ) [ MULTIMEDIA ] Effectiveness In Myoclonic Seizures In Patients ≥ 12 Years Of Age With Juvenile Myoclonic Epilepsy ( JME ) The effectiveness of levetiracetam as adjunctive therapy ( added to other antiepileptic drugs ) in patients 12 years of age and older with juvenile myoclonic epilepsy ( JME ) experiencing myoclonic seizures was established in one multicenter , randomized , double - blind , placebo - controlled study , conducted at 37 sites in 14 countries .
+Of the 120 patients enrolled , 113 had a diagnosis of confirmed or suspected JME .
+Eligible patients on a stable dose of 1 antiepileptic drug ( AED ) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8 - week baseline period were randomized to either levetiracetam or placebo ( levetiracetam N = 60 , placebo N = 60 ) .
+Patients were titrated over 4 weeks to a target dose of 3000 mg / day and treated at a stable dose of 3000 mg / day over 12 weeks ( evaluation period ) .
+Study drug was given in 2 divided doses .
+The primary measure of effectiveness was the proportion of patients with at least 50 % reduction in the number of days per week with one or more myoclonic seizures during the treatment period ( titration + evaluation periods ) as compared to baseline .
+Table 5 displays the results for the 113 patients with JME in this study .
+Table 5 : Responder Rate ( ≥ 50 % Reduction From Baseline ) In Myoclonic Seizure Days Per Week for Patients with JME Placebo ( N = 59 ) Levetiracetam ( N = 54 ) Percentage of responders 23 . 7 % 60 . 4 % Effectiveness For Primary Generalized Tonic - Clonic Seizures In Patients ≥ 6 Years Of Age The effectiveness of levetiracetam as adjunctive therapy ( added to other antiepileptic drugs ) in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic - clonic ( PGTC ) seizures was established in one multicenter , randomized , double - blind , placebo - controlled study , conducted at 50 sites in 8 countries .
+Eligible patients on a stable dose of 1 or 2 antiepileptic drugs ( AEDs ) experiencing at least 3 PGTC seizures during the 8 - week combined baseline period ( at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4 - week prospective baseline period ) were randomized to either levetiracetam or placebo .
+The 8 - week combined baseline period is referred to as " baseline " in the remainder of this section .
+The population included 164 patients ( levetiracetam N = 80 , placebo N = 84 ) with idiopathic generalized epilepsy ( predominately juvenile myoclonic epilepsy , juvenile absence epilepsy , childhood absence epilepsy , or epilepsy with Grand Mal seizures on awakening ) experiencing primary generalized tonic - clonic seizures .
+Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population .
+Patients were titrated over 4 weeks to a target dose of 3000 mg / day for adults or a pediatric target dose of 60 mg / kg / day and treated at a stable dose of 3000 mg / day ( or 60 mg / kg / day for children ) over 20 weeks ( evaluation period ) .
+Study drug was given in 2 equally divided doses per day .
+The primary measure of effectiveness was the percent reduction from baseline in weekly PGTC seizure frequency for levetiracetam and placebo treatment groups over the treatment period ( titration + evaluation periods ) .
+There was a statistically significant decrease from baseline in PGTC frequency in the levetiracetam - treated patients compared to the placebo - treated patients .
+Table 6 : Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week Placebo ( N = 84 ) Levetiracetam ( N = 78 ) Percent reduction in PGTC seizure frequency 44 . 6 % 77 . 6 % The percentage of patients ( y - axis ) who achieved ≥ 50 % reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period ( titration + evaluation period ) within the two treatment groups ( x - axis ) is presented in Figure 5 .
+Figure 5 : Responder Rate ( ≥ 50 % Reduction From Baseline ) In PGTC Seizure Frequency Per Week [ MULTIMEDIA ] * statistically significant versus placebo [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] INDICATIONS AND USAGE Levetiracetam tablets are indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy .
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy .
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of primary generalized tonic - clonic seizures in adults and children 6 years of age and older with idiopathic generalized epilepsy .
+CONTRAINDICATIONS This product should not be administered to patients who have previously exhibited hypersensitivity to levetiracetam or any of the inactive ingredients in levetiracetam tablets .
+WARNINGS Suicidal Behavior and Ideation Antiepileptic drugs ( AEDs ) , including levetiracetam , increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication .
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression , suicidal thoughts or behavior , and / or any unusual changes in mood or behavior .
+Pooled analyses of 199 placebo - controlled clinical trials ( mono - and adjunctive therapy ) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk ( adjusted Relative Risk 1 . 8 , 95 % CI : 1 . 2 , 2 . 7 ) of suicidal thinking or behavior compared to patients randomized to placebo .
+In these trials , which had a median treatment duration of 12 weeks , the estimated incidence rate of suicidal behavior or ideation among 27 , 863 AED - treated patients was 0 . 43 % , compared to 0 . 24 % among 16 , 029 placebo - treated patients , representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated .
+There were four suicides in drug - treated patients in the trials and none in placebo - treated patients , but the number is too small to allow any conclusion about drug effect on suicide .
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed .
+Because most trials included in the analysis did not extend beyond 24 weeks , the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed .
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed .
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication .
+The risk did not vary substantially by age ( 5 - 100 years ) in the clinical trials analyzed .
+Table 7 shows absolute and relative risk by indication for all evaluated AEDs .
+Table 7 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis Indication Placebo Patients with Events per 1 , 000 Patients Drug Patients with Events per 1 , 000 Patients Relative Risk : Incidence of Events in Drug Patients / Incidence in Placebo Patients Risk Difference : Additional Drug Patients with Events per 1 , 000 Patients Epilepsy 1 . 0 3 . 4 3 . 5 2 . 4 Psychiatric 5 . 7 8 . 5 1 . 5 2 . 9 Other 1 . 0 1 . 8 1 . 9 0 . 9 Total 2 . 4 4 . 3 1 . 8 1 . 9 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions , but the absolute risk differences were similar for the epilepsy and psychiatric indications .
+Anyone considering prescribing levetiracetam or any other AED must balance the risk of suicidal thoughts or behaviors with the risk of untreated illness .
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior .
+Should suicidal thoughts and behavior emerge during treatment , the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated .
+Patients , their caregivers , and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression , any unusual changes in mood or behavior , or the emergence of suicidal thoughts , behavior , or thoughts about self - harm .
+Behaviors of concern should be reported immediately to healthcare providers .
+Neuropsychiatric Adverse Events Partial Onset Seizures Adults In adults experiencing partial onset seizures , levetiracetam use is associated with the occurrence of central nervous system adverse events that can be classified into the following categories : 1 ) somnolence and fatigue , 2 ) coordination difficulties , and 3 ) behavioral abnormalities .
+In controlled trials of adult patients with epilepsy experiencing partial onset seizures , 14 . 8 % of levetiracetam - treated patients reported somnolence , compared to 8 . 4 % of placebo patients .
+There was no clear dose response up to 3000 mg / day .
+In a study where there was no titration , about 45 % of patients receiving 4000 mg / day reported somnolence .
+The somnolence was considered serious in 0 . 3 % of the treated patients , compared to 0 % in the placebo group .
+About 3 % of levetiracetam - treated patients discontinued treatment due to somnolence , compared to 0 . 7 % of placebo patients .
+In 1 . 4 % of treated patients and in 0 . 9 % of placebo patients the dose was reduced , while 0 . 3 % of the treated patients were hospitalized due to somnolence .
+In controlled trials of adult patients with epilepsy experiencing partial onset seizures , 14 . 7 % of treated patients reported asthenia , compared to 9 . 1 % of placebo patients .
+Treatment was discontinued in 0 . 8 % of treated patients as compared to 0 . 5 % of placebo patients .
+In 0 . 5 % of treated patients and in 0 . 2 % of placebo patients the dose was reduced .
+A total of 3 . 4 % of levetiracetam - treated patients experienced coordination difficulties , ( reported as either ataxia , abnormal gait , or incoordination ) compared to 1 . 6 % of placebo patients .
+A total of 0 . 4 % of patients in controlled trials discontinued levetiracetam treatment due to ataxia , compared to 0 % of placebo patients .
+In 0 . 7 % of treated patients and in 0 . 2 % of placebo patients the dose was reduced due to coordination difficulties , while one of the treated patients was hospitalized due to worsening of pre - existing ataxia .
+Somnolence , asthenia and coordination difficulties occurred most frequently within the first 4 weeks of treatment .
+In controlled trials of patients with epilepsy experiencing partial onset seizures , 5 ( 0 . 7 % ) of levetiracetam - treated patients experienced psychotic symptoms compared to 1 ( 0 . 2 % ) placebo patient .
+Two ( 0 . 3 % ) levetiracetam - treated patients were hospitalized and their treatment was discontinued .
+Both events , reported as psychosis , developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation .
+Two other events , reported as hallucinations , occurred after 1 - 5 months and resolved within 2 - 7 days while the patients remained on treatment .
+In one patient experiencing psychotic depression occurring within a month , symptoms resolved within 45 days while the patient continued treatment .
+A total of 13 . 3 % of levetiracetam patients experienced other behavioral symptoms ( reported as aggression , agitation , anger , anxiety , apathy , depersonalization , depression , emotional lability , hostility , irritability , etc . ) compared to 6 . 2 % of placebo patients .
+Approximately half of these patients reported these events within the first 4 weeks .
+A total of 1 . 7 % of treated patients discontinued treatment due to these events , compared to 0 . 2 % of placebo patients .
+The treatment dose was reduced in 0 . 8 % of treated patients and in 0 . 5 % of placebo patients .
+A total of 0 . 8 % of treated patients had a serious behavioral event ( compared to 0 . 2 % of placebo patients ) and were hospitalized .
+Pediatric Patients In pediatric patients experiencing partial onset seizures , levetiracetam is associated with somnolence , fatigue , and behavioral abnormalities .
+In the double - blind , controlled trial in children with epilepsy experiencing partial onset seizures , 22 . 8 % of levetiracetam - treated patients experienced somnolence , compared to 11 . 3 % of placebo patients .
+The design of the study prevented accurately assessing dose - response effects .
+No patient discontinued treatment for somnolence .
+In about 3 . 0 % of levetiracetam - treated patients and in 3 . 1 % of placebo patients the dose was reduced as a result of somnolence .
+Asthenia was reported in 8 . 9 % of levetiracetam - treated patients , compared to 3 . 1 % of placebo patients .
+No patient discontinued treatment for asthenia , but asthenia led to a dose reduction in 3 . 0 % of levetiracetam - treated patients compared to 0 % of placebo patients .
+A total of 37 . 6 % of the levetiracetam - treated patients experienced behavioral symptoms ( reported as agitation , anxiety , apathy , depersonalization , depression , emotional lability , hostility , hyperkinesia , nervousness , neurosis , and personality disorder ) , compared to 18 . 6 % of placebo patients .
+Hostility was reported in 11 . 9 % of levetiracetam - treated patients , compared to 6 . 2 % of placebo patients .
+Nervousness was reported in 9 . 9 % of levetiracetam - treated patients , compared to 2 . 1 % of placebo patients .
+Depression was reported in 3 . 0 % of levetiracetam - treated patients , compared to 1 . 0 % of placebo patients .
+A total of 3 . 0 % of levetiracetam - treated patients discontinued treatment due to psychotic and nonpsychotic adverse events , compared to 4 . 1 % of placebo patients .
+Overall , 10 . 9 % of levetiracetam - treated patients experienced behavioral symptoms associated with discontinuation or dose reduction , compared to 6 . 2 % of placebo patients .
+Myoclonic Seizures During clinical development , the number of patients with myoclonic seizures exposed to levetiracetam was considerably smaller than the number with partial seizures .
+Therefore , under - reporting of certain adverse events was more likely to occur in the myoclonic seizure population .
+In adult and adolescent patients experiencing myoclonic seizures , levetiracetam is associated with somnolence and behavioral abnormalities .
+It is expected that the events seen in partial seizure patients would occur in patients with JME .
+In the double - blind , controlled trial in adults and adolescents with juvenile myoclonic epilepsy experiencing myoclonic seizures , 11 . 7 % of levetiracetam - treated patients experienced somnolence compared to 1 . 7 % of placebo patients .
+No patient discontinued treatment as a result of somnolence .
+In 1 . 7 % of levetiracetam - treated patients and in 0 % of placebo patients the dose was reduced as a result of somnolence .
+Non - psychotic behavioral disorders ( reported as aggression and irritability ) occurred in 5 % of the levetiracetam - treated patients compared to 0 % of placebo patients .
+Non - psychotic mood disorders ( reported as depressed mood , depression , and mood swings ) occurred in 6 . 7 % of levetiracetam - treated patients compared to 3 . 3 % of placebo patients .
+A total of 5 . 0 % of levetiracetam - treated patients had a reduction in dose or discontinued treatment due to behavioral or psychiatric events ( reported as anxiety , depressed mood , depression , irritability , and nervousness ) , compared to 1 . 7 % of placebo patients .
+Primary Generalized Tonic - Clonic Seizures During clinical development , the number of patients with primary generalized tonic - clonic epilepsy exposed to levetiracetam was considerably smaller than the number with partial epilepsy , described above .
+As in the partial seizure patients , behavioral symptoms appeared to be associated with levetiracetam treatment .
+Gait disorders and somnolence were also described in the study in primary generalized seizures , but with no difference between placebo and levetiracetam treatment groups and no appreciable discontinuations .
+Although it may be expected that drug related events seen in partial seizure patients would be seen in primary generalized epilepsy patients ( e . g . somnolence and gait disturbance ) , these events may not have been observed because of the smaller sample size .
+In patients 6 years of age and older experiencing primary generalized tonic - clonic seizures , levetiracetam is associated with behavioral abnormalities .
+In the double - blind , controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic - clonic seizures , irritability was the most frequently reported psychiatric adverse event occurring in 6 . 3 % of levetiracetam - treated patients compared to 2 . 4 % of placebo patients .
+Additionally , non - psychotic behavioral disorders ( reported as abnormal behavior , aggression , conduct disorder , and irritability ) occurred in 11 . 4 % of the levetiracetam - treated patients compared to 3 . 6 % of placebo patients .
+Of the levetiracetam - treated patients experiencing non - psychotic behavioral disorders , one patient discontinued treatment due to aggression .
+Non - psychotic mood disorders ( including anger , apathy , depression , mood altered , mood swings , negativism , and tearfulness ) occurred in 12 . 7 % of levetiracetam - treated patients compared to 8 . 3 % of placebo patients .
+No levetiracetam - treated patients discontinued or had a dose reduction as a result of these events .
+One patient experienced delusional behavior that required the lowering of the dose of levetiracetam .
+In a long - term open label study that examined patients with various forms of primary generalized epilepsy , along with the non - psychotic behavioral disorders , 2 of 192 patients studied exhibited psychotic - like behavior .
+Behavior in one case was characterized by auditory hallucinations and suicidal thoughts and led to levetiracetam discontinuation .
+The other case was described as worsening of pre - existent schizophrenia and did not lead to drug discontinuation .
+Withdrawal Seizures Antiepileptic drugs , including levetiracetam , should be withdrawn gradually to minimize the potential of increased seizure frequency .
+PRECAUTIONS Hematologic Abnormalities Partial Onset Seizures Adults Minor , but statistically significant , decreases compared to placebo in total mean RBC count ( 0 . 03 x 106 / mm3 ) , mean hemoglobin ( 0 . 09 g / dL ) , and mean hematocrit ( 0 . 38 % ) , were seen in levetiracetam - treated patients in controlled trials .
+A total of 3 . 2 % of treated and 1 . 8 % of placebo patients had at least one possibly significant ( ≤ 2 . 8 x 109 / L ) decreased WBC , and 2 . 4 % of treated and 1 . 4 % of placebo patients had at least one possibly significant ( ≤ 1 . 0 x 109 / L ) decreased neutrophil count .
+Of the treated patients with a low neutrophil count , all but one rose towards or to baseline with continued treatment .
+No patient was discontinued secondary to low neutrophil counts .
+Pediatric Patients Minor , but statistically significant , decreases in WBC and neutrophil counts were seen in levetiracetam - treated patients as compared to placebo .
+The mean decreases from baseline in the levetiracetam - treated group were - 0 . 4 x 109 / L and - 0 . 3 x 109 / L , respectively , whereas there were small increases in the placebo group .
+Mean relative lymphocyte counts increased by 1 . 7 % in levetiracetam - treated patients , compared to a decrease of 4 % in placebo patients ( statistically significant ) .
+In the well - controlled trial , more levetiracetam - treated patients had a possibly clinically significant abnormally low WBC value ( 3 . 0 % levetiracetam - treated versus 0 % placebo ) , however , there was no apparent difference between treatment groups with respect to neutrophil count ( 5 . 0 % levetiracetam - treated versus 4 . 2 % placebo ) .
+No patient was discontinued secondary to low WBC or neutrophil counts .
+Juvenile Myoclonic Epilepsy Although there were no obvious hematologic abnormalities observed in patients with JME , the limited number of patients makes any conclusion tentative .
+The data from the partial seizure patients should be considered to be relevant for JME patients .
+Hepatic Abnormalities There were no meaningful changes in mean liver function tests ( LFT ) in controlled trials in adult or pediatric patients ; lesser LFT abnormalities were similar in drug and placebo treated patients in controlled trials ( 1 . 4 % ) .
+No adult or pediatric patients were discontinued from controlled trials for LFT abnormalities except for 1 ( 0 . 07 % ) adult epilepsy patient receiving open treatment .
+Information For Patients Patients and caregivers should be informed of the availability of a Medication Guide , and they should be instructed to read the Medication Guide prior to taking levetiracetam .
+The Medication Guide may also be found by calling 1 - 269 - 544 - 2299 .
+Patients should be instructed to take levetiracetam only as prescribed .
+Patients , their caregivers , and families should be counseled that AEDs , including levetiracetam , may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression , any unusual changes in mood or behavior , or the emergence of suicidal thoughts , behavior , or thoughts about self - harm .
+Behaviors of concern should be reported immediately to healthcare providers .
+Patients should be advised that levetiracetam may cause changes in behavior ( e . g . aggression , agitation , anger , anxiety , apathy , depression , hostility , and irritability ) and in rare cases patients may experience psychotic symptoms .
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy .
+Patients should be encouraged to enroll in the North American Antiepileptic Drug ( NAAED ) pregnancy registry if they become pregnant .
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy .
+To enroll , patients can call the toll free number 1 - 888 - 233 - 2334 .
+Patients should be advised that levetiracetam may cause dizziness and somnolence .
+Accordingly , patients should be advised not to drive or operate machinery or engage in other hazardous activities until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their performance of these activities .
+Laboratory Tests Although most laboratory tests are not systematically altered with levetiracetam treatment , there have been relatively infrequent abnormalities seen in hematologic parameters and liver function tests .
+Drug Interactions In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce , or be subject to , pharmacokinetic interactions .
+Levetiracetam and its major metabolite , at concentrations well above Cmax levels achieved within the therapeutic dose range , are neither inhibitors of nor high affinity substrates for human liver cytochrome P450 isoforms , epoxide hydrolase or UDP - glucuronidation enzymes .
+In addition , levetiracetam does not affect the in vitro glucuronidation of valproic acid .
+Levetiracetam circulates largely unbound ( < 10 % bound ) to plasma proteins ; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely .
+Potential pharmacokinetic interactions were assessed in clinical pharmacokinetic studies ( phenytoin , valproate , oral contraceptive , digoxin , warfarin , probenecid ) and through pharmacokinetic screening in the placebo - controlled clinical studies in epilepsy patients .
+Drug - Drug Interactions Between Levetiracetam And Other Antiepileptic Drugs ( AEDs ) Phenytoin Levetiracetam ( 3000 mg daily ) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy .
+Pharmacokinetics of levetiracetam were also not affected by phenytoin .
+Valproate Levetiracetam ( 1500 mg twice daily ) did not alter the pharmacokinetics of valproate in healthy volunteers .
+Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion .
+There also was no effect on exposure to and the excretion of the primary metabolite , ucb L057 .
+Potential drug interactions between levetiracetam and other AEDs ( carbamazepine , gabapentin , lamotrigine , phenobarbital , phenytoin , primidone and valproate ) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo - controlled clinical studies .
+These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam .
+Effect Of AEDs In Pediatric Patients There was about a 22 % increase of apparent total body clearance of levetiracetam when it was co - administered with enzyme - inducing AEDs .
+Dose adjustment is not recommended .
+Levetiracetam had no effect on plasma concentrations of carbamazepine , valproate , topiramate , or lamotrigine .
+Other Drug Interactions Oral Contraceptives Levetiracetam ( 500 mg twice daily ) did not influence the pharmacokinetics of an oral contraceptive containing 0 . 03 mg ethinyl estradiol and 0 . 15 mg levonorgestrel , or of the luteinizing hormone and progesterone levels , indicating that impairment of contraceptive efficacy is unlikely .
+Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam .
+Digoxin Levetiracetam ( 1000 mg twice daily ) did not influence the pharmacokinetics and pharmacodynamics ( ECG ) of digoxin given as a 0 . 25 mg dose every day .
+Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam .
+Warfarin Levetiracetam ( 1000 mg twice daily ) did not influence the pharmacokinetics of R and S warfarin .
+Prothrombin time was not affected by levetiracetam .
+Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam .
+Probenecid Probenecid , a renal tubular secretion blocking agent , administered at a dose of 500 mg four times a day , did not change the pharmacokinetics of levetiracetam 1000 mg twice daily .
+CSSmax of the metabolite , ucb L057 , was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same .
+Renal clearance of ucb L057 in the presence of probenecid decreased 60 % , probably related to competitive inhibition of tubular secretion of ucb L057 .
+The effect of levetiracetam on probenecid was not studied .
+Carcinogenesis , Mutagenesis , Impairment Of Fertility Carcinogenesis Rats were dosed with levetiracetam in the diet for 104 weeks at doses of 50 , 300 and 1800 mg / kg / day .
+The highest dose corresponds to 6 times the maximum recommended daily human dose ( MRHD ) of 3000 mg on a mg / m2 basis and it also provided systemic exposure ( AUC ) approximately 6 times that achieved in humans receiving the MRHD .
+There was no evidence of carcinogenicity .
+A study was conducted in which mice received levetiracetam in the diet for 80 weeks at doses of 60 , 240 and 960 mg / kg / day ( high dose is equivalent to 2 times the MRHD on a mg / m2 or exposure basis ) .
+Although no evidence for carcinogenicity was seen , the potential for a carcinogenic response has not been fully evaluated in that species because adequate doses have not been studied .
+Mutagenesis Levetiracetam was not mutagenic in the Ames test or in mammalian cells in vitro in the Chinese hamster ovary / HGPRT locus assay .
+It was not clastogenic in an in vitro analysis of metaphase chromosomes obtained from Chinese hamster ovary cells or in an in vivo mouse micronucleus assay .
+The hydrolysis product and major human metabolite of levetiracetam ( ucb L057 ) was not mutagenic in the Ames test or the in vitro mouse lymphoma assay .
+Impairment Of Fertility No adverse effects on male or female fertility or reproductive performance were observed in rats at doses up to 1800 mg / kg / day ( approximately 6 times the maximum recommended human dose on a mg / m2 or exposure basis ) .
+Pregnancy Pregnancy Category C In animal studies , levetiracetam produced evidence of developmental toxicity at doses similar to or greater than human therapeutic doses .
+Administration to female rats throughout pregnancy and lactation was associated with increased incidences of minor fetal skeletal abnormalities and retarded offspring growth pre - and / or postnatally at doses ≥ 350 mg / kg / day ( approximately equivalent to the maximum recommended human dose of 3000 mg [ MRHD ] on a mg / m2 basis ) and with increased pup mortality and offspring behavioral alterations at a dose of 1800 mg / kg / day ( 6 times the MRHD on a mg / m2 basis ) .
+The developmental no effect dose was 70 mg / kg / day ( 0 . 2 times the MRHD on a mg / m2 basis ) .
+There was no overt maternal toxicity at the doses used in this study .
+Treatment of pregnant rabbits during the period of organogenesis resulted in increased embryofetal mortality and increased incidences of minor fetal skeletal abnormalities at doses ≥ 600 mg / kg / day ( approximately 4 times MRHD on a mg / m2 basis ) and in decreased fetal weights and increased incidences of fetal malformations at a dose of 1800 mg / kg / day ( 12 times the MRHD on a mg / m2 basis ) .
+The developmental no effect dose was 200 mg / kg / day ( 1 . 3 times the MRHD on a mg / m2 basis ) .
+Maternal toxicity was also observed at 1800 mg / kg / day .
+When pregnant rats were treated during the period of organogenesis , fetal weights were decreased and the incidence of fetal skeletal variations was increased at a dose of 3600 mg / kg / day ( 12 times the MRHD ) .
+1200 mg / kg / day ( 4 times the MRHD ) was a developmental no effect dose .
+There was no evidence of maternal toxicity in this study .
+Treatment of rats during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg / kg / day ( 6 times the MRHD on a mg / m2 basis ) .
+There are no adequate and well - controlled studies in pregnant women .
+Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Pregnancy Registry To provide information regarding the effects of in utero exposure to levetiracetam , physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug ( NAAED ) pregnancy registry .
+This can be done by calling the toll free number 1 - 888 - 233 - 2334 , and must be done by the patients themselves .
+Information on the registry can also be found at the website http : / / www . aedpregnancyregistry . org / .
+Labor And Delivery The effect of levetiracetam on labor and delivery in humans is unknown .
+Nursing Mothers Levetiracetam is excreted in breast milk .
+Because of the potential for serious adverse reactions in nursing infants from levetiracetam , a decision should be made whether to discontinue nursing or discontinue the drug , taking into account the importance of the drug to the mother .
+Pediatric Use Safety and effectiveness in patients below 4 years of age have not been established .
+Studies of levetiracetam in juvenile rats ( dosing from day 4 through day 52 of age ) and dogs ( dosing from week 3 through week 7 of age ) at doses of up to 1800 mg / kg / day ( approximately 7 and 24 times , respectively , the maximum recommended pediatric dose of 60 mg / kg / day on a mg / m2 basis ) did not indicate a potential for age - specific toxicity .
+Geriatric Use Of the total number of subjects in clinical studies of levetiracetam , 347 were 65 and over .
+No overall differences in safety were observed between these subjects and younger subjects .
+There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of levetiracetam in these patients .
+A study in 16 elderly subjects ( age 61 - 88 years ) with oral administration of single dose and multiple twice - daily doses for 10 days showed no pharmacokinetic differences related to age alone .
+Levetiracetam is known to be substantially excreted by the kidney , and the risk of adverse reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function .
+Use In Patients With Impaired Renal Function Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance .
+Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing hemodialysis .
+The dosage should be reduced in patients with impaired renal function receiving levetiracetam and supplemental doses should be given to patients after dialysis ( see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION , Adult Patients with Impaired Renal Function ) .
+ADVERSE REACTIONS The prescriber should be aware that the adverse event incidence figures in the following tables , obtained when levetiracetam was added to concurrent AED therapy , cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies .
+Similarly , the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments , uses , or investigators .
+An inspection of these frequencies , however , does provide the prescriber with one basis to estimate the relative contribution of drug and non - drug factors to the adverse event incidences in the population studied .
+Partial Onset Seizures In well - controlled clinical studies in adults with partial onset seizures , the most frequently reported adverse events associated with the use of levetiracetam in combination with other AEDs , not seen at an equivalent frequency among placebo - treated patients , were somnolence , asthenia , infection and dizziness .
+In the well - controlled pediatric clinical study in children 4 to 16 years of age with partial onset seizures , the adverse events most frequently reported with the use of levetiracetam in combination with other AEDs , not seen at an equivalent frequency among placebo - treated patients , were somnolence , accidental injury , hostility , nervousness , and asthenia .
+Table 8 lists treatment - emergent adverse events that occurred in at least 1 % of adult epilepsy patients treated with levetiracetam participating in placebo - controlled studies and were numerically more common than in patients treated with placebo .
+Table 9 lists treatment - emergent adverse events that occurred in at least 2 % of pediatric epilepsy patients ( ages 4 - 16 years ) treated with levetiracetam participating in the placebo - controlled study and were numerically more common than in pediatric patients treated with placebo .
+In these studies , either levetiracetam or placebo was added to concurrent AED therapy .
+Adverse events were usually mild to moderate in intensity .
+Table 8 : Incidence ( % ) Of Treatment - Emergent Adverse Events In Placebo - Controlled , Add - On Studies In Adults Experiencing Partial Onset Seizures By Body System ( Adverse Events Occurred In At Least 1 % Of Levetiracetam - Treated Patients And Occurred More Frequently Than Placebo - Treated Patients ) Body System / Adverse Event Levetiracetam ( N = 769 ) % Placebo ( N = 439 ) % Body as a Whole Asthenia 15 9 Headache 14 13 Infection 13 8 Pain 7 6 Digestive System Anorexia 3 2 Nervous System Somnolence 15 8 Dizziness 9 4 Depression 4 2 Nervousness 4 2 Ataxia 3 1 Vertigo 3 1 Amnesia 2 1 Anxiety 2 1 Hostility 2 1 Paresthesia 2 1 Emotional Lability 2 0 Respiratory System Pharyngitis 6 4 Rhinitis 4 3 Cough Increased 2 1 Sinusitis 2 1 Special Senses Diplopia 2 1 Other events reported by at least 1 % of adult levetiracetam - treated patients but as or more frequent in the placebo group were the following : abdominal pain , accidental injury , amblyopia , arthralgia , back pain , bronchitis , chest pain , confusion , constipation , convulsion , diarrhea , drug level increased , dyspepsia , ecchymosis , fever , flu syndrome , fungal infection , gastroenteritis , gingivitis , grand mal convulsion , insomnia , nausea , otitis media , rash , thinking abnormal , tremor , urinary tract infection , vomiting and weight gain .
+Table 9 : Incidence ( % ) Of Treatment - Emergent Adverse Events In A Placebo - Controlled , Add - On Study In Pediatric Patients Ages 4 - 16 Years Experiencing Partial Onset Seizures By Body System ( Adverse Events Occurred In At Least 2 % Of Levetiracetam - Treated Patients And Occurred More Frequently Than Placebo - Treated Patients ) Body System / Adverse Event Levetiracetam ( N = 101 ) % Placebo ( N = 97 ) % Body as a Whole Accidental Injury 17 10 Asthenia 9 3 Pain 6 3 Flu Syndrome 3 2 Face Edema 2 1 Neck Pain 2 1 Viral Infection 2 1 Digestive System Vomiting 15 13 Anorexia 13 8 Diarrhea 8 7 Gastroenteritis 4 2 Constipation 3 1 Hemic and Lymphatic System Ecchymosis 4 1 Metabolic and Nutritional Dehydration 2 1 Nervous System Somnolence 23 11 Hostility 12 6 Nervousness 10 2 Personality Disorder 8 7 Dizziness 7 2 Emotional Lability 6 4 Agitation 6 1 Depression 3 1 Vertigo 3 1 Reflexes Increased 2 1 Confusion 2 0 Respiratory System Rhinitis 13 8 Cough Increased 11 7 Pharyngitis 10 8 Asthma 2 1 Skin and Appendages Pruritus 2 0 Skin Discoloration 2 0 Vesiculobullous Rash 2 0 Special Senses Conjunctivitis 3 2 Amblyopia 2 0 Ear Pain 2 0 Urogenital System Albuminuria 4 0 Urine Abnormality 2 1 Other events occurring in at least 2 % of pediatric levetiracetam - treated patients but as or more frequent in the placebo group were the following : abdominal pain , allergic reaction , ataxia , convulsion , epistaxis , fever , headache , hyperkinesia , infection , insomnia , nausea , otitis media , rash , sinusitis , status epilepticus ( not otherwise specified ) , thinking abnormal , tremor , and urinary incontinence .
+Myoclonic Seizures Although the pattern of adverse events in this study seems somewhat different from that seen in patients with partial seizures , this is likely due to the much smaller number of patients in this study compared to partial seizure studies .
+The adverse event pattern for patients with JME is expected to be essentially the same as for patients with partial seizures .
+In the well - controlled clinical study that included both adolescent ( 12 to 16 years of age ) and adult patients with myoclonic seizures , the most frequently reported adverse events associated with the use of levetiracetam in combination with other AEDs , not seen at an equivalent frequency among placebo - treated patients , were somnolence , neck pain , and pharyngitis .
+Table 10 lists treatment - emergent adverse events that occurred in at least 5 % of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo .
+In this study , either levetiracetam or placebo was added to concurrent AED therapy .
+Adverse events were usually mild to moderate in intensity .
+Table 10 : Incidence ( % ) Of Treatment - Emergent Adverse Events In A Placebo - Controlled , Add - On Study In Patients 12 Years Of Age And Older With Myoclonic Seizures By Body System ( Adverse Events Occurred In At Least 5 % Of Levetiracetam - Treated Patients And Occurred More Frequently Than Placebo - Treated Patients ) Body System / MedDRA preferred term Levetiracetam ( N = 60 ) % Placebo ( N = 60 ) % Ear and labyrinth disorders Vertigo 5 3 Infections and infestations Pharyngitis 7 0 Influenza 5 2 Musculoskeletal and connective tissue disorders Neck pain 8 2 Nervous system disorders Somnolence 12 2 Psychiatric disorders Depression 5 2 Other events occurring in at least 5 % of levetiracetam - treated patients with myoclonic seizures but as or more frequent in the placebo group were the following : fatigue and headache .
+Primary Generalized Tonic - Clonic Seizures Although the pattern of adverse events in this study seems somewhat different from that seen in patients with partial seizures , this is likely due to the much smaller number of patients in this study compared to partial seizure studies .
+The adverse event pattern for patients with PGTC seizures is expected to be essentially the same as for patients with partial seizures .
+In the well - controlled clinical study that included patients 4 years of age and older with primary generalized tonic - clonic ( PGTC ) seizures , the most frequently reported adverse event associated with the use of levetiracetam in combination with other AEDs , not seen at an equivalent frequency among placebo - treated patients , was nasopharyngitis .
+Table 11 lists treatment - emergent adverse events that occurred in at least 5 % of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo .
+In this study , either levetiracetam or placebo was added to concurrent AED therapy .
+Adverse events were usually mild to moderate in intensity .
+Table 11 : Incidence ( % ) Of Treatment - Emergent Adverse Events In A Placebo - Controlled , Add - On Study In Patients 4 Years Of Age And Older With PGTC Seizures By MedDRA System Organ Class ( Adverse Events Occurred In At Least 5 % Of Levetiracetam - Treated Patients And Occurred More Frequently Than Placebo - Treated Patients ) MedDRA System Organ Class / Preferred Term Levetiracetam ( N = 79 ) % Placebo ( N = 84 ) % Gastrointestinal disorders Diarrhea 8 7 General disorders and administration site conditions Fatigue 10 8 Infections and infestations Nasopharyngitis 14 5 Psychiatric disorders Irritability 6 2 Mood swings 5 1 Other events occurring in at least 5 % of levetiracetam - treated patients with PGTC seizures but as or more frequent in the placebo group were the following : dizziness , headache , influenza , and somnolence .
+Time Course Of Onset Of Adverse Events For Partial Onset Seizures Of the most frequently reported adverse events in adults experiencing partial onset seizures , asthenia , somnolence and dizziness appeared to occur predominantly during the first 4 weeks of treatment with levetiracetam .
+Discontinuation Or Dose Reduction In Well - Controlled Clinical Studies Partial Onset Seizures In well - controlled adult clinical studies , 15 . 0 % of patients receiving levetiracetam and 11 . 6 % receiving placebo either discontinued or had a dose reduction as a result of an adverse event .
+Table 12 lists the most common ( > 1 % ) adverse events that resulted in discontinuation or dose reduction .
+Table 12 : Adverse Events That Most Commonly Resulted In Discontinuation Or Dose Reduction In Placebo - Controlled Studies In Adult Patients Experiencing Partial Onset Seizures Number ( % ) Levetiracetam ( N = 769 ) Placebo ( N = 439 ) Asthenia 10 ( 1 . 3 % ) 3 ( 0 . 7 % ) Convulsion 23 ( 3 . 0 % ) 15 ( 3 . 4 % ) Dizziness 11 ( 1 . 4 % ) 0 Rash 0 5 ( 1 . 1 % ) Somnolence 34 ( 4 . 4 % ) 7 ( 1 . 6 % ) In the well - controlled pediatric clinical study , 16 . 8 % of patients receiving levetiracetam and 20 . 6 % receiving placebo either discontinued or had a dose reduction as a result of an adverse event .
+The adverse events most commonly associated ( ≥ 3 % in patients receiving levetiracetam ) with discontinuation or dose reduction in the well - controlled study are presented in Table 13 .
+Table 13 : Adverse Events Most Commonly Associated With Discontinuation Or Dose Reduction In The Placebo - Controlled Study In Pediatric Patients Ages 4 - 16 Years Experiencing Partial Onset Seizures Number ( % ) Levetiracetam ( N = 101 ) Placebo ( N = 97 ) Asthenia 3 ( 3 . 0 % ) 0 Hostility 7 ( 6 . 9 % ) 2 ( 2 . 1 % ) Somnolence 3 ( 3 . 0 % ) 3 ( 3 . 1 % ) Myoclonic Seizures In the placebo - controlled study , 8 . 3 % of patients receiving levetiracetam and 1 . 7 % receiving placebo either discontinued or had a dose reduction as a result of an adverse event .
+The adverse events that led to discontinuation or dose reduction in the well - controlled study are presented in Table 14 .
+Table 14 : Adverse Events That Resulted In Discontinuation Or Dose Reduction In The Placebo - Controlled Study In Patients With Juvenile Myoclonic Epilepsy Body System / MedDRA preferred term Levetiracetam ( N = 60 ) n ( % ) Placebo ( N = 60 ) n ( % ) Anxiety 2 ( 3 . 3 % ) 1 ( 1 . 7 % ) Depressed mood 1 ( 1 . 7 % ) 0 Depression 1 ( 1 . 7 % ) 0 Diplopia 1 ( 1 . 7 % ) 0 Hypersomnia 1 ( 1 . 7 % ) 0 Insomnia 1 ( 1 . 7 % ) 0 Irritability 1 ( 1 . 7 % ) 0 Nervousness 1 ( 1 . 7 % ) 0 Somnolence 1 ( 1 . 7 % ) 0 Primary Generalized Tonic - Clonic Seizures In the placebo - controlled study , 5 . 1 % of patients receiving levetiracetam and 8 . 3 % receiving placebo either discontinued or had a dose reduction during the treatment period as a result of a treatment - emergent adverse event .
+This study was too small to adequately characterize the adverse events leading to discontinuation .
+It is expected that the adverse events that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials ( see tables 12 - 14 ) .
+Comparison Of Gender , Age And Race The overall adverse experience profile of levetiracetam was similar between females and males .
+There are insufficient data to support a statement regarding the distribution of adverse experience reports by age and race .
+Postmarketing Experience The following adverse events have been identified during postapproval use of levetiracetam .
+Because these events are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure .
+In addition to the adverse experiences listed above , the following have been reported in patients receiving marketed levetiracetam worldwide .
+The listing is alphabetized : abnormal liver function test , hepatic failure , hepatitis , leukopenia , neutropenia , pancreatitis , pancytopenia ( with bone marrow suppression identified in some of these cases ) , thrombocytopenia , and weight loss .
+Alopecia has been reported with levetiracetam use ; recovery was observed in majority of cases where levetiracetam was discontinued .
+These adverse experiences have not been listed above , and data are insufficient to support an estimate of their incidence or to establish causation .
+DRUG ABUSE AND DEPENDENCE The abuse and dependence potential of levetiracetam has not been evaluated in human studies .
+OVERDOSAGE Signs , Symptoms And Laboratory Findings Of Acute Overdosage In Humans The highest known dose of levetiracetam received in the clinical development program was 6000 mg / day .
+Other than drowsiness , there were no adverse events in the few known cases of overdose in clinical trials .
+Cases of somnolence , agitation , aggression , depressed level of consciousness , respiratory depression and coma were observed with levetiracetam overdoses in postmarketing use .
+Treatment Or Management Of Overdose There is no specific antidote for overdose with levetiracetam .
+If indicated , elimination of unabsorbed drug should be attempted by emesis or gastric lavage ; usual precautions should be observed to maintain airway .
+General supportive care of the patient is indicated including monitoring of vital signs and observation of the patient ’ s clinical status .
+A Certified Poison Control Center should be contacted for up to date information on the management of overdose with levetiracetam .
+Hemodialysis Standard hemodialysis procedures result in significant clearance of levetiracetam ( approximately 50 % in 4 hours ) and should be considered in cases of overdose .
+Although hemodialysis has not been performed in the few known cases of overdose , it may be indicated by the patient ’ s clinical state or in patients with significant renal impairment .
+DOSAGE AND ADMINISTRATION Levetiracetam tablets are indicated as adjunctive treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy .
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy .
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of primary generalized tonic - clonic seizures in adults and children 6 years of age and older with idiopathic generalized epilepsy .
+Partial Onset Seizures Adults 16 Years And Older In clinical trials , daily doses of 1000 mg , 2000 mg , and 3000 mg , given as twice - daily dosing , were shown to be effective .
+Although in some studies there was a tendency toward greater response with higher dose ( see CLINICAL STUDIES ) , a consistent increase in response with increased dose has not been shown .
+Treatment should be initiated with a daily dose of 1000 mg / day , given as twice - daily dosing ( 500 mg BID ) .
+Additional dosing increments may be given ( 1000 mg / day additional every 2 weeks ) to a maximum recommended daily dose of 3000 mg .
+Doses greater than 3000 mg / day have been used in open - label studies for periods of 6 months and longer .
+There is no evidence that doses greater than 3000 mg / day confer additional benefit .
+Pediatric Patients Ages 4 to < 16 Years Treatment should be initiated with a daily dose of 20 mg / kg in 2 divided doses ( 10 mg / kg BID ) .
+The daily dose should be increased every 2 weeks by increments of 20 mg / kg to the recommended daily dose of 60 mg / kg ( 30 mg / kg BID ) .
+If a patient cannot tolerate a daily dose of 60 mg / kg , the daily dose may be reduced .
+In the clinical trial , the mean daily dose was 52 mg / kg .
+Patients with body weight ≤ 20 kg should be dosed with oral solution .
+Patients with body weight above 20 kg can be dosed with either tablets or oral solution .
+Table 15 below provides a guideline for tablet dosing based on weight during titration to 60 mg / kg / day .
+Only whole tablets should be administered .
+Levetiracetam Tablets are given orally with or without food .
+Table 15 : Levetiracetam Tablet Weight - Based Dosing Guide For Children Patient Weight Daily Dose 20 mg / kg / day ( BID dosing ) 40 mg / kg / day ( BID dosing ) 60 mg / kg / day ( BID dosing ) 20 . 1 - 40 kg 500 mg / day ( 1 X 250 mg tablet BID ) 1000 mg / day ( 1 X 500 mg tablet BID ) 1500 mg / day ( 1 X 750 mg tablet BID ) > 40 kg 1000 mg / day ( 1 X 250 mg tablet BID ) 2000 mg / day ( 2 X 500 mg tablet BID ) 3000 mg / day ( 2 X 750 mg tablet BID ) The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients based on a daily dose of 20 mg / kg / day , 40 mg / kg / day or 60 mg / kg / day : Daily dose ( mg / kg / day ) x patient weight ( kg ) Total daily dose ( mL / day ) = --------------------------------------------------------- 100 mg / mL A household teaspoon or tablespoon is not an adequate measuring device .
+It is recommended that a calibrated measuring device be obtained and used .
+Healthcare providers should recommend a device that can measure and deliver the prescribed dose accurately , and provide instructions for measuring the dosage .
+Myoclonic Seizures In Patients 12 Years Of Age And Older With Juvenile Myoclonic Epilepsy Treatment should be initiated with a dose of 1000 mg / day , given as twice - daily dosing ( 500 mg BID ) .
+Dosage should be increased by 1000 mg / day every 2 weeks to the recommended daily dose of 3000 mg .
+The effectiveness of doses lower than 3000 mg / day has not been studied .
+Primary Generalized Tonic - Clonic Seizures Adults 16 Years And Older Treatment should be initiated with a dose of 1000 mg / day , given as twice - daily dosing ( 500 mg BID ) .
+Dosage should be increased by 1000 mg / day every 2 weeks to the recommended daily dose of 3000 mg .
+The effectiveness of doses lower than 3000 mg / day has not been adequately studied .
+Pediatric Patients Ages 6 To < 16 Years Treatment should be initiated with a daily dose of 20 mg / kg in 2 divided doses ( 10 mg / kg BID ) .
+The daily dose should be increased every 2 weeks by increments of 20 mg / kg to the recommended daily dose of 60 mg / kg ( 30 mg / kg BID ) .
+The effectiveness of doses lower than 60 mg / kg / day has not been adequately studied .
+Patients with body weight ≤ 20 kg should be dosed with oral solution .
+Patients with body weight above 20 kg can be dosed with either tablets or oral solution .
+See Table 14 for tablet dosing based on weight during titration to 60 mg / kg / day .
+Only whole tablets should be administered .
+Adult Patients With Impaired Renal Function Levetiracetam tablet dosing must be individualized according to the patient ’ s renal function status .
+Recommended doses and adjustment for dose for adults are shown in Table 16 .
+To use this dosing table , an estimate of the patient ’ s creatinine clearance ( CLcr ) in mL / min is needed .
+CLcr in mL / min may be estimated from serum creatinine ( mg / dL ) determination using the following formula : [ 140 - age ( years ) ] x weight ( kg ) CLcr = -------------------------------------------- ( x 0 . 85 for female patients ) 72 x serum creatinine ( mg / dL ) Table 16 : Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function Group Creatinine Clearance ( mL / min ) Dosage ( mg ) Frequency 1 Following dialysis , a 250 to 500 mg supplemental dose is recommended .
+Normal Mild Modrate Severe ESRD patients using dialysis > 80 50 - 80 30 - 50 < 30 ---- 500 to 1 , 500 500 to 1 , 000 250 to 750 250 to 500 500 to 1000 Every 12 h Every 12 h Every 12 h Every 12 h 1 Every 24 h HOW SUPPLIED Levetiracetam 250 mg tablets are blue colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 250 ’ and ‘ MG ’ on one side and ‘ 1014 ’ on other side .
+They are supplied as : Bottle of 60 NDC - 13668 - 014 - 60 Bottle of 120 NDC - 13668 - 014 - 12 Bottle of 250 NDC - 13668 - 014 - 25 Bottle of 500 NDC - 13668 - 014 - 05 Bottle of 2500 NDC - 13668 - 014 - 31 8 x 10 unit Dose NDC - 13668 - 014 - 77 Levetiracetam 500 mg tablets are yellow colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 500 ’ and ‘ MG ’ on one side and ‘ 1015 ’ on other side .
+They are supplied as : Bottle of 60 NDC - 13668 - 015 - 60 Bottle of 120 NDC - 13668 - 015 - 12 Bottle of 250 NDC - 13668 - 015 - 25 Bottle of 500 NDC - 13668 - 015 - 05 Bottle of 1350 NDC - 13668 - 015 - 17 6 x 10 unit Dose NDC - 13668 - 015 - 62 Levetiracetam 750 mg tablets are orange colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 750 ’ and ‘ MG ’ on one side and ‘ 1016 ’ on other side .
+They are supplied as : Bottle of 60 NDC - 13668 - 016 - 60 Bottle of 120 NDC - 13668 - 016 - 12 Bottle of 250 NDC - 13668 - 016 - 25 Bottle of 500 NDC - 13668 - 016 - 05 Bottle of 800 NDC - 13668 - 016 - 67 5 x 10 unit Dose NDC - 13668 - 016 - 61 Levetiracetam 1000 mg tablets are white to off white , oval shaped , film - coated tablets debossed with breakline separating ‘ 1000 ’ and ‘ MG ’ on one side and ‘ 1017 ’ on other side .
+They are supplied as : Bottle of 60 NDC - 13668 - 017 - 60 Bottle of 120 NDC - 13668 - 017 - 12 Bottle of 250 NDC - 13668 - 017 - 25 Bottle of 500 NDC - 13668 - 017 - 05 Bottle of 650 NDC - 13668 - 017 - 65 5 x 10 unit Dose NDC - 13668 - 017 - 61 Storage Store at 20 o - 25 oC ( 68 o - 77 oF ) ; excursions permitted to 15 o - 30 oC ( 59 o - 86 oF ) .
+[ See USP Controlled Room Temperature ] .
+Dispense in a tight , light - resistant container with a child - resistant closure .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Manufactured by : TORRENT PHARMACEUTICALS LTD . , Indrad - 382 721 , Dist .
+Mehsana , INDIA .
+For : TORRENT PHARMA INC . , 5380 Holiday Terrace , Suite 40 , Kalamazoo , Michigan 49009 .
+8026812 Revised January 2011 MEDICATION GUIDE Levetiracetam Tablets Rx Only Read this Medication Guide before you start taking levetiracetam and each time you get a refill .
+There may be new information .
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment .
+What is the most important information I should know about levetiracetam ?
+Like other antiepileptic drugs , levetiracetam may cause suicidal thoughts or actions in a very small number of people , about 1 in 500 people taking it .
+Call a healthcare provider right away if you have any of these symptoms , especially if they are new , worse , or worry you : • thoughts about suicide or dying • attempts to commit suicide • new or worse depression • new or worse anxiety • feeling agitated or restless • panic attacks • trouble sleeping ( insomnia ) • new or worse irritability • acting aggressive , being angry , or violent • acting on dangerous impulses • an extreme increase in activity and talking ( mania ) • other unusual changes in behavior or mood Do not stop levetiracetam without first talking to a healthcare provider .
+• Stopping levetiracetam suddenly can cause serious problems .
+Stopping a seizure medicine suddenly can cause seizures that will not stop ( status epilepticus ) .
+• Suicidal thoughts or actions can be caused by things other than medicines .
+If you have suicidal thoughts or actions , your healthcare provider may check for other causes .
+How can I watch for early symptoms of suicidal thoughts and actions ?
+• Pay attention to any changes , especially sudden changes , in mood , behaviors , thoughts , or feelings .
+• Keep all follow - up visits with your healthcare provider as scheduled .
+• Call your healthcare provider between visits as needed , especially if you are worried about symptoms .
+What is levetiracetam ?
+Levetiracetam is a prescription medicine taken by mouth that is used with other medicines to treat : • partial onset seizures in people 4 years of age and older with epilepsy • myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy • primary generalized tonic - clonic seizures in people 6 years of age and older with certain types of generalized epilepsy .
+It is not known if levetiracetam is safe or effective in children under 4 years of age .
+Before taking your medicine , make sure you have received the correct medicine .
+Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam provided below .
+Contact your pharmacist immediately if you believe a dispensing error may have occurred .
+• 250 mg levetiracetam tablets are blue colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 250 ’ and ‘ MG ’ on one side and ‘ 1014 ’ on other side .
+• 500 mg levetiracetam tablets are yellow colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 500 ’ and ‘ MG ’ on one side and ‘ 1015 ’ on other side .
+• 750 mg levetiracetam tablets are orange colored , oval shaped , film - coated tablets debossed with breakline separating ‘ 750 ’ and ‘ MG ’ on one side and ‘ 1016 ’ on other side .
+• 1000 mg levetiracetam tablets are white to off white , oval shaped , film - coated tablets debossed with breakline separating ‘ 1000 ’ and ‘ MG ’ on one side and ‘ 1017 ’ on other side .
+What should I tell my healthcare provider before starting levetiracetam ?
+Before taking levetiracetam , tell your healthcare provider about all of your medical conditions , including if you : • have or have had depression , mood problems or suicidal thoughts or behavior • have kidney problems • are pregnant or planning to become pregnant .
+It is not known if levetiracetam will harm your unborn baby .
+You and your healthcare provider will have to decide if you should take levetiracetam while you are pregnant .
+If you become pregnant while taking levetiracetam , talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry .
+You can enroll in this registry by calling 1 - 888 - 233 - 2334 .
+The purpose of this registry is to collect information about the safety of levetiracetam and other antiepileptic medicine during pregnancy .
+• are breast feeding .
+Levetiracetam can pass into your milk and may harm your baby .
+You and your healthcare provider should discuss whether you should take levetiracetam or breast - feed ; you should not do both .
+Tell your healthcare provider about all the medicines you take , including prescription and nonprescription medicines , vitamins , and herbal supplements .
+Do not start a new medicine without first talking with your healthcare provider .
+Know the medicines you take .
+Keep a list of them to show your healthcare provider and pharmacist each time you get a new medicine .
+How should I take levetiracetam ?
+Take levetiracetam exactly as prescribed .
+• Your healthcare provider will tell you how much levetiracetam to take and when to take it .
+Levetiracetam is usually taken twice a day .
+Take levetiracetam at the same times each day .
+• Your healthcare provider may change your dose .
+Do not change your dose without talking to your healthcare provider .
+• Take levetiracetam with or without food .
+• Swallow the tablets whole .
+Do not chew or crush tablets .
+Ask your healthcare provider for levetiracetam oral solution if you cannot swallow tablets .
+• If your healthcare provider has prescribed levetiracetam oral solution , be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of levetiracetam oral solution .
+Do not use a household teaspoon .
+Ask your pharmacist for instructions on how to use the measuring device the right way .
+• If you miss a dose of levetiracetam , take it as soon as you remember .
+If it is almost time for your next dose , just skip the missed dose .
+Take the next dose at your regular time .
+Do not take two doses at the same time .
+• If you take too much levetiracetam , call your local Poison Control Center or go to the nearest emergency room right away .
+What should I avoid while taking levetiracetam ?
+Do not drive , operate machinery or do other dangerous activities until you know how levetiracetam affects you .
+Levetiracetam may make you dizzy or sleepy .
+What are the possible side effects of levetiracetam ?
+• See " What is the most important information I should know about levetiracetam ? "
+Levetiracetam can cause serious side effects .
+Call your healthcare provider right away if you have any of these symptoms : • mood and behavior changes such as aggression , agitation , anger , anxiety , apathy , mood swings , depression , hostility , and irritability .
+A few people may get psychotic symptoms such as hallucinations ( seeing or hearing things that are really not there ) , delusions ( false or strange thoughts or beliefs ) and unusual behavior .
+• extreme sleepiness , tiredness , and weakness • problems with muscle coordination ( problems walking and moving ) The most common side effects seen in people who take levetiracetam include : • sleepiness • weakness • dizziness • infection The most common side effects seen in children who take levetiracetam include , in addition to those listed above : • accidental injury • irritability • hostility These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection .
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away .
+These are not all the possible side effects of levetiracetam .
+For more information , ask your healthcare provider or pharmacist .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store levetiracetam ?
+• Store levetiracetam at room temperature , 59 ° F to 86 ° F ( 15 ° C to 30 ° C ) away from heat and light .
+• Keep levetiracetam and all medicines out of the reach of children .
+General information about levetiracetam .
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use levetiracetam for a condition for which it was not prescribed .
+Do not give levetiracetam to other people , even if they have the same symptoms that you have .
+It may harm them .
+This Medication Guide summarizes the most important information about levetiracetam .
+If you would like more information , talk with your healthcare provider .
+You can ask your pharmacist or healthcare provider for information about levetiracetam that is written for health professionals . You can also get information about levetiracetam by calling 1 - 269 - 544 - 2299 .
+What are the ingredients of levetiracetam ?
+Levetiracetam tablet active ingredient : levetiracetam , USP Inactive ingredients : colloidal silicon dioxide , corn starch , hypromellose , magnesium stearate , polyethylene glycol 400 , povidone , sodium starch glycolate , talc , titanium dioxide , and additional agents listed below : 250 mg tablets : FD & C Blue # 2 Lake of indigo carmine 500 mg tablets : Ferric oxide yellow 750 mg tablets : Ferric oxide red and FD & C # 6 lake of sunset yellow Levetiracetam does not contain lactose or gluten .
+This Medication Guide has been approved by the US Food and Drug Administration .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Manufactured by : TORRENT PHARMACEUTICALS LTD . , Indrad - 382 721 , Dist .
+Mehsana , INDIA .
+For : TORRENT PHARMA INC . , 5380 Holiday Terrace , Suite 40 , Kalamazoo , Michigan 49009 .
+8026812 Revised January 2011 PACKAGE LABEL - LEVETIRACETAM 250 MG TABLETS [ MULTIMEDIA ] PACKAGE LABEL - LEVETIRACETAM 500 MG TABLETS [ MULTIMEDIA ] PACKAGE LABEL - LEVETIRACETAM 750 MG TABLETS [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

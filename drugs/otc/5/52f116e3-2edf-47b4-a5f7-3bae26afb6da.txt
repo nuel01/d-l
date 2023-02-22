@@ -1,0 +1,121 @@
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] DRAXIMAGE ® MDP - 25 Kit for the Preparation of Technetium Tc 99 m Medronate Injection For Intravenous Use DIAGNOSTIC – FOR SKELETAL IMAGING DESCRIPTION The kit consists of reaction vials which contain the sterile , non - pyrogenic , non - radioactive ingredients necessary to produce Technetium Tc 99 m Medronate Injection for diagnostic use by intravenous injection .
+MDP - 25 reaction vials are intended to be used as multidose vials .
+Each 10 mL MDP - 25 reaction vial contains 25 . 0 mg medronic acid and not less than 2 . 0 mg of stannous chloride dihydrate ( maximum total tin expressed as stannous chloride dihydrate 3 . 0 mg ) and 5 . 0 mg of p - aminobenzoic acid in lyophilized form under an atmosphere of nitrogen .
+The pH is adjusted to 6 . 8 to 6 . 9 with HCI or NaOH prior to lyophilization .
+The addition of sterile , non - pyrogenic , and oxidant - free sodium pertechnetate Tc - 99 m sterile solution produces a rapid labeling which is essentially quantitative and which remains stable in vitro throughout the 12 - hours life of the preparation .
+No bacteriostatic preservative is present .
+The structural formula of medronic acid is : [ MULTIMEDIA ] PHYSICAL CHARACTERISTICS Technetium Tc - 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours . 1 The principal photon that is useful for detection and imaging studies is listed in Table 1 .
+Table 1 Principal Radiation Emission Data Radiation Mean % / Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 EXTERNAL RADIATION The specific gamma ray constant for Tc - 99 m is 0 . 78 R / mCi - hr at 1 cm .
+The first half value layer is 0 . 017 cm of lead .
+To facilitate control of the radiation exposure from millicurie amounts of this radionuclide , the use of a 0 . 25 cm thickness of lead will attenuate the radiation emitted by a factor of about 1000 .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of lead is shown in Table 2 .
+Table 2 Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 08 0 . 16 0 . 25 0 . 33 0 . 5 10 - 1 10 - 2 10 - 3 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected intervals after the time of calibration are shown in Table 3 .
+1 Kocher , David C . : “ Radioactive Decay Data Tables ” , DOE / TIC - 11026 , 108 ( 1981 ) Table 3 Physical Decay Chart : Tc - 99 m , half - life 6 . 02 hours * Calibration time Hours Fraction Remaining Hours Fraction Remaining 0 * 1 2 3 4 5 6 1 . 000 0 . 891 0 . 794 0 . 708 0 . 631 0 . 562 0 . 501 7 8 9 10 11 12 0 . 447 0 . 398 0 . 355 0 . 316 0 . 282 0 . 251 CLINICAL PHARMACOLOGY When injected intravenously , Technetium Tc 99 m Medronate is rapidly cleared from the blood ; about 50 % of the dose is accumulated and retained by the skeleton , while the remaining 50 % is excreted in the urine within 24 hours .
+About 10 % of the injected dose remains in the blood at 1 hour post - injection , 5 % at 2 hours , and less than 1 % remains at 24 hours .
+The resultant blood clearance curve is tri - exponential with the two fastest components accounting for all but a few percent of the injected dose .
+Following intravenous administration of Technetium Tc 99 m Medronate , skeletal uptake occurs as a function of blood flow to bone and bone efficiency in extracting the complex .
+Bone mineral crystals are generally considered to be hydroxyapatite , and the complex appears to have an affinity for the hydroxyapatite crystals in the bone .
+The rapid blood clearance provides bone to soft - tissue ratios which favor early imaging .
+The skeletal uptake is bilaterally symmetrical and is greater in the axial skeleton than in the long bones .
+Areas of abnormal osteogenesis show altered uptake making it possible to visualize a variety of osseous lesions .
+INDICATIONS & USAGE MDP - 25 ( Kit for the Preparation of Technetium Tc 99 m Medronate ) may be used as a bone imaging agent to delineate areas of altered osteogenesis .
+CONTRAINDICATIONS None known at present .
+WARNINGS This class of compounds is known to complex cations such as calcium .
+Particular caution should be used with patients who have , or who may be predisposed to , hypocalcemia ( i . e . , alkalosis ) .
+The contents of the kit before preparation are not radioactive .
+However , after the sodium pertechnetate Tc - 99 m is added , adequate shielding of the final preparation must be maintained .
+Preliminary reports indicate impairment of brain images using Sodium Pertechnetate Tc 99 m Injection which have been preceded by bone imaging using an agent containing stannous ions .
+The impairment may result in false - positive or false - negative brain images .
+It is recommended , where feasible , that brain imaging using Sodium Pertechnetate Tc 99 m Injection precede bone imaging procedures .
+Alternatively , a brain imaging agent such as technetium Tc - 99 m pentetate may be employed .
+PRECAUTIONS Contents of the reaction vial are intended only for use in the preparation of Technetium Tc 99 m Medronate and are NOT to be administered directly to the patient .
+To minimize the radiation dose to the bladder , the patient should be encouraged to increase fluid intake and to void as often as possible after the injection of Technetium Tc 99 m Medronate , and for 4 to 6 hours after the imaging procedure .
+The preparation contains no bacteriostatic preservative .
+Both the powdered and reconstituted forms of MDP - 25 should be stored at 25 ° C ( 77 ° F ) ; excursions permitted between 15 ° and 30 ° C ( 59 ° to 86 ° F ) .
+The reconstituted product should be stored in a suitable lead shield .
+The solution should not be used if it is cloudy .
+Optimal imaging results are obtained 1 to 4 hours after administration .
+The image quality may be adversely affected by obesity , old age and impaired renal function .
+General The components of the kit are sterile and non - pyrogenic .
+It is essential to follow directions carefully and to adhere to strict aseptic procedures during preparation .
+Technetium Tc 99 m Medronate as well as other radioactive drugs must be handled with care .
+Once sodium pertechnetate Tc - 99 m is added to the vial , appropriate safety measures should be used to minimize external radiation to clinical occupational personnel .
+Care should also be taken to minimize radiation exposure to patients in a manner consistent with proper patient management .
+The technetium Tc - 99 m labeling reactions involved depend on maintaining the stannous ion in the reduced state .
+Hence , sodium pertechnetate Tc - 99 m containing oxidants should not be employed .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long term animal studies have been performed to evaluate carcinogenic or mutagenic potential or whether Technetium Tc 99 m Medronate affects fertility in males or females .
+Pregnancy Category C Animal reproduction and teratogenicity studies have not been conducted with Technetium Tc 99 m Medronate .
+It is also not known whether Technetium Tc - 99 m Medronate can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+There have been no studies in pregnant women .
+Technetium Tc - 99 m should be given to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Technetium Tc - 99 m is excreted in human milk during lactation .
+Therefore , formula feedings should be substituted for breast feedings .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+ADVERSE REACTIONS Several cases of allergic dermatological reactions have been reported in association with the use of Technetium Tc 99 m Medronate .
+Several reactions have also been reported in association with other radiopharmaceuticals of the diphosphonate class , particularly Technetium Tc 99 m Medronate .
+These are usually hypersensitivity reactions characterized by itching , various skin rashes , hypotension , chills , nausea , fever , and vomiting .
+One death secondary to cardiac arrhythmia following the administration of Technetium Tc 99 m Medronate has been reported .
+In addition , one case of cardiac arrest in a patient also undergoing pulmonary function testing one and one - half hours after the performance of a bone scan using Technetium Tc 99 m Medronate has been reported .
+DOSAGE AND ADMINISTRATION The recommended adult dose , after reconstitution with oxidant - free sodium pertechnetate Tc - 99 m , is 370 to 740 megabecquerels ( 10 to 20 millicuries [ 200 µCi / kg ] ) by slow intravenous injection over a period of 30 seconds .
+Optimum scanning time is 1 to 4 hours post - injection .
+To minimize the contribution of the bladder content to the image , the patient should void immediately before imaging is started .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration .
+The solution should not be used if cloudy .
+RADIATION DOSIMETRY The estimated absorbed radiation doses to an average patient ( 70 kg ) from an intravenous injection of a maximum dose of 740 megabecquerels ( 20 millicuries ) of Technetium Tc 99 m Medronate are shown in Table 4 .
+The effective half - life was assumed to be the physical half - life for all calculated values .
+Table 4 Radiation Doses2 2 Method of calculation : “ S ” Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs , MIRD Pamphlet No . 11 , 1975 Tissue Absorbed Radiation Dose mGy / 740 MBq rads / 20 mCi Total Body Total Bone Red Marrow Kidneys Liver Bladder Wall 2 hr .
+void 4 . 8 hr .
+void Ovaries 2 hr .
+void 4 . 8 hr .
+void Testes 2 hr .
+void 4 . 8 hr .
+void 1 . 3 7 . 0 5 . 6 8 . 0 0 . 6 26 . 0 62 . 0 2 . 4 3 . 4 1 . 6 2 . 2 0 . 13 0 . 70 0 . 56 0 . 80 0 . 06 2 . 60 6 . 20 0 . 24 0 . 34 0 . 16 0 . 22 HOW SUPPLIED MDP - 25 , Kit for the Preparation of Technetium Tc 99 m Medronate Injection Product No . 500661 ( 30 vials ) Available in boxes consisting of 30 reaction vials , each vial containing in lyophilized form , sterile and non - pyrogenic : Medronic Acid 25 . 0 mg Stannous Chloride Dihydrate ( minimum ) 2 . 0 mg ( Maximum tin as stannous chloride dihydrate ) 3 . 0 mg p - Aminobenzoic Acid 5 . 0 mg The pH is adjusted to 6 . 8 to 6 . 9 with HCI or NaOH prior to lyophilization .
+The vials are sealed under an atmosphere of nitrogen .
+Radioassay information labels with radiation warning symbol and a package insert are supplied in each box .
+STORAGE Store the unreconstituted reaction vials at 25ºC ( 77ºF ) ; excursions permitted between 15 ° and 30ºC ( 59 ° to 86ºF ) .
+After labeling with Technetium Tc - 99 m , the reconstituted product should be stored at 25ºC ( 77ºF ) in the original vial , and be placed in a suitable lead shield .
+Excursions permitted between 15 ° and 30ºC ( 59 ° to 86ºF ) .
+Discard the reconstituted solution after 12 hours .
+DIRECTIONS NOTE : Use aseptic procedures throughout and take precautions to minimize radiation exposure by use of suitable shielding .
+Use waterproof gloves during the following preparation procedure .
+MDP - 25 reaction vials are intended for the preparation of multiple doses of Technetium Tc 99 Medronate and the entire contents of the vial should not be used as a single dose .
+Before reconstituting a vial , it should be inspected for cracks and / or a melted plug or any other indication that the integrity of the vacuum seal has been compromised .
+To prepare Technetium Tc 99 m Medronate : • Remove the central metal disc from a reaction vial and swab the closure with either an alcohol swab or a suitable bacteriostatic agent .
+• Place the reaction vial in a suitable lead vial shield ( minimum wall thickness 1 / 8 inch ) which has a fitted lead cap .
+Obtain 2 to 10 mL of sterile , non - pyrogenic sodium pertechnetate Tc - 99 m , using a shielded syringe .
+The recommended maximum amount of Technetium Tc - 99 m to be added to a reaction vial is 37 . 0 gigabecquerels ( 1000 mCi ) .
+Sufficient sodium pertechnetate is to be used for the reconstitution of a reaction vial to ensure that the dose of medronate administered does not exceed 10 mg .
+Sodium pertechnetate Tc - 99 m solutions containing an oxidizing agent are not suitable for use .
+• Using a shielded syringe , add the sodium pertechnetate Tc - 99 m solution to the reaction vial aseptically .
+• Place the lead cap on the reaction vial shield and agitate the shielded reaction vial until the contents are completely dissolved .
+The solution must be clear and free of particulate matter before proceeding .
+• Assay the product in a suitable calibrator , record the radioassay information on the label with radiation warning symbol , and apply it to the reaction vial .
+• Withdrawals for administration must be made aseptically using a shielded sterile syringe and needle .
+Since the reaction vials contain nitrogen to prevent oxidation of the complex , they should not be vented .
+If repeated withdrawals are made , minimize the replacement of contents with room air .
+The following steps should be followed to ensure that each reconstituted of Technetium Tc 99 m Medronate contains between 1 and 10 mg of medronic acid .
+Where : Vr = Final volume of in the vial in mL after reconstitution .
+C = Concentration of Medronic Acid in mg / mL .
+Max .
+V = Maximum volume to be used for one dose in mL .
+Min .
+V = Minimum volume to be used for one dose in mL .
+• Prior to reconstitution , determine the radioactive concentration of the sodium pertechnetate Tc - 99 m .
+• Note the volume and activity added to the vial .
+It should be between 1 . 85 – 37 . 0 GBq ( 50 – 1000 mCi ) in 1 to 10 mL .
+• Calculate the concentration ( C ) of Medronic acid in the vial after reconstitution .
+C ( mg / mL ) = 25 mg ÷ Vr ( mL ) • To ensure that the dose contains a maximum of 10 mg , the following formula should be used to calculate the maximum volume ( Max .
+V ) to be dispensed as one dose .
+Max .
+V ( mL ) = 10 mg ÷ C ( mg / mL ) • To ensure that a minimum dose of 1 mg is dispensed , the following formula should be used to calculate the minimum volume ( Min .
+V ) to be dispensed as one dose Min .
+V = 1 mg ÷ C ( mg / mL ) 7 .
+The finished preparation should be stored at 25ºC ( 77ºF ) ; excursions permitted between 15 ° and 30ºC ( 59 ° to 86ºF ) when not in use and discarded after 12 hours .
+It should also be stored during its life in a suitable lead shield .
+This reagent kit is approved by the U . S . Nuclear Regulatory Commission for distribution to persons licensed to use by - product material identified in § 35 . 200 to 10 CFR Part 35 , to persons who have a similar authorization issued by an Agreement State , and , outside the United States , to persons authorized by the appropriate authority .
+Manufactured by : Jubilant DraxImage Inc .
+Kirkland Quebec , H9H 4J4 Canada .
+Revised : October 2011 PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

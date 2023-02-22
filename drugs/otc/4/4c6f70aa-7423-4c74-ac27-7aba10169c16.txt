@@ -1,0 +1,142 @@
+DESCRIPTION Ultratag ™ RBC ( kit for the preparation of technetium Tc 99 m - labeled red blood cells ) is a sterile , nonpyrogenic , diagnostic kit for the in vitro preparation of technetium Tc 99 m - labeled red blood cells .
+Each kit consists of three separate nonradioactive components : • A 10 milliliter reaction vial containing : Stannous Chloride , Dihydrate ( SnCl2 • 2H2O ) – 50 ug minimum Stannous Chloride , Dihydrate ( SnCl2 • 2H2O ) – 96 ug theoretical Tin Chloride ( Stannous and Stannic ) , Dihydrate ( as SnCl2 • 2H2O ) – 105 ug maximum Sodium Citrate , Dihydrate – 3 . 67 mg Dextrose , Anhydrous – 5 . 50 mg Prior to lyophilization , the pH is adjusted to 7 . 1 to 7 . 2 with sodium hydroxide .
+The contents of the vial are lyophilized and stored under argon .
+• Syringe I contains : Sodium Hypochlorite – 0 . 6 mg in Sterile Water for InjectionThe total volume of this syringe is 0 . 6 mL .
+Sodium hydroxide may have been added for pH adjustment .
+The pH of this solution is 11 to 13 .
+The syringe must be protected from light to prevent degradation of the light - sensitive sodium hypochlorite .
+• Syringe II contains : Citric Acid , Monohydrate – 8 . 7 mg Sodium Citrate , Dihydrate – 32 . 5 mg Dextrose , Anhydrous – 12 . 0 mg in Sterile Water for Injection The total volume of this syringe is 1 . 0 mL .
+The pH range of this solution is adjusted to 4 . 5 to 5 . 5 with sodium citrate or citric acid .
+PHYSICAL CHARACTERISTICS Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours . 1 The principal photon that is useful for detection and imaging is listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data [ 1 ] Radiation Mean % / Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 [ 1 ] Kocher , David C . , “ Radioactive Decay Tables , ” DOE / TIC 11026 , 108 ( 1981 ) .
+The specific gamma ray constant for technetium Tc 99 m is 0 . 78 R / mCi - hr at 1 cm .
+The first half - value thickness of lead ( Pb ) for technetium Tc 99 m is 0 . 017 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide resulting from the interposition of various thicknesses of lead ( Pb ) is presented in Table 2 .
+For example , the use of 0 . 25 cm of lead will decrease the external radiation exposure by a factor of about 1000 .
+Table 2 .
+Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected intervals after the time of calibration are presented in Table 3 .
+Table 3 .
+Physical Decay Chart : Technetium Tc 99 m , Half - Life : 6 . 02 Hours * Calibration Time Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 CLINICAL PHARMACOLOGY In vitro Tc 99 m red blood cell labeling is accomplished by adding 1 . 0 to 3 . 0 milliliters of autologous whole blood , anticoagulated with heparin or Anticoagulant Citrate Dextrose Solution ( ACD ) , to the reaction vial .
+A portion of the stannous ion in the reaction vial diffuses across the red blood cell membrane and accumulates intracellularly .
+The in vitro Tc 99 m red blood cell labeling efficiency can decrease in the presence of excess ACD .
+Excess ACD apparently impairs the diffusion of stannous ion across the red blood cell membrane .
+Therefore , the ACD concentration used for blood collection should not exceed 0 . 15 mL ACD per mL of blood .
+Sodium hypochlorite is then added to the reaction vial to oxidize the extracellular stannous ion .
+Since the hypochlorite does not cross the red blood cell membrane , the oxidation of stannous ion is selective for the extracellular tin .
+A citric acid , sodium citrate and dextrose solution is then added to the reaction vial to sequester any residual extracellular stannous ion , rendering it more readily available for oxidation by sodium hypochlorite .
+Radioactive labeling of the red blood cells is completed by addition of sodium pertechnetate Tc 99 m to the oxidized reaction vial .
+The pertechnetate Tc 99 m diffuses across the red blood cell membrane and is reduced by the intracellular stannous ion .
+The reduced technetium Tc 99 m cannot diffuse out of the red blood cell .
+The red blood cell labeling is essentially complete within 20 minutes of sodium pertechnetate Tc 99 m addition to the reaction vial .
+Red blood cell labeling efficiency of ≥ 95 % is typically obtained using this in vitro labeling procedure .
+In vitro Tc 99 m red blood cell labeling efficiency can decrease when excessive amounts of Tc 99 are allowed to accumulate in the sodium pertechnetate Tc 99 m generator eluate ; in this situation , efficiency decreases even further if excess ( i . e . > 0 . 15 mL per mL of blood ) ACD buffer is used .
+Therefore , long Tc 99 in - growth times are to be avoided ; the use of fresh ( ≤ 24 hour in - growth time ) sodium pertechnetate Tc 99 m generator eluate is recommended .
+After the labeling procedure is completed , the technetium Tc 99 m - labeled red blood cells are then reinjected intravenously into the patient for gamma scintigraphic imaging .
+Following intravenous injection , the technetium Tc 99 m - labeled red blood cells distribute within the blood pool with an estimated volume of distribution of approximately 5 . 6 % of bodyweight .
+The technetium Tc 99 m is well retained in the blood pool with an estimated biological half - life of approximately 29 hours .
+Of the total technetium Tc 99 m retained in the whole blood pool 24 hours after administration , 95 % remains bound to the red blood cells .
+Approximately 25 % of the injected dose is excreted in the urine in the first 24 hours .
+INDICATIONS AND USAGE Technetium Tc 99 m - labeled red blood cells are used for blood pool imaging , including cardiac first pass and gated equilibrium imaging and for detection of sites of gastrointestinal bleeding .
+CONTRAINDICATIONS None known .
+WARNINGS None known .
+PRECAUTIONS General The components of the kit are sterile and nonpyrogenic .
+It is essential that the user follow the directions carefully and adhere to strict aseptic procedures during preparation .
+The contents of the kit are intended only for use in the preparation of technetium Tc 99 m - labeled red blood cells and are NOT to be administered directly to the patient .
+The contents of this kit are not radioactive .
+After sodium pertechnetate Tc 99 m is added , however , adequate shielding of the final preparation must be maintained .
+Technetium Tc 99 m - labeled red blood cells must be handled with care to ensure minimum radiation exposure to the patient , consistent with proper patient management , and to ensure minimum radiation exposure to occupational workers .
+The labeled red blood cells must be reinjected only into the patient from whom the blood was drawn .
+Nuclear medicine procedures involving withdrawal and reinjection of blood have the potential for transmission of blood borne pathogens .
+Procedures should be implemented to avoid administration errors and viral contamination of personnel during blood product labeling .
+A system of checks similar to the ones used for administering blood transfusions should be routine .
+Clinical trials were conducted with a variety of prescription and nonprescription medications and showed no significant effect on the in vitro labeling efficiency of Ultratag ™ RBC .
+Unlike stannous pyrophosphate red blood cell kits , heparinized patients ( 11 ) showed minimal interference with Ultratag ™ RBC labeling efficiency ( 95 % with heparin , 97 % without heparin ) .
+It is recommended that the labeled red blood cells be administered within 30 minutes of preparation or as soon as possible thereafter .
+A small study showed that technetium Tc 99 m - labeled red blood cells prepared with Ultratag ™ RBC have equivalent in vivo labeling efficiency when administered both immediately after preparation ( 5 patients studied ) and at 6 hours after preparation ( 6 patients studied ) with a 24 - hour labeling efficiency averaging 97 % for both groups .
+Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long term animal studies have been performed to evaluate carcinogenic or mutagenic potential or to determine the effects on male or female fertility .
+Pregnancy Category C Animal reproduction studies have not been conducted with technetium Tc 99 m - labeled red blood cells .
+It is also not known whether this drug can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+Technetium 99 m - labeled red blood cells should be administered to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , of a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing Mothers Technetium Tc 99 m is excreted in human milk during lactation .
+Therefore , formula feedings should be substituted for breast feeding .
+Pediatric Use Safety and efficacy in pediatric patients have not been established .
+ADVERSE REACTIONS None known .
+DOSAGE AND ADMINISTRATION The Instructions for Preparation must be carefully followed for preparing technetium Tc 99 m - labeled red blood cells using Ultratag ™ RBC .
+The suggested dose range of technetium Tc 99 m - labeled red blood cells in the average patient ( 70 kg ) is 370 MBq ( 10 mCi ) to 740 MBq ( 20 mCi ) .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Aseptic procedures and a shielded syringe should be employed in preparing and withdrawing doses for administration to patients .
+The user should wear waterproof gloves during the administration procedure .
+RADIATION DOSIMETRY The estimated radiation doses to an average adult ( 70 Kg ) from an intravenous injection of a maximum dose of 740 MBq ( 20 mCi ) of technetium Tc 99 m - labeled red blood cells are shown in Table 4 .
+These radiation absorbed dose values were calculated using the Medical Internal Radiation Dose ( MIRD ) Committee Schema .
+Table 4 .
+Absorbed Radiation Dose Estimates2 For Ultratag ™ RBC Technetium Tc 99 m Labeled Red Blood Cells ** Assumes non - resting state and biological half - life for all organs and whole body of 63 . 7 hours .
+The peak percent dose for heart chambers is 15 . 5 % , for liver is 5 . 57 % , spleen is 4 . 07 % and for remainder of body is 74 . 8 % .
+Assumes patient voids at 2 . 0 hour intervals .
+2 Dose estimates based on Phase I human biodistribution data generated at Brookhaven National Laboratories .
+Dose estimates were calculated at Oak Ridge Associated Universities , Oak Ridge , Tennessee .
+Organ mGy / 740 MBq rads / 20 mCi Total Body 3 . 0 0 . 30 Spleen 22 2 . 2 Bladder Wall 4 . 8 0 . 48 Testes 2 . 2 0 . 22 Ovaries 3 . 2 0 . 32 Blood 8 . 0 0 . 80 Red Marrow 3 . 0 0 . 30 Heart Wall 20 2 . 0 Liver 5 . 8 0 . 58 Bone Surfaces 4 . 8 0 . 48 HOW SUPPLIED Catalog Number 068 .
+Ultratag ™ RBC consists of three separate nonradioactive components : • A 10 milliliter reaction vial containing : Stannous Chloride , Dihydrate ( SnCl2 • 2H2O ) – 50 ug minimum Stannous Chloride , Dihydrate ( SnCl2 • 2H2O ) – 96 ug theoretical Tin Chloride ( Stannous and Stannic ) , Dihydrate ( as SnCl2 • 2H2O ) – 105 ug maximum Sodium Citrate , Dihydrate – 3 . 67 mg Dextrose , Anhydrous – 5 . 50 mg Prior to lyophilization , the pH is adjusted to 7 . 1 to 7 . 2 with sodium hydroxide .
+The contents of the vial are lyophilized and stored under argon .
+• Syringe I contains : Sodium Hypochlorite – 0 . 6 mg in Sterile Water for Injection The total volume of this syringe is 0 . 6 mL .
+Sodium hydroxide may have been added for pH adjustment .
+The pH of this solution is 11 to 13 .
+The syringe must be protected from light to prevent degradation of the light - sensitive sodium hypochlorite .
+• Syringe II contains : Citric Acid , Monohydrate – 8 . 7 mg Sodium Citrate , Dihydrate – 32 . 5 mg Dextrose , Anhydrous – 12 . 0 mg in Sterile Water for Injection The total volume of this syringe is 1 . 0 mL .
+The pH range of this solution is adjusted to 4 . 5 to 5 . 5 with sodium citrate or citric acid .
+Storage The kit should be stored at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+Syringe I should be protected from light if not stored in the kit tray .
+Instructions for the Preparation of Technetium Tc 99 m - Labeled Red Blood Cells Using Ultratag ™ RBC • Collect patient ' s blood sample ( 1 . 0 to 3 . 0 mL ) using heparin or ACD as an anticoagulant .
+The amount of ACD should not exceed 0 . 15 mL of ACD per mL of blood .
+The recommended amount of heparin is 10 - 15 units per mL of blood .
+DO NOT USE EDTA OR OXALATE AS AN ANTICOAGULANT .
+• Using a large - bore ( 19 to 21 gauge ) needle , transfer 1 . 0 to 3 . 0 mL of anticoagulated whole blood to the reaction vial and gently mix to dissolve the lyophilized material .
+Allow to react for five minutes .
+• Add contents of Syringe I , mix by gently inverting four to five times .
+• Add the contents of Syringe II to the reaction vial .
+Mix by gently inverting four to five times .
+• Place the vial in a lead shield fitted with a lead cap and having a minimum wall thickness of 1 / 8 inch .
+Add 370 to 3700 MBq ( 10 to 100 mCi ) sodium pertechnetate Tc 99 m ( in a volume of up to 3 mL ) to the reaction vial .
+The avoidance of long technetium Tc 99 in - growth times and the use of fresh sodium pertechnetate Tc 99 m generator eluate is recommended .
+• Mix by gently inverting reaction vial four to five times .
+Allow to react for 20 minutes with occasional mixing .
+• Technetium Tc 99 m - labeled red blood cells should be injected within 30 minutes of preparation or as soon as possible thereafter .
+• If desired , assay labeling efficiency immediately prior to injection .
+Typical labeling efficiency is greater than 95 % .
+• Mix gently prior to withdrawal of patient dose .
+Aseptically transfer the technetium Tc 99 m - labeled red blood cells to a syringe for administration to the patient .
+Use largest bore needle compatible with patient administration to prevent hemolysis .
+• Assay the Tc 99 m - labeled red blood cell patient dose in a suitable calibrator and complete the radioassay information label .
+Affix the radioassay information label to the shield .
+NOTES • The kit does not contain an anticoagulant .
+Therefore , a syringe or vacutainer ™ tube treated with ACD or heparin must be used for drawing the patient ' s blood .
+The amount of ACD should not exceed 0 . 15 mL of ACD per mL of blood .
+The recommended amount of heparin is 10 - 15 units per mL of blood .
+Improperly anticoagulated blood will be unsuitable for reinjection .
+• If desired , the labeling yield determination can be carried out as follows : Transfer 0 . 2 mL of the technetium Tc99m labeled red blood cells to a centrifuge tube containing 2 mL of 0 . 9 % NaCl .
+Centrifuge for five minutes and carefully pipet off the diluted plasma .
+Measure the radioactivity in the plasma and red blood cells separately in a suitable counter .
+Calculate labeling efficiency as follows : Activity RBC % RBC Labeling = Activity RBC + Activity Plasma X 100 This reagent kit is approved for distribution to persons licensed by the U . S . Nuclear Regulatory Commission to use byproduct material identified in Section 10 CFR 35 . 200 or under an equivalent license of an Agreement state .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA A068I0 R12 / 2018 CURIUM ™ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL Ultratag ™ RBC Kit for the Preparation of Technetium Tc 99 m Labeled Red Blood Cells Sterile , non - pyrogenic .
+For intravenous use after drug preparation .
+See package insert for directions for use .
+Do not use sodium pertechnetate Tc 99 m solutions containing an oxidizing agent .
+Store at controlled room temperature 20º - 25 ° C ( 68º - 77 ° F ) .
+Protect from light .
+Rx only EACH KIT CONTAINS : 1 10 mL reaction vial containing stannous chloride , dihydrate ( SnCl2 • 2H2O ) 50 µg , minimum , stannous chloride , dihydrate ( SnCl2 • 2H2O ) 96 µg , theoretical , tin chloride ( stannous , stannic ) dihydrate , as stannous chloride , maximum dihydrate 105 µg , 3 . 67 mg sodium citrate dihydrate and 5 . 50 mg anhydrous dextrose .
+The pH is adjusted to 7 . 1 to 7 . 2 with NaOH prior to lyophilization .
+1 Syringe I Each 0 . 6 mL contains 0 . 6 mg sodium hypochlorite ( NaOCl ) .
+NaOH may have been added for pH adjustment .
+The pH range of this solution is 11 to 13 .
+Total volume : 0 . 6 mL .
+Protect from light .
+1 Syringe II Each milliliter contains 8 . 7 mg citric acid monohydrate , 32 . 5 mg sodium citrate dihydrate and 12 . 0 mg anhydrous dextrose .
+The pH is adjusted to 4 . 5 to 5 . 5 with sodium citrate or citric acid .
+Total volume : 1 . 0 mL .
+2 Plastic Syringe Plunger Rods 2 Disposable Hypodermic Needles 1 Package Insert 1 Radioassay Information Label Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUM ™ A068K0 R12 / 2018 [ MULTIMEDIA ] [ MULTIMEDIA ]

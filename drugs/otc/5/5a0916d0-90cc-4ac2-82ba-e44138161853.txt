@@ -1,0 +1,153 @@
+WARNING Mitomycin should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents .
+Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available .
+Bone marrow suppression , notably thrombocytopenia and leukopenia , which may contribute to overwhelming infections in an already compromised patient , is the most common and severe of the toxic effects of mitomycin ( see WARNINGS and ADVERSE REACTIONS sections ) .
+Hemolytic Uremic Syndrome ( HUS ) a serious complication of chemotherapy , consisting primarily of microangiopathic hemolytic anemia , thrombocytopenia , and irreversible renal failure has been reported in patients receiving systemic mitomycin .
+The syndrome may occur at any time during systemic therapy with mitomycin as a single agent or in combination with other cytotoxic drugs , however , most cases occur at doses ≥ 60 mg of mitomycin .
+Blood product transfusion may exacerbate the symptoms associated with this syndrome .
+The incidence of the syndrome has not been defined .
+DESCRIPTION Mitomycin ( also known as mitomycin and / or mitomycin - C ) is an antibiotic isolated from the broth of Streptomyces caespitosus which has been shown to have antitumor activity .
+The compound is heat stable , has a high melting point , and is freely soluble in organic solvents .
+Mitomycin for Injection , USP is a sterile dry mixture of mitomycin and mannitol , which when reconstituted with Sterile Water for Injection provides a solution for intravenous administration .
+Each Single - Dose vial contains mitomycin 40 mg and mannitol 80 mg .
+Each mL of reconstituted solution will contain 0 . 5 mg mitomycin and have a pH between 6 . 0 and 8 . 0 .
+Mitomycin is a blue - violet crystalline powder with the molecular formula of C15H18N4O5 , and a molecular weight of 334 . 33 .
+Its chemical name is 7 - amino - 9α - methoxymitosane and it has the following structural formula ; [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid ( DNA ) .
+The guanine and cytosine content correlates with the degree of mitomycin - induced cross - linking .
+At high concentrations of the drug , cellular RNA and protein synthesis are also suppressed .
+In humans , mitomycin is rapidly cleared from the serum after intravenous administration .
+Time required to reduce the serum concentration by 50 % after a 30 mg bolus injection is 17 minutes .
+After injection of 30 mg , 20 mg , or 10 mg I . V . , the maximal serum concentrations were 2 . 4 mcg / mL , 1 . 7 mcg / mL , and 0 . 52 mcg / mL , respectively .
+Clearance is effected primarily by metabolism in the liver , but metabolism occurs in other tissues as well .
+The rate of clearance is inversely proportional to the maximal serum concentration because , it is thought , of saturation of the degradative pathways .
+Approximately 10 % of a dose of mitomycin is excreted unchanged in the urine .
+Since metabolic pathways are saturated at relatively low doses , the percent of a dose excreted in urine increases with increasing dose .
+In children , excretion of intravenously administered mitomycin is similar .
+Animal Toxicology Mitomycin has been found to be carcinogenic in rats and mice .
+At doses approximating the recommended clinical dose in man , it produces a greater than 100 percent increase in tumor incidence in male Sprague - Dawley rats , and a greater than 50 percent increase in tumor incidence in female Swiss mice .
+INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single - agent , primary therapy .
+It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed .
+Mitomycin is not recommended to replace appropriate surgery and / or radiotherapy .
+CONTRAINDICATIONS Mitomycin is contraindicated in patients who have demonstrated a hypersensitive or idiosyncratic reaction to it in the past .
+Mitomycin is contraindicated in patients with thrombocytopenia , coagulation disorder , or an increase in bleeding tendency due to other causes .
+WARNINGS Patients being treated with mitomycin must be observed carefully and frequently during and after therapy .
+The use of mitomycin results in a high incidence of bone marrow suppression , particularly thrombocytopenia and leukopenia .
+Therefore , the following studies should be obtained repeatedly during therapy and for at least eight weeks following therapy : platelet count , white blood cell count , differential , and hemoglobin .
+The occurrence of a platelet count below 100 , 000 / mm3 or a WBC below 4 , 000 / mm3 or a progressive decline in either is an indication to withhold further therapy until blood counts have recovered above these levels .
+Patients should be advised of the potential toxicity of this drug , particularly bone marrow suppression .
+Deaths have been reported due to septicemia as a result of leukopenia due to the drug .
+Patients receiving mitomycin should be observed for evidence of renal toxicity .
+Mitomycin should not be given to patients with a serum creatinine greater than 1 . 7 mg percent .
+Usage in Pregnancy Safe use of mitomycin in pregnant women has not been established .
+Teratological changes have been noted in animal studies .
+The effect of mitomycin on fertility is unknown .
+PRECAUTIONS Acute shortness of breath and severe bronchospasm have been reported following the administration of vinca alkaloids in patients who had previously or simultaneously received mitomycin .
+The onset of this acute respiratory distress occurred within minutes to hours after the vinca alkaloid injection .
+The total number of doses for each drug has varied considerably .
+Bronchodilators , steroids and / or oxygen have produced symptomatic relief .
+A few cases of adult respiratory distress syndrome have been reported in patients receiving mitomycin in combination with other chemotherapy and maintained at FIO2 concentrations greater than 50 % perioperatively .
+Therefore , caution should be exercised using only enough oxygen to provide adequate arterial saturation since oxygen itself is toxic to the lungs .
+Careful attention should be paid to fluid balance and overhydration should be avoided .
+Bladder fibrosis / contraction has been reported with intravesical administration ( not an approved route of administration ) , which in rare cases has required cystectomy .
+Nursing Mothers It is not known if mitomycin is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from mitomycin , it is recommended that nursing be discontinued when receiving mitomycin therapy .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Insufficient data from clinical studies of mitomycin are available for patients 65 years of age and older to determine whether they respond differently than younger patients .
+Postmarketing surveillance suggests that elderly patients may be more susceptible than younger patients to injection site reactions ( see ADVERSE REACTIONS : Integument and Mucous Membrane Toxicity ) and hypersensitivity reactions .
+In general , caution should be exercised when prescribing to elderly patients , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Bone Marrow Toxicity This was the most common and most serious toxicity , occurring in 605 of 937 patients ( 64 . 4 % ) .
+Thrombocytopenia and / or leukopenia may occur anytime within 8 weeks after onset of therapy with an average time of 4 weeks .
+Recovery after cessation of therapy was within 10 weeks .
+About 25 % of the leukopenic or thrombocytopenic episodes did not recover .
+Mitomycin produces cumulative myelosuppression .
+Integument and Mucous Membrane Toxicity This has occurred in approximately 4 % of patients treated with mitomycin .
+Cellulitis at the injection site has been reported and is occasionally severe .
+Stomatitis and alopecia also occur frequently .
+Rashes are rarely reported .
+The most important dermatological problem with this drug , however , is the necrosis and consequent sloughing of tissue which results if the drug is extravasated during injection .
+Extravasation may occur with or without an accompanying stinging or burning sensation and even if there is adequate blood return when the injection needle is aspirated .
+There have been reports of delayed erythema and / or ulceration occurring either at or distant from the injection site , weeks to months after mitomycin , even when no obvious evidence of extravasation was observed during administration .
+Skin grafting has been required in some of the cases .
+Elderly patients may be more susceptible than younger patients to injection site reactions ( see PRECAUTIONS : Geriatric Use ) .
+Renal Toxicity 2 % of 1 , 281 patients demonstrated a statistically significant rise in creatinine .
+There appeared to be no correlation between total dose administered or duration of therapy and the degree of renal impairment .
+Pulmonary Toxicity This has occurred infrequently but can be severe and may be life - threatening .
+Dyspnea with a nonproductive cough and radiographic evidence of pulmonary infiltrates may be indicative of mitomycin - induced pulmonary toxicity .
+If other etiologies are eliminated , mitomycin therapy should be discontinued .
+Steroids have been employed as treatment of this toxicity , but the therapeutic value has not been determined .
+A few cases of adult respiratory distress syndrome have been reported in patients receiving mitomycin in combination with other chemotherapy and maintained at FIO2 concentrations greater than 50 % perioperatively .
+Hemolytic Uremic Syndrome ( HUS ) This serious complication of chemotherapy , consisting primarily of microangiopathic hemolytic anemia ( hematocrit ≤ 25 % ) , thrombocytopenia ( ≤ 100 , 000 / mm3 ) , and irreversible renal failure ( serum creatinine ≥ 1 . 6 mg / dL ) has been reported in patients receiving systemic mitomycin .
+Microangiopathic hemolysis with fragmented red blood cells on peripheral blood smears has occurred in 98 % of patients with the syndrome .
+Other less frequent complications of the syndrome may include pulmonary edema ( 65 % ) , neurologic abnormalities ( 16 % ) , and hypertension .
+Exacerbation of the symptoms associated with HUS has been reported in some patients receiving blood product transfusions .
+A high mortality rate ( 52 % ) has been associated with this syndrome .
+The syndrome may occur at any time during systemic therapy with mitomycin as a single agent or in combination with other cytotoxic drugs .
+Less frequently , HUS has also been reported in patients receiving combinations of cytotoxic drugs not including mitomycin .
+Of 83 patients studied , 72 developed the syndrome at total doses exceeding 60 mg of mitomycin .
+Consequently , patients receiving ≥ 60 mg of mitomycin should be monitored closely for unexplained anemia with fragmented cells on peripheral blood smear , thrombocytopenia , and decreased renal function .
+The incidence of the syndrome has not been defined .
+Therapy for the syndrome is investigational .
+Cardiac Toxicity Congestive heart failure , often treated effectively with diuretics and cardiac glycosides , has rarely been reported .
+Almost all patients who experienced this side effect had received prior doxorubicin therapy .
+Acute Side Effects Due to Mitomycin were fever , anorexia , nausea , and vomiting .
+They occurred in about 14 % of 1 , 281 patients .
+Other Headache , blurring of vision , confusion , drowsiness , syncope , fatigue , edema , thrombophlebitis , hematemesis , diarrhea , and pain .
+These did not appear to be dose related and were not unequivocally drug related .
+They may have been due to the primary or metastatic disease processes .
+Malaise and asthenia have been reported as part of postmarketing surveillance .
+Bladder fibrosis / contraction has been reported with intravesical administration ( see PRECAUTIONS ) .
+DOSAGE AND ADMINISTRATION Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+Mitomycin should be given intravenously only , using care to avoid extravasation of the compound .
+If extravasation occurs , cellulitis , ulceration , and slough may result .
+Each Single - Dose vial contains mitomycin 40 mg and mannitol 80 mg .
+To administer , add Sterile Water for Injection , 80 mL .
+Shake to dissolve .
+If product does not dissolve immediately , allow to stand at room temperature until solution is obtained .
+After full hematological recovery ( see guide to dosage adjustment ) from any previous chemotherapy , the following dosage schedule may be used at 6 to 8 week intervals : 20 mg / m2 intravenously as a single dose via a functioning intravenous catheter .
+Because of cumulative myelosuppression , patients should be fully reevaluated after each course of mitomycin , and the dose reduced if the patient has experienced any toxicities .
+Doses greater than 20 mg / m2 have not been shown to be more effective , and are more toxic than lower doses .
+The following schedule is suggested as a guide to dosage adjustment : Nadir After Prior Dose Leukocytes / mm3 Platelets / mm3 Percentage of Prior Dose to be given > 4000 > 100 , 000 100 % 3000 - 3999 75 , 000 - 99 , 999 100 % 2000 - 2999 25 , 000 - 74 , 999 70 % < 2000 < 25 , 000 50 % No repeat dosage should be given until leukocyte count has returned to 4000 / mm3 and a platelet count to 100 , 000 / mm3 .
+When mitomycin is used in combination with other myelosuppressive agents , the doses should be adjusted accordingly .
+If the disease continues to progress after two courses of mitomycin , the drug should be stopped since chances of response are minimal .
+STABILITY • Unreconstituted mitomycin stored at room temperature is stable for the lot life indicated on the package .
+Avoid excessive heat ( over 40 ° C , 104 ° F ) .
+• Reconstituted with Sterile Water for Injection to a concentration of 0 . 5 mg per mL , mitomycin is stable for 14 days refrigerated or 7 days at room temperature .
+• Diluted in various I . V . fluids at room temperature , to a concentration of 20 to 40 micrograms per mL : I . V . Fluid Stability 0 . 9 % Sodium Chloride Injection 12 hours Sodium Lactate Injection 24 hours • The combination of mitomycin ( 5 mg to 15 mg ) and heparin ( 1 , 000 units to 10 , 000 units ) in 30 mL of 0 . 9 % Sodium Chloride Injection is stable for 48 hours at room temperature .
+Procedures for proper handling and disposal of anticancer drugs should be considered .
+Several guidelines on this subject have been published . 1 - 8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate .
+HOW SUPPLIED Mitomycin for Injection , USP NDC 68083 - 502 - 01 - Each Single - Dose amber vial contains 40 mg mitomycin , individually packed in single carton .
+Storage : Store dry powder at 25 ° C , excursion permitted between 15 ° C and 30 ° C , protected from light .
+Avoid excessive heat , over 40 ° C ( 104 ° F ) .
+Protect reconstituted solution from light .
+Store solution under refrigeration 2 ° to 8 ° C ( 36 ° to 46 ° F ) , discard after 14 days .
+If unrefrigerated , discard after 7 days .
+REFERENCES • ONS Clinical Practice Committee .
+Cancer Chemotherapy Guidelines and Recommendations for Practice Pittsburgh , PA : Oncology Nursing Society ; 1999 : 32 - 41 .
+• Recommendations for the safe handling of parenteral antineoplastic drugs .
+Washington , DC : Division of Safety , National Institutes of Health ; 1983 .
+US Dept of Health and Human Services , Public Health Service publication NIH 83 - 2621 .
+• AMA Council on Scientific Affairs .
+Guidelines for handling parenteral antineoplastics .
+JAMA .
+1985 ; 253 : 1590 - 1591 .
+• National Study Commission on Cytotoxic Exposure .
+– Recommendations for handling cytotoxic agents .
+1987 .
+Available from Louis P . Jeffrey , Chairman , National Study Commission on Cytotoxic Exposure .
+Massachusetts College of Pharmacy and Allied Health Sciences , 179 Longwood Avenue , Boston , MA 02115 .
+• Clinical Oncological Society of Australia .
+Guidelines and recommendations for safe handling of antineoplastic agents .
+Med J Australia .
+1983 ; 1 : 426 - 428 .
+• Jones RB , Frank R , Mass T . Safe handling of chemotherapeutic agents : a report from the Mount Sinai Medical Center .
+CA - A Cancer J for Clin .
+1983 ; 33 : 258 - 263 .
+• American Society of Hospital Pharmacists .
+ASHP technical assistance bulletin on handling cytotoxic and hazardous drugs .
+Am J Hosp Pharm .
+1990 ; 47 : 1033 - 1049 .
+• Controlling Occupational Exposure to Hazardous Drugs .
+( OSHA Work - Practice Guidelines . )
+.
+Am J Health SystPharm .
+1996 ; 53 : 1669 - 1685 .
+Manufactured by : Gland Pharma Limited Visakhapatnam - 530049 , Andhra Pradesh , INDIA Code No . : AP / DRUGS / 03 / 2011 Revised : March 2022 PACKAGE LABEL . PRINCIPAL DISPLAY PANEL Carton Label : NDC 68083 - 502 - 01 Mitomycin for Injection , USP 40 mg / vial WARNING : MUST BE ADMINISTERED INTRAVENOUSLY TO AVOID TISSUE DAMAGE Caution : Cytotoxic Agent 1 Single - Dose Vial Rx only [ MULTIMEDIA ] Vial Label : NDC 68083 - 502 - 01 Mitomycin for Injection , USP 40 mg / vial WARNING : MUST BE ADMINISTERED INTRAVENOUSLY TO AVOID TISSUE DAMAGE Caution : Cytotoxic Agent Single - Dose Vial Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,188 @@
+Rx only DESCRIPTION Hydroxyurea capsules USP are an antineoplastic agent available for oral use as capsules providing 500 mg hydroxyurea , USP .
+Inactive ingredients : anhydrous citric acid , benzyl alcohol , black iron oxide , butylparaben , carboxymethylcellulose sodium , D & C red no . 28 , D & C yellow no . 10 aluminum lake , dibasic sodium phosphate , edetate calcium disodium , FD & C blue no . 1 , FD & C blue no . 1 aluminum lake , FD & C blue no . 2 aluminum lake , FD & C red no . 40 , FD & C red no . 40 aluminum lake , gelatin , lactose monohydrate , magnesium stearate , methylparaben , pharmaceutical glaze , propylparaben , propylene glycol , red iron oxide , sodium lauryl sulfate , sodium propionate , and titanium dioxide .
+Hydroxyurea is an essentially tasteless , white crystalline powder .
+Its structural formula is : [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action The precise mechanism by which hydroxyurea produces its antineoplastic effects cannot , at present , be described .
+However , the reports of various studies in tissue culture in rats and humans lend support to the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor , without interfering with the synthesis of ribonucleic acid or of protein .
+This hypothesis explains why , under certain conditions , hydroxyurea may induce teratogenic effects .
+Three mechanisms of action have been postulated for the increased effectiveness of concomitant use of hydroxyurea therapy with irradiation on squamous cell ( epidermoid ) carcinomas of the head and neck .
+In vitro studies utilizing Chinese hamster cells suggest that hydroxyurea ( 1 ) is lethal to normally radioresistant S - stage cells , and ( 2 ) holds other cells of the cell cycle in the G1 or pre - DNA synthesis stage where they are most susceptible to the effects of irradiation .
+The third mechanism of action has been theorized on the basis of in vitro studies of HeLa cells : it appears that hydroxyurea , by inhibition of DNA synthesis , hinders the normal repair process of cells damaged but not killed by irradiation , thereby decreasing their survival rate ; RNA and protein syntheses have shown no alteration .
+Pharmacokinetics Absorption Hydroxyurea is readily absorbed after oral administration .
+Peak plasma levels are reached in 1 to 4 hours after an oral dose .
+With increasing doses , disproportionately greater mean peak plasma concentrations and AUCs are observed .
+There are no data on the effect of food on the absorption of hydroxyurea .
+Distribution Hydroxyurea distributes rapidly and widely in the body with an estimated volume of distribution approximating total body water .
+Plasma to ascites fluid ratios range from 2 : 1 to 7 . 5 : 1 .
+Hydroxyurea concentrates in leukocytes and erythrocytes .
+Metabolism Up to 60 % of an oral dose undergoes conversion through metabolic pathways that are not fully characterized .
+One pathway is probably saturable hepatic metabolism .
+Another minor pathway may be degradation by urease found in intestinal bacteria .
+Acetohydroxamic acid was found in the serum of three leukemic patients receiving hydroxyurea and may be formed from hydroxylamine resulting from action of urease on hydroxyurea .
+Excretion Excretion of hydroxyurea in humans is likely a linear first - order renal process .
+Special Populations Geriatric , Gender , Race No information is available regarding pharmacokinetic differences due to age , gender , or race .
+Pediatric No pharmacokinetic data are available in pediatric patients treated with hydroxyurea .
+Renal Insufficiency As renal excretion is a pathway of elimination , consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment .
+In adult patients with sickle cell disease , an open - label , non - randomized , single - dose , multicenter study was conducted to assess the influence of renal function on the pharmacokinetics of hydroxyurea .
+Patients in the study with normal renal function ( creatinine clearance [ CrCl ] > 80 mL / min ) , mild ( CrCl 50 to 80 mL / min ) , moderate ( CrCl = 30 to < 50 mL / min ) , or severe ( < 30 mL / min ) renal impairment received hydroxyurea as a single oral dose of 15 mg / kg , achieved by using combinations of the 200 mg , 300 mg , or 400 mg capsules .
+Patients with end - stage renal disease ( ESRD ) received two doses of 15 mg / kg separated by 7 days , the first was given following a 4 hour hemodialysis session , the second prior to hemodialysis .
+In this study , the mean exposure ( AUC ) in patients whose creatinine clearance was < 60 mL / min ( or ESRD ) was approximately 64 % higher than in patients with normal renal function .
+The results suggest that the initial dose of hydroxyurea should be reduced when used to treat patients with renal impairment ( see PRECAUTIONS and DOSAGE ANDADMINISTRATION ) .
+Close monitoring of hematologic parameters is advised in these patients .
+Hepatic Insufficiency There are no data that support specific guidance for dosage adjustment in patients with hepatic impairment .
+Close monitoring of hematologic parameters is advised in these patients .
+Drug Interactions There are no data on concomitant use of hydroxyurea with other drugs in humans .
+Animal Pharmacology and Toxicology The oral LD50 of hydroxyurea is 7330 mg / kg in mice and 5780 mg / kg in rats , given as a single dose .
+In subacute and chronic toxicity studies in the rat , the most consistent pathological findings were an apparent dose - related mild to moderate bone marrow hypoplasia as well as pulmonary congestion and mottling of the lungs .
+At the highest dosage levels ( 1260 mg / kg / day for 37 days , then 2520 mg / kg / day for 40 days ) , testicular atrophy with absence of spermatogenesis occurred ; in several animals , hepatic cell damage with fatty metamorphosis was noted .
+In the dog , mild to marked bone marrow depression was a consistent finding except at the lower dosage levels .
+Additionally , at the higher dose levels ( 140 to 420 mg or 140 to 1260 mg / kg / week given 3 or 7 days weekly for 12 weeks ) , growth retardation , slightly increased blood glucose values , and hemosiderosis of the liver or spleen were found ; reversible spermatogenic arrest was noted .
+In the monkey , bone marrow depression , lymphoid atrophy of the spleen , and degenerative changes in the epithelium of the small and large intestines were found .
+At the higher , often lethal , doses ( 400 to 800 mg / kg / day for 7 to 15 days ) , hemorrhage and congestion were found in the lungs , brain , and urinary tract .
+Cardiovascular effects ( changes in heart rate , blood pressure , orthostatic hypotension , EKG changes ) and hematological changes ( slight hemolysis , slight methemoglobinemia ) were observed in some species of laboratory animals at doses exceeding clinical levels .
+INDICATIONS AND USAGE Significant tumor response to hydroxyurea capsules USP has been demonstrated in melanoma , resistant chronic myelocytic leukemia , and recurrent , metastatic , or inoperable carcinoma of the ovary .
+Hydroxyurea , USP used concomitantly with irradiation therapy is intended for use in the local control of primary squamous cell ( epidermoid ) carcinomas of the head and neck , excluding the lip .
+CONTRAINDICATIONS Hydroxyurea is contraindicated in patients with marked bone marrow depression , i . e . , leukopenia ( < 2500 WBC ) or thrombocytopenia ( < 100 , 000 ) , or severe anemia .
+Hydroxyurea capsules are contraindicated in patients who have demonstrated a previous hypersensitivity to hydroxyurea or any other component of its formulation .
+WARNINGS Treatment with hydroxyurea should not be initiated if bone marrow function is markedly depressed ( see CONTRAINDICATIONS ) .
+Bone marrow suppression may occur , and leukopenia is generally its first and most common manifestation .
+Thrombocytopenia and anemia occur less often and are seldom seen without a preceding leukopenia .
+However , the recovery from myelosuppression is rapid when therapy is interrupted .
+It should be borne in mind that bone marrow depression is more likely in patients who have previously received radiotherapy or cytotoxic cancer chemotherapeutic agents ; hydroxyurea should be used cautiously in such patients .
+Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema .
+In HIV - infected patients during therapy with hydroxyurea and didanosine , with or without stavudine , fatal and nonfatal pancreatitis have occurred .
+Hepatotoxicity and hepatic failure resulting in death have been reported during postmarketing surveillance in HIV - infected patients treated with hydroxyurea and other antiretroviral agents .
+Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea , didanosine , and stavudine .
+This combination should be avoided .
+Peripheral neuropathy , which was severe in some cases , has been reported in HIV - infected patients receiving hydroxyurea in combination with antiretroviral agents , including didanosine , with or without stavudine .
+Severe anemia must be corrected before initiating therapy with hydroxyurea .
+Erythrocytic abnormalities : megaloblastic erythropoiesis , which is self - limiting , is often seen early in the course of hydroxyurea therapy .
+The morphologic change resembles pernicious anemia , but is not related to vitamin B12 or folic acid deficiency .
+Hydroxyurea may also delay plasma iron clearance and reduce the rate of iron utilization by erythrocytes , but it does not appear to alter the red blood cell survival time .
+Elderly patients may be more sensitive to the effects of hydroxyurea , and may require a lower dose regimen ( see PRECAUTIONS , Geriatric Use ) .
+In patients receiving long - term hydroxyurea for myeloproliferative disorders , such as polycythemia vera and thrombocythemia , secondary leukemia has been reported .
+It is unknown whether this leukemogenic effect is secondary to hydroxyurea or associated with the patient ’ s underlying disease .
+Cutaneous vasculitic toxicities , including vasculitic ulcerations and gangrene , have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea .
+These vasculitic toxicities were reported most often in patients with a history of , or currently receiving , interferon therapy .
+Due to potentially severe clinical outcomes for the cutaneous vasculitic ulcers reported in patients with myeloproliferative disease , hydroxyurea should be discontinued if cutaneous vasculitic ulcerations develop and alternative cytoreductive agents should be initiated as indicated .
+Carcinogenesis and Mutagenesis Hydroxyurea is genotoxic in a wide range of test systems and is thus presumed to be a human carcinogen .
+In patients receiving long - term hydroxyurea for myeloproliferative disorders , such as polycythemia vera and thrombocythemia , secondary leukemia has been reported .
+It is unknown whether this leukemogenic effect is secondary to hydroxyurea or is associated with the patient ’ s underlying disease .
+Skin cancer has also been reported in patients receiving long - term hydroxyurea .
+Conventional long - term studies to evaluate the carcinogenic potential of hydroxyurea have not been performed .
+However , intraperitoneal administration of 125 to 250 mg / kg hydroxyurea ( about 0 . 6 to 1 . 2 times the maximum recommended human oral daily dose on a mg / m2 basis ) thrice weekly for 6 months to female rats increased the incidence of mammary tumors in rats surviving to 18 months compared to control .
+Hydroxyurea is mutagenic in vitro to bacteria , fungi , protozoa , and mammalian cells .
+Hydroxyurea is clastogenic in vitro ( hamster cells , human lymphoblasts ) and in vivo ( SCE assay in rodents , mouse micronucleus assay ) .
+Hydroxyurea causes the transformation of rodent embryo cells to a tumorigenic phenotype .
+Pregnancy Drugs which affect DNA synthesis , such as hydroxyurea , may be potential mutagenic agents .
+The physician should carefully consider this possibility before administering this drug to male or female patients who may contemplate conception .
+Hydroxyurea capsules can cause fetal harm when administered to a pregnant woman .
+Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models , including mice , hamsters , cats , miniature swine , dogs , and monkeys at doses within 1 fold of the human dose given on a mg / m2 basis .
+Hydroxyurea is embryotoxic and causes fetal malformations ( partially ossified cranial bones , absence of eye sockets , hydrocephaly , bipartite sternebrae , missing lumbar vertebrae ) at 180 mg / kg / day ( about 0 . 8 times the maximum recommended human daily dose on a mg / m2 basis ) in rats and at 30 mg / kg / day ( about 0 . 3 times the maximum recommended human daily dose on a mg / m2 basis ) in rabbits .
+Embryotoxicity was characterized by decreased fetal viability , reduced live litter sizes , and developmental delays .
+Hydroxyurea crosses the placenta .
+Single doses of ≥ 375 mg / kg ( about 1 . 7 times the maximum recommended human daily dose on a mg / m2 basis ) to rats caused growth retardation and impaired learning ability .
+There are no adequate and well - controlled studies in pregnant women .
+If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug , the patient should be apprised of the potential harm to the fetus .
+Women of childbearing potential should be advised to avoid becoming pregnant .
+PRECAUTIONS General Therapy with hydroxyurea requires close supervision .
+The complete status of the blood , including bone marrow examination , if indicated , as well as kidney function and liver function should be determined prior to , and repeatedly during , treatment .
+The determination of the hemoglobin level , total leukocyte counts , and platelet counts should be performed at least once a week throughout the course of hydroxyurea therapy .
+If the white blood cell count decreases to less than 2500 / mm3 , or the platelet count to less than 100 , 000 / mm3 , therapy should be interrupted until the values rise significantly toward normal levels .
+Severe anemia , if it occurs , should be managed without interrupting hydroxyurea therapy .
+Hydroxyurea should be used with caution in patients with marked renal dysfunction ( see CLINICAL PHARMACOLOGY , Special Populations and DOSAGE AND ADMINISTRATION ) .
+Hydroxyurea is not indicated for the treatment of HIV infection ; however , if HIV - infected patients are treated with hydroxyurea , and in particular , in combination with didanosine and / or stavudine , close monitoring for signs and symptoms of pancreatitis is recommended .
+Patients who develop signs and symptoms of pancreatitis should permanently discontinue therapy with hydroxyurea ( see WARNINGS and ADVERSE REACTIONS ) .
+An increased risk of hepatotoxicity , which may be fatal , may occur in patients treated with hydroxyurea , and in particular , in combination with didanosine and stavudine .
+This combination should be avoided .
+Carcinogenesis , Mutagenesis , Impairment of Fertility See WARNINGS for Carcinogenesis and Mutagenesis information .
+Impairment of Fertility Hydroxyurea administered to male rats at 60 mg / kg / day ( about 0 . 3 times the maximum recommended human daily dose on a mg / m2 basis ) produced testicular atrophy , decreased spermatogenesis , and significantly reduced their ability to impregnate females .
+Pregnancy Teratogenic Effects Pregnancy Category D ( See WARNINGS . )
+Nursing Mothers Hydroxyurea is excreted in human milk .
+Because of the potential for serious adverse reactions with hydroxyurea , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Elderly patients may be more sensitive to the effects of hydroxyurea , and may require a lower dose regimen .
+This drug is known to be excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function ( see DOSAGE AND ADMINISTRATION , Renal Insufficiency ) .
+Drug Interactions Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed .
+Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events ( see WARNINGS and ADVERSE REACTIONS ) .
+Studies have shown that there is an analytical interference of hydroxyurea with the enzymes ( urease , uricase , and lactate dehydrogenase ) used in the determination of urea , uric acid and lactic acid , rendering falsely elevated results of these in patients treated with hydroxyurea .
+Information for Patients Hydroxyurea capsules are a medication that must be handled with care .
+People who are not taking hydroxyurea capsules should not be exposed to it .
+To decrease the risk of exposure , wear disposable gloves when handling hydroxyurea capsules or bottles containing hydroxyurea capsules .
+Anyone handling hydroxyurea capsules should wash their hands before and after contact with the bottle or capsules .
+If the powder from the capsule is spilled , it should be wiped up immediately with a damp disposable towel and discarded in a closed container , such as a plastic bag .
+The medication should be kept away from children and pets .
+Contact your doctor for instructions on how to dispose of outdated capsules .
+ADVERSE REACTIONS Reported adverse reactions are bone marrow depression ( leukopenia , anemia , and thrombocytopenia ) , gastrointestinal symptoms ( stomatitis , anorexia , nausea , vomiting , diarrhea , and constipation ) , and dermatological reactions such as maculopapular rash , skin ulceration , dermatomyositis - like skin changes , peripheral and facial erythema .
+Hyperpigmentation , atrophy of skin and nails , scaling , and violet papules have been observed in some patients after several years of long - term daily maintenance therapy with hydroxyurea capsules .
+Skin cancer has been reported .
+Cutaneous vasculitic toxicities , including vasculitic ulcerations and gangrene , have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea .
+These vasculitic toxicities were reported most often in patients with a history of , or currently receiving , interferon therapy ( see WARNINGS ) .
+Dysuria and alopecia have been reported .
+Large doses may produce moderate drowsiness .
+Neurological disturbances have occurred and were limited to headache , dizziness , disorientation , hallucinations , and convulsions .
+Hydroxyurea capsules may cause temporary impairment of renal tubular function accompanied by elevations in serum uric acid , blood urea nitrogen ( BUN ) , and creatinine levels .
+Abnormal bromsulphalein ( BSP ) retention has been reported .
+Fever , chills , malaise , edema , asthenia , and elevation of hepatic enzymes have also been reported .
+Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone .
+These effects primarily include bone marrow depression ( anemia and leukopenia ) , gastric irritation , and mucositis .
+Almost all patients receiving an adequate course of combined hydroxyurea and irradiation therapy will demonstrate concurrent leukopenia .
+Platelet depression ( < 100 , 000 cells / mm3 ) has occurred in the presence of marked leukopenia .
+Hydroxyurea capsules may potentiate some adverse reactions usually seen with irradiation alone , such as gastric distress and mucositis .
+The association of hydroxyurea with the development of acute pulmonary reactions consisting of diffuse pulmonary infiltrates , fever , and dyspnea has been reported .
+Pulmonary fibrosis also has been reported .
+In HIV - infected patients who received hydroxyurea in combination with antiretroviral agents , in particular , didanosine plus stavudine , fatal and nonfatal pancreatitis and hepatotoxicity , and severe peripheral neuropathy have been reported .
+Patients treated with hydroxyurea in combination with didanosine , stavudine , and indinavir in Study ACTG 5025 showed a median decline in CD4 cells of approximately 100 / mm3 ( see WARNINGS and PRECAUTIONS ) .
+OVERDOSAGE Acute mucocutaneous toxicity has been reported in patients receiving hydroxyurea at dosages several times the therapeutic dose .
+Soreness , violet erythema , edema on palms and soles followed by scaling of hands and feet , severe generalized hyperpigmentation of the skin , and stomatitis have also been observed .
+DOSAGE AND ADMINISTRATION Procedures for proper handling and disposal of cytotoxic drugs should be considered .
+Several guidelines on this subject have been published . 1 - 4 To minimize the risk of dermal exposure , always wear impervious gloves when handling bottles containing hydroxyurea capsules .
+Hydroxyurea capsules should not be opened .
+Personnel should avoid exposure to crushed or opened capsules .
+If contact with crushed or opened capsules occurs , wash immediately and thoroughly .
+More information is available in the references listed below .
+Because of the rarity of melanoma , resistant chronic myelocytic leukemia , carcinoma of the ovary , and carcinomas of the head and neck in pediatric patients , dosage regimens have not been established .
+All dosage should be based on the patient ’ s actual or ideal weight , whichever is less .
+Concurrent use of hydroxyurea capsules with other myelosuppressive agents may require adjustment of dosages .
+Since hydroxyurea may raise the serum uric acid level , dosage adjustment of uricosuric medication may be necessary .
+Solid Tumors Intermittent Therapy 80 mg / kg administered orally as a single dose every third day Continuous Therapy 20 to 30 mg / kg administered orally as a single dose daily Concomitant Therapy with Irradiation Carcinoma of the head and neck 80 mg / kg administered orally as a single dose every third day Administration of hydroxyurea should begin at least seven days before initiation of irradiation and continued during radiotherapy as well as indefinitely afterwards provided that the patient may be kept under adequate observation and evidences no unusual or severe reactions .
+Resistant Chronic Myelocytic Leukemia Until the intermittent therapy regimen has been evaluated , CONTINUOUS therapy ( 20 to 30 mg / kg administered orally as a single dose daily ) is recommended .
+An adequate trial period for determining the antineoplastic effectiveness of hydroxyurea is six weeks of therapy .
+When there is regression in tumor size or arrest in tumor growth , therapy should be continued indefinitely .
+Therapy should be interrupted if the white blood cell count drops below 2500 / mm3 , or the platelet count below 100 , 000 / mm3 .
+In these cases , the counts should be reevaluated after three days , and therapy resumed when the counts return to acceptable levels .
+Since the hematopoietic rebound is prompt , it is usually necessary to omit only a few doses .
+If prompt rebound has not occurred during combined hydroxyurea capsules and irradiation therapy , irradiation may also be interrupted .
+However , the need for postponement of irradiation has been rare ; radiotherapy has usually been continued using the recommended dosage and technique .
+Severe anemia , if it occurs , should be corrected without interrupting hydroxyurea therapy .
+Because hematopoiesis may be compromised by extensive irradiation or by other antineoplastic agents , it is recommended that hydroxyurea be administered cautiously to patients who have recently received extensive radiation therapy or chemotherapy with other cytotoxic drugs .
+Pain or discomfort from inflammation of the mucous membranes at the irradiated site ( mucositis ) is usually controlled by measures such as topical anesthetics and orally administered analgesics .
+If the reaction is severe , hydroxyurea therapy may be temporarily interrupted ; if it is extremely severe , irradiation dosage may , in addition , be temporarily postponed .
+However , it has rarely been necessary to terminate these therapies .
+Severe gastric distress , such as nausea , vomiting , and anorexia , resulting from combined therapy may usually be controlled by temporary interruption of hydroxyurea administration .
+Renal Insufficiency As renal excretion is a pathway of elimination , consideration should be given to decreasing the dosage of hydroxyurea capsules in patients with renal impairment ( see PRECAUTIONS and CLINICAL PHARMACOLOGY ) .
+Close monitoring of hematologic parameters is advised in these patients .
+Hepatic Insufficiency There are no data that support specific guidance for dosage adjustment in patients with hepatic impairment .
+Close monitoring of hematologic parameters is advised in these patients .
+HOW SUPPLIED Hydroxyurea capsules USP 500 mg are available as a two - piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder , imprinted in black ink barr 882 and packaged in Bottles of 30 NDC 54868 - 4773 - 0 Bottles of 40 NDC 54868 - 4773 - 4 Bottles of 50 NDC 54868 - 4773 - 2 Bottles of 60 NDC 54868 - 4773 - 3 Bottles of 100 NDC 54868 - 4773 - 1 Store at 20º to 25ºC ( 68º to 77ºF ) [ See USP Controlled Room Temperature ] .
+Dispense in a tight , light - resistant container as defined in the USP , with a child - resistant closure ( as required ) .
+STORE IN A DRY ATMOSPHERE AND AVOID EXCESSIVE HEAT .
+WEAR GLOVES AT ALL TIMES WHEN HANDLING CONTAINERS .
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN .
+REFERENCES • NIOSH Alert : Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings .
+2004 .
+U . S . Department of Health and Human Services , Public Health Service , Centers for Disease Control and Prevention , National Institute for Occupational Safety and Health , DHHS ( NIOSH ) Publication No . 2004 - 165 .
+• OSHA Technical Manual , TED 1 - 0 . 15 A , Section VI : Chapter 2 .
+Controlling Occupational Exposure to Hazardous Drugs .
+OSHA , 1999 .
+http : / / www . osha . gov / dts / osta / otm / otm _ vi / otm _ vi _ 2 . html • American Society of Health - System Pharmacists .
+ASHP guidelines on handling hazardous drugs .
+Am J Health - Syst Pharm .
+2006 ; 63 : 1172 - 1193 .
+• Polovich M , White JM , Kelleher LO , eds .
+2005 .
+Chemotherapy and biotherapy guidelines and recommendations for practice .
+2 nd ed .
+Pittsburgh , PA : Oncology Nursing Society .
+TEVA PHARMACEUTICALS USA Sellersville , PA 18960 Rev . A 2 / 2012 Relabeling and Repackaging by : Physicians Total Care , Inc .
+Tulsa , Oklahoma 74146 PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] Hydroxyurea Capsules USP 500 mg Label Text HYDROXYUREA Capsules USP 500 mg Caution : Cytotoxic , Special Handling Procedures Rx only [ MULTIMEDIA ]

@@ -1,0 +1,250 @@
+WARNING : LIFE THREATENING PROARRHYTHMIA Sotalol can cause life threatening ventricular tachycardia associated with QT interval prolongation .
+To minimize the risk of drug induced arrhythmia , initiate or uptitrate intravenous sotalol in a facility that can provide continuous electrocardiographic monitoring and cardiac resuscitation [ see Dosage and Administration ( 2 . 3 ) and Warnings and Precautions ( 5 . 1 ) ] Do not initiate intravenous sotalol therapy if the baseline QTc is longer than 450 ms . If the QTc prolongs to 500 ms or greater , reduce the dose or discontinue .
+WARNING : LIFE THREATENING PROARRHYTHMIA See full prescribing information for complete boxed warning .
+• Sotalol can cause life threatening ventricular tachycardia associated with QT interval prolongation .
+( 5 . 1 ) • Initiate or reinitiate in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring .
+( 2 . 3 ) • Do not initiate intravenous sotalol therapy if the baseline QTc is longer than 450 ms . If the QTc prolongs to 500 ms or greater , reduce the dose or discontinue .
+( 2 . 3 ) RECENT MAJOR CHANGES Dosage and Administration , Use for Loading Dose ( 2 . 3 ) 03 / 2020 1 INDICATIONS AND USAGE Sotalol is an antiarrhythmic indicated for : • the maintenance of normal sinus rhythm [ delay in time to recurrence of atrial fibrillation / atrial flutter in patients with symptomatic AFIB / AFL ] who are currently in sinus rhythm .
+( 1 . 1 ) • the treatment of life - threatening ventricular tachycardia .
+( 1 . 2 ) 1 . 1 Delay in Recurrence of Atrial Fibrillation / Atrial Flutter Sotalol is indicated for the maintenance of normal sinus rhythm [ delay in time to recurrence of atrial fibrillation / atrial flutter ( AFIB / AFL ) ] in patients with symptomatic AFIB / AFL who are currently in sinus rhythm .
+1 . 2 Life - Threatening Ventricular Arrhythmia Sotalol is indicated for the treatment of life - threatening ventricular tachycardia .
+Antiarrhythmic drugs may not enhance survival in patients with ventricular arrhythmias .
+2 DOSAGE AND ADMINISTRATION • Intravenous sotalol can substitute for oral sotalol using a regimen that mimics oral exposure ( 2 . 2 ) • Under close medical monitoring , intravenous sotalol can be used to achieve near steady - state exposure to sotalol prior to initiating or increasing oral dosing .
+( 2 . 3 ) • Recommended dosage depends on target oral dose and creatinine clearance .
+Refer to full prescribing information .
+( 2 . 2 , 2 . 3 , 2 . 4 ) 2 . 1 General Considerations For either indication , intravenous sotalol can substitute for oral sotalol in patients unable to take oral drugs or be used to achieve steady state concentration faster compared to the conventional oral dosing .
+Intravenous sotalol must be diluted for infusion .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Dilute intravenous sotalol in saline , 5 % dextrose in water ( D5W ) , or Ringer ' s lactate .
+Choose a volume convenient for administration and consistent with fluid restriction .
+Use a volumetric infusion pump .
+2 . 2 Use for Substitution of Oral Sotalol To match the exposure to oral sotalol , use the same dosing frequency with intravenous administration and infuse the adjusted dose ( see Table 1 ) over 5 hours .
+Table 1 : Intravenous doses for sotalol infusion when used as a substitute for oral sotalol Oral dose Intravenous dose Undiluted volume 80 mg 75 mg 5 mL 120 mg 112 . 5 mg 7 . 5 mL 160 mg 150 mg 10 mL 2 . 3 Use for Loading Dose Initiate or uptitrate intravenous sotalol in a facility that can provide continuous ECG monitoring and cardiac resuscitation .
+Personnel should be trained in the management of serious ventricular arrhythmias .
+Withdraw other antiarrhythmic therapy before starting sotalol hydrochloride .
+Measure and normalize serum potassium and magnesium levels before initiation .
+If the baseline QTc is > 450 ms ( JT > 330 ms if QRS over 100 ms ) , sotalol is not recommended .
+Infuse the loading dose over one hour .
+Monitor QTc interval every 15 minutes during infusion .
+Continue to monitor QTc around Tmax ( 2 to 4 hours post - dose ) following the first oral dose ( in all patients ) and second oral dose ( in patients with CrCL ≥ 60 mL / min ) .
+If the QTc interval prolongs to > 500 ms or increases 20 % from baseline when initiating for an oral dose of 80 mg , discontinue drug ; if initiating for an oral dose of 120 mg discontinue drug and consider a lower dose .
+If re - initiation at a lower dose of 80 mg is desired , wait at least 1 day ( in patients with CrCL ≥ 60 mL / min ) , or at least 3 days ( in patients with CrCL ≥ 30 to < 60 mL / min ) , or 7 days ( in patients with CrCL ≥ 10 to < 30 mL / min ) .
+The intravenous loading dose depends on the target oral dose and creatinine clearance ; the dosing interval for oral administration of sotalol and the minimum delay between the end of the infusion and the first oral dose also depend on renal function ; see Table 2 [ see Clinical Studies ( 14 . 4 ) ] .
+Table 2 : Recommended Loading DosageCreatinine Clearance [ 1 ] [ mL / min ] Intravenous loading dose [ mg ] to be administered over 1 hour when the oral dose is going from Minimum delay to first oral dose [ hours ] Oral dosing interval [ hours ] Sotalol Initiation Sotalol Escalation 0 to 80 mg [ 2 ] 0 to 120 mg 80 to 120 mg 120 to 160 mg > 90 60 90 75 90 4 12 60 - 90 82 . 5 125 82 . 5 105 4 12 30 - 60 75 112 . 5 82 . 5 105 6 24 10 - 30 75 112 . 5 82 . 5 105 12 48 [ 1 ] Calculated using Cockcroft Gault formula [ 2 ] Recommended starting dose 2 . 4 Use in Children Intravenous sotalol has not been studied in children .
+Potency is thought to be similar in children , so a dose of 30 mg / m 2 every 8 hours should give exposure similar to that with 160 mg daily in adults .
+Table 3 shows suggested starting doses in children with normal renal function .
+With impaired renal function , start lower and titrate less frequently .
+Table 3 .
+Suggesting starting doses [ mg / kg ] in children with normal renal function .
+Age Dose [ mg / kg ] 3 days 0 . 32 6 days 0 . 51 9 days 0 . 69 12 days 0 . 81 2 weeks 0 . 90 3 weeks 1 . 0 1 month to 6 years 1 . 2 6 - 12 years 1 . 1 > 12 years 0 . 95 3 DOSAGE FORMS AND STRENGTHS Injection : 150 mg sotalol hydrochloride as a clear solution ( 15 mg / mL ) in 10 mL clear , colorless single - dose vials .
+Injection : 10 - mL vial containing sotalol hydrochloride 150 mg ( 3 ) 4 CONTRAINDICATIONS Sotalol hydrochloride is contraindicated in patients with : • Sinus bradycardia ( < 50 bpm ) , sick sinus syndrome or second or third degree AV block without a pacemaker • Congenital or acquired long QT syndromes , QT interval > 450 ms • Cardiogenic shock , decompensated heart failure • Serum potassium < 4 mEq / L • Bronchial asthma or related bronchospastic conditions • Known hypersensitivity to sotalol • Bradyarrhythmia , sick sinus syndrome or 2 nd or 3 rd degree AV block without a pacemaker ( 4 ) • Congenital or acquired long QT syndrome ( 4 ) • Cardiogenic shock or decompensated heart failure ( 4 ) • Serum potassium < 4 mEq ( 4 ) • Bronchial asthma or related bronchospastic conditions ( 4 ) • Hypersensitivity to sotalol ( 4 ) 5 WARNINGS AND PRECAUTIONS • Risk of life - threatening ventricular arrhythmias , particularly torsade de pointes ( 5 . 1 ) • Bradyarrhythmia , heart block , sick sinus syndrome ( 5 . 2 , 5 . 3 ) • Negative inotropy : hypotension , heart failure ( 5 . 4 , 5 . 5 ) • Bronchospasm ( 5 . 6 ) • Masked hypoglycemia ( 5 . 7 ) • Masked hyperthyroidism ( 5 . 8 ) • Anaphylaxis ( 5 . 9 ) 5 . 1 Proarrhythmia Sotalol can cause serious ventricular arrhythmias , primarily Torsade de Pointes ( TdP ) type ventricular tachycardia , a polymorphic ventricular tachycardia associated with QTc prolongation .
+QTc prolongation is directly related to the concentration of sotalol .
+Factors such as reduced creatinine clearance , gender ( female ) and higher dose , bradycardia , history of sustained VT / VF , atrial fibrillation with sinus node dysfunction , heart failure increase the risk of TdP .
+The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in QTc .
+Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride , as these conditions can exaggerate the degree of QT prolongation and increase the potential for TdP .
+Special attention should be given to electrolyte and acid - base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs .
+Avoid sotalol with other drugs known to cause QT prolongation [ see Drug Interactions ( 7 . 1 ) ] .
+5 . 2 Bradycardia / Heart Block Sotalol can cause bradycardia , sinus pauses or sinus arrest .
+Sotalol - induced bradycardia increases the risk of Torsade de Pointe , particularly following cardioversion .
+Monitor the ECG in patients receiving concomitant negative chronotropes [ see Drug Interactions ( 7 . 1 , 7 . 2 , 7 . 3 ) ] .
+5 . 3 Sick Sinus Syndrome In general , sotalol is not recommended in patients with sick sinus syndrome associated with symptomatic arrhythmias , because it may cause sinus bradycardia , sinus pauses , or sinus arrest .
+Sotalol augments bradycardia and QTc prolongation following cardioversion .
+Patients with AFIB / AFL associated with the sick sinus syndrome may be treated with sotalol if they have an implanted pacemaker for control of bradycardia symptoms .
+5 . 4 Hypotension Sotalol produces significant reductions in both systolic and diastolic blood pressures .
+Monitor hemodynamics during administration .
+5 . 5 Heart Failure New onset or worsening heart failure may occur during initiation or up - titration of sotalol because of its beta - blocking effects .
+Monitor for signs and symptoms of heart failure and discontinue treatment if symptoms occur .
+5 . 6 Bronchospasm Avoid beta - blockers , like sotalol , in patients with bronchospastic diseases .
+If sotalol is required , use the smallest effective dose .
+5 . 7 Masked Signs of Hypoglycemia in Diabetics Beta - blockade may mask tachycardia occurring with hypoglycemia , but other manifestations such as dizziness and sweating may not be significantly affected .
+Diabetic patients may experience elevated blood glucose levels and increased insulin requirements .
+5 . 8 Thyroid Abnormalities Avoid abrupt withdrawal of beta - blockade which might be followed by an exacerbation of symptoms of hyperthyroidism , including thyroid storm .
+Beta - blockade may mask certain clinical signs ( e . g . , tachycardia ) of hyperthyroidism .
+5 . 9 Anaphylaxis While taking beta - blockers , patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge , either accidental , diagnostic , or therapeutic .
+Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction .
+5 . 10 Anesthesia The impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures .
+6 ADVERSE REACTIONS The following adverse reactions are described elsewhere : • Proarrhythmia ( 5 . 1 , 5 . 2 ) • Negative inotropy ( 5 . 3 , 5 . 4 ) Adverse reactions related to sotalol use are those which are typical of its Class II ( beta - blocking ) and Class III ( cardiac action potential duration prolongation ) effects .
+The common documented beta - blocking adverse reactions ( bradycardia , dyspnea , and fatigue ) and Class III effects ( QT interval prolongation ) are dose related .
+Bradycardia , dyspnea , fatigue , QTc prolongation To report SUSPECTED ADVERSE REACTIONS , contact AltaThera Pharmaceuticals LLC at 1 - 800 - 524 - 1985 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+7 DRUG INTERACTIONS • Additive to other negative chronotropes ( 7 . 1 , 7 . 2 , 7 . 3 ) • Additive to other QT - prolonging drugs ( 7 . 1 ) • Antagonizes effect of beta - agonists ( 7 . 5 ) 7 . 1 Negative Chronotropes Both digitalis glycosides and beta - blockers slow atrioventricular conduction and decrease heart rate .
+Concomitant use can increase the risk of bradycardia .
+7 . 2 Calcium Blocking Drugs Sotalol and calcium blocking drugs can be expected to have additive effects on atrioventricular conduction , ventricular function , and blood pressure .
+7 . 3 Catecholamine - Depleting Agents Concomitant use of catecholamine - depleting drugs , such as reserpine and guanethidine , with a beta - blocker may produce an excessive reduction of resting sympathetic nervous tone .
+Monitor such patients for hypotension and marked bradycardia which may produce syncope .
+7 . 4 Insulin and Oral Antidiabetics Hyperglycemia may occur , and the dosage of insulin or antidiabetic drugs may require adjustment .
+Symptoms of hypoglycemia may be masked .
+7 . 5 Beta - 2 - Receptor Stimulants Beta - agonists such as albuterol , terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol .
+7 . 6 Clonidine Concomitant use with sotalol increases the risk of bradycardia .
+Because beta - blockers may potentiate the rebound hypertension sometime observed after clonidine discontinuation , withdraw sotalol several days before the gradual withdrawal of clonidine to reduce the risk of rebound hypertension .
+7 . 7 Drug / Laboratory Test Interactions The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods .
+8 USE IN SPECIFIC POPULATIONS 8 . 1 Pregnancy Risk Summary Both the untreated underlying condition in pregnancy and the use of sotalol in pregnancy cause adverse outcomes to the mother and fetus / neonate ( see Clinical Considerations ) .
+In animal reproduction studies in rats , early resorptions were increased at 15 times the maximum recommended human dose ( MRHD ) .
+In rabbits an increase in fetal death was observed at 2 times the MRHD administered as single dose .
+Sotalol did not reveal any teratogenic potential in rats or rabbits at 15 and 2 times the MRHD respectively ( see Data ) .
+All pregnancies have a background risk of birth defect , loss , or other adverse outcomes .
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown .
+In the United States ( U . S . ) general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+Clinical Considerations The incidence of VT is increased and may be more symptomatic during pregnancy .
+Most tachycardia episodes are initiated by ectopic beats and the occurrence of arrhythmia episodes may , therefore , increase during pregnancy .
+Breakthrough arrhythmias may also occur during pregnancy , as therapeutic treatment levels may be difficult to maintain due to the increased volume of distribution and increased drug metabolism inherent in the pregnant state .
+Fetal / Neonatal Adverse Reactions Sotalol has been shown to cross the placenta and is found in amniotic fluid .
+From published observational studies , the potential fetal adverse effects of sotalol use during pregnancy are growth restriction , transient fetal bradycardia , hyperbilirubinemia , hypoglycemia , uterine contractions , and possible intrauterine death .
+Sotalol may have a greater effect on QT prolongation in the immature heart than in the adult heart , and therefore , conveys an increased risk of serious fetal arrhythmia and / or possible intrauterine death .
+Monitor the newborn for symptoms of beta blockade .
+Labor or Delivery Generally , risk of arrhythmias increases during the labor and delivery process ; therefore , considering the proarrhythmia potential of the drug , patients treated with sotalol should be monitored continuously during labor and delivery .
+Data Animal Data Reproduction studies in rats and rabbits administered sotalol during organogenesis at 15 times and 2 times the MRHD as mg / m 2 , respectively , did not reveal any teratogenic potential associated with sotalol .
+In pregnant rats , sotalol doses administered during organogenesis at approximately15 times the MRHD as mg / m 2 , increased the number of early resorptions , while no increase in early resorptions was noted at 2 times the MRHD as mg / m 2 .
+In reproductive studies in rabbits , a sotalol dose ( 160 mg / kg / day ) at 5 times the MRHD as mg / m 2 produced a slight increase in fetal death , and maternal toxicity .
+However , one study from published data reported an increase in fetal deaths in rabbits receiving a single dose ( 50 mg / kg ) at 2 times the MRHD as mg / m 2 as on gestation day 14 .
+8 . 2 Lactation Risk Summary Limited available data from published literature report that sotalol is present in human milk .
+The estimated daily infant dose of sotalol received from breastmilk is 0 . 8 - 3 . 4 mg / kg , estimated at 22 to 25 . 5 % of the maternal weight - adjusted dosage of sotalol ( see Data ) .
+The amount of the drug in breast milk is similar to the neonatal therapeutic dosage .
+Therefore , there is potential for bradycardia and other symptoms of beta blockade such as dry mouth , skin or eyes , diarrhea or constipation in the breastfed infant .
+There is no information regarding the effects of sotalol on milk production .
+Because of the potential serious adverse reactions to the breastfed child and the high level of sotalol in breast milk , advise women not to breastfeed while on treatment with sotalol .
+Data Sotalol is present in human milk in high levels .
+A prospective study evaluated 20 paired samples of breast milk and maternal blood from 5 mothers who elected to breastfeed .
+Breast milk samples had a mean sotalol concentration of 10 . 5 µg / mL ( ± 1 . 1 µg / mL ; range : 4 . 8 to 20 . 2 µg / mL ) compared to a simultaneous mean maternal plasma concentration of 2 . 3 µg / mL ( ± 0 . 3 µg / mL ; range : 0 . 8 to 5 . 0 µg / mL ) .
+The mean milk plasma ratio was 5 . 4 : 1 ( range : 2 . 2 to 8 . 8 ) .
+The estimated daily infant dose was 0 . 8 - 3 . 4 mg / kg , estimated at 22 to 25 . 5 % of the maternal weight - adjusted dosage of sotalol .
+This is similar to recommended therapeutic dose in neonates .
+None of the mothers reported any adverse reactions in the breastfed infant .
+8 . 3 Females and Males of Reproductive Potential Infertility Based on the published literature , beta blockers ( including sotalol ) may cause erectile dysfunction .
+8 . 4 Pediatric Use The safety and effectiveness of sotalol in children has not been established .
+However , the Class III electrophysiologic and beta - blocking effects , the pharmacokinetics , and the relationship between the effects ( QTc interval and resting heart rate ) and drug concentrations have been evaluated in children aged between 3 days and 12 years old [ see Clinical Pharmacology ( 12 . 3 ) ] .
+10 OVERDOSAGE Overdosage with sotalol may be fatal .
+Symptoms and Treatment of Overdosage : The most common signs to be expected are bradycardia , congestive heart failure , hypotension , bronchospasm and hypoglycemia .
+In cases of massive intentional overdosage ( 2 - 16 grams ) of sotalol the following clinical findings were seen : hypotension , bradycardia , cardiac asystole , prolongation of QT interval , Torsade de Pointes , ventricular tachycardia , and premature ventricular complexes .
+If overdosage occurs , therapy with sotalol should be discontinued and the patient observed closely .
+Because of the lack of protein binding , hemodialysis is useful for reducing sotalol plasma concentrations .
+Patients should be carefully observed until QT intervals are normalized and the heart rate returns to levels > 50 bpm .
+The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase ( half - life of 30 hours ) thought to be due to a temporary reduction of renal function caused by the hypotension .
+In addition , if required , the following therapeutic measures are suggested : Bradycardia or Cardiac Asystole : Atropine , another anticholinergic drug , a beta - adrenergic agonist or transvenous cardiac pacing .
+Heart Block : ( second and third degree ) transvenous cardiac pacemaker .
+Hypotension : ( depending on associated factors ) epinephrine rather than isoproterenol or norepinephrine may be useful .
+Bronchospasm : Aminophylline or aerosol beta - 2 - receptor stimulant .
+Higher than normal doses of beta - 2 stimulus may be required .
+Torsade de Pointes : DC cardioversion , magnesium sulfate , potassium replacement .
+Once Torsade de Pointes is terminated , transvenous cardiac pacing or an isoproterenol infusion to increase heart rate can be employed .
+11 DESCRIPTION Sotalol hydrochloride injection is an aqueous formulation of sotalol hydrochloride for intravenous use .
+Sotalol is an antiarrhythmic drug with Class II ( beta - adrenoreceptor blocking ) and Class III ( cardiac action potential duration prolongation ) properties .
+Sotalol hydrochloride is a white , crystalline solid with a molecular weight of 308 . 8 .
+It is hydrophilic , soluble in water , propylene glycol and ethanol , but is only slightly soluble in chloroform .
+Chemically , sotalol hydrochloride is d , l - N - [ 4 - [ 1 - hydroxy - 2 - [ ( 1 - methylethyl ) amino ] ethyl ] phenyl ] methane - sulfonamide monohydrochloride .
+The molecular formula is C 12 H 20 N 2 O 3 S • HCl and is represented by the following structural formula : [ MULTIMEDIA ] Intravenous sotalol Injection is supplied as a sterile , clear solution in a 10 mL single - dose vial , for intravenous administration after dilution .
+Each vial contains 150 mg racemic sotalol hydrochloride ( equivalent to 132 . 8 mg racemic sotalol ) in sodium acetate buffer .
+The sotalol hydrochloride concentration of the formulation is 15 mg / mL .
+Each mL contains 2 . 9 mg glacial acetic acid in water for injection as an inactive ingredient .
+The pH of the injection is adjusted with sodium hydroxide to be between 6 . 0 and 7 . 0 .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Sotalol has both beta - adrenoreceptor blocking ( Vaughan Williams Class II ) and cardiac action potential duration prolongation ( Vaughan Williams Class III ) antiarrhythmic properties .
+Intravenous sotalol is a racemic mixture of d - and l - sotalol .
+Both isomers have similar Class III antiarrhythmic effects , while the l - isomer is responsible for virtually all of the beta - blocking activity .
+The beta - blocking effect of sotalol is non - cardioselective , half maximal at oral doses of about 80 mg / day and maximal at oral doses between 320 and 640 mg / day .
+Significant beta - blockade occurs at oral doses as low as 25 mg , significant Class III effects can be seen after a single oral or IV dose of 80 or 75 mg respectively .
+12 . 2 Pharmacodynamics Electrophysiology : Sotalol prolongs the plateau phase of the cardiac action potential in the isolated myocyte , as well as in isolated tissue preparations of ventricular or atrial muscle ( Class III activity ) .
+In intact animals it slows heart rate , decreases AV nodal conduction and increases the refractory periods of atrial and ventricular muscle and conduction tissue .
+In man , the Class II ( beta - blockade ) electrophysiological effects of sotalol include increased sinus cycle length ( slowed heart rate ) , decreased AV nodal conduction , and increased AV nodal refractoriness .
+The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials , and effective refractory period prolongation of atrial muscle , ventricular muscle , and atrio - ventricular accessory pathways ( when present ) in both the anterograde and retrograde directions .
+With oral doses of 160 to 640 mg / day , the surface ECG shows dose - related mean increases of 40 - 100 ms in QT and 10 - 40 ms in QTc .
+Twenty - five children in an unblinded , multicenter trial with supraventricular ( SVT ) and / or ventricular ( VT ) tachyarrhythmias , aged between 3 days and 12 years ( mostly neonates and infants ) , received an ascending titration regimen with daily doses of 30 , 90 and 210 mg / m 2 with dosing every 8 hours for a total of 9 doses .
+During steady - state , the respective average increases above baseline of the QTc interval were 2 , 14 , and 29 ms at the 3 dose levels .
+The respective mean maximum increases in QTc above baseline were 23 , 36 , and 55 ms . The steady - state percent increases in the RR interval were 3 , 9 and 12 % .
+The smallest children ( BSA < 0 . 33 m 2 ) showed a tendency for larger Class III effects ( ΔQTc ) and an increased frequency of prolongations of the QTc interval compared with children with BSA ≥ 0 . 33 m 2 .
+The beta - blocking effects also tended to be greater in the smaller children ( BSA < 0 . 33 m 2 ) .
+Hemodynamics : In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37 % and ventricular tachycardia ( 9 sustained and 3 non - sustained ) , a median dose of 160 mg twice daily of sotalol produced a 28 % reduction in heart rate and a 24 % decrease in cardiac index at 2 hours post - dosing at steady - state .
+Concurrently , systemic vascular resistance and stroke volume showed non - significant increases of 25 % and 8 % , respectively .
+Pulmonary capillary wedge pressure increased significantly from 6 to 12 mmHg in the 11 patients who completed the study .
+Mean arterial pressure , mean pulmonary artery pressure and stroke work index did not significantly change .
+Exercise and isoproterenol induced tachycardia are antagonized by sotalol , and total peripheral resistance increases by a small amount .
+In hypertensive patients , sotalol produces significant reductions in both systolic and diastolic blood pressures .
+Although sotalol is usually well - tolerated hemodynamically , in patients with marginal cardiac compensation , deterioration in cardiac performance may occur [ see Warnings and Precautions ( 5 . 3 ) ] .
+12 . 3 Pharmacokinetics The pharmacokinetics of the d and l isomers of sotalol are essentially identical .
+Absorption In healthy subjects , the oral bioavailability of sotalol is > 90 % .
+After oral administration , peak plasma concentrations are reached in 2 . 5 to 4 hours , and steady - state plasma concentrations are attained within 2 - 3 days ( i . e . , after 5 - 6 doses when administered twice daily ) .
+Over the oral dosage range 160 - 640 mg / day , sotalol displays dose proportionality with respect to plasma concentrations .
+When administered with a standard meal , the absorption of sotalol was reduced by approximately 20 % compared to administration in the fasting state .
+Distribution Distribution occurs to a central ( plasma ) and to a peripheral compartment , with a mean elimination half - life of 12 hours .
+Dosing every 12 hours results in trough plasma concentrations which are approximately one - half of those at peak .
+Sotalol does not bind to plasma proteins and is not metabolized .
+Sotalol shows very little intersubject variability in plasma levels .
+Sotalol crosses the blood brain barrier poorly .
+Metabolism Sotalol is not metabolized and is not expected to inhibit or induce any CYP 450 enzymes .
+Excretion Excretion is predominantly via the kidney in the unchanged form , and therefore lower doses are necessary in conditions of renal impairment [ see Dosage and Administration ( 2 . 3 ) ] .
+Dosing every 12 hours results in trough plasma concentration which are approximately one half of that at peak concentration .
+Specific Populations Geriatric Age per se does not significantly alter the pharmacokinetics of sotalol , but impaired renal function in geriatric patients can increase the terminal elimination half - life , resulting in increased drug accumulation .
+Hepatic Disease Since sotalol is not subject to first - pass metabolism , patients with hepatic impairment show no alteration in clearance of sotalol .
+Pediatric The combined analysis of two unblinded , multicenter trials ( a single dose and a multiple dose study ) with 59 children , aged between 3 days and 12 years , showed the pharmacokinetics of sotalol to be first order .
+A daily dose of 30 mg / m 2 of sotalol was administered in the single dose study and daily doses of 30 , 90 and 210 mg / m 2 were administered q8h in the multi - dose study .
+After rapid absorption with peak levels occurring on average between 2 - 3 hours following administration , sotalol was eliminated with a mean half - life of 9 . 5 hours .
+Steady - state was reached after 1 - 2 days .
+The average peak to trough concentration ratio was 2 .
+BSA was the most important covariate and more relevant than age for the pharmacokinetics of sotalol .
+The smallest children ( BSA < 0 . 33 m 2 ) exhibited a greater drug exposure ( + 59 % ) than the larger children who showed a uniform drug concentration profile .
+The intersubject variation for oral clearance was 22 % .
+Drug - Drug Interactions Antacids Administration of oral sotalol within 2 hours of antacids may result in a reduction in Cmax and AUC of 26 % and 20 % , respectively , and consequently in a 25 % reduction in the bradycardic effect at rest .
+Administration of the antacid two hours after oral sotalol has no effect on the pharmacokinetics or pharmacodynamics of sotalol .
+No pharmacokinetic interactions were observed with hydrochlorothiazide or warfarin .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility No evidence of carcinogenic potential was observed in rats during a 24 - month study at 137 - 275 mg / kg / day ( approximately 30 times the maximum recommended human oral dose ( MRHD ) as mg / kg or 5 times the MRHD as mg / m 2 ) or in mice , during a 24 - month study at 4141 - 7122 mg / kg / day ( approximately 450 - 750 times the MRHD as mg / kg or 36 - 63 times the MRHD as mg / m 2 ) .
+Sotalol has not been evaluated in any specific assay of mutagenicity or clastogenicity .
+No significant reduction in fertility occurred in rats at oral doses of 1000 mg / kg / day ( approximately 100 times the MRHD as mg / kg or 9 times the MRHD as mg / m 2 ) prior to mating , except for a small reduction in the number of offspring per litter .
+Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg / kg ( 9 and 7 times the MRHD as mg / m 2 ) , respectively , did not reveal any teratogenic potential associated with sotalol HCl .
+In rabbits , a high dose of sotalol HCl ( 160 mg / kg / day ) at 16 times the MRHD as mg / kg ( 6 times the MRHD as mg / m 2 ) produced a slight increase in fetal death likely due to maternal toxicity .
+Eight times the maximum dose ( 80 mg / kg / day or 3 times the MRHD as mg / m 2 ) did not result in an increased incidence of fetal deaths .
+In rats , 1000 mg / kg / day sotalol HCl , 100 times the MRHD ( 18 times the MRHD as mg / m 2 ) , increased the number of early resorptions , while at 14 times the maximum dose ( 2 . 5 times the MRHD as mg / m 2 ) , no increase in early resorptions was noted .
+However , animal reproduction studies are not always predictive of human response .
+14 CLINICAL STUDIES 14 . 1 Clinical Studies in Ventricular Arrhythmias with Oral Sotalol Sotalol has been studied in life - threatening and less severe arrhythmias .
+In patients with frequent premature ventricular complexes ( VPC ) , orally administered sotalol was significantly superior to placebo in reducing VPCs , paired VPCs and non - sustained ventricular tachycardia ( NSVT ) ; the response was dose - related through 640 mg / day with 80 - 85 % of patients having at least a 75 % reduction of VPCs .
+Sotalol was also superior , at the doses evaluated , to propranolol ( 40 - 80 mg TID ) and similar to quinidine ( 200 - 400 mg QID ) in reducing VPCs .
+In patients with life - threatening arrhythmias [ sustained ventricular tachycardia / fibrillation ( VT / VF ) ] , sotalol was studied acutely [ by suppression of programmed electrical stimulation ( PES ) induced VT and by suppression of Holter monitor evidence of sustained VT ] and , in acute responders , chronically .
+In a double - blind , randomized comparison of oral sotalol and procainamide given intravenously ( total of 2 mg / kg sotalol vs . 19 mg / kg of procainamide over 90 minutes ) , sotalol suppressed PES induction in 30 % of patients vs . 20 % for procainamide ( p = 0 . 2 ) .
+In a randomized clinical trial [ Electrophysiologic Study Versus Electrocardiographic Monitoring ( ESVEM ) Trial ] comparing choice of antiarrhythmic therapy by PES suppression vs . Holter monitor selection ( in each case followed by treadmill exercise testing ) in patients with a history of sustained VT / VF who were also inducible by PES , the effectiveness acutely and chronically of sotalol was compared with 6 other drugs ( procainamide , quinidine , mexiletine , propafenone , and imipramine ) .
+Overall response , limited to first randomized drug , was 39 % for sotalol and 30 % for the pooled other drugs .
+Acute response rate for first drug randomized using suppression of PES induction was 36 % for sotalol vs . a mean of 13 % for the other drugs .
+Using the Holter monitoring endpoint ( complete suppression of sustained VT , 90 % suppression of NSVT , 80 % suppression of VPC pairs , and at least 70 % suppression of VPCs ) , sotalol yielded 41 % response vs . 45 % for the other drugs combined .
+Among responders placed on long term therapy identified acutely as effective ( by either PES or Holter ) , sotalol , when compared to the pool of other drugs , had the lowest two - year mortality ( 13 % vs . 22 % ) , the lowest two - year VT recurrence rate ( 30 % vs . 60 % ) , and the lowest withdrawal rate ( 38 % vs . about 75 - 80 % ) .
+The most commonly used doses of sotalol in this trial were 320 - 480 mg / day ( 66 % of patients ) , with 16 % receiving 240 mg / day or less and 18 % receiving 640 mg or more .
+It cannot be determined , however , in the absence of a controlled comparison of sotalol vs . no pharmacologic treatment ( e . g . , in patients with implanted defibrillators ) whether sotalol response causes improved survival or identifies a population with a good prognosis .
+Sotalol has not been shown to enhance survival in patients with ventricular arrhythmias .
+14 . 2 Clinical Studies in Supra - Ventricular Arrhythmias with Oral Sotalol Orally administered sotalol has been studied in patients with symptomatic AFIB / AFL in two principal studies , one in patients with primarily paroxysmal AFIB / AFL , the other in patients with primarily chronic AFIB .
+In one study , a U . S . multicenter , randomized , placebo - controlled , double - blind , dose - response trial of patients with symptomatic primarily paroxysmal AFIB / AFL , three fixed dose levels of sotalol ( 80 , 120 , and 160 mg ) twice daily and placebo were compared in 253 patients .
+In patients with reduced creatinine clearance ( 40 - 60 mL / min ) the same doses were given once daily .
+Patients were not randomized for the following reasons : QT > 450 ms ; creatinine clearance < 40 mL / min ; intolerance to beta - blockers ; bradycardia - tachycardia syndrome in the absence of an implanted pacemaker ; AFIB / AFL was asymptomatic or was associated with syncope , embolic CVA or TIA ; acute myocardial infarction within the previous 2 months ; congestive heart failure ; bronchial asthma or other contraindications to beta - blocker therapy ; receiving potassium losing diuretics without potassium replacement or without concurrent use of ACE - inhibitors ; uncorrected hypokalemia ( serum potassium < 3 . 5 mEq / L ) or hypomagnesemia ( serum magnesium < 1 . 5 mEq / L ) ; received chronic oral amiodarone therapy for > 1 month within previous 12 weeks ; congenital or acquired long QT syndromes ; history of Torsade de Pointes with other antiarrhythmic agents which increase the duration of ventricular repolarization ; sinus rate < 50 bpm during waking hours ; unstable angina pectoris ; receiving treatment with other drugs that prolong the QT interval ; and AFIB / AFL associated with the Wolff - Parkinson - White ( WPW ) syndrome .
+If the QT interval increased to ≥ 520 ms ( or JT ≥ 430 ms if QRS > 100 ms ) the drug was discontinued .
+The patient population in this trial was 64 % male , and the mean age was 62 years .
+No structural heart disease was present in 43 % of the patients .
+Doses were administered once daily in 20 % of the patients because of reduced creatinine clearance .
+Sotalol was shown to prolong the time to the first symptomatic , ECG - documented recurrence of AFIB / AFL , as well as to reduce the risk of such recurrence at both 6 and 12 months .
+The 120 mg dose was more effective than 80 mg , but 160 mg did not appear to have an added benefit .
+Note that these doses were given twice or once daily , depending on renal function .
+The results are shown in Figure 1 and Tables 4 and 5 .
+Figure 1 .
+Study 1 — Time to First ECG - Documented Recurrence of Symptomatic AFIB / AFL Since Randomization [ MULTIMEDIA ] Table 4 : Study 1 - Patient Status at 12 Months Placebo Oral Sotalol Dose 80 mg 120 mg 160 mg Randomized 69 59 63 62 On treatment in NSR at 12 months without recurrence * 23 % 22 % 29 % 23 % Recurrence * , † 67 % 58 % 49 % 42 % D / C for AEs 6 % 12 % 18 % 29 % * Symptomatic AFIB / AFL † Efficacy endpoint of Study 1 ; study treatment stopped .
+Note that columns do not add up to 100 % due to discontinuations ( D / C ) for other reasons .
+Table 5 : Study 1 - Median Time to Recurrence of Symptomatic AFIB / AFL and Relative Risk ( vs . Placebo ) at 12 Months Placebo Oral Sotalol Dose 80 mg 120 mg 160 mg p - value vs . placebo p = 0 . 325 p = 0 . 018 p = 0 . 029 Relative Risk ( RR ) to placebo 0 . 81 0 . 59 0 . 59 Median Time to Recurrence ( days ) 27 106 229 175 Discontinuation because of adverse events was dose related .
+In a second multicenter , randomized , placebo - controlled , double - blind study of 6 months duration in 232 patients with chronic AFIB , sotalol was titrated over a dose range from 80 mg / day to 320 mg / day .
+The patient population of this trial was 70 % male with a mean age of 65 years .
+Structural heart disease was present in 49 % of the patients .
+All patients had chronic AFIB for > 2 weeks but < 1 year at entry with a mean duration of 4 . 1 months .
+Patients were excluded if they had significant electrolyte imbalance , QTc > 460 ms , QRS > 140 ms , any degree of AV block or functioning pacemaker , uncompensated cardiac failure , asthma , significant renal disease ( estimated creatinine clearance < 50 mL / min ) , heart rate < 50 bpm , myocardial infarction or open heart surgery in past 2 months , unstable angina , infective endocarditis , active pericarditis or myocarditis , ≥ 3 DC cardioversions in the past , medications that prolonged QT interval , and previous amiodarone treatment .
+After successful cardioversion patients were randomized to receive placebo ( n = 114 ) or sotalol ( n = 118 ) , at a starting dose of 80 mg twice daily .
+If the initial dose was not tolerated it was decreased to 80 mg once daily , but if it was tolerated it was increased to 160 mg twice daily .
+During the maintenance period 67 % of treated patients received a dose of 160 mg twice daily , and the remainder received doses of 80 mg once daily ( 17 % ) and 80 mg twice daily ( 16 % ) .
+Figure 2 and Tables 6 and 7 show the results of the trial .
+There was a longer time to ECG - documented recurrence of AFIB and a reduced risk of recurrence at 6 months compared to placebo .
+Table 6 : Study 2 - Patient Status at 6 MonthsRandomized OralSotalol Placebo 118 114 On treatment in NSR at 6 months without recurrence * 45 % 29 % Recurrence * , † 49 % 67 % D / C for AEs 6 % 3 % Death 1 % * Symptomatic or asymptomatic AFIB / AFL † Efficacy endpoint of Study 2 ; study treatment stopped .
+Table 7 : Study 2 - Median Time to Recurrence of Symptomatic AFIB / AFL / Death and Relative Risk ( vs . Placebo ) at 6 Monthsp - value vs . placebo Oral Sotalol Placebo p = 0 . 002 Relative Risk ( RR ) to placebo Median time to recurrence ( days ) 0 . 55 > 180 44 Figure 2 .
+Study 2 — Time to First ECG - Documented Recurrence of Symptomatic AFIB / AFL / Death Since Randomization [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 14 . 3 Clinical Studies in Patients with Myocardial Infarction In a multicenter double - blind randomized study reported by Julian et al , the effect of sotalol 320 mg once daily was compared with that of placebo in 1456 patients ( randomized 3 : 2 , sotalol to placebo ) surviving an acute myocardial infarction ( MI ) .
+Treatment was started 5 - 14 days after infarction .
+Patients were followed for 12 months .
+The mortality rate was 7 . 3 % in the sotalol group and 8 . 9 % in the placebo group , not a statistically significant difference .
+Although the results do not show evidence of a benefit of sotalol in this population , they do not show an added risk in post MI patients receiving sotalol .
+There was , however , a suggestion of an early ( i . e . , first 10 days ) excess mortality ( 3 % on sotalol vs . 2 % on placebo ) .
+In a second small trial ( n = 17 randomized to sotalol ) where sotalol was administered at high doses ( e . g . , 320 mg twice daily ) to high - risk post - infarction patients ( ejection fraction < 40 % and either > 10 VPC / hr or VT on Holter ) , there were 4 fatalities and 3 serious hemodynamic / electrical adverse events within two weeks of initiating sotalol .
+14 . 4 Intravenous Loading Dosage Computer - based simulations incorporating sotalol dose - exposure - QTc relationships were used to derive the intravenous loading doses .
+Based on these simulations , the intravenous loading dose in a typical patient across each of the renal function categories is expected to achieve steady state concentration faster compared to the conventional oral dosing .
+A cartoon showing the pharmacokinetic profile in a typical patient for an intravenous loading dose followed by subsequent oral doses is shown in Figure 3 .
+Figure 3 : Illustrative pharmacokinetic profile for an intravenous loading dose followed by subsequent oral doses in a typical patient .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 16 HOW SUPPLIED / STORAGE AND HANDLING Sotalol injection is supplied in 10 mL single - dose vials , each containing 150 mg of sotalol hydrochloride as a clear solution ( 15 mg / mL ) .
+NDC 69724 - 112 - 10 carton containing one 10 mL vial Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) ; excursions permitted 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ See USP Controlled Room Temperature . ]
+Protect from freezing and light .
+Manufactured by : Mylan Institutional Galway , Ireland Manufactured for : ALTATHERA Pharmaceuticals LLC Chicago , IL 60606 U . S . A . Principal Display Panel NDC 69724 - 112 - 10 Sotalol Hydrochloride Injection 150 mg / 10 mL ( 15 mg / mL ) ( 13 . 3 mg / mL racemic sotalol ) For Intravenous Use Only Rx Only Single - Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ]

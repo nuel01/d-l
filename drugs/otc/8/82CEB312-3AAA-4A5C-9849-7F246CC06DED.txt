@@ -1,0 +1,176 @@
+DESCRIPTION Feridex I . V . ® ( ferumoxides injectable solution ) is a sterile aqueous colloid of superparamagnetic iron oxide associated with dextran for intravenous ( i . v . ) administration as a magnetic resonance imaging contrast media .
+Chemically , ferumoxides is a non - stoichiometric magnetite , of average formula FeO1 . 44 .
+Each milliliter of Feridex I . V . contains 11 . 2 milligrams of iron and 61 . 3 milligrams of mannitol at a pH of 5 to 9 .
+The formulation also contains dextran ( 5 . 6 – 9 . 1 mg / mL ) and citrate ( 0 . 25 – 0 . 53 mg / mL ) .
+The osmolality is approximately 340 mOsm / kg ; specific gravity is 1 . 04 .
+Feridex I . V . is a black to reddish - brown aqueous colloid .
+CLINICAL PHARMACOLOGY General : Feridex I . V . is an intravenously injected colloidal superparamagnetic iron oxide associated with dextran .
+It is a magnetic resonance imaging ( MRI ) contrast agent and is taken up by cells of the reticuloendothelial system ( RES ) .
+Pharmacokinetics : Three healthy , adult male volunteers received a dose of Feridex I . V . 0 . 56 mg of Fe / kg ( diluted in 100 mL of 5 % dextrose and intravenously infused over 30 minutes ) .
+In these subjects , the mean ± SD peak serum iron concentration was 5 . 5 ± 0 . 6 μg / mL , elimination half - life was 2 . 4 ± 0 . 2 hours and total clearance 28 . 5 ± 1 . 6 mL / min .
+Feridex I . V . was completely cleared from the blood by 25 hours after administration .
+Less than 2 % of the drug was excreted in the urine , as expected for iron .
+At 24 hours , serum iron increased and the percent saturation of iron binding capacity decreased in a dose - dependent fashion .
+By 7 days , serum iron returned to pre - administration levels , and serum ferritin increased .
+These results are consistent with the iron in Feridex I . V . entering the usual iron metabolism cycle .
+Animal pharmacokinetics studies were consistent with these results in humans .
+Imaging studies in rats showed a large decrease in liver signal intensity for the first 24 hours after dosing , followed by a gradual return to normal over 7 days .
+Radiotracer studies in rats were consistent with the iron in Feridex I . V . becoming part of the body iron pool .
+Histological studies in rats showed that the iron was in the RES and that it disappeared from the RES over 7 to 14 days with all evidence of iron gone by 14 – 28 days .
+In human clinical studies , there was no difference in loss of signal intensity on images obtained between 0 – 3 . 5 hours after infusion .
+Loss of signal intensity decreased at 1 and 2 days .
+Metabolism : The iron in Feridex I . V . enters the normal body iron metabolism cycle as evidenced by transient increases in serum iron values one day after administration and increase in serum ferritin values 7 days after administration .
+The amount of iron contained in a single dose is 39 mg for a 70 kg individual .
+This is less than 1 / 5 the amount of iron contained in one unit of whole blood .
+Special Populations : Geriatric / Pediatric : Pharmacokinetics in these populations were not studied .
+Patients enrolled in clinical trials were between 11 and 89 years old .
+Gender : Women showed a higher pre - contrast signal intensity and hence a larger decrease in liver signal intensity in images .
+This is consistent with a lower baseline iron in women .
+Race : Differences due to race were not noted .
+Renal Insufficiency : Feridex I . V . is not renally cleared ; no studies were performed in patients with renal insufficiency .
+Hepatic Insufficiency : Patients with cirrhosis had less of a decrease in liver signal intensity than other patients with known or suspected liver lesions .
+Patients with cirrhosis also had a higher incidence of back pain .
+( See ADVERSE REACTIONS section . )
+Hemochromatosis : Individuals with iron overload were not studied .
+Feridex I . V . contains iron .
+Literature reports suggested that Feridex I . V . will not add information to their MRI evaluations , since iron overload causes loss in liver signal intensity .
+Drug - Drug Interactions In rats , the simultaneous administration of heparin was found to prolong the half - life of Feridex I . V . in the blood .
+The effects of Feridex I . V . administration on heparin anticoagulation are not known .
+Pharmacodynamics : Feridex I . V . shortens the relaxation times for nearby hydrogen atoms and reduces signal intensity in normal tissues .
+This results in signal loss ( image darkening ) on mid T1 / T2 or strongly T2 - weighted images .
+Tissues with decreased RES function ( e . g . , metastases , primary liver cancer , cysts and various benign tumors , adenomas , and hyperplasia ) retain their native signal intensity , so the contrast between normal and abnormal tissue is increased .
+CLINICAL TRIALS Two clinical studies evaluated a total of 211 patients , ( 107 men and 104 women , 22 – 83 years of age ) with a variety of known or suspected liver lesions .
+Of these patients , efficacy evaluations were completed on 96 patients in Study A , and 112 patients in Study B .
+At baseline , patients had a CECT ( contrast enhanced computerized tomography ) scan with any iodinated contrast agent and a noncontrast MRI ( magnetic resonance imaging ) within 24 hours before Feridex I . V . administration .
+Feridex I . V . ( 0 . 56 mg / kg ) was administered intravenously over 30 minutes .
+Images were acquired up to 3 . 5 hours after the end of the infusion .
+The CECT , unenhanced MRI , and Feridex I . V . enhanced MRI images were read blindly ( i . e . , by radiologists who were not told of the patient ' s medical history or the presence of image contrast enhancing drugs ) .
+Results from blindly read images were compared to the final clinical diagnosis .
+The final clinical diagnoses were confirmed with histopathologic , surgical , or biopsy findings in 86 ( 41 % ) of patients .
+MRI scans were evaluated for the quantitative analysis of signal intensity in liver lesion ( s ) , and by blinded evaluations of the resulting images for changes in number and location of lesions , delineation of lesion margins , presence or absence of lesions , and characterization of lesions .
+Based upon these two studies , Feridex I . V . reduced the signal intensity of normal liver on T2 weighted pulse sequences to improve MRI contrast .
+Contrast to noise ratios were increased on T2 images and decreased on T1 images .
+Image interpretations for contrast enhancement , the number of lesions identified , and the sensitivity and specificity of the determination of whether an abnormal lesion was present are shown in the following table .
+The mean number of lesions seen before and after Feridex I . V . were comparable .
+The majority of new lesions ( 86 % ) were 0 . 5 cm – 1 . 0 cm in size , but other lesions were seen that were < 0 . 5 cm or > 1 . 0 cm .
+IMAGE INTERPRETATION RESULTS AFTER UNENHANCED MRI , CECT [ 1 ] AND FERIDEX I . V . ENHANCED MRI IN TWO CLINICAL STUDIES OF PATIENTS WITH KNOWN OR SUSPECTED LIVER LESIONS Outcome Measure Control Comparisons Study A ( N = 96 ) Study B ( N = 112 ) Contrast between normal and abnormal liver tissue seen on MRI MRI Contrast Better with Feridex I . V . MRI Contrast Same with Feridex I . V . MRI Contrast Worse with Feridex I . V . 84 % 13 % 3 % ( p < 0 . 01 ) 86 % 12 % 2 % ( p < 0 . 01 ) Number of Patients with Lesions Seen on MRI Patients with : More before Feridex I . V . Same before and after Feridex I . V .
+More After Feridex I . V 13 % 62 % 25 % 21 % 51 % 28 % Number of liver lesions seen on MRI ( Mean ± SD ) MRI before Feridex I . V . after Feridex I . V . 7 . 3 ± 15 . 9 6 . 7 ± 10 . 4 ( p = n . s . ) 6 . 7 ± 14 . 8 7 . 3 ± 15 . 5 ( p = n . s . ) Sensitivity / specificity for the detection of abnormal liver lesions MRI before Feridex I . V . vs . Final diagnosis : [ 2 ] Sensitivity Specificity 91 % 71 % 92 % 77 % MRI after Feridex I . V . vs . Final diagnosis : null Sensitivity Specificity 95 % 76 % 92 % 85 % CECT vs . Final diagnosis : null Sensitivity Specificity 96 % 67 % 98 % 58 % [ 1 ] MRI ( magnetic resonance image ) , CECT ( contrast enhanced computerized tomography ) [ 2 ] Final diagnosis : e . g . , by biopsy , surgical resection , autopsy , MRI procedures other than with Feridex I . V . , CECT , ultrasound , or other clinical information .
+In various types of liver lesions , Feridex I . V . caused a smaller decrease in the signal intensity ( 59 % – 105 % of the unenhanced ) than in the surrounding liver ( 28 % – 41 % of the unenhanced ) .
+The signal intensity changes are not characterized sufficiently to support distinguishing between types of lesions or diseases .
+Whether patients with cirrhosis have similar changes in signal intensity is not known .
+PERCENT DECREASE IN MRI SIGNAL INTENSITY ( SI ) ON T2 IMAGES AFTER FERIDEX I . V . Disease State Surrounding Liver Lesion in Question N % decrease in SI after Feridex I . V . N % decrease in SI after Feridex I . V . Patients with benign , malignant , hepatocellular and non - hepatocellular lesions ( excluding cirrhosis ) 162 59 – 72 % 153 0 – 41 % Imaging of the spleen by Feridex I . V . has not been adequately studied .
+INDICATIONS AND USAGE Feridex I . V . is indicated for I . V . administration as an adjunct to MRI ( in adult patients ) to enhance the T2 weighted images used in the detection and evaluation of lesions of the liver that are associated with an alteration in the RES .
+CONTRAINDICATIONS Feridex I . V . is contraindicated in patients with known allergic or hypersensitivity reactions to parenteral iron , parenteral dextran , parenteral iron - dextran , or parenteral iron - polysaccharide preparations .
+WARNINGS Anaphylactic - like reactions and hypotension have been noted in some patients receiving Feridex I . V . , other iron and dextran containing formulations , or radiographic contrast media .
+In clinical trials , anaphylactic and allergic adverse events occurred in 11 / 2240 ( 0 . 5 % ) of the patients who received Feridex I . V .
+These events include dyspnea , other respiratory symptoms , angioedema , generalized urticaria , and hypotension ; and required treatment .
+Acute severe back , leg or groin pain occurred in some patients .
+In clinical trials , 55 / 2240 ( 2 . 5 % ) of the patients experienced pain that was severe enough to cause interruption or discontinuation of the infusion .
+In most patients , the symptoms developed within 1 to 15 minutes ( up to 45 minutes ) .
+Some patients required treatment with corticosteroids , intravenous fluids or muscle relaxants .
+Pain may occur alone or with other symptoms such as hypotension and dyspnea .
+Patients with both pain and allergic symptoms received treatment with a combination of medications directed toward each event .
+( See ADVERSE REACTIONS section . )
+Patients with autoimmune disease have not been studied with Feridex I . V . , but have been reported in published literature to have a high rate of adverse reactions to injectable iron formulations .
+If hypersensitivity , or moderate to severe pain occurs , the injection should be stopped , and symptomatic treatment should be given .
+A fully equipped emergency cart , or equivalent supplies and equipment , and personnel competent in recognizing and treating anaphylactic or anaphylactoid reactions should be available .
+PRECAUTIONS GENERAL : THE DECISION TO USE CONTRAST ENHANCEMENT SHOULD INCLUDE A CONSIDERATION OF THE RISK OF THE DRUG , THE RISK OF THE PROCEDURE , THE EXPECTED BENEFIT OF THE IMAGE AND THE PATIENT ' S UNDERLYING DISORDER .
+THE DECISION TO USE FERIDEX I . V . SHOULD BE BASED UPON CAREFUL EVALUATION OF CLINICAL DATA , OTHER RADIOLOGIC DATA , AND THE RESULTS OF UNENHANCED MRI .
+Patients receiving contrast agents and especially those who are medically unstable must be closely supervised .
+Diagnostic procedures which involve the use of any contrast agent should be carried out under the direction of personnel with the prerequisite training and with a thorough knowledge of the particular procedure to be performed .
+After parenteral administration of a contrast agent , competent personnel , a fully equipped emergency cart or equivalent , and emergency facilities should be available for at least 60 to 120 minutes .
+Immunologic Reactions : The possibility of a reaction including serious , life - threatening , fatal , anaphylactoid or cardiovascular reactions should always be considered .
+Increased risk is associated with a known sensitivity to iron or dextran , history of previous reaction to a radiographic contrast agent , known allergies , other hypersensitivities , and underlying immune disorders , autoimmunity or immunodeficiencies that predispose to specific or non specific mediator release .
+Skin testing cannot be relied upon to predict severe reactions and skin testing may itself be hazardous to the patient .
+A thorough medical history with emphasis on allergy and hypersensitivity , immune , autoimmune and immunodeficiency disorders , and prior receipt of and response to the injection of any contrast agent , may be more accurate than pretesting in predicting potential adverse reactions .
+Feridex I . V . , which contains iron , should be used with caution in patients with disorders associated with iron over load ( e . g . , hemosiderosis , chronic hemolytic anemia with frequent blood transfusions ) .
+Extreme caution during injection of a contrast agent is necessary to avoid extravasation .
+This is especially important in patients with severe arterial or venous disease .
+Repeat Procedures : If the physician determines that imaging needs to be repeated , based on the pharmacodynamics of Feridex I . V . , repeat images could be obtained up to 3 . 5 hours after the original infusion without re - injection .
+Data on timing for and safety of repeated injections are not available .
+( See CLINICAL PHARMACOLOGY section . )
+Information for Patients Patients receiving Feridex I . V . should be instructed to inform their physician or health care provider : • If you are pregnant or nursing .
+( See PRECAUTIONS — PREGNANCY — Teratogenic Effects .
+— Pregnancy Category C section . )
+• If you are allergic to iron or dextran containing drugs or if you had any reactions to previous injections of dyes used for x - ray procedures .
+Also , inform your physician or health care provider if you are allergic to any other drugs or food , or if you have immune , autoimmune or immune deficiency disorders .
+( See PRECAUTIONS — GENERAL : section . )
+• About all medications you are currently taking , including non - prescription ( over - the - counter ) drugs and vitamins , before you have this procedure .
+Patients should be informed that : • Feridex I . V . has been prescribed for liver enhancement during MRI .
+• Feridex I . V . may cause severe back , groin , leg , or other pain , or allergic reactions .
+• The infusion fluid is a dark color .
+• The skin surrounding the infusion site may discolor if there is extravasation .
+The discoloration should disappear over time .
+Drug Interactions Drug interactions were not noted and were not studied in clinical studies .
+( See CLINICAL PHARMACOLOGY section on Drug - Drug Interactions . )
+Feridex I . V . administration provides elemental iron .
+In patients who are receiving supplemental iron orally or parenterally , the dose of supplemental iron may need to be decreased .
+The effect of concomitant parenteral iron on Feridex I . V . dosing is not known .
+( See CLINICAL PHARMACOLOGY section . )
+LABORATORY TEST FINDINGS Serum iron levels may be above the normal range following Feridex I . V . administration .
+Transient increases in serum iron of 15 - 100 % of baseline were observed 18 to 24 hours after Feridex I . V . administration , and returned to normal in most patients by 7 days after administration .
+Increases in serum ferritin levels were seen 1 to 7 days after administration .
+( See CLINICAL PHARMACOLOGY , Pharmacokinetics : section . )
+In a Phase 1 study in normal subjects , PTT was statistically significantly increased ; however , all values were within the normal range and no subjects had a more than 40 % increase from baseline .
+In clinical trials of patients who had baseline hematologic abnormalities associated with underlying liver disease , an effect of Feridex I . V . on platelet or PTT was not demonstrated .
+In patients with low hematocrit and hemoglobin , over a period of 48 hours to 7 days after Feridex I . V . , the serum iron , the hematocrit and hemoglobin levels increase slightly .
+CARCINOGENESIS , MUTAGENESIS , AND IMPAIRMENT OF FERTILITY Long term studies in animals have not been performed to evaluate the carcinogenic potential of Feridex I . V . Therapeutic iron dextran products have been associated with the development of sarcomas at the intramuscular injection sites ; the length of treatment or the length of time after injection until development of tumor is not known .
+Ferumoxides are iron oxides associated with dextran .
+Whether Feridex I . V . has a risk of tumorigenesis that is similar to that of iron dextran is not known .
+Feridex I . V . was not genotoxic in a series of studies that included the Ames test , the CHO / HGPRT forward mutation assay , a chromosome aberration test in CHO cells , an unscheduled DNA synthesis assay , and a micronucleus assay in mice .
+Feridex I . V . did not impair the fertility of male or female rats at dosages that were up to approximately 5 times the clinical dose when normalized to body surface area .
+PREGNANCY Teratogenic Effects .
+Pregnancy Category C . Feridex I . V . is teratogenic in rabbits at all studied doses .
+The smallest dose studied was approximately six times the clinical dose when normalized to body surface area .
+Adequate and well controlled studies were not conducted in pregnant women .
+Feridex I . V . should be used during pregnancy only if the potential benefit justifies the potential risk .
+NURSING MOTHERS It is not known whether Feridex I . V . is excreted in human milk .
+This drug should only be used in nursing women if the benefit clearly outweighs the risk .
+PEDIATRIC USE Safety and efficacy of Feridex I . V . in the pediatric population have not been established .
+ADVERSE REACTIONS In clinical trials , a total of 2240 subjects ( 32 healthy volunteers and 2208 patients with known or suspected liver lesions ) received Feridex I . V . Of these subjects , 35 % received the recommended dose of 0 . 56 mg Fe / kg and 62 % received a dose of 0 . 84 mg Fe / kg .
+Forty - four percent were female and 56 % were male , with a mean age of 54 . 9 years ( range 11 – 89 ) .
+Of 866 subjects in whom race is known , 647 ( 75 % ) were Asian , 199 ( 22 % ) were Caucasian , 14 ( 2 % ) were Black , 3 ( < 1 % ) were Hispanic , and 3 ( < 1 % ) other .
+Racial demographic information was not available for the 1374 subjects in European clinical trials .
+Of the 2240 subjects , 197 ( 8 . 8 % ) experienced an adverse event .
+The most commonly noted adverse experiences were back pain ( 3 . 4 % ) , and vasodilation ( 2 . 3 % ) .
+In a subgroup of 1535 patients in controlled clinical trials , in 44 ( 2 . 9 % ) of the patients [ 9 / 226 ( 3 . 9 % ) in US , 10 / 635 ( 1 . 6 % ) in Japanese , and 25 / 674 ( 3 . 7 % ) in European studies ] the infusion was interrupted or discontinued because of acute , moderate to severe pain ( back , lower torso , chest , groin , or upper leg ) with or without hypotension .
+Some patients required treatment .
+In a few of the patients with pain 11 / 44 ( 25 % ) , the infusion was interrupted , restarted , and completed .
+( See WARNINGS section . )
+Pain in any location was reported in 4 . 2 % of these 1535 patients given Feridex I . V .
+In a subgroup of 689 patients in whom associated underlying disorders were evaluated , back pain occurred in 18 / 144 ( 12 . 5 % ) patients with cirrhosis and in 10 / 545 ( 1 . 8 % ) patients who did not have cirrhosis .
+The frequency of pain in patients with other liver abnormalities is not known .
+Anaphylactic and allergic adverse events ( e . g . , generalized urticaria , respiratory symptoms , and hypotension ) that required acute treatment occurred in 11 / 2240 ( 0 . 5 % ) of patients who received Feridex I . V . Most other adverse reactions were mild to moderate , of short duration , and resolved spontaneously without treatment .
+A relationship between adverse events and dose , age , or gender was not observed .
+Adverse reactions that occurred in greater than or equal to 0 . 5 % of the 1535 patients in controlled clinical trials are listed below in related categories , in decreasing order of occurrence within each system , and regardless of causality : ADVERSE EVENTS IN ≥ 0 . 5 % OF THE 1535 PATIENTS IN CONTROLLED CLINICAL TRIALS WITH FERIDEX I . V . Categories Adverse Event Number of Patients ( % ) Number of patients who received Feridex I . V . 1535 Number of patients with any adverse event 144 ( 9 . 4 % ) Digestive System Nausea 11 ( 0 . 7 % ) Body as a whole Total ( pain all sources ) Pain Back / Leg / Pain Leg Headache Pain Chest 65 ( 4 . 2 % ) 56 ( 3 . 6 % ) 13 ( 0 . 8 % ) 10 ( 0 . 7 % ) Hypersensitivity Total ( hypersensitivity all sources ) Vasodilation Urticaria / Erythematous Rash / Rash Dyspnea 53 ( 3 . 4 % ) 33 ( 2 . 1 % ) 12 ( 0 . 7 % ) 8 ( 0 . 5 % ) The following adverse reactions were observed in < 0 . 5 % of the subjects receiving Feridex I . V . : DIGESTIVE : diarrhea , vomiting , anorexia ; BODY PAIN : pain abdomen , pain neck , fatigue , fever ; CARDIOVASCULAR : hypertension , hypotension , arrhythmias ; NERVOUS : dizziness , paresthesia ; SKIN AND APPENDAGES : pruritus , sweating ; SPECIAL SENSES : abnormal vision , taste perversion ; RESPIRATORY : cough , epistaxis , rhinitis .
+( See sections on CONTRAINDICATIONS , WARNINGS and PRECAUTIONS . )
+In 705 patients who received Feridex I . V . in other trials , similar adverse events were reported .
+OVERDOSE Overdose with Feridex I . V . has not been reported .
+Acute toxicity is apt to be related to iron overload , acute back pain and allergic events .
+Chronic administration of therapeutic iron dextran in excess of the total amount of iron needed for iron stores may lead to hemosiderosis .
+A study of ( 59 Fe ) complexed iron - dextran utilizing isotonic saline in a 4 - hour in vitro dialysis run indicated that less than 0 . 5 % of the injected radio labeled iron dextran traversed the dialysis membrane .
+Feridex I . V . contains iron associated with dextran .
+Whether Feridex I . V . is dialyzable is not known .
+DOSAGE AND ADMINISTRATION Dose The recommended dosage of Feridex I . V . is 0 . 56 milligrams of iron ( 0 . 05 mL Feridex I . V . ) per kilogram of body weight , that is diluted in 100 mL of 5 % dextrose solution and given over 30 minutes .
+( SeeDrug Preparation Section ) .
+The diluted drug is administered through a 5 micron filter at a rate of 2 to 4 milliliters per minute .
+Feridex I . V . should not be administered undiluted .
+Drug Preparation • The vial should be used at room temperature .
+Mix by inverting the vial 10 to 20 times .
+• Draw up the appropriate dose of Feridex I . V . into a sterile syringe .
+• Dilute Feridex I . V . by injecting it into 100 mL of 5 % dextrose solution ( D5W ) .
+• The bag should be inverted two or three times to assure dilution .
+• The drug product should be administered within 8 hours following dilution .
+Imaging Post - contrast imaging may begin immediately after the dose is infused and may be performed up to 3 . 5 hours after the end of the infusion .
+T2 - weighted pulse sequences provide the maximum contrast effect .
+HOW SUPPLIED Feridex I . V . is black to reddish brown liquid containing 11 . 2 mg Fe / mL ( 56 mg of iron / vial ) in a vial with a tear off seal .
+Feridex I . V . is supplied in 5 mL single dose vials in boxes of 1 ( NDC 59338 – 7035 – 1 ) and 5 ( NDC 59338 – 7035 – 5 ) .
+An administration filter is supplied for each vial .
+Feridex I . V . is stable for 24 hours after dilution .
+STORAGE Storage at 2 – 30 ° C ( 35 – 86 ° F ) .
+DO NOT FREEZE .
+If there are indications that the package has been exposed to freezing , DO NOT USE .
+Rx Only The following patents have claims directed to the drug : U . S . P . 4 , 770 , 183 , U . S . P . 4 , 827 , 945 , U . S . P . 4 , 951 , 675 , U . S . P . 5 , 055 , 288 , U . S . P . 5 , 102 , 652 , U . S . P . 5 , 219 , 554 , U . S . P . 5 , 248 , 492 Manufactured for : [ MULTIMEDIA ] Bayer HealthCare Pharmaceuticals Inc .
+Wayne , NJ 07470 Manufactured by Advanced Magnetics , Inc . , Cambridge , MA 02138 Feridex I . V . is a registered trademark of Advanced Magnetics , Inc .
+© 2007 , Bayer HealthCare Pharmaceuticals Inc .
+All rights reserved Revised May 2007 Printed in USA 6700900 / 6102 REV 08 [ MULTIMEDIA ]

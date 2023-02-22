@@ -1,0 +1,189 @@
+Rx Only DESCRIPTION Nicardipine hydrochloride is a calcium ion influx inhibitor ( slow channel blocker or calcium channel blocker ) .
+Nicardipine hydrochloride injection for intravenous administration contains 2 . 5 mg / mL of nicardipine hydrochloride .
+Nicardipine hydrochloride is a dihydropyridine derivative with IUPAC ( International Union of Pure and Applied Chemistry ) chemical name ( ± ) - 2 - ( benzyl - methyl amino ) ethyl methyl 1 , 4 - dihydro - 2 , 6 - dimethyl - 4 - ( m - nitrophenyl ) - 3 , 5 - pyridinedicarboxylate monohydrochloride and has the following structure : [ MULTIMEDIA ] Nicardipine hydrochloride is a greenish - yellow , odorless , crystalline powder that melts at about 169º C .
+It is freely soluble in chloroform , methanol , and glacial acetic acid , sparingly soluble in anhydrous ethanol , slightly soluble in n - butanol , water , 0 . 01 M potassium dihydrogen phosphate , acetone , and dioxane , very slightly soluble in ethyl acetate , and practically insoluble in benzene , ether , and hexane .
+It has a molecular weight of 515 . 99 .
+Nicardipine hydrochloride injection is available as a sterile , non - pyrogenic , clear , yellow solution in 10 mL vials for intravenous infusion after dilution .
+Each mL contains 2 . 5 mg nicardipine hydrochloride in water for injection , USP with 48 mg sorbitol , NF , buffered to pH 3 . 5 with 0 . 525 mg citric acid monohydrate , USP and 0 . 09 mg sodium hydroxide , NF .
+Additional citric acid and / or sodium hydroxide may have been added to adjust pH . CLINICAL PHARMACOLOGY Mechanism of Action Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations .
+The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels .
+The effects of nicardipine are more selective to vascular smooth muscle than cardiac muscle .
+In animal models , nicardipine produced relaxation of coronary vascular smooth muscle at drug levels which cause little or no negative inotropic effect .
+Pharmacokinetics and Metabolism Following infusion , nicardipine plasma concentrations decline tri - exponentially , with a rapid early distribution phase ( α - half - life of 2 . 7 minutes ) , an intermediate phase ( β - half - life of 44 . 8 minutes ) , and a slow terminal phase ( γ - half - life of 14 . 4 hours ) that can only be detected after long - term infusions .
+Total plasma clearance ( Cl ) is 0 . 4 L / hr • kg , and the apparent volume of distribution ( Vd ) using a non - compartment model is 8 . 3 L / kg .
+The pharmacokinetics of nicardipine hydrochloride injection are linear over the dosage range of 0 . 5 to 40 mg / hr .
+Rapid dose - related increases in nicardipine plasma concentrations are seen during the first two hours after the start of an infusion of nicardipine hydrochloride injection .
+Plasma concentrations increase at a much slower rate after the first few hours , and approach steady state at 24 to 48 hours .
+On termination of the infusion , nicardipine concentrations decrease rapidly , with at least a 50 % decrease during the first two hours post - infusion .
+The effects of nicardipine on blood pressure significantly correlate with plasma concentrations .
+Nicardipine is highly protein bound ( > 95 % ) in human plasma over a wide concentration range .
+Nicardipine hydrochloride injection has been shown to be rapidly and extensively metabolized by the liver .
+After coadministration of a radioactive intravenous dose of nicardipine hydrochloride injection with an oral 30 mg dose given every 8 hours , 49 % of the radioactivity was recovered in the urine and 43 % in the feces within 96 hours .
+None of the dose was recovered as unchanged nicardipine .
+Nicardipine does not induce or inhibit its own metabolism and does not induce or inhibit hepatic microsomal enzymes .
+The steady - state pharmacokinetics of nicardipine are similar in elderly hypertensive patients ( > 65 years ) and young healthy adults .
+Hemodynamics Nicardipine hydrochloride injection produces significant decreases in systemic vascular resistance .
+In a study of intra - arterially administered nicardipine hydrochloride injection , the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers .
+Administration of nicardipine hydrochloride injection to normotensive volunteers at dosages of 0 . 25 to 3 mg / hr for eight hours produced changes of < 5 mmHg in systolic blood pressure and < 3 mmHg in diastolic blood pressure .
+An increase in heart rate is a normal response to vasodilation and decrease in blood pressure ; in some patients these increases in heart rate may be pronounced .
+In placebo - controlled trials , the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period .
+Hemodynamic studies following intravenous dosing in patients with coronary artery disease and normal or moderately abnormal left ventricular function have shown significant increases in ejection fraction and cardiac output with no significant change , or a small decrease , in left ventricular end - diastolic pressure ( LVEDP ) .
+There is evidence that nicardipine hydrochloride increases blood flow .
+Coronary dilatation induced by nicardipine hydrochloride injection improves perfusion and aerobic metabolism in areas with chronic ischemia , resulting in reduced lactate production and augmented oxygen consumption .
+In patients with coronary artery disease , nicardipine hydrochloride injection , administered after beta - blockade , significantly improved systolic and diastolic left ventricular function .
+In congestive heart failure patients with impaired left ventricular function , nicardipine hydrochloride injection increased cardiac output both at rest and during exercise .
+Decreases in left ventricular end - diastolic pressure were also observed .
+However , in some patients with severe left ventricular dysfunction , it may have a negative inotropic effect and could lead to worsened failure .
+“ Coronary steal ” has not been observed during treatment with nicardipine hydrochloride injection .
+( Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas . )
+Nicardipine hydrochloride injection has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle .
+Radionuclide angiography has confirmed that wall motion remained improved during increased oxygen demand .
+( Occasional patients have developed increased angina upon receiving nicardipine hydrochloride capsules .
+Whether this represents coronary steal in these patients , or is the result of increased heart rate and decreased diastolic pressure , is not clear . )
+In patients with coronary artery disease , nicardipine hydrochloride injection improves left ventricular diastolic distensibility during the early filling phase , probably due to a faster rate of myocardial relaxation in previously underperfused areas .
+There is little or no effect on normal myocardium , suggesting the improvement is mainly by indirect mechanisms such as afterload reduction and reduced ischemia .
+Nicardipine hydrochloride injection has no negative effect on myocardial relaxation at therapeutic doses .
+The clinical benefits of these properties have not yet been demonstrated .
+Electrophysiologic Effects In general , no detrimental effects on the cardiac conduction system have been seen with nicardipine hydrochloride injection .
+During acute electrophysiologic studies , it increased heart rate and prolonged the corrected QT interval to a minor degree .
+It did not affect sinus node recovery or SA conduction times .
+The PA , AH , and HV intervals1 or the functional and effective refractory periods of the atrium were not prolonged .
+The relative and effective refractory periods of the His - Purkinje system were slightly shortened .
+1 PA = conduction time from high to low right atrium ; AH = conduction time from low right atrium to His bundle deflection , or AV nodal conduction time ; HV = conduction time through the His bundle and the bundle branch - Purkinje system .
+Hepatic Function Because nicardipine is extensively metabolized by the liver , plasma concentrations are influenced by changes in hepatic function .
+In a clinical study with nicardipine hydrochloride capsules in patients with severe liver disease , plasma concentrations were elevated and the half - life was prolonged ( see PRECAUTIONS ) .
+Similar results were obtained in patients with hepatic disease when nicardipine hydrochloride injection was administered for 24 hours at 0 . 6 mg / hr .
+Renal Function When nicardipine hydrochloride injection was given to mild to moderate hypertensive patients with moderate degrees of renal impairment , significant reduction in glomerular filtration rate ( GFR ) and effective renal plasma flow ( RPF ) was observed .
+No significant differences in liver blood flow were observed in these patients .
+A significantly lower systemic clearance and higher area under the curve ( AUC ) were observed .
+When nicardipine hydrochloride capsules ( 20 mg or 30 mg TID ) were given to hypertensive patients with impaired renal function , mean plasma concentrations , AUC , and Cmax were approximately two - fold higher than in healthy controls .
+There is a transient increase in electrolyte excretion , including sodium ( see PRECAUTIONS ) .
+Acute bolus administration of nicardipine hydrochloride injection ( 2 . 5 mg ) in healthy volunteers decreased mean arterial pressure and renal vascular resistance ; glomerular filtration rate ( GFR ) , renal plasma flow ( RPF ) , and the filtration fraction were unchanged .
+In healthy patients undergoing abdominal surgery , nicardipine hydrochloride injection ( 10 mg over 20 minutes ) increased GFR with no change in RPF when compared with placebo .
+In hypertensive type II diabetic patients with nephropathy , nicardipine hydrochloride capsules ( 20 mg TID ) did not change RPF and GFR , but reduced renal vascular resistance .
+Pulmonary Function In two well - controlled studies of patients with obstructive airway disease treated with nicardipine hydrochloride capsules , no evidence of increased bronchospasm was seen .
+In one of the studies , nicardipine hydrochloride capsules improved forced expiratory volume 1 second ( FEV1 ) and forced vital capacity ( FVC ) in comparison with metoprolol .
+Adverse experiences reported in a limited number of patients with asthma , reactive airway disease , or obstructive airway disease are similar to all patients treated with nicardipine hydrochloride capsules .
+Effects in Hypertension In patients with mild to moderate chronic stable essential hypertension , nicardipine hydrochloride injection ( 0 . 5 to 4 mg / hr ) produced dose - dependent decreases in blood pressure , although only the decreases at 4 mg / hr were statistically different from placebo .
+At the end of a 48 - hour infusion at 4 mg / hr , the decreases were 26 mmHg ( 17 % ) in systolic blood pressure and 20 . 7 mmHg ( 20 % ) in diastolic blood pressure .
+In other settings ( e . g . , patients with severe or postoperative hypertension ) , nicardipine hydrochloride injection ( 5 to 15 mg / hr ) produced dose - dependent decreases in blood pressure .
+Higher infusion rates produced therapeutic responses more rapidly .
+The mean time to therapeutic response for severe hypertension , defined as diastolic blood pressure ≤ 95 mmHg or ≥ 25 mmHg decrease and systolic blood pressure ≤ 160 mmHg , was 77 ± 5 . 2 minutes .
+The average maintenance dose was 8 mg / hr .
+The mean time to therapeutic response for postoperative hypertension , defined as ≥ 15 % reduction in diastolic or systolic blood pressure , was 11 . 5 ± 0 . 8 minutes .
+The average maintenance dose was 3 mg / hr .
+INDICATIONS AND USAGE Nicardipine hydrochloride injection is indicated for the short - term treatment of hypertension when oral therapy is not feasible or not desirable .
+For prolonged control of blood pressure , patients should be transferred to oral medication as soon as their clinical condition permits ( see DOSAGE AND ADMINISTRATION ) .
+CONTRAINDICATIONS Nicardipine hydrochloride injection is contraindicated in patients with known hypersensitivity to the drug .
+Nicardipine hydrochloride injection is also contraindicated in patients with advanced aortic stenosis because part of the effect of nicardipine hydrochloride injection is secondary to reduced afterload .
+Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance .
+WARNINGS Beta - Blocker Withdrawal Nicardipine is not a beta - blocker and therefore gives no protection against the dangers of abrupt beta - blocker withdrawal ; any such withdrawal should be by gradual reduction of dose of beta - blocker .
+Rapid Decreases in Blood Pressure No clinical events have been reported suggestive of a too rapid decrease in blood pressure with nicardipine hydrochloride injection .
+However , as with any antihypertensive agent , blood pressure lowering should be accomplished over as long a time as is compatible with the patient ’ s clinical status .
+Use in Patients with Angina Increases in frequency , duration , or severity of angina have been seen in chronic oral therapy with nicardipine hydrochloride capsules .
+Induction or exacerbation of angina has been seen in less than 1 % of coronary artery disease patients treated with nicardipine hydrochloride injection .
+The mechanism of this effect has not been established .
+Use in Patients with Congestive Heart Failure Nicardipine hydrochloride injection reduced afterload without impairing myocardial contractility in preliminary hemodynamic studies of CHF patients .
+However , in vitro and in some patients , a negative inotropic effect has been observed .
+Therefore , caution should be exercised when using nicardipine hydrochloride injection , particularly in combination with a beta - blocker , in patients with CHF or significant left ventricular dysfunction .
+Use in Patients with Pheochromocytoma Only limited clinical experience exists in use of nicardipine hydrochloride injection for patients with hypertension associated with pheochromocytoma .
+Caution should therefore be exercised when using the drug in these patients .
+Peripheral Vein Infusion Site To minimize the risk of peripheral venous irritation , it is recommended that the site of infusion of nicardipine hydrochloride injection be changed every 12 hours .
+PRECAUTIONS General Blood Pressure Because nicardipine hydrochloride injection decreases peripheral resistance , monitoring of blood pressure during administration is required .
+Nicardipine hydrochloride injection , like other calcium channel blockers , may occasionally produce symptomatic hypotension .
+Caution is advised to avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage .
+Use in Patients with Impaired Hepatic Function Since nicardipine is metabolized in the liver , the drug should be used with caution in patients with impaired liver function or reduced hepatic blood flow .
+The use of lower dosages should be considered .
+Nicardipine administered intravenously has been reported to increase hepatic venous pressure gradient by 4 mmHg in cirrhotic patients at high doses ( 5 mg / 20 min ) .
+Nicardipine hydrochloride injection should therefore be used with caution in patients with portal hypertension .
+Use in Patients with Impaired Renal Function When nicardipine hydrochloride injection was given to mild to moderate hypertensive patients with moderate renal impairment , a significantly lower systemic clearance and higher AUC was observed .
+These results are consistent with those seen after oral administration of nicardipine .
+Careful dose titration is advised when treating renal impaired patients .
+Drug Interactions Since nicardipine hydrochloride injection may be administered to patients already being treated with other medications , including other antihypertensive agents , careful monitoring of these patients is necessary to detect and promptly treat any undesired effects from concomitant administration .
+Beta - Blockers In most patients , nicardipine hydrochloride injection can safely be used concomitantly with beta - blockers .
+However , caution should be exercised when using nicardipine hydrochloride injection in combination with a beta - blocker in congestive heart failure patients ( see WARNINGS ) .
+Cimetidine Cimetidine has been shown to increase nicardipine plasma concentrations with nicardipine hydrochloride capsule administration .
+Patients receiving the two drugs concomitantly should be carefully monitored .
+Data with other histamine - 2 antagonists are not available .
+Digoxin Studies have shown that nicardipine hydrochloride capsules usually do not alter digoxin plasma concentrations .
+However , as a precaution , digoxin levels should be evaluated when concomitant therapy with nicardipine hydrochloride injection is initiated .
+Fentanyl Anesthesia Hypotension has been reported during fentanyl anesthesia with concomitant use of a beta - blocker and a calcium channel blocker .
+Even though such interactions were not seen during clinical studies with nicardipine hydrochloride injection , an increased volume of circulating fluids might be required if such an interaction were to occur .
+Cyclosporine Concomitant administration of nicardipine hydrochloride capsules and cyclosporine results in elevated plasma cyclosporine levels .
+Plasma concentrations of cyclosporine should therefore be closely monitored during nicardipine hydrochloride injection administration , and the dose of cyclosporine reduced accordingly .
+In Vitro Interaction The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide , propranolol , dipyridamole , warfarin , quinidine , or naproxen were added to human plasma in vitro .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Rats treated with nicardipine in the diet ( at concentrations calculated to provide daily dosage levels of 5 , 15 , or 45 mg / kg / day ) for two years showed a dose - dependent increase in thyroid hyperplasia and neoplasia ( follicular adenoma / carcinoma ) .
+One - and three - month studies in the rat have suggested that these results are linked to a nicardipine - induced reduction in plasma thyroxine ( T4 ) levels with a consequent increase in plasma levels of thyroid stimulating hormone ( TSH ) .
+Chronic elevation of TSH is known to cause hyperstimulation of the thyroid .
+In rats on an iodine deficient diet , nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation .
+Mice treated with nicardipine in the diet ( at concentrations calculated to provide daily dosage levels of up to 100 mg / kg / day ) for up to 18 months showed no evidence of neoplasia of any tissue and no evidence of thyroid changes .
+There was no evidence of thyroid pathology in dogs treated with up to 25 mg nicardipine / kg / day for one year and no evidence of effects of nicardipine on thyroid function ( plasma T4 and TSH ) in man .
+There was no evidence of a mutagenic potential of nicardipine in a battery of genotoxicity tests conducted on microbial indicator organisms , in micronucleus tests in mice and hamsters , or in a sister chromatid exchange study in hamsters .
+No impairment of fertility was seen in male or female rats administered nicardipine at oral doses as high as 100 mg / kg / day ( 50 times the 40 mg TlD maximum recommended dose in man , assuming a patient weight of 60 kg ) .
+Pregnancy Pregnancy Category C Nicardipine hydrochloride injection at doses up to 5 mg / kg / day to pregnant rats and up to 0 . 5 mg / kg / day to pregnant rabbits produced no embryotoxicity or teratogenicity .
+Embryotoxicity was seen at 10 mg / kg / day in rats and at 1 mg / kg / day in rabbits , but no teratogenicity was observed at these doses .
+Nicardipine was embryocidal when administered orally to pregnant Japanese White rabbits , during organogenesis , at 150 mg / kg / day ( a dose associated with marked body weight gain suppression in the treated doe ) , but not at 50 mg / kg / day ( 25 times the maximum recommended dose in man ) .
+No adverse effects on the fetus were observed when New Zealand albino rabbits were treated , during organogenesis , with up to 100 mg nicardipine / kg / day ( a dose associated with significant mortality in the treated doe ) .
+In pregnant rats administered nicardipine orally at up to 100 mg / kg / day ( 50 times the maximum recommended human dose ) there was no evidence of embryolethality or teratogenicity .
+However , dystocia , reduced birth weights , reduced neonatal survival , and reduced neonatal weight gain were noted .
+There are no adequate and well - controlled studies in pregnant women .
+Nicardipine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Studies in rats have shown significant concentrations of nicardipine in maternal milk .
+For this reason , it is recommended that women who wish to breastfeed should not be given this drug .
+Pediatric Use Safety and efficacy in patients under the age of 18 have not been established .
+Geriatric Use The steady - state pharmacokinetics of nicardipine are similar in elderly hypertensive patients ( > 65 years ) and young healthy adults .
+Clinical studies of nicardipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Two hundred forty - four patients participated in two multicenter , double - blind , placebo - controlled trials of nicardipine hydrochloride injection .
+Adverse experiences were generally not serious and most were expected consequences of vasodilation .
+Adverse experiences occasionally required dosage adjustment .
+Therapy was discontinued in approximately 12 % of patients , mainly due to hypotension , headache , and tachycardia .
+Percent of Patients with Adverse Experiences During the Double - Blind Portion of Controlled Trials Adverse Experience Nicardipine Hydrochloride ( n = 144 ) Placebo ( n = 100 ) Body as a Whole Headache 14 . 6 2 . 0 Asthenia 0 . 7 0 . 0 Abdominal pain 0 . 7 0 . 0 Chest pain 0 . 7 0 . 0 Cardiovascular Hypotension 5 . 6 1 . 0 Tachycardia 3 . 5 0 . 0 ECG abnormality 1 . 4 0 . 0 Postural hypotension 1 . 4 0 . 0 Ventricular extrasystoles 1 . 4 0 . 0 Extrasystoles 0 . 7 0 . 0 Hemopericardium 0 . 7 0 . 0 Hypertension 0 . 7 0 . 0 Supraventricular tachycardia 0 . 7 0 . 0 Syncope 0 . 7 0 . 0 Vasodilation 0 . 7 0 . 0 Ventricular tachycardia 0 . 7 0 . 0 Digestive Nausea / vomiting 4 . 9 1 . 0 Injection Site Injection site reaction 1 . 4 0 . 0 Injection site pain 0 . 7 0 . 0 Metabolic and Nutritional Hypokalemia 0 . 7 0 . 0 Nervous Dizziness 1 . 4 0 . 0 Hypesthesia 0 . 7 0 . 0 Intracranial hemorrhage 0 . 7 0 . 0 Paresthesia 0 . 7 0 . 0 Respiratory Dyspnea 0 . 7 0 . 0 Skin and Appendages Sweating 1 . 4 0 . 0 Urogenital Polyuria 1 . 4 0 . 0 Hematuria 0 . 7 0 . 0 Rare Events The following rare events have been reported in clinical trials or in the literature in association with the use of intravenously administered nicardipine .
+Body as a Whole fever , neck pain Cardiovascular angina pectoris , atrioventricular block , ST segment depression , inverted T wave , deep - vein thrombophlebitis Digestive dyspepsia Hemic and Lymphatic thrombocytopenia Metabolic and Nutritional hypophosphatemia , peripheral edema Nervous confusion , hypertonia Respiratory respiratory disorder Special Senses conjunctivitis , ear disorder , tinnitus Urogenital urinary frequency Sinus node dysfunction and myocardial infarction , which may be due to disease progression , have been seen in patients on chronic therapy with orally administered nicardipine .
+OVERDOSAGE Several overdosages with orally administered nicardipine have been reported .
+One adult patient allegedly ingested 600 mg of nicardipine [ standard ( immediate release ) capsules ] , and another patient , 2160 mg of the sustained release formulation of nicardipine .
+Symptoms included marked hypotension , bradycardia , palpitations , flushing , drowsiness , confusion and slurred speech .
+All symptoms resolved without sequelae .
+An overdosage occurred in a one - year - old child who ingested half of the powder in a 30 mg nicardipine standard capsule .
+The child remained asymptomatic .
+Based on results obtained in laboratory animals , lethal overdose may cause systemic hypotension , bradycardia ( following initial tachycardia ) and progressive atrioventricular conduction block .
+Reversible hepatic function abnormalities and sporadic focal hepatic necrosis were noted in some animal species receiving very large doses of nicardipine .
+For treatment of overdosage , standard measures including monitoring of cardiac and respiratory functions should be implemented .
+The patient should be positioned so as to avoid cerebral anoxia .
+Frequent blood pressure determinations are essential .
+Vasopressors are clinically indicated for patients exhibiting profound hypotension .
+Intravenous calcium gluconate may help reverse the effects of calcium entry blockade .
+DOSAGE AND ADMINISTRATION Nicardipine hydrochloride injection is intended for intravenous use .
+DOSAGE MUST BE INDIVIDUALIZED depending upon the severity of hypertension and the response of the patient during dosing .
+Blood pressure should be monitored both during and after the infusion ; too rapid or excessive reduction in either systolic or diastolic blood pressure during parenteral treatment should be avoided .
+Preparation Dilution : Nicardipine hydrochloride injection is administered by slow continuous infusion at a CONCENTRATION OF 0 . 1 mg / mL .
+Each vial ( 25 mg ) should be diluted with 240 mL of compatible intravenous fluid ( see below ) , resulting in 250 mL of solution at a concentration of 0 . 1 mg / mL .
+Nicardipine hydrochloride injection has been found to be compatible and stable in glass or polyvinyl chloride containers for 24 hours at controlled room temperature with : Dextrose ( 5 % ) Injection , USP Dextrose ( 5 % ) and Sodium Chloride ( 0 . 45 % ) Injection , USP Dextrose ( 5 % ) and Sodium Chloride ( 0 . 9 % ) Injection , USP Dextrose ( 5 % ) with 40 mEq Potassium , USP Sodium Chloride ( 0 . 45 % ) Injection , USP Sodium Chloride ( 0 . 9 % ) Injection , USP Nicardipine hydrochloride injection is NOT compatible with Sodium Bicarbonate ( 5 % ) Injection , USP or Lactated Ringer ’ s Injection , USP .
+THE DILUTED SOLUTION IS STABLE FOR 24 HOURS AT ROOM TEMPERATURE .
+Inspection : As with all parenteral drugs , nicardipine hydrochloride injection should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Nicardipine hydrochloride injection is normally light yellow in color .
+Dosage As a Substitute for Oral Nicardipine Therapy The intravenous infusion rate required to produce an average plasma concentration equivalent to a given oral dose at steady state is shown in the following table : Oral Nicardipine Hydrochloride Dose Equivalent I . V . Infusion Rate 20 mg q8h 0 . 5 mg / hr 30 mg q8h 1 . 2 mg / hr 40 mg q8h 2 . 2 mg / hr For Initiation of Therapy in a Drug Free Patient The time course of blood pressure decrease is dependent on the initial rate of infusion and the frequency of dosage adjustment .
+Nicardipine hydrochloride injection is administered by slow continuous infusion at a CONCENTRATION OF 0 . 1 mg / mL .
+With constant infusion , blood pressure begins to fall within minutes .
+It reaches about 50 % of its ultimate decrease in about 45 minutes and does not reach final steady state for about 50 hours .
+When treating acute hypertensive episodes in patients with chronic hypertension , discontinuation of infusion is followed by a 50 % offset of action in 30 ± 7 minutes but plasma levels of drug and gradually decreasing antihypertensive effects exist for about 50 hours .
+Titration : For gradual reduction in blood pressure , initiate therapy at 50 mL / hr ( 5 mg / hr ) .
+If desired blood pressure reduction is not achieved at this dose , the infusion rate may be increased by 25 mL / hr ( 2 . 5 mg / hr ) every 15 minutes up to a maximum of 150 mL / hr ( 15 mg / hr ) , until desired blood pressure reduction is achieved .
+For more rapid blood pressure reduction , initiate therapy at 50 mL / hr ( 5 mg / hr ) .
+If desired blood pressure reduction is not achieved at this dose , the infusion rate may be increased by 25 mL / hr ( 2 . 5 mg / hr ) every 5 minutes up to a maximum of 150 mL / hr ( 15 mg / hr ) , until desired blood pressure reduction is achieved .
+Following achievement of the blood pressure goal , the infusion rate should be decreased to 30 mL / hr ( 3 mg / hr ) .
+Maintenance : The rate of infusion should be adjusted as needed to maintain desired response .
+Conditions Requiring Infusion Adjustment Hypotension or Tachycardia : If there is concern of impending hypotension or tachycardia , the infusion should be discontinued .
+When blood pressure has stabilized , infusion of nicardipine hydrochloride injection may be restarted at low doses such as 30 to 50 mL / hr ( 3 to 5 mg / hr ) and adjusted to maintain desired blood pressure .
+Infusion Site Changes : Nicardipine hydrochloride injection should be continued as long as blood pressure control is needed .
+The infusion site should be changed every 12 hours if administered via peripheral vein .
+Impaired Cardiac , Hepatic , or Renal Function : Caution is advised when titrating nicardipine hydrochloride injection in patients with congestive heart failure or impaired hepatic or renal function ( see PRECAUTIONS ) .
+Transfer to Oral Antihypertensive Agents If treatment includes transfer to an oral antihypertensive agent other than nicardipine hydrochloride capsules , therapy should generally be initiated upon discontinuation of nicardipine hydrochloride injection .
+If nicardipine hydrochloride capsules are to be used , the first dose of a TID regimen should be administered 1 hour prior to discontinuation of the infusion .
+HOW SUPPLIED Nicardipine hydrochloride injection 25 mg / 10 mL ( 2 . 5 mg / mL ) single dose vials are available in cartons of 10 as follows : 25 mg / 10 mL ( 2 . 5 mg / mL ) – NDC 40042 - 047 - 10 Store at 20ºC to 25ºC ( 68ºF to 77ºF ) [ see USP Controlled Room Temperature ] .
+Freezing does not adversely affect the product , but exposure to elevated temperatures should be avoided .
+Protect from light .
+Store vials in carton until used .
+Manufactured for : PharmaForce , Inc .
+Columbus , OH 43229 Revised August 2009 PACKAGE LABEL . PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

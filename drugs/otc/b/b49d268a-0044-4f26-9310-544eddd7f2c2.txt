@@ -1,0 +1,154 @@
+DESCRIPTION Technescan MAG3 ™ is a kit for the preparation of technetium Tc 99 m mertiatide , a diagnostic radiopharmaceutical .
+It is supplied as a sterile , nonpyrogenic , lyophilized powder .
+Each vial contains betiatide ( N - [ N - [ N - [ ( benzoylthio ) acetyl ] glycyl ] glycyl ] - glycine ) .
+After reconstitution with sterile sodium pertechnetate Tc 99 m injection , the technetium Tc 99 m mertiatide ( disodium [ N - [ N - [ N - ( mercaptoacetyl ) glycyl ] glycyl ] glycinato ( 2 - ) - N , N ′ , N ″ , S ′ ] oxotechnetate ( 2 - ) ) which is formed is suitable for intravenous administration .
+Each 10 milliliter vial contains 1 milligram betiatide , 0 . 05 milligram ( minimum ) stannous chloride dihydrate ( SnCl2 • 2H2O ) and 0 . 2 milligram ( maximum ) total tin expressed as stannous chloride dihydrate ( SnCl2 • 2H2O ) , 40 milligrams sodium tartrate dihydrate ( Na2C4H2O6 • 2H2O ) , and 20 milligrams lactose monohydrate .
+Prior to lyophilization , sodium hydroxide or hydrochloric acid may be added for pH adjustment .
+The pH of the reconstituted drug is between 5 . 0 and 6 . 0 .
+No bacteriostatic preservative is present .
+The contents are sealed under argon .
+Betiatide is light sensitive and must be protected from light .
+Betiatide and technetium Tc 99 m mertiatide have the following structural formulas : [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PHYSICAL CHARACTERISTICS Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours .
+[ 1 ] The principal photon that is useful for detection and imaging is listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data null Radiation M Mean % per Disintegration Energy ( keV ) Gamma - 2 89 . 07 140 . 5 The specific gamma ray constant for Technetium Tc 99 m is 0 . 78 R / mCi - hr at 1 cm .
+The first half - value thickness of lead ( Pb ) for Technetium Tc 99 m is 0 . 017 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of 0 . 25 cm of Pb will decrease the external radiation exposure by a factor of about 1000 .
+Table 2 .
+Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of the radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 3 .
+Table 3 .
+Physical Decay Chart : Technetium Tc 99 m , Half - life 6 . 02 Hours * Calibration Time Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 [ 1 ] Kocher , David C . , " Radioactive Decay Tables , " DOE / TIC - 11026 , 108 ( 1981 ) .
+CLINICAL PHARMACOLOGY Following intravenous injection of technetium Tc 99 m mertiatide , the appearance , concentration , and excretion of the tracer in the kidney can be monitored to assess renal function .
+Although technetium Tc 99 m mertiatide is highly plasma protein bound following intravenous injection , the protein binding is reversible and the tracer is rapidly excreted by the kidneys via active tubular secretion and glomerular filtration .
+Following intravenous injection of technetium Tc 99 m mertiatide in normal volunteers , 89 % of the tracer was plasma protein bound .
+In healthy subjects with normal renal function ( mean serum creatinine 1 . 2 mg / dL ) technetium Tc 99 m mertiatide was rapidly cleared from the blood .
+The plasma clearance was approximately 0 . 3 liters / minute and the amount of technetium Tc 99 m mertiatide excreted in the urine in three hours was nearly 90 % of the dose .
+In a study performed in three patients with renal impairment ( serum creatinine greater than 6 . 3 mg / dL ) , there was decreased blood clearance and a decrease in the amount excreted in the urine over three hours .
+In these patients , 78 % of the tracer was plasma protein bound after intravenous injection .
+The mean plasma clearance of technetium Tc 99 m mertiatide was 0 . 03 liters / minute and 21 . 3 % was excreted in three hours on average .
+In both healthy subjects and patients with renal impairment , the plasma concentration - time profile showed a biexponential decline .
+INDICATIONS AND USAGE Technetium Tc 99 m mertiatide is a renal imaging agent for use in the diagnosis of congenital and acquired abnormalities , renal failure , urinary tract obstruction , and calculi in adults and pediatric patients .
+( See Pediatric Use . )
+It is a diagnostic aid in providing renal function , split function , renal angiograms , and renogram curves for whole kidney and renal cortex .
+CONTRAINDICATIONS None known .
+WARNINGS None known .
+PRECAUTIONS General • The contents of this kit are not radioactive .
+However , after sodium pertechnetate Tc 99 m is added , adequate shielding of the final preparation must be maintained .
+• Contents of the reaction vial are intended only for use in the preparation of technetium Tc 99 m mertiatide and are NOT to be administered directly to the patient .
+• To help reduce the radiation dose to the bladder , as well as other target organs , the patient should increase his or her fluid intake ( unless medically contraindicated ) and void as often as possible after the injection of technetium Tc 99 m mertiatide for six hours after the imaging procedure .
+• Technetium Tc 99 m mertiatide should not be used more than six hours after preparation .
+• The components of the kit are sterile and nonpyrogenic .
+It is essential that the user follow the directions carefully and use aseptic procedures normally employed in making additions and withdrawals from sterile , nonpyrogenic containers during the addition of pertechnetate solution and the withdrawal of doses for patient administration .
+• The technetium Tc 99 m labeling reactions involved in preparing Technescan MAG3 depend on maintaining the stannous ion in the reduced state .
+Any oxidant present in the sodium pertechnetate Tc 99 m may adversely affect the quality of the radiopharmaceutical .
+Therefore , sodium pertechnetate Tc 99 m containing oxidants should not be employed .
+• As in the use of any other radioactive material , care should be taken to ensure minimum radiation exposure to the patient and to occupational workers .
+• Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long term animal studies have been performed to evaluate carcinogenic or mutagenic potential , or whether this drug affects fertility in males or females .
+Pregnancy Pregnancy Category C . Animal reproduction studies have not been conducted with technetium Tc 99 m mertiatide .
+It is also not known whether this drug can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Technetium Tc 99 m mertiatide should be given to a pregnant woman only if clearly needed .
+Nursing Mothers Technetium Tc 99 m is excreted in human milk during lactation , therefore , formula feedings should be substituted for breast feeding .
+Pediatric Use Safety and effectiveness in pediatric patients under the age of 30 days have not been established .
+ADVERSE REACTIONS The following adverse reactions have been reported : nausea , vomiting , wheezing , dyspnea , itching , rash , tachycardia , hypertension , shaking chills , fever , and seizure .
+DOSAGE AND ADMINISTRATION The suggested dose range employed in the average adult patient ( 70 kg ) for renal function and imaging studies is 185 MBq ( 5 mCi ) to 370 MBq ( 10 mCi ) .
+In pediatric patients the recommended dose range is 2 . 6 MBq / kg ( 70 μCi / kg ) to 5 . 2 MBq / kg ( 140 μCi / kg ) with a minimum dose of 37 MBq ( 1 mCi ) .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration .
+Aseptic procedures and a shielded syringe should be employed in withdrawing doses for administration to patients .
+The user should wear waterproof gloves during the administration procedure .
+RADIATION DOSIMETRY The estimated absorbed radiation doses from an intravenous administration of technetium Tc 99 m mertiatide are presented in Table 4 .
+HOW SUPPLIED Catalog Number 096 .
+Technescan MAG3 is supplied as a lyophilized powder packaged in vials .
+Each reaction vial contains 1 mg betiatide , 0 . 05 mg ( minimum ) stannous chloride dihydrate ( SnCl2 • 2H2O ) , 0 . 2 mg ( maximum ) total tin expressed as stannous chloride dihydrate ( SnCl2 • 2H2O ) , 40 mg sodium tartrate dihydrate ( Na2C4H2O6 • 2H2O ) , and 20 mg lactose monohydrate .
+The pH of the reconstituted drug is between 5 . 0 and 6 . 0 .
+No bacteriostatic preservative is present .
+Packages containing 5 reaction vials ( NDC 69945 - 096 - 20 ) are available .
+STORAGE Technescan MAG3 should be stored at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) and protected from light until use .
+The reconstituted vial should be stored at room temperature ( 15 ° to 30 ° C ) and must be used within six hours of preparation .
+Table 4 .
+Radiation Dose Estimates for Tc 99 m Mertiatide * Calculated by Oak Ridge Associated Universities , based upon the pediatric phantom series of Christy and Eckerman of Oak Ridge National Laboratories .
+The adult radiation absorbed doses were calculated based on data from ten normal volunteers using the Medical Internal Radiation Dose Committee ( MIRD ) schema .
+** Radioactive doses for 1 - , 5 - , and 10 - year olds are based on a maximum dose of 7 . 4 MBq / kg ( 200 μCi / kg ) .
+8 - day Old 1 - year Old ** 5 - year Old ** 10 - year Old ** 15 - year Old Adult Assumed Weight ( kg ) 3 . 4 9 . 8 19 32 57 70 Tc 99 m Mertiatide Dose 37 MBq ( 1 mCi ) 72 . 52 MBq ( 1 . 96 mCi ) 140 . 6 MBq ( 3 . 8 mCi ) 236 . 8 MBq ( 6 . 4 mCi ) 370 MBq ( 10 mCi ) 370 MBq ( 10 mCi ) Organ mSv rem mSv rem mSv rem mSv rem mSv rem mSv rem Gallbladder Wall 2 . 701 0 . 27 2 . 466 0 . 235 1 . 547 0 . 160 1 . 658 0 . 166 1 . 961 0 . 200 1 . 628 0 . 160 Lower Large Intestine Wall 1 . 739 0 . 17 1 . 595 0 . 161 2 . 250 0 . 220 2 . 368 0 . 237 4 . 070 0 . 400 3 . 256 0 . 330 Small Intestine 0 . 518 0 . 052 0 . 5439 0 . 055 1 . 195 0 . 122 1 . 397 0 . 141 2 . 035 0 . 200 1 . 628 0 . 160 Upper Large Intestine Wall 0 . 962 0 . 096 0 . 943 0 . 096 1 . 828 0 . 186 2 . 0365 0 . 205 2 . 442 0 . 250 1 . 887 0 . 190 Kidneys 1 . 406 0 . 14 1 . 088 0 . 112 1 . 308 0 . 129 1 . 5155 0 . 154 1 . 739 0 . 180 1 . 443 0 . 140 Liver 0 . 3219 0 . 032 0 . 3046 0 . 031 0 . 394 0 . 038 0 . 4262 0 . 0435 0 . 481 0 . 048 0 . 3626 0 . 036 Ovaries 0 . 592 0 . 058 0 . 6164 0 . 061 1 . 322 0 . 133 1 . 5392 0 . 154 3 . 330 0 . 330 2 . 5900 0 . 260 Red Marrow 0 . 1628 0 . 016 0 . 1595 0 . 0161 0 . 281 0 . 0277 0 . 3552 0 . 0352 0 . 629 0 . 063 0 . 4810 0 . 050 Testes 0 . 518 0 . 051 0 . 5294 0 . 053 1 . 0826 0 . 110 1 . 1840 0 . 122 2 . 368 0 . 240 1 . 628 0 . 160 Urinary Bladder Wall 11 . 470 1 . 1 9 . 428 0 . 921 21 . 090 2 . 090 23 . 680 2 . 368 59 . 20 6 . 00 48 . 1000 4 . 80 Total Body 0 . 2405 0 . 024 0 . 2176 0 . 022 0 . 3656 0 . 0365 0 . 4026 0 . 0410 0 . 814 0 . 081 0 . 6660 0 . 065 INSTRUCTIONS FOR THE PREPARATION OF TECHNETIUM Tc 99 m MERTIATIDE Note : Read complete directions thoroughly before starting preparation procedure .
+Procedural Precautions and Notes • Solutions of sodium pertechnetate Tc 99 m which contain oxidizing agents ( i . e . , sodium hypochlorite or hydrogen peroxide ) should not be used .
+NOTE : Do not use Tc 99 m eluate more than 6 hours after its elution from the generator .
+• All transfers and vial stopper entries must be done using aseptic technique .
+• The water bath used for heating the contents of the reaction vial must be at a continuous rolling boil during the heating step of the preparation procedure .
+The vial should be in direct contact with the rolling boil water of the bath , and the level of the bath must be at least even with the level of the contents of the vial .
+• The temperature of a lead incubation shield should be allowed to reach the temperature of the water bath before incubating the reaction vial .
+The shield should be designed so that water flows through the interior of the shield .
+Note 1 : Wear waterproof gloves during the entire preparation procedure and during subsequent patient dose withdrawals from the reaction vial .
+Note 2 : Make all transfers of sodium pertechnetate Tc 99 m solution during the preparation procedure with an adequately shielded syringe .
+Note 3 : Keep the radioactive preparation in the lead shield described below ( with cap in place ) during the useful life of the radioactive preparation .
+Maintain adequate shielding during the life of the product and use a shielded , sterile syringe for withdrawing and injecting the preparation .
+Procedure for the Preparation of Technetium Tc 99 m Mertiatide • Prepare a rolling boil water bath containing a vial shield with openings cut in it to allow the water to circulate through the shield .
+The openings should be oriented to prevent radiation leakage .
+• Place the reaction vial in a lead dispensing shield fitted with a lid and with a minimum wall thickness of 1 / 8 inch .
+• Swab the rubber stopper of the reaction vial with an appropriate antiseptic .
+Insert a filter - containing venting needle ( provided ) through the vial stopper .
+Inject 4 to 10 milliliters of sodium pertechnetate Tc 99 m solution containing 740 megabecquerels ( 20 mCi ) to 3 . 70 gigabecquerels ( 100 mCi ) into the vial .
+If required , use nonbacteriostatic normal saline to dilute the sodium pertechnetate Tc 99 m solution to the desired concentration prior to addition to the vial .
+NOTE : Make sure the water bath is at boiling temperature before adding sodium pertechnetate Tc 99 m to the reaction vial .
+• Immediately following the addition of sodium pertechnetate Tc 99 m solution to the reaction vial , withdraw the syringe plunger to a volume of 2 mL , thus removing 2 mL of argon gas and adding 2 mL of filtered air to the vial .
+The air is required to oxidize excess stannous ion .
+Remove both needles from the vial .
+NOTE : The addition of 2 mL air is required to prevent the progressive formation of technetium Tc 99 m labeled impurities .
+• Invert the reaction vial several times to obtain complete mixing .
+• Immediately transfer the reaction vial to the water bath .
+Place it inside the lead shield which has been equilibrated to the temperature of the boiling water bath .
+Allow the reaction vial to incubate for 10 minutes .
+NOTE : The reaction vial MUST be placed in the boiling water bath within 5 minutes of the addition of sodium pertechnetate Tc 99 m solution .
+• Remove the reaction vial from the boiling water bath and place in the lead dispensing shield .
+Allow the contents of the vial to cool for approximately 15 minutes to reach body temperature .
+Using proper shielding , the vial contents should be visually inspected .
+The solution should be clear and free of particulate matter .
+If not , the preparation should not be used .
+• Assay the reaction vial using a suitable radioactivity calibration system .
+Record the date , time , total technetium Tc 99 m activity , volume , and technetium Tc 99 m concentration on the radioassay information label and affix the label to the lead dispensing shield .
+• The radiochemical purity of the reconstituted solution must be checked prior to administration to the patient .
+If the radiochemical purity is less than 90 % , the product must not be used .
+• Store the reaction vial containing the technetium Tc 99 m mertiatide at room temperature ( 15 ° to 30 ° C ) until use .
+The technetium Tc 99 m mertiatide preparation must be used within six hours of preparation .
+RECOMMENDED METHOD FOR DETERMINATION OF RADIOCHEMICAL PURITY OF Technescan MAG3 ™ Required Materials : Waters Sep - Pak ™ C18 Cartridges , Part # 51910 , 200 proof ethanol 0 . 9 % Sodium Chloride Injection , USP 0 . 001 N hydrochloric acid * 1 : 1 ethanol / saline solution ** Disposable syringes : 10 mL , no needle required 1 mL , with needle Disposable culture tubes or vials , minimum 15 mL capacity Ion chamber for measurement of radioactive samples .
+* May be prepared by diluting 1 mL of 0 . 10 N hydrochloric acid to 100 mL with Water for Injection , USP , or by other appropriate dilution of more concentrated hydrochloric acid .
+For example , 0 . 1 mL of 36 % ( ~ 11 . 6 N ) hydrochloric acid diluted to a total volume of 1 , 150 mL .
+** Prepared by mixing equal volumes of the 200 proof ethanol and 0 . 9 % Sodium Chloride Injection , USP .
+Preparation of Sep - Pak Cartridge • Using a 10 mL syringe , push 10 mL of 200 proof ethanol through the Sep - Pak cartridge .
+Discard the eluate .
+• Similarly , flush the cartridge with 10 mL of the 0 . 001 N hydrochloric acid .
+Discard the eluate .
+• Drain the cartridge by pushing 5 mL of air through the cartridge with the syringe .
+Discard the eluate .
+Sample Analysis • Apply 0 . 1 mL of the technetium Tc 99 m mertiatide preparation to the head of the cartridge through the longer end of the cartridge using a 1 mL syringe with needle .
+Note : The cartridge and all solutions eluted from it will be radioactive after this step .
+• With a disposable 10 mL syringe , slowly push 10 mL of 0 . 001 N hydrochloric acid through the cartridge .
+Collect this fraction in a culture tube or vial for counting .
+• Similarly , elute the cartridge with 10 mL of the 1 : 1 ethanol / saline solution .
+Be sure that this solution is pushed through the cartridge slowly so that the elution occurs in a drop - wise manner .
+Collect this 10 mL fraction in a second culture tube or vial for counting .
+• Place the Sep - Pak cartridge in a third culture tube or vial for counting .
+Counting • Assay the activity of the first sample elution in an ion chamber .
+This fraction contains the hydrophilic impurities ( free pertechnetate , technetium tartrate , etc . ) and a fraction of reduced - hydrolyzed technetium .
+• Assay the activity of the second elution .
+This fraction contains the technetium Tc 99 m mertiatide complex .
+• Assay the activity of the Sep - Pak cartridge in the third culture tube or vial .
+This component contains the remaining reduced - hydrolyzed technetium and non - elutable impurities .
+Calculations 1 .
+Percent technetium Tc 99 m mertiatide = Activity of 2 nd ( ethanol / saline ) fraction x 100 % Total activity of all three fractions 2 .
+Percent hydrophilic impurities = Activity of 1 st ( 0 . 001 N HCl acid ) fraction x 100 % Total activity of all three fractions 3 .
+Percent non - elutable impurities = Activity remaining on Sep - Pak cartridge x 100 % Total activity of all three fractions This reagent kit is approved for distribution to persons licensed by the U . S . Nuclear Regulatory Commission to use byproduct material identified in Section 35 . 200 or under an equivalent license of an Agreement State .
+Curium and the Curium logo are trademarks of a Curium company .
+© 2018 Curium US LLC .
+All Rights Reserved .
+Sep - Pak is a trademark of Waters Technologies Corporation .
+Manufactured by : Curium US LLC 2703 Wagner Place Maryland Heights , MO 63043 Made in USA A096I0 R12 / 2018 CURIUMTM PRINCIPAL PANEL DISPLAY - A096V0 Technescan MAG3 ™ Kit for the Preparation of Technetium Tc 99 m Mertiatide Diagnostic Vial contains : 1 mg Betiatide 0 . 05 mg ( minimum ) Stannous Chloride Dihydrate ( SnCl2 ● 2H2O ) 40 mg Sodium Tartrate Dihydrate 0 . 2 mg ( maximum ) Total Tin as Stannous Chloride Dihydrate ( SnCl2 ● 2H2O ) 20 mg Lactose Monohydrate Prior to lyophilization , sodium hydroxide or hydrochloric acid may be added for pH adjustment .
+The pH of the reconstituted drug is between 5 . 0 and 6 . 0 .
+The contents are sealed under argon .
+Sterile , non - pyrogenic .
+For intravenous use after drug preparation .
+See package insert for directions for use .
+Store at 20 ˚ to 25 ˚ C ( 68 ˚ to77 ˚ F ) and protect from light .
+Do not use sodium pertechnetate Tc 99 m solutions containing an oxidizing agent .
+Rx only Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUMTM A096V0 R12 / 2018 [ MULTIMEDIA ] [ MULTIMEDIA ]

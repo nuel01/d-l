@@ -1,0 +1,92 @@
+For Diagnostic Use DESCRIPTION Each reaction vial contains a nonradioactive , sterile , nonpyrogenic mixture of 45 mg mebrofenin , 0 . 54 mg ( minimum ) stannous fluoride dihydrate , SnF2 • 2H2O and 1 . 03 mg total tin , maximum ( as stannous fluoride dihydrate , SnF2 • 2H2O ) , not more than 5 . 2 mg methylparaben , and 0 . 58 mg propylparaben .
+The pH is adjusted with sodium hydroxide or hydrochloric acid prior to lyophilization .
+The contents of the vial are lyophilized and sealed under nitrogen at the time of manufacture .
+The pH of the reconstituted product is 4 . 2 to 5 . 7 .
+The structure of mebrofenin ( 2 , 2 ’ - [ [ 2 - [ ( 3 - Bromo - 2 , 4 , 6 - trimethylphenyl ) - amino ] - 2 - oxoethyl ] imino ] bisacetic acid ) is shown below : [ MULTIMEDIA ] When sterile , pyrogen - free sodium pertechnetate Tc 99 m injection is added to the vial , the diagnostic agent Technetium Tc 99 m Mebrofenin is formed for administration by intravenous injection .
+[ MULTIMEDIA ] PHYSICAL CHARACTERISTICS Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours . 1 The principal photon that is useful for detection and imaging studies is listed in Table 1 .
+TABLE 11 Kocher , David C . , “ Radioactive Decay Data Tables ” , DOE / TIC - 11026 , ( 1981 ) p . 108 .
+Principal Radiation Emission Data Radiation Mean % per Disintegration Mean Energy ( keV ) Gamma - 2 89 . 07 140 . 5 External Radiation The specific gamma ray constant for Tc 99 m is 0 . 78 R / hour - millicurie at 1 cm .
+The first half value layer is 0 . 017 cm of lead ( Pb ) .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+To facilitate control of the radiation exposure from millicurie amounts of this radionuclide , the use of a 0 . 25 cm thickness of Pb will attenuate the radiation emitted by a factor of about 1 , 000 .
+TABLE 2 Radiation Attenuation by Lead Shielding Shield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of technetium Tc 99 m , the fractions that remain at selected intervals after the time of calibration are shown in Table 3 .
+TABLE 3 * Calibration time Physical Decay Chart : Tc 99 m half - life 6 . 02 hours Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 18 0 . 126 CLINICAL PHARMACOLOGY Mebrofenin is an iminodiacetic acid ( HIDA ) derivative with no known pharmacologic action at the recommended doses .
+Following intravenous administration in normal subjects , Technetium Tc 99 m Mebrofenin was rapidly cleared from the circulation .
+The mean percent injected dose remaining in the blood at 10 minutes was 17 % .
+The injected activity was cleared through the hepatobiliary system with visualization of the liver by 5 minutes and maximum liver uptake occurring at 11 minutes post - injection .
+Hepatic duct and gallbladder visualization occurred by 10 to 15 minutes and intestinal activity was visualized by 30 to 60 minutes in subjects with normal hepatobiliary function .
+The mean percent injected dose excreted in the urine during the first 3 hours was 1 % ( 0 . 4 to 2 . 0 % ) .
+Elevated serum bilirubin levels increase renal excretion of Tc 99 m HIDA agents .
+In two studies in which Tc 99 m Mebrofenin was administered to patients having mean elevated serum bilirubin levels of 9 . 8 mg / dL ( 1 . 7 to 46 . 3 mg / dL ) , the mean percent injected dose excreted in the urine during the first 3 hours was 3 % ( 0 . 2 to 11 . 5 % ) .
+The mean percent injected dose excreted in the urine during 3 - 24 hours was 14 . 9 % ( 0 . 4 to 34 . 8 % ) .
+In jaundiced patients , the percent injected dose remaining in the blood at 10 minutes may be twice as high or more than the level in normals .
+Hepatobiliary transit may be delayed and visualization times increased .
+As a consequence , the quality of the images obtained frequently diminishes .
+INDICATIONS AND USAGE Technetium Tc 99 m Mebrofenin is indicated as a hepatobiliary imaging agent .
+CONTRAINDICATIONS Hypersensitivity to this compound .
+WARNINGS The theoretical possibility of allergic reactions should be considered in patients who receive multiple doses .
+PRECAUTIONS General Contents of the reaction vial are intended only for use in the preparation of Technetium Tc 99 m Mebrofenin and are not to be administered directly to the patient .
+Delayed or non - visualization of the gallbladder may occur in the immediate post - prandial period or after prolonged fasting or parenteral feeding .
+Functional biliary obstruction may accompany chronic cholecystitis or pancreatitis .
+In addition , patients with hepatocellular disease may show non - visualization or delayed visualization of the gallbladder .
+Delayed intestinal transit may also be noted in such patients .
+Juvenile hepatitis may be associated with gallbladder non - visualization and the failure to visualize activity in the intestine .
+Administration of meperidine or morphine may delay intestinal transit of the imaging agent and may result in nonvisualization .
+Septic patients may show absent or delayed hepatobiliary clearance .
+Thus , a positive finding does not of itself permit a differential diagnosis of any of the above conditions and should be evaluated in the light of the total clinical picture and results of other diagnostic modalities .
+The components of the kit are supplied sterile and nonpyrogenic .
+Aseptic procedures normally employed in making additions and withdrawals from sterile , nonpyrogenic containers should be used during the addition of the pertechnetate solution and the withdrawal of doses for patient administration .
+The Technetium Tc 99 m labeling reactions involved in preparing the agent depend on maintaining the stannous ion in the reduced state .
+Any oxidant present in the sodium pertechnetate Tc 99 m supply may , thus , adversely affect the quality of the radiopharmaceutical .
+Hence , sodium pertechnetate Tc 99 m containing oxidants should not be employed .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides .
+As in the use of any radioactive material , care should be taken to minimize radiation exposure to the patient consistent with proper patient management and to ensure minimum radiation exposure to occupational workers .
+Tc 99 m Mebrofenin should be formulated no more than 18 hours prior to clinical use .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long term animal studies have been performed to evaluate carcinogenic potential or whether Technetium Tc 99 m Mebrofenin may affect fertility in males or females .
+Pregnancy Animal reproduction studies have not been conducted with Technetium Tc 99 m Mebrofenin .
+It is also not known whether Technetium Tc 99 m Mebrofenin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+Technetium Tc 99 m Mebrofenin should be given to a pregnant woman only if the expected benefits to be gained clearly outweigh the potential hazards .
+Nursing Mothers Technetium Tc 99 m is excreted in human milk during lactation .
+Therefore , formula feedings should be substituted for breast feedings .
+Pediatric Use Safety and effectiveness in children below the age of 18 have not be established .
+ADVERSE REACTIONS Urticaria and rash have been rarely reported with the use of Technetium Tc 99 m Mebrofenin since market introduction .
+Rare cases of chills and nausea have been reported with related compounds .
+Infrequently , death has been reported in association with the use of this class of agents .
+DOSAGE AND ADMINISTRATION The suggested intravenous dose range of Technetium Tc 99 m Mebrofenin in the average patient ( 70 kg ) is : Nonjaundiced patient : 74 - 185 MBq ( 2 - 5 mCi ) Patient with serum bilirubin level greater than 1 . 5 mg / dL : 111 - 370 MBq ( 3 - 10 mCi ) The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+The patient should be in a fasting state , 4 hours is preferable .
+False positives ( non - visualization ) may result if the gallbladder has been emptied by ingestion of food .
+An interval of at least 24 hours should be allowed before repeat examination .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+RADIATION DOSIMETRY The estimated absorbed radiation doses 1 , 2 to organs and tissues of an average subject ( 70 kg ) from an intravenous injection of 370 MBq ( 10 millicuries ) of Technetium Tc 99 m Mebrofenin are shown in Table 4 .
+TABLE 4 † Method of Calculation : ( 1 ) Loberg , M . D . , Buddemeyer , E . V . : Application of pharmacokinetic modeling to the radiation dosimetry of hepatobiliary agents .
+In Third International Radiopharmaceutical Dosimetry Symposium , FDA No . 81 - 8166 , U . S . Department of Health and Human Services , Public Health Service , FDA , Bureau of Radiological Health , Rockville , MD , ( 1981 ) pp . 318 - 332 .
+( 2 ) Values for S : “ S ” , Absorbed Dose per Unit Cumulated Activity for Selected Radionuclides and Organs , MIRD Pamphlet No . 11 ( 1975 ) .
+* Bilirubin < 1 . 5 mg / dL Calculations assume that 98 % of the injected activity is taken up by the liver ; activity not removed in the urine in 24 hours is excreted in the intestines and no enterohepatic circulation of activity .
+** Bilirubin > 10 mg / dL ( mean 21 . 8 mg / dL ) Calculations assume that 66 % of the injected activity is taken up by the liver ; activity not removed in the urine in 24 hours is excreted in the intestines and no enterohepatic circulation of activity .
+Estimated Absorbed Radiation Doses † Normal Subjects * Severely Jaundiced Patients ** Tissue mGy / 370 MBq rads / 10 mCi mGy / 370 MBq rads / 10 mCi Total Body 2 . 0 0 . 2 1 . 7 0 . 17 Liver 4 . 7 0 . 47 8 . 1 0 . 81 Gallbladder Wall 13 . 7 1 . 37 12 . 5 1 . 25 Small Intestine 29 . 9 2 . 99 16 . 0 1 . 60 Upper Large Intestine Wall 47 . 4 4 . 74 24 . 8 2 . 48 Lower Large Intestine Wall 36 . 4 3 . 64 19 . 7 1 . 97 Kidney 2 . 2 0 . 22 1 . 9 0 . 19 Urinary Bladder Wall 2 . 9 0 . 29 24 . 2 2 . 42 Ovaries 10 . 1 1 . 01 6 . 4 0 . 64 Testes 0 . 5 0 . 05 1 . 1 0 . 11 Red Marrow 3 . 4 0 . 34 2 . 5 0 . 25 HOW SUPPLIED Choletec ( Kit for the Preparation of Technetium Tc 99 m Mebrofenin ) is supplied in kits of 10 reaction vials .
+Each vial contains a sterile , nonpyrogenic lyophilized mixture of 45 mg mebrofenin , 0 . 54 mg ( minimum ) stannous fluoride dihydrate , SnF2 • 2H2O and 1 . 03 mg total tin , maximum ( as stannous fluoride dihydrate , SnF2 • 2H2O ) , not more than 5 . 2 mg methylparaben , and 0 . 58 mg propylparaben .
+The pH has been adjusted with hydrochloric acid or sodium hydroxide prior to lyophilization .
+The lyophilized vial contents are sealed under nitrogen at the time of manufacture .
+The pH of the reconstituted product is 4 . 2 to 5 . 7 .
+Kit Contents 10 sterile multidose reaction vials .
+20 pressure - sensitive labels for Technetium Tc 99 m Mebrofenin .
+1 package insert .
+Preparation Preparation of Technetium Tc 99 m Mebrofenin is done by the following aseptic procedure : • Waterproof gloves should be worn during the preparation procedure .
+• Place reaction vial in an appropriate lead shield .
+• Swab the rubber closure of the reaction vial with a germicide .
+• Inject 1 to 5 mL sterile additive free sodium pertechnetate Tc 99 m injection containing up to 3700 MBq ( 100 mCi ) Tc 99 m into the reaction vial .
+Be sure to maintain a nitrogen atmosphere in the vial by not introducing air during reconstitution .
+NOTE : If sodium pertechnetate Tc 99 m injection must be diluted for use with Choletec ( Kit for the preparation of Technetium Tc 99 m Mebrofenin ) , only preservative free Sodium Chloride Injection USP should be used .
+• Secure the lead shield cover .
+Swirl the vial gently to mix contents and let stand for 15 minutes .
+• Record the date and time of preparation on pressure - sensitive label .
+• Affix pressure - sensitive label to shield .
+• Examine vial contents .
+If the solution is not clear and free of particulate matter and discoloration on visual inspection , it should not be used .
+• Measure the radioactivity by a suitable calibration system and record on the shield label prior to patient administration .
+• Withdraw material with a sterile lead shielded syringe for use within 18 hours of preparation .
+Storage Store the kit as supplied at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] prior to and following reconstitution .
+Use within 18 hours of reconstitution .
+The U . S . Nuclear Regulatory Commission has approved this reagent kit for distribution to persons licensed to use byproduct material identified in § 35 . 200 of 10 CFR Part 35 , to persons who hold an equivalent license issued by an Agreement State , and , outside the United States , to persons authorized by the appropriate authority .
+Manufactured for Bracco Diagnostics Inc .
+Monroe Township , NJ 08831 by Jubilant HollisterStier LLC Spokane , WA 99207 USA Revised April 2018 Choletec ® Kit for the Preparation of Technetium Tc 99 m Mebrofenin Label NDC : 0270 ˗ 0083 ˗ 20 [ MULTIMEDIA ] [ MULTIMEDIA ] Choletec ® 10 Vials Label NDC : 0270 ˗ 0083 ˗ 20 [ MULTIMEDIA ] [ MULTIMEDIA ]

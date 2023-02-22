@@ -1,0 +1,199 @@
+Rx only DESCRIPTION Octreotide Acetate Injection , a cyclic octapeptide prepared as a clear sterile solution of octreotide , acetate salt , in a buffered lactic acid solution for administration by deep subcutaneous ( intrafat ) or intravenous ( IV ) injection .
+Octreotide acetate , known chemically as D - phenylalanyl - L - cysteinyl - L - phenylalanyl - D - tryptophyl - L - lysyl - L - threonyl - N - [ ( 1 R , 2 R ) - 2 - hydroxy - 1 - ( hydroxymethyl ) propyl ] - L - cysteinamide cyclic ( 2 → 7 ) - disulfide acetate ( salt ) , is a long - acting octapeptide with pharmacologic actions mimicking those of the natural hormone somatostatin .
+Octreotide Acetate Injection is available as sterile 1 mL vials in 3 strengths , each mL containing 50 mcg , 100 mcg , or 500 mcg of octreotide ( as acetate ) as the active and the following inactive ingredients : L - lactic acid 3 mg , sodium chloride 7 mg , sodium hydroxide , and water for injection , q . s . Octreotide Acetate Injection is also available as sterile 5 mL multiple dose vials in 2 strengths , each mL containing 200 mcg or 1 , 000 mcg of octreotide ( as acetate ) as the active and the following inactive ingredients : L - lactic acid 3 mg , sodium chloride 7 mg , sodium hydroxide , and water for injection , q . s . Phenol 5 mg has been added as a preservative .
+L - Lactic acid and sodium hydroxide are added to provide a buffered solution , pH range 3 . 9 to 4 . 5 .
+The molecular weight of octreotide acetate is 1019 . 3 g / mol ( free peptide , C49H66N10O10S2 ) and its amino acid sequence is : [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Octreotide acetate injection exerts pharmacologic actions similar to the natural hormone , somatostatin .
+It is an even more potent inhibitor of growth hormone ( GH ) , glucagon , and insulin than somatostatin .
+Like somatostatin , it also suppresses luteinizing hormone ( LH ) response to gonadotropin releasing hormone ( GnRH ) , decreases splanchnic blood flow , and inhibits release of serotonin , gastrin , vasoactive intestinal peptide ( VIP ) , secretin , motilin , and pancreatic polypeptide .
+By virtue of these pharmacological actions , octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors ( flushing and diarrhea ) , and VIP secreting adenomas ( watery diarrhea ) .
+Octreotide substantially reduces GH and / or insulin growth factor - 1 ( IGF - 1 ; somatomedin C ) levels in patients with acromegaly .
+Single doses of octreotide have been shown to inhibit gallbladder contractility and to decrease bile secretion in normal volunteers .
+In controlled clinical trials , the incidence of gallstone or biliary sludge formation was markedly increased ( see WARNINGS ) .
+Octreotide suppresses secretion of thyroid stimulating hormone ( TSH ) .
+Pharmacokinetics After subcutaneous injection , octreotide is absorbed rapidly and completely from the injection site .
+Peak concentrations of 5 . 2 ng / mL ( 100 - mcg dose ) were reached 0 . 4 hours after dosing .
+Using a specific radioimmunoassay , intravenous ( IV ) and subcutaneous doses were found to be bioequivalent .
+Peak concentrations and area under the curve ( AUC ) values were dose proportional after IV single doses up to 200 mcg and subcutaneous single doses up to 500 mcg and after subcutaneous multiple doses up to 500 mcg 3 times a day ( 1 , 500 mcg / day ) .
+In healthy volunteers , the distribution of octreotide from plasma was rapid ( tα ½ = 0 . 2 h ) , the volume of distribution ( Vdss ) was estimated to be 13 . 6 L , and the total body clearance ranged from 7 L / hr to 10 L / hr .
+In blood , the distribution into the erythrocytes was found to be negligible and about 65 % was bound in the plasma in a concentration - independent manner .
+Binding was mainly to lipoprotein and , to a lesser extent , to albumin .
+The elimination of octreotide from plasma had an apparent half - life of 1 . 7 to 1 . 9 hours compared with 1 to 3 minutes with the natural hormone .
+The duration of action of octreotide acetate injection is variable but extends up to 12 hours depending upon the type of tumor .
+About 32 % of the dose is excreted unchanged into the urine .
+In an elderly population , dose adjustments may be necessary due to a significant increase in the half - life ( 46 % ) and a significant decrease in the clearance ( 26 % ) of the drug .
+In patients with acromegaly , the pharmacokinetics differs somewhat from those in healthy volunteers .
+A mean peak concentration of 2 . 8 ng / mL ( 100 - mcg dose ) was reached in 0 . 7 hours after subcutaneous dosing .
+The volume of distribution ( Vdss ) was estimated to be 21 . 6 ± 8 . 5 L , and the total body clearance was increased to 18 L / h .
+The mean percent of the drug bound was 41 . 2 % .
+The disposition and elimination half - lives were similar to normals .
+In patients with renal impairment , the elimination of octreotide from plasma was prolonged and total body clearance reduced .
+In mild renal impairment ( CLCR 40 to 60 mL / min ) , octreotide t1 / 2 was 2 . 4 hours and total body clearance was 8 . 8 L / hr , in moderate impairment ( CLCR 10 to 39 mL / min ) t1 / 2 was 3 hours and total body clearance 7 . 3 L / hr , and in severely renally impaired patients not requiring dialysis ( CLCR < 10 mL / min ) t1 / 2 was 3 . 1 hours and total body clearance was 7 . 6 L / hr .
+In patients with severe renal failure requiring dialysis , total body clearance was reduced to about half that found in healthy subjects ( from approximately 10 L / hr to 4 . 5 L / hr ) .
+Patients with liver cirrhosis showed prolonged elimination of drug , with octreotide t1 / 2 increasing to 3 . 7 hr and total body clearance decreasing to 5 . 9 L / hr , whereas patients with fatty liver disease showed t1 / 2 increased to 3 . 4 hr and total body clearance of 8 . 2 L / hr .
+INDICATIONS AND USAGE Acromegaly Octreotide acetate injection is indicated to reduce blood levels of growth hormone ( GH ) and insulin growth factor - 1 ( IGF - 1 ; somatomedin C ) in acromegaly patients who have had inadequate response to or cannot be treated with surgical resection , pituitary irradiation , and bromocriptine mesylate at maximally tolerated doses .
+The goal is to achieve normalization of GH and IGF - 1 ( somatomedin C ) levels ( see DOSAGE AND ADMINISTRATION ) .
+In patients with acromegaly , octreotide acetate injection reduces GH to within normal ranges in 50 % of patients and reduces IGF - 1 ( somatomedin C ) to within normal ranges in 50 % to 60 % of patients .
+Since the effects of pituitary irradiation may not become maximal for several years , adjunctive therapy with octreotide acetate injection to reduce blood levels of GH and IGF - 1 ( somatomedin C ) offers potential benefit before the effects of irradiation are manifested .
+Improvement in clinical signs and symptoms , or reduction in tumor size or rate of growth , were not shown in clinical trials performed with octreotide acetate injection ; these trials were not optimally designed to detect such effects .
+Carcinoid Tumors Octreotide acetate injection is indicated for the symptomatic treatment of patients with metastatic carcinoid tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with the disease .
+Octreotide acetate injection studies were not designed to show an effect on the size , rate of growth , or development of metastases .
+Vasoactive Intestinal Peptide Tumors ( VIPomas ) Octreotide acetate injection is indicated for the treatment of the profuse watery diarrhea associated with VIP - secreting tumors .
+Octreotide acetate injection studies were not designed to show an effect on the size , rate of growth , or development of metastases .
+CONTRAINDICATIONS Sensitivity to this drug or any of its components .
+WARNINGS Cholelithiasis and Complications of Cholelithiasis Single doses of octreotide acetate injection have been shown to inhibit gallbladder contractility and decrease bile secretion in normal volunteers .
+In clinical trials ( primarily patients with acromegaly or psoriasis ) , the incidence of biliary tract abnormalities was 63 % ( 27 % gallstones , 24 % sludge without stones , 12 % biliary duct dilatation ) .
+The incidence of stones or sludge in patients who received octreotide acetate injection for 12 months or longer was 52 % .
+Less than 2 % of patients treated with octreotide acetate injection for 1 month or less developed gallstones .
+The incidence of gallstones did not appear related to age , sex , or dose .
+Like patients without gallbladder abnormalities , the majority of patients developing gallbladder abnormalities on ultrasound had gastrointestinal symptoms .
+The symptoms were not specific for gallbladder disease .
+A few patients developed acute cholecystitis , ascending cholangitis , biliary obstruction , cholestatic hepatitis , or pancreatitis during octreotide acetate injection therapy or following its withdrawal .
+One patient developed ascending cholangitis during octreotide acetate injection therapy and died .
+There have been postmarketing reports of cholelithiasis ( gallstones ) resulting in complications requiring cholecystectomy .
+If complications of cholelithiasis are suspected , discontinue octreotide acetate injection and treat appropriately .
+Complete Atrioventricular Block Patients who receive octreotide acetate injection intravenously may be at increased risk for higher degree atrioventricular blocks .
+In postmarketing reports , complete atrioventricular block was reported in patients receiving intravenous octreotide acetate injection during surgical procedures .
+In majority of patients , octreotide acetate injection was given at higher than recommended doses and / or as a continuous intravenous infusion .
+The safety of continuous intravenous infusion has not been established in patients receiving octreotide acetate injection for the approved indications .
+Consider cardiac monitoring in patients receiving octreotide acetate injection intravenously .
+PRECAUTIONS General Octreotide acetate injection alters the balance between the counter - regulatory hormones , insulin , glucagon and growth hormone ( GH ) , which may result in hypoglycemia or hyperglycemia .
+Octreotide acetate injection also suppresses secretion of thyroid stimulating hormone , which may result in hypothyroidism .
+Cardiac conduction abnormalities have also occurred during treatment with octreotide acetate injection .
+However , the incidence of these adverse events during long - term therapy was determined vigorously only in acromegaly patients who , due to their underlying disease and / or the subsequent treatment they receive , are at an increased risk for the development of diabetes mellitus , hypothyroidism , and cardiovascular disease .
+Although the degree to which these abnormalities are related to octreotide acetate injection therapy is not clear , new abnormalities of glycemic control , thyroid function , and electrocardiogram ( ECG ) developed during octreotide acetate injection therapy , as described below .
+Risk of Pregnancy with Normalization of Insulin Growth Factor - 1 ( IGF - 1 ; Somatomedin C ) and Growth Hormone ( GH ) Although acromegaly may lead to infertility , there are reports of pregnancy in acromegalic women .
+In women with active acromegaly who have been unable to become pregnant , normalization of GH and IGF - 1 ( somatomedin C ) may restore fertility .
+Female patients of childbearing potential should be advised to use adequate contraception during treatment with octreotide .
+Hyperglycemia and Hypoglycemia The hypoglycemia or hyperglycemia which occurs during octreotide acetate injection therapy is usually mild , but may result in overt diabetes mellitus or necessitate dose changes in insulin or other hypoglycemic agents .
+Hypoglycemia and hyperglycemia occurred on octreotide acetate injection in 3 % and 16 % of acromegalic patients , respectively .
+Severe hyperglycemia , subsequent pneumonia , and death following initiation of octreotide acetate injection therapy was reported in one patient with no history of hyperglycemia .
+In patients with concomitant Type I diabetes mellitus , octreotide acetate injection may affect glucose regulation , and insulin requirements may be reduced .
+Symptomatic hypoglycemia , which may be severe , has been reported in these patients .
+In nondiabetics and Type II diabetics with partially intact insulin reserves , octreotide acetate injection administration may result in decreases in plasma insulin levels and hyperglycemia .
+It is therefore recommended that glucose tolerance and antidiabetic treatment be periodically monitored during therapy with these drugs .
+Thyroid Function Abnormalities In acromegalic patients , 12 % developed biochemical hypothyroidism only , 8 % developed goiter , and 4 % required initiation of thyroid replacement therapy while receiving octreotide acetate injection .
+Baseline and periodic assessment of thyroid function ( TSH , total , and / or free T4 ) is recommended during chronic therapy .
+Cardiac Function Abnormalities ( see WARNINGS , Complete Atrioventricular Block ) In acromegalics , bradycardia ( < 50 bpm ) developed in 25 % ; conduction abnormalities occurred in 10 % and arrhythmias occurred in 9 % of patients during octreotide acetate injection therapy .
+Other electrocardiogram ( ECG ) changes observed included QT prolongation , axis shifts , early repolarization , low voltage , R / S transition , and early R - wave progression .
+These ECG changes are not uncommon in acromegalic patients .
+Dose adjustments in drugs such as beta - blockers that have bradycardia effects may be necessary .
+In one acromegalic patient with severe congestive heart failure , initiation of octreotide acetate injection therapy resulted in worsening of congestive heart failure with improvement when drug was discontinued .
+Confirmation of a drug effect was obtained with a positive rechallenge .
+Pancreatitis Several cases of pancreatitis have been reported in patients receiving octreotide acetate injection therapy .
+Dietary Fats Malabsorption Octreotide acetate injection may alter absorption of dietary fats in some patients .
+Decreased Vitamin B12 Levels and Abnormal Schilling ’ s Tests Depressed vitamin B12 levels and abnormal Schilling ’ s tests have been observed in some patients receiving octreotide acetate injection therapy , and monitoring of vitamin B12 levels is recommended during chronic octreotide acetate injection therapy .
+Increased Half - life of Octreotide Acetate Injection in Patients with Renal Failure on Dialysis In patients with severe renal failure requiring dialysis , the half - life of octreotide acetate injection may be increased , necessitating adjustment of the maintenance dosage .
+Information for Patients Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer octreotide acetate injection .
+Inform patients that cholelithiasis has been reported with the use of octreotide acetate injection .
+Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones ( cholelithiasis ) or complications of gallstones ( e . g . , cholecystitis , cholangitis , and pancreatitis ) .
+Laboratory Tests Laboratory tests that may be helpful as biochemical markers in determining and following patient response depend on the specific tumor .
+Based on diagnosis , measurement of the following substances may be useful in monitoring the progress of therapy : Acromegaly : Growth hormone ( GH ) , insulin growth factor - 1 ( IGF - 1 ; somatomedin C ) Responsiveness to octreotide acetate injection may be evaluated by determining GH levels at 1 to 4 hour intervals for 8 to 12 hours post dose .
+Alternatively , a single measurement of IGF - 1 ( somatomedin C ) level may be made two weeks after drug initiation or dosage change .
+Carcinoid : urinary 5 - hydroxyindole acetic acid ( 5 - HIAA ) , plasma serotonin , plasma Substance P VIPoma : plasma vasoactive intestinal peptide ( VIP ) Baseline and periodic total and / or free T4 measurements should be performed during chronic therapy ( see PRECAUTIONS , General ) .
+Drug Interactions Octreotide has been associated with alterations in nutrient absorption , so it may have an effect on absorption of orally administered drugs .
+Concomitant administration of octreotide acetate injection with cyclosporine may decrease blood levels of cyclosporine and result in transplant rejection .
+Patients receiving insulin , oral hypoglycemic agents , beta blockers , calcium channel blockers , or agents to control fluid and electrolyte balance , may require dose adjustments of these therapeutic agents .
+Concomitant administration of octreotide and bromocriptine increases the availability of bromocriptine .
+Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes , which may be due to the suppression of growth hormone ( GH ) .
+Since it cannot be excluded that octreotide may have this effect , other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index ( e . g . , quinidine , terfenadine ) should therefore be used with caution .
+Drug / Laboratory Test Interactions No known interference exists with clinical laboratory tests , including amine or peptide determinations .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies in laboratory animals have demonstrated no mutagenic potential of octreotide acetate injection .
+No carcinogenic potential was demonstrated in mice treated subcutaneously for 85 to 99 weeks at doses up to 2 , 000 mcg / kg / day ( 8 x the human exposure based on body surface area ) .
+In a 116 - week subcutaneous study in rats , a 27 % and 12 % incidence of injection site sarcomas or squamous cell carcinomas was observed in males and females , respectively , at the highest dose level of 1 , 250 mcg / kg / day ( 10 x the human exposure based on body surface area ) compared to an incidence of 8 % to 10 % in the vehicle - control groups .
+The increased incidence of injection - site tumors was most probably caused by irritation and the high sensitivity of the rat to repeated subcutaneous injections at the same site .
+Rotating injection sites would prevent chronic irritation in humans .
+There have been no reports of injection - site tumors in patients treated with octreotide acetate injection for up to 5 years .
+There was also a 15 % incidence of uterine adenocarcinomas in the 1 , 250 mcg / kg / day females compared to 7 % in the saline - control females and 0 % in the vehicle - control females .
+The presence of endometritis coupled with the absence of corpora lutea , the reduction in mammary fibroadenomas , and the presence of uterine dilatation suggest that the uterine tumors were associated with estrogen dominance in the aged female rats which does not occur in humans .
+Octreotide acetate injection did not impair fertility in rats at doses up to 1 , 000 mcg / kg / day , which represents 7 x the human exposure based on body surface area .
+Pregnancy There are no adequate and well - controlled studies of octreotide use in pregnant women .
+Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and revealed no evidence of harm to the fetus due to octreotide .
+However , because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+In postmarketing data , a limited number of exposed pregnancies have been reported in patients with acromegaly .
+Most women were exposed to octreotide during the first trimester of pregnancy at doses ranging from 100 to 300 mcg / day of octreotide acetate injection or 20 to 30 mg once a month of octreotide acetate for injectable suspension , however some women elected to continue octreotide therapy throughout pregnancy .
+In cases with a known outcome , no congenital malformations were reported .
+Nursing Mothers It is not known whether octreotide is excreted into human milk .
+Because many drugs are excreted in human milk , caution should be exercised when octreotide acetate injection is administered to a nursing woman .
+Pediatric Use Safety and efficacy of octreotide acetate injection in the pediatric population have not been demonstrated .
+No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of octreotide acetate injection in pediatric patients under age 6 years .
+In postmarketing reports , serious adverse events , including hypoxia , necrotizing enterocolitis , and death , have been reported with octreotide acetate injection use in children , most notably in children under 2 years of age .
+The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co - morbid conditions .
+The efficacy and safety of octreotide acetate injection using the octreotide acetate for injectable suspension formulation was examined in a single randomized , double - blind , placebo - controlled , 6 month pharmacokinetics study in 60 pediatric patients age 6 to 17 years with hypothalamic obesity resulting from cranial insult .
+The mean octreotide concentration after 6 doses of 40 mg octreotide acetate for injectable suspension administered by intramuscular ( IM ) injection every 4 weeks was approximately 3 ng / mL .
+Steady - state concentrations were achieved after 3 injections of a 40 - mg dose .
+Mean BMI increased 0 . 1 kg / m2 in octreotide acetate for injectable suspension - treated subjects compared to 0 kg / m2 in saline control - treated subjects .
+Efficacy was not demonstrated .
+Diarrhea occurred in 11 of 30 ( 37 % ) patients treated with octreotide acetate for injectable suspension .
+No unexpected adverse events were observed .
+However , with octreotide acetate for injectable suspension at 40 mg once a month , the incidence of new cholelithiasis in this pediatric population ( 33 % ) was higher than that seen in other adult indications such as acromegaly ( 22 % ) or malignant carcinoid syndrome ( 24 % ) , where octreotide acetate for injectable suspension was 10 to 30 mg once a month .
+Geriatric Use Clinical studies of octreotide acetate injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Gallbladder Abnormalities Gallbladder abnormalities , especially stones and / or biliary sludge , frequently develop in patients on chronic octreotide acetate injection therapy ( see WARNINGS ) .
+Cardiac In acromegalics , sinus bradycardia ( < 50 bpm ) developed in 25 % ; conduction abnormalities occurred in 10 % and arrhythmias developed in 9 % of patients during octreotide acetate injection therapy ( see PRECAUTIONS , General ) .
+Gastrointestinal Diarrhea , loose stools , nausea , and abdominal discomfort were each seen in 34 % to 61 % of acromegalic patients in U . S . studies although only 2 . 6 % of the patients discontinued therapy due to these symptoms .
+These symptoms were seen in 5 % to 10 % of patients with other disorders .
+The frequency of these symptoms was not dose related , but diarrhea and abdominal discomfort generally resolved more quickly in patients treated with 300 mcg / day than in those treated with 750 mcg / day .
+Vomiting , flatulence , abnormal stools , abdominal distention , and constipation were each seen in less than 10 % of patients .
+In rare instances , gastrointestinal side effects may resemble acute intestinal obstruction , with progressive abdominal distension , severe epigastric pain , abdominal tenderness , and guarding .
+Hypoglycemia / Hyperglycemia Hypoglycemia and hyperglycemia occurred in 3 % and 16 % of acromegalic patients , respectively , but only in about 1 . 5 % of other patients .
+Symptoms of hypoglycemia were noted in approximately 2 % of patients .
+Hypothyroidism In acromegalics , biochemical hypothyroidism alone occurred in 12 % while goiter occurred in 6 % during octreotide acetate injection therapy ( see PRECAUTIONS , General ) .
+In patients without acromegaly , hypothyroidism has only been reported in several isolated patients and goiter has not been reported .
+Other Adverse Events Pain on injection was reported in 7 . 7 % , headache in 6 % and dizziness in 5 % .
+Pancreatitis was also observed ( see WARNINGS and PRECAUTIONS ) .
+Other Adverse Events 1 % to 4 % Other events ( relationship to drug not established ) , each observed in 1 % to 4 % of patients , included fatigue , weakness , pruritus , joint pain , backache , urinary tract infection , cold symptoms , flu symptoms , injection site hematoma , bruise , edema , flushing , blurred vision , pollakiuria , fat malabsorption , hair loss , visual disturbance and depression .
+Other Adverse Events Less Than 1 % Events reported in less than 1 % of patients and for which relationship to octreotide acetate injection is not established are listed : Gastrointestinal ( GI ) : hepatitis , jaundice , increase in liver enzymes , GI bleeding , hemorrhoids , appendicitis , gastric / peptic ulcer , gallbladder polyp ; Integumentary : rash , cellulitis , petechiae , urticaria , basal cell carcinoma ; Musculoskeletal : arthritis , joint effusion , muscle pain , Raynaud ’ s phenomenon ; Cardiovascular : chest pain , shortness of breath , thrombophlebitis , ischemia , congestive heart failure , hypertension , hypertensive reaction , palpitations , orthostatic BP decrease , tachycardia ; CNS : anxiety , libido decrease , syncope , tremor , seizure , vertigo , Bell ’ s Palsy , paranoia , pituitary apoplexy , increased intraocular pressure , amnesia , hearing loss , neuritis ; Respiratory : pneumonia , pulmonary nodule , status asthmaticus ; Endocrine : galactorrhea , hypoadrenalism , diabetes insipidus , gynecomastia , amenorrhea , polymenorrhea , oligomenorrhea , vaginitis ; Urogenital : nephrolithiasis , hematuria ; Hematologic : anemia , iron deficiency , epistaxis ; Miscellaneous : otitis , allergic reaction , increased CK , weight loss .
+Evaluation of 20 patients treated for at least 6 months has failed to demonstrate titers of antibodies exceeding background levels .
+However , antibody titers to octreotide acetate were subsequently reported in 3 patients and resulted in prolonged duration of drug action in 2 patients .
+Anaphylactoid reactions , including anaphylactic shock , have been reported in several patients receiving octreotide acetate injection .
+Postmarketing Experience The following adverse reactions have been identified during the postapproval use of octreotide acetate injection .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Hepatobiliary : cholelithiasis , cholecystitis , cholangitis and pancreatitis , which have sometimes required cholecystectomy Gastrointestinal : intestinal obstruction Hematologic : thrombocytopenia OVERDOSAGE A limited number of accidental overdoses of octreotide acetate injection in adults have been reported .
+In adults , the doses ranged from 2 , 400 to 6 , 000 mcg / day administered by continuous infusion ( 100 to 250 mcg / hour ) or subcutaneously ( 1 , 500 mcg 3 times a day ) .
+Adverse events in some patients included arrhythmia , complete atrioventricular block , hypotension , cardiac arrest , brain hypoxia , pancreatitis , hepatitis steatosis , hepatomegaly , lactic acidosis , flushing , diarrhea , lethargy , weakness , and weight loss .
+Octreotide acetate injection given in intravenous ( IV ) boluses of 1 mg ( 1 , 000 mcg ) to healthy volunteers did not result in serious ill effects , nor did doses of 30 mg ( 30 , 000 mcg ) given intravenously over 20 minutes and of 120 mg ( 120 , 000 mcg ) given intravenously over 8 hours to research patients .
+If overdose occurs , symptomatic management is indicated .
+Up - to - date information about the treatment of overdose can often be obtained from the National Poison Control Center at 1 - 800 - 222 - 1222 .
+Drug Abuse and Dependence There is no indication that octreotide acetate has potential for drug abuse or dependence .
+Octreotide acetate levels in the central nervous system are negligible , even after doses up to 30 , 000 mcg .
+DOSAGE AND ADMINISTRATION Octreotide acetate injection may be administered subcutaneously or intravenously .
+Subcutaneous injection is the usual route of administration of octreotide acetate injection for control of symptoms .
+Pain with subcutaneous administration may be reduced by using the smallest volume that will deliver the desired dose .
+Multiple subcutaneous injections at the same site within short periods of time should be avoided .
+Sites should be rotated in a systematic manner .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration .
+Do not use if particulates and / or discoloration are observed .
+Proper sterile technique should be used in the preparation of parenteral admixtures to minimize the possibility of microbial contamination .
+Octreotide acetate injection is not compatible in Total Parenteral Nutrition ( TPN ) solutions because of the formation of a glycosyl octreotide conjugate which may decrease the efficacy of the product .
+Octreotide acetate injection is stable in sterile isotonic saline solutions or sterile solutions of dextrose 5 % in water for 24 hours .
+It may be diluted in volumes of 50 to 200 mL and infused intravenously over 15 to 30 minutes or administered by IV push over 3 minutes .
+In emergency situations ( e . g . , carcinoid crisis ) , it may be given by rapid bolus .
+The initial dosage is usually 50 mcg administered twice or 3 times daily .
+Upward dose titration is frequently required .
+Dosage information for patients with specific tumors follows .
+Acromegaly Dosage may be initiated at 50 mcg 3 times a day .
+Beginning with this low dose may permit adaptation to adverse gastrointestinal effects for patients who will require higher doses .
+Insulin growth factor - 1 ( IGF - 1 ; somatomedin C ) levels every 2 weeks can be used to guide titration .
+Alternatively , multiple growth hormone ( GH ) levels at 0 to 8 hours after octreotide acetate injection administration permit more rapid titration of dose .
+The goal is to achieve GH levels less than 5 ng / mL or IGF - 1 ( somatomedin C ) levels less than 1 . 9 unit / mL in males and less than 2 . 2 unit / mL in females .
+The dose most commonly found to be effective is 100 mcg 3 times a day , but some patients require up to 500 mcg 3 times a day for maximum effectiveness .
+Doses greater than 300 mcg / day seldom result in additional biochemical benefit , and if an increase in dose fails to provide additional benefit , the dose should be reduced .
+IGF - 1 ( somatomedin C ) or GH levels should be reevaluated at 6 - month intervals .
+Octreotide acetate injection should be withdrawn yearly for approximately 4 weeks from patients who have received irradiation to assess disease activity .
+If GH or IGF - 1 ( somatomedin C ) levels increase and signs and symptoms recur , octreotide acetate injection therapy may be resumed .
+Carcinoid Tumors The suggested daily dosage of octreotide acetate injection during the first 2 weeks of therapy ranges from 100 to 600 mcg / day in 2 to 4 divided doses ( mean daily dosage is 300 mcg ) .
+In the clinical studies , the median daily maintenance dosage was approximately 450 mcg , but clinical and biochemical benefits were obtained in some patients with as little as 50 mcg , while others required doses up to 1500 mcg / day .
+However , experience with doses above 750 mcg / day is limited .
+VIPomas Daily dosages of 200 to 300 mcg in 2 to 4 divided doses are recommended during the initial 2 weeks of therapy ( range , 150 to 750 mcg ) to control symptoms of the disease .
+On an individual basis , dosage may be adjusted to achieve a therapeutic response , but usually doses above 450 mcg / day are not required .
+HOW SUPPLIED Octreotide Acetate Injection is available as follows : NDC 0641 - 6174 - 10 , 50 mcg / mL octreotide ( as acetate ) , 1 mL Single Dose amber vial supplied in a carton of 10 NDC 0641 - 6175 - 10 , 100 mcg / mL octreotide ( as acetate ) , 1 mL Single Dose amber vial supplied in a carton of 10 NDC 0641 - 6176 - 10 , 500 mcg / mL octreotide ( as acetate ) , 1 mL Single Dose amber vial supplied in a carton of 10 NDC 0641 - 6177 - 01 , 200 mcg / mL octreotide ( as acetate ) , 5 mL Multiple Dose amber vials individually boxed NDC 0641 - 6178 - 01 , 1 , 000 mcg / mL octreotide ( as acetate ) , 5 mL Multiple Dose amber vials individually boxed Storage For prolonged storage , Octreotide Acetate Injection vials should be stored at refrigerated temperatures 2 ° C to 8 ° C ( 36 ° F to 46 ° F ) and protected from light .
+At room temperature , ( 20 ° C to 30 ° C or 70 ° F to 86 ° F ) , Octreotide Acetate Injection is stable for 14 days if protected from light .
+The solution can be allowed to come to room temperature prior to administration .
+Do not warm artificially .
+After initial use , the 5 mL multiple dose vials should be discarded within 14 days .
+Dispose unused product or waste properly .
+To report SUSPECTED ADVERSE REACTIONS , contact Hikma Pharmaceuticals USA Inc . at 1 - 877 - 845 - 0689 , or the FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+For Product Inquiry call 1 - 877 - 845 - 0689 .
+Manufactured by : Hikma Pharmaceuticals USA Inc .
+Berkeley Heights , NJ 07922 Revised July 2021 462 - 729 - 05 PRINCIPAL DISPLAY PANEL 50 mcg / mL NDC 0641 - 6174 - 01 Rx only Octreotide Acetate Injection 50 mcg / mL For Subcutaneous or Intravenous Use Store at 2º to 8ºC 1 mL Single Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL 100 mcg / mL NDC 0641 - 6175 - 01 Rx only Octreotide Acetate Injection 100 mcg / mL For Subcutaneous or Intravenous Use Store at 2º to 8ºC 1 mL Single Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL 500 mcg / mL NDC 0641 - 6176 - 01 Rx only Octreotide Acetate Injection 500 mcg / mL For Subcutaneous or Intravenous Use Store at 2º to 8ºC 1 mL Single Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL 1 , 000 mcg / 5 mL ( 200 mcg / mL ) NDC 0641 - 6177 - 01 Rx only Octreotide Acetate Injection 1 , 000 mcg per 5 mL ( 200 mcg / mL ) For Subcutaneous or Intravenous Use 5 mL Multiple Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL 5 , 000 mcg / 5 mL ( 1 , 000 mcg / mL ) NDC 0641 - 6178 - 01 Rx only Octreotide Acetate Injection 5 , 000 mcg per 5 mL ( 1 , 000 mcg / mL ) For Subcutaneous or Intravenous Use 5 mL Multiple Dose Vial [ MULTIMEDIA ] [ MULTIMEDIA ] SERIALIZATION IMAGE [ MULTIMEDIA ] [ MULTIMEDIA ] SERIALIZATION IMAGE [ MULTIMEDIA ] [ MULTIMEDIA ]

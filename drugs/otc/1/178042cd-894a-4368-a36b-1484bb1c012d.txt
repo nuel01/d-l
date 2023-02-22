@@ -1,0 +1,553 @@
+WARNING : Fluoroquinolones , including FACTIVE ® , are associated with an increased risk of tendinitis and tendon rupture in all ages .
+This risk is further increased in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart and lung transplants ( See WARNINGS ) .
+Fluoroquinolones , including FACTIVE , may exacerbate muscle weakness in persons with myasthenia gravis .
+Avoid FACTIVE in patients with known history of myasthenia gravis ( See WARNINGS ) .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of FACTIVE and other antibacterial drugs , FACTIVE should be used only to treat infections that are proven or strongly suspected to be caused by bacteria .
+DESCRIPTION FACTIVE ( gemifloxacin mesylate ) is a synthetic broad - spectrum antibacterial agent for oral administration .
+Gemifloxacin , a compound related to the fluoroquinolone class of antibiotics , is available as the mesylate salt in the sesquihydrate form .
+Chemically , gemifloxacin is ( R , S ) - 7 - [ ( 4 Z ) - 3 - ( aminomethyl ) - 4 - ( methoxyimino ) - 1 - pyrrolidinyl ] - 1 - cyclopropyl - 6 - fluoro - 1 , 4 - dihydro - 4 - oxo - 1 , 8 - naphthyridine - 3 - carboxylic acid .
+The mesylate salt is a white to light brown solid with a molecular weight of 485 . 49 .
+Gemifloxacin is considered freely soluble at neutral pH ( 350 μg / mL at 37ºC , pH 7 . 0 ) .
+Its empirical formula is C18H20FN5O4 • CH4O3S and its chemical structure is : [ MULTIMEDIA ] Gemifloxacin Mesylate Each white to off - white , oval , film - coated FACTIVE tablet has breaklines and GE 320 debossed on both faces and contains gemifloxacin mesylate equivalent to 320 mg gemifloxacin .
+The inactive ingredients are crospovidone , hydroxypropyl methylcellulose , magnesium stearate , microcrystalline cellulose , polyethylene glycol , povidone , and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Pharmacokinetics The pharmacokinetics of gemifloxacin are approximately linear over the dose range from 40 mg to 640 mg .
+There was minimal accumulation of gemifloxacin following multiple oral doses up to 640 mg a day for 7 days ( mean accumulation < 20 % ) .
+Following repeat oral administration of 320 mg gemifloxacin once daily , steady - state is achieved by the third day of dosing .
+Absorption and Bioavailability Gemifloxacin , given as an oral tablet , is rapidly absorbed from the gastrointestinal tract .
+Peak plasma concentrations of gemifloxacin were observed between 0 . 5 and 2 hours following oral tablet administration and the absolute bioavailability of the 320 mg tablet averaged approximately 71 % ( 95 % CI 60 % - 84 % ) .
+Following repeat oral doses of 320 mg to healthy subjects , the mean ± SD maximal gemifloxacin plasma concentrations ( Cmax ) and systemic drug exposure ( AUC ( 0 - 24 ) ) were 1 . 61 ± 0 . 51 μg / mL ( range 0 . 70 - 2 . 62 μg / mL ) and 9 . 93 ± 3 . 07 μg • hr / mL ( range 4 . 71 - 20 . 1 μg • hr / mL ) , respectively .
+In patients with respiratory and urinary tract infections ( n = 1423 ) , similar estimates of systemic drug exposure were determined using a population pharmacokinetics analysis ( geometric mean AUC ( 0 - 24 ) , 8 . 36 μg • hr / mL ; range 3 . 2 – 47 . 7 μg • hr / mL ) .
+The pharmacokinetics of gemifloxacin were not significantly altered when a 320 mg dose was administered with a high - fat meal .
+Therefore FACTIVE tablets may be administered without regard to meals .
+Distribution In vitro binding of gemifloxacin to plasma proteins in healthy subjects is approximately 60 to 70 % and is concentration independent .
+After repeated doses , the in vivo plasma protein binding in healthy elderly and young subjects ranged from 55 % to 73 % and was unaffected by age .
+Renal impairment does not significantly affect the protein binding of gemifloxacin .
+The blood - to - plasma concentration ratio of gemifloxacin was 1 . 2 : 1 .
+The geometric mean for Vdss / F is 4 . 18 L / kg ( range , 1 . 66 – 12 . 12 L / kg ) .
+Gemifloxacin is widely distributed throughout the body after oral administration .
+Concentrations of gemifloxacin in bronchoalveolar lavage fluid exceed those in the plasma .
+Gemifloxacin penetrates well into lung tissue and fluids .
+After five daily doses of 320 mg gemifloxacin , concentrations in plasma , bronchoalveolar macrophages , epithelial lining fluid and bronchial mucosa at approximately 2 hours were as in Table 1 .
+Table 1 .
+Gemifloxacin Concentrations in Plasma and Tissues ( 320 mg Oral Dosing ) Tissue Concentration ( mean ± SD ) Ratio compared with plasma ( mean ± SD ) Plasma 1 . 40 ( 0 . 442 ) μg / mL — Bronchoalveolar Macrophages 107 ( 77 ) μg / g 90 . 5 ( 106 . 3 ) Epithelial Lining Fluid 2 . 69 ( 1 . 96 ) μg / mL 1 . 99 ( 1 . 32 ) Bronchial Mucosa 9 . 52 ( 5 . 15 ) μg / g 7 . 21 ( 4 . 03 ) Metabolism Gemifloxacin is metabolized to a limited extent by the liver .
+The unchanged compound is the predominant drug - related component detected in plasma ( approximately 65 % ) up to 4 hours after dosing .
+All metabolites formed are minor ( < 10 % of the administered oral dose ) ; the principal ones are N - acetyl gemifloxacin , the E - isomer of gemifloxacin and the carbamyl glucuronide of gemifloxacin .
+Cytochrome P450 enzymes do not play an important role in gemifloxacin metabolism , and the metabolic activity of these enzymes is not significantly inhibited by gemifloxacin .
+Excretion Gemifloxacin and its metabolites are excreted via dual routes of excretion .
+Following oral administration of gemifloxacin to healthy subjects , a mean ( ± SD ) of 61 ± 9 . 5 % of the dose was excreted in the feces and 36 ± 9 . 3 % in the urine as unchanged drug and metabolites .
+The mean ( ± SD ) renal clearance following repeat doses of 320 mg was approximately 11 . 6 ± 3 . 9 L / hr ( range 4 . 6 - 17 . 6 L / hr ) , which indicates active secretion is involved in the renal excretion of gemifloxacin .
+The mean ( ± SD ) plasma elimination half - life at steady state following 320 mg to healthy subjects was approximately 7 ± 2 hours ( range 4 - 12 hours ) .
+Special Populations Pediatric : The pharmacokinetics of gemifloxacin in pediatric subjects have not been studied .
+Geriatric : In adult subjects , the pharmacokinetics of gemifloxacin are not affected by age .
+Gender : There are no significant differences between gemifloxacin pharmacokinetics in males and females when differences in body weight are taken into account .
+Population pharmacokinetic studies indicated that following administration of 320 mg gemifloxacin , AUC values were approximately 10 % higher in healthy female patients compared to males .
+Males and females had mean AUC values of 7 . 98 μg • hr / mL ( range , 3 . 21 – 42 . 71 μg • hr / mL ) and 8 . 80 μg • hr / mL ( range , 3 . 33 – 47 . 73 μg • hr / mL ) , respectively .
+No gemifloxacin dosage adjustment based on gender is necessary .
+Hepatic Insufficiency : The pharmacokinetics following a single 320 mg dose of gemifloxacin were studied in patients with mild ( Child - Pugh Class A ) to moderate ( Child - Pugh Class B ) liver disease .
+There was a mean increase in AUC ( 0 - inf ) of 34 % and a mean increase in Cmax of 25 % in these patients with hepatic impairment compared to healthy volunteers .
+The pharmacokinetics of a single 320 mg dose of gemifloxacin were also studied in patients with severe hepatic impairment ( Child - Pugh Class C ) .
+There was a mean increase in AUC ( 0 - inf ) of 45 % and a mean increase in Cmax of 41 % in these subjects with hepatic impairment compared to healthy volunteers .
+These average pharmacokinetic increases are not considered to be clinically significant .
+There was no significant change in plasma elimination half - life in the mild , moderate or severe hepatic impairment patients .
+No dosage adjustment is recommended in patients with mild ( Child - Pugh Class A ) , moderate ( Child - Pugh Class B ) or severe ( Child - Pugh Class C ) hepatic impairment .
+( See DOSAGE AND ADMINISTRATION . )
+Renal Insufficiency : Results from population pharmacokinetic and clinical pharmacology studies with repeated 320 mg doses indicate the clearance of gemifloxacin is reduced and the plasma elimination is prolonged , leading to an average increase in AUC values of approximately 70 % in patients with renal insufficiency .
+In the pharmacokinetic studies , gemifloxacin Cmax was not significantly altered in subjects with renal insufficiency .
+Dose adjustment in patients with creatinine clearance > 40 mL / min is not required .
+Modification of the dosage is recommended for patients with creatinine clearance ≤ 40 mL / min .
+( See DOSAGE AND ADMINISTRATION . )
+Hemodialysis removes approximately 20 to 30 % of an oral dose of gemifloxacin from plasma .
+Photosensitivity Potential In a study of the skin response to ultraviolet and visible radiation conducted in 40 healthy volunteers , the minimum erythematous dose ( MED ) was assessed following administration of either gemifloxacin 160 mg once daily , gemifloxacin 320 mg once daily , ciprofloxacin 500 mg BID , or placebo for 7 days .
+At 5 of the 6 wavelengths tested ( 295 - 430 nm ) , the photosensitivity potential of gemifloxacin was not statistically different from placebo .
+At 365 nm ( UVA region ) , gemifloxacin showed a photosensitivity potential similar to that of ciprofloxacin 500 mg BID and the photosensitivity potential for both drugs were statistically greater than that of placebo .
+Photosensitivity reactions were reported rarely in clinical trials with gemifloxacin ( 0 . 039 % ) .
+( See ADVERSE REACTIONS . )
+It is difficult to ascribe relative photosensitivity / phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject ’ s susceptibility to this adverse event such as : a patient ’ s skin pigmentation , frequency and duration of sun and artificial ultraviolet light ( UV ) exposure , wearing of sun screen and protective clothing , the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy .
+( See ADVERSE REACTIONS and ADVERSE REACTIONS / Post - Marketing Adverse Reactions . )
+Drug - Drug Interactions Antacids / Di - and Trivalent Cations : The systemic availability of gemifloxacin is significantly reduced when an aluminum - and magnesium - containing antacid is concomitantly administered ( AUC decreased 85 % ; Cmax decreased 87 % ) .
+Administration of an aluminum - and magnesium - containing antacid or ferrous sulfate ( 325 mg ) at 3 hours before or at 2 hours after gemifloxacin did not significantly alter the systemic availability of gemifloxacin .
+Therefore , aluminum - and / or magnesium - containing antacids , ferrous sulfate ( iron ) , multivitamin preparations containing zinc or other metal cations , or Videx ® ( didanosine ) chewable / buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after taking FACTIVE tablets .
+Calcium carbonate ( 1000 mg ) given either 2 hr before or 2 hr after gemifloxacin administration showed no notable reduction in gemifloxacin systemic availability .
+Calcium carbonate administered simultaneously with gemifloxacin resulted in a small , not clinically significant , decrease in gemifloxacin exposure [ AUC ( 0 - inf ) decreased 21 % and Cmax decreased ] .
+Sucralfate : When sucralfate ( 2 g ) was administered 3 hours prior to gemifloxacin , the oral bioavailability of gemifloxacin was significantly reduced ( 53 % decrease in AUC ; 69 % decrease in Cmax ) .
+When sucralfate ( 2 g ) was administered 2 hours after gemifloxacin , the oral bioavailability of gemifloxacin was not significantly affected ; therefore FACTIVE should be taken at least 2 hours before sucralfate .
+( See PRECAUTIONS . )
+In Vitro Metabolism : Results of in vitro inhibition studies indicate that hepatic cytochrome P450 ( CYP450 ) enzymes do not play an important role in gemifloxacin metabolism .
+Therefore gemifloxacin should not cause significant in vivo pharmacokinetic interactions with other drugs that are metabolized by CYP450 enzymes .
+Theophylline : Gemifloxacin 320 mg at steady - state did not affect the repeat dose pharmacokinetics of theophylline ( 300 to 400 mg BID to healthy male subjects ) .
+Digoxin : Gemifloxacin 320 mg at steady - state did not affect the repeat dose pharmacokinetics of digoxin ( 0 . 25 mg once daily to healthy elderly subjects ) .
+Oral Contraceptives : The effect of an oral estrogen / progesterone contraceptive product ( once daily for 21 days ) on the pharmacokinetics of gemifloxacin ( 320 mg once daily for 6 days ) in healthy female subjects indicates that concomitant administration caused an average reduction in gemifloxacin AUC and Cmax of 19 % and 12 % .
+These changes are not considered clinically significant .
+Gemifloxacin 320 mg at steady - state did not affect the repeat dose pharmacokinetics of an ethinylestradiol / levonorgestrol oral contraceptive product ( 30 μg / 150 μg once daily for 21 days to healthy female subjects ) .
+Cimetidine : Co - administration of a single dose of 320 mg gemifloxacin with cimetidine 400 mg four times daily for 7 days resulted in slight average increases in gemifloxacin AUC ( 0 - inf ) and Cmax of 10 % and 6 % , respectively .
+These increases are not considered clinically significant .
+Omeprazole : Co - administration of a single dose of 320 mg gemifloxacin with omeprazole 40 mg once daily for 4 days resulted in slight average increases in gemifloxacin AUC ( 0 - inf ) and Cmax of 10 % and 11 % , respectively .
+These increases are not considered clinically significant .
+Warfarin : Administration of repeated doses of gemifloxacin ( 320 mg once daily for 7 days ) to healthy subjects on stable warfarin therapy had no significant effect on warfarin - induced anticoagulant activity ( i . e . , International Normalized Ratios for Prothrombin Time ) .
+( See PRECAUTIONS : Drug Interactions . )
+Probenecid : Administration of a single dose of 320 mg gemifloxacin to healthy subjects who also received repeat doses of probenecid ( total dose = 4 . 5 g ) reduced the mean renal clearance of gemifloxacin by approximately 50 % , resulting in a mean increase of 45 % in gemifloxacin AUC ( 0 - inf ) and a prolongation of mean half - life by 1 . 6 hours .
+Mean gemifloxacin Cmax increased 8 % .
+MICROBIOLOGY Gemifloxacin has in vitro activity against a wide range of Gram - negative and Gram - positive microorganisms .
+Gemifloxacin is bactericidal with minimum bactericidal concentrations ( MBCs ) generally within one dilution of the minimum inhibitory concentrations ( MICs ) .
+Gemifloxacin acts by inhibiting DNA synthesis through the inhibition of both DNA gyrase and topoisomerase IV ( TOPO IV ) , which are essential for bacterial growth .
+Streptococcus pneumoniae showing mutations in both DNA gyrase and TOPO IV ( double mutants ) are resistant to most fluoroquinolones .
+Gemifloxacin has the ability to inhibit both enzyme systems at therapeutically relevant drug levels in S . pneumoniae ( dual targeting ) , and has MIC values that are still in the susceptible range for some of these double mutants .
+However , the presence of double mutants was not evaluated in clinical trials ; therefore , the clinical significance of these in vitro data are unknown .
+The mechanism of action of quinolones , including gemifloxacin , is different from that of macrolides , beta - lactams , aminoglycosides , or tetracyclines ; therefore , microorganisms resistant to these classes of drugs may be susceptible to gemifloxacin and other quinolones .
+There is no known cross - resistance between gemifloxacin and the above mentioned classes of antimicrobials .
+The main mechanism of fluoroquinolone resistance is due to mutations in DNA gyrase and / or TOPO IV .
+Resistance to gemifloxacin develops slowly via multistep mutations and efflux in a manner similar to other fluoroquinolones .
+The frequency of spontaneous mutation is low ( 10 - 7 to < 10 - 10 ) .
+Although cross - resistance has been observed between gemifloxacin and other fluoroquinolones , some microorganisms resistant to other fluoroquinolones may be susceptible to gemifloxacin .
+Gemifloxacin has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section .
+Aerobic Gram - positive microorganisms Streptococcus pneumoniae ( including multi - drug resistant strains [ MDRSP ] ) * * MDRSP : multi - drug resistant Streptococcus pneumoniae , includes isolates previously known as PRSP ( penicillin - resistant Streptococcus pneumoniae ) , and are strains resistant to two or more of the following antibiotics : penicillin ( MIC ≥ 2 μg / mL ) , 2 nd generation cephalosporins ( e . g . , cefuroxime ) , macrolides , tetracyclines and trimethoprim / sulfamethoxazole .
+Aerobic Gram - negative microorganisms Haemophilus influenza Haemophilus parainfluenzae Klebsiella pneumonia ( many strains are only moderately susceptible ) Moraxella catarrhalis Other microorganisms Chlamydia pneumoniae Mycoplasma pneumoniae The following data are available , but their clinical significance is unknown .
+Gemifloxacin exhibits in vitro minimal inhibitory concentrations ( MICs ) of 0 . 25 μg / mL or less against most ( ≥ 90 % ) strains of the following microorganisms ; however , the safety and effectiveness of gemifloxacin in treating clinical infections due to these microorganisms has not been established in adequate and well - controlled clinical trials : Aerobic Gram - positive microorganisms Staphylococcus aureus ( methicillin - susceptible strains only ) Streptococcus pyogenes Aerobic Gram - negative microorganisms Acinetobacter lwoffii Klebsiella oxytoca Legionella pneumophila Proteus vulgaris Haemophilus influenza Haemophilus parainfluenzae Klebsiella pneumoniae ( many strains are only moderately susceptible ) Moraxella catarrhalis Susceptibility Tests Dilution techniques : Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations ( MICs ) .
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds .
+The MICs should be determined using a standardized procedure .
+Standardized procedures are based on a dilution method1 ( broth or agar ) or equivalent with standardized inoculum concentrations and standardized concentrations of gemifloxacin powder .
+The MICs should be interpreted according to the following criteria : For testing Klebsiella pneumoniae : MIC ( μg / mL ) Interpretation ≤ 0 . 25 Susceptible ( S ) 0 . 5 Intermediate ( I ) ≥ 1 . 0 Resistant ( R ) For testing Haemophilus influenzae and Haemophilus parainfluenzaea : MIC ( μg / mL ) Interpretation ≤ 0 . 12 Susceptible ( S ) a This interpretive standard is applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium ( HTM ) 1 .
+The current absence of data on resistant strains precludes defining any results other than “ Susceptible ” .
+Strains yielding MIC results suggestive of a “ nonsusceptible ” category should be submitted to a reference laboratory for further testing .
+For testing Streptococcus pneumoniaeb : MIC ( μg / mL ) Interpretation ≤ 0 . 12 Susceptible ( S ) 0 . 25 Intermediate ( I ) ≥ 0 . 5 Resistant ( R ) b These interpretive standards are applicable only to broth microdilution susceptibility tests using cation - adjusted Mueller - Hinton broth with 2 - 5 % lysed horse blood .
+A report of “ Susceptible ” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable .
+A report of “ Intermediate ” indicates that the result should be considered equivocal , and if the microorganism is not fully susceptible to alternative , clinically feasible drugs , the test should be repeated .
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used .
+This category also provides a buffer zone , which prevents small uncontrolled technical factors from causing major discrepancies in interpretation .
+A report of “ Resistant ” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable ; other therapy should be selected .
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures .
+Standard gemifloxacin powder should provide the following MIC values : Microorganism MIC Range ( μg / mL ) Escherichia coli ATCC 25922 0 . 004 - 0 . 016 Haemophilus influenzae ATCC 49247 0 . 002 - 0 . 008 c Streptococcus pneumoniae ATCC 49619 0 . 008 - 0 . 03 d c This quality control range is applicable to only H . influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium ( HTM ) 1 .
+d This quality control range is applicable to only S . pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation - adjusted Mueller - Hinton broth with 2 - 5 % lysed horse blood .
+Diffusion Techniques : Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds .
+One such standardized procedure2 requires the use of standardized inoculum concentrations .
+This procedure uses paper disks impregnated with 5 μg gemifloxacin to test the susceptibility of microorganisms to gemifloxacin .
+Reports from the laboratory providing results of the standard single - disk susceptibility test with a 5 μg gemifloxacin disk should be interpreted according to the following criteria : For testing Klebsiella pneumoniae : Zone Diameter ( mm ) Interpretation ≥ 20 Susceptible ( S ) 16 - 19 Intermediate ( I ) ≤ 15 Resistant ( R ) For testing Haemophilus influenzae and Haemophilus parainfluenzaee : Zone Diameter ( mm ) Interpretation ≥ 18 Susceptible ( S ) e This interpretive standard is applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium ( HTM ) . 2 The current absence of data on resistant strains precludes defining any results other than “ Susceptible ” .
+Strains yielding zone diameter results suggestive of a “ nonsusceptible ” category should be submitted to a reference laboratory for further testing .
+For testing Streptococcus pneumoniaef : Zone Diameter ( mm ) Interpretation ≥ 23 Susceptible ( S ) 20 - 22 Intermediate ( I ) ≤ 19 Resistant ( R ) f These zone diameter standards apply only to tests performed using Mueller - Hinton agar supplemented with 5 % defibrinated sheep blood incubated in 5 % CO2 .
+Interpretation should be as stated above for results using dilution techniques .
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for gemifloxacin .
+As with standardized dilution techniques , diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures .
+For the diffusion technique , the 5 μg gemifloxacin disk should provide the following zone diameters in these laboratory quality control strains : Microorganism Zone Diameter ( mm ) Escherichia coli ATCC 25922 29 - 36 Haemophilus influenzae ATCC 49247 30 - 37 g Streptococcus pneumoniae ATCC 49619 28 - 34 h g This quality control range is applicable to only H . influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium ( HTM ) 2 .
+h This quality control range is applicable to only S . pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller - Hinton agar supplemented with 5 % defibrinated sheep blood and incubated in 5 % CO2 .
+INDICATIONS AND USAGE FACTIVE is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below .
+( See DOSAGE AND ADMINISTRATION and CLINICAL STUDIES . )
+Acute bacterial exacerbation of chronic bronchitis caused by Streptococcus pneumoniae , Haemophilus influenzae , Haemophilus parainfluenzae , or Moraxella catarrhalis .
+Community - acquired pneumonia ( of mild to moderate severity ) caused by Streptococcus pneumoniae ( including multi - drug resistant strains [ MDRSP ] ) * , Haemophilus influenzae , Moraxella catarrhalis , Mycoplasma pneumoniae , Chlamydia pneumoniae , or Klebsiella pneumoniae .
+* MDRSP : multi - drug resistant Streptococcus pneumoniae , includes isolates previously known as PRSP ( penicillin - resistant Streptococcus pneumoniae ) , and are strains resistant to two or more of the following antibiotics : penicillin ( MIC ≥ 2 μg / mL ) , 2 nd generation cephalosporins ( e . g . , cefuroxime ) , macrolides , tetracyclines and trimethoprim / sulfamethoxazole .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of FACTIVE and other antibacterial drugs , FACTIVE should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+CONTRAINDICATIONS FACTIVE is contraindicated in patients with a history of hypersensitivity to gemifloxacin , fluoroquinolone antibiotic agents , or any of the product components .
+WARNINGS Tendinopathy and Tendon Rupture : Fluoroquinolones , including FACTIVE , are associated with an increased risk of tendinitis and tendon rupture in all ages .
+This adverse reaction most frequently involves the Achilles tendon , and rupture of the Achilles tendon may require surgical repair .
+Tendinitis and tendon rupture in the rotator cuff ( the shoulder ) , the hand , the biceps , the thumb , and other tendon sites have also been reported .
+The risk of developing fluoroquinolone - associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age , in those taking corticosteroid drugs , and in patients with kidney , heart or lung transplants .
+Factors , in addition to age and corticosteroid use , that may independently increase the risk of tendon rupture include strenuous physical activity , renal failure , and previous tendon disorders such as rheumatoid arthritis .
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors .
+Tendon rupture can occur during or after completion of therapy ; cases occurring up to several months after completion of therapy have been reported .
+FACTIVE should be discontinued if the patient experiences pain , swelling , inflammation or rupture of a tendon .
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture , and to contact their healthcare provider regarding changing to a non - quinolone antimicrobial drug .
+Exacerbation of Myasthenia Gravis : Fluoroquinolones , including FACTIVE , have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis .
+Postmarketing serious adverse events , including deaths and requirement for ventilatory support , have been associated with fluoroquinolone use in persons with myasthenia gravis .
+Avoid FACTIVE in patients with known history of myasthenia gravis .
+( See PRECAUTIONS / Information for Patients and Adverse Reactions / Post - Marketing Adverse Reactions . )
+THE SAFETY AND EFFECTIVENESS OF FACTIVE IN CHILDREN , ADOLESCENTS ( LESS THAN 18 YEARS OF AGE ) , PREGNANT WOMEN , AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED .
+( See PRECAUTIONS : Pediatric Use , Pregnancy and Nursing Mothers subsections . )
+QT Effects : Fluoroquinolones may prolong the QT interval in some patients .
+FACTIVE should be avoided in patients with a history of prolongation of the QTc interval , patients with uncorrected electrolyte disorders ( hypokalemia or hypomagnesemia ) , and patients receiving Class IA ( e . g . , quinidine , procainamide ) or Class III ( e . g . , amiodarone , sotalol ) antiarrhythmic agents .
+Pharmacokinetic studies between gemifloxacin and drugs that prolong the QTc interval such as erythromycin , antipsychotics , and tricyclic antidepressants have not been performed .
+FACTIVE should be used with caution when given concurrently with these drugs , as well as in patients with ongoing proarrhythmic conditions , such as clinically significant bradycardia or acute myocardial ischemia .
+No cardiovascular morbidity or mortality attributable to QTc prolongation occurred with FACTIVE treatment in over 8119 patients , including 707 patients concurrently receiving drugs known to prolong the QTc interval and 7 patients with hypokalemia .
+The likelihood of QTc prolongation may increase with increasing dose of the drug ; therefore , the recommended dose should not be exceeded especially in patients with renal or hepatic impairment where the Cmax and AUC are slightly higher .
+QTc prolongation may lead to an increased risk for ventricular arrhythmias including torsades de pointes .
+The maximal change in the QTc interval occurs approximately 5 - 10 hours following oral administration of gemifloxacin .
+Hypersensitivity Reactions : Serious hypersensitivity and / or anaphylactic reactions have been reported in patients receiving fluoroquinolone therapy , including FACTIVE .
+Hypersensitivity reactions reported in patients receiving fluoroquinolone therapy have occasionally been fatal .
+These reactions may occur following the first dose .
+Some reactions have been accompanied by cardiovascular collapse , hypotension / shock , seizure , loss of consciousness , tingling , angioedema ( including tongue , laryngeal , throat or facial edema / swelling ) , airway obstruction ( including bronchospasm , shortness of breath and acute respiratory distress ) , dyspnea , urticaria , itching and other serious skin reactions .
+FACTIVE should be discontinued immediately at the appearance of any sign of an immediate type I hypersensitivity skin rash or any other manifestation of a hypersensitivity reaction ; the need for continued fluoroquinolone therapy should be evaluated .
+As with other drugs , serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures , including oxygen , intravenous fluids , antihistamines , corticosteroids , pressor amines and airway management as clinically indicated .
+( See PRECAUTIONS and ADVERSE REACTIONS . )
+Other serious and sometimes fatal events , some due to hypersensitivity and some due to uncertain etiology , have been reported rarely in patients receiving therapy with quinolones , including FACTIVE .
+These events may be severe and generally occur following the administration of multiple doses .
+Clinical manifestations may include one or more of the following : • fever , rash or severe dermatologic reactions ( e . g . , toxic epidermal necrolysis , Stevens - Johnson Syndrome ) ; • vasculitis ; arthralgia ; myalgia ; serum sickness ; • allergic pneumonitis ; • interstitial nephritis ; acute renal insufficiency or failure ; • hepatitis ; jaundice ; acute hepatic necrosis or failure ; • anemia , including hemolytic and aplastic ; • thrombocytopenia , including thrombotic thrombocytopenic purpura ; leukopenia agranulocytosis ; pancytopenia ; and / or other hematologic abnormalities .
+The drug should be discontinued immediately at the first appearance of a skin rash , jaundice , or any other sign of hypersensitivity and supportive measures instituted ( See PRECAUTIONS : Information for Patients and ADVERSE REACTIONS ) .
+Peripheral Neuropathy : Cases of sensory or sensorimotor axonal polyneuropathy affecting small and / or large axons resulting in paresthesias , hypoesthesias , dysesthesias and weakness have been reported in patients receiving fluoroquinolones , including FACTIVE .
+Symptoms may occur soon after initiation of FACTIVE and may be irreversible .
+FACTIVE should be discontinued immediately if the patient experiences symptoms of peripheral neuropathy , including pain , burning , tingling , numbness , and / or weakness or other alterations in sensations including light touch , pain , temperature , position sense , and vibratory sensation .
+CNS Effects : In clinical studies with FACTIVE , central nervous system ( CNS ) effects have been reported infrequently .
+As with other fluoroquinolones , FACTIVE should be used with caution in patients with CNS diseases such as epilepsy or patients predisposed to convulsions .
+Although not seen in FACTIVE clinical trials , convulsions , increased intracranial pressure ( including pseudotumor cerebri ) , and toxic psychosis have been reported in patients receiving other fluoroquinolones .
+CNS stimulation which may lead to tremors , restlessness , anxiety , lightheadedness , confusion , hallucinations , paranoia , depression , insomnia , and rarely suicidal thoughts or acts may also be caused by other fluoroquinolones .
+If these reactions occur in patients receiving FACTIVE , the drug should be discontinued and appropriate measures instituted .
+Clostridium difficile Associated Diarrhea : Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including FACTIVE , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+PRECAUTIONS General : Prescribing FACTIVE in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Rash : In clinical studies , rash occurred more often with FACTIVE than with therapy with comparator agents ( 2 . 7 % vs . 0 . 6 % ) .
+Increasing incidence of rash was associated with younger age ( especially below 40 ) , female gender , use of hormone replacement therapy and longer durations of therapy ( see Table 2 ) .
+Urticarial reactions , some of which were not classified as rash , were more common in FACTIVE patients than in comparator patients ( 0 . 6 % vs . 0 . 2 % ) .
+FACTIVE should be discontinued in patients developing a rash or urticaria while on treatment .
+( See ADVERSE REACTIONS and CLINICAL STUDIES . )
+Table 2 .
+Rash Incidence in FACTIVE Treated Patients from the Clinical Studies Population * by Gender , Age , and Duration of Therapy [ MULTIMEDIA ] * includes patients from studies of community - acquired pneumonia , acute bacterial exacerbation of chronic bronchitis , and other indications ** exceeds the recommended duration of therapy ( see DOSAGE AND ADMINISTRATION ) The most common form of rash associated with FACTIVE was described as maculopapular and mild to moderate in severity .
+Eighty percent of rashes resolved within 14 days .
+Approximately 10 % of the rashes ( 0 . 5 % of all patients ) were described as of severe intensity and approximately 10 % of those with rash were treated with systemic steroids .
+There were no documented cases in the clinical trials of more serious skin reactions known to be associated with significant morbidity or mortality .
+Moderate to severe photosensitivity / phototoxicity reactions , the latter of which may manifest as exaggerated sunburn reactions ( e . g . , burning , erythema , exudation , vesicles , blistering , edema ) involving areas exposed to light ( typically the face , “ V ” area of the neck , extensor surfaces of the forearms , dorsa of the hands ) , can be associated with use of quinolones after sun or UV light exposure .
+Therefore excessive exposure to these sources of light should be avoided .
+Drug therapy should be discontinued if phototoxicity occurs .
+( See ADVERSE REACTIONS and ADVERSE REACTIONS / Post - Marketing Adverse Reactions . )
+Hepatic Effects : Liver enzyme elevations ( increased ALT and / or AST ) occurred at similar rates in patients receiving FACTIVE 320 mg daily relative to comparator antimicrobial agents ( ciprofloxacin , levofloxacin , clarithromycin / cefuroxime axetil , amoxicillin / clavulanate potassium , and ofloxacin ) .
+In patients who received gemifloxacin at doses of 480 mg per day or greater there was an increased incidence of elevations in liver enzymes .
+( See ADVERSE REACTIONS . )
+There were no clinical symptoms associated with these liver enzyme elevations .
+The liver enzyme elevations resolved following cessation of therapy .
+The recommended dose of FACTIVE 320 mg daily should not be exceeded and the recommended length of therapy should not be exceeded .
+( See DOSAGE AND ADMINISTRATION . )
+Renal Effects : Alteration of the dosage regimen is necessary for patients with impairment of renal function ( creatinine clearance ≤ 40 mL / min ) .
+( See DOSAGE AND ADMINISTRATION . )
+Adequate hydration of patients receiving FACTIVE should be maintained to prevent the formation of a highly concentrated urine .
+Information for Patients Patients should be counseled : • that peripheral neuropathies have been associated with FACTIVE use , that symptoms may occur soon after initiation of therapy and may be irreversible .
+If symptoms of peripheral neuropathy including pain , burning , tingling , numbness and / or weakness develop , patients should immediately discontinue FACTIVE and contact their physician .
+• to contact their healthcare provider if they experience pain , swelling , or inflammation of a tendon , or weakness or inability to use one of their joints ; rest and refrain from exercise ; and discontinue FACTIVE treatment .
+The risk of serious tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart and lung transplants ; • that fluoroquinolones like FACTIVE may cause worsening of myasthenia gravis symptoms , including muscle weakness and breathing problems .
+Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems ; • that antibacterial drugs including FACTIVE should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When FACTIVE is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by FACTIVE or other antibacterial drugs in the future ; • that FACTIVE has been associated with rash and hives .
+Rash occurs more commonly in those under 40 , especially women and in women on hormone replacement therapy .
+The incidence of rash increases with duration more than 5 days and particularly longer than 7 days .
+Patients should discontinue FACTIVE and call their healthcare provider if they develop a rash ; • that FACTIVE may be associated with hypersensitivity reactions , including anaphylactic reactions , even following a single dose ; patients should immediately discontinue the drug at the sign of a rash or other allergic reaction and seek medical care ; • that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible ; • that FACTIVE may cause changes in the electrocardiogram ( QTc interval prolongation ) ; • that FACTIVE should be avoided in patients receiving Class IA ( e . g . , quinidine , procainamide ) or Class III ( e . g . , amiodarone , sotalol ) antiarrhythmic agents ; • that FACTIVE should be used with caution in patients receiving drugs that affect the QTc interval such as cisapride , erythromycin , antipsychotics , and tricyclic antidepressants ; • to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as hypokalemia , bradycardia , or recent myocardial ischemia ; • to contact their physician if they experience palpitations or fainting spells while taking FACTIVE ; • that FACTIVE may cause dizziness ; if this occurs , patients should not operate an automobile or machinery or engage in activities requiring mental alertness or coordination ; • that convulsions have been reported in patients receiving quinolones .
+Patients should notify their physician before taking FACTIVE if they have a history of convulsions , seizures , or epilepsy ; • that other central nervous system problems such as tremors , restlessness , lightheadedness , confusion and hallucinations may occur rarely ; • that photosensitivity / phototoxicity has been reported in patients receiving quinolones .
+Patients should minimize or avoid exposure to natural or artificial sunlight ( tanning beds or UVA / B treatment ) while taking quinolones .
+If patients need to be outdoors while using quinolones , they should wear loose - fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician .
+If a sunburn - like reaction or skin eruption occurs , patients should contact their physician ; ( See CLINICAL PHARMACOLOGY : Photosensitivity Potential ) ; • that increases of the International Normalized Ratio ( INR ) , or prothrombin time ( PT ) , and / or clinical episodes of bleeding have been noted with concurrent administration of warfarin or its derivatives , and FACTIVE .
+Patients should notify their physicians if they are taking warfarin or its derivatives ; • to inform their physician of any other medications when taken concurrently with FACTIVE , including over - the - counter medications and dietary supplements ; • that FACTIVE may be taken with or without meals ; • to drink fluids liberally ; • not to take antacids containing magnesium and / or aluminum or products containing ferrous sulfate ( iron ) , multivitamin preparations containing zinc or other metal cations , or Videx ® ( didanosine ) chewable / buffered tablets or the pediatric powder for oral solution within 3 hours before or 2 hours after taking FACTIVE tablets ; • that FACTIVE should be taken at least 2 hours before sucralfate .
+Drug Interactions : Administration of repeat doses of FACTIVE had no effect on the repeat dose pharmacokinetics of theophylline , digoxin or an ethinylestradiol / levonorgestrol oral contraceptive product in healthy subjects .
+( See CLINICAL PHARMACOLOGY : Drug - Drug Interactions . )
+Concomitant administration of FACTIVE and calcium carbonate , cimetidine , omeprazole , or an estrogen / progesterone oral contraceptive produced minor changes in the pharmacokinetics of gemifloxacin , which were considered to be without clinical significance .
+( See CLINICAL PHARMACOLOGY . )
+Concomitant administration of FACTIVE with probenecid resulted in a 45 % increase in systemic exposure to gemifloxacin .
+( See CLINICAL PHARMACOLOGY . )
+FACTIVE had no significant effect on the anticoagulant effect of warfarin in healthy subjects on stable warfarin therapy .
+However , post - marketing reports of increases in the INR , or PT , and / or clinical episodes of bleeding in patients have been noted with the use of quinolones , including FACTIVE , and warfarin , or its derivatives .
+In addition , infectious disease and its accompanying inflammatory process , age and general status of the patient are risk factors for increased anticoagulation activity .
+Therefore , the PT , INR or other suitable coagulation test should be closely monitored if a quinolone antimicrobial , including FACTIVE , is administered concomitantly with warfarin or its derivatives .
+Quinolones form chelates with alkaline earth and transition metals .
+The absorption of oral gemifloxacin is significantly reduced by the concomitant administration of an antacid containing aluminum and magnesium .
+Magnesium - and / or aluminum - containing antacids , products containing ferrous sulfate ( iron ) , multivitamin preparations containing zinc or other metal cations , or Videx ® ( didanosine ) chewable / buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE .
+Sucralfate should not be taken within 2 hours of FACTIVE .
+( See CLINICAL PHARMACOLOGY . )
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis : Long term studies in animals to determine the carcinogenic potential of gemifloxacin have not been conducted .
+Photocarcinogenesis : Gemifloxacin did not shorten the time to development of UVR - induced skin tumors in hairless albino ( Skh - 1 ) mice ; thus , it was not photocarcinogenic in this model .
+These mice received oral gemifloxacin and concurrent irradiation with simulated sunlight 5 days per week for 40 weeks followed by a 12 - week treatment - free observation period .
+The daily dose of UV radiation used in this study was approximately 1 / 3 of the minimal dose of UV radiation that would induce erythema in Caucasian humans .
+The median time to the development of skin tumors in the hairless mice was similar in the vehicle control group ( 36 weeks ) and those given up to 100 mg / kg gemifloxacin daily ( 39 weeks ) .
+Following repeat doses of 100 mg / kg gemifloxacin per day , the mice had skin gemifloxacin concentrations of approximately 7 . 4 μg / g . Plasma levels following this dose were approximately 1 . 4 μg / mL in the mice around the time of irradiation .
+There are no data on gemifloxacin skin levels in humans , but the mouse plasma gemifloxacin levels are in the expected range of human plasma Cmax levels ( 0 . 7 - 2 . 6 μg / mL , with an overall mean of about 1 . 6 μg / mL ) following multiple 320 mg oral doses .
+Mutagenesis : Gemifloxacin was not mutagenic in 4 bacterial strains ( TA 98 , TA 100 , TA 1535 , TA 1537 ) used in an Ames Salmonella reversion assay .
+It did not induce micronuclei in the bone marrow of mice following intraperitoneal doses of up to 40 mg / kg and it did not induce unscheduled DNA synthesis in hepatocytes from rats which received oral doses of up to 1600 mg / kg .
+Gemifloxacin was clastogenic in vitro in the mouse lymphoma and human lymphocyte chromosome aberration assays .
+It was clastogenic in vivo in the rat micronucleus assay at oral and intravenous dose levels ( ≥ 800 mg / kg and ≥ 40 mg / kg , respectively ) that produced bone marrow toxicity .
+Fluoroquinolone clastogenicity is apparently due to inhibition of mammalian topoisomerase activity which has threshold implications .
+Impairment of Fertility : Gemifloxacin did not affect the fertility of male or female rats at AUC levels following oral administration ( 216 and 600 mg / kg / day ) that were approximately 3 - to 4 - fold higher than the AUC levels at the clinically recommended dose .
+Pregnancy : Teratogenic Effects .
+Pregnancy Category C . Gemifloxacin treatment during organogenesis caused fetal growth retardation in mice ( oral dosing at 450 mg / kg / day ) , rats ( oral dosing at 600 mg / kg / day ) and rabbits ( IV dosing at 40 mg / kg / day ) at AUC levels which were 2 - , 4 - and 3 - fold those in women given oral doses of 320 mg .
+In rats , this growth retardation appeared to be reversible in a pre - and postnatal development study ( mice and rabbits were not studied for the reversibility of this effect ) .
+Treatment of pregnant rats at 8 - fold clinical exposure ( based upon AUC comparisons ) caused fetal brain and ocular malformations in the presence of maternal toxicity .
+The overall no - effect exposure level in pregnant animals was approximately 0 . 8 to 3 - fold clinical exposure .
+The safety of FACTIVE in pregnant women has not been established .
+FACTIVE should not be used in pregnant women unless the potential benefit to the mother outweighs the risk to the fetus .
+There are no adequate and well - controlled studies in pregnant women .
+Nursing Mothers : Gemifloxacin is excreted in the breast milk of rats .
+There is no information on excretion of gemifloxacin into human milk .
+Therefore , FACTIVE should not be used in lactating women unless the potential benefit to the mother outweighs the risk .
+Pediatric Use : Safety and effectiveness in children and adolescents less than 18 years of age have not been established .
+Fluoroquinolones , including gemifloxacin , cause arthropathy and osteochondrosis in immature animals .
+( See WARNINGS . )
+Geriatric Use : Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as FACTIVE .
+This risk is further increased in patients receiving concomitant corticosteroid therapy .
+Tendinitis or tendon rupture can involve the Achilles , hand , shoulder , or other tendon sites and can occur during or after completion of therapy ; cases occurring up to several months after fluoroquinolone treatment have been reported .
+Caution should be used when prescribing FACTIVE to elderly patients especially those on corticosteroids .
+Patients should be informed of this potential side effect and advised to discontinue FACTIVE and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur ( See Boxed Warning , WARNINGS , and ADVERSE REACTIONS / Post - Marketing Adverse Event Reports ) .
+Of the total number of subjects in clinical studies of FACTIVE , 29 % ( 2314 ) were 65 and over , while 11 % ( 865 ) were 75 and over .
+No overall difference in effectiveness was observed between these subjects and younger subjects ; the adverse event rate for this group was similar to or lower than that for younger subjects with the exception that the incidence of rash was lower in geriatric patients compared to patients less than 40 years of age .
+Elderly patients may be more susceptible to drug - associated effects on the QT interval .
+Therefore , FACTIVE should be avoided in patients taking drugs that can result in prolongation of the QT interval ( e . g . , Class IA or Class III antiarrhythmics ) or in patients with risk factors for torsades de pointes ( e . g . , known QT prolongation , uncorrected hypokalemia ) .
+[ MULTIMEDIA ] ADVERSE REACTIONS In clinical studies , 8119 patients received daily oral doses of 320 mg FACTIVE .
+In addition , 1797 healthy volunteers and 81 patients with renal or hepatic impairment received single or repeat doses of gemifloxacin in clinical pharmacology studies .
+The majority of adverse reactions experienced by patients in clinical trials were considered to be of mild to moderate severity .
+FACTIVE was discontinued because of an adverse event ( determined by the investigator to be possibly or probably related to drug ) in 2 . 0 % of patients , primarily due to rash ( 0 . 8 % ) , nausea ( 0 . 3 % ) , diarrhea ( 0 . 3 % ) , urticaria ( 0 . 2 % ) and vomiting ( 0 . 2 % ) .
+Comparator antibiotics were discontinued because of an adverse event at an overall comparable rate of 2 . 1 % , primarily due to diarrhea ( 0 . 5 % ) , nausea ( 0 . 4 % ) , vomiting ( 0 . 3 % ) , rash ( 0 . 3 % ) , abdominal pain ( 0 . 2 % ) and vertigo ( 0 . 2 % ) .
+The most commonly reported adverse events with a frequency of ≥ 2 % for patients receiving 320 mg FACTIVE versus comparator drug ( beta - lactam antibiotics , macrolides or other fluoroquinolones ) are as follows : diarrhea 5 . 0 % vs . 6 . 2 % ; rash 3 . 5 % vs . 1 . 1 % ; nausea 3 . 7 % vs . 4 . 5 % ; headache 4 . 2 % vs . 5 . 2 % ; abdominal pain 2 . 2 % vs . 2 . 2 % ; vomiting 1 . 6 % vs . 2 . 0 % ; and dizziness 1 . 7 % vs . 2 . 6 % .
+Adverse Events with a Frequency of Less than 1 % Additional drug - related adverse events ( possibly or probably related ) in the 8119 patients , with a frequency of > 0 . 1 % to ≤ 1 % included : abdominal pain , anorexia , constipation , dermatitis , dizziness , dry mouth , dyspepsia , fatigue , flatulence , fungal infection , gastritis , genital moniliasis , genital pruritus , hyperglycemia , increased alkaline phosphatase , increased ALT , increased AST , increased creatine phosphokinase , insomnia , leukopenia , pruritus , somnolence , taste perversion , thrombocythemia , urticaria , vaginitis , and vomiting .
+Other adverse events reported from clinical trials which have potential clinical significance and which were considered to have a suspected relationship to the drug , that occurred in ≤ 0 . 1 % of patients were : abnormal urine , abnormal vision , anemia , arthralgia , asthenia , back pain , bilirubinemia , dyspnea , eczema , eosinophilia , facial edema , flushing , gastroenteritis , granulocytopenia , hot flashes , increased GGT , increased non - protein nitrogen , leg cramps , moniliasis , myalgia , nervousness , non - specified gastrointestinal disorder , pain , pharyngitis , photosensitivity / phototoxicity reactions , pneumonia , thrombocytopenia , tremor , vertigo .
+( See PRECAUTIONS . )
+In clinical trials of acute bacterial exacerbation of chronic bronchitis ( ABECB ) and community acquired pneumonia ( CAP ) , the incidences of rash were as follows ( Table 3 ) : Table 3 .
+Incidence of Rash by Clinical Indication in Patients Treated with FACTIVE [ MULTIMEDIA ] ( See PRECAUTIONS ) .
+Laboratory Changes : The percentages of patients who received multiple doses of FACTIVE and had a laboratory abnormality are listed below .
+It is not known whether these abnormalities were related to FACTIVE or an underlying condition .
+Clinical Chemistry : increased ALT ( 1 . 7 % ) , increased AST ( 1 . 3 % ) , increased creatine phosphokinase ( 0 . 7 % ) , increased alkaline phosphatase ( 0 . 4 % ) , increased total bilirubin ( 0 . 4 % ) , increased potassium ( 0 . 3 % ) , decreased sodium ( 0 . 2 % ) , increased blood urea nitrogen ( 0 . 3 % ) , decreased albumin ( 0 . 3 % ) , increased serum creatinine ( 0 . 2 % ) , decreased calcium ( 0 . 1 % ) , decreased total protein ( 0 . 1 % ) , decreased potassium ( 0 . 1 % ) , increased sodium ( 0 . 1 % ) , increased lactate dehydrogenase ( < 0 . 1 % ) and increased calcium ( < 0 . 1 % ) .
+CPK elevations were noted infrequently : 0 . 7 % in FACTIVE patients vs . 0 . 7 % in the comparator patients .
+Hematology : increased platelets ( 1 . 0 % ) , decreased neutrophils ( 0 . 5 % ) , increased neutrophils ( 0 . 5 % ) , decreased hematocrit ( 0 . 3 % ) , decreased hemoglobin ( 0 . 2 % ) , decreased platelets ( 0 . 2 % ) , decreased red blood cells ( 0 . 1 % ) , increased hematocrit ( 0 . 1 % ) , increased hemoglobin ( 0 . 1 % ) , and increased red blood cells ( 0 . 1 % ) .
+In clinical studies , approximately 7 % of the FACTIVE treated patients had elevated ALT values immediately prior to entry into the study .
+Of these patients , approximately 15 % showed a further elevation of their ALT at the on - therapy visit and 9 % showed a further elevation at the end of therapy visit .
+None of these patients demonstrated evidence of hepatocellular jaundice .
+For the pooled comparators , approximately 6 % of patients had elevated ALT values immediately prior to entry into the study .
+Of these patients , approximately 7 % showed a further elevation of their ALT at the on - therapy visit and 4 % showed a further elevation at the end of therapy visit .
+In a clinical trial where 638 patients received either a single 640 mg dose of gemifloxacin or 250 mg BID of ciprofloxacin for 3 days , there was an increased incidence of ALT elevations in the gemifloxacin arm ( 3 . 9 % ) vs . the comparator arm ( 1 . 0 % ) .
+In this study , two patients experienced ALT elevations of 8 to 10 times the upper limit of normal .
+These elevations were asymptomatic and reversible .
+Post - Marketing Adverse Reactions : The majority of the post - marketing adverse events reported were cutaneous and most of these were rash .
+Some of these cutaneous adverse events were considered serious .
+The majority of the rashes occurred in women and in patients under 40 years of age .
+The following are additional adverse reactions reported during the post - marketing use of FACTIVE .
+Since these reactions are reported voluntarily from a population of uncertain size , it is impossible to reliably estimate their frequency or establish a causal relationship to FACTIVE exposure : • peripheral neuropathy that may be irreversible ; • uveitis ; • anaphylactic reaction , erythema multiforme , skin exfoliation , facial swelling ; • exacerbation of myasthenia gravis ; • hemorrhage , increased international normalized ratio ( INR ) , retinal hemorrhage ; • peripheral edema ; • renal failure ; • prolonged QT , supraventricular tachycardia , syncope , transient ischemic attack ; • photosensitivity / phototoxicity reaction ( See PRECAUTIONS . )
+; • antibiotic - associated colitis ; • tendon rupture .
+[ MULTIMEDIA ] OVERDOSAGE Any signs or symptoms of overdosage should be treated symptomatically .
+No specific antidote is known .
+In the event of acute oral overdosage , the stomach should be emptied by inducing vomiting or by gastric lavage ; the patient should be carefully observed and treated symptomatically with appropriate hydration maintained .
+Hemodialysis removes approximately 20 to 30 % of an oral dose of gemifloxacin from plasma .
+Mortality occurred at oral gemifloxacin doses of 1600 mg / kg in rats and 320 mg / kg in mice .
+The minimum lethal intravenous doses in these species were 160 and 80 mg / kg , respectively .
+Toxic signs after administration of a single high oral dose ( 400 mg / kg ) of gemifloxacin to rodents included ataxia , lethargy , piloerection , tremor , and clonic convulsions .
+DOSAGE AND ADMINISTRATION FACTIVE can be taken with or without food and should be swallowed whole with a liberal amount of liquid .
+The recommended dose of FACTIVE is 320 mg daily , according to the following table ( Table 4 ) .
+Table 4 .
+Recommended Dosage Regimen of FACTIVE The clinical decision regarding the use of a 5 or 7 day regimen should be guided by results of the initial sputum culture .
+[ MULTIMEDIA ] The recommended dose and duration of FACTIVE should not be exceeded ( see Table 2 ) .
+Use in Renally Impaired Patients : Dose adjustment in patients with creatinine clearance > 40 mL / min is not required .
+Modification of the dosage is recommended for patients with creatinine clearance ≤ 40 mL / min .
+Table 5 provides dosage guidelines for use in patients with renal impairment .
+Table 5 .
+Recommended Doses for Patients with Renal Impairment Creatinine Clearance ( mL / min ) Dose > 40 See Usual Dosage ≤ 40 160 mg every 24 hours Patients requiring routine hemodialysis or continuous ambulatory peritoneal dialysis ( CAPD ) should receive 160 mg every 24 hours .
+When only the serum creatinine concentration is known , the following formula may be used to estimate creatinine clearance .
+[ MULTIMEDIA ] Creatinine Clearance Formula Women : 0 . 85 x the value calculated for men Use in Hepatically Impaired Patients : No dosage adjustment is recommended in patients with mild ( Child - Pugh Class A ) , moderate ( Child - Pugh Class B ) or severe ( Child - Pugh Class C ) hepatic impairment .
+Use in Elderly : No dosage adjustment is recommended .
+[ MULTIMEDIA ] [ MULTIMEDIA ] HOW SUPPLIED FACTIVE ( gemifloxacin mesylate ) is available as white to off - white , oval , film - coated tablets with breaklines and GE 320 debossed on both faces .
+Each tablet contains gemifloxacin mesylate equivalent to 320 mg of gemifloxacin .
+320 mg Unit of Use ( CR * ) 5 ' s NDC 44004 - 321 - 05 320 mg Unit of Use ( CR * ) 7 ' s NDC 44004 - 321 - 07 * Child Resistant Storage Store at 25ºC ( 77ºF ) ; excursions permitted to 15º - 30ºC ( 59º - 86ºF ) [ see USP Controlled Room Temperature ] .
+Protect from light .
+ANIMAL PHARMACOLOGY Quinolones have been shown to cause arthropathy in immature animals .
+Degeneration of articular cartilage occurred in juvenile dogs given at least 192 mg / kg / day gemifloxacin in a 28 - day study ( producing about 6 times the systemic exposure at the clinical dose ) , but not in mature dogs .
+There was no damage to the articular surfaces of joints in immature rats given repeated doses of up to 800 mg / kg / day .
+Some quinolones have been reported to have proconvulsant properties that are potentiated by the concomitant administration of non - steroidal anti - inflammatory drugs ( NSAIDs ) .
+Gemifloxacin alone had effects in tests of behavior or CNS interaction typically at doses of at least 160 mg / kg .
+No convulsions occurred in mice given the active metabolite of the NSAID , fenbufen , followed by 80 mg / kg gemifloxacin .
+Dogs given 192 mg / kg / day ( about 6 times the systemic exposure at the clinical dose ) for 28 days , or 24 mg / kg / day ( approximately equivalent to the systemic exposure at the clinical dose ) for 13 weeks showed reversible increases in plasma ALT activities and local periportal liver changes associated with blockage of small bile ducts by crystals containing gemifloxacin .
+Quinolones have been associated with prolongation of the electrocardiographic QT interval in dogs .
+Gemifloxacin produced no effect on the QT interval in dogs dosed orally to provide about 4 times human therapeutic plasma concentrations at Cmax , and transient prolongation after intravenous administration at more than 4 times human plasma levels at Cmax .
+Gemifloxacin exhibited weak activity in the cardiac IKr ( hERG ) channel inhibition assay , having an IC50 of approximately 270 μM .
+Gemifloxacin , like many other quinolones , tends to crystallize at the alkaline pH of rodent urine , resulting in a nephropathy in rats that is reversible on drug withdrawal ( oral no - effect dose 24 mg / kg / day ) .
+Gemifloxacin was weakly phototoxic to hairless mice given a single 200 mg / kg oral dose and exposed to UVA radiation .
+However , no evidence of phototoxicity was observed at 100 mg / kg / day dosed orally for 13 weeks in a standard hairless mouse model , using simulated sunlight .
+CLINICAL STUDIES Acute Bacterial Exacerbation of Chronic Bronchitis ( ABECB ) FACTIVE ( 320 mg once daily for 5 days ) was evaluated for the treatment of acute bacterial exacerbation of chronic bronchitis in three pivotal double - blind , randomized , actively - controlled clinical trials ( studies 068 , 070 , and 212 ) .
+The primary efficacy parameter in these studies was the clinical response at follow - up ( day 13 to 24 ) .
+The results of the clinical response at follow - up for the principal ABECB studies demonstrate that FACTIVE 320 mg PO once daily for 5 days was at least as good as the comparators given for 7 days .
+The results are shown in Table 6 below .
+Table 6 .
+Clinical Response at Follow - Up ( Test of Cure ) : Pivotal ABECB Studies [ MULTIMEDIA ] [ MULTIMEDIA ] Community Acquired Pneumonia ( CAP ) 5 Day Treatment Regimen To evaluate the safety and efficacy of a 5 - day course of FACTIVE , 510 outpatient and hospitalized adults with clinically and radiologically determined mild to moderate community - acquired pneumonia were clinically evaluated in a double - blind , randomized , prospective , multicenter study comparing FACTIVE 320 mg for five days to FACTIVE 320 mg for seven days ( Study OP - 634 - 001 ) .
+Clinical success rates in the clinically evaluable population were 95 . 0 % in the 5 day group and 92 . 1 % in the 7 day group .
+Table 7 .
+Clinical Response at Follow - Up ( Test of Cure ) : Study OP - 634 - 001 [ MULTIMEDIA ] The microbiological efficacy of the 5 - day regimen was documented for pathogens listed in Table 8 below .
+Table 8 .
+Bacterial Eradication by Pathogen for Patients Treated with FACTIVE in Study OP - 634 - 001 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] 7 Day Treatment Regimen Previous clinical studies evaluated the efficacy of FACTIVE in a 7 - day treatment of CAP in adults .
+This clinical program consisted of three double - blind , randomized , actively - controlled clinical studies ( studies 011 , 012 , and 049 ) and one open - label , actively - controlled study ( study 185 ) .
+In addition , two uncontrolled studies ( studies 061 and 287 ) were conducted .
+Three of the studies , controlled study 011 and the uncontrolled studies , had a fixed 7 - day duration of treatment for FACTIVE .
+Controlled study 011 compared a 7 - day course of FACTIVE with a 10 - day treatment course of amoxicillin / clavulanate ( 1 g / 125 mg TID ) and clinical success rates were similar between treatment arms .
+The results of comparative studies 049 , 185 , and 012 were supportive although treatment duration could have been 7 to 14 days .
+The results of the clinical studies with a fixed 7 - day duration of FACTIVE are shown in Table 9 .
+Table 9 .
+Clinical Response at Follow - Up ( Test of Cure ) : CAP Studies with a Fixed 7 - day Duration of Treatment [ MULTIMEDIA ] * For uncontrolled studies , the 95 % CI around the success rate is shown The combined bacterial eradication rates for patients treated with a fixed 7 - day treatment regimen of FACTIVE are shown in Table 10 .
+Table 10 .
+Bacterial Eradication by Pathogen for Patients Treated with FACTIVE in Studies with a Fixed 7 - day Duration of Treatment Pathogen n / N % S . pneumoniae 102 / 117 87 . 2 M . pneumoniae 40 / 42 95 . 2 H . influenzae 48 / 53 90 . 6 C . pneumoniae 43 / 45 95 . 6 K . pneumoniae 18 / 20 90 . 0 M . catarrhalis 11 / 12 91 . 7 [ MULTIMEDIA ] 7 Day Treatment Regimen of Community - Acquired Pneumonia Due to Multi - Drug Resistant Streptococcus pneumoniae ( MDRSP ) FACTIVE was also effective in the treatment of CAP due to multi - drug resistant Streptococcus pneumoniae ( MDRSP * ) .
+Of 35 patients with MDRSP treated for 7 days , 29 ( 82 . 9 % ) achieved clinical and bacteriological success at follow - up .
+The clinical and bacteriological success for the 35 patients with MDRSP isolates are shown in Table 11 .
+* MDRSP : multi - drug resistant Streptococcus pneumoniae , includes isolates previously known as PRSP ( penicillin - resistant Streptococcus pneumoniae ) , and are strains resistant to two or more of the following antibiotics : penicillin ( MIC ≥ 2 μg / mL ) , 2 nd generation cephalosporins ( e . g . , cefuroxime ) , macrolides , tetracyclines and trimethoprim / sulfamethoxazole .
+Table 11 .
+Clinical and Bacteriological Success for 35 Patients Treated with FACTIVE in CAP Studies with a 7 - day Duration of Treatment for MDRSP [ MULTIMEDIA ] an = the number of patients successfully treated ; N = number of patients with MDRSP bn = the number of bacteriological isolates successfully treated ; N = number of isolates studied cMacrolide antibiotics tested include clarithromycin and erythromycin Not all isolates were resistant to all antimicrobial classes tested .
+Success and eradication rates are summarized in Table 12 below .
+Table 12 .
+Resistant Streptococcus pneumoniae Clinical Success and Bacteriological Eradication Rates [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] Clinical Safety Study of Rash To further characterize gemifloxacin - associated rash , which in early clinical studies appeared to be associated with age less than 40 and female gender , a clinical pharmacology study was conducted .
+The study enrolled 1 , 011 healthy female volunteers less than 40 years of age .
+Subjects were randomized in a 5 : 1 ratio to receive either FACTIVE 320 mg PO daily ( 819 subjects ) or ciprofloxacin 500 mg PO twice daily for 10 days ( 164 subjects ) .
+This study was designed to enroll subjects at a high risk for rash ( women < 40 years of age and dosing beyond the recommended duration of therapy for FACTIVE [ 10 days ] ) and over estimates the risk to patients taking FACTIVE as prescribed .
+Subjects who received FACTIVE were 7 times more likely to develop rash than those who received ciprofloxacin .
+Of the 260 rashes in subjects receiving FACTIVE , the majority of rashes were maculopapular and of mild to moderate severity ; 7 % of the rashes were reported as severe , and severity appeared to correlate with the extent of the rash .
+In 68 % of the subjects reporting a severe rash and approximately 25 % of all those reporting rash , > 60 % of the body surface area was involved ; the characteristics of the rash were otherwise indistinguishable from those subjects reporting a mild rash .
+The histopathology was consistent with the clinical observation of uncomplicated exanthematous morbilliform eruption .
+Approximately 11 % of the rashes were described as being “ urticaria - like ” .
+There were no documented cases of hypersensitivity syndrome or findings suggestive of angioedema or other serious cutaneous reactions .
+The majority of rashes ( 81 . 9 % ) occurred on days 8 through 10 of the planned 10 day course of FACTIVE ; 2 . 7 % of rash events occurred within one day of the start of dosing .
+The median duration of rash was 6 days .
+The rash resolved without treatment in the majority of subjects .
+Approximately 19 % received antihistamines and 5 % received steroids , although the therapeutic benefit of these therapies is uncertain .
+In the second part of this study after a 4 to 6 week wash out period , subjects developing a rash on FACTIVE were treated with ciprofloxacin ( n = 136 ) or placebo ( n = 50 ) ; 5 . 9 % developed rash when treated with ciprofloxacin and 2 . 0 % developed rash when treated with placebo .
+The cross sensitization rate to other fluoroquinolones was not evaluated in this clinical study .
+There was no evidence of sub - clinical sensitization to FACTIVE on a second exposure ( i . e . , subjects who had not developed a rash to FACTIVE in the first part of the study were not at higher risk of developing a rash to FACTIVE with a second exposure ) .
+There was no relationship between the incidence of rash and systemic exposure ( Cmax and AUC ) to either gemifloxacin or its major metabolite , N - acetyl gemifloxacin .
+REFERENCES 1 .
+Clinical and Laboratory Standards Institute .
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically - Seventh Edition .
+Clinical and Laboratory Standards Institute document M7 - A7 , Vol .
+26 , No . 2 , CLSI , Wayne , PA , January 2006 .
+2 .
+Clinical and Laboratory Standards Institute .
+Performance Standards for Antimicrobial Disk Susceptibility Tests - Ninth Edition .
+Clinical and Laboratory Standards Institute document M2 - A9 , Vol .
+26 , No . 1 , CLSI , Wayne , PA , January 2006 .
+DATE OF REVISION September 2013 Vansen Pharma Inc .
+FACTIVE is a registered trademark of LG Life Sciences .
+Rx only Manufactured for : Vansen Pharma Inc .
+Westmount , QC H3Z 3C1 Licensed from LG Life Sciences , Ltd .
+Seoul , Korea MEDICATION GUIDE FACTIVE ® [ FAC - tiv ] ( gemifloxacin ) 320 mg Tablets Read the Medication Guide that comes with FACTIVE before you start taking it and each time you get a refill .
+There may be new information .
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment .
+What is the most important information I should know about FACTIVE ?
+FACTIVE belongs to a class of antibiotics called fluoroquinolones .
+FACTIVE can cause side effects that may be serious or even cause death .
+If you get any of the following serious side effects , get medical help right away .
+Talk with your healthcare provider about whether you should continue to take FACTIVE .
+1 .
+Tendon rupture or swelling of the tendon ( tendinitis ) • Tendon problems can happen in people of all ages who take FACTIVE .
+Tendons are tough cords of tissue that connect muscles to bones .
+• • Symptoms of tendon problems may include : Pain , swelling , tears , and inflammation of tendons including the back of the ankle ( Achilles ) , shoulder , hand , or other tendon sites .
+• The risk of getting tendon problems while you take FACTIVE is higher if you : • are over 60 years of age • are taking steroids ( corticosteroids ) • have had a kidney , heart or lung transplant .
+Tendon problems can happen in people who do not have the above risk factors when they take FACTIVE .
+• Other reasons that can increase your risk of tendon problems can include : • physical activity or exercise • kidney failure • tendon problems in the past , such as in people with rheumatoid arthritis ( RA ) .
+• Call your healthcare provider right away at the first sign of tendon pain , swelling or inflammation .
+Stop taking FACTIVE until tendinitis or tendon rupture has been ruled out by your healthcare provider .
+Avoid exercise and using the affected area .
+The most common area of pain and swelling is the Achilles tendon at the back of your ankle .
+This can also happen with other tendons .
+• Talk to your healthcare provider about the risk of tendon rupture with continued use of FACTIVE .
+You may need a different antibiotic that is not a fluoroquinolone to treat your infection .
+• Tendon rupture can happen while you are taking or after you have finished taking FACTIVE .
+Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone .
+• Get medical help right away if you get any of the following signs or symptoms of a tendon rupture : • hear or feel a snap or pop in a tendon area • bruising right after an injury in a tendon area • unable to move the affected area or bear weight 2 .
+Worsening of myasthenia gravis ( a disease which causes muscle weakness ) .
+Fluoroquinolones like FACTIVE may cause worsening of myasthenia gravis symptoms , including muscle weakness and breathing problems .
+Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems .
+See the section “ What are the possible side effects of FACTIVE ? ”
+for more information about side effects .
+What is FACTIVE ?
+FACTIVE is a fluoroquinolone antibiotic medicine used to treat certain infections caused by certain germs called bacteria in adults 18 years or older .
+It is not known if FACTIVE is safe and works in children under 18 years of age .
+Children have a higher chance of getting bone , joint , or tendon ( musculoskeletal ) problems such as pain or swelling while taking fluoroquinolone antibiotic medicines .
+Sometimes infections are caused by viruses rather than by bacteria .
+Examples include viral infections in the sinuses and lungs , such as the common cold or flu .
+Antibiotics including FACTIVE do not kill viruses .
+Call your healthcare provider if you think your condition is not getting better while you are taking FACTIVE .
+Who should not take FACTIVE ?
+Do not take FACTIVE if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone , or are allergic to any of the ingredients in FACTIVE .
+Ask your healthcare provider if you are not sure .
+See the list of ingredients in FACTIVE at the end of this Medication Guide .
+What should I tell my healthcare provider before taking FACTIVE ?
+See “ What is the most important information I should know about FACTIVE ? ”
+Tell your healthcare provider about all your medical conditions , including if you : • have tendon problems • have a disease that causes muscle weakness ( myasthenia gravis ) • have central nervous system problems ( such as epilepsy ) • have nerve problems • have or anyone in your family has an irregular heartbeat , especially a condition called “ QT prolongation ” • have low blood potassium ( hypokalemia ) or magnesium ( hypomagnesemia ) • have a slow heartbeat ( bradycardia ) • have a history of seizures • have kidney problems .
+You may need a lower dose of FACTIVE if your kidneys do not work well .
+• have rheumatoid arthritis ( RA ) or other history of joint problems • are pregnant or planning to become pregnant .
+It is not known if FACTIVE will harm your unborn child .
+• are breast - feeding or planning to breast - feed .
+It is not known if FACTIVE passes into breast milk .
+You and your healthcare provider should decide whether you will take FACTIVE or breast - feed .
+Tell your healthcare provider about all the medicines you take , including prescription and non - prescription medicines , vitamins , and herbal and dietary supplements .
+FACTIVE and other medicines can affect each other causing side effects .
+Especially tell your healthcare provider if you take : • an NSAID ( Non - Steroidal Anti - Inflammatory Drug ) .
+Many common medicines for pain relief are NSAIDs .
+Taking an NSAID while you take FACTIVE or other fluoroquinolones may increase your risk of central nervous system effects and seizures .
+See “ What are the possible side effects of FACTIVE ? ”
+• a blood thinner ( warfarin , Coumadin ® , Jantoven ® ) • a medicine to control your heart rate or rhythm ( antiarrhythmics ) .
+See “ What are the possible side effects of FACTIVE ? ”
+• an anti - psychotic medicine • a tricyclic antidepressant • a water pill ( diuretic ) • probenecid ( Probalan , Col - Probenecid ) • a steroid medicine .
+Corticosteroids taken by mouth or by injection may increase the chance of tendon injury .
+See “ What is the most important information I should know about FACTIVE ? ”
+• Certain medicines may keep FACTIVE from working correctly .
+Take FACTIVE either 3 hours before or 2 hours after taking these products : • an antacid , multivitamin , or other product that contains magnesium , aluminum , iron , or zinc .
+• sucralfate ( Carafate ® ) .
+• didanosine ( Videx ® , Videx EC ® ) .
+Ask your healthcare provider if you are not sure if any of your medicines are listed above .
+Know the medicines you take .
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine .
+How should I take FACTIVE ?
+• Take FACTIVE exactly as prescribed by your healthcare provider .
+• Take FACTIVE at about the same time each day .
+• FACTIVE tablets should be swallowed .
+• FACTIVE can be taken with or without food .
+• FACTIVE should not be taken with dairy products ( like milk or yogurt ) or calcium - fortified juices alone , but may be taken with a meal that contains these products .
+• Drink plenty of fluids while taking FACTIVE .
+• Do not skip any doses , or stop taking FACTIVE even if you begin to feel better , until you finish your prescribed treatment , unless : • you have tendon effects ( see “ What is the most important information I should know about FACTIVE ? ” )
+, • you have a serious allergic reaction ( see “ What are the possible side effects of FACTIVE ? ” )
+, or your healthcare provider tells you to stop .
+• This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to FACTIVE .
+If this happens , FACTIVE and other antibiotic medicines may not work in the future .
+• If you miss a dose of FACTIVE , take it as soon as you remember .
+Do not take more than 1 dose of FACTIVE in one day .
+• If you take too much , call your healthcare provider or get medical help immediately .
+What should I avoid while taking FACTIVE ?
+• FACTIVE can make you feel dizzy and lightheaded .
+Do not drive , operate machinery , or do other activities that require mental alertness or coordination until you know how FACTIVE affects you .
+• Avoid sunlamps , tanning beds , and try to limit your time in the sun .
+FACTIVE can make your skin sensitive to the sun ( photosensitivity ) and the light from sunlamps and tanning beds .
+You could get severe sunburn , blisters or swelling of your skin .
+If you get any of these symptoms while taking FACTIVE , call your healthcare provider right away .
+You should use sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight .
+What are the possible side effects of FACTIVE ?
+FACTIVE can cause side effects that may be serious or even cause death .
+See “ What is the most important information I should know about FACTIVE ? ”
+Other serious side effects of FACTIVE include : • Central Nervous System effects Seizures have been reported in people who take fluoroquinolone antibiotics , including FACTIVE .
+Tell your healthcare provider if you have a history of seizures .
+Ask your healthcare provider whether taking FACTIVE will change your risk of having a seizure .
+Central Nervous System ( CNS ) side effects may happen as soon as after taking the first dose of FACTIVE .
+Talk to your healthcare provider right away if you get any of these side effects , or other changes in mood or behavior : • feel dizzy • seizures • hear voices , see things , or sense things that are not there ( hallucinations ) • feel restless • tremors • feel anxious or nervous • confusion • depression • trouble sleeping • feel more suspicious ( paranoia ) • suicidal thoughts or acts • nightmares • Serious allergic reactions Allergic reactions can happen in people taking fluoroquinolones , including FACTIVE , even after only one dose .
+Stop taking FACTIVE and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction : • • hives • trouble breathing or swallowing • swelling of the lips , tongue , face • throat tightness , hoarseness • rapid heartbeat • faint • Yellowing of the skin or eyes Stop taking FACTIVE and call your healthcare provider right away if you get yellowing of your skin or white part of your eyes , or if you have dark urine .
+These can be signs of a serious reaction to FACTIVE ( a liver problem ) .
+• Skin rash Skin rash may happen in people taking FACTIVE .
+Stop taking FACTIVE at the first sign of a skin rash and call your healthcare provider .
+Skin rash may be a sign of a more serious reaction to FACTIVE .
+Rash happens more often with FACTIVE in : • • women , especially women who take hormone replacement therapy • people under 40 years of age • people who take FACTIVE for longer than 5 days .
+• Serious heart rhythm changes ( QTc prolongation and torsades de pointes ) Tell your healthcare provider right away if you have a change in your heartbeat ( a fast or irregular heartbeat ) , or if you faint .
+FACTIVE may cause a rare heart problem known as prolongation of the QT interval .
+This condition can cause an abnormal heartbeat and can be very dangerous .
+The chances of this happening are higher in people : • • who are elderly • with a family history of prolonged QT interval • with low blood potassium ( hypokalemia ) • who take certain medicines to control heart rhythm ( antiarrhythmics ) .
+• Intestine infection ( Pseudomembranous colitis ) Pseudomembranous colitis can happen with most antibiotics , including FACTIVE .
+Call your healthcare provider right away if you get watery diarrhea , diarrhea that does not go away , or bloody stools .
+You may have stomach cramps and a fever .
+Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic .
+• Changes in sensation and nerve damage ( peripheral neuropathy ) .
+Damage to the nerves in arms , hands , legs , or feet can happen in people taking fluoroquinolones , including FACTIVE .
+Stop FACTIVE and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms , hands , legs , or feet : • • pain • burning • tingling • numbness • weakness The nerve damage may be permanent .
+• Sensitivity to sunlight ( photosensitivity ) See “ What should I avoid while taking FACTIVE ? ”
+• Joint problems The most common side effects of FACTIVE include : • diarrhea • rash • nausea • headache • stomach pain • vomiting • dizziness These are not all the possible side effects of FACTIVE .
+Tell your healthcare provider about any side effect that bothers you or that does not go away .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store FACTIVE ?
+• Store FACTIVE at 59º - 86ºF ( 15º to 30ºC ) .
+• Keep FACTIVE away from light .
+Keep FACTIVE and all medicines out of the reach of children .
+General Information about FACTIVE Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use FACTIVE for a condition for which it is not prescribed .
+Do not give FACTIVE to other people , even if they have the same symptoms that you have .
+It may harm them .
+This Medication Guide summarizes the most important information about FACTIVE .
+If you would like more information about FACTIVE , talk with your healthcare provider .
+You can ask your healthcare provider or pharmacist for information about FACTIVE that is written for healthcare professionals .
+For more information go to www . FACTIVE . com or call 1 - 888 - 431 - 4276 .
+What are the ingredients in Factive ?
+• Active ingredient : gemifloxacin • Inactive ingredients : crospovidone , hydroxypropyl methycellulose , magnesium stearate , microcrystalline cellulose , polyethylene glycol , povidone , titanium dioxide .
+This Medication Guide has been approved by the U . S . Food and Drug Administration .
+Revised September 2013 © Vansen Pharma Inc .
+FACTIVE is a registered trademark of LG Life Sciences .
+Manufactured for : Vansen Pharma Inc .
+Westmount , QC H3Z 3C1 Licensed from LG Life Sciences , Ltd .
+Seoul , Korea [ MULTIMEDIA ] Factive 5 Tablets [ MULTIMEDIA ] Factive 7 Tablets [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,227 @@
+DESCRIPTION Octreoscan ™ is a kit for the preparation of Indium In 111 Pentetreotide Injection , a radioactive diagnostic agent .
+It is a kit consisting of two components : 1 ) A 10 - mL Octreoscan Reaction Vial which contains a lyophilized mixture of : ( i ) 10 mcg pentetreotide [ N - ( diethylenetriamine - N , N , N ′ , N ″ - tetraacetic acid - N ″ - acetyl ) - D - phenylalanyl - L - hemicystyl - L - phenylalanyl - D - tryptophyl - L - lysyl - L - threonyl - L - hemicystyl - L - threoninol cyclic ( 2 → 7 ) disulfide ] , ( also known as octreotide DTPA ) , ( ii ) 2 mg gentisic acid [ 2 , 5 - dihydroxybenzoic acid ] , ( iii ) 4 . 9 mg trisodium citrate , anhydrous , ( iv ) 0 . 37 mg citric acid , anhydrous , and ( v ) 10 mg inositol .
+Pentetreotide has the following structural formula : [ MULTIMEDIA ] Prior to lyophilization , sodium hydroxide or hydrochloric acid may have been added for pH adjustment .
+The vial contents are sterile and nonpyrogenic .
+No bacteriostatic preservative is present .
+2 ) A 10 - mL vial of Indium In 111 Chloride Solution , which contains : 1 . 1 mL or 111 MBq / mL ( 3 mCi / mL ) indium In 111 chloride in 0 . 02 N HCl at time of calibration .
+The vial also contains ferric chloride at a concentration of 3 . 5 mcg / mL ( ferric ion , 1 . 2 mcg / mL ) .
+The vial contents are sterile and nonpyrogenic .
+No bacteriostatic preservative is present .
+Indium In 111 Pentetreotide Injection is prepared by combining the two kit components ( see INSTRUCTIONS FOR THE PREPARATION OF INDIUM In 111 PENTETREOTIDE INJECTION ) .
+Indium In - 111 reacts with the diethylenetriaminetetraacetic acid portion of the pentetreotide molecule to form indium In 111 pentetreotide .
+The pH of the resultant Indium In 111 Pentetreotide Injection is between 3 . 8 and 4 . 3 .
+No bacteriostatic preservative is present .
+The Indium In 111 Pentetreotide Injection is suitable for intravenous administration as is , or it may be diluted to a maximum volume of 3 mL with 0 . 9 % Sodium Chloride Injection , USP , immediately before intravenous administration .
+In either case , the radiolabeling yield of Indium In 111 Pentetreotide Injection should be determined before administration to the patient .
+A method recommended for determining the radiolabeling yield is presented at the end of this package insert ( see RECOMMENDED METHOD FOR DETERMINATION OF RADIOLABELING YIELD OF INDIUM In 111 PENTETREOTIDE INJECTION ) .
+[ MULTIMEDIA ] Physical Characteristics Indium In - 111 decays by electron capture to cadmium - 111 ( stable ) and has a physical half - life of 2 . 805 days ( 67 . 32 hours ) ( see Table 2 ) .
+[ 1 ] The principal photons that are useful for detection and imaging are listed in Table 1 .
+Table 1 .
+Principal Radiation Emission Data [ 1 ] Radiation Mean Percent Per Disintegration Energy ( keV ) Gamma - 2 90 . 2 171 . 3 Gamma - 3 94 . 0 245 . 4 [ 1 ] Kocher , David C . , " Radioactive Decay Data Tables , ” DOE / TIC - 11026 , 115 ( 1981 ) .
+The specific gamma ray constant for In - 111 is 3 . 21 R / hr - mCi at 1 cm null .
+The first half - value thickness of lead ( Pb ) for In - 111 is 0 . 023 cm .
+Selected coefficients of attenuation are listed in Table 2 as a function of lead shield thickness .
+For example , the use of 0 . 834 cm of lead will attenuate the external radiation by a factor of about 1000 .
+Table 2 .
+Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 023 0 . 5 0 . 203 0 . 1 0 . 513 0 . 01 0 . 834 0 . 001 1 . 12 0 . 0001 Table 3 lists fractions remaining at selected time intervals before and after calibration .
+This information may be used to correct for physical decay of the radionuclide .
+Table 3 .
+Physical Decay Chart : Indium In - 111 , Half - life 2 . 805 Days ( 67 . 32 hours ) Hours Fraction Remaining Hours Fraction Remaining - 72 2 . 100 0 [ 1 ] 1 . 000 - 60 1 . 854 3 0 . 970 - 48 1 . 639 6 0 . 940 - 36 1 . 448 12 0 . 885 - 24 1 . 280 24 0 . 781 - 12 1 . 131 36 0 . 690 - 6 1 . 064 48 0 . 610 [ 1 ] Calibration time [ 1 ] From Radiopharmaceutical Internal Dosimetry Information Center , Oak Ridge Associated Universities , Oak Ridge , TN 37831 - 0117 , February 1985 .
+CLINICAL PHARMACOLOGY General Pentetreotide is a DTPA conjugate of octreotide , which is a long - acting analog of the human hormone , somatostatin .
+Indium In 111 pentetreotide binds to somatostatin receptors on cell surfaces throughout the body .
+Within an hour of injection , most of the dose of indium In 111 pentetreotide distributes from plasma to extravascular body tissues and concentrates in tumors containing a high density of somatostatin receptors .
+After background clearance , visualization of somatostatin receptor - rich tissue is achieved .
+In addition to somatostatin receptor - rich tumors , the normal pituitary gland , thyroid gland , liver , spleen and urinary bladder also are visualized in most patients , as is the bowel , to a lesser extent .
+Excretion is almost exclusively via the kidneys .
+Pharmacokinetics Radioactivity leaves the plasma rapidly ; one third of the radioactive injected dose remains in the blood pool at 10 minutes after administration .
+Plasma levels continue to decline so that by 20 hours post - injection , about 1 % of the radioactive dose is found in the blood pool .
+The biological half - life of indium In 111 pentetreotide is 6 hours .
+Half of the injected dose is recoverable in urine within 6 hours after injection , 85 % is recovered in the first 24 hours , and over 90 % is recovered in urine by two days .
+Hepatobiliary excretion represents a minor route of elimination , and less than 2 % of the injected dose is recovered in feces within three days after injection .
+Metabolism For several hours after administration , plasma radioactivity is predominantly in parent form .
+Ten percent of the radioactivity excreted is nonpeptide - bound .
+Pharmacodynamics Indium In 111 pentetreotide binds to cell surface receptors for somatostatin .
+In nonclinical pharmacologic studies , the hormonal effect of Octreoscan in vitro is one - tenth that of octreotide .
+Since diagnostic imaging doses of indium In 111 pentetreotide are lower than the therapeutic doses of octreotide , indium In 111 pentetreotide is not expected to exert clinically significant somatostatin effects .
+Indium In 111 pentetreotide is cleared from the body primarily by renal excretion .
+Indium In 111 pentetreotide elimination has not been studied in anephric patients or in those with poorly functioning kidneys .
+It is not known whether indium In 111 pentetreotide can be removed by dialysis .
+Dosage adjustments in patients with decreased renal function have not been studied .
+Clinical Trials Octreoscan was studied in nine unblinded clinical studies in a total of 365 patients .
+Of these patients , 174 were male and 191 were female .
+Their mean age was 54 . 0 years ( range 1 . 8 to 86 years ) .
+One patient was under the age of 2 and 2 patients were between the ages of 2 and 12 ; 223 patients ( 61 . 1 % ) were between 18 and 60 years ; and 136 patients ( 37 . 3 % ) were older than 60 years .
+A racial distribution is not available .
+Eligible patients had a demonstrated or high clinical suspicion of a neuroendocrine tumor .
+The most common tumors were carcinoids ( 132 of 309 evaluable patients ) .
+Scintigraphic results were compared to results of conventional localization procedures ( CT , ultrasound , MRI , angiography , surgery and / or biopsy ) .
+The mean dose of radioactivity administered was 173 . 4 MBq ( 4 . 7 mCi ) .
+Octreoscan results were consistent with the final diagnosis ( success ) in 267 of 309 evaluable patients ( 86 . 4 % ) .
+Compared with carcinoids and gastrinomas , lower success rates were noted for localization of insulinomas , neuroblastomas , pituitary adenomas and medullary thyroid carcinomas .
+Octreoscan success was observed in 27 of 32 patients ( 84 . 4 % ) with clinically nonfunctioning neuroendocrine tumors ( i . e . , no symptom of a clinical syndrome mediated by abnormally elevated hormones ) .
+Octreoscan localized previously unidentified tumors in 57 / 204 patients .
+In 55 / 195 patients , indium In 111 pentetreotide uptake occurred in lesions not thought to have somatostatin receptors .
+In a small subgroup of 39 patients who had tissue confirmation , the sensitivity rate for Octreoscan scintigraphy was 85 . 7 % ; for CT / MRI the rate was 68 % .
+The specificity rate for Octreoscan scintigraphy was 50 % , the rate for CT / MRI was 12 % .
+Larger studies are needed to confirm these comparisons .
+Overall , including all tumor types with or without the presence of somatostatin receptors , there were 3 / 508 false positives and 104 / 508 false negatives .
+Of the 309 patients , 87 had received octreotide for therapeutic purposes within 72 hours of Octreoscan administration .
+These patients had an overall 95 % success rate .
+The effect of different dose levels of octreotide on success rates has not been evaluated .
+INDICATIONS AND USAGE Octreoscan , after radiolabeling , is an agent for the scintigraphic localization of primary and metastatic neuroendocrine tumors bearing somatostatin receptors .
+CONTRAINDICATIONS None known .
+WARNINGS DO NOT ADMINISTER IN TOTAL PARENTERAL NUTRITION ( TPN ) ADMIXTURES OR INJECT INTO TPN INTRAVENOUS ADMINISTRATION LINES ; IN THESE SOLUTIONS , A COMPLEX GLYCOSYL OCTREOTIDE CONJUGATE MAY FORM .
+The sensitivity of scintigraphy with indium In 111 pentetreotide may be reduced in patients concurrently receiving therapeutic doses of octreotide acetate .
+Consideration should be given to temporarily suspending octreotide acetate therapy before the administration of Indium In 111 Pentetreotide Injection and to monitoring the patient for any signs of withdrawal .
+Hypersensitivity reactions following administration of somatostatin receptor imaging agents predominantly consisted of cutaneous reactions such as rash and pruritus .
+Reactions reversed either spontaneously or with routine symptomatic management .
+Less frequently hypersensitivity reactions included angioedema or cases with features of anaphylaxis .
+PRECAUTIONS General • Therapy with octreotide acetate can produce severe hypoglycemia in patients with insulinomas .
+Since pentetreotide is an analog of octreotide , an intravenous line is recommended in any patient suspected of having an insulinoma .
+An intravenous solution containing glucose should be administered just before and during administration of Indium In 111 Pentetreotide Injection .
+• The contents of the two vials supplied with the kit are intended only for use in the preparation of Indium In 111 Pentetreotide Injection and are NOT to be administered separately to the patient .
+• Since indium In 111 pentetreotide is eliminated primarily by renal excretion , use in patients with impaired renal function should be carefully considered .
+• To help reduce the radiation dose to the thyroid , kidneys , bladder , and other target organs , patients should be well hydrated before the administration of Indium In 111 Pentetreotide Injection .
+They should increase fluid intake and void frequently for one day after administration of this drug .
+In addition , it is recommended that patients be given a mild laxative ( e . g . , bisacodyl or lactulose ) before and after administration of Indium In 111 Pentetreotide Injection ( see DOSAGE AND ADMINISTRATION ) .
+• Indium In 111 Pentetreotide Injection should be tested for radiolabeling yield of radioactivity prior to administration .
+The product must be used within 6 hours of preparation .
+• Components of the kit are sterile and nonpyrogenic .
+To maintain sterility , it is essential that directions are followed carefully .
+Aseptic technique must be used during the preparation and administration of Indium In 111 Pentetreotide Injection .
+• Octreotide acetate and the natural somatostatin hormone may be associated with cholelithiasis , presumably by altering fat absorption and possibly by decreasing motility of the gallbladder .
+A single dose of Indium In 111 Pentetreotide Injection is not expected to cause cholelithiasis .
+• As with any other radioactive material , appropriate shielding should be used to avoid unnecessary radiation exposure to the patient , occupational workers , and other persons .
+• Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies have not been performed with indium In 111 pentetreotide to evaluate carcinogenic potential or effects on fertility .
+Pentetreotide was evaluated for mutagenic potential in an in vitro mouse lymphoma forward mutation assay and an in vivo mouse micronucleus assay ; evidence of mutagenicity was not found .
+Pregnancy Animal reproduction studies have not been conducted with indium In 111 pentetreotide .
+It is not known whether indium In 111 pentetreotide can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity .
+Therefore , Indium In 111 Pentetreotide Injection should not be administered to a pregnant woman unless the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers It is not known whether this drug is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when Indium In 111 Pentetreotide Injection is administered to a nursing woman .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+ADVERSE REACTIONS The following adverse effects were observed in clinical trials at a frequency of less than 1 % of 538 patients : dizziness , fever , flush , headache , hypotension , changes in liver enzymes , joint pain , nausea , sweating , and weakness .
+These adverse effects were transient .
+Also in clinical trials , there was one reported case of bradycardia and one case of decreased hematocrit and hemoglobin .
+Pentetreotide is derived from octreotide which is used as a therapeutic agent to control symptoms from certain tumors .
+The usual dose for Indium In 111 Pentetreotide Injection is approximately 5 to 20 times less than for octreotide and is subtherapeutic .
+The following adverse reactions have been associated with octreotide in 3 % to 10 % of patients : nausea , injection site pain , diarrhea , abdominal pain / discomfort , loose stools , and vomiting .
+Hypertension and hyper - and hypoglycemia have also been reported with the use of octreotide .
+The following adverse reactions have been identified during postapproval use of Octreoscan .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Immune System Disorders : Hypersensitivity reactions , predominantly rash , pruritus , less frequently angioedema or features of anaphylaxis .
+DOSAGE AND ADMINISTRATION Before administration , a patient should be well hydrated .
+After administration , the patient must be encouraged to drink fluids liberally .
+Elimination of extra fluid intake will help reduce the radiation dose by flushing out unbound , labelled pentetreotide by glomerular filtration .
+It is also recommended that a mild laxative ( e . g . , bisacodyl or lactulose ) be given to the patient starting the evening before the radioactive drug is administered , and continuing for 48 hours .
+Ample fluid uptake is necessary during this period as a support both to renal elimination and the bowel - cleansing process .
+In a patient with an insulinoma , bowel - cleansing should be undertaken only after consultation with an endocrinologist .
+The recommended intravenous dose for planar imaging is 111 MBq ( 3 mCi ) of Indium In 111 Pentetreotide Injection prepared from an Octreoscan kit .
+The recommended intravenous dose for SPECT imaging is 222 MBq ( 6 mCi ) of Indium In 111 Pentetreotide Injection .
+The dose should be confirmed by a suitably calibrated radioactivity ionization chamber immediately before administration .
+As with all intravenously administered products , Octreoscan should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Preparations containing particulate matter or discoloration should not be administered .
+They should be disposed of in a safe manner , in compliance with applicable regulations .
+Aseptic techniques and effective shielding should be employed in withdrawing doses for administration to patients .
+Waterproof gloves should be worn during the administration procedure .
+Do not administer Octreoscan in TPN solutions or through the same intravenous line .
+Radiation Dosimetry The estimated radiation doses [ 1 ] to the average adult ( 70 kg ) from intravenous administration of 111 MBq ( 3 mCi ) and 222 MBq ( 6 mCi ) are presented in Table 4 .
+These estimates were calculated by Oak Ridge Associated Universities using the data published by Krenning , et al . [ 2 ] Table 4 .
+Estimated Absorbed Radiation Doses after Intravenous Administration of Indium In 111 Pentetreotide [ 1 ] to a 70 kg Patient PLANAR SPECT Organ mGy / 111 MBq rads / 3 mCi mGy / 222 MBq rads / 6 mCi Kidneys 54 . 16 5 . 42 108 . 32 10 . 83 Liver 12 . 15 1 . 22 24 . 31 2 . 43 Spleen 73 . 86 7 . 39 147 . 73 14 . 77 Uterus 6 . 34 0 . 63 12 . 67 1 . 27 Ovaries 4 . 89 0 . 49 9 . 79 0 . 98 Testes 2 . 90 0 . 29 5 . 80 0 . 58 Red Marrow 3 . 46 0 . 35 6 . 91 0 . 69 Urinary Bladder Wall 30 . 24 3 . 02 60 . 48 6 . 05 GI Tract Stomach Wall 5 . 67 0 . 57 11 . 34 1 . 13 Small Intestine 4 . 78 0 . 48 9 . 56 0 . 96 Upper Large Intestine 5 . 80 0 . 58 11 . 59 1 . 16 Lower Large Intestine 7 . 73 0 . 77 15 . 46 1 . 55 Adrenals 7 . 55 0 . 76 15 . 11 1 . 51 Thyroid 7 . 43 0 . 74 14 . 86 1 . 49 mSv / 111 MBq rem / 3 mCi mSv / 222 MBq rem / 6 mCi Effective Dose [ 2 ] Equivalent 13 . 03 1 . 30 26 . 06 2 . 61 [ 1 ] Assumes 4 . 8 hour voiding interval and International Commission on Radiological Protection ( ICRP ) 30 model for the gastrointestinal tract calculations .
+[ 2 ] Estimated according to ICRP Publication 53 .
+[ 1 ] Values listed include a correction for a maximum of 0 . 1 % indium In - 114 m radiocontaminant at calibration .
+[ 2 ] E . P . Krenning , W . H . Bakker , P . P . M . Kooij , W . A . P . Breeman , H . Y . Oei , M . de Jong , J . C . Reubi , T . J . Visser , C . Bruns , D . J . Kwekkeboom , A . E . M . Reijs , P . M . van Hagen , J . W . Koper , and S . W . J . Lamberts , “ Somatostatin Receptor Scintigraphy with Indium - 111 - DTPA - D - Phe - 1 - Octreotide in Man : Metabolism , Dosimetry and Comparison with Iodine - 123 - Try - 3 - Octreotide , ” The Journal of Nuclear Medicine , Vol .
+33 , No . 5 , May 1992 , pp . 652 - 658 .
+HOW SUPPLIED The Octreoscan kit ( NDC 69945 - 050 - 40 ) is supplied with the following components : • A 10 - mL Octreoscan Reaction Vial which contains a lyophilized mixture of : ( i ) 10 mcg pentetreotide [ N - ( diethylenetriamine - N , N , N ' , N ” - tetraacetic acid - N ” - acetyl ) - D - phenylalanyl - L - hemicystyl - L - phenylalanyl - D - tryptophyl - L - lysyl - L - threonyl - L - hemicystyl - L - threoninol cyclic ( 2 → 7 ) disulfide ] , ( also known as octreotide DTPA ) , ( ii ) 2 mg gentisic acid [ 2 , 5 - dihydroxybenzoic acid ] , ( iii ) 4 . 9 mg trisodium citrate , anhydrous , ( iv ) 0 . 37 mg citric acid , anhydrous , and ( v ) 10 mg inositol .
+Before lyophilization , sodium hydroxide or hydrochloric acid may have been added for pH adjustment .
+The vial contents are sterile and nonpyrogenic .
+No bacteriostatic preservative is present .
+• A 10 - mL vial of Indium In 111 Chloride Solution , which contains 1 . 1 mL or 111 MBq / mL ( 3 mCi / mL ) Indium In 111 chloride in 0 . 02 N HCl at time of calibration .
+The vial also contains ferric chloride at a concentration of 3 . 5 mcg / mL ( ferric ion , 1 . 2 mcg / mL ) .
+The vial contents are sterile and nonpyrogenic .
+No bacteriostatic preservative is present .
+In addition , the kit also contains the following items : ( 1 ) a 25 G x 5 / 8 ” needle ( B - D , Monoject ) used to transfer Indium In 111 Chloride Solution to the Octreoscan Reaction Vial , ( 2 ) pressure sensitive label , and ( 3 ) a package insert .
+Storage The Octreoscan kit should be stored refrigerated at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+After reconstitution , store at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+Indium In 111 Pentetreotide Injection must be used within 6 hours of preparation .
+INSTRUCTIONS FOR THE PREPARATION OF INDIUM In 111 PENTETREOTIDE INJECTION Note : Read complete directions thoroughly before starting preparation .
+Procedure Precautions and Notes • All transfers and penetrations of the vial stoppers by a needle must use aseptic technique .
+• Wear waterproof gloves during the entire procedure and while withdrawing the patient - dose from the Octreoscan Reaction Vial .
+• Transfer Indium In 111 Chloride Solution with an adequately shielded , sterile syringe using the transfer needle in the kit .
+• Adequate shielding should be maintained at all times until the preparation is administered to the patient , disposed of in an approved manner , or allowed to decay to safe levels of radioactivity .
+A shielded , sterile syringe should be used for withdrawing and injecting the preparation .
+• Do not inject into TPN administration bags or their intravenous lines .
+Procedure for the Preparation of Indium In 111 Pentetreotide Injection • Place the Octreoscan Reaction Vial in a lead dispensing shield ( of minimum wall thickness 1 / 4 inch ) fitted with a lid .
+• Swab the rubber stopper of the reaction vial with an appropriate antiseptic and allow the vial to dry .
+• Aseptically remove the contents of the Indium In 111 Chloride Solution vial using the needle provided and a shielded , sterile syringe .
+• Inject the Indium In 111 Chloride Solution into the Octreoscan Reaction Vial .
+• Gently swirl the Octreoscan Reaction Vial until the lyophilized pellet is completely dissolved .
+• Incubate the Indium In 111 Pentetreotide Injection at or below 25 ° C ( 77 ° F ) for a minimum of 30 minutes .
+Note : A 30 minute incubation time is required .
+Shorter incubation periods may result in inadequate radiolabeling .
+• Using proper shielding , visually inspect the vial contents .
+The solution should be clear , colorless , and free of particulate matter .
+If not , the solution should not be used .
+It should be disposed in a safe and approved manner .
+• Assay the Indium In 111 Pentetreotide Injection using a suitably calibrated ionization chamber .
+Record the date , time , total activity , and patient identifier ( e . g . , patient name and number ) on the radioassay information label and affix the label to the lead dispensing shield .
+• The radiolabeling yield of the reconstituted solution should be checked before administration to the patient , according to the instructions given below .
+If the radiochemical purity is less than 90 % , the product should not be used .
+• Store the reaction vial containing the Indium In 111 Pentetreotide Injection at controlled room temperature 20 ° to 25 ° C ( 68 ° to 77 ° F ) until use .
+The Indium In 111 Pentetreotide Injection must be used within 6 hours of preparation .
+• If desired , the preparation can be diluted to a maximum volume of 3 mL with 0 . 9 % Sodium Chloride Injection , USP immediately prior to injection .
+The sample should be drawn up into a shielded , sterile syringe and administered to the patient .
+RECOMMENDED METHOD FOR DETERMINATION OF RADIOLABELING YIELD OF INDIUM In 111 PENTETREOTIDE INJECTION Required Materials • Waters Sep - Pak ™ C18 Cartridge , Part No . 51910 • Methanol , 15 mL ( Caution : toxic and flammable .
+Exercise due caution . )
+• Distilled water , 20 mL • Disposable syringes : 2 - 10 - mL , no needle required 2 - 5 - mL , no needle required 1 - 1 - mL , with needle • Three disposable culture tubes or vials , minimum 10 - mL capacity • Ion chamber Preparation of the Sep - Pak Cartridge • Rinse the Sep - Pak cartridge with 10 mL methanol as follows : fill a 10 - mL syringe with 10 mL methanol , attach the syringe to the longer end of the Sep - Pak cartridge , and push the methanol through the cartridge .
+Discard the eluate in a safe and approved manner .
+• Similarly , rinse the cartridge with 10 mL water .
+Ensure that the cartridge is kept wet and that there is no air bubble present .
+If an air bubble is present , rinse the cartridge with additional 5 mL of water .
+Discard the eluate .
+Sample Analysis • Using a 1 - mL syringe with needle , withdraw 0 . 05 to 0 . 1 mL Indium In 111 Pentetreotide Injection from the Octreoscan Reaction Vial .
+Apply the preparation to the Sep - Pak cartridge through the longer end of the cartridge .
+Make sure that the sample is migrating onto the column of the cartridge .
+Note : After this step , the cartridge and all solutions eluted from it will be radioactive .
+• With a disposable 5 - mL syringe , slowly ( in dropwise manner ) push 5 mL water through the longer end of the cartridge , collecting the eluate in a counting vial or tube .
+Label this eluate as “ Fraction 1 . ”
+• Similarly , elute the cartridge with 5 mL methanol .
+Be sure that this solution is pushed slowly through the longer end of the cartridge so that the elution occurs in a dropwise manner .
+Collect this fraction in a second culture tube or vial for counting .
+Label it as “ Fraction 2 . ”
+Push two 5 - mL portions of air through the longer end of the cartridge and collect the eluate with Fraction 2 .
+• Place the Sep - Pak cartridge in a third culture tube or vial for assay .
+Assay • Assay the activity of Fraction 1 in a suitably calibrated ionization chamber .
+This fraction contains the hydrophilic impurities ( e . g . , unbound indium In - 111 ) .
+• Assay the activity of Fraction 2 .
+This fraction contains the indium In 111 pentetreotide .
+• Assay the activity of the Sep - Pak cartridge .
+This component contains the remaining non - elutable impurities .
+• Dispose of all of the materials used in the preparation , the sample analysis , and the assay in a safe and approved manner .
+Calculations • Percent Indium In 111 Pentetreotide = ( Fraction 2 Activity / Total Activity ) x 100 % Where Total Activity = Fraction 1 + Fraction 2 + activity remaining in Sep - Pak Note : If this value is less than 90 % , do not use the preparation .
+Discard it in a safe and approved manner .
+• Percent hydrophilic impurities = ( Fraction 1 Activity / Total Activity ) x 100 % • Percent non - elutable impurities = ( Activity remaining in Sep - Pak cartridge / Total Activity ) x 100 % This radiopharmaceutical is licensed by the Illinois Department of Nuclear Safety for distribution to persons licensed pursuant to 330 . 260 ( a ) for the radioactive material specified in 32 IL .
+Adm . Code 335 . 4010 or under equivalent licenses of the U . S . Nuclear Regulatory Commission , an Agreement State , or a Licensing State .
+CuriumTM and the Curium logo are trademarks of a Curium company .
+© 2022 Curium US LLC .
+All Rights Reserved .
+Sep - PakTM is a trademark of Waters Technologies Corporation .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA A050I0 Revised 2 / 2022 CURIUM ™ PRINCIPAL DISPLAY PANEL - A050V0 Octreoscan ™ ( Kit for the Preparation of Indium In 111 Pentetreotide Injection ) Reaction Vial Sterile , non - pyrogenic .
+For intravenous administration after drug preparation .
+See package insert for directions for use .
+Vial Contains : 10 mcg Pentetreotide 2 mg Gentisic Acid 4 . 9 mg Sodium Citrate , Anhydrous 0 . 37 mg Citric Acid , Anhydrous 10 mg Inositol Prior to lyophilization , sodium hydroxide or hydrochloric acid may be added for pH adjustment .
+The pH of the reconstituted drug is between 3 . 8 and 4 . 3 .
+Contents are sealed under nitrogen .
+Store refrigerated at 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Protect from light .
+Use only with Indium In 111 Chloride Solution .
+Rx only Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUM ™ A050V0 R02 / 2022 LOT XXXXXXXX EXP DDMMMYYYY [ MULTIMEDIA ] [ MULTIMEDIA ] PRINCIPAL DISPLAY PANEL - A117C0 Indium In 111 Chloride Solution Sterile , non - pyrogenic solution , contains no bacteriostatic preservative .
+NOT FOR DIRECT ADMINISTRATION For intravenous use after drug preparation .
+See package insert for directions for use .
+Vial contains 1 . 1 mL of 111 MBq / mL ( 3 mCi / mL ) aqueous indium In - 111 chloride and 3 . 5 mcg / mL ferric chloride ( 1 . 2 mcg / mL ferric ion ) in 0 . 02 N hydrochloric acid .
+Store at or below 25 ° C ( 77 ° F ) .
+Rx only WARNING : Radioactive drugs must be handled only by qualified personnel in conformity with regulations of the U . S . Nuclear Regulatory Commission or state regulatory agencies where applicable .
+Bottle containing drug should be kept in this container or within heavier shield .
+Manufactured by : Curium US LLC Maryland Heights , MO 63043 Made in USA CURIUM ™ CAUTION RADIOACTIVE MATERIAL A117C0 R02 / 2022 Total Act .
+MBq ( mCi ) As of 1800 CT Volume mL EXP 1800 CT DD MMM YYYY LOT XXXXXXXX [ MULTIMEDIA ] [ MULTIMEDIA ]

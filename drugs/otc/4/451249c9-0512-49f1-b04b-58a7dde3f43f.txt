@@ -1,0 +1,214 @@
+DESCRIPTION Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection is a multidose reaction vial which contains the sterile , non - pyrogenic , non - radioactive ingredients necessary to produce Technetium Tc 99 m Pyrophosphate Injection for diagnostic use by intravenous injection .
+Each 10 mL vial contains 12 . 0 mg of sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dihydrate and 4 . 9 mg maximum total tin as stannous chloride dihydrate ; pH is adjusted to 5 . 3 - 5 . 7 with hydrochloric acid prior to lyophilization .
+No bacteriostatic preservative is present .
+Sealed under nitrogen .
+The chemical names are : ( 1 ) Diphosphoric acid , Ditin ( 2 + ) salt ; ( 2 ) Ditin ( 2 + ) pyrophosphate ( 4 - ) .
+The structural formula is : [ MULTIMEDIA ] When a solution of sterile , non - pyrogenic , oxidant - free isotonic Sodium Pertechnetate Tc 99 m Injection U . S . P . is added to the vial , Technetium Tc 99 m Pyrophosphate Injection is formed for intravenous injection .
+When a solution of sterile , non - pyrogenic , isotonic saline is added to the vial , it forms a blood pool imaging agent when Sodium Pertechnetate Tc 99 m Injection is injected intravenously 30 minutes after the intravenous administration of the non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection .
+The precise structure of Technetium Tc 99 m Pyrophosphate Injection is not known at this time .
+Physical Characteristics Technetium Tc 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours .
+¹ The principal photon that is useful for detection and imaging studies is listed in Table 1 .
+TABLE 1 : Principal Radiation Emission DataRadiation Mean Percent Per Disintegration Mean Energy ( keV ) Gamma - 2 89 . 07 140 . 5 ¹ Kocher DC : Radioactive decay data tables .
+DOE / TIC - 11026 : 108 , 1981 External Radiation The specific gamma ray constant for Tc 99 m is 0 . 78 R / hr - millicurie at 1 cm .
+The first half - value layer is 0 . 017 cm of lead ( Pb ) .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from interposition of various thicknesses of Pb is shown in Table 2 .
+For example , the use of a 0 . 25 cm thickness of Pb will attenuate the radiation emitted by a factor of about 1 , 000 .
+TABLE 2 : Radiation Attenuation by Lead ShieldingShield Thickness ( Pb ) cm Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 10 - 1 0 . 16 10 - 2 0 . 25 10 - 3 0 . 33 10 - 4 To correct for physical decay of this radionuclide , the fractions that remain at selected intervals after the time of calibration are shown in Table 3 .
+TABLE 3 : Physical Decay Chart : Tc 99 m , half - life 6 . 02 hoursHours Fraction Remaining Hours Fraction Remaining 0 * 1 . 000 7 0 . 447 1 0 . 891 8 0 . 398 2 0 . 794 9 0 . 355 3 0 . 708 10 0 . 316 4 0 . 631 11 0 . 282 5 0 . 562 12 0 . 251 6 0 . 501 * Calibration time [ MULTIMEDIA ] CLINICAL PHARMACOLOGY When injected intravenously , Technetium Tc 99 m Pyrophosphate Injection has a specific affinity for areas of osteogenesis .
+It is also concentrated in the injured myocardium , primarily in areas of irreversibly damaged myocardial cells .
+One to two hours after intravenous injection of Technetium Tc 99 m Pyrophosphate Injection , an estimated 40 to 50 percent of the injected dose has been taken up by the skeleton , and approximately 0 . 01 to 0 . 02 percent per gram of acutely infarcted myocardium .
+Within a period of one hour , 10 to 11 percent remains in the vascular system , declining to approximately 2 to 3 percent twenty - four hours post injection .
+The average urinary excretion was observed to be about 40 percent of the administered dose after 24 hours .
+The non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection also has an affinity for red blood cells .
+When administered 30 minutes prior to the intravenous administration of Sodium Pertechnetate Tc 99 m Injection , approximately 76 percent of the injected activity remains in the blood pool providing excellent images of the cardiac chambers .
+INDICATIONS AND USAGE Technetium Tc 99 m Pyrophosphate Injection is a bone imaging agent used to demonstrate areas of altered osteogenesis , and a cardiac imaging agent used as an adjunct in the diagnosis of acute myocardial infarction .
+Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection is a blood pool imaging agent which may be used for gated blood pool imaging and for the detection of sites of gastrointestinal bleeding .
+When reconstituted with sterile non - pyrogenic isotonic saline and administered intravenously 30 minutes prior to the intravenous administration of Sodium Pertechnetate Tc 99 m Injection , approximately 76 % of the injected radioactivity remains in the blood pool .
+CONTRAINDICATIONS None known .
+WARNINGS As an adjunct in the diagnosis of confirmed myocardial infarction ( ECG and serum enzymes positive ) , the incidence of false negative images has been found to be 6 percent .
+False negative images can also occur if made prior to 24 hours in the evolutionary phase of the infarct or after 6 days in the resolution phase .
+In a limited study involving 22 patients in whom the ECG was positive and serum enzymes questionable or negative , but in whom the final diagnosis of acute myocardial infarction was made , the incidence of false negative images was 23 percent .
+The incidence of false positive images has been found to be 7 to 9 percent .
+False positive images have also been reported following coronary by - pass graft surgery , in unstable angina pectoris , old myocardial infarcts and in cardiac contusions .
+Preliminary reports indicate impairment of brain scans using Sodium Pertechnetate Tc99m Injection which have been preceded by a bone scan using an agent containing stannous ions .
+The impairment may result in false positive or false negative brain scans .
+It is recommended , where feasible , that brain scans precede bone imaging procedures .
+Alternately , a brain imaging agent such as Technetium Tc 99 m Pentetate Injection may be employed .
+PRECAUTIONS General The lyophilized contents of the Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection reaction vial are to be administered to the patient only as an intravenous solution ( see Procedures for Reconstitution ) .
+Any Sodium Pertechnetate Tc 99 m solution which contains an oxidizing agent is not suitable for use with Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection .
+When reconstituted with Sodium Pertechnetate Tc 99 m , Technetium Tc 99 m Pyrophosphate Injection must be used within 6 hours .
+Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection may also be reconstituted with sterile , non - pyrogenic isotonic saline containing no preservatives and injected intravenously prior to the administration of Sodium Pertechnetate Tc 99 m Injection .
+Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection contains no preservatives .
+Vials are sealed under nitrogen : air or oxygen is harmful to the contents of the vials and the vials should not be vented .
+The components of the Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection are supplied sterile and non - pyrogenic .
+Aseptic procedures normally employed in making additions and withdrawals for sterile , non - pyrogenic containers should be used during addition of the Sodium Pertechnetate Tc 99 m Injection and the withdrawal of doses for patient administration .
+Shielding should be utilized when preparing Technetium Tc 99 m Pyrophosphate Injection .
+Technetium Tc 99 m Pyrophosphate Injection as well as other radioactive drugs must be handled with care , and appropriate safety measures should be used to minimize radiation exposure to the patients and clinical personnel consistent with proper patient management .
+The solution should not be used if cloudy , discolored , or found to contain particulate matter .
+Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides , and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides .
+No special handling is required for the non - radioactive drug product .
+Bone Imaging Both prior to and following Technetium Tc 99 m Pyrophosphate Injection administration , if not contraindicated for the patient ’ s cardiac condition , patients should be encouraged to drink fluids .
+Patients should void as often as possible after the Technetium Tc 99 m Pyrophosphate Injection to minimize background interference and unnecessary radiation exposure from accumulation in the bladder .
+Cardiac Imaging Patient ’ s cardiac condition should be stable before beginning the cardiac imaging procedure .
+Interference from chest wall lesions such as breast tumors and healing rib fractures can be minimized by employing the three recommended projections .
+( See DOSAGE AND ADMINISTRATION ) .
+False - positive and false - negative myocardial scans may occur ; therefore , the diagnosis of acute myocardial infarction depends on the overall assessment of laboratory and clinical findings .
+Blood Pool Imaging The non - radioactive reconstituted agent should be injected by direct venipuncture .
+Heparinized catheter systems should be avoided , as interference with red blood cell tagging will result .
+Cardiac pool imaging should be initiated 15 to 30 minutes after the administration of Sodium Pertechnetate Tc 99 m Injection .
+The imaging of gastrointestinal bleeding is dependent on such factors as the region of imaging , rate and volume of the bleed , efficacy of the labeling of the red blood cells and timeliness of imaging .
+Due to these factors , images should be taken sequentially over a period of time until a positive image is obtained or clinical conditions warrant the discontinuance of the procedure .
+The period of time for collecting the images may range up to 36 hours .
+Technetium Tc 99 m Pyrophosphate Injection and the non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection should be formulated within six ( 6 ) hours prior to clinical use .
+Carcinogenesis , Mutagenesis , Impairment of Fertility No long - term animal studies have been performed to evaluate carcinogenic potential or whether Technetium Tc 99 m Pyrophosphate Injection affects fertility in males or females .
+Mutagenesis studies have not been conducted .
+Pregnancy Animal reproduction and teratogenicity studies have not been conducted with Technetium Tc 99 m Pyrophosphate Injection .
+It is also not known whether Technetium Tc 99 Pyrophosphate Injection can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+Technetium Tc 99 m Pyrophosphate Injection should be given to a pregnant woman only if clearly needed .
+Ideally , examinations using radiopharmaceuticals , especially those elective in nature , to a woman of childbearing capability should be performed during the first few ( approximately 10 ) days following the onset of menses .
+Nursing mothers Technetium Tc 99 m Pyrophosphate Injection is excreted in human milk during lactation , therefore , formula feeding should be substituted for breast feeding .
+Pediatric use Safety and effectiveness in pediatric patients have not been established .
+Geriatric use Clinical studies of the Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+This drug is known to be substantially excreted by the kidney , and the risk of toxic reactions to this drug may be greater in patients with impaired renal function .
+Because elderly patients are more likely to have decreased renal function , care should be taken in dose selection , and it may be useful to monitor renal function .
+ADVERSE REACTIONS Some hypersensitivity reactions have been associated with pyrophosphate use .
+DOSAGE AND ADMINISTRATION After preparation with oxidant - free Sodium Pertechnetate Tc 99 m Injection , the suggested dose range of Technetium Tc 99 m Pyrophosphate Injection in the average ADULT patient ( 70 kg ) is : Bone Imaging - 185 - 555 megabecquerels ( 5 - 15 mCi ) Cardiac Imaging - 370 - 555 megabecquerels ( 10 - 15 mCi ) The suggested dose range of the non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection in the average ADULT patient ( 70 kg ) is : Blood Imaging - Administer not less than one - third nor more than the total contents of one vial [ 555 - 740 megabecquerels ( 15 - 20 mCi ) of Pertechnetate Tc 99 m Injection ] .
+Bone and Cardiac Imaging Technetium Tc 99 m Pyrophosphate Injection is injected intravenously over a 10 to 20 second period .
+For optimal results , bone imaging should be done 1 to 6 hours following administration .
+Cardiac imaging should be done 30 to 90 minutes following administration .
+The acute myocardial infarct can be visualized from 24 hours to 6 days following onset of symptoms , with maximum localization at 48 to 72 hours .
+Cardiac imaging should be done with a gamma scintillation camera .
+It is recommended that images be made of the anterior , left anterior oblique and left lateral projections .
+Blood Pool Imaging Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection may be reconstituted with sterile , non - pyrogenic isotonic saline containing no preservatives .
+Administer not less than one - third nor more than the total contents of one vial 30 minutes prior to the intravenous administration of 555 to 740 megabecquerels ( 15 - 20 mCi ) Sodium Pertechnetate Tc 99 m Injection .
+The non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection should be injected by direct venipuncture .
+Heparinized catheter systems should be avoided .
+Cardiac imaging should be done 10 to 30 minutes following the administration of Sodium Pertechnetate Tc 99 m Injection utilizing a scintillation camera interfaced to an electrocardiographic gating device .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit .
+The patient dose should be measured by a suitable radioactivity calibration system immediately prior to administration .
+Radiation Dosimetry Bone and Cardiac Imaging The effective half - life was assumed to be the physical half - life for all calculated values .
+The estimated radiation absorbed doses to an average ADULT patient ( 70 kg ) from an intravenous injection of a maximum of 555 megabecquerels ( 15 mCi ) of Technetium Tc 99 m Pyrophosphate Injection are shown in Table 4 .
+TABLE 4 : Estimated Absorbed Radiation Doses Bone and Cardiac Imaging * Technetium Tc 99 m Pyrophosphate Injection Target Organ mGy / 555 MBq rads / 15 mCi Total Body 1 . 8 0 . 18 Kidneys 3 . 6 0 . 36 Red Marrow 3 . 5 0 . 35 Bone Surfaces 21 . 1 2 . 11 Bladder Wall 13 . 3 1 . 33 Testes 1 . 4 0 . 14 Ovaries 2 . 1 0 . 21 Effective Dose Equivalent 3 . 3 mSv 0 . 33 rem * Based on the model in MIRD Dose Estimate Report No . 13 ( J Nucl Med 30 : 1117 - 1122 , 1989 ) .
+Estimate calculated using phantoms of Cristy & Eckerman ( Report ORNL / TM - 8381 / V1 & V7 ) .
+Bone and marrow model of Eckerman ( Aspects of dosimetry of radionuclides within the skeleton with particular emphasis on the active marrow .
+In Fourth International Radiopharmaceutical Dosimetry Symposium ; A . T . Schlafke - Stelson and E . E . Watson eds .
+CONF - 851113 , Oak Ridge Associated Universities , Oak Ridge , TN 37831 , 1986 .
+pp 514 - 534 . )
+used .
+The effective dose equivalent is a quantity which may be suitable for comparing risks of different procedures in nuclear medicine , radiology , and other applications involving ionizing radiation , but should not be construed to give information about risks to individual patients and should not be applied to situations involving radiation therapy .
+Blood Pool Imaging The estimated absorbed radiation doses to an average adult patient ( 70 kg ) from an intravenous injection of 740 megabecquerels ( 20 mCi ) of Sodium Pertechnetate Tc 99 m Injection , 30 minutes after the intravenous administration of the non - radioactive reconstituted Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection are shown in Table 5 .
+TABLE 5 : Estimated Absorbed Radiation Doses Blood Pool Imaginga Sodium Pertechnetate Tc 99 m 30 min .
+Post Injection with Pyrophosphate Target Organ mGy / 740 MBq rads / 20 mCi Total Body 3 . 2 0 . 32 Spleen 3 . 6 0 . 36 Bladder Wallb 24 . 0 2 . 40 Testes 2 . 4 0 . 24 Ovaries 4 . 6 0 . 46 Blood 10 . 4 1 . 04 Red Marrow 4 . 4 0 . 44 a Assume 75 % of the Sodium Pertechnetate Tc 99 m labels red blood cells and the other 25 % remains as pertechnetate .
+Method of calculation : MIRD Dose Estimate Report No . 8 , J Nucl Med .
+17 : 74 - 77 , 1976 .
+b If 25 % excreted with 1 hour Tb HOW SUPPLIED The Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection is supplied in packages of 5 or 30 sterile , non - pyrogenic , white capped 10 mL vials .
+Each multidose vial contains 12 . 0 mg sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dihydrate and 4 . 9 mg maximum total tin as stannous chloride dihydrate ; pH is adjusted with hydrochloric acid to 5 . 3 - 5 . 7 prior to lyophilization .
+No bacteriostatic preservative is present .
+Sealed under nitrogen .
+Included in each 5 - vial package are one package insert and 10 radiation labels .
+Included in each 30 - vial package are one package insert and 60 radiation labels .
+Store the kit as packaged at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] .
+Store the reconstituted vials at 20 - 25 ° C ( 68 - 77 ° ) [ See USP ] .
+Directions for use Bone and Cardiac Imaging Technetium Tc 99 m Pyrophosphate Injection is prepared from Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection by the following aseptic procedure : • 1 .
+Waterproof gloves should be worn during the preparation procedure .
+Remove the white flip - off cap from the vial and swab the top of the vial closure with alcohol to sterilize the surface .
+• 2 .
+Complete the radiation label and affix to the vial .
+Place the vial in an appropriate radiation shield suitably labeled and identified .
+• 3 .
+With a sterile shielded syringe , aseptically obtain 1 - 10 milliliters of a suitable , oxidant free , sterile and non - pyrogenic Sodium Pertechnetate Tc 99 m Injection containing no more than 3 . 7 gigabecquerels ( 100 mCi ) .
+Aseptically add the Sodium Pertechnetate Tc 99 m Injection to the vial .
+• 4 .
+Swirl the contents of the vial for one minute and let stand for at least 10 minutes .
+• 5 .
+Record date and time of preparation .
+• 6 .
+It is recommended that the radiochemical purity of the prepared radiopharmaceutical be checked prior to patient administration .
+• 7 .
+Examine vial contents for particulates and discoloration prior to injection .
+• 8 .
+Withdrawals for administration must be made aseptically using a sterile shielded syringe and needle .
+Since the vials contain nitrogen to prevent oxidation of the complex , the vials should not be vented .
+If repeated withdrawals are made from a vial , the replacement of contents with air should be minimized .
+• 9 .
+Aseptically withdraw material with a sterile lead shielded syringe for use within six ( 6 ) hours of preparation .
+For optimal results , this time should be minimized .
+The vial contains no bacteriostatic preservative .
+Store the reconstituted vial at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] .
+Discard the vial six ( 6 ) hours after reconstitution .
+• 10 .
+The patient dose should be measured by suitable radioactivity calibration system immediately prior to administration .
+Blood Pool Imaging The non - radioactive Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection is prepared by adhering to the following aseptic procedure : • 1 .
+Remove the white flip - off cap from the vial and swab the top of the vial closure with alcohol to sterilize the surface .
+• 2 .
+Reconstitute the reaction vial with 3 milliliters of sterile , non - pyrogenic , isotonic saline containing no preservatives .
+• 3 .
+Swirl the contents of the vial for one minute and let stand for at least 10 minutes .
+• 4 .
+Record date and time of preparation .
+• 5 .
+Examine vial contents for particulates and discoloration prior to injection .
+• 6 .
+Withdrawals for administration must be made aseptically using a sterile syringe and needle .
+Since the vials contain nitrogen to prevent oxidation of the complex , the vials should not be vented .
+If repeated withdrawals are made from a vial , the replacement of contents with air should be minimized .
+• 7 .
+Aseptically withdraw the reconstituted non - radioactive Kit for the Preparation of Technetium Tc 99 m Pyrophosphate Injection with a sterile syringe for use within six ( 6 ) hours of preparation .
+For optimal results , this time should be minimized .
+The vial contains no bacteriostatic preservative .
+Store the reconstituted vial at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] .
+Discard the vial six ( 6 ) hours after reconstitution .
+• 8 .
+Between one - third and a total vial of stannous pyrophosphate may be administered by direct venipuncture 30 minutes prior to intravenous administration of 555 to 740 megabecquerels ( 15 - 20 mCi ) of Sodium Pertechnetate Tc 99 m Injection .
+Heparinized catheter systems should not be used .
+• 9 .
+The patient dose of Sodium Pertechnetate Tc 99 m Injection should be measured by a suitable radioactivity calibration system immediately prior to administration .
+NDC # 45567 - 0060 - 1 for 5 vial kits NDC # 45567 - 0060 - 2 for 30 vial kits This reagent kit for preparation of a radiopharmaceutical is approved for use by persons licensed pursuant to Section 120 . 547 , Code of Massachusetts Regulation 105 , or under equivalent license of the U . S . Nuclear Regulatory Commission or an Agreement State .
+Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 PL - 000017 Rev 1 . 2 Mar 2020 PACKAGE / LABEL PRINCIPAL DISPLAY PANEL - VIAL CONTAINER STERILE NON - PYROGENIC DIAGNOSTIC MULTIDOSE KIT FOR THE PREPARTION OF TECHNETIUM Tc 99 m PYROPHOSPHATE INJECTION Each 10 mL reaction vial contains in 12 . 0 mg sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dihydrate and 4 . 9 mg maximum total tin as stannous chloride dehydrate ; pH is adjusted to 5 . 3 - 5 . 7 with HCI prior to lyophilization .
+Sealed under nitrogen .
+Refer to Package Insert for directions for use and the recommended adult doses .
+Manufactured by : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 PL - 000018 Rev 0 . 2 Mar 2020 CONTAINS NO BACTERIOSTATIC PRESERVATIVE .
+FOR INTRAVENOUS USE ONLY AFTER RECONSTITION WITH LABELING OXIDANT - FREE TECHENTIUM Tc 99 m or ISOTONIC SALINE .
+.
+Store at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] after reconstitution and use within 6 hours .
+Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel - 5 VIAL BOX Kit for the Preparation of Technetium Tc99m Pyrophosphate Injection Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 For Customer Service call : 1 - 800 - 221 - 7554 CONTENTS : 1 package insert , 10 radiation labels and 5 reaction vials .
+Each 10 mL reaction vial contains 12 . 0 mg sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dehydrate and 4 . 9 mg maximum total tin as stannous chloride deihydrate .
+pH is adjusted to 5 . 3 – 5 . 7 with HCI prior to lyophilization .
+Sealed under nitrogen .
+Contains no bacteriostatic preservative .
+For intravenous use only after reconstitution with oxidant - free Technetium Tc 99 m or isotonic saline .
+Do not use if solution is cloudy .
+STORE KIT AS PACKAGED AT 20 - 25 ° C ( 68 - 77 ° F ) [ SEE USP ] Store reconstituted vials at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] .
+Use within 6 hours after reconstitution .
+Refer to Package Insert for recommended adult doses .
+IMPORTANT : Read enclosed Package Insert for full information on preparation , use and indications .
+Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 For Customer Service call : 1 - 800 - 221 - 7554 PL - 000020 Rev 0 . 3 Mar 2020 [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel - Radiation Label CAUTION RADIOACTIVE MATERIAL STERILE , NON - PYROGENIC , DIAGNOSTIC , MULTIDOSE TECHNETIUM Tc 99 m PYROPHOSPHATE INJECTION FOR INTRAVENOUS USE Total MBq ( mCi ) _____ Volume _____ Assay _____ MBq / mL ( mCi / mL ) as of _____ Each 10 mL reaction vial contains 12 . 0 mg sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dihydrate and 4 . 9 mg maximum total tin as stannous chloride dihydrate ; pH is adjusted to 5 . 3 - 5 . 7 with HCI prior to lyophilization .
+Sealed under nitrogen .
+Contains no bacteriostatic preservative .
+For intravenous use only after reconstitution with oxidant - free Technetium Tc 99 m .
+Do not use if solution is cloudy .
+Store reconstituted vial at 20 - 25 ° C ( 68 - 77 ° F ) [ see USP ] .
+Use within 6 hours after labeling with Technetium Tc 99 m .
+Refer to Package Insert for recommended adult doses .
+( SEE ENCLOSED PACKAGE INSERT ) RX ONLY Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 PL - 000019 Rev 0 . 2 Mar 2020 [ MULTIMEDIA ] [ MULTIMEDIA ] Package / Label Display Panel - 30 Vial Box Kit for the preparation of Technetium Tc99m Pyrophosphate Injection STERILE , NON - PYROGENIC , DIAGNOSTIC , MULTIDOSE Rx only .
+Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 For Customer Service call : 1 - 800 - 221 - 7554 Sterile Diagnostic Multidose Non - Pyrogenic CONTENTS : 1 Package insert , 60 radiation labels and 30 reaction vials .
+Each 10 mL vial contains 12 . 0 mg sodium pyrophosphate , 2 . 8 mg minimum stannous tin as stannous chloride dihydrate and 4 . 9 mg maximum total tin as stannous chloride dihydrate .
+pH is adjusted to 5 . 3 – 5 . 7 with HCI prior to lyophilization .
+Sealed under nitrogen .
+Contains no bacteriostatic preservative .
+For intravenous use only after reconstitution with oxidant - free Technetium Tc 99 m or isotonic saline .
+Do not use if solution is cloudy .
+Store the kit as packaged AT 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] Store reconstituted vials at 20 - 25 ° C ( 68 - 77 ° F ) [ See USP ] .
+Use within 6 hours after reconstitution .
+Refer to Package Insert for recommended adult doses .
+IMPORTANT : Read enclosed Package Insert for full information on preparation , use and indications .
+Manufactured By : Sun Pharmaceutical Industries , Inc .
+Billerica , MA 01821 PL - 000021 Rev 0 . 3 Mar 2020 [ MULTIMEDIA ] [ MULTIMEDIA ]

@@ -1,0 +1,104 @@
+Description Loperamide hydrochloride is a white to slightly yellow powder and is freely soluble in methanol , isopropyl alcohol , chloroform and slightly soluble in water .
+Loperamide hydrochloride , 4 - ( p - chlorophenyl ) - 4 - hydroxy - N , N - dimethyl - α , α - diphenyl - 1 - piperidinebutyramide monohydrochloride , is a synthetic antidiarrheal for oral use .
+C29H33ClN2O2 • HCl M . W . 513 . 51 Loperamide hydrochloride is available in 2 mg capsules .
+Each capsule , for oral administration , contains 2 mg loperamide hydrochloride .
+Loperamide hydrochloride capsules USP also contain the inactive ingredients : dimethylpolysiloxane , gelatin , iron oxide black , iron oxide red , iron oxide yellow , lactose monohydrate , pregelatinized corn starch , magnesium stearate , shellac , and titanium dioxide .
+CLINICAL PHARMACOLOGY In vitro and animal studies show that loperamide hydrochloride acts by slowing intestinal motility and by affecting water and electrolyte movement through the bowel .
+Loperamide binds to the opiate receptor in the gut wall .
+Consequently , it inhibits the release of acetylcholine and prostaglandins , thereby reducing peristalsis , and increasing intestinal transit time .
+Loperamide increases the tone of the anal sphincter , thereby reducing incontinence and urgency .
+In man , loperamide hydrochloride prolongs the transit time of the intestinal contents .
+It reduces the daily fecal volume , increases the viscosity and bulk density , and diminishes the loss of fluid and electrolytes .
+Tolerance to the antidiarrheal effect has not been observed .
+Clinical studies have indicated that the apparent elimination half - life of loperamide hydrochloride in man is 10 . 8 hours with a range of 9 . 1 to 14 . 4 hours .
+Plasma levels of unchanged drug remain below 2 nanograms per mL after the intake of a 2 mg loperamide hydrochloride capsule .
+Plasma levels are highest approximately five hours after administration of the capsule and 2 . 5 hours after the liquid .
+The peak plasma levels of loperamide were similar for both formulations .
+Elimination of loperamide mainly occurs by oxidative N - demethylation .
+Cytochrome P450 ( CYP450 ) isozymes , CYP2C8 and CYP3A4 , are thought to play an important role in loperamide N - demethylation process since quercetin ( CYP2C8 inhibitor ) and ketoconazole ( CYP3A4 inhibitor ) significantly inhibited the N - demethylation process in vitro by 40 % and 90 % , respectively .
+In addition , CYP2B6 and CYP2D6 appear to play a minor role in loperamide N - demethylation .
+Excretion of the unchanged loperamide and its metabolites mainly occurs through the feces .
+In those patients in whom biochemical and hematological parameters were monitored during clinical trials , no trends toward abnormality during loperamide hydrochloride therapy were noted .
+Similarly , urinalyses , EKG and clinical ophthalmological examinations did not show trends toward abnormality .
+INDICATIONS & USAGE Loperamide hydrochloride capsules are indicated for the control and symptomatic relief of acute nonspecific diarrhea and of chronic diarrhea associated with inflammatory bowel disease .
+Loperamide hydrochloride capsules are also indicated for reducing the volume of discharge from ileostomies .
+CONTRAINDICATIONS Loperamide hydrochloride capsules are contraindicated in patients with a known hypersensitivity to loperamide hydrochloride or to any of the excipients .
+Loperamide hydrochloride is contraindicated in patients with abdominal pain in the absence of diarrhea .
+Loperamide hydrochloride is not recommended in infants below 24 months of age .
+Loperamide hydrochloride should not be used as the primary therapy : in patients with acute dysentery , which is characterized by blood in stools and high fever , in patients with acute ulcerative colitis , in patients with bacterial enterocolitis caused by invasive organisms including Salmonella , Shigella , and Campylobacter , in patients with pseudomembranous colitis associated with the use of broad - spectrum antibiotics WARNINGS Fluid and electrolyte depletion often occur in patients who have diarrhea .
+In such cases , administration of appropriate fluid and electrolytes is very important .
+The use of loperamide hydrochloride does not preclude the need for appropriate fluid and electrolyte therapy .
+In general , loperamide hydrochloride should not be used when inhibition of peristalsis is to be avoided due to the possible risk of significant sequelae including ileus , megacolon and toxic megacolon .
+Loperamide hydrochloride must be discontinued promptly when constipation , abdominal distention or ileus develop .
+Treatment of diarrhea with loperamide hydrochloride is only symptomatic .
+Whenever an underlying etiology can be determined , specific treatment should be given when appropriate ( or when indicated ) .
+Patients with AIDS treated with loperamide hydrochloride for diarrhea should have therapy stopped at the earliest signs of abdominal distention .
+There have been isolated reports of toxic megacolon in AIDS patients with infectious colitis from both viral and bacterial pathogens treated with loperamide hydrochloride .
+{ ref EDMS - PSDB - 2564186 , p . 12 } Loperamide hydrochloride should be used with special caution in young children because of the greater variability of response in this age group .
+Dehydration , particularly in younger children , may further influence the variability of response to loperamide hydrochloride .
+PRECAUTIONS General Extremely rare allergic reactions including anaphylaxis and anaphylactic shock have been reported .
+In acute diarrhea , if clinical improvement is not observed in 48 hours , the administration of loperamide hydrochloride should be discontinued and patients should be advised to consult their physician .
+Although no pharmacokinetic data are available in patients with hepatic impairment , loperamide hydrochloride should be used with caution in such patients because of reduced first pass metabolism .
+Patients with hepatic dysfunction should be monitored closely for signs of CNS toxicity .
+No pharmacokinetic data are available in patients with renal impairment .
+Since it has been reported that the majority of the drug is metabolized and metabolites or the unchanged drug is excreted mainly in the feces , dosage adjustments in patients with renal impairment are not required .
+No formal studies have been conducted to evaluate the pharmacokinetics of loperamide in elderly subjects .
+However , in two studies that enrolled elderly patients , there were no major differences in the drug disposition in elderly patients with diarrhea relative to young patients .
+Information for Patients Patients should be advised to check with their physician if their diarrhea does not improve in 48 hours or if they note blood in their stools , develop a fever or develop abdominal distention .
+Tiredness , dizziness , or drowsiness may occur in the setting of diarrheal syndromes treated with loperamide hydrochloride .
+Therefore , it is advisable to use caution when driving a car or operating machinery .
+( See ADVERSE REACTIONS . )
+Drug Interactions Nonclinical data have shown that loperamide is a P - glycoprotein substrate .
+Concomitant administration of loperamide ( 16 mg single dose ) with a 600 mg single dose of either quinidine or ritonavir , both of which are P - glycoprotein inhibitors , resulted in a 2 to 3 fold increase in loperamide plasma levels .
+Due to the potential for enhanced central effects when loperamide is coadministered with quinidine and with ritonavir , caution should be exercised when loperamide is administered at the recommended dosages ( 2 mg , up to 16 mg maximum daily dose ) with P - glycoprotein inhibitors .
+When a single 16 mg dose of loperamide is coadministered with a 600 mg single dose of saquinavir , loperamide decreased saquinavir exposure by 54 % , which may be of clinical relevance due to reduction of therapeutic efficacy of saquinavir .
+The effect of saquinavir on loperamide is of less clinical significance .
+Therefore , when loperamide is given with saquinavir , the therapeutic efficacy of saquinavir should be closely monitored .
+Carcinogenesis , Mutagenesis , Impairment of Fertility In an 18 month rat study with oral doses up to 40 mg / kg / day ( 21 times the maximum human dose of 16 mg / day , based on a body surface area comparison ) , there was no evidence of carcinogenesis .
+Loperamide was not genotoxic in the Ames test , the SOS chromotest in E . coli , the dominant lethal test in female mice , or the mouse embryo cell transformation assay .
+Fertility and reproductive performance was evaluated in rats using oral doses of 2 . 5 , 10 , and 40 mg / kg / day in one study , and 1 , 5 , 10 , 20 , and 40 mg / kg / day ( females only ) in a second study .
+Oral administration of 20 mg / kg / day ( approximately 11 times the human dose based on a body surface area comparison ) and higher produced strong impairment of female fertility .
+Treatment of female rats with up to 10 mg / kg / day p . o . ( approximately 5 times the human dose based on a body surface area comparison ) had no effect on fertility .
+Treatment of male rats with 40 mg / kg / day p . o . ( approximately 21 times the human dose based on a body surface area comparison ) produced impairment of male fertility , whereas administration of up to 10 mg / kg / day ( approximately 5 times the human dose based on a body surface area comparison ) had no effect .
+Pregnancy Teratogenic Effects Pregnancy category C Teratology studies have been performed in rats using oral doses of 2 . 5 , 10 , and 40 mg / kg / day , and in rabbits using oral doses of 5 , 20 , and 40 mg / kg / day .
+These studies have revealed no evidence of impaired fertility or harm to the fetus at doses up to 10 mg / kg / day in rats ( 5 times the human dose based on body surface area comparison ) and 40 mg / kg / day in rabbits ( 43 times the human dose based on body surface area comparison ) .
+Treatment of rats with 40 mg / kg / day p . o . ( 21 times the human dose based on a body surface area comparison ) produced marked impairment of fertility .
+The studies produced no evidence of teratogenic activity .
+There are no adequate and well - controlled studies in pregnant women .
+Loperamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Non - teratogenic Effects In a peri - and post - natal reproduction study in rats , oral administration of 40 mg / kg / day produced impairment of growth and survival of offspring .
+Nursing Mothers Small amounts of loperamide may appear in human breast milk .
+Therefore , loperamide hydrochloride is not recommended during breast - feeding .
+Pediatric Use See the WARNINGS section for information on the greater variability of response in this age group .
+In case of accidental overdosage of loperamide hydrochloride by pediatric patients , see OVERDOSAGE section for suggested treatment .
+ADVERSE REACTIONS Clinical Trial Data The adverse effects reported during clinical investigations of loperamide hydrochloride are difficult to distinguish from symptoms associated with the diarrheal syndrome .
+Adverse experiences recorded during clinical studies with loperamide hydrochloride were generally of a minor and self - limiting nature .
+They were more commonly observed during the treatment of chronic diarrhea .
+The adverse events with an incidence of 1 . 0 % or greater , which were more frequently reported in patients on placebo than on loperamide hydrochloride were : dry mouth , flatulence , abdominal cramp and colic .
+Please review the drug manufacturer ' s complete list of adverse effects at the fda site here : http : / / dailymed . nlm . nih . gov / dailymed / drugInfo . cfm ? setid = 8bf47ac3 - 746 f - 47c3 - 82b2 - 32ac979ff963 Postmarketing Experience The following adverse events have been reported : Skin and Subcutaneous Tissue Disorders Rash , pruritus , urticaria , angioedema , and extremely rare cases of bullous eruption including erythema multiforme , Stevens - Johnson syndrome and Toxic Epidermal Necrolysis have been reported with use of loperamide hydrochloride .
+Immune System Disorders Isolated occurrences of allergic reactions and in some cases severe hypersensitivity reactions including anaphylactic shock and anaphylactoid reactions have been reported with the use of loperamide hydrochloride .
+Gastrointestinal Disorders Dry mouth , abdominal pain , distention or discomfort , nausea , vomiting , flatulence , dyspepsia , constipation , paralytic ileus , megacolon , including toxic megacolon ( see CONTRAINDICATIONS and WARNINGS ) .
+Renal and Urinary Disorders Urinary retention .
+Nervous System Disorders Drowsiness , dizziness .
+General Disorders and Administrative Site Conditions Tiredness .
+A number of the adverse events reported during the clinical investigations and postmarketing experience with loperamide are frequent symptoms of the underlying diarrheal syndrome ( abdominal pain / discomfort , nausea , vomiting , dry mouth , tiredness , drowsiness , dizziness , constipation , and flatulence ) .
+These symptoms are often difficult to distinguish from undesirable drug effects .
+DRUG ABUSE AND DEPENDENCE Abuse A specific clinical study designed to assess the abuse potential of loperamide at high doses resulted in a finding of extremely low abuse potential .
+Dependence Studies in morphine - dependent monkeys demonstrated that loperamide hydrochloride at doses above those recommended for humans prevented signs of morphine withdrawal .
+However , in humans , the naloxone challenge pupil test , which when positive indicates opiate - like effects , performed after a single high dose , or after more than two years of therapeutic use of loperamide hydrochloride , was negative .
+Orally administered loperamide hydrochloride capsules ( loperamide formulated with magnesium stearate ) are both highly insoluble and penetrate the CNS poorly .
+OVERDOSAGE In cases of overdosage , ( including relative overdose due to hepatic dysfunction ) , urinary retention , paralytic ileus and CNS depression may occur .
+Children may be more sensitive to CNS effects than adults .
+Clinical trials have demonstrated that a slurry of activated charcoal administered promptly after ingestion of loperamide hydrochloride can reduce the amount of drug which is absorbed into the systemic circulation by as much as ninefold .
+If vomiting occurs spontaneously upon ingestion , a slurry of 100 grams of activated charcoal should be administered orally as soon as fluids can be retained .
+If vomiting has not occurred , gastric lavage should be performed followed by administration of 100 grams of the activated charcoal slurry through the gastric tube .
+In the event of overdosage , patients should be monitored for signs of CNS depression for at least 24 hours .
+If symptoms of overdose occur , naloxone can be given as an antidote .
+If responsive to naloxone , vital signs must be monitored carefully for recurrence of symptoms of drug overdose for at least 24 hours after the last dose of naloxone .
+In view of the prolonged action of loperamide and the short duration ( one to three hours ) of naloxone , the patient must be monitored closely and treated repeatedly with naloxone as indicated .
+Since relatively little drug is excreted in the urine , forced diuresis is not expected to be effective for loperamide hydrochloride overdosage .
+In clinical trials an adult who took three 20 mg doses within a 24 hour period was nauseated after the second dose and vomited after the third dose .
+In studies designed to examine the potential for side effects , intentional ingestion of up to 60 mg of loperamide hydrochloride in a single dose to healthy subjects resulted in no significant adverse effects .
+PACKAGE LABEL . PRINCIPAL DISPLAY PANEL NDC : 51655 - 547 - 30 MFG : 0093 - 0311 - 05 Loperamide Hydrochloride 2 MG 30 Capsules Rx Only Lot # Exp .
+Date : Medication guide is found at www . fda . gov / drugs / drugsafety / ucm085729 Dosage : See prescriber ' s instructions Each capsule contains 2 mg of loperamide hydrochloride , USP Store at 68 to 77 degrees F . Keep out of the reach of children .
+Mfg by Teva Pharmaceuticals , Sellersville , PA 18960 Lot # Repackaged by Northwind Pharmaceuticals , Indianapolis , IN 46256 [ MULTIMEDIA ] [ MULTIMEDIA ]

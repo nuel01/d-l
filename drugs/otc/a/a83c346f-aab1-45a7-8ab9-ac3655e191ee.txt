@@ -1,0 +1,212 @@
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Metronidazole Injection USP and other antibacterial drugs , Metronidazole Injection USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria .
+WARNING Metronidazole has been shown to be carcinogenic in mice and rats ( see PRECAUTIONS ) .
+Its use , therefore , should be reserved for the conditions described in the INDICATIONS AND USAGE section below .
+DESCRIPTION Metronidazole Injection USP is a sterile , parenteral dosage form of metronidazole in water .
+Each 100 mL of Metronidazole Injection USP contains a sterile , nonpyrogenic , isotonic , buffered solution of Metronidazole USP 500 mg , Sodium Chloride USP 740 mg , Dibasic Sodium Phosphate • 7H2O USP 112 mg , and Citric Acid Anhydrous USP 40 mg in Water for Injection USP .
+Metronidazole Injection USP has a calculated osmolarity of 297 mOsmol / liter and a pH of 5 . 8 ( 4 . 5 – 7 . 0 ) .
+Sodium content : 13 . 5 mEq / container .
+Metronidazole is classified as a nitroimidazole antimicrobial and is administered by the intravenous route .
+Metronidazole USP is chemically designated 2 - methyl - 5 - nitroimidazole - 1 - ethanol ( C6H9N3O3 ) : [ MULTIMEDIA ] Not made with natural rubber latex , PVC , or DEHP .
+The plastic container is polypropylene formulated and developed for parenteral drugs .
+The copolymer contains no plasticizers .
+The safety of the plastic container has been confirmed by biological evaluation procedures .
+The material passes Class VI testing as specified in the U . S . Pharmacopeia for Biological Tests – Plastic Containers .
+The container / solution unit is a closed system and is not dependent upon entry of external air during administration .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Metronidazole is a synthetic antibacterial compound .
+Disposition of metronidazole in the body is similar for both oral and intravenous dosage forms , with an average elimination half - life in healthy humans of eight hours .
+The major route of elimination of metronidazole and its metabolites is via the urine ( 60 to 80 % of the dose ) , with fecal excretion accounting for 6 to 15 % of the dose .
+The metabolites that appear in the urine result primarily from side - chain oxidation ( 1 - [ β - hydroxyethyl ] - 2 - hydroxymethyl - 5 - nitroimidazole and 2 - methyl - 5 - nitroimidazole - 1 - yl - acetic acid ) and glucuronide conjugation , with unchanged metronidazole accounting for approximately 20 % of the total .
+Renal clearance of metronidazole is approximately 10 mL / min / 1 . 73 m2 .
+Metronidazole is the major component appearing in the plasma , with lesser quantities of the 2 - hydroxymethyl metabolite also being present .
+Less than 20 % of the circulating metronidazole is bound to plasma proteins .
+Both the parent compound and the metabolite possess in vitro bactericidal activity against most strains of anaerobic bacteria .
+Metronidazole appears in cerebrospinal fluid , saliva , and human milk in concentrations similar to those found in plasma .
+Bactericidal concentrations of metronidazole have also been detected in pus from hepatic abscesses .
+Plasma concentrations of metronidazole are proportional to the administered dose .
+An eight - hour intravenous infusion of 100 to 4 , 000 mg of metronidazole in normal subjects showed a linear relationship between dose and peak plasma concentration .
+In patients treated with metronidazole injection using a dosage regimen of 15 mg / kg loading dose followed six hours later by 7 . 5 mg / kg every six hours , peak steady - state plasma concentrations of metronidazole averaged 25 mcg / mL with trough ( minimum ) concentrations averaging 18 mcg / mL .
+Decreased renal function does not alter the single - dose pharmacokinetics of metronidazole .
+However , plasma clearance of metronidazole is decreased in patients with decreased liver function .
+In one study newborn infants appeared to demonstrate diminished capacity to eliminate metronidazole .
+The elimination half - life , measured during the first three days of life , was inversely related to gestational age .
+In infants whose gestational ages were between 28 and 40 weeks , the corresponding elimination half - lives ranged from 109 to 22 . 5 hours .
+MICROBIOLOGY Mechanism of Action Metronidazole , a nitroimidazole , exerts antibacterial effects in an anaerobic environment against most obligate anaerobes .
+Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria , it is reduced ; this process includes intra - cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short - lived nitroso free radical .
+Because of this alteration of the metronidazole molecule , a concentration gradient is created and maintained which promotes the drug ’ s intracellular transport .
+The reduced form of metronidazole and free radicals may interact with DNA leading to inhibition of DNA synthesis , DNA degradation , and death of bacteria .
+The precise mechanism of action of metronidazole is unclear .
+Drug Resistance A potential for development of resistance exists against metronidazole .
+Resistance may be due to multiple mechanisms that include decreased uptake of the drug , altered reduction efficiency , overexpression of the efflux pumps , inactivation of the drug , and / or increased DNA damage repair .
+Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes .
+Antimicrobial Activity Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and clinical infections as described in the INDICATIONS AND USAGE section .
+Gram negative anaerobes : • Bacteroides fragilis group ( B . fragilis , B . distasonis , B . ovatus , B . thetaiotaomicron , B . vulgatus ) • Fusobacterium species Gram positive anaerobes : • Clostridium species • Eubacterium species • Peptococcus species • Peptostreptococcus species The following in vitro data are available , but their clinical significance is unknown : Metronidazole exhibits in vitro minimal inhibitory concentrations ( MIC ’ s ) of 8 mcg / mL or less against most ( ≥ 90 % ) isolates of the following bacteria ; however , the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well - controlled clinical trials .
+Gram negative anaerobes • Bacteroides fragilis group ( B . caccae , B . uniformis ) • Prevotella species ( P . bivia , P . buccae , P . disiens ) Susceptibility Testing : For specific information regarding susceptibility test interpretive criteria , and associated test methods and quality control standards recognized by FDA for this drug , please see : http : / / www . fda . gov / STIC .
+INDICATIONS AND USAGE To reduce the development of drug - resistant bacteria and maintain the effectiveness of Metronidazole Injection USP and other antibacterial drugs , Metronidazole Injection USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+TREATMENT OF ANAEROBIC INFECTIONS Metronidazole Injection USP is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria .
+Indicated surgical procedures should be performed in conjunction with Metronidazole Injection USP therapy .
+In a mixed aerobic and anaerobic infection , antibiotics appropriate for the treatment of the aerobic infection should be used in addition to Metronidazole Injection USP .
+Metronidazole Injection USP is effective in Bacteroides fragilis infections resistant to clindamycin , chloramphenicol , and penicillin .
+Intra - Abdominal Infections , including peritonitis , intra - abdominal abscess , and liver abscess , caused by Bacteroides species including the B . fragilis group ( B . fragilis , B . distasonis , B . ovatus , B . thetaiotaomicron , B . vulgatus ) , Clostridium species , Eubacterium species , Peptococcus species , and Peptostreptococcus species .
+Skin and Skin Structure Infections caused by Bacteroides species including the B . fragilis group , Clostridium species , Peptococcus species , Peptostreptococcus species , and Fusobacterium species .
+Gynecologic Infections , including endometritis , endomyometritis , tubo - ovarian abscess , and post - surgical vaginal cuff infection , caused by Bacteroides species including the B . fragilis group , Clostridium species , Peptococcus species , and Peptostreptococcus species .
+Bacterial Septicemia caused by Bacteroides species including the B . fragilis group and Clostridium species .
+Bone and Joint Infections , as adjunctive therapy , caused by Bacteroides species including the B . fragilis group .
+Central Nervous System ( CNS ) Infections , including meningitis and brain abscess , caused by Bacteroides species including the B . fragilis group .
+Lower Respiratory Tract Infections , including pneumonia , empyema , and lung abscess , caused by Bacteroides species including the B . fragilis group .
+Endocarditis caused by Bacteroides species including the B . fragilis group .
+PROPHYLAXIS The prophylactic administration of Metronidazole Injection USP preoperatively , intraoperatively , and postoperatively may reduce the incidence of postoperative infection in patients undergoing elective colorectal surgery which is classified as contaminated or potentially contaminated .
+Prophylactic use of Metronidazole Injection USP should be discontinued within 12 hours after surgery .
+If there are signs of infection , specimens for cultures should be obtained for the identification of the causative organism ( s ) so that appropriate therapy may be given ( see DOSAGE AND ADMINISTRATION ) .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of metronidazole and other antibacterial drugs , metronidazole should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antimicrobial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+CONTRAINDICATIONS Metronidazole Injection USP is contraindicated in patients with a prior history of hypersensitivity to metronidazole or other nitroimidazole derivatives .
+Psychotic Reaction with Disulfiram Use of oral metronidazole is associated with psychotic reactions in alcoholic patients who were using disulfiram concurrently .
+Do not administer metronidazole to patients who have taken disulfiram within the last two weeks ( see PRECAUTIONS - Drug Interactions ) .
+Interaction with Alcohol Use of oral metronidazole is associated with a disulfiram - like reaction to alcohol , including abdominal cramps , nausea , vomiting , headaches , and flushing .
+Discontinue consumption of alcohol or products containing propylene glycol during and for at least three days after therapy with metronidazole ( see PRECAUTIONS - Drug Interactions ) .
+Cockayne Syndrome Metronidazole Injection is contraindicated in patients with Cockayne syndrome .
+Severe irreversible hepatotoxicity / acute liver failure with fatal outcomes have been reported after initiation of metronidazole in patients with Cockayne syndrome ( see ADVERSE REACTIONS ) .
+WARNINGS CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS : Convulsive seizures , encephalopathy , aseptic meningitis , optic and peripheral neuropathy , the latter characterized mainly by numbness or paresthesia of an extremity , have been reported in patients treated with metronidazole products .
+Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole , patients should be observed carefully .
+The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit / risk ratio of the continuation of therapy .
+PRECAUTIONS GENERAL Patients with severe hepatic disease metabolize metronidazole slowly , with resultant accumulation of metronidazole and its metabolites in the plasma .
+Accordingly , for such patients , doses below those usually recommended should be administered cautiously .
+Administration of solutions containing sodium ions may result in sodium retention .
+Care should be taken when administering Metronidazole Injection USP to patients receiving corticosteroids or to patients predisposed to edema .
+Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection USP and requires treatment with a candicidal agent .
+Prescribing Metronidazole Injection USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+INFORMATION FOR PATIENTS Patients should be counseled that antibacterial drugs including Metronidazole Injection USP should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When Metronidazole Injection USP is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection USP or other antibacterial drugs in the future .
+LABORATORY TESTS Metronidazole is a nitroimidazole , and Metronidazole Injection USP should be used with caution in patients with evidence of or history of blood dyscrasia .
+A mild leukopenia has been observed during its administration ; however , no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies .
+Total and differential leukocyte counts are recommended before and after therapy .
+DRUG INTERACTIONS Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants , resulting in a prolongation of prothrombin time .
+This possible drug interaction should be considered when Metronidazole Injection USP is prescribed for patients on this type of anticoagulant therapy .
+The simultaneous administration of drugs that induce microsomal liver enzymes , such as phenytoin or phenobarbital , may accelerate the elimination of metronidazole , resulting in reduced plasma levels ; impaired clearance of phenytoin has also been reported .
+The simultaneous administration of drugs that decrease microsomal liver enzyme activity , such as cimetidine , may prolong the half - life and decrease plasma clearance of metronidazole .
+Alcoholic beverages should not be consumed during metronidazole therapy because abdominal cramps , nausea , vomiting , headaches , and flushing may occur .
+Psychotic reactions have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently .
+Metronidazole should not be given to patients who have taken disulfiram within the last two weeks .
+QT prolongation has been reported , particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval .
+DRUG / LABORATORY TEST INTERACTIONS Metronidazole may interfere with certain types of determinations of serum chemistry values , such as aspartate aminotransferase ( AST , SGOT ) , alanine aminotransferase ( ALT , SGPT ) , lactate dehydrogenase ( LDH ) , triglycerides , and hexokinase glucose .
+Values of zero may be observed .
+All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation - reduction of nicotinamide adenine dinucleotide ( NAD + ⇆ NADH ) .
+Interference is due to the similarity in absorbance peaks of NADH ( 340 nm ) and metronidazole ( 322 nm ) at pH 7 .
+CARCINOGENESIS , MUTAGENESIS , IMPAIRMENT OF FERTILITY Tumorigenicity in Rodents : Metronidazole has shown evidence of carcinogenic activity in studies involving chronic , oral administration in mice and rats , but similar studies in the hamster gave negative results .
+Also , metronidazole has shown mutagenic activity in a number of in vitro assay systems , but studies in mammals ( in vivo ) failed to demonstrate a potential for genetic damage .
+PREGNANCY Teratogenic Effects .
+Metronidazole crosses the placental barrier and enters the fetal circulation rapidly .
+Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole .
+Metronidazole administered intraperitoneally to pregnant mice at approximately the human dose caused fetotoxicity ; administered orally to pregnant mice , no fetotoxicity was observed .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , and because metronidazole is a carcinogen in rodents , this drug should be used during pregnancy only if clearly needed ( see CONTRAINDICATIONS ) .
+NURSING MOTHERS Metronidazole is secreted in human milk in concentrations similar to those found in plasma .
+Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+PEDIATRIC USE Safety and effectiveness in children have not been established .
+ADVERSE REACTIONS The following are the most serious adverse reactions reported in patients treated with metronidazole and are also described elsewhere in the labeling : convulsive seizures , encephalopathy , aseptic meningitis , optic and peripheral neuropathy ( characterized mainly by numbness or paresthesia of an extremity ) ( see WARNINGS ) .
+The following adverse reactions associated with the use of metronidazole products were identified in clinical studies or postmarketing reports or published literature .
+Because some of these reactions were reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+GASTROINTESTINAL : Nausea , anorexia , vomiting , abdominal discomfort , diarrhea , an unpleasant metallic taste , epigastric distress , abdominal cramping , constipation and pancreatitis .
+MOUTH : A sharp metallic taste .
+Furry tongue , glossitis , and stomatitis have occurred ; these may be associated with a sudden overgrowth of Candida which may occur during therapy with metronidazole .
+HEMATOPOIETIC : Reversible neutropenia ( leukopenia ) ; thrombocytopenia , eosinophilia .
+HEPATOBILIARY DISORDERS : Hepatotoxicity and liver failure especially in patients with Cockayne syndrome ( see CONTRAINDICATIONS ) , jaundice .
+CARDIOVASCULAR : QT prolongation has been reported , particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval .
+Flattening of the T - wave may be seen in electrocardiographic tracings .
+SKIN AND SUBCUTANEOUS DISORDERS : Toxic epidermal necrolysis , Stevens - Johnson syndrome , Drug Reaction with Eosinophilia and Systemic Symptoms ( DRESS ) , erythematous rash , bullae , pruritus , swelling face , urticaria , and hyperhidrosis .
+CENTRAL NERVOUS SYSTEM : Encephalopathy , aseptic meningitis , convulsive seizures , optic neuropathy , peripheral neuropathy ( mainly numbness or paresthesia of an extremity ) , dizziness , vertigo , incoordination , ataxia , confusion , psychosis , dysarthria , irritability , depression , weakness , headache , and insomnia .
+LABORATORY INVESTIGATIONS : Hepatic enzymes increased .
+HYPERSENSITIVITY : Anaphylaxis , angioedema , hypotension , flushing , nasal congestion , and dryness of mouth ( or vagina or vulva ) .
+RENAL : Dysuria , cystitis , polyuria , incontinence , a sense of pelvic pressure , and darkened urine .
+HEPATIC : Cases of severe irreversible hepatotoxicity / acute liver failure , including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole , have been reported in patients with Cockayne Syndrome ( latency from drug start to signs of liver failure as short as 2 days ) ( see CONTRAINDICATIONS ) .
+LOCAL REACTIONS : Thrombophlebitis after intravenous infusion .
+This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters .
+OTHER : Fever , hiccup , proliferation of Candida in the vagina , dyspareunia , decrease of libido , proctitis , and fleeting joint pains sometimes resembling “ serum sickness ” .
+If patients receiving metronidazole drink alcoholic beverages , they may experience abdominal distress , nausea , vomiting , flushing , or headache .
+A modification of the taste of alcoholic beverages has also been reported .
+Patients with Crohn ’ s disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers .
+There have been some reports in the medical literature of breast and colon cancer in Crohn ’ s disease patients who have been treated with metronidazole at high doses for extended periods of time .
+A cause and effect relationship has not been established .
+Crohn ’ s disease is not an approved indication for Metronidazole Injection USP .
+Darkened Urine : Instances of darkened urine have also been reported , and this manifestation has been the subject of a special investigation .
+Although the pigment which is probably responsible for this phenomenon has not been positively identified , it is almost certainly a metabolite of metronidazole and seems to have no clinical significance .
+OVERDOSAGE The use of dosages of metronidazole higher than those recommended has been reported .
+These include the use of 27 mg / kg three times a day for 20 days , and the use of 75 mg / kg as a single loading dose followed by 7 . 5 mg / kg maintenance doses .
+No adverse reactions were reported in either of the two cases .
+Single oral doses of metronidazole , up to 15 g , have been reported in suicide attempts and accidental overdoses .
+Symptoms reported include nausea , vomiting , and ataxia .
+Oral metronidazole has been studied as a radiation sensitizer in the treatment of malignant tumors .
+Neurotoxic effects , including seizures and peripheral neuropathy , have been reported after 5 to 7 days of doses of 6 to 10 . 4 g every other day .
+TREATMENT There is no specific antidote for overdose ; therefore , management of the patient should consist of symptomatic and supportive therapy .
+DOSAGE AND ADMINISTRATION In elderly patients the pharmacokinetics of metronidazole may be altered and therefore monitoring of serum levels may be necessary to adjust the metronidazole dosage accordingly .
+TREATMENT OF ANAEROBIC INFECTIONS The recommended dosage schedule for Adults is : Loading Dose 15 mg / kg infused over one hour ( approximately 1 g for a 70 - kg adult ) .
+Maintenance Dose 7 . 5 mg / kg infused over one hour every six hours ( approximately 500 mg for a 70 - kg adult ) .
+The first maintenance dose should be instituted six hours following the initiation of the loading dose .
+Patients with severe hepatic disease metabolize metronidazole slowly , with resultant accumulation of metronidazole and its metabolites in the plasma .
+Accordingly , for such patients , doses below those usually recommended should be administered cautiously .
+Close monitoring of plasma metronidazole levels and toxicity is recommended . 1 In patients receiving metronidazole injection in whom gastric secretions are continuously removed by nasogastric aspiration , sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels .
+The dose of Metronidazole Injection USP should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis .
+The usual duration of therapy is 7 to 10 days ; however , infections of the bone and joint , lower respiratory tract , and endocardium may require longer treatment .
+PROPHYLAXIS For surgical prophylactic use , to prevent postoperative infection in contaminated or potentially contaminated colorectal surgery , the recommended dosage schedule for adults is : a . 15 mg / kg infused over 30 to 60 minutes and completed approximately one hour before surgery , followed by : b . 7 . 5 mg / kg infused over 30 to 60 minutes at 6 and 12 hours after the initial dose .
+It is important that ( 1 ) administration of the initial preoperative dose be completed approximately one hour before surgery so that adequate drug levels are present in the serum and tissues at the time of initial incision , and ( 2 ) Metronidazole Injection USP be administered , if necessary , at 6 - hour intervals to maintain effective drug levels .
+Prophylactic use of Metronidazole Injection USP should be limited to the day of surgery only , following the above guidelines .
+Parenteral therapy may be changed to oral metronidazole when conditions warrant , based upon the severity of the disease and the response of the patient to treatment with Metronidazole Injection USP .
+The usual adult oral dosage is 7 . 5 mg / kg every six hours .
+A maximum of 4 g should not be exceeded during a 24 - hour period .
+Caution : Metronidazole Injection USP is to be administered by slow intravenous drip infusion only , either as a continuous or intermittent infusion .
+IV admixtures containing metronidazole and other drugs should be avoided .
+Additives should not be introduced into this solution .
+If used with a primary intravenous fluid system , the primary solution should be discontinued during metronidazole infusion .
+DO NOT USE EQUIPMENT CONTAINING ALUMINUM ( E . G . , NEEDLES , CANNULAE ) THAT WOULD COME IN CONTACT WITH THE DRUG SOLUTION .
+Metronidazole Injection USP is a ready - to - use isotonic solution .
+NO DILUTION OR BUFFERING IS REQUIRED .
+Do not refrigerate .
+Each container of Metronidazole Injection USP contains 13 . 5 mEq of sodium .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+Do not use if cloudy or precipitated or if the seals are not intact .
+Use sterile equipment .
+It is recommended that the intravenous administration apparatus be replaced at least once every 24 hours .
+HOW SUPPLIED Metronidazole Injection USP , sterile , is clear almost colorless solution and is supplied in 100 mL fill bags , each containing an isotonic , buffered solution of 500 mg metronidazole ; packaged 24 per case .
+Metronidazole injection is sterile premixed solution intended for single use only .
+Product Package NDC Metronidazole Injection USP 100 mL ( Single Dose Bag ) NDC 68083 - 373 - 01 100 mL ( 4 Bags per Carton ) NDC 68083 - 373 - 04 Exposure of pharmaceutical products to heat should be minimized .
+Avoid excessive heat .
+Protect from freezing .
+It is recommended that the product be stored at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) [ See USP Controlled Room Temperature ] ; however , brief exposure up to 40 ° C does not adversely affect the product .
+Protect from light until use .
+REFERENCES 1 .
+Ralph ED , Kirby WMM : Bioassay of Metronidazole With Either Anaerobic or Aerobic Incubation , J . Infect .
+Dis .
+132 : 587 - 591 ( Nov . ) 1975 , or Gulaid , et al . : Determination of Metronidazole and its Major Metabolites in Biological Fluids by High Pressure Liquid Chromatography , Br .
+J . Clin .
+Pharmacol .
+6 : 430 - 432 , 1978 .
+Directions for Use of Container CAUTION : ADDING ADDITIVES INTO THE CONTAINER IS PROHIBITED .
+DO NOT ADD SUPPLEMENTARY MEDICATIONS .
+For intravenous infusion only .
+Store the individual container in the storage carton until ready to use .
+Aseptic technique is required .
+Before use , perform the following checks : Read the label .
+Ensure solution is the one ordered and is within the expiration date .
+Inspect the solution in good light for cloudiness , haze or particulate matter ; check the container for leakage or damage .
+Any container which is suspect should not be used .
+Use only if solution is clear and container and seals are intact .
+Single dose plastic container .
+Discard unused portion .
+Consult Package Insert for complete product information .
+WARNING : DO NOT USE PLASTIC CONTAINER IN SERIES CONNECTION .
+Preparation for Administration 1 .
+Identify Twist - off Port ( See Figure A ) [ MULTIMEDIA ] 2 .
+Caution – Adding additives into the Metronidazole Injection USP solution bag is prohibited .
+If used with a primary intravenous fluid system , the primary solution should be discontinued during metronidazole infusion .
+Do not use equipment containing aluminum ( e . g . , needles , cannulae , etc . ) that may contact the drug solution .
+3 .
+To Attach Administration Set To aseptically remove the top portion of twist - off port : hold container below the twist - off port and twist between the thumb and forefinger as shown in Figure B . [ MULTIMEDIA ] 4 .
+Push spike through the diaphragm of the port ( See Figure C ) .
+Hang container using hole on the lower flap .
+Prime set in accordance with the Directions for Use .
+[ MULTIMEDIA ] Manufactured by Gland Pharma Limited Hyderabad , INDIA Revised : December 2021 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL . PRINCIPAL DISPLAY PANEL Carton Label : NDC 68083 - 373 - 04 Rx Only Metronidazole Injection , USP 500 mg / 100 mL ( 5 mg / mL ) For Intravenous Infusion Only [ MULTIMEDIA ] Pouch Label : NDC 68083 - 373 - 01 100 mL Metronidazole Injection , USP 500 mg / 100 mL ( 5 mg / mL ) For Intravenous Infusion Only Rx Only [ MULTIMEDIA ] Bag Label : NDC 68083 - 373 - 01 100 mL Metronidazole Injection , USP 500 mg / 100 mL ( 5 mg / mL ) For Intravenous Infusion Only Rx Only [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

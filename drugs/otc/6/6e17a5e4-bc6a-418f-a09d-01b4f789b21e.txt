@@ -1,0 +1,209 @@
+Introduction and Test Instructions Note : This “ Introduction and Test Instructions ” contains information for : Test Collection Kit Breath Test Instrument BreathTek ™ UBT for H . pylori 1 .
+UBiT ® - IR 300 Infrared Spectrophotometer 2 .
+POCone ™ Infrared Spectrophotometer I . Intended Use The BreathTek ™ UBT Collection Kit is intended for use in the qualitative detection of urease associated with Helicobacter pylori in the human stomach and as an aid in the initial diagnosis and post - treatment monitoring of Helicobacter pylori infection in adult patients .
+The test may be used for monitoring treatment if used at least four ( 4 ) weeks following completion of therapy .
+For these purposes , the system utilizes an Infrared Spectrophotometer for the measurement of the ratio of 13CO2 to 12CO2 in breath samples .
+For administration by health care professionals .
+To be administered under a physician ’ s supervision .
+II .
+Summary and Explanation Since the isolation of the spiral urease - producing Helicobacter pylori bacteria ( H . pylori ) in 1983 by Drs . Marshall and Warren1 , a significant body of evidence has accumulated indicating that the bacteria is an important pathogen in the upper GI tract of humans . 2 . 3 The causal relationship between H . pylori and chronic active gastritis , duodenal ulcer , and gastric ulcer is well documented . 4 . 5 Methods available for detecting current infection of the human stomach by H . pylori are generally divided into two ( 2 ) general types : Invasive and Non - invasive .
+Invasive methods are so named because they include , as a first step , an esophagogastroduodenoscopy ( “ EGD ” ) with collection of gastric biopsies .
+These biopsies are then examined by one or more detection methods : histological examination of stained tissue , microbiological culture of the organism , or direct detection of urease activity in the tissue ( for example , the CLOtest ® ) .
+Biopsy based methods are expensive , entail some patient risk and discomfort and may give false negative results due to sampling errors when colonization of the gastric mucosa is patchy . 6 The non - invasive , non - radioactive method for detecting current H . pylori infection is based on the BreathTek ™ UBT which is described in the next section .
+Several serological tests that detect serum antibodies to H . pylori are commercially available .
+A positive result with these tests cannot distinguish between current infection and past exposure to infection and , therefore , is not a conclusive indicator of current gastrointestinal colonization by H . pylori .
+III .
+Principle of the BreathTek ™ UBT for H . pylori • Description of the Pranactin ® - Citric Diagnostic Drug Component The diagnostic drug component of the kit is 13 C - urea , a synthetic urea contained in a granulated powder ( Pranactin ® - Citric ) for reconstitution with potable water to provide a clear solution for oral administration .
+The carbon in the drug component is predominantly Carbon - 13 , a stable , naturally occurring , non - radioactive isotope of carbon ; the relative abundance of Carbon - 13 is greater than or equal to 99 % .
+Each three ( 3 ) gram dose of Pranactin ® - Citric is supplied in a polyethylene - lined foil pouch and contains 75 mg of 13 C - urea , citric acid7 , aspartame and mannitol .
+13 C - urea is the diamide of 13 C - carbonic acid and is highly soluble in water ( 1 gram per mL at 25 ° C ) .
+It has the following chemical formula : 13CH4N2O .
+An average adult body normally contains about 9 grams of urea , which is a product of protein metabolism .
+Urea in the body is referred to as natural isotopic abundance urea since it is composed of 98 . 9 % 12 C - urea and 1 . 1 % 13 C - urea .
+• Principle of the Test Pranactin ® - Citric drug product is a component of the BreathTek ™ UBT for H . pylori kit .
+Three ( 3 ) g of reconstituted Pranactin ® - Citric containing 75 mg of 13 C - urea is ingested by the patient .
+In the presence of urease associated with gastric H . pylori , 13 C - urea is decomposed to 13CO2 and NH4 + according to the following equation : ( NH2 ) 213 CO + H2O + 2 H + HP Urease 13CO2 + 2NH4 + 13 C - urea → The 13CO2 , is absorbed in the blood , then exhaled in the breath .
+This results in an increase in the ratio of 13CO2 to 12CO2 in a POST - DOSE breath sample taken after the Pranactin ® - Citric solution was consumed , compared to a BASELINE sample taken before the Pranactin ® - Citric solution was consumed .
+Analysis of the breath samples is performed by UBiT ® - IR300 Infrared Spectrophotometer or POCone ™ Infrared Spectrophotometer [ located at your testing laboratory , physician office or hospital ] .
+The BreathTek ™ UBT can detect very low levels of H . pylori colonization and , by assessing the entire gastric mucosa , avoids the risk of sampling errors inherent in biopsy based methods .
+In the absence of gastric H . pylori , the 13 C - urea does not produce 13CO2 in the stomach .
+The ratio of 13CO2 in the POST - DOSE breath sample remains essentially the same as the BASELINE .
+IV .
+Warnings and Precautions • For in vitro diagnostic use only .
+The Pranactin ® - Citric drug solution is taken orally as part of the diagnostic procedure .
+• Phenylketonurics : Contains Phenylalanine ( one of the protein components of Aspartame ) , 84 mg per dosage unit .
+( For reference , 12 ounces of typical diet cola soft drinks contain approximately 80 mg of Phenylalanine . )
+• A negative result does not rule out the possibility of Helicobacter pylori infection .
+False negative results do occur with this procedure .
+If clinical signs are suggestive of H . pylori infection , retest with a new sample or an alternate method .
+• Antimicrobials , proton pump inhibitors , and bismuth preparations are known to suppress H . pylori .
+Ingestion of these within two ( 2 ) weeks prior to performing the BreathTek ™ UBT may give false negative results .
+• A false positive test may occur due to urease associated with other gastric spiral organisms observed in humans such as Helicobacter heilmannii .
+• Premature POST - DOSE breath collection time can lead to a false negative diagnosis for a patient with a marginally positive BreathTek ™ UBT result .
+• A false positive test could occur in patients who have achlorhydria . 8 • If particulate matter is visible in the reconstituted Pranactin ® - Citric solution after thorough mixing , the solution should not be used .
+V . Shelf Life and Storage The BreathTek ™ UBT Collection Kit should be stored at 15 ° - 30 ° C ( 59 ° - 86 ° F ) .
+Pranactin ® - Citric has an expiration date .
+Do not use beyond the expiration date stated on the label .
+VI .
+Patient Preparation • Remind the patient that Pranactin ® - Citric contains phenylalanine ( one of the protein components of Aspartame ) .
+Phenylketonurics restrict dietary phenylalanine .
+• The patient should have fasted at least one ( 1 ) hour before administering the BreathTek ™ UBT .
+• The patient should not have taken antimicrobials , proton pump inhibitors , or bismuth preparations within two ( 2 ) weeks prior to administering the BreathTek ™ UBT .
+VII .
+Procedure for Collecting Breath Samples Using BreathTek ™ UBT Kit , for Analysis by Infrared Spectrophotometer • A . Materials • Materials provided Each sealed single - patient BreathTek ™ UBT Collection Kit contains : • One ( 1 ) plastic kit tray containing • - One ( 1 ) “ How To ” guide • - Test instructions • - One ( 1 ) pouch of Pranactin ® - Citric powder ( 3 g ) • - A set of four ( 4 ) self - adhesive bar - code stickers .
+All bar - codes should bear the same number .
+• - Two ( 2 ) breath collection bags , one ( 1 ) blue bag for the BASELINE sample and one ( 1 ) pink bag for the POST - DOSE sample .
+• - One ( 1 ) sample transport bag • - One ( 1 ) plastic straw • - One ( 1 ) plastic drinking cup • Materials needed but not provided • A timer capable of timing an interval up to fifteen ( 15 ) minutes .
+• Scissors for opening the Pranactin ® - Citric pouch .
+Note : An Infrared Spectrophotometer ( UBiT ® - IR3000 or POCone ™ , Otsuka Pharmaceutical Co . , Ltd . ) is required for analysis of breath samples .
+• B . Step - By - Step Procedure • Time intervals listed in the following step - by - step procedure are critical .
+They are highlighted by the timer icon : • Verify that the patient has been prepared for the test as specified in Section VI .
+• Open the BreathTek ™ UBT Collection Kit , which should contain all the materials listed in Step VII .
+Slide out the kit tray .
+Label each breath collection bag to maintain patient identification using the bar - code labels provided , or according to your laboratory or office procedure .
+• Collect the BASELINE breath sample according to the following procedure : • Remove the blue breath collection bag from the kit tray .
+• Remove the pull - off cap from the mouthpiece of the breath collection bag .
+• Instruct the patient to : ( 1 ) breathe normally ; ( 2 ) take a deep breath then pause momentarily ; ( 3 ) exhale into the mouthpiece of the bag .
+• Replace the cap firmly until it clicks on the mouthpiece of the bag .
+• Prepare the Pranactin ® - Citric solution no more than sixty ( 60 ) minutes before administering it to the patient .
+Urea slowly decomposes in water .
+• Remove the Pranactin ® - Citric pouch from the kit tray .
+Tap the upright packet of Pranactin ® - Citric to settle the contents in the bottom half .
+• With clean scissors , cut off the top of the packet and carefully empty the contents into the drinking cup provided , making sure to transfer all of the contents by tapping on the bottom of the pouch .
+• Add potable water to the fill line indicated on the outside of the cup by a raised plastic ridge .
+• Replace the lid securely and swirl the mixture for up to two ( 2 ) minutes to dissolve the packet contents ; typically , only one ( 1 ) minute is required for complete dissolution .
+The resulting solution should be clear with no particulate matter .
+If particulate matter is present after thorough mixing , the solution should not be used .
+• Instruct the patient to drink all of the solution with the straw provided , without stopping .
+Advise the patient NOT to ‘ rinse ’ the inside of his / her mouth with the solution before swallowing .
+Discard the straw .
+• Set the timer for fifteen ( 15 ) minutes .
+The patient should sit quietly and should not eat , drink or smoke during the fifteen ( 15 ) minute interval .
+• After fifteen ( 15 ) minutes have elapsed , remove the pink breath collection bag from the kit tray .
+Collect the POST - DOSE breath sample according to the procedure described in Steps VII B . 3 .
+b through B . 3 .
+d . • Store the specimens at 15 ° - 30 ° C ( 59 ° - 86 ° F ) until analysis is performed .
+• Perform breath sample analysis within seven ( 7 ) days of breath sample collection .
+If desired , use the plastic sample transport bag for transport of the breath samples .
+VIII .
+Quality Control Complete operating information , including self - diagnostic instrument routines and user maintenance procedures , is provided in the Instruction Manuals for the UBiT ® - IR300 Spectrophotometer , the UBiT ® - AS10 Autosampler and the POCone ™ Spectrophotometer , respectively .
+Additionally , each office laboratory or test facility should follow its own internal procedures for quality control .
+IX .
+Test Results • The Test Method The ratio of 13CO2 to 12CO2 in breath samples is determined by Infrared Spectrophotometer , ( i . e . , UBiT ® - IR300 or POCone ™ ) .
+• Calculation of Results The result of the BreathTek ™ UBT is provided as the Delta Over Baseline .
+No calculations are required by the user .
+Delta Over Baseline is the difference between the ratio ( 13CO2 / 12CO2 ) in the POST - DOSE sample and the corresponding ratio in the BASELINE sample .
+• Determination of the Cutoff Point The cutoff point is the level of BreathTek ™ UBT result used to discriminate between H . pylori infected and uninfected individuals .
+For the BreathTek ™ UBT , the Delta Over Baseline cutoff point was determined to be 2 . 4 in a controlled study of twenty - six ( 26 ) infected , and twenty - three ( 23 ) uninfected adult volunteers .
+Test subjects were judged to be in acceptable health based on the results of a medical history and physical examination and demonstrated no uncontrolled clinically significant abnormality other than , for some , symptoms of peptic ulcer .
+The previous version of the Meretek urea breath test , the Meretek UBT ® was used as the reference standard .
+The cutoff point was calculated by determining the BreathTek ™ UBT result level at which negative and positive subjects were best distinguished by co - optimization of relative sensitivity and specificity .
+The 2 . 4 cutoff point for the BreathTek ™ UBT was verified in an independent study by retrospective analysis of Clinical Field Trial data collected on 145 H . pylori negative and 105 H . pylori positive test subjects , again using the original Meretek UBT ® as reference .
+Asymptomatic subjects and those with dyspepsia were included in the validation study .
+Figure 1 a depicts graphically the BreathTek ™ UBT Delta Over Baseline cutoff point which distinguishes H . pylori positive and negative subjects .
+For the Meretek UBT ® Breath Test , the Delta Over Baseline cutoff point was determined to be 2 . 4 in a controlled study of sixty - six ( 66 ) infected and fifty - three ( 53 ) uninfected asymptomatic , apparently healthy volunteers .
+Histological examination of biopsy tissue was used as the reference standard .
+The cutoff point was evaluated by determining the Meretek UBT ® Breath Test result level at which histologically negative and positive subjects were best distinguished .
+Figure 1 b graphically depicts the Meretek UBT ® Breath Test Delta Over Baseline cutoff point which distinguishes histologically positive and negative subjects .
+Note that in Figures 1 a and 1 b , the Delta Over Baseline scales are logarithmic .
+[ MULTIMEDIA ] • Interpretation of Results For the BreathTek ™ UBT , a result greater than or equal to 2 . 4 Delta Over Baseline is interpreted as diagnostically positive indicating the presence of urease associated with H . pylori .
+A BreathTek ™ UBT result less than 2 . 4 Delta Over Baseline is interpreted as diagnostically negative indicating the absence of urease associated with H . pylori .
+The 2 . 4 Delta Over Baseline cutoff point applies to both initial diagnosis and post - treatment monitoring of H . pylori infection .
+[ MULTIMEDIA ] X . Limitations of the Test • The BreathTek ™ UBT should not be used until four ( 4 ) weeks or more after the end of treatment for the eradication of H . pylori as earlier post - treatment assessment may give false negative results .
+• The performance characteristics for persons under the age of eighteen ( 18 ) have not been established for this test .
+• The specimen integrity of breath samples and reference gases stored in breath bags under ambient conditions has not been determined beyond seven ( 7 ) days .
+• A correlation between the number of H . pylori organisms in the stomach and the BreathTek ™ UBT result has not been established .
+• The predicate device ( Meretek UBT ® ) was standardized in asymptomatic healthy volunteers and subsequently validated in clinical trials limited to patients with documented duodenal ulcer disease .
+XI .
+Expected Values Delta Over Baseline values for the BreathTek ™ UBT were determined in a controlled clinical study of twenty - six ( 26 ) infected and twenty - three ( 23 ) uninfected adult volunteers .
+The Meretek UBT ® Breath Test was used as the reference method in the diagnosis of infection .
+The range of BreathTek ™ UBT Delta Over Baseline values for the uninfected group was determined to be 0 . 0 to 1 . 0 .
+A histogram for the distribution of Delta Over Baseline values from the uninfected subjects is shown in Figure 2 a .
+[ MULTIMEDIA ] Values for the Meretek UBT ® Breath Test were determined in a controlled clinical study of sixty - six ( 66 ) infected and fifty - three ( 53 ) uninfected asymptomatic , apparently healthy volunteers .
+Histological examination of biopsy tissue was used as the reference method in the determination of infection in this study .
+The range of Meretek UBT ® Delta Over Baseline values for the uninfected group was determined to be 0 . 0 to 2 . 2 .
+A histogram for the distribution of Delta Over Baseline values from the uninfected subjects is shown in Figure 2 b .
+[ MULTIMEDIA ] XII .
+Performance Characteristics • Performance Characteristics for the UBiT ® - IR300 Spectrophotometer .
+Refer to the Instruction Manual for the instrument .
+• Performance Characteristics for the POCone ™ Spectrophotometer .
+Refer to the Instruction Manual for the instrument .
+• Method Comparisons in Clinical Trials • Comparison of the BreathTek ™ UBT with the Meretek UBT ® • Experimental Design The method comparison data presented here were collected from a prospective , cross - over clinical field trial designed to validate the BreathTek ™ UBT test procedure and to examine the effect of pre - test fasting time on test performance .
+The study included two hundred fifty - two ( 252 ) adult test subjects from Houston and Galveston , Texas .
+Subjects were judged to be in acceptable health based on the results of a medical history and physical examination and demonstrated no uncontrolled clinically significant abnormality other than , for some , symptoms of dyspepsia .
+Test subjects were tested for H . pylori infection using the Meretek UBT ® Breath Test according to established procedure and with the BreathTek ™ UBT under differing conditions of pre - test fasting times .
+Otherwise , no special instructions were given to subjects beyond those listed in the step - by - step procedures for administration of the Meretek UBT ® and BreathTek ™ UBT ® .
+To minimize potential bias due to test order , the sequence of urea breath tests administered to each subject was randomized .
+All breath tests were administered to a given individual within fourteen ( 14 ) days of one another , most often and at a minimum , on successive days .
+• Results It was demonstrated in the field trial that the BreathTek ™ UBT may be administered at any time beyond one ( 1 ) hour after consuming solid and / or liquid food .
+Method comparison results are presented in a two - way contingency table on the following page ( Table 1 ) .
+Point estimates of Percent Agreement of the BreathTek ™ UBT with Meretek UBT ® positive and negative results are listed in the contingency table ( Table 1 ) .
+The comparative method for determining the true diagnosis was the predicate device ( Meretek UBT ® ) rather than endoscopic methods .
+The exact binomial distribution was used to calculate the lower and upper limits of the 95 % confidence intervals of the performance statistics .
+The confidence intervals are entered in parentheses following the point estimate of the statistic .
+Table 1 .
+Comparison of BreathTek ™ UBT ( ≥ 1 - hour fast ) with Meretek UBT ® BreathTek ™ UBT Results Meretek UBT ® Positive Negative Total Positive 105 1 106 Negative 1 145 146 Total 106 146 252 Percent Agreement with Meretek UBT ® positive subjects : 99 . 1 % [ 95 % CI : ( 94 . 9 , 1 . 00 . 0 ) ] Percent Agreement with Meretek UBT ® negative subjects : 99 . 3 % [ 95 % CI : ( 96 . 2 , 100 . 0 ) ] • Comparison of Gas Isotope Ratio Mass Spectrometry ( GIRMS ) and UBiT ® - IR300 Infrared Spectrophotometry Method A multi - center prospective clinical trial was conducted to compare the UBiT ® - IR300 method with the traditional GIRMS method .
+The study included a total of three hundred twenty ( 320 ) adult test subjects enrolled at four ( 4 ) physicans ’ office laboratory ( POL ) settings and at a clinical laboratory .
+The results of the clinical trial are provided in the Instructional Manual for the UBiT ® - IR300 Infrared Spectrophotometer ( refer to the Application Note , 13 C - Urea Breath Test using the UBiT ® - IR300 Infrared Spectrophotometry System ) .
+Table 2 shows the percent agreement of the UBiT ® - IR300 results as compared to the GIRMS method .
+Overall agreement was excellent at 99 . 06 percent .
+Table 2 .
+Agreement of UBiT ® - IR300 and GIRMS for 13 C urea breath test GIRMS Results UBiT ® - IR 300 Results Positive Negative Total Positive 115 1 116 Negative 2 202 204 Total 117 203 320 % Overall Agreement : 99 . 06 % [ 95 % CI : ( 97 . 35 , 99 . 74 ) ] % Positive Agreement : 98 . 29 % [ 95 % CI : ( 94 . 26 , 99 . 70 ) ] % Negative Agreement : 99 . 51 % [ 95 % CI : ( 97 . 49 , 99 . 97 ) ] • Comparison of UBiT ® - IR300 and POCone ™ Infrared Spectrophotometry Methods A multi - center , prospective study was conducted to compare the POCone ™ Infrared Spectrophotometer to the UBiT ® - IR300 Infrared Spectrophotometer for measuring 13CO2 enrichment in breath .
+The study included a total of two hundred twenty ( 220 ) adult test subjects enrolled at five ( 5 ) physicians ’ office laboratory ( POL ) and point of care ( POC ) settings .
+The results of the clinical trial are provided in the Instruction Manual for the POCone ™ Infrared Spectrophotometer ( refer to the Application Note , 13 C - Urea Breath Test using the POCone ™ Infrared Spectrophotometry System ) .
+Table 3 shows the percent agreement of the POCone ™ results with the UBiT ® - IR300 results .
+Overall agreement was 99 . 55 percent Table 3 .
+Agreement of POCone ™ and UBiT ® - IR300 for the 13 C urea breath test UBiT ® - IR 300 Results POCone ™ Results Positive Negative Total Positive 86 1 87 Negative 0 133 133 Total 86 134 220 % Overall Agreement : 99 . 55 % [ 95 % CI : ( 97 . 67 , 99 . 98 ) ] % Positive Agreement : 100 . 00 % [ 95 % CI : ( 95 . 90 , 100 . 00 ) ] % Negative Agreement : 99 . 25 % [ 95 % CI : ( 96 . 27 , 99 . 96 ) ] • Comparison of Meretek UBT ® with Endoscopic Methods • Experimental Design The method comparison data presented here were collected from two ( 2 ) independent double blind clinical field trials which involved treatment of H . pylori infection .
+The studies included four hundred ninety - nine ( 499 ) adult patients with duodenal ulcer disease at seventy - five ( 75 ) clinical sites in the United States .
+Patients were tested for H . pylori infection initially ( using histopathology , microbiological culture , CLOtest ® , and the Meretek UBT ® ) , and at various post - treatment intervals through out the study ( using histopathology , microbiological culture , and the Meretek UBT ® ) .
+In these clinical trials , patients were treated with various combinations of clarithromycin , omeprazole and placebo .
+Note , however , that there is no evidence that differing treatment regimens affect the performance of the Meretek UBT ® .
+• 1 ) Histopathology Biopsy specimens , fixed with 10 % buffered formalin were cut into 4 - mm sections , stained with Genta stain and examined by an experienced pathologist .
+• 2 ) Microbiologic culture Culture was performed using fresh blood - based media , both selective and non - selective , at 37 ° C in 12 % CO2 in air with 98 % humidity .
+H . pylori were identified by Gram stain , typical colony morphology , and biochemical properties ( production of oxidase , catalase and urease ) .
+• 3 ) CLOtest ® ( Delta West , Limited , Bently , West Australia ) A biopsy specimen was tested for urease activity with the CLOtest ® according to the instructions in its package insert .
+• 4 ) The Meretek UBT ® Breath Test for H . pylori The diagnostic Meretek UBT ® Breath Test was performed in accordance with procedures described in its package insert .
+• Results Method comparison results are presented in two - way contingency tables .
+In Tables 4 , 5 , and 6 , the Meretek UBT ® Breath Test results are compared with the CLOtest ® , histology , and with the combined endoscopic method results ( CLOtest ® , histology , and culture ) for the initial patient visit9 .
+In Table 7 , the Meretek UBT ® Breath Test results are compared with the combined endoscopic method results ( histology and culture ) for the post - treatment visits which occurred four ( 4 ) weeks or more after end of treatment .
+The exact binomial distribution was used to calculate the lower and upper limits of the 95 % confidence intervals of the performance statistics .
+The confidence intervals are entered in parentheses following the point estimate of the statistic .
+• Performance Characteristics For Initial Diagnosis Table 4 .
+Comparison with CLOtest ® for Initial Visit Meretek ™ UBT Results CLOtest ® Results Positive Negative Total Positive 397 31 428 Negative 1 16 17 Total 398 47 445 Relative Sensitivity : 92 . 8 % [ 95 % CI : ( 90 , 95 ) ] Relative Specificity : 94 . 1 % [ 95 % CI : ( 71 , l00 ) ] Table 5 .
+Comparison with Histology for Initial Visit Meretek ™ UBT Results Histology Positive Negative Total Positive 394 20 414 Negative 3 27 30 Total 397 47 444 Sensitivity : 95 . 2 % [ 95 % CI : ( 93 , 97 ) ] Relative Specificity : 90 . 0 % [ 95 % CI : ( 74 , 98 ) ] Table 6 .
+Comparison with Combined Endoscopic Methods for Initial Visit Combined endoscopic methods used were CLOtest ® , histology , and culture per DAIDP guidelines8 for pre - treatment diagnosis .
+Meretek ™ UBT Results Endoscopy Positive Negative Total Positive 395 20 414 Negative 3 26 29 Total 398 46 444 Sensitivity : 95 . 2 % [ 95 % CI : ( 93 , 97 ) ] Specificity : 89 . 7 % [ 95 % CI : ( 73 , 98 ) ] E . Performance Characteristics for Post - Treatment Monitoring Table 7 .
+Comparison with Combined Endoscopic Methods * for Post - Treatment Visits ( four weeks or more after End of Treatment ( EOT ) ) Meretek UBT ® Breath Test Results 1 Month EOT 3 Months EOT 6 Months EOT 1 - 6 Months ComBined Endoscopy Pos Neg Pos Neg Pos Neg Pos Neg Positive 187 6 123 8 91 5 401 19 Negative 5 97 4 87 2 80 11 264 Sensitivity ( 95 % CI ) 96 . 9 ( 93 , 99 ) 93 . 9 ( 88 , 97 ) 94 . 8 ( 88 , 98 ) 95 . 5 ( 93 , 97 ) Specificity ( 95 % CI ) 95 . 1 ( 89 , 98 ) 95 . 6 ( 89 , 99 ) 97 . 6 ( 92 , 100 ) 96 . 0 ( 93 , 98 ) * Combined endoscopic methods used were histology and culture per DAIDP guidelines8 for post - treatment monitoring .
+Please note that the post - treatment performance characteristics at 1 , 3 and 6 months after therapy are not statistically different .
+Therefore , the single best estimates of sensitivity and specificity are presented in the 1 - 6 Months Combined column .
+Negative Predictive Value ( NPV ) for Post - Treatment Monitoring Given the post - treatment sensitivity ( 95 . 5 % ) and specificity ( 96 . 0 % ) observed in these studies , and assuming a treatment efficacy of 90 % ( 10 % prevalence of residual H . pylori infection ) , the NPV of the Meretek UBT ® is greater than 99 % .
+When efficacy of treatment drops to 50 % , the NPV is still greater than 95 % .
+XIII .
+Bibliography • Marshall , B . J . , Warren , J . R . Unidentified curved bacilli on gastric epithelium in active chronic gastritis , Lancet , June 4 : 1273 - 1275 ; 1983 .
+• Northfield T . C . , Mendall M . , Goggin P . M . , ( Eds ) , Helicobacter pylori infection .
+Pathophysiology , Epidemiology and Management .
+Kluwer Academic Publisher ( 1993 ) .
+• Rathbone B . J . , Heatley R . V . , ( Eds ) Helicobacter pylori and Gastroduodenal Disease , Blackwell Scientific Publications , 2 nd edition ( 1992 ) .
+• Helicobacter pylori in Peptic Ulcer Diseases , Program and Abstracts .
+NIH Consensus Development Conference , February 7 - 9 , 1994 , Bethesda , MD .
+• NIH Consensus Development Panel , H . pylori in Peptic Ulcer Disease , JAMA , July 6 , 1994 - Vol .
+272 , No . 1 , 65 - 69 .
+• Reference 2 , page 113 .
+• Graham , D . Y . , Runke , D . , Anderson , S . , Malaty , H . M . , and Klein , P . D . Citric Acid as the Test Meal for the 13 C - Urea Breath Test .
+American Journal of Gastroenterology , 5 , 1214 - 1217 ; 1999 .
+• Borriello , S . P . , Reed , P . J . , Dolby , J . M . , Barclay , F . E . and Webster , A . D . B . Microbial and metabolic profile of achlorhydric stomach : comparison of pernicious anemia and hypogammaglobulinaemia .
+J . Chin .
+Pathol .
+38 , 946 - 953 ; 1985 .
+• FDA , Center for Drug Evaluation and Research , Division of Anti - Infective Drug Products , DAIDP Points to consider document - Helicobacter pylori - associated Peptic Ulcer Disease .
+Indication # 25 .
+( March 1995 Addendum to March 15 , 1995 Draft ) .
+XIV .
+Name and Place of Business The BreathTek ™ UBT for H . pylori Collection Kit is manufactured for Meretek Diagnostics Group of Otsuka America Pharmaceutical , Inc . , 2440 Research Boulevard , Rockville , MD 20850 .
+XV .
+Labeling Revision Information Revision : September 2008 Print Code : 0508 L - 0177 Part Number : 002215 AC Directions For Use : The PranactinR - Citric in this container is intended for use only as a componet of a BreathTekTM UBT for H . pylori .
+See package insert for instructions on how to prepare the solution and directions for use .
+Phenylketonurics : Contains Phenylalanine , 84 mg Per Pouch Part No . 002201 AA Print Code : 0508 L - 0155 US PATENT 4 , 830 , 010 NDC 59148 - 023 - 33 PranactinR - Citric Contains : 13 C - Urea , 75 mg For in vitro diagnostic use only .
+The PranactinR - Citric drug is taken orally as part of the BreathTekTM UBT for H . pylori .
+Store at 15 o - 30 oC ( 59 o - 86 oF ) Manufactured for Otsuka America Pharmaceutical , Inc .
+Rockville , MD 20850 002204 AA [ MULTIMEDIA ] [ MULTIMEDIA ]

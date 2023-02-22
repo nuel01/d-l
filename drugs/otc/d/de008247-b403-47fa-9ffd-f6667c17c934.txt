@@ -1,0 +1,168 @@
+DESCRIPTION Cefdinir capsules contain the active ingredient cefdinir , an extended - spectrum , semisynthetic cephalosporin , for oral administration .
+Chemically , cefdinir is [ 6 R - [ 6α , 7β ( Z ) ] ] - 7 - [ [ ( 2 - amino - 4 - thiazolyl ) ( hydroxyimino ) acetyl ] amino ] - 3 - ethenyl - 8 - oxo - 5 - thia - 1 - azabicyclo [ 4 . 2 . 0 ] oct - 2 - ene - 2 - carboxylic acid .
+Cefdinir is a white to slightly brownish - yellow solid .
+It is slightly soluble in dilute hydrochloric acid and sparingly soluble in 0 . 1 M pH 7 . 0 phosphate buffer .
+The empirical formula is C14H13N5O5S2 and the molecular weight is 395 . 42 .
+Cefdinir capsules contain 300 mg cefdinir and the following inactive ingredients : carboxymethylcellulose calcium , colloidal silicone dioxide , magnesium stearate , and polyoxyl 40 stearate .
+The capsule shells contain FD & C Blue # 2 ; gelatin , and titanium dioxide .
+CLINICAL PHARMACOLOGY PLEASE REVIEW THE MANUFACTURER ' S COMPLETE DATA HERE AS NOT ALL OF THE MANUFACTURER ' S INFORMATION IS LISTED BELOW : http : / / dailymed . nlm . nih . gov / dailymed / drugInfo . cfm ? setid = befe82b9 - e822 - 4917 - 9774 - b4cbd0c66a1e Pharmacokinetics and Drug Metabolism Absorption Oral Bioavailability Maximal plasma cefdinir concentrations occur 2 to 4 hours postdose following capsule or suspension administration .
+Plasma cefdinir concentrations increase with dose , but the increases are less than dose - proportional from 300 mg ( 7 mg / kg ) to 600 mg ( 14 mg / kg ) .
+Following administration of suspension to healthy adults , cefdinir bioavailability is 120 % relative to capsules .
+Estimated bioavailability of cefdinir capsules is 21 % following administration of a 300 mg capsule dose , and 16 % following administration of a 600 mg capsule dose .
+Estimated absolute bioavailability of cefdinir suspension is 25 % .
+Cefdinir oral suspension of 250 mg / 5 mL strength was shown to be bioequivalent to the 125 mg / 5 mL strength in healthy adults under fasting conditions .
+Effect of Food The Cmax and AUC of cefdinir from the capsules are reduced by 16 % and 10 % , respectively , when given with a high - fat meal .
+In adults given the 250 mg / 5 mL oral suspension with a high - fat meal , the Cmax and AUC of cefdinir are reduced by 44 % and 33 % , respectively .
+The magnitude of these reductions is not likely to be clinically significant because the safety and efficacy studies of oral suspension in pediatric patients were conducted without regard to food intake .
+Therefore , cefdinir may be taken without regard to food .
+Multiple Dosing Cefdinir does not accumulate in plasma following once - or twice - daily administration to subjects with normal renal function .
+Distribution The mean volume of distribution ( Vdarea ) of cefdinir in adult subjects is 0 . 35 L / kg ( ± 0 . 29 ) ; in pediatric subjects ( age 6 months to 12 years ) , cefdinir Vdarea is 0 . 67 L / kg ( ± 0 . 38 ) .
+Cefdinir is 60 % to 70 % bound to plasma proteins in both adult and pediatric subjects ; binding is independent of concentration .
+Skin Blister In adult subjects , median ( range ) maximal blister fluid cefdinir concentrations of 0 . 65 ( 0 . 33 to 1 . 1 ) and 1 . 1 ( 0 . 49 to 1 . 9 ) mcg / mL were observed 4 to 5 hours following administration of 300 and 600 mg doses , respectively .
+Mean ( ± SD ) blister Cmax and AUC ( 0 - ∞ ) values were 48 % ( ± 13 ) and 91 % ( ± 18 ) of corresponding plasma values .
+Tonsil Tissue In adult patients undergoing elective tonsillectomy , respective median tonsil tissue cefdinir concentrations 4 hours after administration of single 300 and 600 mg doses were 0 . 25 ( 0 . 22 to 0 . 46 ) and 0 . 36 ( 0 . 22 to 0 . 80 ) mcg / g .
+Mean tonsil tissue concentrations were 24 % ( ± 8 ) of corresponding plasma concentrations .
+Sinus Tissue In adult patients undergoing elective maxillary and ethmoid sinus surgery , respective median sinus tissue cefdinir concentrations 4 hours after administration of single 300 and 600 mg doses were < 0 . 12 ( < 0 . 12 to 0 . 46 ) and 0 . 21 ( < 0 . 12 to 2 . 0 ) mcg / g .
+Mean sinus tissue concentrations were 16 % ( ± 20 ) of corresponding plasma concentrations .
+Lung Tissue In adult patients undergoing diagnostic bronchoscopy , respective median bronchial mucosa cefdinir concentrations 4 hours after administration of single 300 and 600 mg doses were 0 . 78 ( < 0 . 06 to 1 . 33 ) and 1 . 14 ( < 0 . 06 to 1 . 92 ) mcg / mL , and were 31 % ( ± 18 ) of corresponding plasma concentrations .
+Respective median epithelial lining fluid concentrations were 0 . 29 ( < 0 . 3 to 4 . 73 ) and 0 . 49 ( < 0 . 3 to 0 . 59 ) mcg / mL , and were 35 % ( ± 83 ) of corresponding plasma concentrations .
+Middle Ear Fluid In 14 pediatric patients with acute bacterial otitis media , respective median middle ear fluid cefdinir concentrations 3 hours after administration of single 7 and 14 mg / kg doses were 0 . 21 ( < 0 . 09 to 0 . 94 ) and 0 . 72 ( 0 . 14 to 1 . 42 ) mcg / mL .
+Mean middle ear fluid concentrations were 15 % ( ± 15 ) of corresponding plasma concentrations .
+CSF Data on cefdinir penetration into human cerebrospinal fluid are not available .
+Metabolism and Excretion Cefdinir is not appreciably metabolized .
+Activity is primarily due to parent drug .
+Cefdinir is eliminated principally via renal excretion with a mean plasma elimination half - life ( t1 / 2 ) of 1 . 7 ( ± 0 . 6 ) hours .
+In healthy subjects with normal renal function , renal clearance is 2 . 0 ( ± 1 . 0 ) mL / min / kg , and apparent oral clearance is 11 . 6 ( ± 6 . 0 ) and 15 . 5 ( ± 5 . 4 ) mL / min / kg following doses of 300 and 600 mg , respectively .
+Mean percent of dose recovered unchanged in the urine following 300 and 600 mg doses is 18 . 4 % ( ± 6 . 4 ) and 11 . 6 % ( ± 4 . 6 ) , respectively .
+Cefdinir clearance is reduced in patients with renal dysfunction ( see Special Populations : Patients with Renal Insufficiency ) .
+Because renal excretion is the predominant pathway of elimination , dosage should be adjusted in patients with markedly compromised renal function or who are undergoing hemodialysis ( see DOSAGE AND ADMINISTRATION ) .
+Special Populations Patients with Renal Insufficiency Cefdinir pharmacokinetics were investigated in 21 adult subjects with varying degrees of renal function .
+Decreases in cefdinir elimination rate , apparent oral clearance ( CL / F ) , and renal clearance were approximately proportional to the reduction in creatinine clearance ( CLcr ) .
+As a result , plasma cefdinir concentrations were higher and persisted longer in subjects with renal impairment than in those without renal impairment .
+In subjects with CLcr between 30 and 60 mL / min , Cmax and t1 / 2 increased by approximately 2 - fold and AUC by approximately 3 - fold .
+In subjects with CLcr < 30 mL / min , Cmax increased by approximately 2 - fold , t1 / 2 by approximately 5 - fold , and AUC by approximately 6 - fold .
+Dosage adjustment is recommended in patients with markedly compromised renal function ( creatinine clearance < 30 mL / min ; see DOSAGE AND ADMINISTRATION ) .
+Hemodialysis Cefdinir pharmacokinetics were studied in 8 adult subjects undergoing hemodialysis .
+Dialysis ( 4 hours duration ) removed 63 % of cefdinir from the body and reduced apparent elimination t1 / 2 from 16 ( ± 3 . 5 ) to 3 . 2 ( ± 1 . 2 ) hours .
+Dosage adjustment is recommended in this patient population ( see DOSAGE AND ADMINISTRATION ) .
+Hepatic Disease Because cefdinir is predominantly renally eliminated and not appreciably metabolized , studies in patients with hepatic impairment were not conducted .
+It is not expected that dosage adjustment will be required in this population .
+Geriatric Patients The effect of age on cefdinir pharmacokinetics after a single 300 mg dose was evaluated in 32 subjects 19 to 91 years of age .
+Systemic exposure to cefdinir was substantially increased in older subjects ( N = 16 ) , Cmax by 44 % and AUC by 86 % .
+This increase was due to a reduction in cefdinir clearance .
+The apparent volume of distribution was also reduced , thus no appreciable alterations in apparent elimination t1 / 2 were observed ( elderly : 2 . 2 ± 0 . 6 hours vs young : 1 . 8 ± 0 . 4 hours ) .
+Since cefdinir clearance has been shown to be primarily related to changes in renal function rather than age , elderly patients do not require dosage adjustment unless they have markedly compromised renal function ( creatinine clearance < 30 mL / min , see Patients With Renal Insufficiency , above ) .
+Gender and Race The results of a meta - analysis of clinical pharmacokinetics ( N = 217 ) indicated no significant impact of either gender or race on cefdinir pharmacokinetics .
+Microbiology As with other cephalosporins , bactericidal activity of cefdinir results from inhibition of cell wall synthesis .
+Cefdinir is stable in the presence of some , but not all , β - lactamase enzymes .
+As a result , many organisms resistant to penicillins and some cephalosporins are susceptible to cefdinir .
+Cefdinir has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections as described in INDICATIONS AND USAGE .
+Aerobic Gram - Positive Microorganisms Staphylococcus aureus ( including β - lactamase producing strains ) NOTE : Cefdinir is inactive against methicillin - resistant staphylococci .
+Streptococcus pneumoniae ( penicillin - susceptible strains only ) Streptococcus pyogenes Aerobic Gram - Negative Microorganisms Haemophilusinfluenzae ( including β - lactamase producing strains ) Haemophilusparainfluenzae ( including β - lactamase producing strains ) Moraxella catarrhalis ( including β - lactamase producing strains ) The following in vitro data are available , but their clinical significance is unknown .
+Cefdinir exhibits in vitro minimum inhibitory concentrations ( MICs ) of 1 mcg / mL or less against ( ≥ 90 % ) strains of the following microorganisms ; however , the safety and effectiveness of cefdinir in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Aerobic Gram - Positive Microorganisms Staphylococcus epidermidis ( methicillin - susceptible strains only ) Streptococcus agalactiae Viridans group streptococci NOTE : Cefdinir is inactive against Enterococcus and methicillin - resistant Staphylococcus species .
+Aerobic Gram - Negative Microorganisms Citrobacter diversus Escherichia coli Klebsiella pneumoniae Proteus mirabilis NOTE : Cefdinir is inactive against Pseudomonas and Enterobacter species .
+INDICATIONS & USAGE To reduce the development of drug - resistant bacteria and maintain the effectiveness of cefdinir and other antibacterial drugs , cefdinir should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+Cefdinir capsules are indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the conditions listed below .
+Adults and Adolescents Community - Acquired Pneumonia caused by Haemophilusinfluenzae ( including β - lactamase producing strains ) , Haemophilusparainfluenzae ( including β - lactamase producing strains ) , Streptococcus pneumoniae ( penicillin - susceptible strains only ) , and Moraxella catarrhalis ( including β - lactamase producing strains ) ( see CLINICAL STUDIES ) .
+Acute Exacerbations of Chronic Bronchitis caused by Haemophilusinfluenzae ( including β - lactamase producing strains ) , Haemophilusparainfluenzae ( including β - lactamase producing strains ) , Streptococcus pneumoniae ( penicillin - susceptible strains only ) , and Moraxella catarrhalis ( including β - lactamase producing strains ) .
+Acute Maxillary Sinusitis caused by Haemophilusinfluenzae ( including β - lactamase producing strains ) , Streptococcus pneumoniae ( penicillin - susceptible strains only ) , and Moraxella catarrhalis ( including β - lactamase producing strains ) .
+NOTE : For information on use in pediatric patients , see Pediatric Use and DOSAGE AND ADMINISTRATION .
+Pharyngitis / Tonsillitis caused by Streptococcus pyogenes ( see CLINICAL STUDIES ) .
+NOTE : Cefdinir is effective in the eradication of S . pyogenes from the oropharynx .
+Cefdinir has not , however , been studied for the prevention of rheumatic fever following S . pyogenes pharyngitis / tonsillitis .
+Only intramuscular penicillin has been demonstrated to be effective for the prevention of rheumatic fever .
+Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus ( including β - lactamase producing strains ) and Streptococcus pyogenes .
+Pediatric Patients Acute Bacterial Otitis Media caused by Haemophilusinfluenzae ( including β - lactamase producing strains ) , Streptococcus pneumoniae ( penicillin - susceptible strains only ) , and Moraxella catarrhalis ( including β - lactamase producing strains ) .
+Pharyngitis / Tonsillitis caused by Streptococcus pyogenes ( see CLINICAL STUDIES ) .
+NOTE : Cefdinir is effective in the eradication of S . pyogenes from the oropharynx .
+Cefdinir has not , however , been studied for the prevention of rheumatic fever following S . pyogenes pharyngitis / tonsillitis .
+Only intramuscular penicillin has been demonstrated to be effective for the prevention of rheumatic fever .
+Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus ( including β - lactamase producing strains ) and Streptococcus pyogenes .
+CONTRAINDICATIONS Cefdinir is contraindicated in patients with known allergy to the cephalosporin class of antibiotics .
+WARNINGS To reduce the development of drug - resistant bacteria and maintain the effectiveness of cefdinir and other antibacterial drugs , cefdinir should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria .
+BEFORE THERAPY WITH CEFDINIR IS INSTITUTED , CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEFDINIR , OTHER CEPHALOSPORINS , PENICILLINS , OR OTHER DRUGS .
+IF CEFDINIR IS TO BE GIVEN TO PENICILLIN - SENSITIVE PATIENTS , CAUTION SHOULD BE EXERCISED BECAUSE CROSS - HYPERSENSITIVITY AMONG β - LACTAM ANTIBIOTICS HAS BEEN CLEARLY DOCUMENTED AND MAY OCCUR IN UP TO 10 % OF PATIENTS WITH A HISTORY OF PENICILLIN ALLERGY .
+IF AN ALLERGIC REACTION TO CEFDINIR OCCURS , THE DRUG SHOULD BE DISCONTINUED .
+SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES , INCLUDING OXYGEN , INTRAVENOUS FLUIDS , INTRAVENOUS ANTIHISTAMINES , CORTICOSTEROIDS , PRESSOR AMINES , AND AIRWAY MANAGEMENT , AS CLINICALLY INDICATED .
+Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including cefdinir , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+PRECAUTIONS General Prescribing cefdinir in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+As with other broad - spectrum antibiotics , prolonged treatment may result in the possible emergence and overgrowth of resistant organisms .
+Careful observation of the patient is essential .
+If superinfection occurs during therapy , appropriate alternative therapy should be administered .
+Cefdinir , as with other broad - spectrum antimicrobials ( antibiotics ) , should be prescribed with caution in individuals with a history of colitis .
+In patients with transient or persistent renal insufficiency ( creatinine clearance < 30 mL / min ) , the total daily dose of cefdinir should be reduced because high and prolonged plasma concentrations of cefdinir can result following recommended doses ( see DOSAGE AND ADMINISTRATION ) .
+Information for Patients Patients should be counseled that antibacterial drugs including cefdinir should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When cefdinir is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by cefdinir or other antibacterial drugs in the future .
+Antacids containing magnesium or aluminum interfere with the absorption of cefdinir .
+If this type of antacid is required during cefdinir therapy , cefdinir should be taken at least 2 hours before or after the antacid .
+Iron supplements , including multivitamins that contain iron , interfere with the absorption of cefdinir .
+If iron supplements are required during cefdinir therapy , cefdinir should be taken at least 2 hours before or after the supplement .
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible .
+Drug Interactions Antacids ( Aluminum - or Magnesium - Containing ) Concomitant administration of 300 mg cefdinir capsules with 30 mL Maalox ® TC suspension reduces the rate ( Cmax ) and extent ( AUC ) of absorption by approximately 40 % .
+Time to reach Cmax is also prolonged by 1 hour .
+There are no significant effects on cefdinir pharmacokinetics if the antacid is administered 2 hours before or 2 hours after cefdinir .
+If antacids are required during cefdinir therapy , cefdinir should be taken at least 2 hours before or after the antacid .
+Probenecid As with other β - lactam antibiotics , probenecid inhibits the renal excretion of cefdinir , resulting in an approximate doubling in AUC , a 54 % increase in peak cefdinir plasma levels , and a 50 % prolongation in the apparent elimination t1 / 2 .
+Iron Supplements and Foods Fortified With Iron Concomitant administration of cefdinir with a therapeutic iron supplement containing 60 mg of elemental iron ( as FeSO4 ) or vitamins supplemented with 10 mg of elemental iron reduced extent of absorption by 80 % and 31 % , respectively .
+If iron supplements are required during cefdinir therapy , cefdinir should be taken at least 2 hours before or after the supplement .
+The effect of foods highly fortified with elemental iron ( primarily iron - fortified breakfast cereals ) on cefdinir absorption has not been studied .
+There have been reports of reddish stools in patients receiving cefdinir .
+In many cases , patients were also receiving iron - containing products .
+The reddish color is due to the formation of a nonabsorbable complex between cefdinir or its breakdown products and iron in the gastrointestinal tract .
+Drug / Laboratory Test Interactions A false - positive reaction for ketones in the urine may occur with tests using nitroprusside , but not with those using nitroferricyanide .
+The administration of cefdinir may result in a false - positive reaction for glucose in urine using Clinitest ® , Benedict ’ s solution , or Fehling ’ s solution .
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions ( such as Clinistix ® or Tes - Tape ® ) be used .
+Cephalosporins are known to occasionally induce a positive direct Coombs ’ test .
+Carcinogenesis , Mutagenesis , Impairment of Fertility The carcinogenic potential of cefdinir has not been evaluated .
+No mutagenic effects were seen in the bacterial reverse mutation assay ( Ames ) or point mutation assay at the hypoxanthine - guanine phosphoribosyltransferase locus ( HGPRT ) in V79 Chinese hamster lung cells .
+No clastogenic effects were observed in vitro in the structural chromosome aberration assay in V79 Chinese hamster lung cells or in vivo in the micronucleus assay in mouse bone marrow .
+In rats , fertility and reproductive performance were not affected by cefdinir at oral doses up to 1000 mg / kg / day ( 70 times the human dose based on mg / kg / day , 11 times based on mg / m2 / day ) .
+Pregnancy Teratogenic Effects Pregnancy Category B Cefdinir was not teratogenic in rats at oral doses up to 1000 mg / kg / day ( 70 times the human dose based on mg / kg / day , 11 times based on mg / m2 / day ) or in rabbits at oral doses up to 10 mg / kg / day ( 0 . 7 times the human dose based on mg / kg / day , 0 . 23 times based on mg / m2 / day ) .
+Maternal toxicity ( decreased body weight gain ) was observed in rabbits at the maximum tolerated dose of 10 mg / kg / day without adverse effects on offspring .
+Decreased body weight occurred in rat fetuses at ≥ 100 mg / kg / day , and in rat offspring at ≥ 32 mg / kg / day .
+No effects were observed on maternal reproductive parameters or offspring survival , development , behavior , or reproductive function .
+There are , however , no adequate and well - controlled studies in pregnant women .
+Because animal reproduction studies are not always predictive of human response , this drug should be used during pregnancy only if clearly needed .
+Labor and Delivery Cefdinir has not been studied for use during labor and delivery .
+Nursing Mothers Following administration of single 600 mg doses , cefdinir was not detected in human breast milk .
+Pediatric Use Safety and efficacy in neonates and infants less than 6 months of age have not been established .
+Use of cefdinir for the treatment of acute maxillary sinusitis in pediatric patients ( age 6 months through 12 years ) is supported by evidence from adequate and well - controlled studies in adults and adolescents , the similar pathophysiology of acute sinusitis in adult and pediatric patients , and comparative pharmacokinetic data in the pediatric population .
+Geriatric Use Efficacy is comparable in geriatric patients and younger adults .
+While cefdinir has been well - tolerated in all age groups , in clinical trials geriatric patients experienced a lower rate of adverse events , including diarrhea , than younger adults .
+Dose adjustment in elderly patients is not necessary unless renal function is markedly compromised ( see DOSAGE AND ADMINISTRATION ) .
+Adverse Reactions Clinical Trials Cefdinir Capsules ( Adult and Adolescent Patients ) In clinical trials , 5093 adult and adolescent patients ( 3841 U . S . and 1252 non - U . S . ) were treated with the recommended dose of cefdinir capsules ( 600 mg / day ) .
+Most adverse events were mild and self - limiting .
+No deaths or permanent disabilities were attributed to cefdinir .
+One hundred forty - seven of 5093 ( 3 % ) patients discontinued medication due to adverse events thought by the investigators to be possibly , probably , or definitely associated with cefdinir therapy .
+The discontinuations were primarily for gastrointestinal disturbances , usually diarrhea or nausea .
+Nineteen of 5093 ( 0 . 4 % ) patients were discontinued due to rash thought related to cefdinir administration .
+In the U . S . , the following adverse events were thought by investigators to be possibly , probably , or definitely related to cefdinir capsules in multiple - dose clinical trials ( N = 3841 cefdinir - treated patients ) : PLEASE REVIEW THIS LIST AT THE DRUG MANUFACTURER ' S SITE : http : / / dailymed . nlm . nih . gov / dailymed / drugInfo . cfm ? setid = befe82b9 - e822 - 4917 - 9774 - b4cbd0c66a1e Postmarketing Experience The following adverse experiences and altered laboratory tests , regardless of their relationship to cefdinir , have been reported during extensive postmarketing experience , beginning with approval in Japan in 1991 : shock , anaphylaxis with rare cases of fatality , facial and laryngeal edema , feeling of suffocation , serum sickness - like reactions , conjunctivitis , stomatitis , Stevens - Johnson syndrome , toxic epidermal necrolysis , exfoliative dermatitis , erythema multiforme , erythema nodosum , acute hepatitis , cholestasis , fulminant hepatitis , hepatic failure , jaundice , increased amylase , acute enterocolitis , bloody diarrhea , hemorrhagic colitis , melena , pseudomembranous colitis , pancytopenia , granulocytopenia , leukopenia , thrombocytopenia , idiopathic thrombocytopenic purpura , hemolytic anemia , acute respiratory failure , asthmatic attack , drug - induced pneumonia , eosinophilic pneumonia , idiopathic interstitial pneumonia , fever , acute renal failure , nephropathy , bleeding tendency , coagulation disorder , disseminated intravascular coagulation , upper GI bleed , peptic ulcer , ileus , loss of consciousness , allergic vasculitis , possible cefdinir - diclofenac interaction , cardiac failure , chest pain , myocardial infarction , hypertension , involuntary movements , and rhabdomyolysis .
+Cephalosporin Class Adverse Events The following adverse events and altered laboratory tests have been reported for cephalosporin - class antibiotics in general : Allergic reactions , anaphylaxis , Stevens - Johnson syndrome , erythema multiforme , toxic epidermal necrolysis , renal dysfunction , toxic nephropathy , hepatic dysfunction including cholestasis , aplastic anemia , hemolytic anemia , hemorrhage , false - positive test for urinary glucose , neutropenia , pancytopenia , and agranulocytosis .
+Pseudomembranous colitis symptoms may begin during or after antibiotic treatment ( see WARNINGS ) .
+Several cephalosporins have been implicated in triggering seizures , particularly in patients with renal impairment when the dosage was not reduced ( see DOSAGE AND ADMINISTRATION and OVERDOSAGE ) .
+If seizures associated with drug therapy occur , the drug should be discontinued .
+Anticonvulsant therapy can be given if clinically indicated .
+OVERDOSAGE Information on cefdinir overdosage in humans is not available .
+In acute rodent toxicity studies , a single oral 5600 mg / kg dose produced no adverse effects .
+Toxic signs and symptoms following overdosage with other β - lactam antibiotics have included nausea , vomiting , epigastric distress , diarrhea , and convulsions .
+Hemodialysis removes cefdinir from the body .
+This may be useful in the event of a serious toxic reaction from overdosage , particularly if renal function is compromised .
+DOSAGE & ADMINISTRATION PLEASE REVIEW THE MANUFACTURER ' S RECOMMENDATIONS HERE : http : / / dailymed . nlm . nih . gov / dailymed / drugInfo . cfm ? setid = befe82b9 - e822 - 4917 - 9774 - b4cbd0c66a1e PRINCIPAL DISPLAY PANEL NDC : 51655 - 019 - 20 MFG : 67253 - 011 - 06 CEFDINIR 300 MG 20 CAPSULES RX ONLY Lot # : Exp .
+Date : Each capsule contains : cefdinir , USP 300 mg Dosage : See prescriber ' s instructions .
+Store at 68 - 77 degrees F . Store in a tight , light - resistant container .
+Keep out of the reach of children .
+Medication guide is found is www . fda . gov / drugs / drugsafety / ucm085729 Mfg . by Sandoz GmbH , Austria Mfg . for Dava Pharmaceuticals , Fort Lee , NJ 07024 Lot # Repackaged by Northwind Pharmaceuticals , Indianapolis , IN 46256 [ MULTIMEDIA ] [ MULTIMEDIA ]

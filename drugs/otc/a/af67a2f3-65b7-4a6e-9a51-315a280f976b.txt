@@ -1,0 +1,175 @@
+Diagnostic Radiopharmaceutical For intravenous use only Rx ONLY CONTAINS SODIUM HYDROSULFITE DESCRIPTION NeutroSpecTM [ Kit for the Preparation of Technetium ( 99 m Tc ) fanolesomab ] is a radiodiagnostic agent consisting of a murine IgM monoclonal antibody , formulated to be labeled with technetium Tc 99 m .
+Each NeutroSpecTM kit contains all the excipients needed to reconstitute and to radiolabel this imaging agent with sodium pertechnetate Tc 99 m Injection , USP .
+The murine monoclonal antibody fanolesomab is produced in suspension culture of hybridoma cells .
+NeutroSpecTM [ Technetium ( 99 m Tc ) fanolesomab ] is an in vivo diagnostic radiopharmaceutical that can be visualized by nuclear medicine instrumentation .
+Each NeutroSpecTM kit contains a single use vial of fanolesomab as a sterile , non - pyrogenic , lyophilized mixture of 0 . 25 mg fanolesomab ; 12 . 5 mg maltose monohydrate ; 0 . 522 mg sodium potassium tartrate tetrahydrate , USP ; 0 . 221 mg succinic acid ; 54 mcg stannous tartrate ( minimum stannous 7 mcg ; maximum total stannous and stannic tin 24 mcg ) ; 28 mcg glycine , USP ; and 9 . 3 mcg disodium edetate dihydrate , USP .
+The lyophilized powder contains no preservatives and has no US standard of potency .
+When sterile , pyrogen - free sodium pertechnetate Tc 99 m Injection , USP in isotonic saline ( no preservatives ) is added to the single use fanolesomab vial , a Tc 99 m complex of fanolesomab is formed with an approximate pH of 6 . 2 .
+Physical Characteristics of Technetium Tc 99 m Technetium 99 m decays by isomeric transition with a physical half - life of 6 . 02 hours .
+The photon that is useful for imaging studies is listed in Table 1 .
+Table 1 .
+Principal radiation emission data for technetium Tc 99 mRadiation Mean Percent per Disintegration Mean Energy ( keV ) Gamma - 2 89 . 07 140 . 5 External Radiation The specific gamma - ray constant for technetium Tc 99 m is 5 . 4 μC · kg - 1 · MBq - 1 · h - 1 ( 0 . 78 R / mCi · h ) at 1 cm .
+The first half - value thickness of lead for Tc 99 m is 0 . 017 cm .
+A range of values for the relative attenuation of the radiation emitted by this radionuclide that results from the interposition of various thicknesses of lead is shown in Table 2 .
+For example , the use of a 0 . 25 cm thickness of lead will decrease the external radiation exposure by a factor of 1 , 000 .
+Table 2 .
+Radiation attenuation by lead shieldingLead Shield Thickness ( cm ) Coefficient of Attenuation 0 . 017 0 . 5 0 . 08 0 . 1 0 . 16 0 . 01 0 . 25 0 . 001 0 . 33 0 . 0001 To correct for physical decay of this radionuclide , the fractions that remain at selected time intervals after the time of calibration are shown in Table 3 .
+Table 3 .
+Physical decay chart — technetium Tc 99 m half - life 6 . 02 hours * Calibration Time ( time of preparation ) Hours Fraction Remaining Hours Fraction Remaining 0 * 1 . 00 7 0 . 45 1 0 . 89 8 0 . 40 2 0 . 79 9 0 . 36 3 0 . 71 10 0 . 32 4 0 . 63 11 0 . 28 5 0 . 56 12 0 . 25 6 0 . 50 18 0 . 13 CLINICAL PHARMACOLOGY Pharmacodynamics Fanolesomab is directed against the carbohydrate moiety 3 - fucosyl - N - acetyllactosamine that defines the cluster of differentiation 15 ( CD15 ) antigen .
+NeutroSpecTM [ Technetium ( 99 m Tc ) fanolesomab ] radiolabels human white blood cells and myeloid precursors .
+The CD15 antigen is expressed on the surface of polymorphonuclear neutrophils ( PMNs ) , eosinophils and monocytes .
+Monocytes and eosinophils constitute approximately 5 % of circulating leukocytes ; therefore , most of the circulating blood cellular activity resides on PMNs .
+In blood cell fractions isolated from healthy volunteers who had received NeutroSpecTM , radioactivity was associated with PMNs ( 25 % ) or plasma ( 72 % ) when measured one hour after injection .
+The binding of fanolesomab to its antigenic sites on human PMNs has an apparent Kd = 1 . 6 × 10 - 11 M . Cross - reactivity studies indicate the presence of CD15 antigenic sites on many human tissues .
+Pharmacokinetics In a study of 10 healthy volunteers , following intravenous injection of NeutroSpecTM , blood concentrations of radioactivity decreased rapidly with an initial half - life of 0 . 3 hours and a second phase half - life of approximately eight hours .
+Whole - body scintigraphy at two hours post - injection indicated that the liver had the highest radioactivity uptake and retention ( 50 % of the injected dose ) , followed by the kidney , spleen and red marrow .
+Over the 26 – 33 hours after injection , 38 % of the injected dose of radioactivity was recovered in urine .
+CLINICAL STUDIES A multicenter , single - arm study evaluated 200 patients ( 5 to 86 years of age ) with equivocal signs and symptoms of appendicitis defined as absence of one or more of the following : periumbilical pain migrating to right lower quadrant ( RLQ ) , gradual onset of pain , increasing intensity of pain over time , pain aggravated by movement and coughing , McBurney ' s point tenderness , referred tenderness to RLQ with palpation in other quadrants , abdominal muscular spasm with RLQ tenderness , temperature > 1010 F , white blood cell count > 10 , 500 / mm3 .
+Readers blinded to clinical information ( except for age , gender and body habitus ) assessed the diagnosis of appendicitis by NeutroSpecTM imaging .
+The diagnosis by the blinded readers was compared with a final clinical diagnosis based upon a surgical pathology report ( in cases that proceeded to appendectomy ) or upon two weeks of follow - up ( in cases without surgical intervention ) .
+The study investigators had access to other diagnostic modalities ( e . g . , CT scan and ultrasound ) and were instructed not to rely on NeutroSpecTM imaging for their diagnosis of appendicitis .
+Appendicitis prevalence in this study was 30 % .
+The image evaluation was limited to the assessment of the planar images performed in specified projections at defined time points and single photon emission tomography was not used to assess performance in this study .
+The performance rates for the diagnosis of appendicitis by the blinded readers and by the clinical investigators are shown in Table 4 .
+Table 4 .
+Diagnostic performance of NeutroSpecTM Performance Rates ( n = 200 ) Evaluation Blinded Readers percentages ( 95 % CI ) Study Investigators percentages ( 95 % CI ) Sensitivity 75 ( 62 , 85 ) 91 ( 80 , 97 ) Specificity 93 ( 87 , 97 ) 86 ( 79 , 91 ) Accuracy 87 ( 82 , 92 ) 87 ( 81 , 91 ) Positive Predictive Value 82 ( 69 , 91 ) 74 ( 62 , 84 ) Negative Predictive Value 90 ( 84 , 94 ) 96 ( 90 , 99 ) In a supportive single - arm , two - center study of the detection of appendicitis in 56 patients of whom 50 % had a final diagnosis of appendicitis , the diagnostic performance of NeutroSpecTM was similar to the performance observed in the larger study .
+Other intra - abdominal conditions Among 30 study patients with other types of intra - abdominal infection ( surgical and non - surgical ) , 13 scintigrams were read as positive for appendicitis .
+INDICATIONS AND USAGE NeutroSpecTM [ Technetium ( 99 m Tc ) fanolesomab ] is indicated for scintigraphic imaging of patients with equivocal signs and symptoms of appendicitis who are five years of age or older .
+CONTRAINDICATIONS NeutroSpecTM should not be administered to patients who are hypersensitive to any murine proteins or other component of the product .
+WARNINGS Hypersensitivity Reactions Allergic reactions , including anaphylaxis , can occur in patients who receive murine antibodies such as fanolesomab .
+CenolateTM Ascorbic Acid , USP injection ( diluent ) contains sodium hydrosulfite , a sulfite that may cause allergic reactions , including anaphylaxis .
+Serious hypersensitivity reactions were not observed in the 523 patients who received NeutroSpecTM in the clinical studies .
+Emergency resuscitation personnel and equipment for the treatment of hypersensitivity reactions should be immediately available during administration of this agent .
+PRECAUTIONS Repeat Administration NeutroSpecTM has not been studied in repeat administration to patients .
+Murine monoclonal antibodies are frequently immunogenic .
+The development of human anti - mouse antibodies ( HAMA ) can alter the pharmacokinetics , biodistribution , safety , and imaging performance properties of the administered agent .
+Use in Patients with Neutropenia The biodistribution and the imaging performance of NeutroSpecTM in neutropenic patients have not been studied .
+NeutroSpecTM induces transient neutropenia and a downward shift in white blood cell counts .
+( See ADVERSE REACTIONS Laboratory Values ) .
+The safety and effectiveness of NeutroSpecTM in patients with neutropenia have not been established .
+General Use and Handling NeutroSpecTM [ Technetium ( 99 m Tc ) fanolesomab ] , like other radioactive medical products , must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel .
+Care should also be taken to minimize radiation exposure to the patient consistent with proper patient management .
+Radiopharmaceuticals should be used by or under the control of personnel who are qualified by specific training and experience in the safe use and handling of radionuclides , and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides .
+Information for patients Murine monoclonal antibodies such as fanolesomab are foreign proteins and their administration can induce hypersensitivity reactions .
+Patients should be informed that the use of this product could affect their future use of other murine based products , and should be advised to discuss prior use of murine antibody based products with their health care provider .
+To minimize the radiation - absorbed dose to the bladder , adequate hydration should be encouraged to permit frequent voiding during the first few hours after injection .
+To help protect themselves and others in their environment , patients should take the following precautions for 12 hours after injection .
+Whenever possible , a toilet should be used , rather than a urinal and the toilet should be flushed several times after each use .
+Spilled urine should be cleaned up completely .
+After each voiding or fecal elimination , patients should thoroughly wash their hands .
+If blood , urine or feces soil clothing , the clothing should be washed separately .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Studies have not been conducted to evaluate carcinogenic potential , mutagenic potential , or effects on fertility .
+Pregnancy Pregnancy Category C . Animal reproductive studies have not been conducted with NeutroSpecTM .
+It is also not known whether NeutroSpecTM can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity .
+NeutroSpecTM should not be used during pregnancy unless the potential benefit to the patient justifies the potential risk to the fetus .
+Nursing Mothers It is not known whether this drug is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when NeutroSpecTM is administered to a nursing woman .
+Whenever possible , infant formula should be substituted for breast milk until the radioactivity has cleared from the body of the nursing woman .
+Pediatric Use In clinical studies of NeutroSpecTM , 29 ( 5 % ) patients were 5 – 11 years old and 32 ( 6 % ) were 12 – 16 years old .
+No overall differences in safety or effectiveness were observed between these patients and patients in other age brackets , however , this number of patients is too few to exclude differences .
+Geriatric Use In clinical studies of NeutroSpecTM , 64 ( 12 % ) patients were 65 years or older .
+No overall differences in safety or effectiveness were observed between these patients and younger patients , but this number of patients is too few to exclude differences .
+ADVERSE REACTIONS The data described below reflect exposure to NeutroSpecTM in 523 patients and normal volunteers receiving a mean antibody dose of 121 mcg ( 33 – 250 mcg ) and a mean radioactive dose of 15 mCi ( 1 - 33 mCi ) .
+The median patient age was 35 years ( 5 - 91 years ) ; 53 % of patients were women and 61 % of patients were Caucasians .
+Two patients enrolled in studies of post surgical infection or abscess had serious adverse events associated with fatality ( hypotension and worsening of sepsis ) .
+Underlying medical conditions may have also contributed to the fatality and the relationship of the fatality to NeutroSpec ™ cannot be determined .
+Overall , 49 adverse events occurred in 37 ( 7 % ) of the 523 patients exposed to NeutroSpecTM .
+Four of these events were classified as severe ( hypotension , worsening of sepsis , chest pressure and decreased SaO2 , pain ) .
+The most frequently reported adverse events were flushing ( n = 10 , 2 % ) and dyspnea ( n = 5 , 1 % ) .
+Other less common adverse events ( < 1 % ) included syncope , dizziness , hypotension , chest pressure , paresthesia , nausea , injection site burning / erythema , pain , and headache .
+Because clinical trials are conducted under widely varying controlled conditions , adverse reaction rates observed in clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug , and may not reflect the rates observed in practice .
+The adverse reaction information from clinical trials does , however , provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates .
+Laboratory Test Values NeutroSpecTM induced transient decreases in neutrophil counts in a study of 10 healthy volunteers .
+Neutrophil counts began to decrease within 3 to 5 minutes post - injection and returned to pre - injection values within four hours .
+Downward shifts in neutrophil counts have been observed in 18 % of patients ( 28 / 151 ) .
+Three of 284 patients were observed to develop transient elevations of AST and ALT after NeutroSpecTM administration .
+Immunogenicity The incidence of antibody development in patients receiving NeutroSpecTM has not been adequately determined because the assay was not directly quantitative and its ability to detect low titers could not be assured .
+Human anti - mouse antibody ( HAMA ) response following a single NeutroSpecTM administration was evaluated in a total of 54 patients 3 - 16 weeks post injection .
+None of the patients had a positive HAMA response .
+In 30 healthy volunteers who were exposed to two administrations of fanolesomab separated by two weeks , fanolesomab induced HAMA response in five volunteers .
+Immunogenicity data are highly dependent on the sensitivity and specificity of the assay .
+Additionally , the observed incidence of antibody positivity in an assay may be influenced by several factors , including sample handling , timing of sample collection , concomitant medications , and underlying disease .
+For these reasons , comparison of the incidence of antibodies to NeutroSpecTM with the incidence of antibodies to other products may be misleading .
+OVERDOSAGE There is no experience with overdosage in clinical trials .
+DOSAGE AND ADMINISTRATION Adults To prepare NeutroSpecTM the reaction vial containing fanolesomab is reconstituted with sodium pertechnetate Tc 99 m Injection , USP solution prior to use .
+( See INSTRUCTIONS FOR PREPARATION ) .
+Fanolesomab is not intended for direct administration to the patient without reconstitution and labeling with sodium pertechnetate Tc 99 m Injection , USP .
+NeutroSpecTM [ Technetium ( 99 m Tc ) fanolesomab ] is intended for a single intravenous ( IV ) administration through an intravenous access that has been demonstrated to be patent , e . g . , butterfly , running IV line , or equivalent injection system to assure that no dose infiltration occurs .
+Following administration , flush the injection line with an appropriate volume of saline to assure administration of the total dose .
+For imaging , 75 to 125 mcg of fanolesomab is labeled with 10 to 20 mCi ( 370 to 740 MBq ) and administered as a single dose of NeutroSpecTM .
+Planar imaging should be performed using a large field of view camera fitted with a low - energy , parallel - hole , high - resolution collimator .
+The camera should be positioned so that the lower edge of the liver is at the upper end of the field of view at the midline of the patient .
+Dynamic image acquisition over the lower abdomen should begin at the time of injection and consist of 10 sequential four - minute images .
+Following dynamic image acquisition , the patient should ambulate for approximately 10 to 15 minutes and void .
+Static planar images should then be collected , including supine anterior , posterior , 10 – 25 degree RAO and LAO views of the lower abdomen , followed by a standing anterior image of the lower abdomen .
+After the camera has been positioned ( as described above ) , it is recommended that a total of one million counts be collected for the anterior supine image .
+All remaining images should be collected for the same duration of time required for the anterior supine image .
+Children ( Five years and older ) NeutroSpecTM is administered in a single dose of 0 . 21 mCi / kg to a maximum of 20 mCi .
+Recommended imaging times and procedures are the same as for adults .
+Dose adjustment has not been established in patients with renal insufficiency , in geriatric patients or in pediatric patients under five years of age .
+Image Interpretation The biodistribution of the NeutroSpecTM radiopharmaceutical is imaged in the blood pool , reticuloendothelial system ( liver , spleen , bone marrow ) , and urinary excretion organs ( kidneys and urinary tract ) .
+Imaging of the uterus has been noted , consistent with blood pool activity of NeutroSpecTM .
+In the 200 - patient clinical trial ( see CLINICAL STUDIES ) , based on the average of the three blinded reader interpretations , 75 % of the 59 true positive cases of appendicitis were identified ( range 66 - 81 % ) .
+Among those with a blinded diagnosis of appendicitis , 76 % displayed uptake of radiotracer activity in the appendix within 30 minutes following injection and 98 % did so by 60 minutes following injection .
+In the trial the acquisition of image collection was performed for a 90 minute period .
+The image finding of a persistent or intensifying uptake in the right lower quadrant ( appendix zone ) that is seen before the completion of the entire imaging sequence may be considered a positive study , and imaging may be terminated at this time .
+In the case of a negative image finding at 30 and 60 minutes , collection to 90 minutes is recommended prior to termination of the study .
+A diagnostic abnormality is characterized by the presence of an irregular , asymmetric uptake of radiotracer localized in the right lower quadrant of the abdomen .
+The abnormal localization of radiotracer remains constant or increases in intensity in follow up imaging .
+RADIATION DOSIMETRY Based on human data , the absorbed radiation dose to an average human adult ( 70 kg ) from an intravenous injection of NeutroSpecTM is listed in Table 5 .
+The values were calculated using the Standard Medical Internal Radiation Dosimetry ( MIRD ) method .
+The values are listed as rad / mCi and mGy / MBq and assume urinary bladder emptying at 4 . 8 hours .
+Radiation absorbed dose estimates for children are given in Table 6 .
+Table 5 .
+Absorbed radiation dose in adults ( NeutroSpecTM ) Dose calculations were performed using the standard MIRD method ( MIRD Pamphlet No . 1 rev . , Soc .
+Nucl .
+Med . , 1976 ) .
+Effective dose equivalent was calculated in accordance with ICRP 53 ( Ann .
+ICRP 18 , 1 - 4 , 1988 ) and gave a value of 0 . 018 mSv / MBq ( 0 . 068 rem / mCi ) .
+Target Organ rad / mCi mGy / MBq Spleen 0 . 23 0 . 062 Kidneys 0 . 19 0 . 051 Liver 0 . 18 0 . 048 Urinary Bladder Wall 0 . 12 0 . 032 Heart 0 . 061 0 . 017 Gallbladder 0 . 056 0 . 015 Upper Large Intestine Wall 0 . 051 0 . 014 Adrenal Glands 0 . 044 0 . 012 Lungs 0 . 043 0 . 012 Thyroid Gland 0 . 042 0 . 011 Red Marrow 0 . 038 0 . 010 Lower Large Intestine Wall 0 . 034 0 . 0091 Bone Surface 0 . 031 0 . 0083 Brain 0 . 0052 0 . 0014 Testes / Ovaries 0 . 0039 / 0 . 019 0 . 0010 / 0 . 0052 Total Body 0 . 019 0 . 0050 Table 6 .
+Estimated absorbed radiation dose for a five - year old childDose calculations were performed using the standard MIRD method based upon biodistribution studies conducted in adults .
+Effective dose equivalent was calculated in accordance with ICRP 53 and gave a value of 0 . 047 mSv / MBq ( 0 . 17 rem / mCi ) .
+Target Organ rad / mCi mGy / MBq Spleen 0 . 70 0 . 19 Kidneys 0 . 43 0 . 11 Liver 0 . 41 0 . 11 Urinary Bladder Wall 0 . 27 0 . 072 Upper Large Intestine Wall 0 . 21 0 . 056 Thyroid Gland 0 . 19 0 . 052 Lower Large Intestine Wall 0 . 16 0 . 042 Heart 0 . 15 0 . 041 Gallbladder 0 . 13 0 . 036 Red Marrow 0 . 11 0 . 030 Lungs 0 . 11 0 . 028 Adrenal Glands 0 . 095 0 . 026 Bone Surface 0 . 085 0 . 023 Testes / Ovaries 0 . 019 / 0 . 059 0 . 0052 / 0 . 016 Brain 0 . 0075 0 . 0020 Total Body 0 . 049 0 . 013 INSTRUCTIONS FOR THE PREPARATION OF NEUTROSPECTM USE ASEPTIC TECHNIQUE THROUGHOUT The user should wear waterproof gloves during the entire procedure and while withdrawing the patient dose from the NeutroSpecTM vial .
+Transfer Sodium Pertechnetate Tc 99 m Injection , USP with an adequately shielded , sterile syringe .
+Adequate shielding should be maintained at all times until the preparation is administered to the patient , disposed of in an approved manner , or allowed to decay to background levels .
+A shielded , sterile syringe should be used to withdraw and inject the labeled preparation .
+Before reconstituting a vial , it should be inspected for cracks and any indication that the integrity of the vacuum seal has been lost .
+The material should not be used if integrity of the vacuum seal has been lost .
+After reconstitution , examine the vial contents for particulates and discoloration prior to injection .
+The material should not be used if particulates or discoloration are observed .
+The dose should be injected via an indwelling catheter , butterfly , or equivalent injection system to assure that no dose infiltration occurs .
+Following administration , flush the injection line with an appropriate volume of saline to assure administration of the total dose .
+Labeling and Preparation of NeutroSpecTM • Required Materials , Not Supplied within the NeutroSpecTM kit : • Sodium Pertechnetate Tc - 99 m , USP , oxidant - free • ITLC - SG Strips , Heat Treated • Methyl Ethyl Ketone ( MEK ) • Developing Chambers - 50 mL disposable tubes • Pipettors and tips • Forceps • Gamma Counter • Dose Calibrator • Sodium Chloride for Injection , USP • Alcohol ( or Germicidal ) • Lead Shield • 1 mL Sterile Syringes • Water Bath stabilized at 37 ± 1 ° C • Remove a fanolesomab reaction vial from refrigerated storage ( 2 to 8 ° C ) and allow it to come to room temperature ( usually 5 to 10 minutes ) .
+NOTE : Keep Cenolate ampule refrigerated and protected from light until needed ( Step 5 ) .
+• Swab the rubber stopper of the fanolesomab reaction vial with an appropriate antiseptic and allow the stopper to dry .
+• Aseptically add 20 to 40 mCi ( 740 to 1480 MBq ) Sodium Pertechnetate Tc 99 m Injection , USP in 0 . 20 to 0 . 35 mL generator eluate .
+Gently swirl ( Do not shake ) the vial until the lyophilized product is completely dissolved , ensuring the vial is not inverted .
+Cautionary Notes : • Use only eluate from a technetium Tc 99 m generator that was previously eluted within the last 24 hours .
+• Technetium 99 m eluate which is more than 8 hours old from the time of elution should NOT be used .
+• The amount of Sodium Pertechnetate Tc 99 m Injection , USP used to reconstitute the reaction vial should be determined based on the desired radioactive dose and the estimated time of use .
+• If Sodium Pertechnetate Tc 99 m Injection , USP must be diluted prior to kit reconstitution , only sterile sodium chloride for injection , USP , ( without preservatives ) should be used .
+• Incubate at 37º C for 30 minutes .
+( Shorter incubation times may result in inadequate labeling . )
+• Aseptically add sufficient CenolateTM [ Ascorbic Acid Injection , USP ( 500 mg / mL ) ] to make the final preparation volume up to 1 mL .
+Note : Further dilution is not recommended .
+• Assay the product in a suitable calibrator and record the time , date of preparation and the activity of NeutroSpecTM onto the string tag label and attach to lead dispensing shield ( “ pig ” ) .
+• Each patient should receive a dose of 10 - 20 mCi of NeutroSpecTM ( the final reconstituted product ) .
+• Discard vials , needles and syringes in accordance with local , state , and federal regulations governing radioactive and biohazardous waste .
+Recommended Method for Radiochemical Purity Testing • After addition of CenolateTM ( Ascorbic Acid Injection , USP ) aseptically withdraw approximately 10 μL of the final reconstituted product for Quality Control ( QC ) testing .
+Care should be taken not to introduce air into the vial .
+Use of a shielded 0 . 5 - 1 . 0 cc syringe with a 25 or 27 gauge needle is recommended .
+• Apply 1 - 5 μL ( a drop that has not completely formed on the tip of a 25 - 27 gauge needle ) of NeutroSpecTM 2 cm ( origin ) from the bottom of an ITLC - SG 1 . 5 x 10 cm strip and allow the solution to absorb into the strip ( approximately 5 seconds ) .
+• Immediately place the strip , origin side down , in a development chamber containing 4 mL methyl ethyl ketone ( MEK ) .
+• Allow the strip to develop until the solvent front is within 0 . 5 cm of the top of the strip ( 3 - 5 minutes ) .
+• Remove the strip using forceps and allow to dry .
+• Cut the strip at the 4 cm mark , place each piece in a separate counting tube and measure the radioactivity associated with each piece .
+• Calculate the % Free Technetium Tc 99 m Pertechnetate as follows : % Free Pertechnetate = Radioactivity in Solvent Front Piece x 100 % Total Radioactivity in Strip Note : The product should only be used if the percentage of Free Technetium Tc 99 m Pertechnetate is ≤ 10 % .
+HOW SUPPLIED NeutroSpecTM Kit for the Preparation of Technetium ( 99 m Tc ) fanolesomab The NeutroSpecTM kit contains five individual kits each containing : One 3 mL single use vial of fanolesomab as a sterile , non - pyrogenic , lyophilized mixture of 0 . 25 mg fanolesomab ; 12 . 5 mg maltose monohydrate ; 0 . 522 mg sodium potassium tartrate tetrahydrate , USP ; 0 . 221 mg succinic acid ; 54 mcg stannous tartrate ( minimum stannous 7 mcg ; maximum total stannous and stannic tin 24 mcg ) ; 28 mcg glycine , USP ; and 9 . 3 mcg disodium edetate dihydrate , USP .
+The lyophilized powder contains no preservatives and has no US standard of potency .
+One 2 mL ampule CenolateTM [ Ascorbic Acid Injection , USP ( 500 mg / mL ) ] One NeutroSpecTM Package Insert One String tag label for NeutroSpecTM vials ( reconstituted product ) STORAGE Refrigerate the lyophilized NeutroSpecTM kits at 2 to 8 ° C ( 36 to 46 ° F ) .
+After labeling with Sodium Pertechnetate Tc 99 m Injection , USP and addition of CenolateTM ( Ascorbic Acid injection , USP ) the vial should be kept at room temperature , 15 to 25 ° C ( 46 to 77 ° F ) and used within six hours .
+Use appropriate radiation shielding .
+This reagent kit is approved for distribution to persons licensed by the U . S . Nuclear Regulatory Commission to use byproduct material identified in 10 CFR 35 . 200 or under an equivalent license issued by an Agreement State .
+NeutroSpecTM is manufactured for Palatin Technologies , Inc . , Cranbury , NJ 08512 by Ben Venue Laboratories , Inc . , Bedford , OH 44146 U . S . Patent X , XXX , XXX US license number 1588 CenolateTM ( Ascorbic Acid Injection , USP ) is manufactured for Palatin Technologies , Inc . by Hospira , Chicago , IL 60064 Distributed by : Mallinckrodt Inc .
+St . Louis , MO 63134 Rx only Printed in USA NeutroSpecTM is a registered trademark of Palatin Technologies , Inc .
+Cenolate is a registered trademark of Hospira .

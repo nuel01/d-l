@@ -1,0 +1,654 @@
+Rx only DESCRIPTION EXUBERA ® consists of blisters containing human insulin inhalation powder , which are administered using the EXUBERA ® Inhaler .
+EXUBERA blisters contain human insulin produced by recombinant DNA technology utilizing a non - pathogenic laboratory strain of Escherichia coli ( K12 ) .
+Chemically , human insulin has the empirical formula C257H383N65O77S6 and a molecular weight of 5808 .
+Human insulin has the following primary amino acid sequence : [ MULTIMEDIA ] EXUBERA ( insulin human [ rDNA origin ] ) Inhalation Powder is a white to off - white powder in a unit dose blister ( fill mass , see Table 1 ) .
+Each unit dose blister of EXUBERA contains a 1 mg or 3 mg dose of insulin ( see Table 1 ) in a homogeneous powder formulation containing sodium citrate ( dihydrate ) , mannitol , glycine , and sodium hydroxide .
+After an EXUBERA blister is inserted into the inhaler , the patient pumps the handle of the inhaler and then presses a button , causing the blister to be pierced .
+The insulin inhalation powder is then dispersed into the chamber , allowing the patient to inhale the aerosolized powder .
+Under standardized in vitro test conditions , EXUBERA delivers a specific emitted dose of insulin from the mouthpiece of the inhaler ( see Table 1 ) .
+A fraction of the total particle mass is emitted as fine particles capable of reaching the deep lung .
+Up to 45 % of the 1 mg blister contents , and up to 25 % of the 3 mg blister contents , may be retained in the blister .
+Table 1 : Dose Nomenclature and InformationFill Mass ( mg powder ) Nominal Dose ( mg insulin ) Emitted Dose [ 1 ] , [ 2 ] ( mg insulin ) Fine Particle Dose [ 3 ] , null ( mg insulin ) 1 . 7 1 . 0 0 . 53 0 . 4 5 . 1 3 . 0 2 . 03 1 . 0 [ 1 ] Flow rate of 30 L / min for 2 . 5 seconds [ 2 ] Emitted dose and fine particle dose information are not intended to predict actual pharmacodynamic response .
+[ 3 ] Flow rate of 28 . 3 L / min for 3 seconds The actual amount of insulin delivered to the lung will depend on individual patient factors , such as inspiratory flow profile .
+In vitro , emitted aerosol metrics are unaffected at flow rates above 10 L / min .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action The primary activity of insulin is regulation of glucose metabolism .
+Insulin lowers blood glucose concentrations by stimulating peripheral glucose uptake by skeletal muscle and fat , and by inhibiting hepatic glucose production .
+Insulin inhibits lipolysis in the adipocyte , inhibits proteolysis , and enhances protein synthesis .
+Pharmacokinetics Absorption EXUBERA delivers insulin by oral inhalation .
+The insulin is absorbed as quickly as subcutaneously administered rapid - acting insulin analogs and more quickly than subcutaneously administered regular human insulin in healthy subjects and in patients with type 1 or type 2 diabetes ( see Figure 1 ) .
+Figure 1 : Mean Changes in Free Insulin Serum Concentrations ( µU / mL ) in Patients with Type 2 Diabetes Following Administration of Single Doses of Inhaled Insulin from EXUBERA ( 6 mg ) and Subcutaneous Regular Human Insulin ( 18 U ) [ MULTIMEDIA ] In clinical studies in patients with type 1 and type 2 diabetes , after inhalation of EXUBERA , serum insulin reached peak concentration more quickly than after subcutaneous injection of regular human insulin , 49 minutes ( range 30 to 90 minutes ) compared to 105 minutes ( range 60 to 240 minutes ) , respectively .
+In clinical studies , the absorption of subcutaneous regular human insulin declined with increasing patient body mass index ( BMI ) .
+However , the absorption of insulin following inhalation of EXUBERA was independent of BMI .
+In a study in healthy subjects , systemic insulin exposure ( AUC and Cmax ) following administration of EXUBERA increased with dose over a range of 1 to 6 mg when administered as combinations of 1 and 3 mg blisters .
+In a study where the dosage form of three 1 mg blisters was compared with one 3 mg blister , Cmax and AUC after administration of three 1 mg blisters were approximately 30 % and 40 % greater , respectively , than that after administration of one 3 mg blister ( see DOSAGE AND ADMINISTRATION ) .
+[ MULTIMEDIA ] Distribution and Elimination Because recombinant human insulin is identical to endogenous insulin , the systemic distribution and elimination are expected to be the same .
+However , this has not been confirmed for EXUBERA .
+Pharmacodynamics EXUBERA , like subcutaneously administered rapid - acting insulin analogs , has a more rapid onset of glucose - lowering activity than subcutaneously administered regular human insulin .
+In healthy volunteers , the duration of glucose - lowering activity for EXUBERA was comparable to subcutaneously administered regular human insulin and longer than subcutaneously administered rapid - acting insulin analogs ( see Figure 2 ) .
+Figure 2 .
+Mean Glucose Infusion Rate ( GIR ) Normalized to GIRmax for Each Subject Treatment Versus Time in Healthy Volunteers [ MULTIMEDIA ] * Determined as amount of glucose infused to maintain constant plasma glucose concentrations , normalized to maximum values ( percent of maximum values ) ; indicative of insulin activity .
+When EXUBERA is inhaled , the onset of glucose - lowering activity in healthy volunteers occurs within 10 – 20 minutes .
+The maximum effect on glucose lowering is exerted approximately 2 hours after inhalation .
+The duration of glucose - lowering activity is approximately 6 hours .
+In patients with type 1 or type 2 diabetes , EXUBERA has a greater glucose - lowering effect within the first two hours after dosing when compared with subcutaneously administered regular human insulin .
+The intra - subject variability of glucose - lowering activity of EXUBERA is generally comparable to that of subcutaneously administered regular human insulin in patients with type 1 and 2 diabetes .
+[ MULTIMEDIA ] Special Populations Pediatric Patients In children ( 6 – 11 years ) and adolescents ( 12 – 17 years ) with type 1 diabetes , time to peak insulin concentration for EXUBERA was achieved faster than for subcutaneous regular human insulin , which is consistent with observations in adult patients with type 1 diabetes .
+Geriatric Patients There are no apparent differences in the pharmacokinetic properties of EXUBERA when comparing patients over the age of 65 years and younger adult patients .
+Gender In subjects with and without diabetes , no apparent differences in the pharmacokinetic properties of EXUBERA were observed between men and women .
+Race A study was performed in 25 healthy Caucasian and Japanese non - diabetic subjects to compare the pharmacokinetic and pharmacodynamic properties of EXUBERA , versus subcutaneous injection of regular human insulin .
+The pharmacokinetic and pharmacodynamic properties of EXUBERA were comparable between the two populations .
+Obesity The absorption of EXUBERA is independent of patient BMI .
+Renal Impairment The effect of renal impairment on the pharmacokinetics of EXUBERA has not been studied .
+Careful glucose monitoring and dose adjustments of insulin may be necessary in patients with renal dysfunction ( see PRECAUTIONS , Renal Impairment ) .
+Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of EXUBERA has not been studied .
+Careful glucose monitoring and dose adjustments of insulin may be necessary in patients with hepatic dysfunction ( see PRECAUTIONS , Hepatic Impairment ) .
+Pregnancy The absorption of EXUBERA in pregnant patients with gestational and pre - gestational type 2 diabetes was consistent with that in non - pregnant patients with type 2 diabetes ( see PRECAUTIONS , Pregnancy ) .
+Smoking In smokers , the systemic insulin exposure for EXUBERA is expected to be 2 to 5 fold higher than in non - smokers .
+EXUBERA is contraindicated in patients who smoke or who have discontinued smoking less than 6 months prior to starting EXUBERA therapy .
+If a patient starts or resumes smoking , EXUBERA must be discontinued immediately due to the increased risk of hypoglycemia , and an alternative treatment must be utilized ( see CONTRAINDICATIONS ) .
+In clinical studies of EXUBERA in 123 patients ( 69 of whom were smokers ) , smokers experienced a more rapid onset of glucose - lowering action , greater maximum effect , and a greater total glucose - lowering effect ( particularly during the first 2 – 3 hours after dosing ) , compared to non - smokers .
+Passive Cigarette Smoke In contrast to the increase in insulin exposure following active smoking , when EXUBERA was administered to 30 healthy non - smoking volunteers following 2 hours of exposure to passive cigarette smoke in a controlled experimental setting , insulin AUC and Cmax were reduced by approximately 20 % and 30 % , respectively .
+The pharmacokinetics of EXUBERA have not been studied in nonsmokers who are chronically exposed to passive cigarette smoke .
+Patients with Underlying Lung Diseases The use of EXUBERA in patients with underlying lung disease , such as asthma or COPD , is not recommended because the safety and efficacy of EXUBERA in this population have not been established ( see WARNINGS ) .
+The use of EXUBERA is contraindicated in patients with unstable or poorly controlled lung disease , because of wide variations in lung function that could affect the absorption of EXUBERA and increase the risk of hypoglycemia or hyperglycemia ( see CONTRAINDICATIONS ) .
+In a pharmacokinetic study in 24 non - diabetic subjects with mild asthma , the absorption of insulin following administration of EXUBERA , in the absence of treatment with a bronchodilator , was approximately 20 % lower than the absorption seen in subjects without asthma .
+However , in a study in 24 non - diabetic subjects with Chronic Obstructive Pulmonary Disease ( COPD ) , the systemic exposure following administration of EXUBERA was approximately two - fold higher than that in normal subjects without COPD ( see PRECAUTIONS , Underlying Lung Disease ) .
+Administration of albuterol 30 minutes prior to administration of EXUBERA in non - diabetic subjects with both mild asthma ( n = 36 ) and moderate asthma ( n = 31 ) resulted in a mean increase in insulin AUC and Cmax of between 25 and 50 % compared to when EXUBERA was administered alone ( see PRECAUTIONS , Drug Interactions ) .
+CLINICAL STUDIES The safety and efficacy of EXUBERA has been studied in approximately 2500 adult patients with type 1 and type 2 diabetes .
+The primary efficacy parameter for most studies was glycemic control , as measured by the reduction from baseline in hemoglobin A1c ( HbA1c ) .
+Type 1 Diabetes A 24 - week , randomized , open - label , active - control study ( Study A ) was conducted in patients with type 1 diabetes to assess the safety and efficacy of EXUBERA administered pre - meal three times daily ( TID ) with a single nighttime injection of Humulin ® U Ultralente ® ( human insulin extended zinc suspension ) ( n = 136 ) .
+The comparator treatment was subcutaneous regular human insulin administered twice daily ( BID ) ( pre - breakfast and pre - dinner ) with BID injection of NPH human insulin ( human insulin isophane suspension ) ( n = 132 ) .
+In this study , the mean age was 38 . 2 years ( range : 20 – 64 ) and 52 % of the subjects were male .
+A second 24 - week , randomized , open - label , active - control study ( Study B ) was conducted in patients with type 1 diabetes to assess the safety and efficacy of EXUBERA ( n = 103 ) compared to subcutaneous regular human insulin ( n = 103 ) when administered TID prior to meals .
+In both treatment arms , NPH human insulin was administered BID ( in the morning and at bedtime ) as the basal insulin .
+In this study , the mean age was 38 . 4 years ( range : 19 – 65 ) and 54 % of the subjects were male .
+In each study , the reduction in HbA1c and the rates of hypoglycemia were comparable for the two treatment groups .
+EXUBERA - treated patients had a greater reduction in fasting plasma glucose than patients in the comparator group .
+The percentage of patients reaching an HbA1c level of < 8 % ( per American Diabetes Association treatment Action Level at the time of study conduct ) and an HbA1c level of < 7 % was comparable between the two treatment groups .
+The results for Studies A and B are shown in Table 2 .
+Table 2 : Results of Two 24 - Week , Active - Control , Open - Label Trials in Patients With Type 1 Diabetes ( Studies A and B ) Study A Study B EXUBERA ( TID ) + UL ( QD ) SC R ( BID ) + NPH ( BID ) EXUBERA ( TID ) + NPH ( BID ) SC R ( TID ) + NPH ( BID ) Sample Size 136 132 103 103 UL = Humulin ® U Ultralente ® ; SC R = subcutaneous regular human insulin HbA1c ( % ) Baseline mean 7 . 9 8 . 0 7 . 8 7 . 8 Adj . mean change from baseline - 0 . 2 - 0 . 4 - 0 . 3 - 0 . 2 EXUBERA minus SC R [ 1 ] 0 . 14 - 0 . 11 95 % CI for treatment difference ( - 0 . 03 , 0 . 32 ) ( - 0 . 30 , 0 . 08 ) Fasting Plasma Glucose ( mg / dL ) Baseline mean 191 198 178 191 Adj . mean change from baseline - 32 - 6 - 23 13 EXUBERA minus SC R - 27 - 35 95 % CI for treatment difference ( - 47 , - 6 ) ( - 58 , - 13 ) 2 - hr Post - Prandial Glucose Concentration ( mg / dL ) Baseline mean 283 305 273 293 Adj . mean change from baseline - 21 14 - 1 - 3 EXUBERA minus SC R - 35 2 95 % CI for treatment difference ( - 61 , - 8 ) ( - 29 , 32 ) Patients with end - of - study HbA1c < 8 % [ 2 ] 64 . 0 % 68 . 2 % 74 . 8 % 66 . 0 % Patients with end - of - study HbA1c < 7 % 16 . 9 % 19 . 7 % 28 . 2 % 30 . 1 % Body Weight Baseline mean ( kg ) 77 . 4 76 . 4 76 . 0 76 . 9 Adj . mean change from baseline ( kg ) 0 . 4 1 . 1 0 . 4 0 . 6 EXUBERA minus SC R - 0 . 72 - 0 . 24 95 % CI for treatment difference ( - 1 . 48 , 0 . 04 ) ( - 1 . 07 , 0 . 59 ) End of study daily insulin dose Short - acting insulin 13 . 4 mg [ 3 ] 18 . 3 IU 10 . 9 mg null 25 . 7 IU Long - acting insulin 26 . 4 IU 37 . 1 IU 31 . 5 IU 31 . 9 IU [ 1 ] A negative treatment difference favors EXUBERA [ 2 ] American Diabetes Association treatment Action Level at the time of study conduct [ 3 ] 1 mg inhaled insulin from Exubera is approximately equivalent to 3 IU of subcutaneously injected regular human insulin ( See DOSAGE AND ADMINISTRATION ) Type 2 Diabetes Monotherapy in Patients Not Optimally Controlled With Diet and Exercise Treatment A 12 - week , randomized , open - label , active - control study ( Study C ) was conducted in patients with type 2 diabetes not optimally controlled with diet and exercise , assessing the safety and efficacy of pre - meal TID EXUBERA ( n = 75 ) compared to an insulin - sensitizing agent .
+In this study , the mean age was 53 . 7 years ( range : 28 – 80 ) , 55 % of the subjects were male and the mean body mass index was 32 . 3 kg / m2 .
+At 12 weeks , HbA1c levels in patients treated with EXUBERA decreased 2 . 2 % ( SD = 1 . 0 ) from a baseline of 9 . 5 % ( SD = 1 . 1 ) .
+The proportion of patients treated with EXUBERA reaching an end - of - study HbA1c level of < 8 % increased to 82 . 7 % .
+The proportion of patients treated with EXUBERA reaching an end - of - study HbA1c level of < 7 % was 44 . 6 % .
+Fasting plasma glucose levels in patients treated with EXUBERA decreased 60 mg / dl from a baseline of 208 mg / dl .
+Patients treated with EXUBERA experienced a mean increase in body weight of 2 kg .
+The rate of hypoglycemia was higher in the Exubera group than the group receiving an insulin - sensitizing agent .
+Monotherapy and Add - On Therapy in Patients Previously Treated With Oral Agent Therapy A 12 - week , randomized , open - label , active - control study ( Study D ) was conducted in patients with type 2 diabetes who were currently receiving treatment , but were poorly controlled , with two oral agents ( OA ) .
+Baseline OAs included an insulin secretagogue , and either metformin or a thiazolidinedione .
+Patients were randomized to one of three arms : continuing OA therapy alone ( n = 96 ) , switching to pre - meal TID EXUBERA monotherapy ( n = 102 ) or adding pre - meal TID EXUBERA to continued OA therapy ( n = 100 ) .
+In this study , the mean age was 57 . 4 years ( range : 33 – 80 ) , 66 % of the subjects were male and the mean body mass index was 30 kg / m2 .
+EXUBERA monotherapy and EXUBERA in combination with OA therapy were superior to OA therapy alone in reducing HbA1c levels from baseline .
+The rates of hypoglycemia for the two EXUBERA treatment groups were slightly higher than in the OA therapy alone group .
+Compared to OA therapy alone , the percentage of patients reaching an HbA1c level of < 8 % ( per American Diabetes Association treatment Action Level at time of study conduct ) and an HbA1c level of < 7 % was greater for patients treated with EXUBERA monotherapy and EXUBERA in combination with OA therapy .
+Patients in both EXUBERA treatment groups had greater reductions in fasting plasma glucose than patients treated with OA therapy alone .
+The results for Study D are shown in Table 3 .
+Table 3 : Results of a 12 - Week , Active - Control , Open - Label Trial in Patients With Type 2 Diabetes Not Optimally Controlled With Dual Oral Agent Therapy ( Study D ) Study D EXUBERA monotherapy OAs [ 1 ] EXUBERA + OAs Sample Size 102 96 100 HbA1c ( % ) Baseline mean 9 . 3 9 . 3 9 . 2 Adj . mean change from baseline - 1 . 4 - 0 . 2 - 1 . 9 EXUBERA group minus OAs [ 2 ] - 1 . 18 null , [ 3 ] , [ 4 ] - 1 . 67 null , [ 5 ] , null 95 % CI for treatment difference ( - 1 . 41 , - 0 . 95 ) ( - 1 . 90 , - 1 . 44 ) Fasting Plasma Glucose ( mg / dL ) Baseline mean 203 203 195 Adj . mean change from baseline - 23 1 - 53 EXUBERA group minus OAs - 24 null - 53 null 95 % CI for treatment difference ( - 36 , - 11 ) ( - 66 , - 41 ) Patients with end - of - study HbA1c < 8 % [ 6 ] 55 . 9 % 18 . 8 % 86 . 0 % Patients with end - of - study HbA1c < 7 % 16 . 7 % 1 . 0 % 32 . 0 % Body Weight Baseline mean ( kg ) 89 . 5 88 . 0 88 . 6 Adj . mean change from baseline ( kg ) 2 . 8 0 . 0 2 . 7 EXUBERA group minus OAs 2 . 80 null 2 . 75 null 95 % CI for treatment difference ( 1 . 94 , 3 . 65 ) ( 1 . 89 , 3 . 61 ) [ 1 ] OAs = treatment with two oral agents ( an insulin secretagogue in addition to metformin or a thiazolidinedione ) [ 2 ] A negative treatment difference favors EXUBERA [ 3 ] Comparison of EXUBERA monotherapy to combination oral agent therapy alone [ 4 ] p < 0 . 0001 [ 5 ] Comparison of EXUBERA plus oral agents to combination oral agent therapy alone [ 6 ] American Diabetes Association treatment Action Level at the time of study conduct A 24 - week , randomized , open - label , active - control study ( Study E ) was conducted in patients with type 2 diabetes , currently receiving sulfonylurea therapy .
+This study was designed to assess the safety and efficacy of the addition of pre - meal EXUBERA to continued sulfonylurea therapy ( n = 214 ) compared to the addition of pre - meal metformin to continued sulfonylurea therapy ( n = 196 ) .
+Subjects were stratified according to their HbA1c at Week - 1 .
+Two strata were defined : a low HbA1c stratum ( HbA1c ≥ 8 % to ≤ 9 . 5 % ) and a high HbA1c stratum ( HbA1c > 9 . 5 to ≤ 12 % ) .
+EXUBERA in combination with sulfonylurea was superior to metformin and sulfonylurea in reducing HbA1c values from baseline in the high stratum group .
+EXUBERA in combination with sulfonylurea was comparable to metformin in combination with sulfonylurea in reducing HbA1c values from baseline in the low stratum group .
+The rate of hypoglycemia was higher after the addition of EXUBERA to sulfonylurea than after the addition of metformin to sulfonylurea .
+The percentage of patients reaching target HbA1c values of 8 % and 7 % was comparable between treatment groups in both strata , as was reduction in fasting plasma glucose ( see Table 4 ) .
+Another 24 - week , randomized , open - label , active - control study ( Study F ) was conducted in patients with type 2 diabetes , currently receiving metformin therapy .
+This study was designed to assess the safety and efficacy of the addition of pre - meal EXUBERA to continued metformin therapy ( n = 234 ) compared to the addition of pre - meal glibenclamide to continued metformin therapy ( n = 222 ) .
+Subjects in this study were also stratified to one of two strata as defined in Study E . EXUBERA in combination with metformin was superior to glibenclamide and metformin in reducing HbA1c values from baseline and achieving target HbA1c values in the high stratum group .
+EXUBERA in combination with metformin was comparable to glibenclamide in combination with metformin in reducing HbA1c values from baseline and achieving target HbA1c values in the low stratum group .
+The rate of hypoglycemia was slightly higher after the addition of EXUBERA to metformin than after the addition of glibenclamide to metformin .
+Reduction in fasting plasma glucose was comparable between treatment groups ( see Table 4 ) .
+Table 4 : Results of Two 24 - Week , Active - Control , Open - Label Trials in Patients With Type 2 Diabetes Previously On Oral Agent Therapy ( Studies E and F ) Study E Study F Exubera + SU [ 1 ] Met null + SU null Exubera + SU null Met null + SU null Exubera + Met null Gli null + Met null Exubera + Met null Gli null + Met null High stratum [ 2 ] Low stratum null High stratum null Low stratum null Sample Size 113 103 101 93 109 103 125 119 HbA1c ( % ) Baseline mean 10 . 5 10 . 6 8 . 8 8 . 8 10 . 4 10 . 6 8 . 6 8 . 7 Adj . mean change from baseline - 2 . 2 - 1 . 8 - 1 . 9 - 1 . 9 - 2 . 2 - 1 . 9 - 1 . 8 - 1 . 9 EXUBERA minus OA [ 3 ] - 0 . 38 null , [ 4 ] - 0 . 07 - 0 . 37 null , [ 5 ] 0 . 04 95 % CI for treatment difference ( - 0 . 63 , - 0 . 14 ) ( - 0 . 33 , 0 . 19 ) ( - 0 . 62 , - 0 . 12 ) ( - 0 . 19 , 0 . 27 ) Fasting Plasma Glucose ( mg / dL ) Baseline mean 241 237 197 198 223 243 187 196 Mean change from baseline - 46 - 47 - 48 - 52 - 42 - 40 - 46 - 49 EXUBERA minus OA 1 4 - 2 4 95 % CI for treatment difference ( - 11 , 12 ) ( - 8 , 16 ) ( - 14 , 10 ) ( - 7 , 15 ) Subjects with end - of - study HbA1c < 8 % [ 6 ] 48 . 7 % 44 . 7 % 81 . 2 % 73 . 1 % 72 . 5 % 56 . 3 % 80 . 8 % 86 . 6 % Subjects with end - of - study HbA1c < 7 % 20 . 4 % 14 . 6 % 30 . 7 % 32 . 3 % 33 . 9 % 17 . 5 % 40 . 0 % 42 . 9 % Body Weight Baseline mean ( kg ) 80 . 8 79 . 5 79 . 9 81 . 9 88 . 3 87 . 8 90 . 3 88 . 2 Adj . mean change from baseline ( kg ) 3 . 6 - 0 . 0 2 . 4 - 0 . 3 2 . 8 2 . 5 2 . 0 1 . 6 EXUBERA minus OA 3 . 60 2 . 67 0 . 26 0 . 38 95 % CI for treatment difference ( 2 . 81 , 4 . 39 ) ( 1 . 84 , 3 . 51 ) ( - 0 . 70 , 1 . 21 ) ( - 0 . 52 , 1 . 27 ) [ 1 ] SU = sulfonylurea , Met = metformin , Gli = glibenclamide [ 2 ] Low stratum = entry HbA1c ≥ 8 . 0 % to ≤ 9 . 5 % ; high stratum = entry HbA1c > 9 . 5 % to ≤ 12 % [ 3 ] A negative treatment difference favors EXUBERA [ 4 ] p = 0 . 002 [ 5 ] p = 0 . 004 [ 6 ] American Diabetes Association treatment Action Level at the time of study conduct Use in Patients Previously Treated With Subcutaneous Insulin A 24 - week , randomized , open - label , active - control study ( Study G ) was conducted in insulin - treated patients with type 2 diabetes to assess the safety and efficacy of EXUBERA administered pre - meal TID with a single nighttime injection of Humulin ® U Ultralente ® ( n = 146 ) compared to subcutaneous regular human insulin administered BID ( pre - breakfast and pre - dinner ) with BID injection of NPH human insulin ( n = 149 ) .
+In this study , the mean age was 57 . 5 years ( range : 23 – 80 ) , 66 % of the subjects were male and the mean body mass index was 30 . 3 kg / m2 .
+The reductions from baseline in HbA1c , percent of patients reaching an HbA1c level of < 8 % ( per American Diabetes Association treatment Action Level at time of study conduct ) and an HbA1c level of < 7 % , as well as the rates of hypoglycemia , were similar between treatment groups .
+EXUBERA - treated patients had a greater reduction in fasting plasma glucose than patients in the comparator group .
+The results for Study G are shown in Table 5 .
+Table 5 : Results of a 24 - Week , Active - Control , Open - Label Trial in Patients With Type 2 Diabetes Previously Treated With Subcutaneous Insulin ( Study G ) Study G EXUBERA ( TID ) + UL ( QD ) SC R ( BID ) + NPH ( BID ) Sample Size 146 149 UL = Humulin ® U Ultralente ® ; SC R = subcutaneous regular human insulin HbA1c ( % ) Baseline mean 8 . 1 8 . 2 Adj . mean change from baseline - 0 . 7 - 0 . 6 EXUBERA minus SC R [ 1 ] - 0 . 07 95 % CI for treatment difference ( - 0 . 31 , 0 . 17 ) Fasting Plasma Glucose ( mg / dL ) Baseline mean 152 159 Adj . mean change from baseline - 22 - 6 EXUBERA minus SC R - 16 . 36 95 % CI for treatment difference ( - 27 . 09 , - 5 . 36 ) Patients with end - of - study HbA1c < 8 % [ 2 ] 76 . 0 % 69 . 1 % Patients with end - of - study HbA1c < 7 % 45 . 2 % 32 . 2 % Body Weight Baseline mean ( kg ) 90 . 6 89 . 0 Adj . mean change from baseline ( kg ) 0 . 1 1 . 3 EXUBERA minus SC R - 1 . 28 95 % CI for treatment difference ( - 1 . 96 , - 0 . 60 ) End of study daily insulin dose Short - acting insulin 16 . 6 mg [ 3 ] 25 . 5 IU Long - acting insulin 37 . 9 IU 52 . 3 IU [ 1 ] A negative treatment difference favors EXUBERA [ 2 ] American Diabetes Association treatment Action Level at the time of study conduct [ 3 ] 1 mg inhaled insulin from Exubera is approximately equivalent to 3 IU of subcutaneously injected regular human insulin .
+See DOSAGE AND ADMINISTRATION INDICATIONS AND USAGE EXUBERA is indicated for the treatment of adult patients with diabetes mellitus for the control of hyperglycemia .
+EXUBERA has an onset of action similar to rapid - acting insulin analogs and has a duration of glucose - lowering activity comparable to subcutaneously administered regular human insulin .
+In patients with type 1 diabetes , EXUBERA should be used in regimens that include a longer - acting insulin .
+In patients with type 2 diabetes , EXUBERA can be used as monotherapy or in combination with oral agents or longer - acting insulins .
+CONTRAINDICATIONS EXUBERA is contraindicated in patients hypersensitive to EXUBERA or one of its excipients .
+EXUBERA is contraindicated in patients who smoke or who have discontinued smoking less than 6 months prior to starting EXUBERA therapy .
+If a patient starts or resumes smoking , EXUBERA must be discontinued immediately due to the increased risk of hypoglycemia , and an alternative treatment must be utilized ( see CLINICAL PHARMACOLOGY , Special Populations , Smoking ) .
+The safety and efficacy of EXUBERA in patients who smoke have not been established .
+EXUBERA is contraindicated in patients with unstable or poorly controlled lung disease , because of wide variations in lung function that could affect the absorption of EXUBERA and increase the risk of hypoglycemia or hyperglycemia .
+WARNINGS EXUBERA differs from regular human insulin by its rapid onset of action .
+When used as mealtime insulin , the dose of EXUBERA should be given within 10 minutes before a meal .
+Hypoglycemia is the most commonly reported adverse event of insulin therapy , including EXUBERA .
+The timing of hypoglycemia may differ among various insulin formulations .
+Patients with type 1 diabetes also require a longer - acting insulin to maintain adequate glucose control .
+Any change of insulin should be made cautiously and only under medical supervision .
+Changes in insulin strength , manufacturer , type ( e . g . , regular , NPH , analogs ) , or species ( animal , human ) may result in the need for a change in dosage .
+Concomitant oral antidiabetic treatment may need to be adjusted .
+Glucose monitoring is recommended for all patients with diabetes .
+Because of the effect of EXUBERA on pulmonary function , all patients should have pulmonary function assessed prior to initiating therapy with EXUBERA ( see PRECAUTIONS : Pulmonary Function ) .
+The use of EXUBERA in patients with underlying lung disease , such as asthma or COPD , is not recommended because the safety and efficacy of EXUBERA in this population have not been established ( see PRECAUTIONS : Underlying Lung Disease ) .
+In clinical trials of Exubera , there have been 6 newly diagnosed cases of primary lung malignancies among Exubera - treated patients , and 1 newly diagnosed case among comparator - treated patients .
+There has also been 1 postmarketing report of a primary lung malignancy in an Exubera - treated patient .
+In controlled clinical trials of Exubera , the incidence of new primary lung cancer per 100 patient - years of study drug exposure was 0 . 13 ( 5 cases over 3900 patient - years ) for Exubera - treated patients and 0 . 02 ( 1 case over 4100 patient - years ) for comparator - treated patients .
+There were too few cases to determine whether the emergence of these events is related to Exubera .
+All patients who were diagnosed with lung cancer had a prior history of cigarette smoking .
+PRECAUTIONS General As with all insulin preparations , the time course of EXUBERA action may vary in different individuals or at different times in the same individual .
+Adjustment of dosage of any insulin may be necessary if patients change their physical activity or their usual meal plan .
+Insulin requirements may be altered during intercurrent conditions such as illness , emotional disturbances , or stress .
+Hypoglycemia As with all insulin preparations , hypoglycemic reactions may be associated with the administration of EXUBERA .
+Rapid changes in serum glucose concentrations may induce symptoms similar to hypoglycemia in persons with diabetes , regardless of the glucose value .
+Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions , such as long duration of diabetes , diabetic nerve disease , use of medications such as beta - blockers , or intensified diabetes control ( see PRECAUTIONS , Drug Interactions ) .
+Such situations may result in severe hypoglycemia ( and , possibly , loss of consciousness ) prior to patients ' awareness of hypoglycemia .
+Renal Impairment Studies have not been performed in patients with renal impairment .
+As with other insulin preparations , the dose requirements for EXUBERA may be reduced in patients with renal impairment ( see CLINICAL PHARMACOLOGY , Special Populations ) .
+Hepatic Impairment Studies have not been performed in patients with hepatic impairment .
+As with other insulin preparations , the dose requirements for EXUBERA may be reduced in patients with hepatic impairment ( see CLINICAL PHARMACOLOGY , Special Populations ) .
+Allergy Systemic Allergy In clinical studies , the overall incidence of allergic reactions in patients treated with EXUBERA was similar to that in patients using subcutaneous regimens with regular human insulin .
+As with other insulin preparations , rare , but potentially serious , generalized allergy to insulin may occur , which may cause rash ( including pruritus ) over the whole body , shortness of breath , wheezing , reduction in blood pressure , rapid pulse , or sweating .
+Severe cases of generalized allergy , including anaphylactic reactions , may be life threatening .
+If such reactions occur from EXUBERA , EXUBERA should be stopped and alternative therapies considered .
+Antibody Production Insulin antibodies may develop during treatment with all insulin preparations including EXUBERA .
+In clinical studies of EXUBERA where the comparator was subcutaneous insulin , increases in insulin antibody levels ( as reflected by assays of insulin binding activity ) were significantly greater for patients who received EXUBERA than for patients who received subcutaneous insulin only .
+No clinical consequences of these antibodies were identified over the time period of clinical studies of EXUBERA ; however , the long - term clinical significance of this increase in antibody formation is unknown .
+Respiratory Pulmonary Function In clinical trials up to two years duration , patients treated with EXUBERA demonstrated a greater decline in pulmonary function , specifically the forced expiratory volume in one second ( FEV1 ) and the carbon monoxide diffusing capacity ( DLCO ) , than comparator - treated patients .
+The mean treatment group difference in pulmonary function favoring the comparator group , was noted within the first several weeks of treatment with EXUBERA , and did not change over the two year treatment period ( See ADVERSE REACTIONS : Pulmonary Function ) .
+During the controlled clinical trials , individual patients experienced notable declines in pulmonary function in both treatment groups .
+A decline from baseline FEV1 of ≥ 20 % at last observation occurred in 1 . 5 % of EXUBERA - treated and 1 . 3 % of comparator - treated patients .
+A decline from baseline DLCO of ≥ 20 % at last observation occurred in 5 . 1 % of EXUBERA - treated and 3 . 6 % of comparator treated patients .
+Because of the effect of EXUBERA on pulmonary function , all patients should have spirometry ( FEV1 ) assessed prior to initiating therapy with EXUBERA .
+Assessment of DLCO should be considered .
+The efficacy and safety of EXUBERA in patients with baseline FEV1 or DLCO < 70 % predicted have not been established and the use of EXUBERA in this population is not recommended .
+Assessment of pulmonary function ( e . g . , spirometry ) is recommended after the first 6 months of therapy , and annually thereafter , even in the absence of pulmonary symptoms .
+In patients who have a decline of ≥ 20 % in FEV1 from baseline , pulmonary function tests should be repeated .
+If the ≥ 20 % decline from baseline FEV1 is confirmed , EXUBERA should be discontinued .
+The presence of pulmonary symptoms and lesser declines in pulmonary function may require more frequent monitoring of pulmonary function and consideration of discontinuation of EXUBERA .
+Underlying Lung Disease The use of EXUBERA in patients with underlying lung disease , such as asthma or COPD , is not recommended because the efficacy and safety of EXUBERA in this population have not been established .
+Bronchospasm Bronchospasm has been rarely reported in patients taking EXUBERA .
+Patients experiencing such a reaction should discontinue EXUBERA and seek medical evaluation immediately .
+Re - administration of EXUBERA requires a careful risk evaluation , and should only be done under close medical monitoring with appropriate clinical facilities available .
+Intercurrent Respiratory Illness EXUBERA has been administered to patients with intercurrent respiratory illness ( e . g . bronchitis , upper respiratory tract infections , rhinitis ) during clinical studies .
+In patients experiencing these conditions , 3 – 4 % temporarily discontinued EXUBERA therapy .
+There was no increased risk of hypoglycemia or worsened glycemic control observed in EXUBERA - treated patients compared to patients treated with subcutaneous insulin .
+During intercurrent respiratory illness , close monitoring of blood glucose concentrations , and dose adjustment , may be required .
+Information for Patients Patients should be instructed on self - management procedures including glucose monitoring ; proper EXUBERA inhalation technique ; and hypoglycemia and hyperglycemia management .
+Patients must be instructed on handling of special situations such as intercurrent conditions ( illness , stress , or emotional disturbances ) , an inadequate or skipped insulin dose , inadvertent administration of an increased insulin dose , inadequate food intake , or skipped meals .
+Refer patients to the EXUBERA Patient Medication Guide for additional information .
+Patients should be informed that in clinical studies , treatment with EXUBERA was associated with small , non - progressive mean declines in pulmonary function relative to comparator treatments .
+Because of the effect of EXUBERA on pulmonary function , pulmonary function tests are recommended prior to initiating treatment with EXUBERA .
+Following initiation of therapy , periodic pulmonary function tests are recommended ( see PRECAUTIONS , Respiratory , Pulmonary Function ) .
+Patients should inform their physician if they have a history of lung disease , because the use of EXUBERA is not recommended in patients with underlying lung disease ( e . g . , asthma or COPD ) , and is contraindicated in patients with poorly controlled lung disease .
+Women with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy .
+Drug Interactions A number of substances affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring .
+The following are examples of substances that may reduce the blood glucose - lowering effect of insulin that may result in hyperglycemia : corticosteroids , danazol , diazoxide , diuretics , sympathomimetic agents ( e . g . , epinephrine , albuterol , terbutaline ) , glucagon , isoniazid , phenothiazine derivatives , somatropin , thyroid hormones , estrogens , progestogens ( e . g . , in oral contraceptives ) , protease inhibitors , and atypical antipsychotic medications ( e . g . , olanzapine and clozapine ) .
+The following are examples of substances that may increase the blood glucose - lowering effect of insulin and susceptibility to hypoglycemia : oral antidiabetic products , ACE inhibitors , disopyramide , fibrates , fluoxetine , MAO inhibitors , pentoxifylline , propoxyphene , salicylates , and sulfonamide antibiotics .
+Beta - blockers , clonidine , lithium salts , and alcohol may either increase or reduce the blood glucose - lowering effect of insulin .
+Pentamidine may cause hypoglycemia , which may sometimes be followed by hyperglycemia .
+In addition , under the influence of sympatholytic medicinal products such as beta - blockers , clonidine , guanethidine , and reserpine , the signs and symptoms of hypoglycemia may be reduced or absent .
+Bronchodilators and other inhaled products may alter the absorption of inhaled human insulin ( see CLINICAL PHARMACOLOGY , Special Populations ) .
+Consistent timing of dosing of bronchodilators relative to EXUBERA administration , close monitoring of blood glucose concentrations and dose titration as appropriate are recommended .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Two - year carcinogenicity studies in animals have not been performed .
+Insulin was not mutagenic in the Ames bacterial reverse mutation test in the presence and absence of metabolic activation .
+In Sprague - Dawley rats , a 6 - month repeat - dose toxicity study was conducted with insulin inhalation powder at doses up to 5 . 8 mg / kg / day ( compared to the clinical starting dose of 0 . 15 mg / kg / day , the rat high dose was 39 times or 8 . 3 times the clinical dose , based on either a mg / kg or a mg / m2 body surface area comparison ) .
+In Cynomolgus monkeys , a 6 - month repeat - dose toxicity study was conducted with inhaled insulin at doses up to 0 . 64 mg / kg / day .
+Compared to the clinical starting dose of 0 . 15 mg / kg / day , the monkey high dose was 4 . 3 times or 1 . 4 times the clinical dose , based on either a mg / kg or a mg / m2 body surface area comparison .
+These were maximum tolerated doses based on hypoglycemia .
+Compared to control animals , there were no treatment - related adverse effects in either species on pulmonary function , gross or microscopic morphology of the respiratory tract or bronchial lymph nodes .
+Similarly , there was no effect on cell proliferation indices in alveolar or bronchiolar area of the lung in either species .
+Because recombinant human insulin is identical to the endogenous hormone , reproductive / fertility studies were not performed in animals .
+Pregnancy Teratogenic Effects Pregnancy Category C Animal reproduction studies have not been conducted with EXUBERA .
+It is also not known whether EXUBERA can cause fetal harm when administered to a pregnant woman or whether EXUBERA can affect reproductive capacity .
+EXUBERA should be given to a pregnant woman only if clearly needed .
+Nursing Mothers Many drugs , including human insulin , are excreted in human milk .
+For this reason , caution should be exercised when EXUBERA is administered to a nursing woman .
+Patients with diabetes who are lactating may require adjustments in EXUBERA dose , meal plan , or both .
+Pediatric Use Long - term safety and effectiveness of EXUBERA in pediatric patients have not been established ( see CLINICAL PHARMACOLOGY , Special Populations ) .
+Geriatric Use In controlled Phase 2 / 3 clinical studies ( n = 1975 ) , EXUBERA was administered to 266 patients ≥ 65 years of age and 30 patients ≥ 75 years of age .
+The majority of these patients had type 2 diabetes .
+The change in HbA1C and rate of hypoglycemia did not differ by age .
+ADVERSE REACTIONS The safety of EXUBERA alone , or in combination with subcutaneous insulin or oral agents , has been evaluated in approximately 2500 adult patients with type 1 or type 2 diabetes who were exposed to EXUBERA .
+Approximately 2000 patients were exposed to EXUBERA for greater than 6 months and more than 800 patients were exposed for more than 2 years .
+Non - Respiratory Adverse Events Non - respiratory adverse events reported in ≥ 1 % of 1977 EXUBERA - treated patients in controlled Phase 2 / 3 clinical studies , regardless of causality , include ( but are not limited to ) the following : Metabolic and Nutritional : hypoglycemia ( see WARNINGS and PRECAUTIONS ) Body as a whole : chest pain Digestive : dry mouth Special senses : otitis media ( type 1 pediatric diabetics ) Hypoglycemia The rates and incidence of hypoglycemia were comparable between EXUBERA and subcutaneous regular human insulin in patients with type 1 and type 2 diabetes .
+In type 2 patients who were not adequately controlled with single oral agent therapy , the addition of EXUBERA was associated with a higher rate of hypoglycemia than was the addition of a second oral agent .
+Chest pain A range of different chest symptoms were reported as adverse reactions and were grouped under the non - specific term chest pain .
+These events occurred in 4 . 7 % of EXUBERA - treated patients and 3 . 2 % of patients in comparator groups .
+The majority ( > 90 % ) of these events were reported as mild or moderate .
+Two patients in the EXUBERA and one in the comparator group discontinued treatment due to chest pain .
+The incidence of all - causality adverse events related to coronary artery disease , such as angina pectoris or myocardial infarction was comparable in the EXUBERA ( 0 . 7 % angina pectoris ; 0 . 7 % myocardial infarction ) and comparator ( 1 . 3 % angina pectoris ; 0 . 7 % myocardial infarction ) treatment groups .
+Dry Mouth Dry mouth was reported in 2 . 4 % of EXUBERA - treated patients and 0 . 8 % of patients in comparator groups .
+Nearly all ( > 98 % ) of dry mouth reported was mild or moderate .
+No patients discontinued treatment due to dry mouth .
+Ear Events in Pediatric Diabetics Pediatric type 1 diabetics in EXUBERA groups experienced adverse events related to the ear more frequently than did pediatric type 1 diabetics in treatment groups receiving only subcutaneous insulin .
+These events included otitis media ( EXUBERA 6 . 5 % ; SC 3 . 4 % ) , ear pain ( EXUBERA 3 . 9 % ; SC 1 . 4 % ) , and ear disorder ( EXUBERA 1 . 3 % ; SC 0 % ) .
+Respiratory Adverse Events Table 6 shows the incidence of respiratory adverse events for each treatment group that were reported in ≥ 1 % of any treatment group in controlled Phase 2 and 3 clinical studies , regardless of causality .
+Table 6 : Respiratory Adverse Events Reported in ≥ 1 % of Any Treatment Group in Controlled Phase 2 and 3 Clinical Studies , Regardless of Causality Percent of Patients Reporting Event Adverse Event Type 1 Diabetes Type 2 Diabetes EXUBERA N = 698 SC N = 705 EXUBERA N = 1279 SC N = 488 OAs N = 644 SC = subcutaneous insulin comparator ; OA = oral agent comparators Respiratory Tract Infection 43 . 3 42 . 0 29 . 2 38 . 1 19 . 7 Cough Increased 29 . 5 8 . 8 21 . 9 10 . 2 3 . 7 Pharyngitis 18 . 2 16 . 6 9 . 5 9 . 6 5 . 9 Rhinitis 14 . 5 10 . 9 8 . 8 10 . 5 3 . 0 Sinusitis 10 . 3 7 . 4 5 . 4 10 . 0 2 . 3 Respiratory Disorder 7 . 4 4 . 1 6 . 1 10 . 2 1 . 7 Dyspnea 4 . 4 0 . 9 3 . 6 2 . 5 1 . 4 Sputum Increased 3 . 9 1 . 3 2 . 8 1 . 0 0 . 5 Bronchitis 3 . 2 4 . 1 5 . 4 3 . 9 4 . 0 Asthma 1 . 3 1 . 3 2 . 0 2 . 3 0 . 5 Epistaxis 1 . 3 0 . 4 1 . 2 0 . 4 0 . 8 Laryngitis 1 . 1 0 . 4 0 . 5 0 . 4 0 . 3 Pneumonia 0 . 9 1 . 1 0 . 9 1 . 6 0 . 6 Voice Alteration 0 . 1 0 . 1 1 . 3 0 . 0 0 . 3 Cough In 3 clinical studies , patients who completed a cough questionnaire reported that the cough tended to occur within seconds to minutes after EXUBERA inhalation , was predominantly mild in severity and was rarely productive in nature .
+The incidence of this cough decreased with continued EXUBERA use .
+In controlled clinical studies , 1 . 2 % of patients discontinued EXUBERA treatment due to cough .
+Dyspnea Nearly all ( > 97 % ) of dyspnea was reported as mild or moderate .
+A small number of EXUBERA - treated patients ( 0 . 4 % ) discontinued treatment due to dyspnea compared to 0 . 1 % of comparator - treated patients .
+Other Respiratory Adverse Events – Pharyngitis , Sputum Increased and Epistaxis The majority of these events were reported as mild or moderate .
+A small number of EXUBERA - treated patients discontinued treatment due to pharyngitis ( 0 . 2 % ) and sputum increased ( 0 . 1 % ) ; no patients discontinued treatment due to epistaxis .
+Pulmonary Function The effect of EXUBERA on the respiratory system has been evaluated in over 3800 patients in controlled phase 2 and 3 clinical studies ( in which 1977 patients were treated with EXUBERA ) .
+In randomized , open - label clinical trials up to two years duration , patients treated with EXUBERA demonstrated a greater decline in pulmonary function , specifically the forced expiratory volume in one second ( FEV1 ) and the carbon monoxide diffusing capacity ( DLCO ) , than comparator treated patients .
+The mean treatment group differences in FEV1 and DLCO , were noted within the first several weeks of treatment with EXUBERA , and did not progress over the two year treatment period .
+In one completed controlled clinical trial in patients with type 2 diabetes following two years of treatment with EXUBERA , patients showed resolution of the treatment group difference in FEV1 six weeks after discontinuation of therapy .
+Resolution of the effect of EXUBERA on pulmonary function in patients with type 1 diabetes has not been studied after long - term treatment .
+Figures 3 through 6 display the mean FEV1 and DLCO change from baseline versus time from two ongoing randomized , open - label , two year studies in 580 patients with type 1 and 620 patients with type 2 diabetes .
+Figure 3 : Change from Baseline FEV1 ( L ) in Patients with Type 1 Diabetes ( Mean + / - Standard Deviation ) [ MULTIMEDIA ] Figure 4 : Change from Baseline FEV1 ( L ) in Patients with Type 2 Diabetes ( Mean + / - Standard Deviation ) [ MULTIMEDIA ] Following 2 years of EXUBERA treatment in patients with type 1 and type 2 diabetes , the difference between treatment groups for the mean change from baseline FEV1 was approximately 40 mL , favoring the comparator .
+Figure 5 : Change from Baseline DLco ( mL / min / mmHg ) in Patients with Type 1 Diabetes ( Mean + / - Standard Deviation ) [ MULTIMEDIA ] Figure 6 : Change from Baseline DLco ( mL / min / mmHg ) in Patients with Type 2 Diabetes ( Mean + / - Standard Deviation ) [ MULTIMEDIA ] Following 2 years of EXUBERA treatment , the difference between treatment groups for the mean change from baseline DLCO was approximately 0 . 5 mL / min / mmHg ( type 1 diabetes ) , favoring the comparator , and approximately 0 . 1 mL / min / mmHg ( type 2 diabetes ) , favoring EXUBERA .
+During the two - year clinical trials , individual patients experienced notable declines in pulmonary function in both treatment groups .
+A decline from baseline FEV1 of ≥ 20 % at last observation occurred in 1 . 5 % of EXUBERA - treated and 1 . 3 % of comparator - treated patients .
+A decline from baseline DLCO of ≥ 20 % at last observation occurred in 5 . 1 % of EXUBERA - treated and 3 . 6 % of comparator treated patients .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] OVERDOSAGE Hypoglycemia may occur as a result of an excess of insulin relative to food intake , energy expenditure , or both .
+Mild to moderate episodes of hypoglycemia usually can be treated with oral glucose .
+Adjustments in drug dosage , meal patterns , or exercise , may be needed .
+Severe episodes of hypoglycemia with coma , seizure , or neurologic impairment may be treated with intramuscular / subcutaneous glucagon or concentrated intravenous glucose .
+Sustained carbohydrate intake and observation may be necessary because hypoglycemia may recur after apparent clinical recovery .
+DOSAGE AND ADMINISTRATION EXUBERA , like rapid - acting insulin analogs , has a more rapid onset of glucose - lowering activity compared to subcutaneously injected regular human insulin .
+EXUBERA has a duration of glucose - lowering activity comparable to subcutaneously injected regular human insulin and longer than rapid - acting insulin .
+EXUBERA doses should be administered immediately prior to meals ( no more than 10 minutes prior to each meal ) .
+In patients with type 1 diabetes , EXUBERA should be used in regimens that include a longer - acting insulin .
+For patients with type 2 diabetes , EXUBERA may be used as monotherapy or in combination with oral agents or longer - acting insulin .
+Because of the effect of EXUBERA on pulmonary function , all patients should have pulmonary function assessed prior to initiating therapy with EXUBERA .
+Periodic monitoring of pulmonary function is recommended for patients being treated with EXUBERA ( see PRECAUTIONS , Pulmonary Function ) .
+EXUBERA is intended for administration by inhalation and must only be administered using the EXUBERA ® Inhaler .
+Refer to the EXUBERA Medication Guide for a description of the EXUBERA ® Inhaler and for instructions on how to use the inhaler .
+Calculation of Initial Pre - Meal EXUBERA Dose The initial dosage of EXUBERA should be individualized and determined based on the physician ' s advice in accordance with the needs of the patient .
+Recommended initial pre - meal doses are based on clinical trials in which patients were requested to eat three meals per day .
+Initial pre - meal doses may be calculated using the following formula : [ Body weight ( kg ) X 0 . 05 mg / kg = pre - meal dose ( mg ) ] rounded down to the nearest whole milligram number ( e . g . , 3 . 7 mg rounded down to 3 mg ) .
+Approximate guidelines for initial , pre - meal EXUBERA doses , based on patient body weight , are indicated in Table 7 : Table 7 : Approximate Guidelines for Initial , Pre - Meal EXUBERA Dose ( based on patient body weight ) Patient Weight ( in kg ) Patient Weight ( in lb ) Initial Dose per Meal Number of 1 mg Blisters per Dose Number of 3 mg Blisters per Dose 30 to 39 . 9 kg 66 – 87 lb 1 mg per meal 1 - 40 to 59 . 9 kg 88 – 132 lb 2 mg per meal 2 - 60 to 79 . 9 kg 133 – 176 lb 3 mg per meal - 1 80 to 99 . 9 kg 177 – 220 lb 4 mg per meal 1 1 100 to 119 . 9 kg 221 – 264 lb 5 mg per meal 2 1 120 to 139 . 9 kg 265 – 308 lb 6 mg per meal - 2 A 1 mg blister of EXUBERA inhaled insulin is approximately equivalent to 3 IU of subcutaneously injected regular human insulin .
+A 3 mg blister of EXUBERA inhaled insulin is approximately equivalent to 8 IU of subcutaneously injected regular human insulin .
+Table 8 provides the approximate IU dose of regular subcutaneous human insulin for EXUBERA inhaled insulin doses from 1 mg to 6 mg .
+Table 8 : Approximate Equivalent IU Dose of Regular Human Subcutaneous Insulin for EXUBERA Inhaled Insulin Doses Ranging from 1 mg to 6 mgDose ( mg ) Approximate Regular Insulin SC Dose in IU Number of 1 mg EXUBERA Blisters per Dose Number of 3 mg EXUBERA Blisters per Dose 1 mg 3 1 - 2 mg 6 2 - 3 mg 8 - 1 4 mg 11 1 1 5 mg 14 2 1 6 mg 16 - 2 Patients should combine 1 mg and 3 mg blisters so that the least number of blisters per dose are taken ( e . g . , a 4 mg dose should be administered as one 1 mg blister and one 3 mg blister ) .
+Consecutive inhalation of three 1 mg unit dose blisters results in significantly greater insulin exposure than inhalation of one 3 mg unit dose blister .
+Therefore , three 1 mg doses should not be substituted for one 3 mg dose ( see CLINICAL PHARMACOLOGY , Pharmacokinetics ) .
+When a patient is stabilized on a dosing regimen that includes 3 mg blisters , and the 3 mg blisters become temporarily unavailable , the patient can temporarily substitute two 1 mg blisters for one 3 mg blister .
+Blood glucose should be monitored closely .
+As with all insulins , additional factors that should be taken into consideration when determining the EXUBERA starting dose include , but are not limited to , patient ' s current glycemic control , previous response to insulin , duration of diabetes , and dietary and exercise habits .
+Considerations for Dose Titration After initiating EXUBERA therapy , as with other glucose - lowering agents , dose adjustment may be required based on the patient ' s need ( e . g . , blood glucose concentrations , meal size and nutrient composition , time of day and recent or anticipated exercise ) .
+Each patient should be titrated to their optimal dosage based on blood glucose monitoring results .
+As for all insulins , the time course of EXUBERA action may vary in different individuals or at different times in the same individual .
+EXUBERA may be used during intercurrent respiratory illness ( e . g . , bronchitis , upper respiratory tract infection , rhinitis ) .
+Close monitoring of blood glucose concentrations and dose adjustment may be required on an individual basis .
+Inhaled medicinal products ( e . g . bronchodilators ) should be administered prior to administration of EXUBERA .
+HOW SUPPLIED EXUBERA ( insulin human [ rDNA origin ] ) Inhalation Powder is available in 1 mg and 3 mg unit dose blisters .
+The blisters are dispensed on perforated cards of six unit dose blisters ( PVC / Aluminum ) .
+The two strengths are differentiated by color print and tactile marks that can be differentiated by touch .
+The 1 mg blisters and respective perforated cards are printed with green ink and the cards are marked with one raised bar .
+The 3 mg blisters and respective perforated cards are printed with blue ink and the cards are marked with three raised bars .
+Five blister cards are packaged in a clear plastic ( PET ) thermoformed tray .
+Each PET tray also contains a desiccant and is covered with a clear plastic ( PET ) lid .
+The tray of five blister cards ( 30 unit dose blisters ) is sealed in a foil laminate pouch with a desiccant .
+EXUBERA ( insulin human [ rDNA origin ] ) Inhalation Powder blisters , an EXUBERA ® Inhaler , and replacement EXUBERA ® Release Units are required to initiate therapy with EXUBERA and are provided in the EXUBERA Kit .
+A fully assembled EXUBERA ® Inhaler consists of the inhaler base , a chamber , and an EXUBERA ® Release Unit .
+A fully assembled Inhaler is packaged with a replacement Chamber and is available in the EXUBERA Kit and as a separate unit .
+The Chamber is also available as an individual component .
+EXUBERA ® Release Units are individually packaged in a sealed thermoformed tray .
+One EXUBERA ® Release Unit is included in each fully assembled Inhaler .
+Two additional Release Units are provided in the EXUBERA Kit and in each Combination Pack .
+EXUBERA Release Units are also available individually .
+See Tables 9 and 10 for a description of these configurations .
+Table 9 EXUBERA ( insulin human [ rDNA origin ] ) Inhalation Powder is available as follows : Description Contents NDC EXUBERA KIT 1 EXUBERA Inhaler 1 Replacement Chamber 1 mg × 180 blisters 3 mg × 90 blisters 2 EXUBERA ® Release Units 0069 - 0050 - 85 EXUBERA Combination Pack 12 1 mg × 90 blisters 3 mg × 90 blisters 2 EXUBERA ® Release Units 0069 - 0050 - 19 EXUBERA Combination Pack 15 1 mg × 180 blisters 3 mg × 90 blisters 2 EXUBERA ® Release Units 0069 - 0050 - 53 EXUBERA 1 mg Patient Pack 90 × 1 mg 2 EXUBERA ® Release Units 0069 - 0707 - 37 EXUBERA 3 mg Patient Pack 90 × 3 mg 2 EXUBERA ® Release Units 0069 - 0724 - 37 Table 10 EXUBERA ® Inhaler and Components are available as follows : Description Contents NDC EXUBERA ® Inhaler & Chamber 1 EXUBERA ® Inhaler 1 Replacement Chamber 0069 - 0054 - 19 EXUBERA ® Release Units 2 EXUBERA ® Release Units 0069 - 0097 - 41 EXUBERA ® Chamber 1 Replacement Chamber 0069 - 0061 - 19 Blister Storage Not in - use ( Unopened ) : Store at controlled room temperature , 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+Do not freeze .
+Do not refrigerate .
+In - use : Once the foil overwrap is opened , unit dose blisters should be protected from moisture , stored at 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+Do not freeze .
+Do not refrigerate .
+Unit dose blisters should be used within 3 months after opening the foil overwrap .
+Return the blisters to the overwrap to protect from moisture .
+Additional care should be taken to avoid humid environments , e . g . steamy bathroom following a shower .
+Discard blister if frozen .
+Inhaler Storage Store at controlled room temperature , 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+Do not freeze .
+Do not refrigerate .
+The EXUBERA ® Inhaler can be used for up to 1 year from the date of first use .
+Replacing The EXUBERA ® Release Unit The EXUBERA ® Release Unit in the EXUBERA ® Inhaler should be changed every 2 weeks .
+Keep out of reach of children Rx only [ MULTIMEDIA ] [ MULTIMEDIA ] LAB - 0331 - 12 . 0 April 2008 [ MULTIMEDIA ] [ MULTIMEDIA ] Medication Guide EXUBERA ® ( eg - ZU - ber - uh ) ( insulin human [ rDNA origin ] ) Inhalation Powder Carefully read the Instructions for Use at the end of this Medication Guide , so you will be sure to get the right amount of your insulin .
+Read this Medication Guide that comes with EXUBERA before you start using it , and each time you get a refill .
+There may be new information .
+This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or treatment .
+What is the most important information I should know about EXUBERA ?
+• EXUBERA is a prescription medicine that contains an insulin powder that you breathe in ( inhale ) through your mouth using the EXUBERA ® Inhaler .
+It is used to treat adults with diabetes .
+It helps to control high blood sugar .
+• Do not use EXUBERA if you smoke , start smoking , or if you quit smoking less than 6 months ago .
+Smoking can increase the amount of EXUBERA you get and may cause your blood sugar to get dangerously low .
+If you smoke , or you quit smoking less than 6 months ago , you will need a different treatment for your diabetes .
+• EXUBERA may lower your lung function , so : • • You need to have lung tests before you start EXUBERA , and after you start EXUBERA , you may need to have lung tests again later as directed by your healthcare provider .
+• • EXUBERA is not recommended for people that have chronic lung disease ( such as asthma or chronic obstructive pulmonary disease or emphysema ) .
+• • Also , EXUBERA should not be used at all by people with unstable or poorly controlled lung disease .
+• The dose of EXUBERA is different from other insulin .
+Make sure you take the exact dose of EXUBERA that your healthcare provider prescribes .
+• EXUBERA comes in 1 mg dose or in 3 mg dose " blisters " , which are small foil dose packets .
+" Blister " is a standard term for the shape and type of foil dose packet that holds the insulin powder .
+Each individual dose of EXUBERA is enclosed in one of these small foil " blister " packets .
+For the rest of this Medication Guide , these small foil " blister " dose packets will just be called blisters .
+These blisters come packaged together in a larger foil overwrap package .
+• Make sure you get the right dose from your pharmacy .
+Do not use three 1 mg blisters in place of one 3 mg blister because you may get too much insulin .
+If you use 3 mg blisters as a part of your usual dosing and you cannot get the 3 mg blisters for some time , call your healthcare provider for advice .
+If you need to take the insulin before you have spoken to your healthcare provider , use two 1 mg blisters as a temporary replacement for one 3 mg blister .
+Then , check your blood sugar levels and continue to call your healthcare provider for advice .
+What is EXUBERA ?
+• EXUBERA is a prescription medicine that contains an insulin powder that you breathe in ( inhale ) through your mouth using the EXUBERA ® Inhaler .
+It is used to treat adults with diabetes .
+It helps to control high blood sugar .
+• For adults with type 2 diabetes , EXUBERA may be used by itself , or with diabetes pills , or with a longer - acting insulin .
+• For adults with type 1 diabetes , EXUBERA is always used with treatment that includes a longer - acting insulin .
+• EXUBERA contains a short - or rapid - acting form of insulin .
+It should NOT be taken at the same time as other short - or rapid - acting insulins .
+It is not a longer - acting insulin .
+• EXUBERA inhaled insulin starts working faster than regular injected insulin .
+It works as long as regular injected insulin .
+When used as your mealtime insulin , EXUBERA should be used within 10 minutes before your meal .
+• The insulin in EXUBERA is a man - made insulin that is the same as the insulin made by the human body .
+What is Diabetes ?
+• Diabetes is a disease that affects the amount of insulin and sugar in your body .
+Your body needs insulin to turn sugar ( glucose ) into energy .
+With diabetes , your body may not make enough insulin .
+If this is the case , you need to take more insulin .
+Taking insulin will help to keep you from having too much sugar in your blood .
+• Treatment with insulin helps to keep your diabetes under control .
+The way you live helps , as well .
+Watch your diet .
+Check your blood sugar levels .
+Exercise .
+Plan to be active .
+These good habits work with your insulin to help you control your diabetes .
+• Ask your healthcare provider for more information about diabetes .
+Who should NOT use EXUBERA ?
+Do not use EXUBERA if you : • smoke or stopped smoking less than 6 months ago .
+If you start smoking or resume smoking , stop using EXUBERA right away .
+See your healthcare provider right away for a different treatment .
+• have an unstable or poorly controlled lung disease ( such as unstable or poorly controlled asthma , chronic obstructive pulmonary disease or emphysema ) .
+• are allergic to insulin or any of the inactive ingredients in EXUBERA .
+See the end of this leaflet for a list of ingredients in EXUBERA .
+Children and teenagers should not use EXUBERA , because it has not been tested enough in children and teenagers under 18 years of age .
+What should I tell my healthcare provider before starting EXUBERA ?
+Tell your healthcare provider about all your health and medical conditions , including if you : • have any lung disease or have breathing problems .
+• are using any inhaled medications • have liver or kidney problems .
+Your dose may need to be adjusted .
+• are pregnant or plan to become pregnant .
+EXUBERA has not been tested enough in pregnant females .
+It is very important to maintain control of your blood sugar levels during pregnancy .
+Your healthcare provider will decide which insulin is best for you during your pregnancy .
+• are breast - feeding or plan to breast - feed .
+Many medicines , including insulin , pass into breast milk , and could affect your baby .
+Talk to your healthcare provider about the best way to feed your baby .
+• are smoking or have recently stopped smoking .
+• are taking any medicines or supplements .
+This includes : 1 ) medicines you get with a prescription , 2 ) those you get without a prescription and 3 ) herbal supplements and vitamins .
+Ask your healthcare provider for advice if you take other medicines .
+See " What can affect how much insulin I need ? "
+.
+How should I take EXUBERA ?
+See the end of this Medication Guide for the Instructions for Use for using EXUBERA blisters with the EXUBERA ® Inhaler .
+Make sure your healthcare provider teaches you the right way to use EXUBERA blisters with the EXUBERA ® Inhaler and make sure you understand everything .
+• Follow the medicine instructions that your healthcare provider gives you .
+Do not make any changes with your insulin unless you have talked to your healthcare provider .
+Your insulin needs may change because of 1 ) illness 2 ) stress , 3 ) other medicines or 4 ) changes in diet or activity level .
+Talk to your healthcare provider about how to adjust your insulin dose .
+• Do not change any of your other diabetes medicines without talking to your healthcare provider .
+This includes insulin that you now inject .
+It also includes any diabetes medicines you may now take by mouth .
+Your healthcare provider may need to adjust the doses of your other diabetes medicines .
+• Follow your healthcare provider ' s instructions for testing your blood sugar .
+Ask what to do if it is high or low .
+Low blood sugar ( hypoglycemia ) is the most common side effect of EXUBERA and all insulin .
+• Never use three 1 mg blisters for one 3 mg blister because you may get too much insulin .
+If your 3 mg blisters become temporarily unavailable , use only two 1 mg blisters instead and check your blood sugar levels .
+Call your healthcare provider to get a new supply of 3 mg blisters as soon as possible .
+See " What is the most important information I should know about EXUBERA ? "
+• Do not open the individual EXUBERA blisters .
+The EXUBERA ® Inhaler is designed to open the blister after you put the unopened blister in the Inhaler .
+You do n't need to open the blister yourself .
+• Never swallow the contents of the EXUBERA blister .
+You should only breathe in EXUBERA using the EXUBERA ® Inhaler .
+Do not try to breathe in the EXUBERA insulin powder without using the EXUBERA ® Inhaler .
+• After a blister has been used , throw it away .
+Do not try to re - use a blister .
+• You should take EXUBERA within 10 minutes before a meal .
+• You need to have lung tests before you start EXUBERA , and after you start EXUBERA , you may need to have lung tests again as directed by your healthcare provider .
+• If you are having problems with your EXUBERA ® Inhaler or it breaks and you need a replacement , call 1 - 800 - EXUBERA .
+Then , call your healthcare provider for treatment instructions until you receive your replacement Inhaler .
+What can affect how much insulin I need ?
+Talk to your healthcare provider if you have any questions about how much insulin you need .
+Many things can affect how much insulin you need , including : • Illness : Illness may change how much insulin you need .
+It is a good idea to think ahead and make a " sick day " plan with your healthcare provider .
+Do this in advance , so you will be ready when this happens .
+Be sure to test your blood sugar more often .
+Be sure to call your healthcare provider if you are sick .
+• Medicines : Many medicines can affect your insulin needs .
+Other medicines can change the way insulin works .
+This includes prescription and non - prescription medicines , vitamins , and herbal supplements .
+You may need a different dose of insulin when you are taking certain other medicines .
+Know all the medicines you take .
+Keep a list .
+Show this list to all your healthcare providers and pharmacists anytime you get a new medicine or refill .
+Your healthcare provider will tell you if your insulin dose needs to be changed .
+• Meals .
+The amount of food you eat can affect your insulin needs .
+You may need a different dose of insulin if you : 1 ) eat less food 2 ) skip meals , or 3 ) eat more food than usual .
+Talk to your healthcare provider if you change your diet .
+This will help you know how to adjust your EXUBERA and other insulin doses .
+• Alcohol .
+Alcohol may affect the way your insulin works and affect your blood sugar levels .
+Beer and wine , as well as other kinds of alcohol , can cause these problems with your blood sugar levels .
+Talk to your healthcare provider about drinking alcohol .
+• Exercise or Activity Level .
+Exercise or activity level may change the way your body uses insulin .
+Check with your healthcare provider before you start an exercise program .
+Do this , because your dose may need to be changed .
+• Travel .
+If you are going to travel across time zones , talk with your healthcare provider about how to time your dosing .
+When you travel , wear your medical alert identification .
+Take extra insulin and supplies with you .
+What are some of the possible side effects of EXUBERA ?
+1 .
+Low blood sugar ( HYPOglycemia ) : As with all forms of insulin , a possible side effect of EXUBERA is low blood sugar .
+Low blood sugar is often called " hypoglycemia " or an " insulin reaction " .
+It may happen when you do not have enough sugar in your blood .
+Common causes of low blood sugar are : 1 ) illness , 2 ) emotional or physical stress , 3 ) too much insulin , 4 ) too little food or missed meals , and 5 ) too much exercise or activity .
+Early warning signs of low blood sugar may differ from person to person .
+For some people , signs may be easy to notice .
+For others , signs may be harder to notice , if noticed at all .
+That is why it is important to check your blood sugar as your healthcare provider has advised you .
+Low blood sugar can happen with : • The wrong insulin dose .
+This can happen when you take too much insulin .
+• Not enough food intake .
+This can happen if a meal or snack is missed or delayed .
+• Vomiting or diarrhea that decreases the amount of sugar absorbed by your body .
+• Drinking alcohol .
+• Medicines that affect insulin .
+Be sure to discuss all your medicines with your healthcare provider .
+Do not start any new medicines until you know how they may affect your insulin dose .
+• Medical conditions that can affect your blood sugar levels or insulin .
+These conditions include diseases of : 1 ) the adrenal glands , 2 ) the pituitary , 3 ) the thyroid gland , 4 ) the liver , and 5 ) the kidneys .
+• Too much blood sugar use by the body .
+This can happen if you exercise too much or have a fever .
+Low blood sugar can be mild to severe .
+It can start quickly .
+The following patients may have few or no warning symptoms of hypoglycemia : • patients who have had diabetes for a long time • patients with diabetic nerve problems ( neuropathy ) - for example , numbness in the feet • patients using certain medicines for high blood pressure or heart problems .
+Symptoms of low blood sugar may include : • shaking ( tremor ) • sweating • anxiety , irritability , restlessness , trouble concentrating , personality changes , mood changes , or other abnormal behavior • tingling in your hands , feet , lips , or tongue • dizziness , light - headedness , or drowsiness • nightmares or trouble sleeping • headache • blurred vision • slurred speech • fast heart beat ( palpitations ) • unsteady walking ( unsteady gait ) Low blood sugar is a problem : • Driving and using machinery : If you have low blood sugar , your ability to concentrate or react may be reduced so that you may be less able to drive a vehicle or use mechanical equipment .
+If you do , you may risk causing injury to yourself or others .
+• Effects on your heart and brain : Severe low blood sugar can be dangerous .
+It can cause temporary or permanent harm to your heart or brain .
+It may even cause unconsciousness , seizures , or death .
+What to do about low blood sugar : • Juice or food can treat low blood sugar .
+Mild to moderate low blood sugar can be treated by eating or drinking carbohydrates such as fruit juice , raisins , sugar candies , milk , or glucose tablets .
+Talk to your healthcare provider about the amount of carbohydrates you should eat to treat mild to moderate low blood sugar .
+• Talk to your healthcare provider if : 1 ) you have low blood sugar often , or 2 ) it is hard for you to know if you have the symptoms of low blood sugar .
+• Getting emergency help : Plan for a way to get medical help if you need it .
+Severe low blood sugar may require the help of another person or emergency medical personnel .
+A person with low blood sugar who cannot take foods or liquids with sugar by mouth will need medical help fast and treatment with : 1 ) a glucagon injection or 2 ) glucose given intravenously ( IV ) .
+Without medical help right away , serious reactions or even death could occur .
+2 .
+High Blood Sugar ( HYPERglycemia ) : High blood sugar may occur when you have diabetes , even while you are on insulin treatment .
+High blood sugar is often called " hyperglycemia " .
+It may occur when you have too much sugar in your blood .
+Usually , it means there is not enough insulin to break down the food you eat into energy your body can use .
+High blood sugar can happen with : • The wrong insulin dose .
+This can happen from : • - taking too little or no insulin • - incorrect storage of insulin ( freezing , or too much heat ) • - using insulin after the expiration date .
+• Too much carbohydrate intake ( includes starchy foods , fruits and sweet foods and drinks ) .
+This can happen if you 1 ) eat larger meals , 2 ) eat more often , or 3 ) increase the amount of carbohydrate in your meals .
+• Medicines that affect insulin .
+Be sure to discuss all your medicines with your healthcare provider .
+Do not start any new medicines until you know how they may affect your insulin dose .
+• Medical conditions that affect insulin .
+These medical conditions include 1 ) fevers , 2 ) infections , 3 ) heart attacks , and 4 ) stress .
+High blood sugar can be a serious problem .
+• High blood sugar can be mild or severe .
+• When your blood sugar is extremely high , it can cause very serious problems that need treatment right away .
+• These severe states can result in unconsciousness and death .
+What are the symptoms of high blood sugar ?
+Often , high blood sugar has no symptoms at all .
+When high blood sugar does have symptoms , they can include : • confusion or drowsiness • increased thirst • decreased appetite , nausea , or vomiting • rapid heart rate • increased urination and dehydration ( too little fluid in your body ) • fruity smelling breath • fast , deep breathing • pain in the stomach area ( abdominal pain ) Test your blood sugar levels to prevent problems .
+• Because some patients get few symptoms of high blood sugar , it is important to check your blood sugar regularly .
+• Testing your blood often for your blood sugar level will let you know if you have high blood sugar .
+• If your tests are often high , tell your healthcare provider as soon as possible so your dose of medicine can be changed .
+• Talk to your healthcare provider to find out what blood sugar level is too high for you .
+Ask about when you should call your healthcare provider for a high blood sugar level .
+Also ask about what blood sugar number is high enough that you should go straight to the hospital .
+3 .
+Effect on Lung Function : EXUBERA may lower your lung function .
+See " What is the most important information I should know about EXUBERA ? "
+• You need to have lung tests before you start EXUBERA , and after you start EXUBERA , you may need to have lung tests again later as directed by your healthcare provider .
+• If you notice a change in your breathing while taking EXUBERA , call your healthcare provider .
+4 .
+Serious allergic reactions : Sometimes severe , life - threatening allergic reactions can happen with insulin .
+If you think you are having a severe allergic reaction , get medical help right away .
+Signs of insulin allergy include : • a rash all over your body • shortness of breath • wheezing ( trouble breathing ) • a fast pulse • sweating • low blood pressure 5 .
+EXUBERA may cause a cough , dry mouth , or chest discomfort .
+Tell your healthcare provider if you have any side effects that bother you .
+These are not all the side effects that can happen with EXUBERA .
+Ask your healthcare provider or pharmacist for more information .
+6 .
+In studies of EXUBERA in people with diabetes , lung cancer occurred in a few more people who were taking EXUBERA than in people who were taking other diabetes medicines .
+All the people in these studies who developed lung cancer used to smoke cigarettes .
+There were too few cases to know if the lung cancer was related to EXUBERA .
+How should I store EXUBERA ?
+• Store EXUBERA in a dry place at room temperature below 86 ° F ( the same as below 30 ° C ) .
+Be sure to protect the small foil blisters from humid places , from steam and from water .
+• Do not refrigerate or freeze EXUBERA , or expose it to excessive heat .
+If an EXUBERA blister freezes or is exposed to excessive heat , throw it away .
+Keep EXUBERA and all medicines out of the reach of children .
+General Information about EXUBERA • Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide .
+Do not use EXUBERA for a condition for which it was not prescribed .
+• Do not give or share EXUBERA with another person , even if they have diabetes also .
+It may harm them .
+For more information about EXUBERA : • Talk with your healthcare provider .
+This Medication Guide only summarizes the most important information about EXUBERA .
+• You can also ask your healthcare provider or pharmacist for information about EXUBERA that is written for healthcare professionals .
+• Call 1 - 800 - EXUBERA or go to website www . exubera . com .
+What are the ingredients of EXUBERA ?
+Active ingredient : human insulin Inactive ingredients : sodium citrate ( dihydrate ) , mannitol , glycine , and sodium hydroxide Instructions for Use Please read these instructions carefully before starting to use your EXUBERA ® Inhaler .
+Keep this Medication Guide , as you may need to read it again .
+Make sure you understand everything .
+Talk to your healthcare provider if you do not understand the instructions .
+Always be sure you have the correct EXUBERA blisters available before using your EXUBERA ® Inhaler .
+EXUBERA blisters must only be used with the EXUBERA ® Inhaler .
+KNOW THE PARTS OF YOUR EXUBERA ® INHALER [ MULTIMEDIA ] HOW TO TAKE YOUR DOSE Step 1 : Set up your EXUBERA ® Inhaler Hold your EXUBERA ® Inhaler in your hand .
+Be sure that the words " EXUBERA ® Inhaler " at the top face you .
+[ MULTIMEDIA ] Hold the black ring at the bottom of the base and use it to pull the base out of the chamber .
+[ MULTIMEDIA ] You will hear a click when the EXUBERA ® Inhaler is fully extended and locked into place .
+The bottom of the chamber MUST be above the gray button .
+[ MULTIMEDIA ] Step 2 : Load your EXUBERA blister Hold the EXUBERA blister by the tab with printed side up and with the notch pointed towards the EXUBERA ® Inhaler and insert one blister into the slot .
+Do not open the EXUBERA blister .
+[ MULTIMEDIA ] Slide one EXUBERA blister straight into the slot as far as it will go .
+[ MULTIMEDIA ] Step 3 : Getting ready to take your dose Make sure that the mouthpiece is closed .
+If the mouthpiece is open , turn it around so that it is closed .
+[ MULTIMEDIA ] Pull out the blue handle from the bottom as far as it will go .
+[ MULTIMEDIA ] Squeeze the handle until it snaps shut .
+This will put pressure in the system .
+[ MULTIMEDIA ] Stand or sit up straight .
+[ MULTIMEDIA ] Step 4 : Inhale your insulin dose Perform the following steps in order .
+Hold the EXUBERA ® Inhaler upright with the blue button facing towards you .
+Push the blue button until it clicks and watch for the insulin cloud to fill the chamber .
+If a cloud does not appear right away , press the gray button , pull out the used EXUBERA blister , go back to Step 2 and repeat .
+If the blister is punctured or appears damaged , use a new blister .
+Breathe out normally .
+[ MULTIMEDIA ] After the cloud appears , right away turn the mouthpiece around .
+The mouthpiece should now be facing towards you .
+[ MULTIMEDIA ] Promptly place the mouthpiece fully in the mouth , forming a seal around the mouthpiece with your lips , so that the insulin will not leak out .
+Do not block the opening of the mouthpiece with your tongue or teeth .
+Do not blow into the mouthpiece .
+In one breath , slowly and deeply breathe the insulin cloud in through your mouth .
+[ MULTIMEDIA ] Take the mouthpiece out of your mouth .
+Close your mouth and hold your breath for 5 seconds .
+Breathe out normally .
+[ MULTIMEDIA ] Step 5 : After your dose Turn the mouthpiece back to its closed position .
+[ MULTIMEDIA ] Press the gray button and pull out the used EXUBERA blister .
+If you need another blister as part of your dose , repeat steps 2 , 3 and 4 .
+The contents of only one blister should be inhaled at a time .
+[ MULTIMEDIA ] Step 6 .
+After your dosing is completed Squeeze the two chamber release buttons on the side of the base at the same time .
+Push the base back into the chamber to store the EXUBERA ® Inhaler .
+Do not store in the refrigerator or freezer .
+After a blister has been used , throw it away .
+Do not try to re - use a blister .
+[ MULTIMEDIA ] HOW TO TAKE CARE OF YOUR EXUBERA ® INHALER It is important to follow these steps so that your EXUBERA ® Inhaler stays clean and works properly .
+How to Take your EXUBERA ® Inhaler apart You need to know how to take your EXUBERA ® Inhaler apart for you when you need to clean your EXUBERA ® Inhaler ( once a week ) , and for when you need to change the EXUBERA ® Release Unit ( every two weeks ) .
+Spare EXUBERA ® Release Units should be kept out of children ' s reach .
+Hold the EXUBERA ® Inhaler in your hand .
+Be sure that the words " EXUBERA ® Inhaler " at the top face you .
+[ MULTIMEDIA ] Hold the black ring at the bottom of the base and use it to pull the base out of the chamber .
+[ MULTIMEDIA ] You will hear a click when the EXUBERA ® Inhaler is fully extended and locked into place .
+The bottom of the chamber MUST be above the gray button .
+[ MULTIMEDIA ] With one hand , squeeze the two chamber release buttons on the side of the base at the same time while pulling the base all the way out of the chamber with the other hand .
+[ MULTIMEDIA ] Cleaning Chamber and mouthpiece – once a week for best functioning .
+Keeping the chamber and mouthpiece clean is very important to prevent medicine build - up .
+It is suggested that you choose one day of the week ( such as Monday ) and clean the chamber and mouthpiece after your last dose for that day every week .
+How ?
+Take your EXUBERA ® Inhaler apart .
+( See above ) [ MULTIMEDIA ] Turn the mouthpiece to the open position .
+[ MULTIMEDIA ] Dampen a clean soft cloth and use mild liquid soap to wipe the outside and inside of the chamber and mouthpiece .
+Do NOT put the chamber in the dishwasher .
+Thoroughly rinse the soap out of the chamber and mouthpiece with warm water .
+Allow to completely air dry .
+This will probably take about 4 hours .
+Make sure that the chamber and mouthpiece are completely dry and that no water droplets remain .
+Close the mouthpiece .
+Reattach the chamber to the base .
+For instructions on how to attach the chamber to the base , refer to the section " Put your EXUBERA ® Inhaler together " .
+If the washed chamber is not completely dry prior to taking your next dose , use your spare chamber .
+Base – clean once a week [ MULTIMEDIA ] How ?
+Do not put the base in water .
+Do not get the inside of the EXUBERA ® Release Unit wet .
+Do not wipe the Release Unit .
+Do not use soap or any other cleanser .
+Dampen a clean soft cloth with water ; do not use a paper towel .
+Hold the base upside down with the Release Unit facing the ground .
+While cleaning the top of the base be careful not to get any water into the Release Unit .
+Do not take the Release Unit out at this time .
+Keep the blue handle closed .
+Make sure that no water droplets remain .
+Wipe only the TOP and OUTSIDE surfaces of the base .
+Do not wipe the slot where the blister is inserted .
+[ MULTIMEDIA ] Put your EXUBERA ® Inhaler together Line the top of the base with the open end of the chamber .
+The blue dot on the bottom of the chamber must be on the same side as the blue button on the base .
+Squeeze the two chamber release buttons on the side of the base at the same time .
+Push the base back into the chamber to store .
+Store your EXUBERA ® Inhaler in a dry place at room temperature .
+[ MULTIMEDIA ] Replacing your EXUBERA ® Release Unit Change the Release Unit Every 2 weeks .
+You should mark your calendar to remind you when you need to replace the Release Unit .
+You may also mark the EXUBERA ® Release Unit carton in the spaces provided .
+Be careful when handling the Release Unit , because it has sharp edges .
+You should not clean the Release Unit .
+[ MULTIMEDIA ] How ?
+Take out the used EXUBERA ® Release Unit While the chamber is removed from the base ( see " How to take your EXUBERA ® Inhaler apart " ) , hold the base in your hand with the gray button facing you .
+Turn the used Release Unit about a one - quarter turn counter – clockwise towards the unlock symbol .
+[ MULTIMEDIA ] Pull the used Release Unit up and out of the base and discard .
+[ MULTIMEDIA ] Put in a New EXUBERA ® Release Unit Remove the Release Unit from its packaging .
+Hold the new Release Unit so the top is facing you .
+You will see a blue line on it .
+While holding the Release Unit with one hand , turn the top counter - clockwise with the other hand as far as it will go .
+[ MULTIMEDIA ] Line up the blue line on the top of the Release Unit with the unlock symbol on the top of the base .
+Insert the Release Unit gently into the base .
+Do not force - it should easily drop into place .
+( If the new Release Unit does not drop into place or fits tightly , remove and try again ) .
+If after several attempts you are not able to insert the Release Unit , try another Release Unit .
+If you are still having problems , please call 1 - 800 - EXUBERA .
+[ MULTIMEDIA ] Turn the top of the Release Unit clockwise until the blue line points to the lock symbol on the top of the base .
+The new Release Unit is now locked in place .
+[ MULTIMEDIA ] Replacing your EXUBERA ® Inhaler and the EXUBERA ® Release Unit You should change your EXUBERA ® Inhaler once a year from the date you first use the Inhaler .
+You can mark the date of first use on the bottom of the Inhaler base .
+You should change the EXUBERA ® Release Unit in your EXUBERA ® Inhaler every 2 weeks .
+The replacement dates can be marked on the EXUBERA ® Release Unit carton .
+This Medication Guide has been approved by the U . S . Food and Drug Administration .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] EXUBERA is a registered trademark of Pfizer Inc .
+[ MULTIMEDIA ] Licensed from Nektar LAB - 0333 - 3 . 0 April 2008

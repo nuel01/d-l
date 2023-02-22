@@ -1,0 +1,480 @@
+ABRAXANE ® for Injectable Suspension ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) WARNING : SEVERE MYELOSUPPRESSION • • Do not administer ABRAXANE therapy to patients with baseline neutrophil counts of less than 1 , 500 cells / mm3 [ see Contraindications ( 4 ) ] .
+• • Monitor for neutropenia , which may be severe and result in infection or sepsis [ see Warnings and Precautions ( 5 . 1 , 5 . 3 ) ] .
+• • Perform frequent complete blood cell counts on all patients receiving ABRAXANE [ see Warnings and Precautions ( 5 . 1 , 5 . 3 ) ] .
+WARNING : SEVERE MYELOSUPPRESSION See full prescribing information for complete boxed warning .
+• • Do not administer ABRAXANE therapy to patients with baseline neutrophil counts of less than 1 , 500 cells / mm3 .
+( 4 ) • • Monitor for neutropenia , which may be severe and result in infection or sepsis .
+( 5 . 1 , 5 . 3 ) • • Perform frequent complete blood cell counts on all patients receiving ABRAXANE .
+( 5 . 1 , 5 . 3 ) Dosage and Administration ( 2 . 1 , 2 . 7 ) 8 / 2020 Contraindications ( 4 ) 8 / 2020 Warnings and Precautions ( 5 . 1 , 5 . 2 ) 8 / 2020 1 INDICATIONS AND USAGE ABRAXANE is a microtubule inhibitor indicated for the treatment of : • • Metastatic breast cancer , after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy .
+Prior therapy should have included an anthracycline unless clinically contraindicated .
+( 1 . 1 ) • • Locally advanced or metastatic non - small cell lung cancer ( NSCLC ) , as first - line treatment in combination with carboplatin , in patients who are not candidates for curative surgery or radiation therapy .
+( 1 . 2 ) • • Metastatic adenocarcinoma of the pancreas as first - line treatment , in combination with gemcitabine .
+( 1 . 3 ) 1 . 1 Metastatic Breast Cancer ABRAXANE is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy .
+Prior therapy should have included an anthracycline unless clinically contraindicated .
+1 . 2 Non - Small Cell Lung Cancer ABRAXANE is indicated for the first - line treatment of locally advanced or metastatic non - small cell lung cancer , in combination with carboplatin , in patients who are not candidates for curative surgery or radiation therapy .
+1 . 3 Adenocarcinoma of the Pancreas ABRAXANE is indicated for the first - line treatment of patients with metastatic adenocarcinoma of the pancreas , in combination with gemcitabine .
+2 DOSAGE AND ADMINISTRATION • • Do not substitute ABRAXANE for other paclitaxel products .
+( 2 . 1 ) • • Extravasation : Closely monitor the infusion site for extravasation and infiltration .
+( 2 . 1 ) • • Metastatic Breast Cancer ( MBC ) : Recommended dosage of ABRAXANE is 260 mg / m2 intravenously over 30 minutes every 3 weeks .
+( 2 .
+2 ) • • Non - Small Cell Lung Cancer ( NSCLC ) : Recommended dosage of ABRAXANE is 100 mg / m2 intravenously over 30 minutes on Days 1 , 8 , and 15 of each 21 - day cycle ; administer carboplatin on Day 1 of each 21 - day cycle immediately after ABRAXANE .
+( 2 . 2 ) • • Adenocarcinoma of the Pancreas : Recommended dosage of ABRAXANE is 125 mg / m2 intravenously over 30 - 40 minutes on Days 1 , 8 , and 15 of each 28 - day cycle ; administer gemcitabine on Days 1 , 8 , and 15 of each 28 - day cycle immediately after ABRAXANE .
+( 2 . 4 ) • • Use in Patients with Hepatic Impairment : ABRAXANE is not recommended for use in patients with AST > 10 × ULN ; or bilirubin > 5 × ULN or with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment .
+For MBC or NSCLC , reduce starting dose in patients with moderate to severe hepatic impairment .
+( 2 . 5 ) • • Dose Reductions for Adverse Reactions : Dose reductions or discontinuation may be needed based on severe hematologic , neurologic , cutaneous , or gastrointestinal toxicities .
+( 2 . 6 ) 2 . 1 Important Administration Instructions DO NOT SUBSTITUTE FOR OR WITH OTHER PACLITAXEL FORMULATIONS .
+ABRAXANE has different dosage and administration instructions from other paclitaxel products .
+Closely monitor the infusion site for extravasation or drug infiltration during administration .
+Limiting the infusion of ABRAXANE to 30 minutes may reduce the risk of infusion - related reactions [ see Adverse Reactions ( 6 . 2 ) ] .
+Consider premedication in patients who have had prior hypersensitivity reactions to ABRAXANE .
+Do not re - challenge patients who experience a severe hypersensitivity reaction to ABRAXANE [ see Contraindications ( 4 ) and Warnings and Precautions ( 5 . 5 ) ] .
+2 . 2 Recommended Dosage for Metastatic Breast Cancer After failure of combination chemotherapy for metastatic breast cancer or relapse within 6 months of adjuvant chemotherapy , the recommended regimen for ABRAXANE is 260 mg / m2 administered intravenously over 30 minutes every 3 weeks .
+2 . 3 Recommended Dosage for Non - Small Cell Lung Cancer The recommended dose of ABRAXANE is 100 mg / m2 administered as an intravenous infusion over 30 minutes on Days 1 , 8 , and 15 of each 21 - day cycle .
+Administer carboplatin on Day 1 of each 21 - day cycle immediately after ABRAXANE [ see Clinical Studies ( 14 . 2 ) ] .
+2 . 4 Recommended Dosage for Adenocarcinoma of the Pancreas The recommended dose of ABRAXANE is 125 mg / m2 administered as an intravenous infusion over 30 - 40 minutes on Days 1 , 8 , and 15 of each 28 - day cycle .
+Administer gemcitabine immediately after ABRAXANE on Days 1 , 8 , and 15 of each 28 - day cycle [ see Clinical Studies ( 14 . 3 ) ] .
+2 . 5 Dosage Modifications for Hepatic Impairment For patients with moderate or severe hepatic impairment , reduce the starting dose of ABRAXANE as shown in Table 1 .
+Table 1 : Recommendations for Starting Dose in Patients with Moderate and Severe Hepatic ImpairmentAST = Aspartate Aminotransferase ; MBC = Metastatic Breast Cancer ; NSCLC = Non - Small Cell Lung Cancer ; ULN = Upper limit of normal .
+a Dosage recommendations are for the first course of therapy .
+The need for further dose adjustments in subsequent courses should be based on individual tolerance .
+b A dose increase to 260 mg / m2 for patients with metastatic breast cancer or 100 mg / m2 for patients with non - small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles .
+c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer .
+AST Levels Bilirubin Levels ABRAXANE Dosea MBC NSCLC c Adenocarcinoma of Pancreasc Moderate < 10 x ULN AND > 1 . 5 to ≤ 3 x ULN 200 mg / m2 b 80 mg / m2 b not recommended Severe < 10 x ULN AND > 3 to ≤ 5 x ULN 200 mg / m2 b 80 mg / m2 b not recommended > 10 x ULN OR > 5 x ULN not recommended not recommended not recommended 2 . 6 Dosage Modifications for Adverse Reactions Metastatic Breast Cancer Patients who experience severe neutropenia ( neutrophils less than 500 cells / mm3 for a week or longer ) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg / m2 for subsequent courses of ABRAXANE .
+For recurrence of severe neutropenia or severe sensory neuropathy , additional dose reduction should be made to 180 mg / m2 .
+For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2 , followed by a dose reduction for all subsequent courses of ABRAXANE [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 , 5 . 2 ) and Adverse Reactions ( 6 . 1 ) ] .
+Non - Small Cell Lung Cancer • • Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count ( ANC ) is at least 1500 cells / mm3 and platelet count is at least 100 , 000 cells / mm3 [ see Contraindications ( 4 ) , Warnings and Precautions ( 5 . 1 ) and Adverse Reactions ( 6 . 1 ) ] .
+• • In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells / mm3 and platelet count of at least 100 , 000 cells / mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells / mm3 and platelet count of at least 50 , 000 cells / mm3 on Days 8 or 15 of the cycle .
+Upon resumption of dosing , permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2 .
+• • Withhold ABRAXANE for Grade 3 - 4 peripheral neuropathy .
+Resume ABRAXANE and carboplatin at reduced doses ( see Table 2 ) when peripheral neuropathy improves to Grade 1 or completely resolves [ see Warnings and Precautions ( 5 . 2 ) and Adverse Reactions ( 6 . 1 ) ] .
+Table 2 : Permanent Dose Reductions for Hematologic and Neurologic Adverse Reactions in NSCLCAdverse Reaction Occurrence Weekly ABRAXANE Dose ( mg / m2 ) Every 3 - Week Carboplatin Dose ( AUC mg • min / mL ) Neutropenic Fever ( ANC less than 500 / mm3 with fever > 38 ° C ) OR Delay of next cycle by more than 7 days for ANC less than 1500 / mm3 OR ANC less than 500 / mm3 for more than 7 days First 75 4 . 5 Second 50 3 Third Discontinue Treatment Platelet count less than 50 , 000 / mm3 First 75 4 . 5 Second Discontinue Treatment Severe sensory Neuropathy – Grade 3 or 4 First 75 4 . 5 Second 50 3 Third Discontinue Treatment Adenocarcinoma of the Pancreas Dose level reductions for patients with adenocarcinoma of the pancreas , as referenced in Tables 4 and 5 , are provided in Table 3 .
+Table 3 : Dose Level Reductions for Patients with Adenocarcinoma of the PancreasDose Level ABRAXANE ( mg / m2 ) Gemcitabine ( mg / m2 ) Full dose 125 1000 1 st dose reduction 100 800 2 nd dose reduction 75 600 If additional dose reduction required Discontinue Discontinue Recommended dose modifications for neutropenia and thrombocytopenia for patients with adenocarcinoma of the pancreas are provided in Table 4 .
+Table 4 : Dose Recommendation and Modifications for Neutropenia and / or Thrombocytopenia at the Start of a Cycle or within a Cycle for Patients with Adenocarcinoma of the PancreasANC = Absolute Neutrophil Count Cycle Day ANC ( cells / mm3 ) Platelet count ( cells / mm3 ) ABRAXANE / Gemcitabine Day 1 < 1500 OR < 100 , 000 Delay doses until recovery Day 8 500 to < 1000 OR 50 , 000 to < 75 , 000 Reduce 1 dose level < 500 OR < 50 , 000 Withhold doses Day 15 : If Day 8 doses were reduced or given without modification : 500 to < 1000 OR 50 , 000 to < 75 , 000 Reduce 1 dose level from Day 8 < 500 OR < 50 , 000 Withhold doses Day 15 : If Day 8 doses were withheld : ≥ 1000 OR ≥ 75 , 000 Reduce 1 dose level from Day 1 500 to < 1000 OR 50 , 000 to < 75 , 000 Reduce 2 dose levels from Day 1 < 500 OR < 50 , 000 Withhold doses Recommended dose modifications for other adverse reactions in patients with adenocarcinoma of the pancreas are provided in Table 5 .
+Table 5 : Dose Modifications for Other Adverse Reactions in Patients with Adenocarcinoma of the PancreasAdverse Reaction ABRAXANE Gemcitabine Febrile Neutropenia : Grade 3 or 4 Withhold until fever resolves and ANC ≥ 1500 ; resume at next lower dose level Peripheral Neuropathy : Grade 3 or 4 Withhold until improves to ≤ Grade 1 ; resume at next lower dose level No dose reduction Cutaneous Toxicity : Grade 2 or 3 Reduce to next lower dose level ; discontinue treatment if toxicity persists Gastrointestinal Toxicity : Grade 3 mucositis or diarrhea Withhold until improves to ≤ Grade 1 ; resume at next lower dose level 2 . 7 Preparation for Intravenous Administration ABRAXANE is a cytotoxic drug .
+Follow applicable special handling and disposal procedures . 1 The use of gloves is recommended .
+If ABRAXANE ( lyophilized cake or reconstituted suspension ) contacts the skin , wash the skin immediately and thoroughly with soap and water .
+Following topical exposure to paclitaxel , events may include tingling , burning , and redness .
+If ABRAXANE contacts mucous membranes , the membranes should be flushed thoroughly with water .
+ABRAXANE is supplied as a sterile lyophilized powder for reconstitution before use .
+Read the entire preparation instructions prior to reconstitution .
+• 1 .
+Aseptically , reconstitute each vial by injecting 20 mL of 0 . 9 % Sodium Chloride Injection , USP .
+• 2 .
+Slowly inject the 20 mL of 0 . 9 % Sodium Chloride Injection , USP , over a minimum of 1 minute , using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL .
+[ MULTIMEDIA ] • 3 .
+DO NOT INJECT the 0 . 9 % Sodium Chloride Injection , USP , directly onto the lyophilized cake as this will result in foaming .
+• 4 .
+Once the injection is complete , allow the vial to sit for a minimum of 5 minutes to ensure proper wetting of the lyophilized cake / powder .
+• 5 .
+Gently swirl and / or invert the vial slowly for at least 2 minutes until complete dissolution of any cake / powder occurs .
+Avoid generation of foam .
+• 6 .
+If foaming or clumping occurs , stand solution for at least 15 minutes until foam subsides .
+Each mL of the reconstituted formulation will contain 5 mg / mL paclitaxel .
+The reconstituted suspension should be milky and homogenous without visible particulates .
+If particulates or settling are visible , the vial should be gently inverted again to ensure complete resuspension prior to use .
+Discard the reconstituted suspension if precipitates are observed .
+Discard any unused portion .
+Calculate the exact total dosing volume of 5 mg / mL suspension required for the patient and slowly withdraw the dosing volume of the reconstituted suspension from the vial ( s ) into a syringe : Dosing volume ( mL ) = Total dose ( mg ) / 5 ( mg / mL ) .
+Inject the appropriate amount of reconstituted ABRAXANE into an empty , sterile intravenous bag [ plasticized polyvinyl chloride ( PVC ) containers , PVC or non - PVC type intravenous bag ] .
+The use of specialized DEHP - free solution containers or administration sets is not necessary to prepare or administer ABRAXANE infusions .
+The use of medical devices containing silicone oil as a lubricant ( i . e . , syringes and intravenous bags ) to reconstitute and administer ABRAXANE may result in the formation of proteinaceous strands .
+Visually inspect the reconstituted ABRAXANE suspension in the intravenous bag prior to administration .
+Discard the reconstituted suspension if proteinaceous strands , particulate matter , or discoloration are observed .
+[ MULTIMEDIA ] 2 . 8 Stability Unopened vials of ABRAXANE are stable until the date indicated on the package when stored between 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) in the original package .
+Neither freezing nor refrigeration adversely affects the stability of the product .
+Stability of Reconstituted Suspension in the Vial Reconstituted ABRAXANE in the vial should be used immediately , but may be refrigerated at 2 ° C to 8 ° C ( 36 ° F to 46 ° F ) for a maximum of 24 hours if necessary .
+If not used immediately , each vial of reconstituted suspension should be replaced in the original carton to protect it from bright light .
+Discard any unused portion .
+Stability of Reconstituted Suspension in the Infusion Bag The suspension for infusion when prepared as recommended in an infusion bag should be used immediately , but may be refrigerated at 2 ° C to 8 ° C ( 36 ° F to 46 ° F ) and protected from bright light for a maximum of 24 hours .
+The total combined refrigerated storage time of reconstituted ABRAXANE in the vial and in the infusion bag is 24 hours .
+This may be followed by storage in the infusion bag at ambient temperature ( approximately 25 ° C ) and lighting conditions for a maximum of 4 hours .
+Discard any unused portion .
+3 DOSAGE FORMS AND STRENGTHS For injectable suspension , for intravenous use : white to yellow , sterile lyophilized powder containing 100 mg of paclitaxel formulated as albumin - bound particles in single - dose vial for reconstitution .
+For injectable suspension : white to yellow , sterile , lyophilized powder containing 100 mg of paclitaxel formulated as albumin - bound particles in single - dose vial for reconstitution .
+( 3 ) 4 CONTRAINDICATIONS ABRAXANE is contraindicated in patients with : • • Baseline neutrophil counts of < 1 , 500 cells / mm3 [ see Warnings and Precautions ( 5 . 1 ) ] • • A history of severe hypersensitivity reactions to ABRAXANE [ see Warnings and Precautions ( 5 . 5 ) ] • • Neutrophil counts of < 1 , 500 cells / mm3 .
+( 4 ) • • Severe hypersensitivity reactions to ABRAXANE .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • • Sensory neuropathy occurs frequently and may require dose reduction or treatment interruption .
+( 5 . 2 ) • • Sepsis occurred in patients with or without neutropenia who received ABRAXANE in combination with gemcitabine ; interrupt ABRAXANE and gemcitabine until sepsis resolves , and if neutropenia , until neutrophils are at least 1500 cells / mm3 , then resume treatment at reduced dose levels .
+( 5 . 3 ) • • Pneumonitis occurred with the use of ABRAXANE in combination with gemcitabine ; permanently discontinue treatment with ABRAXANE and gemcitabine .
+( 5 . 4 ) • • Severe hypersensitivity reactions with fatal outcome have been reported .
+Do not rechallenge with this drug .
+( 4 , 5 . 5 ) • • Exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment , consider dose reduction and closely monitor patients with hepatic impairment .
+( 2 . 5 , 5 . 6 ) • • ABRAXANE contains albumin derived from human blood , which has a theoretical risk of viral transmission .
+( 5 . 7 ) • • ABRAXANE can cause fetal harm .
+Advise patients of potential risk to a fetus and to use effective contraception .
+( 5 . 8 , 8 . 1 , 8 . 3 ) 5 . 1 Severe Myelosuppression Severe myelosuppression ( primarily neutropenia ) is dose - dependent and a dose - limiting toxicity of ABRAXANE .
+In clinical studies , Grade 3 - 4 neutropenia occurred in 34 % of patients with metastatic breast cancer ( MBC ) , 47 % of patients with non - small cell lung cancer ( NSCLC ) , and 38 % of patients with pancreatic cancer .
+Monitor for severe neutropenia and thrombocytopenia by performing complete blood cell counts frequently , including prior to dosing on Day 1 ( for MBC ) and Days 1 , 8 , and 15 ( for NSCLC and for pancreatic cancer ) .
+Do not administer ABRAXANE to patients with baseline absolute neutrophil counts ( ANC ) of less than 1 , 500 cells / mm3 [ see Contraindications ( 4 ) ] .
+In the case of severe neutropenia ( < 500 cells / mm3 for seven days or more ) during a course of ABRAXANE therapy , reduce the dose of ABRAXANE in subsequent courses in patients with either MBC or NSCLC .
+In patients with MBC , resume treatment with every - 3 - week cycles of ABRAXANE after ANC recovers to a level > 1 , 500 cells / mm3 and platelets recover to a level > 100 , 000 cells / mm3 .
+In patients with NSCLC , resume treatment if recommended at permanently reduced doses for both weekly ABRAXANE and every - 3 - week carboplatin after ANC recovers to at least 1500 cells / mm3 and platelet count of at least 100 , 000 cells / mm3 on Day 1 or to an ANC of at least 500 cells / mm3 and platelet count of at least 50 , 000 cells / mm3 on Days 8 or 15 of the cycle [ see Dosage and Administration ( 2 . 6 ) ] .
+In patients with adenocarcinoma of the pancreas , withhold ABRAXANE and gemcitabine if the ANC is less than 500 cells / mm3 or platelets are less than 50 , 000 cells / mm3 and delay initiation of the next cycle if the ANC is less than 1500 cells / mm3 or platelet count is less than 100 , 000 cells / mm3 on Day 1 of the cycle .
+Resume treatment with appropriate dose reduction if recommended [ see Dosage and Administration ( 2 . 6 ) ] .
+5 . 2 Severe Neuropathy Sensory neuropathy is dose - and schedule - dependent [ see Adverse Reactions ( 6 . 1 ) ] .
+If ≥ Grade 3 sensory neuropathy develops , withhold ABRAXANE treatment until resolution to Grade 1 or 2 for metastatic breast cancer or until resolution to ≤ Grade 1 for NSCLC and pancreatic cancer followed by a dose reduction for all subsequent courses of ABRAXANE [ see Dosage and Administration ( 2 . 6 ) ] .
+5 . 3 Sepsis Sepsis occurred in 5 % of patients with or without neutropenia who received ABRAXANE in combination with gemcitabine .
+Biliary obstruction or presence of biliary stent were risk factors for severe or fatal sepsis .
+If a patient becomes febrile ( regardless of ANC ) initiate treatment with broad spectrum antibiotics .
+For febrile neutropenia , interrupt ABRAXANE and gemcitabine until fever resolves and ANC ≥ 1500 , then resume treatment at reduced dose levels [ see Dosage and Administration ( 2 . 6 ) ] .
+5 . 4 Pneumonitis Pneumonitis , including some cases that were fatal , occurred in 4 % of patients receiving ABRAXANE in combination with gemcitabine .
+Monitor patients for signs and symptoms of pneumonitis and interrupt ABRAXANE and gemcitabine during evaluation of suspected pneumonitis .
+After ruling out infectious etiology and upon making a diagnosis of pneumonitis , permanently discontinue treatment with ABRAXANE and gemcitabine .
+5 . 5 Severe Hypersensitivity Severe and sometimes fatal hypersensitivity reactions , including anaphylactic reactions , have been reported .
+Do not rechallenge patients who experience a severe hypersensitivity reaction to ABRAXANE with this drug [ see Contraindications ( 4 ) ] .
+Cross - hypersensitivity between ABRAXANE and other taxane products has been reported and may include severe reactions such as anaphylaxis .
+Closely monitor patients with a previous history of hypersensitivity to other taxanes during initiation of ABRAXANE therapy .
+5 . 6 Use in Patients with Hepatic Impairment The exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment .
+Closely monitor patients with hepatic impairment for severe myelosuppression .
+ABRAXANE is not recommended in patients who have total bilirubin > 5 x ULN or AST > 10 x ULN .
+In addition , ABRAXANE is not recommended in patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment ( total bilirubin > 1 . 5 x ULN and AST ≤ 10 x ULN ) .
+Reduce the starting dose for patients with moderate or severe hepatic impairment [ see Dosage and Administration ( 2 . 5 ) , Use in Specific Populations ( 8 . 7 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+5 . 7 Albumin ( Human ) ABRAXANE contains albumin ( human ) , a derivative of human blood .
+Based on effective donor screening and product manufacturing processes , it carries a remote risk for transmission of viral diseases .
+A theoretical risk for transmission of Creutzfeldt - Jakob Disease ( CJD ) also is considered extremely remote .
+No cases of transmission of viral diseases or CJD have ever been identified for albumin .
+5 . 8 Embryo - Fetal Toxicity Based on mechanism of action and findings in animals , ABRAXANE can cause fetal harm when administered to a pregnant woman .
+In animal reproduction studies , administration of paclitaxel formulated as albumin - bound particles to rats during pregnancy at doses lower than the maximum recommended human dose , based on body surface area , caused embryo - fetal toxicities , including intrauterine mortality , increased resorptions , reduced numbers of live fetuses , and malformations .
+Advise females of reproductive potential of the potential risk to a fetus .
+Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE [ see Use in Specific Populations ( 8 . 1 , 8 . 3 ) , Clinical Pharmacology ( 12 . 1 ) ] .
+Based on findings from genetic toxicity and animal reproduction studies , advise male patients with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [ see Use in Specific Populations ( 8 . 1 , 8 . 3 ) , Nonclinical Toxicology ( 13 . 1 ) ] .
+6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The most common adverse reactions ( ≥ 20 % ) with single - agent use of ABRAXANE in metastatic breast cancer are alopecia , neutropenia , sensory neuropathy , abnormal ECG , fatigue / asthenia , myalgia / arthralgia , AST elevation , alkaline phosphatase elevation , anemia , nausea , infections , and diarrhea [ see Adverse Reactions ( 6 . 1 ) ] .
+The most common adverse reactions ( ≥ 20 % ) of ABRAXANE in combination with carboplatin for non - small cell lung cancer are anemia , neutropenia , thrombocytopenia , alopecia , peripheral neuropathy , nausea , and fatigue [ see Adverse Reactions ( 6 . 1 ) ] .
+The most common serious adverse reactions of ABRAXANE in combination with carboplatin for non - small cell lung cancer are anemia ( 4 % ) and pneumonia ( 3 % ) .
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are neutropenia ( 3 % ) , thrombocytopenia ( 3 % ) , and peripheral neuropathy ( 1 % ) .
+The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia ( 24 % ) , thrombocytopenia ( 13 % ) , and anemia ( 6 % ) .
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia ( 41 % ) , thrombocytopenia ( 30 % ) , and anemia ( 16 % ) .
+In a randomized open - label trial of ABRAXANE in combination with gemcitabine for pancreatic adenocarcinoma [ see Clinical Studies ( 14 . 3 ) ] , the most common ( ≥ 20 % ) selected ( with a ≥ 5 % higher incidence ) adverse reactions of ABRAXANE are neutropenia , fatigue , peripheral neuropathy , nausea , alopecia , peripheral edema , diarrhea , pyrexia , vomiting , decreased appetite , rash , and dehydration [ see Adverse Reactions ( 6 . 1 ) ] .
+The most common serious adverse reactions of ABRAXANE ( with a ≥ 1 % higher incidence ) are pyrexia ( 6 % ) , dehydration ( 5 % ) , pneumonia ( 4 % ) , and vomiting ( 4 % ) .
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy ( 8 % ) , fatigue ( 4 % ) , and thrombocytopenia ( 2 % ) .
+The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia ( 10 % ) and peripheral neuropathy ( 6 % ) .
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia ( 16 % ) , thrombocytopenia ( 12 % ) , fatigue ( 8 % ) , peripheral neuropathy ( 15 % ) , anemia ( 5 % ) , and diarrhea ( 5 % ) .
+• • The most common adverse reactions ( ≥ 20 % ) in metastatic breast cancer are alopecia , neutropenia , sensory neuropathy , abnormal ECG , fatigue / asthenia , myalgia / arthralgia , AST elevation , alkaline phosphatase elevation , anemia , nausea , infections , and diarrhea .
+( 6 . 1 ) • • The most common adverse reactions ( ≥ 20 % ) in NSCLC are anemia , neutropenia , thrombocytopenia , alopecia , peripheral neuropathy , nausea , and fatigue .
+( 6 . 1 ) • • The most common ( ≥ 20 % ) adverse reactions of ABRAXANE in adenocarcinoma of the pancreas are neutropenia , fatigue , peripheral neuropathy , nausea , alopecia , peripheral edema , diarrhea , pyrexia , vomiting , decreased appetite , rash , and dehydration .
+( 6 . 1 ) To report SUSPECTED ADVERSE REACTIONS , contact Bristol - Myers Squibb at 1 - 800 - 721 - 5072 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Metastatic Breast Cancer Table 6 shows the frequency of important adverse reactions in the randomized comparative trial for the patients who received either single - agent ABRAXANE or paclitaxel injection for the treatment of metastatic breast cancer .
+Table 6 : Adverse Reactions in the Randomized Metastatic Breast Cancer Study on an Every - 3 - Weeks Schedulea Paclitaxel injection patients received premedication .
+b Includes treatment - related events related to hypersensitivity ( e . g . , flushing , dyspnea , chest pain , hypotension ) that began on a day of dosing .
+c Severe events are defined as at least Grade 3 toxicity .
+Percent of Patients ABRAXANE 260 mg / m2 over 30 min ( n = 229 ) Paclitaxel Injection 175 mg / m2 over 3 ha ( n = 225 ) Bone Marrow Neutropenia < 2 . 0 x 109 / L 80 82 < 0 . 5 x 109 / L 9 22 Thrombocytopenia < 100 x 109 / L 2 3 < 50 x 109 / L < 1 < 1 Anemia < 11 g / dL 33 25 < 8 g / dL 1 < 1 Infections 24 20 Febrile Neutropenia 2 1 Neutropenic Sepsis < 1 < 1 Bleeding 2 2 Hypersensitivity Reactionb All 4 12 Severec 0 2 Cardiovascular Vital Sign Changes During Administration Bradycardia < 1 < 1 Hypotension 5 5 Severe Cardiovascular Eventsc 3 4 Abnormal ECG All Patients 60 52 Patients with Normal Baseline 35 30 Respiratory Cough 7 6 Dyspnea 12 9 Sensory Neuropathy Any Symptoms 71 56 Severe Symptomsc 10 2 Myalgia / Arthralgia Any Symptoms 44 49 Severe Symptomsc 8 4 Asthenia Any Symptoms 47 39 Severe Symptomsc 8 3 Fluid Retention / Edema Any Symptoms 10 8 Severe Symptomsc 0 < 1 Gastrointestinal Nausea Any Symptoms 30 22 Severe Symptomsc 3 < 1 Vomiting Any Symptoms 18 10 Severe Symptomsc 4 1 Diarrhea Any Symptoms 27 15 Severe Symptomsc < 1 1 Mucositis Any Symptoms 7 6 Severe Symptomsc < 1 0 Alopecia 90 94 Hepatic ( Patients with Normal Baseline ) Bilirubin Elevations 7 7 Alkaline Phosphatase Elevations 36 31 AST ( SGOT ) Elevations 39 32 Injection Site Reaction < 1 1 Other Adverse Reactions Hematologic Disorders Neutropenia was dose dependent and reversible .
+Among patients with metastatic breast cancer in the randomized trial , neutrophil counts declined below 500 cells / mm3 ( Grade 4 ) in 9 % of the patients treated with a dose of 260 mg / m2 compared to 22 % in patients receiving paclitaxel injection at a dose of 175 mg / m2 .
+Pancytopenia has been observed in clinical trials .
+Infections Infectious episodes were reported in 24 % of the patients treated with ABRAXANE .
+Oral candidiasis , respiratory tract infections and pneumonia were the most frequently reported infectious complications .
+Hypersensitivity Reactions ( HSRs ) Grade 1 or 2 HSRs occurred on the day of ABRAXANE administration and consisted of dyspnea ( 1 % ) and flushing , hypotension , chest pain , and arrhythmia ( all < 1 % ) .
+The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied .
+Cardiovascular Hypotension , during the 30 - minute infusion , occurred in 5 % of patients .
+Bradycardia , during the 30 - minute infusion , occurred in < 1 % of patients .
+These vital sign changes most often caused no symptoms and required neither specific therapy nor treatment discontinuation .
+Severe cardiovascular events possibly related to single - agent ABRAXANE occurred in approximately 3 % of patients .
+These events included cardiac ischemia / infarction , chest pain , cardiac arrest , supraventricular tachycardia , edema , thrombosis , pulmonary thromboembolism , pulmonary emboli , and hypertension .
+Cases of cerebrovascular attacks ( strokes ) and transient ischemic attacks have been reported .
+Electrocardiogram ( ECG ) abnormalities were common among patients at baseline .
+ECG abnormalities on study did not usually result in symptoms , were not dose - limiting , and required no intervention .
+ECG abnormalities were noted in 60 % of patients .
+Among patients with a normal ECG prior to study entry , 35 % of all patients developed an abnormal tracing while on study .
+The most frequently reported ECG modifications were non - specific repolarization abnormalities , sinus bradycardia , and sinus tachycardia .
+Respiratory Dyspnea ( 12 % ) , cough ( 7 % ) , and pneumothorax ( < 1 % ) were reported after treatment with ABRAXANE .
+Neurologic The frequency and severity of sensory neuropathy increased with cumulative dose .
+Sensory neuropathy was the cause of ABRAXANE discontinuation in 7 / 229 ( 3 % ) patients .
+Twenty - four patients ( 10 % ) treated with ABRAXANE developed Grade 3 peripheral neuropathy ; of these patients , 14 had documented improvement after a median of 22 days ; 10 patients resumed treatment at a reduced dose of ABRAXANE and 2 discontinued due to peripheral neuropathy .
+Of the 10 patients without documented improvement , 4 discontinued the study due to peripheral neuropathy .
+No Grade 4 sensory neuropathies were reported .
+Only one incident of motor neuropathy ( Grade 2 ) was observed in either arm of the controlled trial .
+Vision Disorders Ocular / visual disturbances occurred in 13 % of all patients ( n = 366 ) treated with ABRAXANE and 1 % were severe .
+The severe cases ( keratitis and blurred vision ) were reported in patients who received higher doses than those recommended ( 300 or 375 mg / m2 ) .
+These effects generally have been reversible .
+Arthralgia / Myalgia The symptoms were usually transient , occurred two or three days after ABRAXANE administration , and resolved within a few days .
+Hepatic Grade 3 or 4 elevations in GGT were reported for 14 % of patients treated with ABRAXANE and 10 % of patients treated with paclitaxel injection in the randomized trial .
+Renal Overall 11 % of patients experienced creatinine elevation , 1 % severe .
+No discontinuations , dose reductions , or dose delays were caused by renal toxicities .
+Other Clinical Events Nail changes ( changes in pigmentation or discoloration of nail bed ) have been reported .
+Edema occurred in 10 % of patients ; no patients had severe edema .
+Dehydration and pyrexia were also reported .
+Non - Small Cell Lung Cancer Adverse reactions were assessed in 514 ABRAXANE / carboplatin - treated patients and 524 paclitaxel injection / carboplatin - treated patients receiving first - line systemic treatment for locally advanced ( stage IIIB ) or metastatic ( IV ) non - small cell lung cancer ( NSCLC ) in a multicenter , randomized , open - label trial .
+ABRAXANE was administered as an intravenous infusion over 30 minutes at a dose of 100 mg / m2 on Days 1 , 8 , and 15 of each 21 - day cycle .
+Paclitaxel injection was administered as an intravenous infusion over 3 hours at a dose of 200 mg / m2 , following premedication .
+In both treatment arms carboplatin at a dose of AUC = 6 mg • min / mL was administered intravenously on Day 1 of each 21 - day cycle after completion of ABRAXANE / paclitaxel infusion .
+The differences in paclitaxel dose and schedule between the two arms limit direct comparison of dose - and schedule - dependent adverse reactions .
+Among patients evaluable for adverse reactions , the median age was 60 years , 75 % were men , 81 % were White , 49 % had adenocarcinoma , 43 % had squamous cell lung cancer , 76 % were ECOG PS 1 .
+Patients in both treatment arms received a median of 6 cycles of treatment .
+The following common ( ≥ 10 % incidence ) adverse reactions were observed at a similar incidence in ABRAXANE plus carboplatin - treated and paclitaxel injection plus carboplatin - treated patients : alopecia 56 % , nausea 27 % , fatigue 25 % , decreased appetite 17 % , asthenia 16 % , constipation 16 % , diarrhea 15 % , vomiting 12 % , dyspnea 12 % , and rash 10 % ( incidence rates are for the ABRAXANE plus carboplatin treatment group ) .
+Table 7 provides the frequency and severity of laboratory - detected abnormalities which occurred with a difference of ≥ 5 % for all grades ( 1 - 4 ) or ≥ 2 % for Grade 3 - 4 toxicity between ABRAXANE plus carboplatin - treated patients or paclitaxel injection plus carboplatin - treated patients .
+Table 7 : Selected Hematologic Laboratory - Detected Abnormalities with a Difference of ≥ 5 % for grades ( 1 - 4 ) or ≥ 2 % for Grade 3 - 4 Toxicity Between Treatment Groups1 508 patients assessed in ABRAXANE / carboplatin - treated group .
+2 514 patients assessed in paclitaxel injection / carboplatin - treated group .
+3 513 patients assessed in paclitaxel injection / carboplatin - treated group .
+ABRAXANE ( 100 mg / m2 weekly ) plus carboplatin Paclitaxel Injection ( 200 mg / m2 every 3 weeks ) plus carboplatin Grades 1 - 4 ( % ) Grade 3 - 4 ( % ) Grades 1 - 4 ( % ) Grade 3 - 4 ( % ) Anemia1 , 2 98 28 91 7 Neutropenia1 , 3 85 47 83 58 Thrombocytopenia1 , 3 68 18 55 9 Table 8 provides the frequency and severity of adverse reactions , which occurred with a difference of ≥ 5 % for all grades ( 1 - 4 ) or ≥ 2 % for Grade 3 - 4 between either treatment group for the 514 ABRAXANE plus carboplatin - treated patients compared with the 524 patients who received paclitaxel injection plus carboplatin .
+Table 8 : Selected Adverse Reactions with a Difference of ≥ 5 % for All Grade Toxicity or ≥ 2 % for Grade 3 - 4 Toxicity Between Treatment Groupsa Peripheral neuropathy is defined by the MedDRA Version 14 . 0 SMQ neuropathy ( broad scope ) .
+System Organ Class Adverse Reaction ABRAXANE ( 100 mg / m2 weekly ) + carboplatin ( N = 514 ) Paclitaxel Injection ( 200 mg / m2 every 3 weeks ) + carboplatin ( N = 524 ) Grade 1 - 4 Toxicity ( % ) Grade 3 - 4 Toxicity ( % ) Grades 1 - 4 Toxicity ( % ) Grade 3 - 4 Toxicity ( % ) Nervous system disorders Peripheral neuropathya 48 3 64 12 General disorders and administration site conditions Edema peripheral 10 0 4 < 1 Respiratory thoracic and mediastinal disorders Epistaxis 7 0 2 0 Musculoskeletal and connective tissue disorders Arthralgia 13 < 1 25 2 Myalgia 10 < 1 19 2 For the ABRAXANE plus carboplatin treated group , 17 / 514 ( 3 % ) patients developed Grade 3 peripheral neuropathy and no patients developed Grade 4 peripheral neuropathy .
+Grade 3 neuropathy improved to Grade 1 or resolved in 10 / 17 patients ( 59 % ) following interruption or discontinuation of ABRAXANE .
+Adenocarcinoma of the Pancreas Adverse reactions were assessed in 421 patients who received ABRAXANE plus gemcitabine and 402 patients who received gemcitabine for the first - line systemic treatment of metastatic adenocarcinoma of the pancreas in a multicenter , multinational , randomized , controlled , open - label trial .
+Patients received a median treatment duration of 3 . 9 months in the ABRAXANE / gemcitabine group and 2 . 8 months in the gemcitabine group .
+For the treated population , the median relative dose intensity for gemcitabine was 75 % in the ABRAXANE / gemcitabine group and 85 % in the gemcitabine group .
+The median relative dose intensity of ABRAXANE was 81 % .
+Table 9 provides the frequency and severity of laboratory - detected abnormalities which occurred at a higher incidence for Grades 1 - 4 ( ≥ 5 % ) or for Grade 3 - 4 ( ≥ 2 % ) toxicity in ABRAXANE plus gemcitabine - treated patients .
+Table 9 : Selected Hematologic Laboratory - Detected Abnormalities with a Higher Incidence ( ≥ 5 % for Grades 1 - 4 or ≥ 2 % for Grades 3 - 4 Events ) in the ABRAXANE / Gemcitabine Arma 405 patients assessed in ABRAXANE / gemcitabine - treated group .
+b 388 patients assessed in gemcitabine - treated group .
+c 404 patients assessed in ABRAXANE / gemcitabine - treated group .
+d Neutrophil growth factors were administered to 26 % of patients in the ABRAXANE / gemcitabine group .
+ABRAXANE ( 125 mg / m2 ) / Gemcitabined Gemcitabine Grades 1 - 4 ( % ) Grade 3 - 4 ( % ) Grades 1 - 4 ( % ) Grade 3 - 4 ( % ) Neutropeniaa , b 73 38 58 27 Thrombocytopeniab , c 74 13 70 9 Table 10 provides the frequency and severity of adverse reactions which occurred with a difference of ≥ 5 % for all grades or ≥ 2 % for Grade 3 or higher in the ABRAXANE plus gemcitabine - treated group compared to the gemcitabine group .
+Table 10 : Selected Adverse Reactions with a Higher Incidence ( ≥ 5 % for All Grade Toxicity or ≥ 2 % for Grade 3 or Higher Toxicity ) in the ABRAXANE / Gemcitabine Arm a Peripheral neuropathy is defined by the MedDRA Version 15 . 0 Standard MedDRA Query neuropathy ( broad scope ) .
+b Urinary tract infections includes the preferred terms of : urinary tract infection , cystitis , urosepsis , urinary tract infection bacterial , and urinary tract infection enterococcal .
+System Organ Class Adverse Reaction ABRAXANE ( 125 mg / m2 ) and gemcitabine ( N = 421 ) Gemcitabine ( N = 402 ) All Grades Grade 3 or Higher All Grades Grade 3 or Higher General disorders and administration site conditions Fatigue 248 ( 59 % ) 77 ( 18 % ) 183 ( 46 % ) 37 ( 9 % ) Peripheral edema 194 ( 46 % ) 13 ( 3 % ) 122 ( 30 % ) 12 ( 3 % ) Pyrexia 171 ( 41 % ) 12 ( 3 % ) 114 ( 28 % ) 4 ( 1 % ) Asthenia 79 ( 19 % ) 29 ( 7 % ) 54 ( 13 % ) 17 ( 4 % ) Mucositis 42 ( 10 % ) 6 ( 1 % ) 16 ( 4 % ) 1 ( < 1 % ) Gastrointestinal disorders Nausea 228 ( 54 % ) 27 ( 6 % ) 192 ( 48 % ) 14 ( 3 % ) Diarrhea 184 ( 44 % ) 26 ( 6 % ) 95 ( 24 % ) 6 ( 1 % ) Vomiting 151 ( 36 % ) 25 ( 6 % ) 113 ( 28 % ) 15 ( 4 % ) Skin and subcutaneous tissue disorders Alopecia 212 ( 50 % ) 6 ( 1 % ) 21 ( 5 % ) 0 Rash 128 ( 30 % ) 8 ( 2 % ) 45 ( 11 % ) 2 ( < 1 % ) Nervous system disorders Peripheral neuropathya 227 ( 54 % ) 70 ( 17 % ) 51 ( 13 % ) 3 ( 1 % ) Dysgeusia 68 ( 16 % ) 0 33 ( 8 % ) 0 Headache 60 ( 14 % ) 1 ( < 1 % ) 38 ( 9 % ) 1 ( < 1 % ) Metabolism and nutrition disorders Decreased appetite 152 ( 36 % ) 23 ( 5 % ) 104 ( 26 % ) 8 ( 2 % ) Dehydration 87 ( 21 % ) 31 ( 7 % ) 45 ( 11 % ) 10 ( 2 % ) Hypokalemia 52 ( 12 % ) 18 ( 4 % ) 28 ( 7 % ) 6 ( 1 % ) Respiratory , thoracic and mediastinal disorders Cough 72 ( 17 % ) 0 30 ( 7 % ) 0 Epistaxis 64 ( 15 % ) 1 ( < 1 % ) 14 ( 3 % ) 1 ( < 1 % ) Infections and infestations Urinary tract infections b 47 ( 11 % ) 10 ( 2 % ) 20 ( 5 % ) 1 ( < 1 % ) Musculoskeletal and connective tissue disorders Pain in extremity 48 ( 11 % ) 3 ( 1 % ) 24 ( 6 % ) 3 ( 1 % ) Arthralgia 47 ( 11 % ) 3 ( 1 % ) 13 ( 3 % ) 1 ( < 1 % ) Myalgia 44 ( 10 % ) 4 ( 1 % ) 15 ( 4 % ) 0 Psychiatric disorders Depression 51 ( 12 % ) 1 ( < 1 % ) 24 ( 6 % ) 0 Additional clinically relevant adverse reactions that were reported in < 10 % of the patients with adenocarcinoma of the pancreas who received ABRAXANE / gemcitabine included : Infections & infestations : oral candidiasis , pneumonia Vascular disorders : hypertension Cardiac disorders : tachycardia , congestive cardiac failure Eye disorders : cystoid macular edema Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17 % of patients who received ABRAXANE / gemcitabine compared to 1 % of patients who received gemcitabine only ; no patients developed Grade 4 peripheral neuropathy .
+The median time to first occurrence of Grade 3 peripheral neuropathy in the ABRAXANE arm was 140 days .
+Upon suspension of ABRAXANE dosing , the median time to improvement from Grade 3 peripheral neuropathy to ≤ Grade 1 was 29 days .
+Of ABRAXANE - treated patients with Grade 3 peripheral neuropathy , 44 % resumed ABRAXANE at a reduced dose .
+Sepsis Sepsis occurred in 5 % of patients who received ABRAXANE / gemcitabine compared to 2 % of patients who received gemcitabine alone .
+Sepsis occurred both in patients with and without neutropenia .
+Risk factors for sepsis included biliary obstruction or presence of biliary stent .
+Pneumonitis Pneumonitis occurred in 4 % of patients who received ABRAXANE / gemcitabine compared to 1 % of patients who received gemcitabine alone .
+Two of 17 patients in the ABRAXANE arm with pneumonitis died .
+6 . 2 Postmarketing Experience The following adverse reactions have been identified during postapproval use of ABRAXANE or with paclitaxel injection and may be expected to occur with ABRAXANE .
+Because these reactions are reported voluntarily from a population of uncertain size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Hypersensitivity Reactions Severe and sometimes fatal hypersensitivity reactions .
+Cross - hypersensitivity between ABRAXANE and other taxanes has been reported .
+Cardiovascular Congestive heart failure , left ventricular dysfunction , and atrioventricular block .
+Most patients were previously exposed to cardiotoxic drugs , such as anthracyclines , or had underlying cardiac history .
+Respiratory Pneumonitis , interstitial pneumonia , and pulmonary embolism Radiation pneumonitis in patients receiving concurrent radiotherapy .
+Lung fibrosis has been reported with paclitaxel injection .
+Neurologic Cranial nerve palsies and vocal cord paresis , as well as autonomic neuropathy resulting in paralytic ileus .
+Vision Disorders Reduced visual acuity due to cystoid macular edema ( CME ) .
+After cessation of treatment , CME may improve , and visual acuity may return to baseline .
+Abnormal visual evoked potentials in patients treated with paclitaxel injection suggest persistent optic nerve damage .
+Hepatic Hepatic necrosis and hepatic encephalopathy leading to death in patients treated with paclitaxel injection .
+Gastrointestinal ( GI ) Intestinal obstruction , intestinal perforation , pancreatitis , and ischemic colitis .
+In patients treated with paclitaxel injection , neutropenic enterocolitis ( typhlitis ) despite the coadministration of G - CSF , alone and in combination with other chemotherapeutic agents .
+Injection Site Reaction Extravasation .
+Closely monitor the ABRAXANE infusion site for possible infiltration during drug administration [ see Dosage and Administration 2 . 1 ) ] .
+Severe events such as phlebitis , cellulitis , induration , necrosis , and fibrosis have been reported with paclitaxel injection .
+In some cases , the onset of the injection site reaction occurred during a prolonged infusion or was delayed up to ten days .
+Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site has been reported .
+Metabolic and Nutritional Disorders Tumor lysis syndrome Other Clinical Events Skin reactions including generalized or maculopapular rash , erythema , and pruritus Photosensitivity reactions , radiation recall phenomenon , scleroderma , and in some patients previously exposed to capecitabine , reports of palmar - plantar erythrodysesthesia .
+Stevens - Johnson syndrome and toxic epidermal necrolysis have been reported .
+Conjunctivitis , cellulitis , and increased lacrimation have been reported with paclitaxel injection .
+Accidental Exposure Upon inhalation of paclitaxel , dyspnea , chest pain , burning eyes , sore throat , and nausea have been reported .
+Following topical exposure , tingling , burning , and redness have been reported .
+7 DRUG INTERACTIONS The metabolism of paclitaxel is catalyzed by CYP2C8 and CYP3A4 .
+Caution should be exercised when administering ABRAXANE concomitantly with medicines known to inhibit or induce either CYP2C8 or CYP3A4 .
+Use caution when concomitantly administering ABRAXANE with inhibitors or inducers of either CYP2C8 or CYP3A4 .
+( 7 ) 8 USE IN SPECIFIC POPULATIONS • • Lactation : Advise not to breastfeed .
+( 8 . 2 ) 8 . 1 Pregnancy Risk Summary Based on its mechanism of action and findings in animals , ABRAXANE can cause fetal harm when administered to a pregnant woman [ see Clinical Pharmacology ( 12 . 1 ) ] .
+There are no available human data on ABRAXANE use in pregnant women to inform the drug - associated risk .
+In animal reproduction studies , administration of paclitaxel formulated as albumin - bound particles to pregnant rats during the period of organogenesis resulted in embryo - fetal toxicity at doses approximately 2 % of the daily maximum recommended human dose on a mg / m2 basis ( see Data ) .
+Advise females of reproductive potential of the potential risk to a fetus .
+The background rate of major birth defects and miscarriage is unknown for the indicated population .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4 % and 15 % to 20 % , respectively .
+Data Animal Data In embryo - fetal development studies , intravenous administration of paclitaxel formulated as albumin - bound particles to rats during pregnancy , on gestation days 7 to 17 at doses of 6 mg / m2 ( approximately 2 % of the daily maximum recommended human dose on a mg / m2 basis ) caused embryo - fetal toxicities , as indicated by intrauterine mortality , increased resorptions ( up to 5 - fold ) , reduced numbers of litters and live fetuses , reduction in fetal body weight , and increase in fetal anomalies .
+Fetal anomalies included soft tissue and skeletal malformations , such as eye bulge , folded retina , microphthalmia , and dilation of brain ventricles .
+8 . 2 Lactation Risk Summary There are no data on the presence of paclitaxel in human milk , or its effect on the breastfed child or on milk production .
+In animal studies , paclitaxel and / or its metabolites were excreted into the milk of lactating rats ( see Data ) .
+Because of the potential for serious adverse reactions in a breastfed child from ABRAXANE , advise lactating women not to breastfeed during treatment with ABRAXANE and for two weeks after the last dose .
+Data Animal Data Following intravenous administration of radiolabeled paclitaxel to rats on days 9 to 10 postpartum , concentrations of radioactivity in milk were higher than in plasma and declined in parallel with the plasma concentrations .
+8 . 3 Females and Males of Reproductive Potential Based on animal studies and mechanism of action , ABRAXANE can cause fetal harm when administered to a pregnant woman [ see Use in Specific Populations ( 8 . 1 ) ] .
+Pregnancy Testing Verify the pregnancy status of females of reproductive potential prior to starting treatment with ABRAXANE .
+Contraception Females Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE .
+Males Based on findings in genetic toxicity and animal reproduction studies , advise males with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [ see Use in Specific Populations ( 8 . 1 ) and Nonclinical Toxicology ( 13 . 1 ) ] .
+Infertility Females and Males Based on findings in animals , ABRAXANE may impair fertility in females and males of reproductive potential [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+8 . 4 Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Pharmacokinetics , safety , and antitumor activity of ABRAXANE were assessed in an open - label , dose escalation , dose expansion study ( NCT01962103 ) in 96 pediatric patients aged 1 . 4 to < 17 years with recurrent or refractory pediatric solid tumors .
+The maximum tolerated dose ( MTD ) normalized for body surface area ( BSA ) was lower in pediatric patients compared to adults .
+No new safety signals were observed in pediatric patients across these studies .
+Paclitaxel protein - bound exposures normalized by dose were higher in 96 pediatric patients ( aged 1 . 4 to < 17 years ) as compared to those in adults .
+8 . 5 Geriatric Use Of the 229 patients in the randomized study who received ABRAXANE for the treatment of metastatic breast cancer , 13 % were at least 65 years of age and < 2 % were 75 years or older .
+This study of ABRAXANE did not include a sufficient number of patients with metastatic breast cancer who were 65 years and older to determine whether they respond differently from younger patients .
+A subsequent pooled analysis was conducted in 981 patients receiving ABRAXANE monotherapy for metastatic breast cancer , of which 15 % were 65 years of age or older and 2 % were 75 years of age or older .
+A higher incidence of epistaxis , diarrhea , dehydration , fatigue , and peripheral edema was found in patients 65 years of age or older .
+Of the 514 patients in the randomized study who received ABRAXANE and carboplatin for the first - line treatment of non - small cell lung cancer , 31 % were 65 years or older and 3 . 5 % were 75 years or older .
+Myelosuppression , peripheral neuropathy , and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years old .
+No overall difference in effectiveness , as measured by response rates , was observed between patients 65 years or older compared to patients younger than 65 years old .
+Of the 431 patients in the randomized study who received ABRAXANE and gemcitabine for the first - line treatment of pancreatic adenocarcinoma , 41 % were 65 years or older and 10 % were 75 years or older .
+No overall differences in effectiveness were observed between patients who were 65 years of age or older and younger patients .
+Diarrhea , decreased appetite , dehydration , and epistaxis were more frequent in patients 65 years or older compared with patients younger than 65 years old .
+Clinical studies of ABRAXANE did not include sufficient number of patients with pancreatic cancer who were 75 years and older to determine whether they respond differently from younger patients .
+8 . 6 Renal Impairment No adjustment of the starting ABRAXANE dose is required for patients with mild to moderate renal impairment ( estimated creatinine clearance 30 to < 90 mL / min ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+There are insufficient data to permit dosage recommendations in patients with severe renal impairment or end stage renal disease ( estimated creatinine clearance < 30 mL / min ) .
+8 . 7 Hepatic Impairment No adjustment of the starting ABRAXANE dose is required for patients with mild hepatic impairment ( total bilirubin > ULN and ≤ 1 . 5 x ULN and aspartate aminotransferase [ AST ] ≤ 10 x ULN ) .
+Reduce ABRAXANE starting dose in patients with moderate to severe hepatic impairment [ see Dosage and Administration ( 2 . 5 ) and Clinical Pharmacology ( 12 . 3 ) ] .
+ABRAXANE is not recommended for use in patients with total bilirubin > 5 x ULN or AST > 10 x ULN [ see Dosage and Administration ( 2 . 5 ) , Warnings and Precautions ( 5 . 6 ) , and Clinical Pharmacology ( 12 . 3 ) ] .
+ABRAXANE is not recommended for use in patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment [ see Dosage and Administration ( 2 . 5 ) ] .
+10 OVERDOSAGE There is no known antidote for ABRAXANE overdosage .
+The primary anticipated complications of overdosage would consist of bone marrow suppression , sensory neurotoxicity , and mucositis .
+11 DESCRIPTION ABRAXANE for Injectable Suspension ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) is paclitaxel formulated as albumin - bound nanoparticles with a mean particle size of approximately 130 nanometers .
+Paclitaxel exists in the particles in a non - crystalline , amorphous state .
+Paclitaxel is a microtubule inhibitor .
+The chemical name for paclitaxel is 5β , 20 - Epoxy - 1 , 2α , 4 , 7β , 10β , 13α - hexahydroxytax - 11 - en - 9 - one 4 , 10 - diacetate 2 - benzoate 13 - ester with ( 2 R , 3 S ) - N - benzoyl - 3 - phenylisoserine .
+The empirical formula is C47H51NO14 and the molecular weight is 853 . 91 .
+Paclitaxel has the following structural formula : [ MULTIMEDIA ] Paclitaxel is a white to off - white crystalline powder .
+It is highly lipophilic , insoluble in water , and melts at approximately 216 ° C to 217 ° C . ABRAXANE is supplied as a white to yellow , sterile , lyophilized powder for reconstitution with 20 mL of 0 . 9 % Sodium Chloride Injection , USP prior to intravenous infusion .
+Each single ‑ dose vial contains 100 mg of paclitaxel ( bound to human albumin ) and approximately 900 mg of human albumin ( containing sodium caprylate and sodium acetyltryptophanate ) .
+Each milliliter ( mL ) of reconstituted suspension contains 5 mg paclitaxel formulated as albumin ‑ bound particles .
+ABRAXANE is free of solvents .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action ABRAXANE is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization .
+This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions .
+Paclitaxel induces abnormal arrays or " bundles " of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis .
+12 . 3 Pharmacokinetics The pharmacokinetics of total paclitaxel following 30 - and 180 - minute infusions of ABRAXANE at dose levels of 80 to 375 mg / m2 ( 0 . 31 to 1 . 15 times the maximum approved recommended dosage ) were determined in clinical studies .
+Dose levels of mg / m2 refer to mg of paclitaxel in ABRAXANE .
+Following intravenous administration of ABRAXANE to patients with solid tumors , paclitaxel plasma concentrations declined in a biphasic manner , the initial rapid decline representing distribution to the peripheral compartment and the slower second phase representing drug elimination .
+Following ABRAXANE infusion , paclitaxel exhibited linear drug exposure ( AUC ) across clinical doses ranging from 80 to 300 mg / m2 ( 0 . 31 to 1 . 15 times the maximum approved recommended dosage ) .
+The pharmacokinetics of paclitaxel in ABRAXANE were independent of the duration of intravenous administration .
+The pharmacokinetic data of 260 mg / m2 ABRAXANE administered over a 30 - minute infusion was compared to the pharmacokinetics of 175 mg / m2 paclitaxel injection over a 3 - hour infusion .
+Clearance was larger ( 43 % ) and the volume of distribution was higher ( 53 % ) for ABRAXANE than for paclitaxel injection .
+There were no differences in terminal half - lives .
+Distribution Following ABRAXANE administration to patients with solid tumors , paclitaxel is evenly distributed into blood cells and plasma and is highly bound to plasma proteins ( 94 % ) .
+The total volume of distribution is approximately 1741 L ; the large volume of distribution indicates extensive extravascular distribution and / or tissue binding of paclitaxel .
+In a within - patient comparison study , the fraction of unbound paclitaxel in plasma was significantly higher with ABRAXANE ( 6 . 2 % ) than with solvent - based paclitaxel ( 2 . 3 % ) .
+This contributes to significantly higher exposure to unbound paclitaxel with ABRAXANE compared with solvent - based paclitaxel , when the total exposure is comparable .
+In vitro studies of binding to human serum proteins , using paclitaxel concentrations ranging from 0 . 1 to 50 µg / mL , indicated that the presence of cimetidine , ranitidine , dexamethasone , or diphenhydramine did not affect protein binding of paclitaxel .
+Elimination At the clinical dose range of 80 to 300 mg / m2 ( 0 . 31 to 1 . 15 times the maximum approved recommended dosage ) , the mean total clearance of paclitaxel ranges from 13 to 30 L / h / m2 and the mean terminal half - life ranges from 13 to 27 hours .
+Metabolism In vitro studies with human liver microsomes and tissue slices showed that paclitaxel in ABRAXANE was metabolized primarily to 6α - hydroxypaclitaxel by CYP2C8 ; and to two minor metabolites , 3 ' - p - hydroxypaclitaxel and 6α , 3 ' - p - dihydroxypaclitaxel , by CYP3A4 .
+In vitro , the metabolism of paclitaxel to 6α - hydroxypaclitaxel was inhibited by a number of agents ( ketoconazole , verapamil , diazepam , quinidine , dexamethasone , cyclosporin , teniposide , etoposide , and vincristine ) , but the concentrations used exceeded those found in vivo following normal therapeutic doses .
+Testosterone , 17α - ethinyl estradiol , retinoic acid , and quercetin , a specific inhibitor of CYP2C8 , also inhibited the formation of 6α - hydroxypaclitaxel in vitro .
+The pharmacokinetics of paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates , inducers , or inhibitors of CYP2C8 and / or CYP3A4 [ see Drug Interactions ( 7 ) ] .
+Excretion After a 30 - minute infusion of 260 mg / m2 doses of ABRAXANE , the mean values for cumulative urinary recovery of unchanged drug ( 4 % ) indicated extensive non - renal clearance .
+Less than 1 % of the total administered dose was excreted in urine as the metabolites 6α - hydroxypaclitaxel and 3 ' - p - hydroxypaclitaxel .
+Fecal excretion was approximately 20 % of the total dose administered .
+Specific Populations No clinically meaningful differences in the pharmacokinetics of paclitaxel in ABRAXANE were observed based on body weight ( 40 to 143 kg ) , body surface area ( 1 . 3 to 2 . 4 m2 ) , sex , race ( Asian vs . White ) , age ( 24 to 85 years ) , type of solid tumors , mild to moderate renal impairment ( creatinine clearance 30 to < 90 mL / min ) , and mild hepatic impairment ( total bilirubin > 1 to ≤ 1 . 5 x ULN and AST ≤ 10 x ULN ) .
+Patients with moderate ( total bilirubin > 1 . 5 to 3 x ULN and AST ≤ 10 x ULN ) or severe ( total bilirubin > 3 to 5 x ULN ) hepatic impairment had a 22 % to 26 % decrease in the maximum elimination rate of paclitaxel and approximately 20 % increase in mean paclitaxel AUC compared with patients with normal hepatic function ( total bilirubin ≤ ULN and AST ≤ ULN ) [ see Dosage and Administration ( 2 . 5 ) and Use in Specific Populations ( 8 . 7 ) ] .
+The effect of severe renal impairment or end stage renal disease ( creatinine clearance < 30 mL / min ) on the pharmacokinetics of paclitaxel in ABRAXANE is unknown .
+Drug Interaction Studies Carboplatin : Administration of carboplatin immediately after the completion of the ABRAXANE infusion to patients with NSCLC did not cause clinically meaningful changes in paclitaxel exposure .
+The observed mean AUCinf of free carboplatin was approximately 23 % higher than the targeted value ( 6 min * mg / mL ) , but its mean half - life and clearance were consistent with those reported in the absence of paclitaxel .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility The carcinogenic potential of ABRAXANE has not been studied .
+Paclitaxel was clastogenic in vitro ( chromosome aberrations in human lymphocytes ) and in vivo ( micronucleus test in mice ) .
+Paclitaxel was not mutagenic in the Ames test or the CHO / HGPRT gene mutation assay .
+Administration of paclitaxel formulated as albumin - bound particles to male rats at 42 mg / m2 on a weekly basis ( approximately 16 % of the daily maximum recommended human exposure on a body surface area basis ) for 11 weeks prior to mating with untreated female rats resulted in significantly reduced fertility accompanied by decreased pregnancy rates and increased loss of embryos in mated females .
+A dose of 42 mg / m2 also reduced male reproductive organ weights , mating performance , and sperm production .
+Testicular atrophy / degeneration was observed in single - dose toxicology studies in animals administered paclitaxel formulated as albumin - bound particles at doses lower than the recommended human dose ; doses were 54 mg / m2 in rodents and 175 mg / m2 in dogs .
+Similar testicular degeneration was seen in monkeys administered three weekly doses of 108 mg / m2 paclitaxel formulated as albumin bound particles .
+Administration of paclitaxel prior to and during mating produced impairment of fertility in male and female rats .
+Paclitaxel caused reduced fertility and reproductive indices , and increased embryo - fetal toxicity .
+14 CLINICAL STUDIES 14 . 1 Metastatic Breast Cancer Data from 106 patients accrued in two single arm open label studies and from 460 patients enrolled in a randomized comparative study were available to support the use of ABRAXANE in metastatic breast cancer .
+Single Arm Open Label Studies In one study , ABRAXANE was administered as a 30 - minute infusion at a dose of 175 mg / m2 to 43 patients with metastatic breast cancer .
+The second trial utilized a dose of 300 mg / m2 as a 30 - minute infusion in 63 patients with metastatic breast cancer .
+Cycles were administered at 3 - week intervals .
+Objective responses were observed in both studies .
+Randomized Comparative Study This multicenter trial was conducted in 460 patients with metastatic breast cancer .
+Patients were randomized to receive ABRAXANE at a dose of 260 mg / m2 given as a 30 - minute infusion , or paclitaxel injection at 175 mg / m2 given as a 3 - hour infusion .
+Sixty - four percent of patients had impaired performance status ( ECOG 1 or 2 ) at study entry ; 79 % had visceral metastases ; and 76 % had > 3 sites of metastases .
+Fourteen percent of the patients had not received prior chemotherapy ; 27 % had received chemotherapy in the adjuvant setting , 40 % in the metastatic setting and 19 % in both metastatic and adjuvant settings .
+Fifty - nine percent received study drug as second or greater than second - line therapy .
+Seventy - seven percent of the patients had been previously exposed to anthracyclines .
+In this trial , patients in the ABRAXANE treatment arm had a statistically significantly higher reconciled target lesion response rate ( the trial primary endpoint ) of 21 . 5 % ( 95 % CI : 16 . 2 % to 26 . 7 % ) , compared to 11 . 1 % ( 95 % CI : 6 . 9 % to 15 . 1 % ) for patients in the paclitaxel injection treatment arm .
+See Table 11 .
+There was no statistically significant difference in overall survival between the two study arms .
+Table 11 : Efficacy Results from Randomized Metastatic Breast Cancer Triala Reconciled Target Lesion Response Rate ( TLRR ) was the prospectively defined protocol specific endpoint , based on independent radiologic assessment of tumor responses reconciled with investigator responses ( which also included clinical information ) for the first 6 cycles of therapy .
+The reconciled TLRR was lower than the investigator Reported Response Rates , which are based on all cycles of therapy .
+b From Cochran - Mantel - Haenszel test stratified by 1 st line vs . > 1 st line therapy .
+c Prior therapy included an anthracycline unless clinically contraindicated .
+ABRAXANE 260 mg / m2 Paclitaxel Injection 175 mg / m2 Reconciled Target Lesion Response Rate ( primary endpoint ) a All randomized patients Response Rate [ 95 % CI ] 50 / 233 ( 21 . 5 % ) [ 16 . 19 % – 26 . 73 % ] 25 / 227 ( 11 . 1 % ) [ 6 . 94 % – 15 . 09 % ] p - valueb 0 . 003 Patients who had failed combination chemotherapy or relapsed within 6 months of adjuvant chemotherapyc Response Rate [ 95 % CI ] 20 / 129 ( 15 . 5 % ) [ 9 . 26 % – 21 . 75 % ] 12 / 143 ( 8 . 4 % ) [ 3 . 85 % – 12 . 94 % ] 14 . 2 Non - Small Cell Lung Cancer A multicenter , randomized , open - label study was conducted in 1052 chemotherapy naive patients with Stage IIIb / IV non - small cell lung cancer to compare ABRAXANE in combination with carboplatin to paclitaxel injection in combination with carboplatin as first - line treatment in patients with advanced non - small cell lung cancer .
+ABRAXANE was administered as an intravenous infusion over 30 minutes at a dose of 100 mg / m2 on Days 1 , 8 , and 15 of each 21 - day cycle .
+Paclitaxel injection was administered as an intravenous infusion over 3 hours at a dose of 200 mg / m2 , following premedication .
+In both treatment arms carboplatin at a dose of AUC = 6 mg • min / mL was administered intravenously on Day 1 of each 21 - day cycle after completion of ABRAXANE / paclitaxel infusion .
+Treatment was administered until disease progression or development of an unacceptable toxicity .
+The major efficacy outcome measure was overall response rate as determined by a central independent review committee using RECIST guidelines ( Version 1 . 0 ) .
+In the intent - to - treat ( all - randomized ) population , the median age was 60 years , 75 % were men , 81 % were White , 49 % had adenocarcinoma , 43 % had squamous cell lung cancer , 76 % were ECOG PS 1 , and 73 % were current or former smokers .
+Patients received a median of 6 cycles of treatment in both study arms .
+Patients in the ABRAXANE / carboplatin arm had a statistically significantly higher overall response rate compared to patients in the paclitaxel injection / carboplatin arm [ ( 33 % versus 25 % ) see Table 12 ] .
+There was no statistically significant difference in overall survival between the two study arms .
+Table 12 : Efficacy Results from Randomized Non - Small Cell Lung Cancer Trial ( Intent - to - Treat Population ) CI = confidence interval ; DoR = Duration of response .
+ABRAXANE ( 100 mg / m2 weekly ) + carboplatin ( N = 521 ) Paclitaxel Injection ( 200 mg / m2 every 3 weeks ) + carboplatin ( N = 531 ) Overall Response Rate ( ORR ) Confirmed complete or partial overall response , n ( % ) 170 ( 33 % ) 132 ( 25 % ) 95 % CI 28 . 6 , 36 . 7 21 . 2 , 28 . 5 P - value ( Chi - Square test ) 0 . 005 Median DoR in months ( 95 % CI ) 6 . 9 ( 5 . 6 , 8 . 0 ) 6 . 0 ( 5 . 6 , 7 . 1 ) Overall Response Rate by Histology Carcinoma / Adenocarcinoma 66 / 254 ( 26 % ) 71 / 264 ( 27 % ) Squamous Cell Carcinoma 94 / 229 ( 41 % ) 54 / 221 ( 24 % ) Large Cell Carcinoma 3 / 9 ( 33 % ) 2 / 13 ( 15 % ) Other 7 / 29 ( 24 % ) 5 / 33 ( 15 % ) 14 . 3 Adenocarcinoma of the Pancreas A multicenter , multinational , randomized , open - label study was conducted in 861 patients comparing ABRAXANE plus gemcitabine versus gemcitabine monotherapy as first - line treatment of metastatic adenocarcinoma of the pancreas .
+Key eligibility criteria were Karnofsky Performance Status ( KPS ) ≥ 70 , normal bilirubin level , transaminase levels ≤ 2 . 5 times the upper limit of normal ( ULN ) or ≤ 5 times the ULN for patients with liver metastasis , no prior cytotoxic chemotherapy in the adjuvant setting or for metastatic disease , no ongoing active infection requiring systemic therapy , and no history of interstitial lung disease .
+Patients with rapid decline in KPS ( ≥ 10 % ) or serum albumin ( ≥ 20 % ) during the 14 day screening period prior to study randomization were ineligible .
+A total of 861 patients were randomized ( 1 : 1 ) to the ABRAXANE / gemcitabine arm ( N = 431 ) or to the gemcitabine arm ( N = 430 ) .
+Randomization was stratified by geographic region ( Australia , Western Europe , Eastern Europe , or North America ) , KPS ( 70 to 80 versus 90 to 100 ) , and presence of liver metastasis ( yes versus no ) .
+Patients randomized to ABRAXANE / gemcitabine received ABRAXANE 125 mg / m2 as an intravenous infusion over 30 - 40 minutes followed by gemcitabine 1000 mg / m2 as an intravenous infusion over 30 - 40 minutes on Days 1 , 8 , and 15 of each 28 - day cycle .
+Patients randomized to gemcitabine received 1000 mg / m2 as an intravenous infusion over 30 - 40 minutes weekly for 7 weeks followed by a 1 - week rest period in Cycle 1 then as 1000 mg / m2 on Days 1 , 8 , and 15 of each subsequent 28 - day cycle .
+Patients in both arms received treatment until disease progression or unacceptable toxicity .
+The major efficacy outcome measure was overall survival ( OS ) .
+Additional outcome measures were progression - free survival ( PFS ) and overall response rate ( ORR ) , both assessed by independent , central , blinded radiological review using RECIST ( version 1 . 0 ) .
+In the intent - to - treat ( all randomized ) population , the median age was 63 years ( range 27 - 88 years ) with 42 % ≥ 65 years of age ; 58 % were men ; 93 % were White and KPS was 90 - 100 in 60 % .
+Disease characteristics included 46 % of patients with 3 or more metastatic sites ; 84 % of patients had liver metastasis ; and the location of the primary pancreatic lesion was in the head of pancreas ( 43 % ) , body ( 31 % ) , or tail ( 25 % ) .
+Results for overall survival , progression - free survival , and overall response rate are shown in Table 13 .
+Table 13 : Efficacy Results from Randomized Study in Patients with Adenocarcinoma of the Pancreas ( ITT Population ) CI = confidence interval , HR = hazard ratio of ABRAXANE plus gemcitabine / gemcitabine , ITT = intent - to - treat population .
+a Stratified Cox proportional hazard model .
+b Stratified log - rank test stratified by geographic region ( North America versus Others ) , Karnofsky performance score ( 70 to 80 versus 90 to 100 ) , and presence of liver metastasis ( yes versus no ) .
+c Based on Independent Radiological Reviewer Assessment .
+d Chi - square test .
+ABRAXANE ( 125 mg / m2 ) and gemcitabine ( N = 431 ) Gemcitabine ( N = 430 ) Overall Survival Number of deaths , n ( % ) 333 ( 77 ) 359 ( 83 ) Median Overall Survival ( months ) 8 . 5 6 . 7 95 % CI 7 . 9 , 9 . 5 6 . 0 , 7 . 2 HR ( 95 % CI ) a 0 . 72 ( 0 . 62 , 0 . 83 ) P - valueb < 0 . 0001 Progression - free Survivalc Death or progression , n ( % ) 277 ( 64 ) 265 ( 62 ) Median Progression - free Survival ( months ) 5 . 5 3 . 7 95 % CI 4 . 5 , 5 . 9 3 . 6 , 4 . 0 HR ( 95 % CI ) a 0 . 69 ( 0 . 58 , 0 . 82 ) P - valueb < 0 . 0001 Overall Response Ratec Confirmed complete or partial overall response , n ( % ) 99 ( 23 ) 31 ( 7 ) 95 % CI 19 . 1 , 27 . 2 5 . 0 , 10 . 1 P - value d < 0 . 0001 In exploratory analyses conducted in clinically relevant subgroups with a sufficient number of subjects , the treatment effects on overall survival were similar to that observed in the overall study population .
+Figure 1 : Kaplan - Meier Curve of Overall Survival ( Intent - to - Treat Population ) [ MULTIMEDIA ] [ MULTIMEDIA ] 15 REFERENCES 1 .
+OSHA Hazardous Drugs .
+OSHA http : / / www . osha . gov / SLTC / hazardousdrugs / index . html 16 HOW SUPPLIED / STORAGE AND HANDLING ABRAXANE for Injectable Suspension ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) is a white to yellow , sterile lyophilized powder supplied as : NDC : 68817 - 134 - 50 100 mg of paclitaxel in a single - dose vial , individually packaged in a carton .
+Store the vials in original cartons at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) .
+Retain in the original package to protect from bright light .
+Abraxane is a cytotoxic drug .
+Follow applicable special handling and disposal procedures . 1 17 PATIENT COUNSELING INFORMATION Advise the patient to read the approved patient labeling ( Patient Information ) .
+Severe Myelosuppression • • Patients must be informed of the risk of low blood cell counts and severe and life - threatening infections and instructed to contact their healthcare provider immediately for fever or evidence of infection [ see Warnings and Precautions ( 5 . 1 ) , ( 5 . 3 ) ] .
+Severe Neuropathy • • Patients must be informed that sensory neuropathy occurs frequently with ABRAXANE and patients should advise their healthcare providers of numbness , tingling , pain , or weakness involving the extremities [ see Warnings and Precautions ( 5 . 2 ) ] .
+Pneumonitis • • Instruct patients to contact their healthcare provider immediately for sudden onset of dry persistent cough , or shortness of breath [ see Warnings and Precautions ( 5 . 4 ) ] .
+Severe Hypersensitivity • • Instruct patients to contact their healthcare provider for signs of an allergic reaction , which could be severe and sometimes fatal [ see Warnings and Precautions ( 5 . 5 ) ] .
+Common Adverse Reactions • • Explain to patients that alopecia , fatigue / asthenia , and myalgia / arthralgia occur frequently with ABRAXANE .
+• • Instruct patients to contact their healthcare providers for persistent vomiting , diarrhea , or signs of dehydration [ see Adverse Reactions ( 6 ) ] .
+Embryo - Fetal Toxicity • • ABRAXANE injection can cause fetal harm .
+Advise patients to avoid becoming pregnant while receiving this drug .
+Females of reproductive potential should use effective contraception during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE [ see Warnings and Precautions ( 5 . 8 ) and Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+• • Advise male patients with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [ see Use in Specific Populations ( 8 . 3 ) ] .
+Lactation • • Advise patients not to breastfeed while taking ABRAXANE and for two weeks after receiving the last dose [ see Use in Specific Populations ( 8 . 2 ) ] .
+Infertility • • Advise males and females of reproductive potential that ABRAXANE may impair fertility [ see Use in Specific Populations ( 8 . 3 ) ] .
+Manufactured by : Bristol - Myers Squibb Company Princeton , NJ 08543 USA ABRAXANE ® is a trademark of Abraxis BioScience , LLC , a Bristol - Myers Squibb company .
+U . S . Patent Numbers : www . bms . com / patient - and - caregivers / our - medicines . html ABRPI . 013 / PPI . 013 Patient Information ABRAXANE ® ( ah - BRAKS - ane ) ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) What is ABRAXANE ?
+ABRAXANE is a prescription medicine used to treat : • • advanced breast cancer in people who have already received certain other medicines for their cancer .
+• • advanced non - small cell lung cancer ( NSCLC ) , in combination with carboplatin in people who cannot be treated with surgery or radiation .
+• • advanced pancreatic cancer , when used in combination with gemcitabine as the first medicine for advanced pancreatic cancer .
+It is not known if ABRAXANE is safe or effective in children .
+Do not receive ABRAXANE if : • • your white blood cell count is below 1 , 500 cells / mm3 .
+• • you have had a severe allergic reaction to ABRAXANE .
+Before you receive ABRAXANE , tell your healthcare provider about all of your medical conditions , including if you : • • have liver or kidney problems .
+• • had a prior allergic reaction to a taxane .
+• • are pregnant or plan to become pregnant .
+ABRAXANE can harm your unborn baby . Females who are able to become pregnant : • Tell your healthcare provider about all the medicines you take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+Know the medicines you take .
+Keep a list to show your healthcare provider and pharmacist when you get a new medicine .
+How will I receive ABRAXANE ?
+• • Your healthcare provider will prescribe ABRAXANE in an amount that is right for you .
+• • Your healthcare provider may give you certain medicines to help prevent allergic reactions if you have had an allergic reaction to ABRAXANE in the past .
+• • ABRAXANE will be given to you by intravenous ( IV ) infusion into your vein .
+• • Your healthcare provider should do blood tests regularly during treatment with ABRAXANE .
+• • Your healthcare provider may stop your treatment , delay your treatment , or change your dose of ABRAXANE if you have certain side effects .
+What are the possible side effects of ABRAXANE ?
+ABRAXANE may cause serious side effects , including : • • severe decreased blood cell counts .
+ABRAXANE can cause a severe decrease in neutrophils , a type of white blood cell which helps fight infections , and blood cells called platelets which help to clot blood .
+Your healthcare provider will check your blood cell count during your treatment with ABRAXANE .
+• • severe nerve problems ( neuropathy ) .
+Tell your healthcare provider if you have numbness , tingling , pain , or weakness in your hands or feet .
+• • severe infection ( sepsis ) .
+If you receive ABRAXANE in combination with gemcitabine , infections can be severe and lead to death .
+Tell your healthcare provider right away if you have a fever ( temperature greater than 100 . 4 ° F ) or develop signs of infection .
+• • lung or breathing problems .
+If you receive ABRAXANE in combination with gemcitabine , lung or breathing problems may be severe and can lead to death .
+Tell your healthcare provider right away if you suddenly get a dry cough that will not go away or shortness of breath .
+• • severe allergic reactions .
+Severe allergic reactions are medical emergencies that can happen in people who receive ABRAXANE and can lead to death .
+You may have an increased risk of having an allergic reaction to ABRAXANE if you are allergic to other taxane medicines .
+Your healthcare provider will monitor you closely for allergic reactions during your infusion of ABRAXANE .
+Tell your healthcare provider right away if you get any of these signs of a serious allergic reaction : trouble breathing , sudden swelling of your face , lips , tongue , throat , or trouble swallowing , hives ( raised bumps ) , rash , or redness all over your body .
+The most common side effects of ABRAXANE in people with breast cancer include : • • hair loss • • numbness , tingling , pain , or weakness in the hands or feet • • tiredness • • changes in your liver function tests • • nausea • • diarrhea • • infections • • decreased white blood cell count • • abnormal heartbeat • • joint and muscle pain • • low red blood cell count ( anemia ) .
+Red blood cells carry oxygen to your body tissues .
+Tell your healthcare provider if you feel weak , tired , or short of breath .
+The most common side effects of ABRAXANE in people with non - small cell lung cancer include : • • low red blood cell count ( anemia ) • • decreased platelet cell count • • numbness , tingling , pain , or weakness in the hands or feet • • tiredness • • decreased white blood cell count • • hair loss • • nausea The most common side effects of ABRAXANE in people with pancreatic cancer include : • • decreased white blood cell count • • numbness , tingling , pain , or weakness in the hands or feet • • hair loss • • diarrhea • • vomiting • • rash • • tiredness • • nausea • • swelling in the hands or feet • • fever • • decreased appetite • • signs of dehydration including thirst , dry mouth , dark yellow urine , decreased urine , headache , or muscle cramps Tell your healthcare provider if you have vomiting , diarrhea , or signs of dehydration that does not go away .
+ABRAXANE may cause fertility problems in males and females , which may affect your ability to have a child .
+Talk to your healthcare provider if this is a concern for you .
+These are not all of the possible side effects of ABRAXANE .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+General information about the safe and effective use of ABRAXANE .
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet .
+You can ask your healthcare provider or pharmacist for information about ABRAXANE that is written for health professionals .
+What are the ingredients in ABRAXANE ?
+Active ingredient : paclitaxel ( bound to human albumin ) .
+Other ingredient : human albumin ( containing sodium caprylate and sodium acetyltryptophanate ) .
+Manufactured by : Bristol - Myers Squibb Compnay , Princeton , NJ 08543 USA ABRAXANE ® is a trademark of Abraxis BioScience , LLC , a Bristol - Myers Squibb company .
+U . S . Patent Numbers : www . bms . com / patient - and - caregivers / our - medicines . html ABRPPI . 013 For more information , call 1 - 800 - 721 - 5072 .
+This Patient Information has been approved by the U . S . Food and Drug Administration .
+Revised : 10 / 2022 100 mg Vial Label NDC 68817 - 134 - 50 103450 Abraxane ® for Injectable Suspension ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) 100 mg per vial Single Use Vial Discard any unused portion .
+For Intravenous Use OnlyRx only Functional properties differ from other paclitaxel products .
+DO NOT SUBSTITUTE .
+[ MULTIMEDIA ] [ MULTIMEDIA ] 100 mg Vial Carton NDC 68817 - 134 - 50 103450 Abraxane ® for Injectable Suspension ( paclitaxel protein - bound particles for injectable suspension ) ( albumin - bound ) 100 mg per vial Single Use Vial Discard any unused portion .
+For Intravenous Use OnlyRx only Functional properties differ from other paclitaxel products .
+DO NOT SUBSTITUTE .
+[ MULTIMEDIA ] [ MULTIMEDIA ]

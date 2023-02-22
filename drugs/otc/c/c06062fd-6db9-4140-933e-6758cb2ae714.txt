@@ -1,0 +1,388 @@
+1 INDICATIONS AND USAGE GAVRETO is a kinase inhibitor indicated for treatment of : • Adult patients with metastatic rearranged during transfection ( RET ) fusion - positive non - small cell lung cancer as detected by an FDA approved test ( NSCLC ) . 1 ( 1 . 1 ) • Adult and pediatric patients 12 years of age and older with advanced or metastatic RET - mutant medullary thyroid cancer ( MTC ) who require systemic therapy . 1 ( 1 . 2 ) • Adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion - positive thyroid cancer who require systemic therapy and who are radioactive iodine - refractory ( if radioactive iodine is appropriate ) . 1 ( 1 . 3 ) 1 This indication is approved under accelerated approval based on overall response rate and duration of response .
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial ( s ) .
+1 . 1 Metastatic RET Fusion - Positive Non - Small Cell Lung Cancer GAVRETO is indicated for the treatment of adult patients with metastatic RET fusion - positive non - small cell lung cancer ( NSCLC ) as detected by an FDA approved test .
+This indication is approved under accelerated approval based on overall response rate and duration of response [ see Clinical Studies ( 14 . 1 ) ] .
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial ( s ) .
+1 . 2 RET - Mutant Medullary Thyroid Cancer GAVRETO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET - mutant medullary thyroid cancer ( MTC ) who require systemic therapy .
+This indication is approved under accelerated approval based on overall response rate and duration of response [ see Clinical Studies ( 14 . 2 ) ] .
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial ( s ) .
+1 . 3 RET Fusion - Positive Thyroid Cancer GAVRETO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion - positive thyroid cancer who require systemic therapy and who are radioactive iodine - refractory ( if radioactive iodine is appropriate ) .
+This indication is approved under accelerated approval based on overall response rate and duration of response [ see Clinical Studies ( 14 . 3 ) ] .
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial ( s ) .
+2 DOSAGE AND ADMINISTRATION Select patients for treatment with GAVRETO based on the presence of a RET gene fusion or gene mutation .
+( 2 . 1 , 14 ) The recommended dosage in adults and pediatric patients 12 years and older is 400 mg orally once daily on an empty stomach ( no food intake for at least 2 hours before and at least 1 hour after taking GAVRETO ) .
+( 2 . 2 ) 2 . 1 Patient Selection Select patients for treatment with GAVRETO based on the presence of a RET gene fusion ( NSCLC or thyroid cancer ) or RET gene mutation ( MTC ) [ see Clinical Studies ( 14 ) ] .
+Information on FDA - approved tests for RET gene fusion ( NSCLC ) is available at http : / / www . fda . gov / CompanionDiagnostics .
+An FDA - approved test for the detection of RET gene fusion ( thyroid cancer ) and RET gene mutations is not currently available .
+2 . 2 Recommended Dosage The recommended dosage of GAVRETO is 400 mg orally once daily on an empty stomach ( no food intake for at least 2 hours before and at least 1 hour after taking GAVRETO ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+Continue treatment until disease progression or until unacceptable toxicity .
+If a dose of GAVRETO is missed , it can be taken as soon as possible on the same day .
+Resume the regular daily dose schedule for GAVRETO the next day .
+Do not take an additional dose if vomiting occurs after GAVRETO but continue with the next dose as scheduled .
+2 . 3 Dosage Modifications for Adverse Reactions The recommended dose reductions and dosage modifications for adverse reactions are provided in Table 1 and Table 2 .
+Table 1 : Recommended Dose Reductions for GAVRETO for Adverse ReactionsDose Reduction Recommended Dosage First 300 mg once daily Second 200 mg once daily Third 100 mg once daily Permanently discontinue GAVRETO in patients who are unable to tolerate 100 mg taken orally once daily .
+The recommended dosage modifications for adverse reactions are provided in Table 2 .
+Table 2 : Recommended Dosage Modifications for GAVRETO for Adverse ReactionsAdverse Reaction Severity [ 1 ] Dosage Modification ILD / Pneumonitis [ see Warnings and Precautions ( 5 . 1 ) ] Grade 1 or 2 Withhold GAVRETO until resolution .
+Resume by reducing the dose as shown in Table 1 .
+Permanently discontinue GAVRETO for recurrent ILD / pneumonitis .
+Grade 3 or 4 Permanently discontinue for confirmed ILD / pneumonitis .
+Hypertension [ see Warnings and Precautions ( 5 . 2 ) ] Grade 3 Withhold GAVRETO for Grade 3 hypertension that persists despite optimal antihypertensive therapy .
+Resume at a reduced dose when hypertension is controlled .
+Grade 4 Discontinue GAVRETO .
+Hepatotoxicity [ see Warnings and Precautions ( 5 . 3 ) ] Grade 3 or 4 Withhold GAVRETO and monitor AST / ALT once weekly until resolution to Grade 1 or baseline .
+Resume at reduced dose ( Table 1 ) .
+If hepatotoxicity recurs at Grade 3 or higher , discontinue GAVRETO .
+Hemorrhagic Events [ see Warnings and Precautions ( 5 . 4 ) ] Grade 3 or 4 Withhold GAVRETO until recovery to baseline or Grade 0 or 1 .
+Discontinue GAVRETO for severe or life - threatening hemorrhagic events .
+Other Adverse Reactions [ see Adverse Reactions ( 6 . 1 ) ] Grade 3 or 4 Withhold GAVRETO until improvement to ≤ Grade 2 .
+Resume at reduced dose ( Table 1 ) .
+Permanently discontinue for recurrent Grade 4 adverse reactions .
+[ 1 ] Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events ( NCI - CTCAE ) version 4 . 03 2 . 4 Dose Modification for Use with Combined P - glycoprotein ( P - gp ) and Strong CYP3A Inhibitors Avoid coadministration of GAVRETO with known combined P - gp and strong CYP3A inhibitors .
+If coadministration with a combined P - gp and strong CYP3A inhibitor cannot be avoided , reduce the current dose of GAVRETO as recommended in Table 3 .
+After the inhibitor has been discontinued for 3 to 5 elimination half - lives , resume GAVRETO at the dose taken prior to initiating the combined P - gp and strong CYP3A inhibitor [ see Drug Interactions ( 7 . 1 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Table 3 : Recommended Dosage Modifications for GAVRETO for Coadministration with Combined P - gp and Strong CYP3A InhibitorsCurrent GAVRETO Dosage Recommended GAVRETO Dosage 400 mg orally once daily 200 mg orally once daily 300 mg orally once daily 200 mg orally once daily 200 mg orally once daily 100 mg orally once daily 2 . 5 Dose Modification for Use with Strong CYP3A Inducers Avoid coadministration of GAVRETO with strong CYP3A inducers .
+If coadministration with a strong CYP3A inducer cannot be avoided , increase the starting dose of GAVRETO to double the current GAVRETO dosage starting on Day 7 of coadministration of GAVRETO with the strong CYP3A inducer .
+After the inducer has been discontinued for at least 14 days , resume GAVRETO at the dose taken prior to initiating the strong CYP3A inducer [ see Drug Interactions ( 7 . 1 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+3 DOSAGE FORMS AND STRENGTHS Capsules : 100 mg , light blue , opaque , hard hydroxypropyl methylcellulose ( HPMC ) capsule printed with " BLU - 667 " on the capsule shell body and " 100 mg " on the capsule shell cap .
+Capsules : 100 mg .
+( 3 ) 4 CONTRAINDICATIONS None .
+None .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Interstitial Lung Disease ( ILD ) / Pneumonitis : Withhold GAVRETO for Grade 1 or 2 reactions until resolution and then resume at a reduced dose .
+Permanently discontinue for recurrent ILD / pneumonitis .
+Permanently discontinue for Grade 3 or 4 reactions .
+( 2 . 3 , 5 . 1 ) • Hypertension : Do not initiate GAVRETO in patients with uncontrolled hypertension .
+Optimize blood pressure ( BP ) prior to initiating GAVRETO .
+Monitor BP after 1 week , at least monthly thereafter and as clinically indicated .
+Withhold , reduce dose , or permanently discontinue GAVRETO based on severity .
+( 2 . 3 , 5 . 2 ) • Hepatotoxicity : Monitor ALT and AST prior to initiating GAVRETO , every 2 weeks during the first 3 months , then monthly thereafter and as clinically indicated .
+Withhold , reduce dose , or permanently discontinue GAVRETO based on severity .
+( 2 . 3 , 5 . 3 ) • Hemorrhagic Events : Permanently discontinue GAVRETO in patients with severe or life - threatening hemorrhage .
+( 2 . 3 , 5 . 4 ) • Tumor Lysis Syndrome : Closely monitor patients at risk and treat as clinically indicated .
+( 2 . 3 , 5 . 5 ) • Risk of Impaired Wound Healing : Withhold GAVRETO for at least 5 days prior to elective surgery .
+Do not administer for at least 2 weeks following major surgery and until adequate wound healing .
+The safety of resumption of GAVRETO after resolution of wound healing complications has not been established .
+( 5 . 6 ) • Embryo - Fetal Toxicity : Can cause fetal harm .
+Advise females of reproductive potential of the potential risk to a fetus and to use effective non - hormonal contraception .
+( 5 . 7 , 8 . 1 , 8 . 3 ) 5 . 1 Interstitial Lung Disease / Pneumonitis Severe , life - threatening , and fatal interstitial lung disease ( ILD ) / pneumonitis can occur in patients treated with GAVRETO .
+Pneumonitis occurred in 10 % of patients who received GAVRETO , including 2 . 7 % with Grade 3 - 4 , and 0 . 5 % with fatal reactions .
+Monitor for pulmonary symptoms indicative of ILD / pneumonitis .
+Withhold GAVRETO and promptly investigate for ILD in any patient who presents with acute or worsening of respiratory symptoms which may be indicative of ILD ( e . g . , dyspnea , cough , and fever ) .
+Withhold , reduce dose or permanently discontinue GAVRETO based on severity of confirmed ILD [ see Dosage and Administration ( 2 . 3 ) ] .
+5 . 2 Hypertension Hypertension occurred in 29 % of patients , including Grade 3 hypertension in 14 % of patients [ see Adverse Reactions ( 6 . 1 ) ] .
+Overall , 7 % had their dose interrupted and 3 . 2 % had their dose reduced for hypertension .
+Treatment - emergent hypertension was most commonly managed with anti - hypertension medications .
+Do not initiate GAVRETO in patients with uncontrolled hypertension .
+Optimize blood pressure prior to initiating GAVRETO .
+Monitor blood pressure after 1 week , at least monthly thereafter and as clinically indicated .
+Initiate or adjust anti - hypertensive therapy as appropriate .
+Withhold , reduce dose , or permanently discontinue GAVRETO based on the severity [ see Dosage and Administration ( 2 . 3 ) ] .
+5 . 3 Hepatotoxicity Serious hepatic adverse reactions occurred in 2 . 1 % of patients treated for GAVRETO .
+Increased AST occurred in 69 % of patients , including Grade 3 or 4 in 5 % and increased ALT occurred in 46 % of patients , including Grade 3 or 4 in 6 % [ see Adverse Reactions ( 6 . 1 ) ] .
+The median time to first onset for increased AST was 15 days ( range : 5 days to 1 . 5 years ) and increased ALT was 22 days ( range : 7 days to 1 . 7 years ) .
+Monitor AST and ALT prior to initiating GAVRETO , every 2 weeks during the first 3 months , then monthly thereafter and as clinically indicated .
+Withhold , reduce dose or permanently discontinue GAVRETO based on severity [ see Dosage and Administration ( 2 . 3 ) ] .
+5 . 4 Hemorrhagic Events Serious , including fatal , hemorrhagic events can occur with GAVRETO .
+Grade ≥ 3 hemorrhagic events occurred in 2 . 5 % of patients treated with GAVRETO including one patient with a fatal hemorrhagic event .
+Permanently discontinue GAVRETO in patients with severe or life - threatening hemorrhage [ see Dosage and Administration ( 2 . 3 ) ] .
+5 . 5 Tumor Lysis Syndrome Cases of tumor lysis syndrome ( TLS ) have been reported in patients with medullary thyroid carcinoma receiving GAVRETO [ see Adverse Reactions ( 6 . 1 ) ] .
+Patients may be at risk of TLS if they have rapidly growing tumors , a high tumor burden , renal dysfunction , or dehydration .
+Closely monitor patients at risk , consider appropriate prophylaxis including hydration , and treat as clinically indicated .
+5 . 6 Risk of Impaired Wound Healing Impaired wound healing can occur in patients who receive drugs that inhibit the vascular endothelial growth factor ( VEGF ) signaling pathway .
+Therefore , GAVRETO has the potential to adversely affect wound healing .
+Withhold GAVRETO for at least 5 days prior to elective surgery .
+Do not administer for at least 2 weeks following major surgery and until adequate wound healing .
+The safety of resumption of GAVRETO after resolution of wound healing complications has not been established .
+5 . 7 Embryo - Fetal Toxicity Based on findings from animal studies and its mechanism of action , GAVRETO can cause fetal harm when administered to a pregnant woman .
+Oral administration of pralsetinib to pregnant rats during the period of organogenesis resulted in malformations and embryolethality at maternal exposures below the human exposure at the clinical dose of 400 mg once daily .
+Advise pregnant women of the potential risk to a fetus .
+Advise females of reproductive potential to use effective non - hormonal contraception during treatment with GAVRETO and for 2 weeks after the final dose .
+Advise males with female partners of reproductive potential to use effective contraception during treatment with GAVRETO and for 1 week after the final dose [ see Use in Specific Populations ( 8 . 1 , 8 . 3 ) ] .
+6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling : • Interstitial Lung Disease / Pneumonitis [ see Warnings and Precautions ( 5 . 1 ) ] • Hypertension [ see Warnings and Precautions ( 5 . 2 ) ] • Hepatotoxicity [ see Warnings and Precautions ( 5 . 3 ) ] • Hemorrhagic Events [ see Warnings and Precautions ( 5 . 4 ) ] • Tumor Lysis Syndrome [ see Warnings and Precautions ( 5 . 5 ) ] • Risk of Impaired Wound Healing [ see Warnings and Precautions ( 5 . 6 ) ] The most common adverse reactions ( ≥ 25 % ) were constipation , hypertension , fatigue , musculoskeletal pain and diarrhea .
+The most common Grade 3 - 4 laboratory abnormalities ( ≥ 2 % ) were decreased lymphocytes , decreased neutrophils , decreased hemoglobin , decreased phosphate , decreased calcium ( corrected ) , decreased sodium , increased aspartate aminotransferase ( AST ) , increased alanine aminotransferase ( ALT ) , decreased platelets , and increased alkaline phosphatase .
+( 6 ) To report SUSPECTED ADVERSE REACTIONS , contact Genentech at 1 - 888 - 835 - 2555 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch .
+6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+The pooled safety population in the WARNINGS AND PRECAUTIONS reflect exposure to GAVRETO as a single agent at 400 mg orally once daily in 438 patients with RET - altered solid tumors , including with RET fusion - positive NSCLC ( n = 220 ) , and RET - altered thyroid cancer ( n = 138 ) , in ARROW [ see Clinical Studies ( 14 ) ] .
+Among 438 patients who received GAVRETO , 47 % were exposed for 6 months or longer and 23 % were exposed for greater than one year .
+The most common adverse reactions ( ≥ 25 % ) were constipation , hypertension , fatigue , musculoskeletal pain and diarrhea .
+The most common Grade 3 - 4 laboratory abnormalities ( ≥ 2 % ) were decreased lymphocytes , decreased neutrophils , decreased hemoglobin , decreased phosphate , decreased calcium ( corrected ) , decreased sodium , increased aspartate aminotransferase ( AST ) , increased alanine aminotransferase ( ALT ) , decreased platelets , and increased alkaline phosphatase .
+RET Fusion - Positive Non - Small Cell Lung Cancer The safety of GAVRETO was evaluated as a single agent at 400 mg orally once daily in 220 patients with metastatic rearranged during transfection ( RET fusion - positive ) non - small cell lung cancer ( NSCLC ) in ARROW [ see Clinical Studies ( 14 . 1 ) ] .
+Among the 220 patients who received GAVRETO , 42 % were exposed for 6 months or longer and 19 % were exposed for greater than one year .
+The median age was 60 years ( range : 26 to 87 years ) ; 52 % were female , 50 % were White , 41 % were Asian , and 4 % were Hispanic / Latino .
+Serious adverse reactions occurred in 45 % of patients who received GAVRETO .
+The most frequent serious adverse reaction ( in ≥ 2 % of patients ) was pneumonia , pneumonitis , sepsis , urinary tract infection , and pyrexia .
+Fatal adverse reactions occurred in 5 % of patients ; fatal adverse reactions which occurred in > 1 patient included pneumonia ( n = 3 ) and sepsis ( n = 2 ) .
+Permanent discontinuation due to an adverse reaction occurred in 15 % of patients who received GAVRETO .
+Adverse reactions resulting in permanent discontinuation which occurred in > 1 patient included pneumonitis ( 1 . 8 % ) , pneumonia ( 1 . 8 % ) , and sepsis ( 1 % ) .
+Dosage interruptions due to an adverse reaction occurred in 60 % of patients who received GAVRETO .
+Adverse reactions requiring dosage interruption in ≥ 2 % of patients included neutropenia , pneumonitis , anemia , hypertension , pneumonia , pyrexia , increased aspartate aminotransferase ( AST ) , increased blood creatine phosphokinase , fatigue , leukopenia , thrombocytopenia , vomiting , increased alanine aminotransferase ( ALT ) , sepsis , and dyspnea .
+Dose reductions due to adverse reactions occurred in 36 % of patients who received GAVRETO .
+Adverse reactions requiring dosage reductions in ≥ 2 % of patients included neutropenia , anemia , pneumonitis , neutrophil count decreased , fatigue , hypertension , pneumonia , and leukopenia .
+Table 4 summarizes the adverse reactions in RET Fusion - Positive NSCLC Patients in ARROW .
+Table 4 : Adverse Reactions ( ≥ 15 % ) in RET Fusion - Positive NSCLC Patients Who Received GAVRETO in ARROWAdverse Reactions GAVRETO N = 220 Grades 1 - 4 ( % ) Grades 3 - 4 ( % ) General Fatigue [ 1 ] 35 2 . 3 [ 2 ] Pyrexia 20 0 Edema [ 3 ] 20 0 Gastrointestinal Constipation 35 1 null Diarrhea [ 4 ] 24 3 . 2 null Dry Mouth 16 0 Musculoskeletal Disorders Musculoskeletal Pain [ 5 ] 32 0 Vascular Hypertension [ 6 ] 28 14 null Respiratory , thoracic and mediastinal Cough [ 7 ] 23 0 . 5 null Infections Pneumonia [ 8 ] 17 8 [ 1 ] Fatigue includes fatigue , asthenia [ 2 ] Only includes a Grade 3 adverse reaction [ 3 ] Edema includes edema peripheral , face edema , periorbital edema , eyelid edema , edema generalized , swelling [ 4 ] Diarrhea includes diarrhea , colitis , enteritis [ 5 ] Musculoskeletal pain includes back pain , myalgia , arthralgia , pain in extremity , musculoskeletal pain , neck pain , musculoskeletal chest pain , bone pain , musculoskeletal stiffness , arthritis , spinal pain [ 6 ] Hypertension includes hypertension , blood pressure increased [ 7 ] Cough includes cough , productive cough , upper - airway cough syndrome [ 8 ] Pneumonia includes pneumonia , atypical pneumonia , lung infection , pneumocystis jirovecii pneumonia , pneumonia bacterial , pneumonia cytomegaloviral , pneumonia haemophilus , pneumonia influenza , pneumonia streptococcal Table 5 summarizes the laboratory abnormalities in ARROW .
+Table 5 : Select Laboratory Abnormalities ( ≥ 20 % ) Worsening from Baseline in RET Fusion - Positive NSCLC Patients Who Received GAVRETO in ARROWLaboratory Abnormality GAVRETO N = 220 Grades 1 - 4 ( % ) Grades 3 - 4 ( % ) Denominator for each laboratory parameter is based on the number of patients with a baseline and post - treatment laboratory value available , which ranged from 216 to 218 patients .
+Chemistry Increased AST 74 2 . 3 Increased ALT 49 2 . 3 Increased alkaline phosphatase 42 1 . 8 Decreased calcium ( corrected ) 39 1 . 8 Decreased albumin 36 0 Decreased phosphate 35 11 Increased creatinine 33 0 . 5 Decreased sodium 29 7 Increased potassium 26 0 . 9 Hematology Decreased neutrophils 61 16 Decreased hemoglobin 58 9 Decreased lymphocytes 56 19 Decreased platelets 27 3 . 2 Clinically relevant laboratory abnormalities < 20 % of patients who received GAVRETO included increased phosphate ( 10 % ) .
+RET - altered Thyroid Cancer The safety of GAVRETO was evaluated as a single agent at 400 mg orally once daily in 138 patients with RET - altered Thyroid Cancer in ARROW [ see Clinical Studies ( 14 . 2 , 14 . 3 ) ] .
+Among the 138 patients who received GAVRETO , 68 % were exposed for 6 months or longer , and 40 % were exposed for greater than one year .
+The median age was 59 years ( range : 18 to 83 years ) ; 36 % were female , 74 % were White , 17 % were Asian , and 6 % were Hispanic / Latino .
+Serious adverse reactions occurred in 39 % of patients who received GAVRETO .
+The most frequent serious adverse reactions ( in ≥ 2 % of patients ) were pneumonia , pneumonitis , urinary tract infection , pyrexia , fatigue , diarrhea , dizziness , anemia , hyponatremia , and ascites .
+Fatal adverse reaction occurred in 2 . 2 % of patients ; fatal adverse reactions that occurred in > 1 patient included pneumonia ( n = 2 ) .
+Permanent discontinuation due to an adverse reaction occurred in 9 % of patients who received GAVRETO .
+Adverse reactions resulting in permanent discontinuation which occurred in > 1 patient included fatigue , pneumonia and anemia .
+Dosage interruptions due to an adverse reaction occurred in 67 % of patients who received GAVRETO .
+Adverse reactions requiring dosage interruption in ≥ 2 % of patients included neutropenia , hypertension , diarrhea , fatigue , pneumonitis , anemia , increased blood creatine phosphokinase , pneumonia , urinary tract infection , musculoskeletal pain , vomiting , pyrexia , increased AST , dyspnea , hypocalcemia , cough , thrombocytopenia , abdominal pain , increased blood creatinine , dizziness , headache , decreased lymphocyte count , stomatitis , and syncope .
+Dose reductions due to adverse reactions occurred in 44 % of patients who received GAVRETO .
+Adverse reactions requiring dosage reductions in ≥ 2 % of patients included neutropenia , anemia , hypertension , increased blood creatine phosphokinase , decreased lymphocyte count , pneumonitis , fatigue and thrombocytopenia .
+Table 6 summarizes the adverse reactions occurring in RET - altered Thyroid Cancer Patients in ARROW .
+Table 6 : Adverse Reactions ( ≥ 15 % ) in RET - altered Thyroid Cancer Patients Who Received GAVRETO in ARROWAdverse Reactions GAVRETO N = 138 Grades 1 - 4 ( % ) Grades 3 - 4 ( % ) Musculoskeletal Musculoskeletal Pain [ 1 ] 42 0 . 7 [ 2 ] Gastrointestinal Constipation 41 0 . 7 null Diarrhea [ 3 ] 34 5 null Abdominal Pain [ 4 ] 17 0 . 7 null Dry mouth 17 0 Stomatitis [ 5 ] 17 0 . 7 null Nausea 17 0 . 7 null Vascular Hypertension 40 21 null General Fatigue [ 6 ] 38 6 null Edema [ 7 ] 29 0 Pyrexia 22 2 . 2 null Nervous System Headache [ 8 ] 24 0 Peripheral Neuropathy [ 9 ] 20 0 Dizziness [ 10 ] 19 0 . 7 null Dysgeusia [ 11 ] 17 0 Respiratory Cough [ 12 ] 27 1 . 4 null Dyspnea [ 13 ] 22 2 . 2 null Skin and Subcutaneous Rash [ 14 ] 24 0 Metabolism and Nutrition Decreased Appetite 15 0 [ 1 ] Musculoskeletal Pain includes arthralgia , arthritis , back pain , bone pain , musculoskeletal chest pain , musculoskeletal pain , musculoskeletal stiffness , myalgia , neck pain , non - cardiac chest pain , pain in extremity , spinal pain [ 2 ] Only includes a Grade 3 adverse reaction [ 3 ] Diarrhea includes colitis , diarrhea [ 4 ] Abdominal Pain includes abdominal discomfort , abdominal pain , abdominal pain upper , abdominal tenderness , epigastric discomfort [ 5 ] Stomatitis includes mucosal inflammation , stomatitis , tongue ulceration [ 6 ] Fatigue includes asthenia , fatigue [ 7 ] Edema includes eyelid edema , face edema , edema , edema peripheral , periorbital edema [ 8 ] Headache includes headache , migraine [ 9 ] Peripheral neuropathy includes dysaesthesia , hyperaesthesia , hypoaesthesia , neuralgia , neuropathy peripheral , paraesthesia , peripheral sensory neuropathy , polyneuropathy [ 10 ] Dizziness includes dizziness , dizziness postural , vertigo [ 11 ] Dysgeusia includes ageusia , dysgeusia [ 12 ] Cough includes cough , productive cough , upper - airway cough syndrome [ 13 ] Dyspnea includes dyspnea , dyspnea exertional [ 14 ] Rash includes dermatitis , dermatitis acneiform , eczema , palmar - plantar , erythrodysaesthesia syndrome , rash , rash erythematous , rash macular , rash maculo - papular , rash papular , rash pustular Clinically relevant adverse reactions in < 15 % of patients who received GAVRETO included tumor lysis syndrome and increased creatine phosphokinase .
+Table 7 summarizes the laboratory abnormalities occurring in RET - altered Thyroid Cancer Patients in ARROW .
+Table 7 : Select Laboratory Abnormalities ( ≥ 20 % ) Worsening from Baseline in RET - altered Thyroid Cancer Patients Who Received GAVRETO in ARROWLaboratory Abnormality GAVRETO N = 138 Grades 1 - 4 ( % ) Grades 3 - 4 ( % ) Denominator for each laboratory parameter is based on the number of patients with a baseline and post - treatment laboratory value available , which ranged from 135 to 138 patients .
+Chemistry Decreased calcium ( corrected ) 70 9 Increased AST 69 4 . 3 Increased ALT 43 3 . 6 Increased creatinine 41 0 Decreased albumin 41 1 . 5 Decreased sodium 28 2 . 2 Decreased phosphate 28 8 Decreased magnesium 27 0 . 7 Increased potassium 26 1 . 4 Increased bilirubin 24 1 . 4 Increased alkaline phosphatase 22 1 . 4 Hematology Decreased lymphocytes 67 27 Decreased hemoglobin 63 13 Decreased neutrophils 59 16 Decreased platelets 31 2 . 9 Clinically relevant laboratory abnormalities in patients who received GAVRETO included increased phosphate ( 40 % ) .
+7 DRUG INTERACTIONS • Strong CYP3A inhibitors : Avoid coadministration .
+( 7 . 1 ) • Combined P - gp and Strong CYP3A inhibitors : Avoid coadministration .
+If coadministration cannot be avoided , reduce the dose of GAVRETO .
+( 2 . 4 , 7 . 1 , 12 . 3 ) • Strong CYP3A inducers : Avoid coadministration .
+If coadministration cannot be avoided , increase the dose of GAVRETO .
+( 2 . 5 , 7 . 1 , 12 . 3 ) 7 . 1 Effects of Other Drugs on GAVRETO Strong CYP3A Inhibitors Avoid coadministration with strong CYP3A inhibitors .
+Coadministration of GAVRETO with a strong CYP3A inhibitor increases pralsetinib exposure , which may increase the incidence and severity of adverse reactions of GAVRETO .
+Avoid coadministration of GAVRETO with combined P - gp and strong CYP3A inhibitors .
+If coadministration with a combined P - gp and strong CYP3A inhibitor cannot be avoided , reduce the GAVRETO dose [ see Dosage and Administration ( 2 . 4 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+Strong CYP3A Inducers Coadministration of GAVRETO with a strong CYP3A inducer decreases pralsetinib exposure , which may decrease efficacy of GAVRETO .
+Avoid coadministration of GAVRETO with strong CYP3A inducers .
+If coadministration of GAVRETO with strong CYP3A inducers cannot be avoided , increase the GAVRETO dose [ see Dosage and Administration ( 2 . 5 ) , Clinical Pharmacology ( 12 . 3 ) ] .
+8 USE IN SPECIFIC POPULATIONS • Lactation : Advise not to breastfeed .
+( 8 . 2 ) • Pediatric Use : Monitor open growth plates in adolescent patients .
+Consider interrupting or discontinuing GAVRETO if abnormalities occur .
+( 8 . 4 ) 8 . 1 Pregnancy Risk Summary Based on findings from animal studies and its mechanism of action , GAVRETO can cause fetal harm when administered to a pregnant woman [ see Clinical Pharmacology ( 12 . 1 ) ] .
+There are no available data on GAVRETO use in pregnant women to inform drug - associated risk .
+Oral administration of pralsetinib to pregnant rats during the period of organogenesis resulted in malformations and embryolethality at maternal exposures below the human exposure at the clinical dose of 400 mg once daily ( see Data ) .
+Advise pregnant women of the potential risk to a fetus .
+In the U . S . general population , the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 - 4 % and 15 - 20 % , respectively .
+Data Animal Data In an embryo - fetal development study , once daily oral administration of pralsetinib to pregnant rats during the period of organogenesis resulted in 100 % post - implantation loss at dose levels ≥ 20 mg / kg ( approximately 1 . 8 times the human exposure based on area under the curve [ AUC ] at the clinical dose of 400 mg ) .
+Post - implantation loss also occurred at the 10 mg / kg dose level ( approximately 0 . 6 times the human exposure based on AUC at the clinical dose of 400 mg ) .
+Once daily oral administration of pralsetinib at dose levels ≥ 5 mg / kg ( approximately 0 . 2 times the human AUC at the clinical dose of 400 mg ) resulted in an increase in visceral malformations and variations ( absent or small kidney and ureter , absent uterine horn , malpositioned kidney or testis , retroesophageal aortic arch ) and skeletal malformations and variations ( vertebral and rib anomalies and reduced ossification ) .
+8 . 2 Lactation Risk Summary There are no data on the presence of pralsetinib or its metabolites in human milk or their effects on either the breastfed child or on milk production .
+Because of the potential for serious adverse reactions in breastfed children , advise women not to breastfeed during treatment with GAVRETO and for 1 week after the final dose .
+8 . 3 Females and Males of Reproductive Potential Based on animal data , GAVRETO can cause embryolethality and malformations at doses resulting in exposures below the human exposure at the clinical dose of 400 mg daily [ see Use in Specific Populations ( 8 . 1 ) ] .
+Pregnancy Testing Verify pregnancy status of females of reproductive potential prior to initiating GAVRETO [ see Use in Specific Populations ( 8 . 1 ) ] .
+Contraception GAVRETO can cause fetal harm when administered to a pregnant woman [ see Use in Specific Populations ( 8 . 1 ) ] .
+Females Advise females of reproductive potential to use effective non - hormonal contraception during treatment with GAVRETO and for 2 weeks after the final dose .
+GAVRETO may render hormonal contraceptives ineffective .
+Males Advise males with female partners of reproductive potential to use effective contraception during treatment with GAVRETO and for 1 week after the final dose .
+Infertility Based on histopathological findings in the reproductive tissues of male and female rats and a dedicated fertility study in which animals of both sexes were treated and mated to each other , GAVRETO may impair fertility [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+8 . 4 Pediatric Use The safety and effectiveness of GAVRETO have been established in pediatric patients aged 12 years and older for RET - mutant MTC and RET - fusion thyroid cancer .
+Use of GAVRETO in this age group is supported by evidence from an adequate and well - controlled study of GAVRETO in adults with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the pharmacokinetics of pralsetinib , that the exposure of pralsetinib is expected to be similar between adults and pediatric patients aged 12 years and older , and that the course of RET - mutant MTC and RET - fusion thyroid cancer is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [ see Adverse Reactions ( 6 . 1 ) , Clinical Pharmacology ( 12 . 3 ) , and Clinical Studies ( 14 . 2 ) ] .
+The safety and effectiveness of GAVRETO have not been established in pediatric patients with RET fusion - positive NSCLC or in pediatric patients younger than 12 years old with RET - mutant MTC or RET - fusion thyroid cancer .
+Animal Toxicity Data In a 4 - week repeat - dose toxicology study in non - human primates , physeal dysplasia in the femur occurred at doses resulting in exposures similar to the human exposure ( AUC ) at the clinical dose of 400 mg .
+In rats there were findings of increased physeal thickness in the femur and sternum as well as tooth ( incisor ) abnormalities ( fractures , dentin matrix alteration , ameloblast / odontoblast degeneration , necrosis ) in both 4 - and 13 - week studies at doses resulting in exposures similar to the human exposure ( AUC ) at the clinical dose of 400 mg .
+Recovery was not assessed in the 13 - week toxicology study , but increased physeal thickness in the femur and incisor degeneration did not show evidence of complete recovery in the 28 - day rat study .
+Monitor growth plates in adolescent patients with open growth plates .
+Consider interrupting or discontinuing therapy based on the severity of any growth plate abnormalities and based on an individual risk - benefit assessment .
+8 . 5 Geriatric Use Of the 438 patients in ARROW who received the recommended dose of GAVRETO at 400 mg once daily , 30 % were 65 years or older .
+No overall differences in pharmacokinetics ( PK ) , safety or efficacy were observed in comparison with younger patients .
+8 . 6 Hepatic Impairment GAVRETO has not been studied in patients with moderate hepatic impairment ( total bilirubin > 1 . 5 to 3 . 0 × upper limit of normal [ ULN ] and any aspartate aminotransferase [ AST ] ) or severe hepatic impairment ( total bilirubin > 3 . 0 × ULN and any AST ) .
+No dose adjustment is required for patients with mild hepatic impairment ( total bilirubin ≤ ULN and AST > ULN or total bilirubin > 1 to 1 . 5 times ULN and any AST ) [ see Clinical Pharmacology ( 12 . 3 ) ] .
+11 DESCRIPTION Pralsetinib is an oral receptor tyrosine kinase inhibitor .
+The chemical name for pralsetinib is ( cis ) - N - ( ( S ) - 1 - ( 6 - ( 4 - fluoro - 1 H - pyrazol - 1 - yl ) pyridin - 3 - yl ) ethyl ) - 1 - methoxy - 4 - ( 4 - methyl - 6 - ( 5 - methyl - 1 H - pyrazol - 3 - ylamino ) pyrimidin - 2 - yl ) cyclohexanecarboxamide .
+The molecular formula for pralsetinib is C27H32FN9O2 , and the molecular weight is 533 . 61 g / mol .
+Pralsetinib has the following structure : [ MULTIMEDIA ] The solubility of pralsetinib in aqueous media decreases over the range pH 1 . 99 to pH 7 . 64 from 0 . 880 mg / mL to < 0 . 001 mg / mL , indicating a decrease in solubility with increasing pH . GAVRETO ( pralsetinib ) is supplied for oral use as immediate release hydroxypropyl methylcellulose ( HPMC ) hard capsules containing 100 mg pralsetinib .
+The capsules also contain inactive ingredients : citric acid , hydroxypropyl methylcellulose ( HPMC ) , magnesium stearate , microcrystalline cellulose ( MCC ) , pregelatinized starch and sodium bicarbonate .
+The capsule shell consists of FD & C Blue # 1 ( Brilliant Blue FCF ) , hypromellose and titanium dioxide .
+The white printing ink contains butyl alcohol , dehydrated alcohol , isopropyl alcohol , potassium hydroxide , propylene glycol , purified water , shellac , strong ammonia solution and titanium dioxide .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Pralsetinib is a kinase inhibitor of wild - type RET and oncogenic RET fusions ( CCDC6 - RET ) and mutations ( RET V804L , RET V804M and RET M918T ) with half maximal inhibitory concentrations ( IC50s ) less than 0 . 5 nM .
+In purified enzyme assays , pralsetinib inhibited DDR1 , TRKC , FLT3 , JAK1 - 2 , TRKA , VEGFR2 , PDGFRB , and FGFR1 at higher concentrations that were still clinically achievable at Cmax .
+In cellular assays , pralsetinib inhibited RET at approximately 14 - , 40 - , and 12 - fold lower concentrations than VEGFR2 , FGFR2 , and JAK2 , respectively .
+Certain RET fusion proteins and activating point mutations can drive tumorigenic potential through hyperactivation of downstream signaling pathways leading to uncontrolled cell proliferation .
+Pralsetinib exhibited anti - tumor activity in cultured cells and animal tumor implantation models harboring oncogenic RET fusions or mutations including KIF5B - RET , CCDC6 - RET , RET M918T , RET C634W , RET V804E , RET V804L and RET V804M .
+In addition , pralsetinib prolonged survival in mice implanted intracranially with tumor models expressing KIF5B - RET or CCDC6 - RET .
+12 . 2 Pharmacodynamics Pralsetinib exposure - response relationships and the time course of pharmacodynamics response have not been fully characterized .
+Cardiac Electrophysiology The QT interval prolongation potential of pralsetinib was assessed in 34 patients with RET - altered solid tumors administered GAVRETO at the recommended dosage .
+No large mean increase in QTc ( > 20 ms ) was detected in the study .
+12 . 3 Pharmacokinetics At 400 mg GAVRETO once daily under fasting conditions , the steady state geometric mean [ % coefficient of variation ( CV % ) ] of maximum observed plasma concentration ( Cmax ) and area under the concentration - time curve ( AUC0 - 24 h ) of pralsetinib was 2470 ( 55 . 1 % ) ng / mL and 36700 ( 66 . 3 % ) h ∙ ng / mL , respectively .
+Pralsetinib Cmax and AUC increased inconsistently over the dose range of 60 mg to 600 mg once daily ( 0 . 15 to 1 . 5 times the recommended dose ) .
+Pralsetinib plasma concentrations reached steady state by 3 to 5 days .
+The mean accumulation ratio was approximately 2 - fold after once - daily repeated oral administration .
+Absorption The median time to peak concentration ( Tmax ) ranged from 2 to 4 hours following single doses of pralsetinib 60 mg to 600 mg .
+Food Effect Following administration of a single dose of 200 mg GAVRETO with a high - fat meal , ( approximately 800 to 1000 calories with 50 to 60 % of calories from fat ) , the mean ( 90 % CI ) Cmax of pralsetinib was increased by 104 % ( 65 % , 153 % ) , the mean ( 90 % CI ) AUC0 - INF was increased by 122 % ( 96 % , 152 % ) , and the median Tmax was delayed from 4 to 8 . 5 hours , compared to the fasted state .
+Distribution The mean ( CV % ) apparent volume of distribution ( Vd / F ) of pralsetinib is 303 L ( 68 % ) .
+Protein binding of pralsetinib is 97 . 1 % and is independent of concentration .
+The blood - to - plasma ratio is 0 . 6 to 0 . 7 .
+Elimination The mean ( ± standard deviation ) plasma elimination half - life ( T ½ ) of pralsetinib is 15 . 7 hours ( 9 . 8 ) following single doses and 20 hours ( 11 . 7 ) following multiple doses of pralsetinib .
+The mean ( CV % ) apparent oral clearance ( CL / F ) of pralsetinib is 10 . 9 L / h ( 66 % ) at steady state .
+Metabolism Pralsetinib is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2 , in vitro .
+Following a single oral dose of 310 mg of radiolabeled pralsetinib to healthy subjects , pralsetinib metabolites from oxidation and glucuronidation were detected as 5 % or less .
+Excretion Approximately 73 % ( 66 % as unchanged ) of the total administered radioactive dose [ 14 C ] pralsetinib was recovered in feces and 6 % ( 4 . 8 % as unchanged ) was recovered in urine .
+Specific Populations No clinically significant differences in the PK of pralsetinib were observed based on age ( 19 to 87 years ) , sex , race ( 370 White , 22 Black , or 61 Asian ) , and body weight ( 32 . 1 to 128 kg ) .
+Mild and moderate renal impairment ( CLcr 30 - 89 mL / min ) had no effect on the exposure of pralsetinib .
+Pralsetinib has not been studied in patients with severe renal impairment ( CLcr < 15 mL / min ) .
+Patients with Hepatic Impairment Mild hepatic impairment ( total bilirubin ≤ 1 . 0 × ULN and AST > ULN , or total bilirubin > 1 . 0 to 1 . 5 × ULN and any AST ) had no effect on the PK of pralsetinib .
+Pralsetinib has not been studied in patients with moderate ( total bilirubin > 1 . 5 to 3 . 0 × ULN and any AST ) or severe ( total bilirubin > 3 . 0 ULN and any AST ) hepatic impairment .
+Drug Interaction Studies Clinical Studies and Model - Informed Approaches Combined P - gp and Strong CYP3A Inhibitors : Coadministration of itraconazole 200 mg once daily with a single GAVRETO 200 mg dose increased pralsetinib Cmax by 84 % and AUC0 - INF by 251 % .
+Strong CYP3A Inducers : Coadministration of rifampin 600 mg once daily with a single GAVRETO 400 mg dose decreased pralsetinib Cmax by 30 % and AUC0 - INF by 68 % .
+Mild CYP3A Inducers : No clinically significant differences in the PK of pralsetinib were identified when GAVRETO was coadministered with mild CYP3A inducers .
+Acid - Reducing Agents : No clinically significant differences in the PK of pralsetinib were observed when GAVRETO was coadministered with gastric acid reducing agents .
+In Vitro Studies Cytochrome P450 ( CYP ) Enzymes : Pralsetinib is a time - dependent inhibitor of CYP3A4 / 5 and an inhibitor of CYP2C8 , CYP2C9 , and CYP3A4 / 5 , but not an inhibitor of CYP1A2 , CYP2B6 , CYP2C19 or CYP2D6 at clinically relevant concentrations .
+Pralsetinib is an inducer of CYP2C8 , CYP2C9 , and CYP3A4 / 5 , but not an inducer of CYP1A2 , CYP2B6 , or CYP2C19 at clinically relevant concentrations .
+Transporter Systems : Pralsetinib is a substrate of P - glycoprotein ( P - gp ) and breast cancer resistance protein ( BCRP ) , but not a substrate of bile salt efflux pump ( BSEP ) , organic cation transporter [ OCT ] 1 , OCT2 , organic anion transporting polypeptide [ OATP ] 1B1 , OATP1B3 , multidrug and toxin extrusion [ MATE ] 1 , MATE2 - K , organic anion transporter [ OAT ] 1 , or OAT3 .
+Pralsetinib is an inhibitor of P - gp , BCRP , OATP1B1 , OATP1B3 , OAT1 , MATE1 , MATE2 - K , and BSEP , but not an inhibitor of OCT1 , OCT2 , and OAT1A3 at clinically relevant concentrations .
+13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenicity studies with pralsetinib have not been conducted .
+Pralsetinib was not mutagenic in an in vitro bacterial reverse mutation ( Ames ) assay with or without metabolic activation and was not clastogenic in either an in vitro micronucleus assay in TK6 cells or an in vivo bone marrow micronucleus assay in rats .
+In a dedicated fertility and early embryonic development study conducted in treated male rats mated to treated female rats , although pralsetinib did not have clear effects on male or female mating performance or ability to become pregnant , at the 20 mg / kg dose level ( approximately 2 . 9 times the human exposure ( AUC ) at the clinical dose of 400 mg based on toxicokinetic data from the 13 - week rat toxicology study ) 82 % of female rats had totally resorbed litters , with 92 % post - implantation loss ( early resorptions ) ; post - implantation loss occurred at doses as low as 5 mg / kg ( approximately 0 . 35 times the human exposure ( AUC ) at the clinical dose of 400 mg based on toxicokinetic data from the 13 - week rat toxicology study ) .
+In a 13 - week repeat - dose toxicology study , male rats exhibited histopathological evidence of tubular degeneration / atrophy in the testis with secondary cellular debris and reduced sperm in the lumen of the epididymis , which correlated with lower mean testis and epididymis weights and gross observations of soft and small testis .
+Female rats exhibited degeneration of the corpus luteum in the ovary .
+For both sexes , these effects were observed at pralsetinib doses ≥ 10 mg / kg / day , approximately 1 times the human exposure based on AUC at the clinical dose of 400 mg .
+13 . 2 Animal Toxicology and / or Pharmacology In 28 - day rat and monkey toxicology studies , once daily oral administration of pralsetinib resulted in histologic necrosis and hemorrhage in the heart of preterm decedents at exposures ≥ 1 . 3 times and ≥ 3 . 1 times , respectively , the human exposure based on AUC at the clinical dose of 400 mg .
+Pralsetinib induced hyperphosphatemia ( rats ) and multi - organ mineralization ( rats and monkeys ) in 13 - week toxicology studies at exposures approximately 2 . 8 times and ≥ 0 . 13 times , respectively , the human exposure based on AUC at the clinical dose of 400 mg .
+14 CLINICAL STUDIES 14 . 1 Metastatic RET Fusion - Positive Non - Small Cell Lung Cancer The efficacy of GAVRETO was evaluated in patients with RET fusion - positive metastatic NSCLC in a multicenter , non - randomized , open - label , multi - cohort clinical trial ( ARROW , NCT03037385 ) .
+The study enrolled , in separate cohorts , patients with metastatic RET fusion - positive NSCLC who had progressed on platinum - based chemotherapy and treatment - naïve patients with metastatic NSCLC .
+Identification of a RET gene fusion was determined by local laboratories using next generation sequencing ( NGS ) , fluorescence in situ hybridization ( FISH ) , and other tests .
+Among the 114 patients in the efficacy population ( s ) described in this section , samples from 59 % of patients were retrospectively tested with the Life Technologies Corporation Oncomine Dx Target Test ( ODxTT ) .
+Patients with asymptomatic central nervous system ( CNS ) metastases , including patients with stable or decreasing steroid use within 2 weeks prior to study entry , were enrolled .
+Patients received GAVRETO 400 mg orally once daily until disease progression or unacceptable toxicity .
+The major efficacy outcome measures were overall response rate ( ORR ) and duration of response ( DOR ) , as assessed by a blinded independent central review ( BICR ) according to RECIST v1 . 1 .
+Metastatic RET Fusion - Positive NSCLC Previously Treated with Platinum Chemotherapy Efficacy was evaluated in 87 patients with RET fusion - positive NSCLC with measurable disease who were previously treated with platinum chemotherapy enrolled into a cohort of ARROW .
+The median age was 60 years ( range : 28 to 85 ) ; 49 % were female , 53 % were White , 35 % were Asian , 6 % were Hispanic / Latino .
+ECOG performance status was 0 - 1 ( 94 % ) or 2 ( 6 % ) , 99 % of patients had metastatic disease , and 43 % had either a history of or current CNS metastasis .
+Patients received a median of 2 prior systemic therapies ( range 1 – 6 ) ; 45 % had prior anti - PD - 1 / PD - L1 therapy and 25 % had prior kinase inhibitors .
+A total of 52 % of the patients received prior radiation therapy .
+RET fusions were detected in 77 % of patients using NGS ( 45 % tumor samples ; 26 % blood or plasma samples , 6 % unknown ) , 21 % using FISH , and 2 % using other methods .
+The most common RET fusion partners were KIF5B ( 75 % ) and CCDC6 ( 17 % ) .
+Efficacy results for RET fusion - positive NSCLC patients who received prior platinum - based chemotherapy are summarized in Table 8 .
+Table 8 : Efficacy Results in ARROW ( Metastatic RET Fusion - Positive NSCLC Previously Treated with Platinum Chemotherapy ) Efficacy Parameter GAVRETO ( N = 87 ) NE = not estimable Overall Response Rate ( ORR ) [ 1 ] ( 95 % CI ) 57 ( 46 , 68 ) Complete Response , % 5 . 7 Partial Response , % 52 Duration of Response ( DOR ) ( N = 50 ) Median , months ( 95 % CI ) NE ( 15 . 2 , NE ) Patients with DOR ≥ 6 - months [ 2 ] , % 80 [ 1 ] Confirmed overall response rate assessed by BICR [ 2 ] Based on observed duration of response For the 39 patients who received an anti - PD - 1 or anti - PD - L1 therapy , either sequentially or concurrently with platinum - based chemotherapy , an exploratory subgroup analysis of ORR was 59 % ( 95 % CI : 42 , 74 ) and the median DOR was not reached ( 95 % CI : 11 . 3 , NE ) .
+Among the 87 patients with RET - fusion positive NSCLC , 8 had measurable CNS metastases at baseline as assessed by BICR .
+No patients received radiation therapy ( RT ) to the brain within 2 months prior to study entry .
+Responses in intracranial lesions were observed in 4 of these 8 patients including 2 patients with a CNS complete response ; 75 % of responders had a DOR of ≥ 6 months .
+Treatment - naïve RET Fusion - Positive NSCLC Efficacy was evaluated in 27 patients with treatment - naïve RET fusion - positive NSCLC with measurable disease enrolled into ARROW .
+The median age was 65 years ( range 30 to 87 ) ; 52 % were female , 59 % were White , 33 % were Asian , and 4 % were Hispanic or Latino .
+ECOG performance status was 0 - 1 for 96 % of the patients and all patients ( 100 % ) had metastatic disease ; 37 % had either history of or current CNS metastasis .
+RET fusions were detected in 67 % of patients using NGS ( 41 % tumor samples ; 22 % blood or plasma ; 4 % unknown ) and 33 % using FISH .
+The most common RET fusion partners were KIF5B ( 70 % ) and CCDC6 ( 11 % ) .
+Efficacy results for treatment - naïve RET fusion - positive NSCLC are summarized in Table 9 .
+Table 9 : Efficacy Results for ARROW ( Treatment - Naïve Metastatic RET Fusion - Positive NSCLCEfficacy Parameter GAVRETO ( N = 27 ) NE = not estimable Overall Response Rate ( ORR ) [ 1 ] ( 95 % CI ) 70 ( 50 , 86 ) Complete Response , % 11 Partial Response , % 59 Duration of Response ( DOR ) ( N = 19 ) Median , months ( 95 % CI ) 9 . 0 ( 6 . 3 , NE ) Patients with DOR ≥ 6 - months [ 2 ] , % 58 [ 1 ] Confirmed overall response rate assessed by BICR [ 2 ] Based on observed duration of response 14 . 2 RET - Mutant Medullary Thyroid Cancer The efficacy of GAVRETO was evaluated in patients with RET - mutant MTC in a multicenter , open - label , multi - cohort clinical trial ( ARROW ; NCT03037385 ) .
+RET - Mutant MTC Previously Treated with Cabozantinib or Vandetanib Efficacy was evaluated in 55 patients with RET - mutant metastatic MTC previously treated with cabozantinib or vandetanib ( or both ) .
+The median age was 59 years ( range : 25 to 83 ) ; 69 % were male , 78 % were White , 5 % were Asian , 5 % were Hispanic / Latino .
+ECOG performance status was 0 - 1 ( 95 % ) or 2 ( 5 % ) , and 7 % had a history of CNS metastases .
+Patients had received a median of 2 prior therapies ( range 1 - 7 ) .
+RET mutation status was detected in 73 % using NGS [ 55 % tumor sample , 18 % plasma ] , 26 % using PCR sequencing , and 2 % other .
+The primary mutations in RET - mutant MTC previously treated with cabozantinib or vandetanib are described in Table 10 .
+Table 10 : Primary Mutations in RET - Mutant MTC in ARROWRET Mutation Type Prior Cabozantinib or Vandetanib ( n = 55 ) Cabozantinib and Vandetanib - Naïve ( n = 29 ) Total ( n = 84 ) M918T [ 1 ] 37 15 52 Cysteine Rich Domain [ 2 ] 11 11 22 V804M or V804L 2 1 3 Other [ 3 ] 5 2 7 [ 1 ] Three patients ( all in the prior cabozantinib and / or vandetanib group ) also had a V804M / L mutation .
+[ 2 ] Cysteine Rich Domain ( including the following cysteine residues : 609 , 611 , 618 , 620 , 630 , and / or 634 ) [ 3 ] Other included : D898 _ E901del ( 1 ) , E632 _ L633del ( 1 ) , L790F ( 1 ) , A883F ( 2 ) , K666E ( 1 ) , and R844W ( 1 ) Efficacy results for RET - mutant MTC are summarized in Table 11 .
+Table 11 : Efficacy Results for RET - Mutant MTC Previously Treated with Cabozantinib or Vandetanib ( ARROW ) Efficacy Parameters GAVRETO ( N = 55 ) NR = Not Reached ; NE = Not Estimable Overall Response Rate ( ORR ) [ 1 ] ( 95 % CI ) 60 ( 46 , 73 ) Complete Response , % 1 . 8 Partial Response , % 58 Duration of Response ( DOR ) ( N = 33 ) Median in months ( 95 % CI ) NR ( 15 . 1 , NE ) Patients with DOR ≥ 6 months [ 2 ] , % 79 [ 1 ] Confirmed overall response rate assessed by BICR [ 2 ] Based on observed duration of response Cabozantinib and Vandetanib - naïve RET - mutant MTC Efficacy was evaluated in 29 patients with RET - mutant advanced MTC who were cabozantinib and vandetanib treatment - naïve .
+The median age was 61 years ( range : 19 to 81 ) ; 72 % were male , 76 % were White , 17 % were Asian , 3 . 4 % were Hispanic / Latino .
+ECOG performance status was 0 - 1 ( 100 % ) , 97 % had metastatic disease , and 14 % had a history of CNS metastases .
+Twenty - eight percent ( 28 % ) had received up to 3 lines of prior systemic therapy ( including 10 % PD - 1 / PD - L1 inhibitors , 10 % radioactive iodine , 3 . 4 % kinase inhibitors ) .
+RET mutation status was detected in 90 % using NGS [ 52 % tumor sample , 35 % plasma , 3 . 4 % blood ] and 10 % using PCR sequencing .
+The primary mutations used to identify and enroll patients are described in Table 10 .
+Efficacy results for cabozantinib and vandetanib - naïve RET - mutant MTC are summarized in Table 12 .
+Table 12 : Efficacy Results for Cabozantinib and Vandetanib - naïve RET - Mutant MTC ( ARROW ) Efficacy Parameters GAVRETO ( N = 29 ) NR = Not Reached ; NE = Not Estimable Overall Response Rate ( ORR ) [ 1 ] ( 95 % CI ) 66 ( 46 , 82 ) Complete Response , % 10 Partial Response , % 55 Duration of Response ( DOR ) ( N = 19 ) Median in months ( 95 % CI ) NR ( NE , NE ) Patients with DOR ≥ 6 months [ 2 ] , % 84 [ 1 ] Confirmed overall response rate assessed by BICR [ 2 ] Based on observed duration of response 14 . 3 RET Fusion - Positive Thyroid Cancer The efficacy of GAVRETO was evaluated in RET fusion - positive metastatic thyroid cancer patients in a multicenter , open - label , multi - cohort clinical trial ( ARROW , NCT03037385 ) .
+All patients with RET fusion - positive thyroid cancer were required to have disease progression following standard therapy , measurable disease by RECIST version 1 . 1 , and have RET fusion status as detected by local testing ( 89 % NGS tumor samples and 11 % using FISH ) .
+The median age was 61 years ( range : 46 to 74 ) ; 67 % were male , 78 % were White , 22 % were Asian , 11 % were Hispanic / Latino .
+All patients ( 100 % ) had papillary thyroid cancer .
+ECOG performance status was 0 - 1 ( 100 % ) , all patients ( 100 % ) had metastatic disease , and 56 % had a history of CNS metastases .
+Patients had received a median of 2 prior therapies ( range 1 - 8 ) .
+Prior systemic treatments included prior radioactive iodine ( 100 % ) and prior sorafenib and / or lenvatinib ( 56 % ) .
+Efficacy results are summarized in Table 13 .
+Table 13 : Efficacy Results for RET Fusion - Positive Thyroid Cancer ( ARROW ) Efficacy Parameters GAVRETO N = 9 NR = Not Reached ; NE = Not Estimable Overall Response Rate ( ORR ) [ 1 ] ( 95 % CI ) 89 ( 52 , 100 ) Complete Response , % 0 Partial Response , % 89 Duration of Response ( DOR ) ( N = 8 ) Median in months ( 95 % CI ) NR ( NE , NE ) Patients with DOR ≥ 6 months [ 2 ] , % 100 [ 1 ] Confirmed overall response rate assessed by BICR [ 2 ] Based on observed duration of response 16 HOW SUPPLIED / STORAGE AND HANDLING GAVRETO ( pralsetinib ) 100 mg , light blue , opaque , immediate release , hydroxypropyl methylcellulose ( HPMC ) hard capsule printed with " BLU - 667 " on the capsule shell body and " 100 mg " on the capsule shell cap are supplied as follows : • Bottles of 60 capsules ( NDC 50242 - 210 - 60 ) .
+• Bottles of 90 capsules ( NDC 50242 - 210 - 90 ) .
+Store at 20 ° C to 25 ° C ( 68 ° F to 77 ° F ) ; excursions are permitted from 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from moisture .
+17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA - approved patient labeling ( Patient Information ) .
+ILD / Pneumonitis Advise patients to contact their healthcare provider if they experience new or worsening respiratory symptoms [ see Warnings and Precautions ( 5 . 1 ) ] .
+Hypertension Advise patients that they will require regular blood pressure monitoring and to contact their healthcare provider if they experience symptoms of increased blood pressure or elevated readings [ see Warnings and Precautions ( 5 . 2 ) ] .
+Hepatotoxicity Advise patients that hepatotoxicity can occur and to immediately contact their healthcare provider for signs or symptoms of hepatotoxicity [ see Warnings and Precautions ( 5 . 3 ) ] .
+Hemorrhagic Events Advise patients that GAVRETO may increase the risk for bleeding and to contact their healthcare provider if they experience any signs or symptoms of bleeding [ see Warnings and Precautions ( 5 . 4 ) ] .
+Tumor Lysis Syndrome Advise patients to contact their healthcare provider promptly to report any signs and symptoms of TLS [ see Warnings and Precautions ( 5 . 5 ) ] .
+Risk of Impaired Wound Healing Advise patients that GAVRETO may impair wound healing .
+Advise patients that temporary interruption of GAVRETO is recommended prior to any elective surgery [ see Warnings and Precautions ( 5 . 6 ) ] .
+Embryo - Fetal Toxicity Advise females of reproductive potential of the potential risk to a fetus .
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [ see Warnings and Precautions ( 5 . 7 ) , Use in Specific Populations ( 8 . 1 ) ] .
+Advise females of reproductive potential to use effective non - hormonal contraception during the treatment with GAVRETO and for 2 weeks after the final dose [ see Use in Specific Populations ( 8 . 3 ) ] .
+Advise males with female partners of reproductive potential to use effective contraception during treatment with GAVRETO and for 1 week after the final dose [ see Use in Specific Populations ( 8 . 3 ) ] .
+Lactation Advise women not to breastfeed during treatment with GAVRETO and for 1 week after the final dose [ see Use in Specific Populations ( 8 . 2 ) ] .
+Infertility Advise males and females of reproductive potential that GAVRETO may impair fertility [ See Use in Specific Populations ( 8 . 3 ) ] .
+Drug Interactions Advise patients and caregivers to inform their healthcare provider of all concomitant medications , including prescription medicines , over - the - counter drugs , vitamins , and herbal products [ see Drug Interactions ( 7 . 1 ) ] .
+Administration Advise patients to take GAVRETO on an empty stomach ( no food intake for at least 2 hours before and at least 1 hour after taking GAVRETO ) [ see Dosage and Administration ( 2 . 2 ) ] .
+GAVRETO ® [ pralsetinib ] Manufactured for : Genentech , Inc .
+A Member of the Roche Group 1 DNA Way South San Francisco , CA 94080 - 4990 Jointly marketed by : Genentech USA , Inc . and Blueprint Medicines Corporation GAVRETO ® is a registered trademark of Blueprint Medicines Corporation .
+© 2022 Genentech , Inc .
+© 2022 Blueprint Medicines Corporation This Patient Information has been approved by the U . S . Food and Drug Administration .
+Revised : 02 / 2022 PATIENT INFORMATION GAVRETO ® ( gav - REH - toh ) ( pralsetinib ) capsules What is GAVRETO ?
+GAVRETO is a prescription medicine used to treat certain cancers caused by abnormal rearranged during transfection ( RET ) genes in : • adults with non - small cell lung cancer ( NSCLC ) that has spread .
+• adults and children 12 years of age and older with advanced medullary thyroid cancer ( MTC ) or MTC that has spread who require a medicine by mouth or injection ( systemic therapy ) .
+• adults and children 12 years of age and older with advanced thyroid cancer or thyroid cancer that has spread who require a medicine by mouth or injection ( systemic therapy ) and who have received radioactive iodine and it did not work or is no longer working .
+Your healthcare provider will perform a test to make sure that GAVRETO is right for you .
+It is not known if GAVRETO is safe and effective in children younger than 12 years of age .
+Before taking GAVRETO , tell your healthcare provider about all of your medical conditions , including if you : • have lung or breathing problems other than lung cancer • have high blood pressure • have bleeding problems • plan to have surgery .
+You should stop taking GAVRETO at least 5 days before your planned surgery .
+See " What are the possible side effects of GAVRETO ? "
+• are pregnant or plan to become pregnant .
+GAVRETO can harm your unborn baby .
+Females who are able to become pregnant : • Your healthcare provider will do a pregnancy test before you start treatment with GAVRETO .
+• You should use an effective form of non - hormonal birth control ( contraception ) during treatment and for 2 weeks after your final dose of GAVRETO .
+• Birth control methods that contain hormones ( such as birth control pills , injections or transdermal system patches ) may not work as well during treatment with GAVRETO .
+• Talk to your healthcare provider about birth control methods that may be right for you during this time .
+• Tell your healthcare provider right away if you become pregnant or think you might be pregnant during treatment with GAVRETO .
+Males with female partners who are able to become pregnant : • You should use effective birth control ( contraception ) during treatment and for 1 week after your final dose of GAVRETO .
+• are breastfeeding or plan to breastfeed .
+It is not known if GAVRETO passes into your breast milk .
+Do not breastfeed during treatment and for 1 week after your final dose of GAVRETO .
+Tell your healthcare provider about all the medicines you take , including prescription and over - the - counter medicines , vitamins , and herbal supplements .
+GAVRETO may affect the way other medicines work , and other medicines may affect how GAVRETO works .
+How should I take GAVRETO ?
+• Take GAVRETO exactly as your healthcare provider tells you to take it .
+• Take your prescribed dose of GAVRETO 1 time each day .
+• Take GAVRETO on an empty stomach .
+Do not eat for at least 2 hours before and at least 1 hour after taking GAVRETO .
+• Do not change your dose or stop taking GAVRETO unless your healthcare provider tells you to .
+• Your healthcare provider may change your dose , temporarily stop , or permanently stop treatment with GAVRETO if you develop side effects .
+• If you miss a dose of GAVRETO , take it as soon as possible on the same day .
+Then take your next dose of GAVRETO at your regular time the next day .
+• If you vomit after taking a dose of GAVRETO , do not take an extra dose .
+Take your next dose of GAVRETO at your regular time the next day .
+What are the possible side effects of GAVRETO ?
+GAVRETO may cause serious side effects , including : • Lung problems .
+GAVRETO may cause severe or life - threatening inflammation of the lungs during treatment , that can lead to death .
+Tell your healthcare provider right away if you have any new or worsening symptoms , including : • shortness of breath • cough • fever • High blood pressure ( hypertension ) .
+High blood pressure is common with GAVRETO and may sometimes be severe .
+You should check your blood pressure regularly during treatment with GAVRETO .
+Tell your healthcare provider if you have increased blood pressure readings or get any symptoms of high blood pressure , including : • confusion • headaches • shortness of breath • dizziness • chest pain • Liver problems .
+Liver problems ( increased liver function blood test results ) can happen during treatment with GAVRETO and may sometimes be serious .
+Your healthcare provider will do blood tests before and during treatment with GAVRETO to check you for liver problems .
+Tell your healthcare provider right away if you get any signs or symptoms of liver problem during treatment , including : • yellowing of your skin or the white part of your eyes ( jaundice ) • dark " tea - colored " urine • sleepiness • bleeding or bruising • loss of appetite • nausea or vomiting • pain on the upper right side of your stomach area • Bleeding problems .
+GAVRETO can cause bleeding which can be serious and cause death .
+Tell your healthcare provider if you have any signs or symptoms of bleeding during treatment , including : • vomiting blood or if your vomit looks like coffee grounds • pink or brown urine • red or black ( looks like tar ) stools • coughing up blood or blood clots • unusual bleeding or bruising of your skin • menstrual bleeding that is heavier than normal • unusual vaginal bleeding • nose bleeds that happen often • drowsiness or difficulty being awakened • confusion • headache • change in speech • Tumor lysis syndrome ( TLS ) .
+TLS is caused by a fast breakdown of cancer cells .
+TLS can cause you to have kidney failure and the need for dialysis treatment , an abnormal heartbeat , and may sometimes lead to hospitalization .
+Your healthcare provider may do blood tests to check you for TLS .
+You should stay well hydrated during treatment with GAVRETO .
+Call your healthcare provider or get emergency medical help right away if you develop any of these symptoms during treatment with GAVRETO : • nausea • vomiting • weakness • swelling • shortness of breath • muscle cramps • seizures • Risk of wound healing problems .
+Wounds may not heal properly during treatment with GAVRETO .
+Tell your healthcare provider if you plan to have any surgery before or during treatment with GAVRETO .
+• You should not take GAVRETO for at least 5 days before surgery .
+• Your healthcare provider should tell you when you may start taking GAVRETO again after surgery .
+The most common side effects of GAVRETO include : • constipation • high blood pressure • tiredness • muscle and joint pain • diarrhea • decreased white blood cell , red blood cell , and platelet counts • decreased levels of phosphate in the blood • decreased levels of calcium in the blood • decreased levels of body salt ( sodium ) in the blood • abnormal liver function blood tests GAVRETO may affect fertility in males and females , which may affect your ability to have children .
+Talk to your healthcare provider if this is a concern for you .
+These are not all the possible side effects of GAVRETO .
+Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+How should I store GAVRETO ?
+• Store GAVRETO at room temperature between 68 ° F to 77 ° F ( 20 ° C to 25 ° C ) .
+• Protect GAVRETO from moisture .
+Keep GAVRETO and all medicines out of the reach of children .
+General information about the safe and effective use of GAVRETO .
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet .
+Do not use GAVRETO for a condition for which it was not prescribed .
+Do not give GAVRETO to other people , even if they have the same symptoms that you have .
+It may harm them .
+You can ask your pharmacist or healthcare provider for information about GAVRETO that is written for health professionals .
+What are the ingredients in GAVRETO ?
+Active ingredient : pralsetinib Inactive ingredients : citric acid , hydroxypropyl methylcellulose ( HPMC ) , magnesium stearate , microcrystalline cellulose ( MCC ) , pregelatinized starch and sodium bicarbonate .
+Capsule shell : FD & C Blue # 1 ( Brilliant Blue FCF ) , hypromellose and titanium dioxide .
+White printing ink : butyl alcohol , dehydrated alcohol , isopropyl alcohol , potassium hydroxide , propylene glycol , purified water , shellac , strong ammonia solution and titanium dioxide .
+Manufactured for : Genentech , Inc . , A Member of the Roche Group , 1 DNA Way , South San Francisco , CA 94080 - 4990 Jointly marketed by : Genentech USA , Inc . and Blueprint Medicines Corporation GAVRETO ® is a registered trademark of Blueprint Medicines Corporation .
+© 2022 Genentech USA , Inc .
+All rights reserved .
+© 2022 Blueprint Medicines Corporation .
+All rights reserved .
+For more information , go to www . GAVRETO . com or call 1 - 888 - 835 - 2555 .
+Representative sample of labeling ( see the HOW SUPPLIED section for complete listing ) : PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label NDC 50242 - 210 - 60 Gavreto ® ( pralsetinib ) capsules 100 mg For Oral Use Rx only 60 Capsules Genentech blueprint ™ MEDICINES 10242131 [ MULTIMEDIA ] [ MULTIMEDIA ]

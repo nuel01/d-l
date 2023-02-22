@@ -1,0 +1,185 @@
+11 DESCRIPTION Pregabalin is described chemically as ( S ) - 3 - ( aminomethyl ) - 5 - methylhexanoic acid .
+The molecular formula is C8H17NO2 and the molecular weight is 159 . 23 .
+The chemical structure of pregabalin is : Pregabalin is a white to off - white , crystalline solid with a pKa1 of 4 . 2 and a pKa2 of 10 . 6 .
+It is freely soluble in water and both basic and acidic aqueous solutions .
+The log of the partition coefficient ( n - octanol / 0 . 05 M phosphate buffer ) at pH 7 . 4 is – 1 . 35 .
+LYRICA ( pregabalin ) Capsules are administered orally and are supplied as imprinted hard - shell capsules containing 25 , 50 , 75 , 100 , 150 , 200 , 225 , and 300 mg of pregabalin , along with lactose monohydrate , cornstarch , and talc as inactive ingredients .
+The capsule shells contain gelatin and titanium dioxide .
+In addition , the orange capsule shells contain red iron oxide and the white capsule shells contain sodium lauryl sulfate and colloidal silicon dioxide .
+Colloidal silicon dioxide is a manufacturing aid that may or may not be present in the capsule shells .
+The imprinting ink contains shellac , black iron oxide , propylene glycol , and potassium hydroxide .
+LYRICA ( pregabalin ) oral solution , 20 mg / mL , is administered orally and is supplied as a clear , colorless solution contained in a 16 fluid ounce white HDPE bottle with a polyethylene - lined closure .
+The oral solution contains 20 mg / mL of pregabalin , along with methylparaben , propylparaben , monobasic sodium phosphate anhydrous , dibasic sodium phosphate anhydrous , sucralose , artificial strawberry # 11545 and purified water as inactive ingredients .
+12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action LYRICA ( pregabalin ) binds with high affinity to the alpha2 - delta site ( an auxiliary subunit of voltage - gated calcium channels ) in central nervous system tissues .
+Although the mechanism of action of pregabalin is unknown , results with genetically modified mice and with compounds structurally related to pregabalin ( such as gabapentin ) suggest that binding to the alpha2 - delta subunit may be involved in pregabalin ' s antinociceptive and antiseizure effects in animal models .
+In vitro , pregabalin reduces the calcium - dependent release of several neurotransmitters , possibly by modulation of calcium channel function .
+While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma - aminobutyric acid ( GABA ) , it does not bind directly to GABAA , GABAB , or benzodiazepine receptors , does not augment GABAA responses in cultured neurons , does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation .
+However , in cultured neurons prolonged application of pregabalin increases the density of GABA transporter protein and increases the rate of functional GABA transport .
+Pregabalin does not block sodium channels , is not active at opiate receptors , and does not alter cyclooxygenase enzyme activity .
+It is inactive at serotonin and dopamine receptors and does not inhibit dopamine , serotonin , or noradrenaline reuptake .
+12 . 3 Pharmacokinetics Pregabalin is well absorbed after oral administration , is eliminated largely by renal excretion , and has an elimination half - life of about 6 hours .
+Absorption and Distribution Following oral administration of LYRICA capsules under fasting conditions , peak plasma concentrations occur within 1 . 5 hours .
+Pregabalin oral bioavailability is ≥ 90 % and is independent of dose .
+Following single - ( 25 to 300 mg ) and multiple - dose ( 75 to 900 mg / day ) administration , maximum plasma concentrations ( Cmax ) and area under the plasma concentration - time curve ( AUC ) values increase linearly .
+Following repeated administration , steady state is achieved within 24 to 48 hours .
+Multiple - dose pharmacokinetics can be predicted from single - dose data .
+The rate of pregabalin absorption is decreased when given with food , resulting in a decrease in Cmax of approximately 25 % to 30 % and an increase in Tmax to approximately 3 hours .
+However , administration of pregabalin with food has no clinically relevant effect on the total absorption of pregabalin .
+Therefore , pregabalin can be taken with or without food .
+Pregabalin does not bind to plasma proteins .
+The apparent volume of distribution of pregabalin following oral administration is approximately 0 . 5 L / kg .
+Pregabalin is a substrate for system L transporter which is responsible for the transport of large amino acids across the blood brain barrier .
+Although there are no data in humans , pregabalin has been shown to cross the blood brain barrier in mice , rats , and monkeys .
+In addition , pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats .
+Metabolism and Elimination Pregabalin undergoes negligible metabolism in humans .
+Following a dose of radiolabeled pregabalin , approximately 90 % of the administered dose was recovered in the urine as unchanged pregabalin .
+The N - methylated derivative of pregabalin , the major metabolite of pregabalin found in urine , accounted for 0 . 9 % of the dose .
+In preclinical studies , pregabalin ( S - enantiomer ) did not undergo racemization to the R - enantiomer in mice , rats , rabbits , or monkeys .
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half - life of 6 . 3 hours in subjects with normal renal function .
+Mean renal clearance was estimated to be 67 . 0 to 80 . 9 mL / min in young healthy subjects .
+Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved .
+Pregabalin elimination is nearly proportional to creatinine clearance ( CLcr ) [ see Dosage and Administration , ( 2 . 5 ) ] .
+12 . 4 Pharmacokinetics in Special Populations Race In population pharmacokinetic analyses of the clinical studies in various populations , the pharmacokinetics of LYRICA were not significantly affected by race ( Caucasians , Blacks , and Hispanics ) .
+Gender Population pharmacokinetic analyses of the clinical studies showed that the relationship between daily dose and LYRICA drug exposure is similar between genders .
+Renal Impairment and Hemodialysis Pregabalin clearance is nearly proportional to creatinine clearance ( CLcr ) .
+Dosage reduction in patients with renal dysfunction is necessary .
+Pregabalin is effectively removed from plasma by hemodialysis .
+Following a 4 - hour hemodialysis treatment , plasma pregabalin concentrations are reduced by approximately 50 % .
+For patients on hemodialysis , dosing must be modified [ see Dosage and Administration ( 2 . 5 ) ] .
+Elderly Pregabalin oral clearance tended to decrease with increasing age .
+This decrease in pregabalin oral clearance is consistent with age - related decreases in CLcr .
+Reduction of pregabalin dose may be required in patients who have age - related compromised renal function [ see Dosage and Administration , ( 2 . 5 ) ] .
+Pediatric Pharmacokinetics Pharmacokinetics of pregabalin have not been adequately studied in pediatric patients .
+Drug Interactions In Vitro Studies Pregabalin , at concentrations that were , in general , 10 - times those attained in clinical trials , does not inhibit human CYP1A2 , CYP2A6 , CYP2C9 , CYP2C19 , CYP2D6 , CYP2E1 , and CYP3A4 enzyme systems .
+In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity .
+Therefore , an increase in the metabolism of coadministered CYP1A2 substrates ( e . g . theophylline , caffeine ) or CYP 3A4 substrates ( e . g . midazolam , testosterone ) is not anticipated .
+In Vivo Studies The drug interaction studies described in this section were conducted in healthy adults , and across various patient populations .
+Gabapentin The pharmacokinetic interactions of pregabalin and gabapentin were investigated in 12 healthy subjects following concomitant single - dose administration of 100 - mg pregabalin and 300 - mg gabapentin and in 18 healthy subjects following concomitant multiple - dose administration of 200 - mg pregabalin every 8 hours and 400 - mg gabapentin every 8 hours .
+Gabapentin pharmacokinetics following single - and multiple - dose administration were unaltered by pregabalin coadministration .
+The extent of pregabalin absorption was unaffected by gabapentin coadministration , although there was a small reduction in rate of absorption .
+Oral Contraceptive Pregabalin coadministration ( 200 mg three times a day ) had no effect on the steady - state pharmacokinetics of norethindrone and ethinyl estradiol ( 1 mg / 35 µg , respectively ) in healthy subjects .
+Lorazepam Multiple - dose administration of pregabalin ( 300 mg twice a day ) in healthy subjects had no effect on the rate and extent of lorazepam single - dose pharmacokinetics and single - dose administration of lorazepam ( 1 mg ) had no effect on the steady - state pharmacokinetics of pregabalin .
+Oxycodone Multiple - dose administration of pregabalin ( 300 mg twice a day ) in healthy subjects had no effect on the rate and extent of oxycodone single - dose pharmacokinetics .
+Single - dose administration of oxycodone ( 10 mg ) had no effect on the steady - state pharmacokinetics of pregabalin .
+Ethanol Multiple - dose administration of pregabalin ( 300 mg twice a day ) in healthy subjects had no effect on the rate and extent of ethanol single - dose pharmacokinetics and single - dose administration of ethanol ( 0 . 7 g / kg ) had no effect on the steady - state pharmacokinetics of pregabalin .
+Phenytoin , carbamazepine , valproic acid , and lamotrigine Steady - state trough plasma concentrations of phenytoin , carbamazepine and carbamazepine 10 , 11 epoxide , valproic acid , and lamotrigine were not affected by concomitant pregabalin ( 200 mg three times a day ) administration .
+Population pharmacokinetic analyses in patients treated with pregabalin and various concomitant medications suggest the following : 1 INDICATIONS AND USAGE LYRICA is indicated for : 1 . 1 Management of neuropathic pain associated with diabetic peripheral neuropathy1 . 2 Management of postherpetic neuralgia1 . 3 Adjunctive therapy for adult patients with partial onset seizures1 . 4 Management of fibromyalgia 4 CONTRAINDICATIONS LYRICA is contraindicated in patients with known hypersensitivity to pregabalin or any of its components .
+Angioedema and hypersensitivity reactions have occurred in patients receiving pregabalin therapy .
+6 ADVERSE REACTIONS6 . 1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+In all controlled and uncontrolled trials across various patient populations during the premarketing development of LYRICA , more than 10 , 000 patients have received LYRICA .
+Approximately 5000 patients were treated for 6 months or more , over 3100 patients were treated for 1 year or longer , and over 1400 patients were treated for at least 2 years 10 OVERDOSAGE Signs , Symptoms and Laboratory Findings of Acute Overdosage in Humans There is limited experience with overdose of LYRICA .
+The highest reported accidental overdose of LYRICA during the clinical development program was 8000 mg , and there were no notable clinical consequences .
+Treatment or Management of Overdose There is no specific antidote for overdose with LYRICA .
+If indicated , elimination of unabsorbed drug may be attempted by emesis or gastric lavage ; observe usual precautions to maintain the airway .
+General supportive care of the patient is indicated including monitoring of vital signs and observation of the clinical status of the patient .
+Contact a Certified Poison Control Center for up - to - date information on the management of overdose with LYRICA .
+Although hemodialysis has not been performed in the few known cases of overdose , it may be indicated by the patient ' s clinical state or in patients with significant renal impairment .
+Standard hemodialysis procedures result in significant clearance of pregabalin ( approximately 50 % in 4 hours ) .
+2 DOSAGE AND ADMINISTRATION LYRICA is given orally with or without food .
+When discontinuing LYRICA , taper gradually over a minimum of 1 week .
+2 . 1 Neuropathic pain associated with diabetic peripheral neuropathy The maximum recommended dose of LYRICA is 100 mg three times a day ( 300 mg / day ) in patients with creatinine clearance of at least 60 mL / min .
+Begin dosing at 50 mg three times a day ( 150 mg / day ) .
+The dose may be increased to 300 mg / day within 1 week based on efficacy and tolerability .
+Because LYRICA is eliminated primarily by renal excretion , adjust the dose in patients with reduced renal function [ see Dosage and Administration ( 2 . 5 ) ] .
+Although LYRICA was also studied at 600 mg / day , there is no evidence that this dose confers additional significant benefit and this dose was less well tolerated .
+In view of the dose - dependent adverse reactions , treatment with doses above 300 mg / day is not recommended [ see Adverse Reactions ( 6 . 1 ) ] .
+2 . 2 Postherpetic neuralgia The recommended dose of LYRICA is 75 to 150 mg two times a day , or 50 to 100 mg three times a day ( 150 to 300 mg / day ) in patients with creatinine clearance of at least 60 mL / min .
+Begin dosing at 75 mg two times a day , or 50 mg three times a day ( 150 mg / day ) .
+The dose may be increased to 300 mg / day within 1 week based on efficacy and tolerability .
+Because LYRICA is eliminated primarily by renal excretion , adjust the dose in patients with reduced renal function [ see Dosage and Administration ( 2 . 5 ) ] .
+Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg / day , and who are able to tolerate LYRICA , may be treated with up to 300 mg two times a day , or 200 mg three times a day ( 600 mg / day ) .
+In view of the dose - dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions , reserve dosing above 300 mg / day for those patients who have on - going pain and are tolerating 300 mg daily [ see Adverse Reactions ( 6 . 1 ) ] .
+2 . 3 Adjunctive therapy for adult patients with partial onset seizures LYRICA at doses of 150 to 600 mg / day has been shown to be effective as adjunctive therapy in the treatment of partial onset seizures in adults .
+Both the efficacy and adverse event profiles of LYRICA have been shown to be dose - related .
+Administer the total daily dose in two or three divided doses .
+In general , it is recommended that patients be started on a total daily dose no greater than 150 mg / day ( 75 mg two times a day , or 50 mg three times a day ) .
+Based on individual patient response and tolerability , the dose may be increased to a maximum dose of 600 mg / day .
+Because LYRICA is eliminated primarily by renal excretion , adjust the dose in patients with reduced renal function [ see Dosage and Administration ( 2 . 5 ) ] .
+The effect of dose escalation rate on the tolerability of LYRICA has not been formally studied .
+The efficacy of add - on LYRICA in patients taking gabapentin has not been evaluated in controlled trials .
+Consequently , dosing recommendations for the use of LYRICA with gabapentin cannot be offered .
+2 . 4 Management of Fibromyalgia The recommended dose of LYRICA for fibromyalgia is 300 to 450 mg / day .
+Begin dosing at 75 mg two times a day ( 150 mg / day ) .
+The dose may be increased to 150 mg two times a day ( 300 mg / day ) within 1 week based on efficacy and tolerability .
+Patients who do not experience sufficient benefit with 300 mg / day may be further increased to 225 mg two times a day ( 450 mg / day ) .
+Although LYRICA was also studied at 600 mg / day , there is no evidence that this dose confers additional benefit and this dose was less well tolerated .
+In view of the dose - dependent adverse reactions , treatment with doses above 450 mg / day is not recommended [ see Adverse Reactions ( 6 . 1 ) ] .
+Because LYRICA is eliminated primarily by renal excretion , adjust the dose in patients with reduced renal function [ see Dosage and Administration ( 2 . 5 ) ] .
+2 . 5 Patients with Renal Impairment In view of dose - dependent adverse reactions and since LYRICA is eliminated primarily by renal excretion , adjust the dose in patients with reduced renal function .
+Base the dose adjustment in patients with renal impairment on creatinine clearance ( CLcr ) , as indicated in Table 1 .
+To use this dosing table , an estimate of the patient ' s CLcr in mL / min is needed .
+CLcr in mL / min may be estimated from serum creatinine ( mg / dL ) determination using the Cockcroft and Gault equation Next , refer to the Dosage and Administration section to determine the recommended total daily dose based on indication , for a patient with normal renal function ( CLcr ≥ 60 mL / min ) .
+Then refer to Table 1 to determine the corresponding renal adjusted dose .
+( For example : A patient initiating LYRICA therapy for postherpetic neuralgia with normal renal function ( CLcr ≥ 60 mL / min ) , receives a total daily dose of 150 mg / day pregabalin .
+Therefore , a renal impaired patient with a CLcr of 50 mL / min would receive a total daily dose of 75 mg / day pregabalin administered in two or three divided doses . )
+2 . 6 Oral Solution Concentration and Dispensing The oral solution is 20 mg pregabalin per milliliter ( mL ) and prescriptions should be written in milligrams ( mg ) .
+The pharmacist will calculate the applicable dose in mL for dispensing ( e . g . , 150 mg equals 7 . 5 mL oral solution ) .
+300 mg capsules : White / orange hard gelatin capsule printed with black ink " Pfizer " on the cap , " PGN 300 " on the body Storage and Handling Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° C to 30 ° C ( 59 ° F to 86 ° F ) ( see USP Controlled Room Temperature ) .
+For the oral solution , use within 45 days of first opening the bottle .
+17 PATIENT COUNSELING INFORMATION17 . 1 Medication Guide Inform patients of the availability of a Medication Guide , and instruct them to read the Medication Guide prior to taking LYRICA .
+Instruct patients to take LYRICA only as prescribed .
+17 . 2 Angioedema Advise patients that LYRICA may cause angioedema , with swelling of the face , mouth ( lip , gum , tongue ) and neck ( larynx and pharynx ) that can lead to life - threatening respiratory compromise .
+Instruct patients to discontinue LYRICA and immediately seek medical care if they experience these symptoms [ see Warnings and Precautions ( 5 . 1 ) ] .
+17 . 3 Hypersensitivity Advise patients that LYRICA has been associated with hypersensitivity reactions such as wheezing , dyspnea , rash , hives , and blisters .
+Instruct patients to discontinue LYRICA and immediately seek medical care if they experience these symptoms [ see Warnings and Precautions ( 5 . 2 ) ] .
+17 . 4 Suicidal Thinking and Behavior Patients , their caregivers , and families should be counseled that AEDs , including LYRICA , may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression , any unusual changes in mood or behavior , or the emergence of suicidal thoughts , behavior , or thoughts about self - harm .
+Report behaviors of concern immediately to healthcare providers [ see Warnings and Precautions ( 5 . 4 ) ] .
+17 . 5 Dizziness and Somnolence Counsel patients that LYRICA may cause dizziness , somnolence , blurred vision and other CNS signs and symptoms .
+Accordingly , advise patients not to drive , operate complex machinery , or engage in other hazardous activities until they have gained sufficient experience on LYRICA to gauge whether or not it affects their mental , visual , and / or motor performance adversely .
+[ see Warnings and Precautions ( 5 . 6 ) ] .
+17 . 6 Weight Gain and Edema Counsel patients that LYRICA may cause edema and weight gain .
+Advise patients that concomitant treatment with LYRICA and a thiazolidinedione antidiabetic agent may lead to an additive effect on edema and weight gain .
+For patients with preexisting cardiac conditions , this may increase the risk of heart failure .
+[ see Warnings and Precautions ( 5 . 5 and 5 . 7 ) ] .
+17 . 7 Abrupt or Rapid Discontinuation Advise patients to take LYRICA as prescribed .
+Abrupt or rapid discontinuation may result in insomnia , nausea , headache , or diarrhea .
+[ see Warnings and Precautions ( 5 . 8 ) ] .
+17 . 8 Ophthalmological Effects Counsel patients that LYRICA may cause visual disturbances .
+Inform patients that if changes in vision occur , they should notify their physician [ see Warnings and Precautions ( 5 . 10 ) ] .
+17 . 9 Creatine Kinase Elevations Instruct patients to promptly report unexplained muscle pain , tenderness , or weakness , particularly if accompanied by malaise or fever .
+[ see Warnings and Precautions ( 5 . 11 ) ] .
+17 . 10 CNS Depressants Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects , such as somnolence .
+17 . 11 Alcohol Tell patients to avoid consuming alcohol while taking LYRICA , as LYRICA may potentiate the impairment of motor skills and sedating effects of alcohol .
+17 . 12 Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy , and to notify their physician if they are breast feeding or intend to breast feed during therapy [ see Use In Specific Populations ( 8 . 1 ) and ( 8 . 3 ) ] .
+Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant .
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy .
+To enroll , patients can call the toll free number 1 - 888 - 233 - 2334 [ see Use In Specific Populations ( 8 . 1 ) ] .
+17 . 13 Male Fertility Inform men being treated with LYRICA who plan to father a child of the potential risk of male - mediated teratogenicity .
+In preclinical studies in rats , pregabalin was associated with an increased risk of male - mediated teratogenicity .
+The clinical significance of this finding is uncertain [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+17 . 14 Dermatopathy Instruct diabetic patients to pay particular attention to skin integrity while being treated with LYRICA .
+Some animals treated with pregabalin developed skin ulcerations , although no increased incidence of skin lesions associated with LYRICA was observed in clinical trials [ see Nonclinical Toxicology ( 13 . 2 ) ] .
+Capsules manufactured by : Pfizer Pharmaceuticals LLC Vega Baja , PR 00694 Oral Solution manufactured by : Pfizer Inc Kalamazoo , MI 49001 17 PATIENT COUNSELING INFORMATION17 . 1 Medication Guide Inform patients of the availability of a Medication Guide , and instruct them to read the Medication Guide prior to taking LYRICA .
+Instruct patients to take LYRICA only as prescribed .
+17 . 2 Angioedema Advise patients that LYRICA may cause angioedema , with swelling of the face , mouth ( lip , gum , tongue ) and neck ( larynx and pharynx ) that can lead to life - threatening respiratory compromise .
+Instruct patients to discontinue LYRICA and immediately seek medical care if they experience these symptoms [ see Warnings and Precautions ( 5 . 1 ) ] .
+17 . 3 Hypersensitivity Advise patients that LYRICA has been associated with hypersensitivity reactions such as wheezing , dyspnea , rash , hives , and blisters .
+Instruct patients to discontinue LYRICA and immediately seek medical care if they experience these symptoms [ see Warnings and Precautions ( 5 . 2 ) ] .
+17 . 4 Suicidal Thinking and Behavior Patients , their caregivers , and families should be counseled that AEDs , including LYRICA , may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression , any unusual changes in mood or behavior , or the emergence of suicidal thoughts , behavior , or thoughts about self - harm .
+Report behaviors of concern immediately to healthcare providers [ see Warnings and Precautions ( 5 . 4 ) ] .
+17 . 5 Dizziness and Somnolence Counsel patients that LYRICA may cause dizziness , somnolence , blurred vision and other CNS signs and symptoms .
+Accordingly , advise patients not to drive , operate complex machinery , or engage in other hazardous activities until they have gained sufficient experience on LYRICA to gauge whether or not it affects their mental , visual , and / or motor performance adversely .
+[ see Warnings and Precautions ( 5 . 6 ) ] .
+17 . 6 Weight Gain and Edema Counsel patients that LYRICA may cause edema and weight gain .
+Advise patients that concomitant treatment with LYRICA and a thiazolidinedione antidiabetic agent may lead to an additive effect on edema and weight gain .
+For patients with preexisting cardiac conditions , this may increase the risk of heart failure .
+[ see Warnings and Precautions ( 5 . 5 and 5 . 7 ) ] .
+17 . 7 Abrupt or Rapid Discontinuation Advise patients to take LYRICA as prescribed .
+Abrupt or rapid discontinuation may result in insomnia , nausea , headache , or diarrhea .
+[ see Warnings and Precautions ( 5 . 8 ) ] .
+17 . 8 Ophthalmological Effects Counsel patients that LYRICA may cause visual disturbances .
+Inform patients that if changes in vision occur , they should notify their physician [ see Warnings and Precautions ( 5 . 10 ) ] .
+17 . 9 Creatine Kinase Elevations Instruct patients to promptly report unexplained muscle pain , tenderness , or weakness , particularly if accompanied by malaise or fever .
+[ see Warnings and Precautions ( 5 . 11 ) ] .
+17 . 10 CNS Depressants Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects , such as somnolence .
+17 . 11 Alcohol Tell patients to avoid consuming alcohol while taking LYRICA , as LYRICA may potentiate the impairment of motor skills and sedating effects of alcohol .
+17 . 12 Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy , and to notify their physician if they are breast feeding or intend to breast feed during therapy [ see Use In Specific Populations ( 8 . 1 ) and ( 8 . 3 ) ] .
+Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant .
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy .
+To enroll , patients can call the toll free number 1 - 888 - 233 - 2334 [ see Use In Specific Populations ( 8 . 1 ) ] .
+17 . 13 Male Fertility Inform men being treated with LYRICA who plan to father a child of the potential risk of male - mediated teratogenicity .
+In preclinical studies in rats , pregabalin was associated with an increased risk of male - mediated teratogenicity .
+The clinical significance of this finding is uncertain [ see Nonclinical Toxicology ( 13 . 1 ) ] .
+17 . 14 Dermatopathy Instruct diabetic patients to pay particular attention to skin integrity while being treated with LYRICA .
+Some animals treated with pregabalin developed skin ulcerations , although no increased incidence of skin lesions associated with LYRICA was observed in clinical trials [ see Nonclinical Toxicology ( 13 . 2 ) ] .
+Capsules manufactured by : Pfizer Pharmaceuticals LLC Vega Baja , PR 00694 Oral Solution manufactured by : Pfizer Inc Kalamazoo , MI 49001 image of label [ MULTIMEDIA ] [ MULTIMEDIA ]

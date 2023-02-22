@@ -1,0 +1,288 @@
+Drug - drug Interatctions FOR THE MANUFACTURER ' S COMPLETE DRUG INFORMATION PLEASE VISIT THE FDA SITE : http : / / dailymed . nlm . nih . gov / dailymed / lookup . cfm ? setid = ef468722 - 68 cd - 440 b - afd7 - 2285029db41f Drug - drug Interactions : When Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg is given concomitantly with food , there is a delay in the absorption of the drug , resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour .
+The overall absorption of Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg however , is not substantially affected .
+Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90 % .
+( See PRECAUTIONS . )
+The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly .
+Concomitant administration with tizanidine is contraindicated .
+( See CONTRAINDICATIONS . )
+Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions .
+Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration .
+( See WARNINGS : PRECAUTIONS . )
+Special Populations Pharmacokinetic studies of the oral ( single dose ) and intravenous ( single and multiple dose ) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects ( > 65 years ) as compared to young adults .
+Although the Cmax is increased 16 - 40 % , the increase in mean AUC is approximately 30 % , and can be at least partially attributed to decreased renal clearance in the elderly .
+Elimination half - life is only slightly ( ~ 20 % ) prolonged in the elderly .
+These differences are not considered clinically significant .
+( See PRECAUTIONS : Geriatric Use . )
+In patients with reduced renal function , the half - life of ciprofloxacin is slightly prolonged .
+Dosage adjustments may be required .
+( See DOSAGE AND ADMINISTRATION . )
+In preliminary studies in patients with stable chronic liver cirrhosis , no significant changes in ciprofloxacin pharmacokinetics have been observed .
+The kinetics of ciprofloxacin in patients with acute hepatic insufficiency , however , have not been fully elucidated .
+MICROBIOLOGY MICROBIOLOGY Ciprofloxacin has in vitro activity against a wide range of gram - negative and gram - positive microorganisms .
+The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II ( DNA gyrase ) and topoisomerase IV , which are required for bacterial DNA replication , transcription , repair , and recombination .
+The mechanism of action of fluoroquinolones , including ciprofloxacin , is different from that of penicillins , cephalosporins , aminoglycosides , macrolides , and tetracyclines ; therefore , microorganisms resistant to these classes of drugs may be susceptible to ciprofloxacin and other quinolones .
+There is no known cross - resistance between ciprofloxacin and other classes of antimicrobials .
+In vitro resistance to ciprofloxacin develops slowly by multiple step mutations .
+Ciprofloxacin is slightly less active when tested at acidic pH . The inoculum size has little effect when tested in vitro .
+The minimal bactericidal concentration ( MBC ) generally does not exceed the minimal inhibitory concentration ( MIC ) by more than a factor of 2 .
+Ciprofloxacin has been shown to be active against most strains of the following microorganisms , both in vitro and in clinical infections as described in the INDICATIONS AND USAGEsection of the package insert for Ciprofloxacin Hydrochloride Tablets USP , 250 mg , 500 mg and 750 mg .
+Aerobic gram - positive microorganisms Enterococcus faecalis ( Many strains are only moderately susceptible . )
+Staphylococcus aureus ( methicillin - susceptible strains only ) Staphylococcus epidermidis ( methicillin - susceptible strains only ) Staphylococcus saprophyticus Streptococcus pneumoniae ( penicillin - susceptible strains only ) Streptococcus pyogenes Aerobic gram - negative microorganisms Campylobacter jejuni Proteus mirabilis Citrobacter diversus Proteus vulgaris Citrobacter freundii Providencia rettgeri Enterobacter cloacae Providencia stuartii Escherichia coli Pseudomonas aeruginosa Haemophilus influenzae Salmonella typhi Haemophilus parainfluenzae Serratia marcescens Klebsiella pneumoniae Shigella boydii Moraxella catarrhalis Shigella dysenteriae Morganella morganii Shigella flexneri Neisseria gonorrhoeae Shigella sonnei Ciprofloxacin has been shown to be active against Bacillus anthracis both in vitro and by use of serum levels as a surrogate marker ( see INDICATIONS AND USAGE and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION ) .
+The following in vitro data are available , but their clinical significance is unknown .
+Ciprofloxacin exhibits in vitro minimum inhibitory concentrations ( MICs ) of 1 μg / mL or less against most ( ≥ 90 % ) strains of the following microorganisms ; however , the safety and effectiveness of ciprofloxacin in treating clinical infections due to these microorganisms have not been established in adequate and well - controlled clinical trials .
+Aerobic gram - positive microorganisms Staphylococcus haemolyticus Staphylococcus hominis Streptococcus pneumoniae ( penicillin - resistant strains only ) Aerobic gram - negative microorganisms Acinetobacter Iwoffii Pasteurella multocida Aeromonas hydrophila Salmonella enteritidis Edwardsiella tarda Vibrio cholerae Enterobacter aerogenes Vibrio parahaemolyticus Klebsiella oxytoca Vibrio vulnificus Legionella pneumophila Yersinia enterocolitica Most strains of Burkholderia cepacia and some strains of Stenotrophomonas maltophilia are resistant to ciprofloxacin as are most anaerobic bacteria , including Bacteroides fragilis and Clostridium difficile .
+Indications and Usage Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions and patient populations listed below .
+Please see DOSAGE AND ADMINISTRATIONfor specific recommendations . Adult Patients : Urinary Tract Infections caused by Escherichia coli , Klebsiella pneumoniae , Enterobacter cloacae , Serratia marcescens , Proteus mirabilis , Providencia rettgeri , Morganella morganii , Citrobacter diversus , Citrobacter freundii , Pseudomonas aeruginosa , methicillin - susceptible Staphylococcus epidermidis , Staphylococcus saprophyticus , or Enterococcus faecalis .
+Acute Uncomplicated Cystitis in females caused by Escherichia coli or Staphylococcus saprophyticus .
+Chronic Bacterial Prostatitis caused by Escherichia coli or Proteus mirabilis .
+Lower Respiratory Tract Infections caused by Escherichia coli , Klebsiella pneumoniae , Enterobacter cloacae , Proteus mirabilis , Pseudomonas aeruginosa , Haemophilus influenzae , Haemophilus parainfluenzae , or penicillin - susceptible Streptococcus pneumoniae .
+Also , Moraxella catarrhalis for the treatment of acute exacerbations of chronic bronchitis .
+NOTE : Although effective in clinical trials , ciprofloxacin is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae .
+Acute Sinusitis caused by Haemophilus influenzae , penicillin - susceptible Streptococcus pneumoniae , or Moraxella catarrhalis .
+Skin and Skin Structure Infections caused by Escherichia coli , Klebsiella pneumoniae , Enterobacter cloacae , Proteus mirabilis , Proteus vulgaris , Providencia stuartii , Morganella morganii , Citrobacter freundii , Pseudomonas aeruginosa , methicillin - susceptible Staphylococcus aureus , methicillin - susceptible Staphylococcus epidermidis , or Streptococcus pyogenes .
+Bone and Joint Infections caused by Enterobacter cloacae , Serratia marcescens , or Pseudomonas aeruginosa .
+Complicated Intra - Abdominal Infections ( used in combination with metronidazole ) caused by Escherichia coli , Pseudomonas aeruginosa , Proteus mirabilis , Klebsiella pneumoniae , or Bacteroides fragilis .
+Infectious Diarrhea caused by Escherichia coli ( enterotoxigenic strains ) , Campylobacter jejuni , Shigella boydii † , Shigella dysenteriae , Shigella flexneri or Shigella sonnei † when antibacterial therapy is indicated .
+Typhoid Fever ( Enteric Fever ) caused by Salmonella typhi .
+NOTE : The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier state has not been demonstrated .
+Uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae .
+Pediatric patients ( 1 to 17 years of age ) : Complicated Urinary Tract Infections and Pyelonephritis due to Escherichia coli .
+NOTE : Although effective in clinical trials , ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls , including events related to joints and / or surrounding tissues .
+( See WARNINGS , PRECAUTIONS , Pediatric Use , ADVERSE REACTIONS and CLINICAL STUDIES . )
+Ciprofloxacin , like other fluoroquinolones , is associated with arthropathy and histopathological changes in weight - bearing joints of juvenile animals .
+( See ANIMAL PHARMACOLOGY . )
+Adult and Pediatric Patients : Inhalational anthrax ( post - exposure ) : To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis .
+Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication . 5 Supportive clinical information for ciprofloxacin for anthrax post - exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001 .
+( See also , INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION ) .
+† Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome , efficacy was studied in fewer than 10 patients .
+If anaerobic organisms are suspected of contributing to the infection , appropriate therapy should be administered .
+Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin .
+Therapy with Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg may be initiated before results of these tests are known ; once results become available appropriate therapy should be continued .
+As with other drugs , some strains of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with ciprofloxacin .
+Culture and susceptibility testing performed periodically during therapy will provide information not only on the therapeutic effect of the antimicrobial agent but also on the possible emergence of bacterial resistance .
+To reduce the development of drug - resistant bacteria and maintain the effectiveness of Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg and other antibacterial drugs , Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria .
+When culture and susceptibility information are available , they should be considered in selecting or modifying antibacterial therapy .
+In the absence of such data , local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy .
+CONTRAINDICATIONS Ciprofloxacin is contraindicated in persons with a history of hypersensitivity to ciprofloxacin , any member of the quinolone class of antimicrobial agents , or any of the product components .
+Concomitant administration with tizanidine is contraindicated .
+( See PRECAUTIONS : Drug Interactions . )
+WARNINGS Tendinopathy and Tendon Rupture : Fluoroquinolones , including Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg , are associated with an increased risk of tendinitis and tendon rupture in all ages .
+This adverse reaction most frequently involves the Achilles tendon , and rupture of the Achilles tendon may require surgical repair .
+Tendinitis and tendon rupture in the rotator cuff ( the shoulder ) , the hand , the biceps , the thumb , and other tendon sites have also been reported .
+The risk of developing fluoroquinolone - associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart or lung transplants .
+Factors , in addition to age and corticosteroid use , that may independently increase the risk of tendon rupture include strenuous physical activity , renal failure , and previous tendon disorders such as rheumatoid arthritis .
+Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors .
+Tendon rupture can occur during or after completion of therapy ; cases occurring up to several months after completion of therapy have been reported .
+Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg should be discontinued if the patient experiences pain , swelling , inflammation or rupture of a tendon .
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture , and to contact their healthcare provider regarding changing to a non - quinolone antimicrobial drug .
+Pregnant Women : THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED .
+( See PRECAUTIONS : Pregnancy , and Nursing Mothers subsections . )
+Pediatrics : Ciprofloxacin should be used in pediatric patients ( less than 18 years of age ) only for infections listed in the INDICATIONS AND USAGE section .
+An increased incidence of adverse events compared to controls , including events related to joints and / or surrounding tissues , has been observed .
+( See ADVERSE REACTIONS . )
+In pre - clinical studies , oral administration of ciprofloxacin caused lameness in immature dogs .
+Histopathological examination of the weight - bearing joints of these dogs revealed permanent lesions of the cartilage .
+Related quinolone - class drugs also produce erosions of cartilage of weight - bearing joints and other signs of arthropathy in immature animals of various species .
+( See ANIMAL PHARMACOLOGY . )
+Cytochrome P450 ( CYP450 ) : Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway .
+Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 ( e . g . theophylline , methylxanthines , tizanidine ) results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic side effects of the coadministered drug .
+Central Nervous System Disorders : Convulsions , increased intracranial pressure , and toxic psychosis have been reported in patients receiving quinolones , including ciprofloxacin .
+Ciprofloxacin may also cause central nervous system ( CNS ) events including : dizziness , confusion , tremors , hallucinations , depression , and , rarely , suicidal thoughts or acts .
+These reactions may occur following the first dose .
+If these reactions occur in patients receiving ciprofloxacin , the drug should be discontinued and appropriate measures instituted .
+As with all quinolones , ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold ( e . g . severe cerebral arteriosclerosis , epilepsy ) , or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold ( e . g . certain drug therapy , renal dysfunction ) .
+( See PRECAUTIONS : General , Information for Patients , Drug Interactions and ADVERSE REACTIONS . )
+Theophylline : SERIOUS AND FATAL REACTIONS HAVE BEEN REPORTED IN PATIENTS RECEIVING CONCURRENT ADMINISTRATION OF CIPROFLOXACIN AND THEOPHYLLINE .
+These reactions have included cardiac arrest , seizure , status epilepticus , and respiratory failure .
+Although similar serious adverse effects have been reported in patients receiving theophylline alone , the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated .
+If concomitant use cannot be avoided , serum levels of theophylline should be monitored and dosage adjustments made as appropriate .
+Hypersensitivity Reactions : Serious and occasionally fatal hypersensitivity ( anaphylactic ) reactions , some following the first dose , have been reported in patients receiving quinolone therapy .
+Some reactions were accompanied by cardiovascular collapse , loss of consciousness , tingling , pharyngeal or facial edema , dyspnea , urticaria , and itching .
+Only a few patients had a history of hypersensitivity reactions .
+Serious anaphylactic reactions require immediate emergency treatment with epinephrine .
+Oxygen , intravenous steroids , and airway management , including intubation , should be administered as indicated .
+Other serious and sometimes fatal events , some due to hypersensitivity , and some due to uncertain etiology , have been reported rarely in patients receiving therapy with quinolones , including ciprofloxacin .
+These events may be severe and generally occur following the administration of multiple doses .
+Clinical manifestations may include one or more of the following : fever , rash , or severe dermatologic reactions ( e . g . , toxic epidermal necrolysis , Stevens - Johnson syndrome ) ; vasculitis ; arthralgia ; myalgia ; serum sickness ; allergic pneumonitis ; interstitial nephritis ; acute renal insufficiency or failure ; hepatitis ; jaundice ; acute hepatic necrosis or failure ; anemia , including hemolytic and aplastic ; thrombocytopenia , including thrombotic thrombocytopenic purpura ; leukopenia ; agranulocytosis ; pancytopenia ; and / or other hematologic abnormalities .
+The drug should be discontinued immediately at the first appearance of a skin rash , jaundice , or any other sign of hypersensitivity and supportive measures instituted ( See PRECAUTIONS : Information for Patients and ADVERSE REACTIONS ) .
+Pseudomembranous Colitis : Clostridium difficile associated diarrhea ( CDAD ) has been reported with use of nearly all antibacterial agents , including Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg , and may range in severity from mild diarrhea to fatal colitis .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile .
+C . difficile produces toxins A and B which contribute to the development of CDAD .
+Hypertoxin producing strains of C . difficile cause increased morbidity and mortality , as these infections can be refractory to antimicrobial therapy and may require colectomy .
+CDAD must be considered in all patients who present with diarrhea following antibiotic use .
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents .
+If CDAD is suspected or confirmed , ongoing antibiotic use not directed against C . difficile may need to be discontinued .
+Appropriate fluid and electrolyte management , protein supplementation , antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated .
+Peripheral neuropathy : Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and / or large axons resulting in paresthesias , hypoesthesias , dysesthesias and weakness have been reported in patients receiving quinolones , including ciprofloxacin .
+Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain , burning , tingling , numbness , and / or weakness , or is found to have deficits in light touch , pain , temperature , position sense , vibratory sensation , and / or motor strength in order to prevent the development of an irreversible condition .
+Syphilis : Ciprofloxacin has not been shown to be effective in the treatment of syphilis .
+Antimicrobial agents used in high dose for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis .
+All patients with gonorrhea should have a serologic test for syphilis at the time of diagnosis .
+Patients treated with ciprofloxacin should have a follow - up serologic test for syphilis after three months .
+PRECAUTIONS General : Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals , which is usually alkaline .
+( See ANIMAL PHARMACOLOGY . )
+Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic .
+Alkalinity of the urine should be avoided in patients receiving ciprofloxacin .
+Patients should be well hydrated to prevent the formation of highly concentrated urine .
+Central Nervous System : Quinolones , including ciprofloxacin , may also cause central nervous system ( CNS ) events , including : nervousness , agitation , insomnia , anxiety , nightmares or paranoia .
+( See WARNINGS , Information for Patients , and Drug Interactions . )
+Renal Impairment : Alteration of the dosage regimen is necessary for patients with impairment of renal function .
+( See DOSAGE AND ADMINISTRATION . )
+Photosensitivity / Phototoxicity : Moderate to severe photosensitivity / phototoxicity reactions , the latter of which may manifest as exaggerated sunburn reactions ( e . g . , burning , erythema , exudation , vesicles , blistering , edema ) involving areas exposed to light ( typically the face , “ V ” area of the neck , extensor surfaces of the forearms , dorsa of the hands ) , can be associated with the use of quinolones after sun or UV light exposure .
+Therefore , excessive exposure to these sources of light should be avoided .
+Drug therapy should be discontinued if phototoxicity occurs ( See ADVERSE REACTIONS / Post - Marketing Adverse Events ) .
+As with any potent drug , periodic assessment of organ system functions , including renal , hepatic , and hematopoietic function , is advisable during prolonged therapy .
+Prescribing Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug - resistant bacteria .
+Information for Patients Patients should be advised : • to contact their healthcare provider if they experience pain , swelling , or inflammation of a tendon , or weakness or inability to use one of their joints ; rest and refrain from exercise ; and discontinue Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg treatment .
+The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age , in patients taking corticosteroid drugs , and in patients with kidney , heart or lung transplants .
+• that antibacterial drugs including Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg should only be used to treat bacterial infections .
+They do not treat viral infections ( e . g . , the common cold ) .
+When Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg is prescribed to treat a bacterial infection , patients should be told that although it is common to feel better early in the course of therapy , the medication should be taken exactly as directed .
+Skipping doses or not completing the full course of therapy may ( 1 ) decrease the effectiveness of the immediate treatment and ( 2 ) increase the likelihood that bacteria will develop resistance and will not be treatable by Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg or other antibacterial drugs in the future .
+• that ciprofloxacin may be taken with or without meals and to drink fluids liberally .
+As with other quinolones , concurrent administration of ciprofloxacin with magnesium / aluminum antacids , or sucralfate , Videx ® ( didanosine ) chewable / buffered tablets or pediatric powder , other highly buffered drugs , or with other products containing calcium , iron or zinc should be avoided .
+Ciprofloxacin may be taken two hours before or six hours after taking these products .
+Ciprofloxacin should not be taken with dairy products ( like milk or yogurt ) or calcium - fortified juices alone since absorption of ciprofloxacin may be significantly reduced ; however , ciprofloxacin may be taken with a meal that contains these products .
+• that ciprofloxacin may be associated with hypersensitivity reactions , even following a single dose , and to discontinue the drug at the first sign of a skin rash or other allergic reaction .
+• that photosensitivity / phototoxicity has been reported in patients receiving quinolones .
+Patients should minimize or avoid exposure to natural or artificial sunlight ( tanning beds or UVA / B treatment ) while taking quinolones .
+If patients need to be outdoors while using quinolones , they should wear loose - fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician .
+If a sunburn - like reaction or skin eruption occurs , patients should contact their physician .
+• that peripheral neuropathies have been associated with ciprofloxacin use .
+If symptoms of peripheral neuropathy including pain , burning , tingling , numbness and / or weakness develop , they should discontinue treatment and contact their physicians .
+• that ciprofloxacin may cause dizziness and lightheadedness ; therefore , patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination . that ciprofloxacin increases the effects of tizanidine ( Zanaflex ® ) .
+Patients should not use ciprofloxacin if they are already taking tizanidine • that ciprofloxacin may increase the effects of theophylline and caffeine .
+There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking quinolones .
+• that convulsions have been reported in patients receiving quinolones , including ciprofloxacin , and to notify their physician before taking this drug if there is a history of this condition .
+• that ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures ( like tendons ) in pediatric patients ( less than 18 years of age ) .
+Parents should inform their child ’ s physician if the child has a history of joint - related problems before taking this drug .
+Parents of pediatric patients should also notify their child ’ s physician of any joint - related problems that occur during or following ciprofloxacin therapy .
+( See WARNINGS , PRECAUTIONS , Pediatric Use and ADVERSE REACTIONS . )
+• that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued .
+Sometimes after starting treatment with antibiotics , patients can develop watery and bloody stools ( with or without stomach cramps and fever ) even as late as two or more months after having taken the last dose of the antibiotic .
+If this occurs , patients should contact their physician as soon as possible .
+Drug Interactions In a pharmacokinetic study , systemic exposure of tizanidine ( 4 mg single dose ) was significantly increased ( Cmax 7 - fold , AUC 10 - fold ) when the drug was given concomitantly with ciprofloxacin ( 500 mg bid for 3 days ) .
+The hypotensive and sedative effects of tizanidine were also potentiated .
+Concomitant administration of tizanidine and ciprofloxacin is contraindicated .
+As with some other quinolones , concurrent administration of ciprofloxacin with theophylline may lead to elevated serum concentrations of theophylline and prolongation of its elimination half - life .
+This may result in increased risk of theophylline - related adverse reactions .
+( See WARNINGS . )
+If concomitant use cannot be avoided , serum levels of theophylline should be monitored and dosage adjustments made as appropriate .
+Some quinolones , including ciprofloxacin , have also been shown to interfere with the metabolism of caffeine .
+This may lead to reduced clearance of caffeine and a prolongation of its serum half - life .
+Concurrent administration of a quinolone , including ciprofloxacin , with multivalent cation - containing products such as magnesium / aluminum antacids , sucralfate , Videx ® ( didanosine ) chewable / buffered tablets or pediatric powder , other highly buffered drugs , or products containing calcium , iron , or zinc may substantially decrease its absorption , resulting in serum and urine levels considerably lower than desired .
+( See DOSAGE AND ADMINISTRATION for concurrent administration of these agents with ciprofloxacin . )
+Histamine H2 - receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin .
+Altered serum levels of phenytoin ( increased and decreased ) have been reported in patients receiving concomitant ciprofloxacin .
+The concomitant administration of ciprofloxacin with the sulfonylurea glyburide has , on rare occasions , resulted in severe hypoglycemia .
+Some quinolones , including ciprofloxacin , have been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly .
+Quinolones , including ciprofloxacin , have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives .
+When these products are administered concomitantly , prothrombin time or other suitable coagulation tests should be closely monitored .
+Probenecid interferes with renal tubular secretion of ciprofloxacin and produces an increase in the level of ciprofloxacin in the serum .
+This should be considered if patients are receiving both drugs concomitantly .
+Renal tubular transport of methotrexate may be inhibited by concomitant administration of ciprofloxacin potentially leading to increased plasma levels of methotrexate .
+This might increase the risk of methotrexate associated toxic reactions .
+Therefore , patients under methotrexate therapy should be carefully monitored when concomitant ciprofloxacin therapy is indicated .
+Metoclopramide significantly accelerates the absorption of oral ciprofloxacin resulting in shorter time to reach maximum plasma concentrations .
+No significant effect was observed on the bioavailability of ciprofloxacin .
+Non - steroidal anti - inflammatory drugs ( but not acetyl salicylic acid ) in combination of very high doses of quinolones have been shown to provoke convulsions in pre - clinical studies . Carcinogenesis , Mutagenesis , Impairment of Fertility : Eight in vitro mutagenicity tests have been conducted with ciprofloxacin , and the test results are listed below : Salmonella / Microsome Test ( Negative ) E . coli DNA Repair Assay ( Negative ) Mouse Lymphoma Cell Forward Mutation Assay ( Positive ) Chinese Hamster V79 Cell HGPRT Test ( Negative ) Syrian Hamster Embryo Cell Transformation Assay ( Negative ) Saccharomyces cerevisiae Point Mutation Assay ( Negative ) Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay ( Negative ) Rat Hepatocyte DNA Repair Assay ( Positive ) Thus , 2 of the 8 tests were positive , but results of the following 3 in vivo test systems gave negative results : Rat Hepatocyte DNA Repair Assay Micronucleus Test ( Mice ) Dominant Lethal Test ( Mice ) Long - term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 and 750 mg / kg to rats and mice , respectively ( approximately 1 . 7 - and 2 . 5 - times the highest recommended therapeutic dose based upon mg / m2 ) .
+Results from photo co - carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV - induced skin tumors as compared to vehicle control .
+Hairless ( Skh - 1 ) mice were exposed to UVA light for 3 . 5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin .
+The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin ( mouse dose approximately equal to maximum recommended human dose based upon mg / m2 ) , as opposed to 34 weeks when animals were treated with both UVA and vehicle .
+The times to development of skin tumors ranged from 16 - 32 weeks in mice treated concomitantly with UVA and other quinolones . 4 In this model , mice treated with ciprofloxacin alone did not develop skin or systemic tumors .
+There are no data from similar models using pigmented mice and / or fully haired mice .
+The clinical significance of these findings to humans is unknown .
+Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg / kg ( approximately 0 . 7 - times the highest recommended therapeutic dose based upon mg / m2 ) revealed no evidence of impairment .
+PREGNANCY Teratogenic Effects Pregnancy Category C : There are no adequate and well - controlled studies in pregnant women .
+An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk ( quantity and quality of data = fair ) , but the data are insufficient to state that there is no risk . 8 A controlled prospective observational study followed 200 women exposed to fluoroquinolones ( 52 . 5 % exposed to ciprofloxacin and 68 % first trimester exposures ) during gestation . 9 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations .
+The reported rates of major congenital malformations were 2 . 2 % for the fluoroquinolone group and 2 . 6 % for the control group ( background incidence of major malformations is 1 - 5 % ) .
+Rates of spontaneous abortions , prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children .
+Another prospective follow - up study reported on 549 pregnancies with fluoroquinolone exposure ( 93 % first trimester exposures ) . 10 There were 70 ciprofloxacin exposures , all within the first trimester .
+The malformation rates among live - born babies exposed to ciprofloxacin and to fluoroquinolones overall were both within background incidence ranges .
+No specific patterns of congenital abnormalities were found .
+The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin .
+No differences in the rates of prematurity , spontaneous abortions , or birth weight were seen in women exposed to ciprofloxacin during pregnancy . 8 , 9 However , these small post - marketing epidemiology studies , of which most experience is from short term , first trimester exposure , are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses .
+Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother ( see WARNINGS ) .
+Reproduction studies have been performed in rats and mice using oral doses up to 100 mg / kg ( 0 . 6 and 0 . 3 times the maximum daily human dose based upon body surface area , respectively ) and have revealed no evidence of harm to the fetus due to ciprofloxacin .
+In rabbits , oral ciprofloxacin dose levels of 30 and 100 mg / kg ( approximately 0 . 4 - and 1 . 3 - times the highest recommended therapeutic dose based upon mg / m2 ) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion , but no teratogenicity was observed at either dose level .
+After intravenous administration of doses up to 20 mg / kg ( approximately 0 . 3 - times the highest recommended therapeutic dose based upon mg / m2 ) no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed .
+( See WARNINGS . )
+Nursing Mothers : Ciprofloxacin is excreted in human milk .
+The amount of ciprofloxacin absorbed by the nursing infant is unknown .
+Because of the potential for serious adverse reactions in infants nursing from mothers taking ciprofloxacin , a decision should be made whether to discontinue nursing or to discontinue the drug , taking into account the importance of the drug to the mother .
+PEDIATRIC USE Ciprofloxacin , like other quinolones , causes arthropathy and histological changes in weight - bearing joints of juvenile animals resulting in lameness .
+( See ANIMAL PHARMACOLOGY . )
+Inhalational Anthrax ( Post - Exposure ) Ciprofloxacin is indicated in pediatric patients for inhalational anthrax ( post - exposure ) .
+The risk - benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate .
+For information regarding pediatric dosing in inhalational anthrax ( post - exposure ) , see DOSAGE AND ADMINISTRATION and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION .
+Complicated Urinary Tract Infection and Pyelonephritis Ciprofloxacin is indicated for the treatment of complicated urinary tract infections and pyelonephritis due to Escherichia coli .
+Although effective in clinical trials , ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to the controls , including events related to joints and / or surrounding tissues .
+The rates of these events in pediatric patients with complicated urinary tract infection and pyelonephritis within six weeks of follow - up were 9 . 3 % ( 31 / 335 ) versus 6 % ( 21 / 349 ) for control agents .
+The rates of these events occurring at any time up to the one year follow - up were 13 . 7 % ( 46 / 335 ) and 9 . 5 % ( 33 / 349 ) , respectively .
+The rate of all adverse events regardless of drug relationship at six weeks was 41 % ( 138 / 335 ) in the ciprofloxacin arm compared to 31 % ( 109 / 349 ) in the control arm .
+( See ADVERSE REACTIONS and CLINICAL STUDIES . )
+Cystic Fibrosis Short - term safety data from a single trial in pediatric cystic fibrosis patients are available .
+In a randomized , double - blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients ( ages 5 - 17 years ) , 67 patients received ciprofloxacin I . V . 10 mg / kg / dose q8h for one week followed by ciprofloxacin tablets 20 mg / kg / dose q12h to complete 10 - 21 days treatment and 62 patients received the combination of ceftazidime I . V . 50 mg / kg / dose q8h and tobramycin I . V . 3 mg / kg / dose q8h for a total of 10 - 21 days .
+Patients less than 5 years of age were not studied .
+Safety monitoring in the study included periodic range of motion examinations and gait assessments by treatment - blinded examiners .
+Patients were followed for an average of 23 days after completing treatment ( range 0 - 93 days ) .
+This study was not designed to determine long term effects and the safety of repeated exposure to ciprofloxacin .
+Musculoskeletal adverse events in patients with cystic fibrosis were reported in 22 % of the patients in the ciprofloxacin group and 21 % in the comparison group .
+Decreased range of motion was reported in 12 % of the subjects in the ciprofloxacin group and 16 % in the comparison group .
+Arthralgia was reported in 10 % of the patients in the ciprofloxacin group and 11 % in the comparison group .
+Other adverse events were similar in nature and frequency between treatment arms .
+One of sixty - seven patients developed arthritis of the knee nine days after a ten day course of treatment with ciprofloxacin .
+Clinical symptoms resolved , but an MRI showed knee effusion without other abnormalities eight months after treatment .
+However , the relationship of this event to the patient ’ s course of ciprofloxacin can not be definitively determined , particularly since patients with cystic fibrosis may develop arthralgias / arthritis as part of their underlying disease process .
+GERIATRIC USE Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg .
+This risk is further increased in patients receiving concomitant corticosteroid therapy .
+Tendinitis or tendon rupture can involve the Achilles , hand , shoulder , or other tendon sites and can occur during or after completion of therapy ; cases occurring up to several months after fluoroquinolone treatment have been reported .
+Caution should be used when prescribing Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg to elderly patients especially those on corticosteroids .
+Patients should be informed of this potential side effect and advised to discontinue Ciprofloxacin Tablets USP , 250 mg , 500 mg and 750 mg and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur ( See BOXED WARNING , WARNINGS , and ADVERSE REACTIONS / Post - Marketing Adverse Event Reports ) .
+In a retrospective analysis of 23 multiple - dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients , 25 % of patients were greater than or equal to 65 years of age and 10 % were greater than or equal to 75 years of age .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals on any drug therapy cannot be ruled out .
+Ciprofloxacin is known to be substantially excreted by the kidney , and the risk of adverse reactions may be greater in patients with impaired renal function .
+No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function .
+However , since some older individuals experience reduced renal function by virtue of their advanced age , care should be taken in dose selection for elderly patients , and renal function monitoring may be useful in these patients .
+( See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION . )
+In general , elderly patients may be more susceptible to drug - associated effects on the QT interval .
+Therefore , precaution should be taken when using Ciprofloxacin Tablets USP 250 mg , 500 mg and 750 mg with concomitant drugs that can result in prolongation of the QT interval ( e . g . , class IA or class III antiarrhythmics ) or in patients with risk factors for torsade de pointes ( e . g . , known QT prolongation , uncorrected hypokalemia ) .
+ADVERSE REACTIONS Adverse Reactions in Adult Patients : During clinical investigations with oral and parenteral ciprofloxacin , 49 , 038 patients received courses of the drug .
+Most of the adverse events reported were described as only mild or moderate in severity , abated soon after the drug was discontinued , and required no treatment .
+Ciprofloxacin was discontinued because of an adverse event in 1 % of orally treated patients .
+The most frequently reported drug related events , from clinical trials of all formulations , all dosages , all drug - therapy durations , and for all indications of ciprofloxacin therapy were nausea ( 2 . 5 % ) , diarrhea ( 1 . 6 % ) , liver function tests abnormal ( 1 . 3 % ) , vomiting ( 1 % ) , and rash ( 1 % ) .
+Additional medically important events that occurred in less than 1 % of ciprofloxacin patients are listed below .
+BODY AS A WHOLE : headache , abdominal pain / discomfort , foot pain , pain , pain in extremities , injection site reaction ( ciprofloxacin intravenous ) CARDIOVASCULAR : palpitation , atrial flutter , ventricular ectopy , syncope , hypertension , angina pectoris , myocardial infarction , cardiopulmonary arrest , cerebral thrombosis , phlebitis , tachycardia , migraine , hypotension CENTRAL NERVOUS SYSTEM : restlessness , dizziness , lightheadedness , insomnia , nightmares , hallucinations , manic reaction , irritability , tremor , ataxia , convulsive seizures , lethargy , drowsiness , weakness , malaise , anorexia , phobia , depersonalization , depression , paresthesia , abnormal gait , grand mal convulsion GASTROINTESTINAL : painful oral mucosa , oral candidiasis , dysphagia , intestinal perforation , gastrointestinal bleeding , cholestatic jaundice , hepatitis HEMIC / LYMPHATIC : lymphadenopathy , petechia METABOLIC / NUTRITIONAL : amylase increase , lipase increase MUSCULOSKELETAL : arthralgia or back pain , joint stiffness , achiness , neck or chest pain , flare up of gout RENAL / UROGENITAL : interstitial nephritis , nephritis , renal failure , polyuria , urinary retention , urethral bleeding , vaginitis , acidosis , breast pain RESPIRATORY : dyspnea , epistaxis , laryngeal or pulmonary edema , hiccough , hemoptysis , bronchospasm , pulmonary embolism SKIN / HYPERSENSITIVITY : allergic reaction , pruritus , urticaria , photosensitivity / phototoxicity reaction , flushing , fever , chills , angioedema , edema of the face , neck , lips , conjunctivae or hands , cutaneous candidiasis , hyperpigmentation , erythema nodosum , sweating SPECIAL SENSES : blurred vision , disturbed vision ( change in color perception , overbrightness of lights ) , decreased visual acuity , diplopia , eye pain , tinnitus , hearing loss , bad taste , chromatopsia In several instances nausea , vomiting , tremor , irritability , or palpitation were judged by investigators to be related to elevated serum levels of theophylline possibly as a result of drug interaction with ciprofloxacin .
+In randomized , double - blind controlled clinical trials comparing ciprofloxacin tablets ( 500 mg BID ) to cefuroxime axetil ( 250 mg - 500 mg BID ) and to clarithromycin ( 500 mg BID ) in patients with respiratory tract infections , ciprofloxacin demonstrated a CNS adverse event profile comparable to the control drugs .
+Adverse Reactions in Pediatric Patients : Ciprofloxacin , administered I . V . and / or orally , was compared to a cephalosporin for treatment of complicated urinary tract infections ( cUTI ) or pyelonephritis in pediatric patients 1 to 17 years of age ( mean age of 6 ± 4 years ) .
+The trial was conducted in the US , Canada , Argentina , Peru , Costa Rica , Mexico , South Africa , and Germany .
+The duration of therapy was 10 to 21 days ( mean duration of treatment was 11 days with a range of 1 to 88 days ) .
+The primary objective of the study was to assess musculoskeletal and neurological safety within 6 weeks of therapy and through one year of follow - up in the 335 ciprofloxacin - and 349 comparator - treated patients enrolled .
+An Independent Pediatric Safety Committee ( IPSC ) reviewed all cases of musculoskeletal adverse events as well as all patients with an abnormal gait or abnormal joint exam ( baseline or treatment - emergent ) .
+These events were evaluated in a comprehensive fashion and included such conditions as arthralgia , abnormal gait , abnormal joint exam , joint sprains , leg pain , back pain , arthrosis , bone pain , pain , myalgia , arm pain , and decreased range of motion in a joint .
+The affected joints included : knee , elbow , ankle , hip , wrist , and shoulder .
+Within 6 weeks of treatment initiation , the rates of these events were 9 . 3 % ( 31 / 335 ) in the ciprofloxacin - treated group versus 6 % ( 21 / 349 ) in comparator - treated patients .
+The majority of these events were mild or moderate in intensity .
+All musculoskeletal events occurring by 6 weeks resolved ( clinical resolution of signs and symptoms ) , usually within 30 days of end of treatment .
+Radiological evaluations were not routinely used to confirm resolution of the events .
+The events occurred more frequently in ciprofloxacin - treated patients than control patients , regardless of whether they received I . V . or oral therapy .
+Ciprofloxacin - treated patients were more likely to report more than one event and on more than one occasion compared to control patients .
+These events occurred in all age groups and the rates were consistently higher in the ciprofloxacin group compared to the control group .
+At the end of 1 year , the rate of these events reported at any time during that period was 13 . 7 % ( 46 / 335 ) in the ciprofloxacin - treated group versus 9 . 5 % ( 33 / 349 ) comparator - treated patients .
+An adolescent female discontinued ciprofloxacin for wrist pain that developed during treatment .
+An MRI performed 4 weeks later showed a tear in the right ulnar fibrocartilage .
+A diagnosis of overuse syndrome secondary to sports activity was made , but a contribution from ciprofloxacin cannot be excluded .
+The patient recovered by 4 months without surgical intervention .
+OVERDOSAGE In the event of acute overdosage , reversible renal toxicity has been reported in some cases .
+The stomach should be emptied by inducing vomiting or by gastric lavage .
+The patient should be carefully observed and given supportive treatment , including monitoring of renal function and administration of magnesium , aluminum , or calcium containing antacids which can reduce the absorption of ciprofloxacin .
+Adequate hydration must be maintained .
+Only a small amount of ciprofloxacin ( < 10 % ) is removed from the body after hemodialysis or peritoneal dialysis .
+Single doses of ciprofloxacin were relatively non - toxic via the oral route of administration in mice , rats , and dogs .
+No deaths occurred within a 14 - day post treatment observation period at the highest oral doses tested ; up to 5000 mg / kg in either rodent species , or up to 2500 mg / kg in the dog .
+Clinical signs observed included hypoactivity and cyanosis in both rodent species and severe vomiting in dogs .
+In rabbits , significant mortality was seen at doses of ciprofloxacin > 2500 mg / kg .
+Mortality was delayed in these animals , occurring 10 - 14 days after dosing .
+In mice , rats , rabbits and dogs , significant toxicity including tonic / clonic convulsions was observed at intravenous doses of ciprofloxacin between 125 and 300 mg / kg .
+DOSAGE AND ADMINISTRATION Please see the manufacturer ' s recommendations on the FDA DAILY MED SITE : http : / / dailymed . nlm . nih . gov / dailymed / lookup . cfm ? setid = ef468722 - 68 cd - 440 b - afd7 - 2285029db41f LABEL DISPLAY NDC : 51655 - 118 - Ciprofloxacin 500 MG Lot : Exp : Rx Only Store below 86 F ( 30 C ) Keep out of reach of children .
+Dosage : See package insert Manufactured by : Unique Pharmaceutical Laboratories Manufacture Address : Mumbai , India 400 030 Manufacture NDC : 16571 - 412 - 50 Lot : Distributed by : Northwind Pharmaceuticals Indianapolis , IN 46256 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

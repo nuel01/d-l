@@ -1,0 +1,284 @@
+WARNING Cladribine injection should be administered under the supervision of a qualified physician experienced in the use of antineoplastic therapy .
+Suppression of bone marrow function should be anticipated .
+This is usually reversible and appears to be dose dependent .
+Serious neurological toxicity ( including irreversible paraparesis and quadraparesis ) has been reported in patients who received cladribine injection by continuous infusion at high doses ( 4 to 9 times the recommended dose for Hairy Cell Leukemia ) .
+Neurologic toxicity appears to demonstrate a dose relationship ; however , severe neurological toxicity has been reported rarely following treatment with standard cladribine dosing regimens .
+Acute nephrotoxicity has been observed with high doses of cladribine ( 4 to 9 times the recommended dose for Hairy Cell Leukemia ) , especially when given concomitantly with other nephrotoxic agents / therapies .
+DESCRIPTION Cladribine Injection , USP ( also commonly known as 2 - chloro - 2 ΄ - deoxy - β - D - adenosine ) is a synthetic antineoplastic agent for continuous intravenous infusion .
+It is a clear , colorless , sterile , preservative - free , isotonic solution .
+Cladribine injection , USP is available in single - dose vials containing 10 mg ( 1 mg / mL ) of cladribine , a chlorinated purine nucleoside analog .
+Each milliliter of cladribine injection , USP contains 1 mg of the active ingredient and 9 mg ( 0 . 15 mEq ) of sodium chloride as an inactive ingredient .
+The solution has a pH range of 5 . 5 to 8 . 0 .
+Phosphoric acid and / or dibasic sodium phosphate may have been added to adjust the pH to 6 . 3 ± 0 . 3 .
+The chemical name for cladribine is 2 - chloro - 6 - amino - 9 - ( 2 - deoxy - β - D - erythropento - furanosyl ) purine and the structure is represented below : [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Cellular Resistance and Sensitivity The selective toxicity of 2 - chloro - 2 ΄ - deoxy - β - D - adenosine towards certain normal and malignant lymphocyte and monocyte populations is based on the relative activities of deoxycytidine kinase and deoxynucleotidase .
+Cladribine passively crosses the cell membrane .
+In cells with a high ratio of deoxycytidine kinase to deoxynucleotidase , it is phosphorylated by deoxycytidine kinase to 2 - chloro - 2 ΄ - deoxy - β - D - adenosine monophosphate ( 2 - CdAMP ) .
+Since 2 - chloro - 2 ΄ - deoxy - β - D - adenosine is resistant to deamination by adenosine deaminase and there is little deoxynucleotide deaminase in lymphocytes and monocytes , 2 - CdAMP accumulates intracellularly and is subsequently converted into the active triphosphate deoxynucleotide , 2 - chloro - 2 ΄ - deoxy - β - D - adenosine triphosphate ( 2 - CdATP ) .
+It is postulated that cells with high deoxycytidine kinase and low deoxynucleotidase activities will be selectively killed by 2 - chloro - 2 ΄ - deoxy - β - D - adenosine as toxic deoxynucleotides accumulate intracellularly .
+Cells containing high concentrations of deoxynucleotides are unable to properly repair single - strand DNA breaks .
+The broken ends of DNA activate the enzyme poly ( ADP - ribose ) polymerase resulting in NAD and ATP depletion and disruption of cellular metabolism .
+There is evidence , also , that 2 - CdATP is incorporated into the DNA of dividing cells , resulting in impairment of DNA synthesis .
+Thus , 2 - chloro - 2 ΄ - deoxy - β - D - adenosine can be distinguished from other chemotherapeutic agents affecting purine metabolism in that it is cytotoxic to both actively dividing and quiescent lymphocytes and monocytes , inhibiting both DNA synthesis and repair .
+Pharmacokinetics In a clinical investigation , 17 patients with Hairy Cell Leukemia and normal renal function were treated for 7 days with the recommended treatment regimen of cladribine injection ( 0 . 09 mg / kg / day ) by continuous intravenous infusion .
+The mean steady - state serum concentration was estimated to be 5 . 7 ng / mL with an estimated systemic clearance of 663 . 5 mL / h / kg when cladribine was given by continuous infusion over 7 days .
+In Hairy Cell Leukemia patients , there does not appear to be a relationship between serum concentrations and ultimate clinical outcome .
+In another study , 8 patients with hematologic malignancies received a two ( 2 ) hour infusion of cladribine injection ( 0 . 12 mg / kg ) .
+The mean end - of - infusion plasma cladribine concentration was 48 ± 19 ng / mL .
+For 5 of these patients , the disappearance of cladribine could be described by either a biphasic or triphasic decline .
+For these patients with normal renal function , the mean terminal half - life was 5 . 4 hours .
+Mean values for clearance and steady - state volume of distribution were 978 ± 422 mL / h / kg and 4 . 5 ± 2 . 8 L / kg , respectively .
+Cladribine plasma concentration after intravenous administration declines multi - exponentially with an average half - life of 6 . 7 + / - 2 . 5 hours .
+In general , the apparent volume of distribution of cladribine is approximately 9 L / kg , indicating an extensive distribution in body tissues .
+Cladribine penetrates into cerebrospinal fluid .
+One report indicates that concentrations are approximately 25 % of those in plasma .
+Cladribine is bound approximately 20 % to plasma proteins .
+Except for some understanding of the mechanism of cellular toxicity , no other information is available on the metabolism of cladribine in humans .
+An average of 18 % of the administered dose has been reported to be excreted in urine of patients with solid tumors during a 5 - day continuous intravenous infusion of 3 . 5 – 8 . 1 mg / m 2 / day of cladribine .
+The effect of renal and hepatic impairment on the elimination of cladribine has not been investigated in humans .
+CLINICAL STUDIES Two single - center open label studies of cladribine injection have been conducted in patients with Hairy Cell Leukemia with evidence of active disease requiring therapy .
+In the study conducted at the Scripps Clinic and Research Foundation ( Study A ) , 89 patients were treated with a single course of cladribine injection given by continuous intravenous infusion for 7 days at a dose of 0 . 09 mg / kg / day .
+In the study conducted at the M . D . Anderson Cancer Center ( Study B ) , 35 patients were treated with a 7 - day continuous intravenous infusion of cladribine injection at a comparable dose of 3 . 6 mg / m 2 / day .
+A complete response ( CR ) required clearing of the peripheral blood and bone marrow of hairy cells and recovery of the hemoglobin to 12 g / dL , platelet count to 100 × 10 9 / L , and absolute neutrophil count to 1500 × 10 6 / L .
+A good partial response ( GPR ) required the same hematologic parameters as a complete response , and that fewer than 5 % hairy cells remain in the bone marrow .
+A partial response ( PR ) required that hairy cells in the bone marrow be decreased by at least 50 % from baseline and the same response for hematologic parameters as for complete response .
+A pathologic relapse was defined as an increase in bone marrow hairy cells to 25 % of pretreatment levels .
+A clinical relapse was defined as the recurrence of cytopenias , specifically , decreases in hemoglobin ≥ 2 g / dL , ANC ≥ 25 % or platelet counts ≥ 50 , 000 .
+Patients who met the criteria for a complete response but subsequently were found to have evidence of bone marrow hairy cells ( < 25 % of pretreatment levels ) were reclassified as partial responses and were not considered to be complete responses with relapse .
+Among patients evaluable for efficacy ( N = 106 ) , using the hematologic and bone marrow response criteria described above , the complete response rates in patients treated with cladribine injection were 65 % and 68 % for Study A and Study B , respectively , yielding a combined complete response rate of 66 % .
+Overall response rates ( i . e . , Complete plus Good Partial plus Partial Responses ) were 89 % and 86 % in Study A and Study B , respectively , for a combined overall response rate of 88 % in evaluable patients treated with cladribine injection .
+Using an intent - to - treat analysis ( N = 123 ) and further requiring no evidence of splenomegaly as a criterion for CR ( i . e . , no palpable spleen on physical examination and ≤ 13 cm on CT scan ) , the complete response rates for Study A and Study B were 54 % and 53 % , respectively , giving a combined CR rate of 54 % .
+The overall response rates ( CR + GPR + PR ) were 90 % and 85 % , for Studies A and B , respectively , yielding a combined overall response rate of 89 % .
+RESPONSE RATES TO CLADRIBINE TREATMENT IN PATIENTS WITH HAIRY CELL LEUKEMIA CR Overall Evaluable Patients N = 106 66 % 88 % Intent - to - treat Population N = 123 54 % 89 % In these studies , 60 % of the patients had not received prior chemotherapy for Hairy Cell Leukemia or had undergone splenectomy as the only prior treatment and were receiving cladribine as a first - line treatment .
+The remaining 40 % of the patients received cladribine as a second - line treatment , having been treated previously with other agents , including α - interferon and / or deoxycoformycin .
+The overall response rate for patients without prior chemotherapy was 92 % , compared with 84 % for previously treated patients .
+Cladribine is active in previously treated patients ; however , retrospective analysis suggests that the overall response rate is decreased in patients previously treated with splenectomy or deoxycoformycin and in patients refractory to α - interferon .
+OVERALL RESPONSE RATES ( CR + GPR + PR ) TO CLADRIBINE TREATMENT IN PATIENTS WITH HAIRY CELL LEUKEMIA OVERALL RESPONSE ( N = 123 ) NR + RELAPSE NR = No Response No Prior Chemotherapy 68 / 74 92 % 6 + 4 14 % Any Prior Chemotherapy 41 / 49 84 % 8 + 3 22 % Previous Splenectomy 32 / 41 [ 1 ] 78 % 9 + 1 24 % Previous Interferon 40 / 48 83 % 8 + 3 23 % Interferon Refractory 6 / 11 null 55 % 5 + 2 64 % Previous Deoxycoformycin 3 / 6 null 50 % 3 + 1 66 % [ 1 ] P < 0 . 05 After a reversible decline , normalization of peripheral blood counts ( Hemoglobin > 12 . 0 g / dL , Platelets > 100 × 10 9 / L , Absolute Neutrophil Count ( ANC ) > 1500 × 10 6 / L ) was achieved by 92 % of evaluable patients .
+The median time to normalization of peripheral counts was 9 weeks from the start of treatment ( Range : 2 to 72 ) .
+The median time to normalization of Platelet Count was two weeks , the median time to normalization of ANC was 5 weeks and the median time to normalization of Hemoglobin was 8 weeks .
+With normalization of Platelet Count and Hemoglobin , requirements for platelet and RBC transfusions were abolished after Months 1 and 2 , respectively , in those patients with complete response .
+Platelet recovery may be delayed in a minority of patients with severe baseline thrombocytopenia .
+Corresponding to normalization of ANC , a trend toward a reduced incidence of infection was seen after the third month , when compared to the months immediately preceding cladribine therapy .
+( see also WARNINGS , PRECAUTIONS and ADVERSE REACTIONS ) cladribine TREATMENT IN PATIENTS WITH HAIRY CELL LEUKEMIA TIME TO NORMALIZATION OF PERIPHERAL BLOOD COUNTSParameter Median Time to Normalization of Count [ 1 ] Platelet Count 2 weeks Absolute Neutrophil Count 5 weeks Hemoglobin 8 weeks ANC , Hemoglobin and Platelet Count 9 weeks [ 1 ] Day 1 = First day of infusion For patients achieving a complete response , the median time to response ( i . e . , absence of hairy cells in bone marrow and peripheral blood together with normalization of peripheral blood parameters ) , measured from treatment start , was approximately 4 months .
+Since bone marrow aspiration and biopsy were frequently not performed at the time of peripheral blood normalization , the median time to complete response may actually be shorter than that which was recorded .
+At the time of data cut - off , the median duration of complete response was greater than 8 months and ranged to 25 + months .
+Among 93 responding patients , seven had shown evidence of disease progression at the time of the data cut - off .
+In four of these patients , disease was limited to the bone marrow without peripheral blood abnormalities ( pathologic progression ) , while in three patients there were also peripheral blood abnormalities ( clinical progression ) .
+Seven patients who did not respond to a first course of cladribine received a second course of therapy .
+In the five patients who had adequate follow - up , additional courses did not appear to improve their overall response .
+INDICATIONS FOR USE Cladribine Injection , USP is indicated for the treatment of active Hairy Cell Leukemia as defined by clinically significant anemia , neutropenia , thrombocytopenia or disease - related symptoms .
+CONTRAINDICATIONS Cladribine Injection , USP is contraindicated in those patients who are hypersensitive to this drug or any of its components .
+WARNINGS Due to increased risk of infection in the setting of immunosuppression with chemotherapy including cladribine , it is recommended not to administer live attenuated vaccines to patients receiving cladribine injection .
+Severe bone marrow suppression , including neutropenia , anemia and thrombocytopenia , has been commonly observed in patients treated with cladribine , especially at high doses .
+At initiation of treatment , most patients in the clinical studies had hematologic impairment as a manifestation of active Hairy Cell Leukemia .
+Following treatment with cladribine , further hematologic impairment occurred before recovery of peripheral blood counts began .
+During the first two weeks after treatment initiation , mean Platelet Count , ANC , and Hemoglobin concentration declined and subsequently increased with normalization of mean counts by Day 12 , Week 5 and Week 8 , respectively .
+The myelosuppressive effects of cladribine were most notable during the first month following treatment .
+Forty - four percent ( 44 % ) of patients received transfusions with RBCs and 14 % received transfusions with platelets during Month 1 .
+Careful hematologic monitoring , especially during the first 4 to 8 weeks after treatment with cladribine injection , is recommended ( see PRECAUTIONS ) .
+Fever ( T ≥ 100 ° F ) was associated with the use of cladribine in approximately two - thirds of patients ( 131 / 196 ) in the first month of therapy .
+Virtually all of these patients were treated empirically with parenteral antibiotics .
+Overall , 47 % ( 93 / 196 ) of all patients had fever in the setting of neutropenia ( ANC ≤ 1000 ) , including 62 patients ( 32 % ) with severe neutropenia ( i . e . , ANC ≤ 500 ) .
+In a Phase I investigational study using cladribine in high doses ( 4 to 9 times the recommended dose for Hairy Cell Leukemia ) as part of a bone marrow transplant conditioning regimen , which also included high dose cyclophosphamide and total body irradiation , acute nephrotoxicity and delayed onset neurotoxicity were observed .
+Thirty - one ( 31 ) poor - risk patients with drug - resistant acute leukemia in relapse ( 29 cases ) or non - Hodgkins Lymphoma ( 2 cases ) received cladribine for 7 to 14 days prior to bone marrow transplantation .
+During infusion , 8 patients experienced gastrointestinal symptoms .
+While the bone marrow was initially cleared of all hematopoietic elements , including tumor cells , leukemia eventually recurred in all treated patients .
+Within 7 to 13 days after starting treatment with cladribine , 6 patients ( 19 % ) developed manifestations of renal dysfunction ( e . g . , acidosis , anuria , elevated serum creatinine , etc . ) and 5 required dialysis .
+Several of these patients were also being treated with other medications having known nephrotoxic potential .
+Renal dysfunction was reversible in 2 of these patients .
+In the 4 patients whose renal function had not recovered at the time of death , autopsies were performed ; in 2 of these , evidence of tubular damage was noted .
+Eleven ( 11 ) patients ( 35 % ) experienced delayed onset neurologic toxicity .
+In the majority , this was characterized by progressive irreversible motor weakness ( paraparesis / quadriparesis ) of the upper and / or lower extremities , first noted 35 to 84 days after starting high dose therapy with cladribine .
+Non - invasive testing ( electromyography and nerve conduction studies ) was consistent with demyelinating disease .
+Severe neurologic toxicity has also been noted with high doses of another drug in this class .
+Axonal peripheral polyneuropathy was observed in a dose escalation study at the highest dose levels ( approximately 4 times the recommended dose for Hairy Cell Leukemia ) in patients not receiving cyclophosphamide or total body irradiation .
+Severe neurological toxicity has been reported rarely following treatment with standard cladribine dosing regimens .
+In patients with Hairy Cell Leukemia treated with the recommended treatment regimen ( 0 . 09 mg / kg / day for 7 consecutive days ) , there have been no reports of nephrologic toxicities .
+Serious ( e . g . respiratory infection , pneumonia and viral skin infections ) , including fatal infections ( e . g . sepsis ) were reported ( see ADVERSE REACTIONS ) .
+Of the 196 Hairy Cell Leukemia patients entered in the two trials , there were 8 deaths following treatment .
+Of these , 6 were of infectious etiology , including 3 pneumonias , and 2 occurred in the first month following cladribine therapy .
+Of the 8 deaths , 6 occurred in previously treated patients who were refractory to α interferon .
+Benzyl alcohol is a constituent of the recommended diluent for the 7 - day infusion solution .
+Benzyl alcohol has been reported to be associated with a fatal " Gasping Syndrome " in premature infants .
+( see DOSAGE AND ADMINISTRATION ) Pregnancy Category D Cladribine can cause fetal harm when administered to a pregnant woman .
+Although there is no evidence of teratogenicity in humans due to cladribine , other drugs which inhibit DNA synthesis have been reported to be teratogenic in humans .
+Cladribine is teratogenic in animals .
+Advise females of reproductive potential to use highly effective contraception during treatment with cladribine .
+If cladribine is used during pregnancy , or if the patient becomes pregnant while taking this drug , the patient should be apprised of the potential hazard to the fetus .
+Cladribine is teratogenic in mice and rabbits and consequently has the potential to cause fetal harm when administered to a pregnant woman .
+A significant increase in fetal variations was observed in mice receiving 1 . 5 mg / kg / day ( 4 . 5 mg / m 2 ) and increased resorptions , reduced litter size and increased fetal malformations were observed when mice received 3 . 0 mg / kg / day ( 9 mg / m 2 ) .
+Fetal death and malformations were observed in rabbits that received 3 . 0 mg / kg / day ( 33 . 0 mg / m 2 ) .
+No fetal effects were seen in mice at 0 . 5 mg / kg / day ( 1 . 5 mg / m 2 ) or in rabbits at 1 . 0 mg / kg / day ( 11 . 0 mg / m 2 ) .
+PRECAUTIONS General Cladribine injection is a potent antineoplastic agent with potentially significant toxic side effects .
+It should be administered only under the supervision of a physician experienced with the use of cancer chemotherapeutic agents .
+Patients undergoing therapy should be closely observed for signs of hematologic and non - hematologic toxicity .
+Periodic assessment of peripheral blood counts , particularly during the first 4 to 8 weeks post - treatment , is recommended to detect the development of anemia , neutropenia and thrombocytopenia and for early detection of any potential sequelae ( e . g . , infection or bleeding ) .
+As with other potent chemotherapeutic agents , monitoring of renal and hepatic function is also recommended , especially in patients with underlying kidney or liver dysfunction ( see WARNINGS and ADVERSE REACTIONS ) .
+Fever was a frequently observed side effect during the first month on study .
+Since the majority of fevers occurred in neutropenic patients , patients should be closely monitored during the first month of treatment and empiric antibiotics should be initiated as clinically indicated .
+Although 69 % of patients developed fevers , less than 1 / 3 of febrile events were associated with documented infection .
+Given the known myelosuppressive effects of cladribine , practitioners should carefully evaluate the risks and benefits of administering this drug to patients with active infections ( see WARNINGS and ADVERSE REACTIONS ) .
+There are inadequate data on dosing of patients with renal or hepatic insufficiency .
+Development of acute renal insufficiency in some patients receiving high doses of cladribine has been described .
+Until more information is available , caution is advised when administering the drug to patients with known or suspected renal or hepatic insufficiency ( see WARNINGS ) .
+Rare cases of tumor lysis syndrome have been reported in patients treated with cladribine with other hematologic malignancies having a high tumor burden .
+Cladribine injection must be diluted in designated intravenous solutions prior to administration ( see DOSAGE AND ADMINISTRATION ) .
+Laboratory Tests During and following treatment , the patient ' s hematologic profile should be monitored regularly to determine the degree of hematopoietic suppression .
+In the clinical studies , following reversible declines in all cell counts , the mean Platelet Count reached 100 × 10 9 / L by Day 12 , the mean Absolute Neutrophil Count reached 1500 × 10 6 / L by Week 5 and the mean Hemoglobin reached 12 g / dL by Week 8 .
+After peripheral counts have normalized , bone marrow aspiration and biopsy should be performed to confirm response to treatment with cladribine .
+Febrile events should be investigated with appropriate laboratory and radiologic studies .
+Periodic assessment of renal function and hepatic function should be performed as clinically indicated .
+Drug Interactions There are no known drug interactions with cladribine injection .
+Caution should be exercised if cladribine injection is administered before , after , or in conjunction with other drugs known to cause immunosuppression or myelosuppression .
+( see WARNINGS ) Carcinogenesis No animal carcinogenicity studies have been conducted with cladribine .
+However , its carcinogenic potential cannot be excluded based on demonstrated genotoxicity of cladribine .
+Mutagenesis As expected for compounds in this class , the actions of cladribine yield DNA damage .
+In mammalian cells in culture , cladribine caused the accumulation of DNA strand breaks .
+Cladribine was also incorporated into DNA of human lymphoblastic leukemia cells .
+Cladribine was not mutagenic in vitro ( Ames and Chinese hamster ovary cell gene mutation tests ) and did not induce unscheduled DNA synthesis in primary rat hepatocyte cultures .
+However , cladribine was clastogenic both in vitro ( chromosome aberrations in Chinese hamster ovary cells ) and in vivo ( mouse bone marrow micronucleus test ) .
+Impairment of Fertility The effect on human fertility is unknown .
+When administered intravenously to Cynomolgus monkeys , cladribine has been shown to cause suppression of rapidly generating cells , including testicular cells .
+Pregnancy Pregnancy Category D ( see WARNINGS ) .
+Nursing Mothers It is not known whether this drug is excreted in human milk .
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from cladribine , a decision should be made whether to discontinue nursing or discontinue the drug , taking into account the importance of the drug for the mother .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+In a Phase I study involving patients 1 – 21 years old with relapsed acute leukemia , cladribine was given by continuous intravenous infusion in doses ranging from 3 to 10 . 7 mg / m 2 / day for 5 days ( one - half to twice the dose recommended in Hairy Cell Leukemia ) .
+In this study , the dose - limiting toxicity was severe myelosuppression with profound neutropenia and thrombocytopenia .
+At the highest dose ( 10 . 7 mg / m 2 / day ) , 3 of 7 patients developed irreversible myelosuppression and fatal systemic bacterial or fungal infections .
+No unique toxicities were noted in this study ( 1 ) ( see WARNINGS and ADVERSE REACTIONS ) .
+Geriatric Use Clinical studies of cladribine did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects .
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients .
+In general , dose selection for an elderly patient should be cautious , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy in elderly patients .
+ADVERSE REACTIONS Clinical Trials Experience Adverse drug reactions reported by ≥ 1 % of cladribine - treated patients with HCL noted in the HCL clinical dataset ( studies K90 - 091 and L91 - 048 , n = 576 ) are shown in the table below .
+Adverse Drug Reactions in ≥ 1 % of Patients Treated with Cladribine in HCL Clinical TrialsSystem Organ Class Preferred Term Cladribine ( n = 576 ) % Blood and Lymphatic System Disorder ( see also sections WARNINGS and PRECAUTIONS ) Anemia 1 Febrile neutropenia 8 Psychiatric Disorders Anxiety 1 Insomnia 3 Nervous System Disorders Dizziness 6 Headache 14 Cardiac Disorders Tachycardia 2 Respiratory , Thoracic and Mediastinal Disorders Breath sounds abnormal 4 Cough 7 Dyspnea [ 1 ] 5 Rales 1 Gastrointestinal Disorders Abdominal pain [ 2 ] 4 Constipation 4 Diarrhea 7 Flatulence 1 Nausea 22 Vomiting 9 Skin and Subcutaneous Tissue Disorders Ecchymosis 2 Hyperhidrosis 3 Petechiae 2 Pruritus 2 Rash [ 3 ] 16 Musculoskeletal , Connective Tissue , and Bone Disorders Arthralgia 3 Myalgia 6 Pain [ 4 ] 6 General Disorders and Administration Site Conditions ( see also sections WARNINGS and PRECAUTIONS ) Administration site reaction [ 5 ] 11 Asthenia 6 Chills 2 Decreased appetite 8 Fatigue 31 Malaise 5 Muscular weakness 1 Edema peripheral 2 Pyrexia 33 Injury , Poisoning and Procedural Complications Contusion 1 [ 1 ] Dyspnea includes dyspnea , dyspnea exertional , and wheezing [ 2 ] Abdominal pain includes abdominal discomfort , abdominal pain , and abdominal pain ( lower and upper ) [ 3 ] Rash includes erythema , rash , and rash ( macular , macula - papular , papular , pruritic , pustular and erythematous ) [ 4 ] Pain includes pain , back pain , chest pain , arthritis pain , bone pain , and pain in extremity [ 5 ] Administration site reaction includes administration site reaction , catheter site ( cellulitis , erythema , hemorrhage , and pain ) , and infusion site reaction ( erythema , edema , and pain ) The following safety data are based on 196 patients with Hairy Cell Leukemia : the original cohort of 124 patients plus an additional 72 patients enrolled at the same two centers after the original enrollment cutoff .
+In Month 1 of the Hairy Cell Leukemia clinical trials , severe neutropenia was noted in 70 % of patients , fever in 69 % , and infection was documented in 28 % .
+Most non - hematologic adverse experiences were mild to moderate in severity .
+Myelosuppression was frequently observed during the first month after starting treatment .
+Neutropenia ( ANC < 500 × 10 6 / L ) was noted in 70 % of patients , compared with 26 % in whom it was present initially .
+Severe anemia ( Hemoglobin < 8 . 5 g / dL ) developed in 37 % of patients , compared with 10 % initially and thrombocytopenia ( Platelets < 20 × 10 9 / L ) developed in 12 % of patients , compared to 4 % in whom it was noted initially .
+During the first month , 54 of 196 patients ( 28 % ) exhibited documented evidence of infection .
+Serious infections ( e . g . , septicemia , pneumonia ) were reported in 6 % of all patients ; the remainder were mild or moderate .
+Several deaths were attributable to infection and / or complications related to the underlying disease .
+During the second month , the overall rate of documented infection was 6 % ; these infections were mild to moderate and no severe systemic infections were seen .
+After the third month , the monthly incidence of infection was either less than or equal to that of the months immediately preceding cladribine therapy .
+During the first month , 11 % of patients experienced severe fever ( i . e . , ≥ 104 ° F ) .
+Documented infections were noted in fewer than one - third of febrile episodes .
+Of the 196 patients studied , 19 were noted to have a documented infection in the month prior to treatment .
+In the month following treatment , there were 54 episodes of documented infection : 23 ( 42 % ) were bacterial , 11 ( 20 % ) were viral and 11 ( 20 % ) were fungal .
+Seven ( 7 ) of 8 documented episodes of herpes zoster occurred during the month following treatment .
+Fourteen ( 14 ) of 16 episodes of documented fungal infections occurred in the first two months following treatment .
+Virtually all of these patients were treated empirically with antibiotics .
+( see WARNINGS and PRECAUTIONS ) Analysis of lymphocyte subsets indicates that treatment with cladribine is associated with prolonged depression of the CD4 counts .
+Prior to treatment , the mean CD4 count was 766 / µL .
+The mean CD4 count nadir , which occurred 4 to 6 months following treatment , was 272 / µL .
+Fifteen ( 15 ) months after treatment , mean CD4 counts remained below 500 / µL .
+CD8 counts behaved similarly , though increasing counts were observed after 9 months .
+The clinical significance of the prolonged CD4 lymphopenia is unclear .
+Another event of unknown clinical significance includes the observation of prolonged bone marrow hypocellularity .
+Bone marrow cellularity of < 35 % was noted after 4 months in 42 of 124 patients ( 34 % ) treated in the two pivotal trials .
+This hypocellularity was noted as late as Day 1010 .
+It is not known whether the hypocellularity is the result of disease related marrow fibrosis or if it is the result of cladribine toxicity .
+There was no apparent clinical effect on the peripheral blood counts .
+The vast majority of rashes were mild .
+Most episodes of nausea were mild , not accompanied by vomiting , and did not require treatment with antiemetics .
+In patients requiring antiemetics , nausea was easily controlled , most frequently with chlorpromazine .
+When used in other clinical settings the following ADRs were reported : bacteremia , cellulitis , localized infection , pneumonia , anemia , thrombocytopenia ( with bleeding or petechiae ) , phlebitis , purpura , crepitations , localized edema and edema .
+For a description of adverse reactions associated with use of high doses in non - Hairy Cell Leukemia patients , see WARNINGS .
+Postmarketing Experience The following additional adverse reactions have been reported since the drug became commercially available .
+These adverse reactions have been reported primarily in patients who received multiple courses of cladribine injection : Infections and infestations : Septic shock .
+Opportunistic infections have occurred in the acute phase of treatment .
+Blood and lymphatic system disorders : Bone marrow suppression with prolonged pancytopenia , including some reports of aplastic anemia ; hemolytic anemia ( including autoimmune hemolytic anemia ) , which was reported in patients with lymphoid malignancies , occurring within the first few weeks following treatment .
+Rare cases of myelodysplastic syndrome have been reported .
+Immune system disorders : Hypersensitivity .
+Metabolism and nutrition disorders : Tumor lysis syndrome .
+Psychiatric disorders : Confusion ( including disorientation ) .
+Hepatobiliary disorders : Reversible , generally mild increases in bilirubin ( uncommon ) and transaminases .
+Nervous System disorders : Depressed level of consciousness , neurological toxicity ( including peripheral sensory neuropathy , motor neuropathy ( paralysis ) , polyneuropathy , paraparesis ) ; however , severe neurotoxicity has been reported rarely following treatment with standard cladribine dosing regimens .
+Eye disorders : Conjunctivitis .
+Respiratory , thoracic and mediastinal disorders : Pulmonary interstitial infiltrates ( including lung infiltration , interstitial lung disease , pneumonitis and pulmonary fibrosis ) ; in most cases , an infectious etiology was identified .
+Skin and tissue disorders : Urticaria , hypereosinophilia ; Stevens - Johnson .
+In isolated cases toxic epidermal necrolysis has been reported in patients who were receiving or had recently been treated with other medications ( e . g . , allopurinol or antibiotics ) known to cause these syndromes .
+Renal and urinary disorders : Renal failure ( including renal failure acute , renal impairment ) .
+OVERDOSAGE High doses of cladribine have been associated with : irreversible neurologic toxicity ( paraparesis / quadriparesis ) , acute nephrotoxicity , and severe bone marrow suppression resulting in neutropenia , anemia and thrombocytopenia ( see WARNINGS ) .
+There is no known specific antidote to overdosage .
+Treatment of overdosage consists of discontinuation of cladribine , careful observation and appropriate supportive measures .
+It is not known whether the drug can be removed from the circulation by dialysis or hemofiltration .
+DOSAGE AND ADMINISTRATION Usual Dose The recommended dose and schedule of cladribine injection , USP for active Hairy Cell Leukemia is as a single course given by continuous infusion for 7 consecutive days at a dose of 0 . 09 mg / kg / day .
+Deviations from this dosage regimen are not advised .
+If the patient does not respond to the initial course of cladribine injection , USP for Hairy Cell Leukemia , it is unlikely that they will benefit from additional courses .
+Physicians should consider delaying or discontinuing the drug if neurotoxicity or renal toxicity occurs ( see WARNINGS ) .
+Specific risk factors predisposing to increased toxicity from cladribine have not been defined .
+In view of the known toxicities of agents of this class , it would be prudent to proceed carefully in patients with known or suspected renal insufficiency or severe bone marrow impairment of any etiology .
+Patients should be monitored closely for hematologic and non - hematologic toxicity ( see WARNINGS and PRECAUTIONS ) .
+Preparation and Administration of Intravenous Solutions Cladribine injection , USP must be diluted with the designated diluent prior to administration .
+Since the drug product does not contain any antimicrobial preservative or bacteriostatic agent , aseptic technique and proper environmental precautions must be observed in preparation of cladribine injection solutions .
+To prepare a single daily dose Cladribine injection , USP should be passed through a sterile 0 . 22µm disposable hydrophilic syringe filter prior to introduction into the infusion bag , prior to each daily infusion .
+Add the calculated dose ( 0 . 09 mg / kg or 0 . 09 mL / kg ) of cladribine injection , USP through the sterile filter to an infusion bag containing 500 mL of 0 . 9 % Sodium Chloride Injection , USP .
+Infuse continuously over 24 hours .
+Repeat daily for a total of 7 consecutive days .
+The use of 5 % dextrose as a diluent is not recommended because of increased degradation of cladribine .
+Admixtures of cladribine injection , USP are chemically and physically stable for at least 24 hours at room temperature under normal room fluorescent light in Baxter Viaflex ® PVC infusion containers .
+Since limited compatibility data are available , adherence to the recommended diluents and infusion systems is advised .
+Dose of Cladribine Injection , USP Recommended Diluent Quantity of Diluent 24 - hour infusion method 1 ( day ) × 0 . 09 mg / kg 0 . 9 % Sodium Chloride Injection , USP 500 mL To prepare a 7 - day infusion The 7 - day infusion solution should only be prepared with Bacteriostatic 0 . 9 % Sodium Chloride Injection , USP ( 0 . 9 % benzyl alcohol preserved ) .
+In order to minimize the risk of microbial contamination , both cladribine injection , USP and the diluent should be passed through a sterile 0 . 22 µm disposable hydrophilic syringe filter as each solution is being introduced into the infusion reservoir .
+First add the calculated dose of cladribine injection , USP ( 7 days × 0 . 09 mg / kg or mL / kg ) to the infusion reservoir through the sterile filter .
+Then add a calculated amount of Bacteriostatic 0 . 9 % Sodium Chloride Injection , USP ( 0 . 9 % benzyl alcohol preserved ) also through the filter to bring the total volume of the solution to 100 mL .
+After completing solution preparation , clamp off the line , disconnect and discard the filter .
+Aseptically aspirate air bubbles from the reservoir as necessary using the syringe and a dry second sterile filter or a sterile vent filter assembly .
+Reclamp the line and discard the syringe and filter assembly .
+Infuse continuously over 7 days .
+Solutions prepared with Bacteriostatic Sodium Chloride Injection for individuals weighing more than 85 kg may have reduced preservative effectiveness due to greater dilution of the benzyl alcohol preservative .
+Admixtures for the 7 - day infusion have demonstrated acceptable chemical and physical stability for at least 7 days in the SIMS Deltec MEDICATION CASSETTE ™ Reservoir .
+Dose of Cladribine Injection , USP Recommended Diluent Quantity of Diluent 7 - day infusion method ( use sterile 0 . 22µ filter when preparing infusion solution ) 7 ( days ) × 0 . 09 mg / kg Bacteriostatic 0 . 9 % Sodium Chloride Injection , USP ( 0 . 9 % benzyl alcohol ) q . s . to 100 mL Since limited compatibility data are available , adherence to the recommended diluents and infusion systems is advised .
+Solutions containing cladribine injection , USP should not be mixed with other intravenous drugs or additives or infused simultaneously via a common intravenous line , since compatibility testing has not been performed .
+Preparations containing benzyl alcohol should not be used in neonates ( see WARNINGS ) .
+Care must be taken to assure the sterility of prepared solutions .
+Once diluted , solutions of cladribine injection , USP should be administered promptly or stored in the refrigerator ( 2 ° to 8 ° C ) for no more than 8 hours prior to start of administration .
+Vials of cladribine injection , USP are for single - use only .
+Any unused portion should be discarded in an appropriate manner ( see Handling and Disposal ) .
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration , whenever solution and container permit .
+A precipitate may occur during the exposure of cladribine injection , USP to low temperatures ; it may be resolubilized by allowing the solution to warm naturally to room temperature and by shaking vigorously .
+DO NOT HEAT OR MICROWAVE .
+Chemical Stability of Vials When stored in refrigerated conditions between 2 ° to 8 ° C ( 36 ° to 46 ° F ) protected from light , unopened vials of cladribine injection , USP are stable until the expiration date indicated on the package .
+Freezing does not adversely affect the solution .
+If freezing occurs , thaw naturally to room temperature .
+DO NOT heat or microwave .
+Once thawed , the vial of cladribine injection , USP is stable until expiry if refrigerated .
+DO NOT refreeze .
+Once diluted , solutions containing cladribine injection , USP should be administered promptly or stored in the refrigerator ( 2 ° to 8 ° C ) for no more than 8 hours prior to administration .
+Handling and Disposal The potential hazards associated with cytotoxic agents are well established and proper precautions should be taken when handling , preparing , and administering cladribine injection , USP .
+The use of disposable gloves and protective garments is recommended .
+If cladribine injection , USP contacts the skin or mucous membranes , wash the involved surface immediately with copious amounts of water .
+Several guidelines on this subject have been published .
+( 2 – 8 ) There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate .
+Refer to your Institution ' s guidelines and all applicable state / local regulations for disposal of cytotoxic waste .
+HOW SUPPLIED Cladribine Injection , USP is supplied as a sterile , preservative - free , isotonic solution containing 10 mg ( 1 mg / mL ) of cladribine as 10 mL filled into a single - dose clear flint glass 20 mL vial , individually boxed .
+NDC 42658 - 010 - 01 .
+Store refrigerated 2 ° to 8 ° C ( 36 ° to 46 ° F ) .
+Protect from light during storage .
+REFERENCES • Santana VM , Mirro J , Harwood FC , et al : A phase I clinical trial of 2 - Chloro - deoxyadenosine in pediatric patients with acute leukemia .
+J . Clin .
+Onc . , 9 : 416 ( 1991 ) .
+• Recommendations for the Safe Handling of Parenteral Antineoplastic Drugs .
+NIH Publication No . 83 - 2621 .
+For sale by the Superintendent of Documents , U . S . Government Printing Office , Washington , D . C . 20402 .
+• AMA Council Report .
+Guidelines for Handling Parenteral Antineoplastics , JAMA , March 15 ( 1985 ) .
+• National Study Commission on Cytotoxic Exposure -- Recommendations for Handling Cytotoxic Agents .
+Available from Louis P . Jeffrey , Sc . D . , Chairman , National Study Commission on Cytotoxic Exposure , Massachusetts College of Pharmacy and Allied Health Sciences , 179 Longwood Avenue , Boston , Massachusetts 02115 .
+• Clinical Oncological Society of Australia : Guidelines and Recommendations for Safe Handling of Antineoplastic Agents , Med .
+J . Australia 1 : 425 ( 1983 ) .
+• Jones RB , et al .
+Safe Handling of Chemotherapeutic Agents : A Report from the Mount Sinai Medical Center .
+Ca -- A Cancer Journal for Clinicians , Sept / Oct .
+258 – 263 ( 1983 ) .
+• American Society of Hospital Pharmacists Technical Assistance Bulletin on Handling Cytotoxic Drugs in Hospitals .
+Am .
+J . Hosp .
+Pharm . , 42 : 131 ( 1985 ) .
+• OSHA Work - Practice Guidelines for Personnel Dealing with Cytotoxic ( antineoplastic ) Drugs .
+Am .
+J . Hosp .
+Pharm . , 43 : 1193 ( 1986 ) .
+Distributed by : Hisun Pharmaceuticals USA , Inc .
+Bridgewater , NJ 08807 USA Manufactured in China Issued : 12 / 2019 PRINCIPAL DISPLAY PANEL - 10 mL Carton and Vial 10 mL NDC 42658 - 010 - 01 Carton [ MULTIMEDIA ] NDC 42658 - 010 - 01 Vial [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

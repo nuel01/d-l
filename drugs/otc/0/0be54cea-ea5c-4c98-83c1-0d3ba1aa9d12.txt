@@ -1,0 +1,605 @@
+Suicidality and Antidepressant Drugs Antidepressants increased the risk compared to placebo of suicidal thinking and behavior ( suicidality ) in children , adolescents , and young adults in short - term studies of major depressive disorder ( MDD ) and other psychiatric disorders .
+Anyone considering the use of fluoxetine or any other antidepressant in a child , adolescent , or young adult must balance this risk with the clinical need .
+Short - term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 ; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older .
+Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide .
+Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening , suicidality , or unusual changes in behavior .
+Families and caregivers should be advised of the need for close observation and communication with the prescriber .
+Fluoxetine is approved for use in pediatric patients with MDD and obsessive compulsive disorder ( OCD ) .
+( See WARNINGS : Clinical Worsening and Suicide Risk , PRECAUTIONS : Information for Patients , and PRECAUTIONS : Pediatric Use . )
+DESCRIPTION Fluoxetine hydrochloride is a psychotropic drug for oral administration .
+It is also marketed for the treatment of premenstrual dysphoric disorder ( Sarafem ® , fluoxetine hydrochloride ) .
+It is designated ( ± ) - N - methyl - 3 - phenyl - 3 - [ ( α , α , α - trifluoro - p - tolyl ) oxy ] propylamine hydrochloride and has the molecular formula of C17H18F3NO • HCl .
+Its molecular weight is 345 . 79 .
+The structural formula is : [ MULTIMEDIA ] Fluoxetine hydrochloride is a white to off - white crystalline solid with a solubility of 14 mg / mL in water .
+Each tablet contains fluoxetine hydrochloride equivalent to 10 mg ( 32 . 3 µmol ) or 20 mg ( 64 . 7 µmol ) of fluoxetine .
+In addition , each tablet also contains the following inactive ingredients : crospovidone , hypromellose , magnesium stearate , maize ( corn ) starch , microcrystalline cellulose , polyethylene glycol , silica colloidal anhydrous , and titanium dioxide .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Pharmacodynamics The antidepressant , antiobsessive - compulsive , and antibulimic actions of fluoxetine are presumed to be linked to its inhibition of CNS neuronal uptake of serotonin .
+Studies at clinically relevant doses in man have demonstrated that fluoxetine blocks the uptake of serotonin into human platelets .
+Studies in animals also suggest that fluoxetine is a much more potent uptake inhibitor of serotonin than of norepinephrine .
+Antagonism of muscarinic , histaminergic , and α1 - adrenergic receptors has been hypothesized to be associated with various anticholinergic , sedative , and cardiovascular effects of classical tricyclic antidepressant ( TCA ) drugs .
+Fluoxetine binds to these and other membrane receptors from brain tissue much less potently in vitro than do the tricyclic drugs .
+Absorption , Distribution , Metabolism , and Excretion Systemic bioavailability In man , following a single oral 40 mg dose , peak plasma concentrations of fluoxetine from 15 to 55 ng / mL are observed after 6 to 8 hours .
+The capsule , tablet and oral solution dosage forms of fluoxetine are bioequivalent .
+Food does not appear to affect the systemic bioavailability of fluoxetine , although it may delay its absorption by 1 to 2 hours , which is probably not clinically significant .
+Thus , fluoxetine may be administered with or without food .
+Protein binding Over the concentration range from 200 to 1000 ng / mL , approximately 94 . 5 % of fluoxetine is bound in vitro to human serum proteins , including albumin and α1 - glycoprotein .
+The interaction between fluoxetine and other highly protein - bound drugs has not been fully evaluated , but may be important ( see PRECAUTIONS ) .
+Enantiomers Fluoxetine is a racemic mixture ( 50 / 50 ) of R - fluoxetine and S - fluoxetine enantiomers .
+In animal models , both enantiomers are specific and potent serotonin uptake inhibitors with essentially equivalent pharmacologic activity .
+The S - fluoxetine enantiomer is eliminated more slowly and is the predominant enantiomer present in plasma at steady state .
+Metabolism Fluoxetine is extensively metabolized in the liver to norfluoxetine and a number of other unidentified metabolites .
+The only identified active metabolite , norfluoxetine , is formed by demethylation of fluoxetine .
+In animal models , S - norfluoxetine is a potent and selective inhibitor of serotonin uptake and has activity essentially equivalent to R - or S - fluoxetine .
+R - norfluoxetine is significantly less potent than the parent drug in the inhibition of serotonin uptake .
+The primary route of elimination appears to be hepatic metabolism to inactive metabolites excreted by the kidney .
+Clinical issues related to metabolism / elimination The complexity of the metabolism of fluoxetine has several consequences that may potentially affect fluoxetine ' s clinical use .
+Variability in metabolism A subset ( about 7 % ) of the population has reduced activity of the drug metabolizing enzyme cytochrome P450 2D6 ( CYP2D6 ) .
+Such individuals are referred to as " poor metabolizers " of drugs such as debrisoquin , dextromethorphan , and the TCAs .
+In a study involving labeled and unlabeled enantiomers administered as a racemate , these individuals metabolized S - fluoxetine at a slower rate and thus achieved higher concentrations of S - fluoxetine .
+Consequently , concentrations of S - norfluoxetine at steady state were lower .
+The metabolism of R - fluoxetine in these poor metabolizers appears normal .
+When compared with normal metabolizers , the total sum at steady state of the plasma concentrations of the four active enantiomers was not significantly greater among poor metabolizers .
+Thus , the net pharmacodynamic activities were essentially the same .
+Alternative , nonsaturable pathways ( non - 2D6 ) also contribute to the metabolism of fluoxetine .
+This explains how fluoxetine achieves a steady - state concentration rather than increasing without limit .
+Because fluoxetine ' s metabolism , like that of a number of other compounds including TCAs and other selective serotonin reuptake inhibitors ( SSRIs ) , involves the CYP2D6 system , concomitant therapy with drugs also metabolized by this enzyme system ( such as the TCAs ) may lead to drug interactions ( see Drug Interactions under PRECAUTIONS ) .
+Accumulation and slow elimination The relatively slow elimination of fluoxetine ( elimination half - life of 1 to 3 days after acute administration and 4 to 6 days after chronic administration ) and its active metabolite , norfluoxetine ( elimination half - life of 4 to 16 days after acute and chronic administration ) , leads to significant accumulation of these active species in chronic use and delayed attainment of steady state , even when a fixed dose is used .
+After 30 days of dosing at 40 mg / day , plasma concentrations of fluoxetine in the range of 91 to 302 ng / mL and norfluoxetine in the range of 72 to 258 ng / mL have been observed .
+Plasma concentrations of fluoxetine were higher than those predicted by single - dose studies , because fluoxetine ' s metabolism is not proportional to dose .
+Norfluoxetine , however , appears to have linear pharmacokinetics .
+Its mean terminal half - life after a single dose was 8 . 6 days and after multiple dosing was 9 . 3 days .
+Steady - state levels after prolonged dosing are similar to levels seen at 4 to 5 weeks .
+The long elimination half - lives of fluoxetine and norfluoxetine assure that , even when dosing is stopped , active drug substance will persist in the body for weeks ( primarily depending on individual patient characteristics , previous dosing regimen , and length of previous therapy at discontinuation ) .
+This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine .
+Liver disease As might be predicted from its primary site of metabolism , liver impairment can affect the elimination of fluoxetine .
+The elimination half - life of fluoxetine was prolonged in a study of cirrhotic patients , with a mean of 7 . 6 days compared with the range of 2 to 3 days seen in subjects without liver disease ; norfluoxetine elimination was also delayed , with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects .
+This suggests that the use of fluoxetine in patients with liver disease must be approached with caution .
+If fluoxetine is administered to patients with liver disease , a lower or less frequent dose should be used ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+Renal disease In depressed patients on dialysis ( N = 12 ) , fluoxetine administered as 20 mg once daily for two months produced steady - state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function .
+While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction , use of a lower or less frequent dose is not routinely necessary in renally impaired patients ( see Use in Patients with Concomitant Illness under PRECAUTIONS and DOSAGE AND ADMINISTRATION ) .
+Age Geriatric pharmacokinetics The disposition of single doses of fluoxetine in healthy elderly subjects ( > 65 years of age ) did not differ significantly from that in younger normal subjects .
+However , given the long half - life and nonlinear disposition of the drug , a single - dose study is not adequate to rule out the possibility of altered pharmacokinetics in the elderly , particularly if they have systemic illness or are receiving multiple drugs for concomitant diseases .
+The effects of age upon the metabolism of fluoxetine have been investigated in 260 elderly but otherwise healthy depressed patients ( ≥ 60 years of age ) who received 20 mg fluoxetine for 6 weeks .
+Combined fluoxetine plus norfluoxetine plasma concentrations were 209 . 3 ± 85 . 7 ng / mL at the end of 6 weeks .
+No unusual age - associated pattern of adverse events was observed in those elderly patients .
+Pediatric pharmacokinetics ( children and adolescents ) Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients ( 10 children ages 6 to < 13 , 11 adolescents ages 13 to < 18 ) diagnosed with major depressive disorder or obsessive compulsive disorder ( OCD ) .
+Fluoxetine 20 mg / day was administered for up to 62 days .
+The average steady - state concentrations of fluoxetine in these children were 2 - fold higher than in adolescents ( 171 and 86 ng / mL , respectively ) .
+The average norfluoxetine steady - state concentrations in these children were 1 . 5 - fold higher than in adolescents ( 195 and 113 ng / mL , respectively ) .
+These differences can be almost entirely explained by differences in weight .
+No gender - associated difference in fluoxetine pharmacokinetics was observed .
+Similar ranges of fluoxetine and norfluoxetine plasma concentrations were observed in another study in 94 pediatric patients ( ages 8 to < 18 ) diagnosed with major depressive disorder .
+Higher average steady - state fluoxetine and norfluoxetine concentrations were observed in children relative to adults ; however , these concentrations were within the range of concentrations observed in the adult population .
+As in adults , fluoxetine and norfluoxetine accumulated extensively following multiple oral dosing ; steady - state concentrations were achieved within 3 to 4 weeks of daily dosing .
+CLINICAL TRIALS Major Depressive Disorder Daily Dosing Adult The efficacy of fluoxetine for the treatment of patients with major depressive disorder ( ≥ 18 years of age ) has been studied in 5 - and 6 - week placebo - controlled trials .
+Fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale ( HAM - D ) .
+Fluoxetine was also significantly more effective than placebo on the HAM - D subscores for depressed mood , sleep disturbance , and the anxiety subfactor .
+Two 6 - week controlled studies ( N = 671 , randomized ) comparing fluoxetine 20 mg and placebo have shown fluoxetine 20 mg daily to be effective in the treatment of elderly patients ( ≥ 60 years of age ) with major depressive disorder .
+In these studies , fluoxetine produced a significantly higher rate of response and remission as defined , respectively , by a 50 % decrease in the HAM - D score and a total endpoint HAM - D score of ≤ 8 .
+Fluoxetine was well tolerated and the rate of treatment discontinuations due to adverse events did not differ between fluoxetine ( 12 % ) and placebo ( 9 % ) .
+A study was conducted involving depressed outpatients who had responded ( modified HAMD - 17 score of ≤ 7 during each of the last 3 weeks of open - label treatment and absence of major depressive disorder by DSM - III - R criteria ) by the end of an initial 12 - week open - treatment phase on fluoxetine 20 mg / day .
+These patients ( N = 298 ) were randomized to continuation on double - blind fluoxetine 20 mg / day or placebo .
+At 38 weeks ( 50 weeks total ) , a statistically significantly lower relapse rate ( defined as symptoms sufficient to meet a diagnosis of major depressive disorder for 2 weeks or a modified HAMD - 17 score of ≥ 14 for 3 weeks ) was observed for patients taking fluoxetine compared to those on placebo .
+Pediatric ( children and adolescents ) The efficacy of fluoxetine 20 mg / day for the treatment of major depressive disorder in pediatric outpatients ( N = 315 randomized ; 170 children ages 8 to < 13 , 145 adolescents ages 13 to ≤ 18 ) has been studied in two 8 - to 9 - week placebo - controlled clinical trials .
+In both studies independently , fluoxetine produced a statistically significantly greater mean change on the Childhood Depression Rating Scale - Revised ( CDRS - R ) total score from baseline to endpoint than did placebo .
+Subgroup analyses on the CDRS - R total score did not suggest any differential responsiveness on the basis of age or gender .
+Obsessive Compulsive Disorder Adult The effectiveness of fluoxetine for the treatment of obsessive - compulsive disorder ( OCD ) was demonstrated in two 13 - week , multicenter , parallel group studies ( Studies 1 and 2 ) of adult outpatients who received fixed fluoxetine doses of 20 , 40 , or 60 mg / day ( on a once - a - day schedule , in the morning ) or placebo .
+Patients in both studies had moderate to severe OCD ( DSM - III - R ) , with mean baseline ratings on the Yale - Brown Obsessive Compulsive Scale ( YBOCS , total score ) ranging from 22 to 26 .
+In Study 1 , patients receiving fluoxetine experienced mean reductions of approximately 4 to 6 units on the YBOCS total score , compared with a 1 - unit reduction for placebo patients .
+In Study 2 , patients receiving fluoxetine experienced mean reductions of approximately 4 to 9 units on the YBOCS total score , compared with a 1 - unit reduction for placebo patients .
+While there was no indication of a dose - response relationship for effectiveness in Study 1 , a dose - response relationship was observed in Study 2 , with numerically better responses in the two higher dose groups .
+The following table provides the outcome classification by treatment group on the Clinical Global Impression ( CGI ) improvement scale for Studies 1 and 2 combined : Outcome Classification ( % ) on CGI Improvement Scale for Completers in Pool of Two OCD Studies Fluoxetine Outcome Classification Placebo 20 mg 40 mg 60 mg Worse 8 % 0 % 0 % 0 % No change 64 % 41 % 33 % 29 % Minimally improved 17 % 23 % 28 % 24 % Much improved 8 % 28 % 27 % 28 % Very much improved 3 % 8 % 12 % 19 % Exploratory analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex .
+Pediatric ( children and adolescents ) In one 13 - week clinical trial in pediatric patients ( N = 103 randomized ; 75 children ages 7 to < 13 , 28 adolescents ages 13 to < 18 ) with OCD , patients received fluoxetine 10 mg / day for 2 weeks , followed by 20 mg / day for 2 weeks .
+The dose was then adjusted in the range of 20 to 60 mg / day on the basis of clinical response and tolerability .
+Fluoxetine produced a statistically significantly greater mean change from baseline to endpoint than did placebo as measured by the Children ' s Yale - Brown Obsessive Compulsive Scale ( CY - BOCS ) .
+Subgroup analyses on outcome did not suggest any differential responsiveness on the basis of age or gender .
+Bulimia Nervosa The effectiveness of fluoxetine for the treatment of bulimia was demonstrated in two 8 - week and one 16 - week , multicenter , parallel group studies of adult outpatients meeting DSM - III - R criteria for bulimia .
+Patients in the 8 - week studies received either 20 or 60 mg / day of fluoxetine or placebo in the morning .
+Patients in the 16 - week study received a fixed fluoxetine dose of 60 mg / day ( once a day ) or placebo .
+Patients in these three studies had moderate to severe bulimia with median binge - eating and vomiting frequencies ranging from 7 to 10 per week and 5 to 9 per week , respectively .
+In these three studies , fluoxetine 60 mg , but not 20 mg , was statistically significantly superior to placebo in reducing the number of binge - eating and vomiting episodes per week .
+The statistically significantly superior effect of 60 mg versus placebo was present as early as Week 1 and persisted throughout each study .
+The fluoxetine - related reduction in bulimic episodes appeared to be independent of baseline depression as assessed by the Hamilton Depression Rating Scale .
+In each of these three studies , the treatment effect , as measured by differences between fluoxetine 60 mg , and placebo on median reduction from baseline in frequency of bulimic behaviors at endpoint , ranged from one to two episodes per week for binge - eating and two to four episodes per week for vomiting .
+The size of the effect was related to baseline frequency , with greater reductions seen in patients with higher baseline frequencies .
+Although some patients achieved freedom from binge - eating and purging as a result of treatment , for the majority , the benefit was a partial reduction in the frequency of binge - eating and purging .
+In a longer - term trial , 150 patients meeting DSM - IV criteria for bulimia nervosa , purging subtype , who had responded during a single - blind , 8 - week acute treatment phase with fluoxetine 60 mg / day , were randomized to continuation of fluoxetine 60 mg / day or placebo , for up to 52 weeks of observation for relapse .
+Response during the single - blind phase was defined by having achieved at least a 50 % decrease in vomiting frequency compared with baseline .
+Relapse during the double - blind phase was defined as a persistent return to baseline vomiting frequency or physician judgment that the patient had relapsed .
+Patients receiving continued fluoxetine 60 mg / day experienced a significantly longer time to relapse over the subsequent 52 weeks compared with those receiving placebo .
+Panic Disorder The effectiveness of fluoxetine in the treatment of panic disorder was demonstrated in two double - blind , randomized , placebo - controlled , multicenter studies of adult outpatients who had a primary diagnosis of panic disorder ( DSM - IV ) , with or without agoraphobia .
+Study 1 ( N = 180 randomized ) was a 12 - week flexible - dose study .
+Fluoxetine was initiated at 10 mg / day for the first week , after which patients were dosed in the range of 20 to 60 mg / day on the basis of clinical response and tolerability .
+A statistically significantly greater percentage of fluoxetine - treated patients were free from panic attacks at endpoint than placebo - treated patients , 42 % versus 28 % , respectively .
+Study 2 ( N = 214 randomized ) was a 12 - week flexible - dose study .
+Fluoxetine was initiated at 10 mg / day for the first week , after which patients were dosed in a range of 20 to 60 mg / day on the basis of clinical response and tolerability .
+A statistically significantly greater percentage of fluoxetine - treated patients were free from panic attacks at endpoint than placebo - treated patients , 62 % versus 44 % , respectively .
+INDICATIONS AND USAGE Major Depressive Disorder Fluoxetine is indicated for the treatment of major depressive disorder .
+Adult The efficacy of fluoxetine was established in 5 - and 6 - week trials with depressed adult and geriatric outpatients ( ≥ 18 years of age ) whose diagnoses corresponded most closely to the DSM - III ( currently DSM - IV ) category of major depressive disorder ( see CLINICAL TRIALS ) .
+A major depressive episode ( DSM - IV ) implies a prominent and relatively persistent ( nearly every day for at least 2 weeks ) depressed or dysphoric mood that usually interferes with daily functioning , and includes at least five of the following nine symptoms : depressed mood , loss of interest in usual activities , significant change in weight and / or appetite , insomnia or hypersomnia , psychomotor agitation or retardation , increased fatigue , feelings of guilt or worthlessness , slowed thinking or impaired concentration , a suicide attempt or suicidal ideation .
+The effects of fluoxetine in hospitalized depressed patients have not been adequately studied .
+The efficacy of fluoxetine 20 mg once daily in maintaining a response in major depressive disorder for up to 38 weeks following 12 weeks of open - label acute treatment ( 50 weeks total ) was demonstrated in a placebo - controlled trial .
+Pediatric ( children and adolescents ) The efficacy of fluoxetine in children and adolescents was established in two 8 - to 9 - week placebo - controlled clinical trials in depressed outpatients whose diagnoses corresponded most closely to the DSM - III - R or DSM - IV category of major depressive disorder ( see CLINICAL TRIALS ) .
+The usefulness of the drug in adult and pediatric patients receiving fluoxetine for extended periods should be reevaluated periodically .
+Obsessive Compulsive Disorder Adult Fluoxetine is indicated for the treatment of obsessions and compulsions in patients with obsessive - compulsive disorder ( OCD ) , as defined in the DSM - III - R ; i . e . , the obsessions or compulsions cause marked distress , are time - consuming , or significantly interfere with social or occupational functioning .
+The efficacy of fluoxetine was established in 13 - week trials with obsessive - compulsive outpatients whose diagnoses corresponded most closely to the DSM - III - R category of OCD ( see CLINICAL TRIALS ) .
+OCD is characterized by recurrent and persistent ideas , thoughts , impulses , or images ( obsessions ) that are ego - dystonic and / or repetitive , purposeful , and intentional behaviors ( compulsions ) that are recognized by the person as excessive or unreasonable .
+The effectiveness of fluoxetine in long - term use , i . e . , for more than 13 weeks , has not been systematically evaluated in placebo - controlled trials .
+Therefore , the physician who elects to use fluoxetine for extended periods should periodically reevaluate the long - term usefulness of the drug for the individual patient ( see DOSAGE AND ADMINISTRATION ) .
+Pediatric ( children and adolescents ) The efficacy of fluoxetine in children and adolescents was established in a 13 - week , dose titration , clinical trial in patients with OCD , as defined in DSM - IV ( see CLINICAL TRIALS ) .
+Bulimia Nervosa Fluoxetine is indicated for the treatment of binge - eating and vomiting behaviors in patients with moderate to severe bulimia nervosa .
+The efficacy of fluoxetine was established in 8 - to 16 - week trials for adult outpatients with moderate to severe bulimia nervosa , i . e . , at least three bulimic episodes per week for 6 months ( see CLINICAL TRIALS ) .
+The efficacy of fluoxetine 60 mg / day in maintaining a response , in patients with bulimia who responded during an 8 - week acute treatment phase while taking fluoxetine 60 mg / day and were then observed for relapse during a period of up to 52 weeks , was demonstrated in a placebo - controlled trial ( see CLINICAL TRIALS ) .
+Nevertheless , the physician who elects to use fluoxetine for extended periods should periodically reevaluate the long - term usefulness of the drug for the individual patient ( see DOSAGE AND ADMINISTRATION ) .
+Panic Disorder Fluoxetine is indicated for the treatment of panic disorder , with or without agoraphobia , as defined in DSM - IV .
+Panic disorder is characterized by the occurrence of unexpected panic attacks , and associated concern about having additional attacks , worry about the implications or consequences of the attacks , and / or a significant change in behavior related to the attacks .
+The efficacy of fluoxetine was established in two 12 - week clinical trials in patients whose diagnoses corresponded to the DSM - IV category of panic disorder ( see CLINICAL TRIALS ) .
+Panic disorder ( DSM - IV ) is characterized by recurrent , unexpected panic attacks , i . e . , a discrete period of intense fear or discomfort in which four or more of the following symptoms develop abruptly and reach a peak within 10 minutes : 1 ) palpitations , pounding heart , or accelerated heart rate ; 2 ) sweating ; 3 ) trembling or shaking ; 4 ) sensations of shortness of breath or smothering ; 5 ) feeling of choking ; 6 ) chest pain or discomfort ; 7 ) nausea or abdominal distress ; 8 ) feeling dizzy , unsteady , lightheaded , or faint ; 9 ) fear of losing control ; 10 ) fear of dying ; 11 ) paresthesias ( numbness or tingling sensations ) ; 12 ) chills or hot flashes .
+The effectiveness of fluoxetine in long - term use , i . e . , for more than 12 weeks , has not been established in placebo - controlled trials .
+Therefore , the physician who elects to use fluoxetine for extended periods should periodically reevaluate the long - term usefulness of the drug for the individual patient ( see DOSAGE AND ADMINISTRATION ) .
+CONTRAINDICATIONS Fluoxetine hydrochloride is contraindicated in patients known to be hypersensitive to it .
+Monoamine oxidase inhibitors There have been reports of serious , sometimes fatal , reactions ( including hyperthermia , rigidity , myoclonus , autonomic instability with possible rapid fluctuations of vital signs , and mental status changes that include extreme agitation progressing to delirium and coma ) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor ( MAOI ) , and in patients who have recently discontinued fluoxetine and are then started on an MAOI .
+Some cases presented with features resembling neuroleptic malignant syndrome .
+Therefore , fluoxetine should not be used in combination with an MAOI , or within a minimum of 14 days of discontinuing therapy with an MAOI .
+Since fluoxetine and its major metabolite have very long elimination half - lives , at least 5 weeks [ perhaps longer , especially if fluoxetine has been prescribed chronically and / or at higher doses ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY ) ] should be allowed after stopping fluoxetine before starting an MAOI .
+Pimozide Concomitant use in patients taking pimozide is contraindicated ( see PRECAUTIONS ) .
+Thioridazine Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued ( see WARNINGS ) .
+WARNINGS Clinical Worsening and Suicide Risk Patients with major depressive disorder ( MDD ) , both adult and pediatric , may experience worsening of their depression and / or the emergence of suicidal ideation and behavior ( suicidality ) or unusual changes in behavior , whether or not they are taking antidepressant medications , and this risk may persist until significant remission occurs .
+Suicide is a known risk of depression and certain other psychiatric disorders , and these disorders themselves are the strongest predictors of suicide .
+There has been a longstanding concern , however , that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment .
+Pooled analyses of short - term placebo - controlled trials of antidepressant drugs ( SSRIs and others ) showed that these drugs increase the risk of suicidal thinking and behavior ( suicidality ) in children , adolescents , and young adults ( ages 18 to 24 ) with major depressive disorder ( MDD ) and other psychiatric disorders .
+Short - term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 ; there was a reduction with antidepressants compared to placebo in adults aged 65 and older .
+The pooled analyses of placebo - controlled trials in children and adolescents with MDD , obsessive compulsive disorder ( OCD ) , or other psychiatric disorders included a total of 24 short - term trials of 9 antidepressant drugs in over 4400 patients .
+The pooled analyses of placebo - controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short - term trials ( median duration of 2 months ) of 11 antidepressant drugs in over 77 , 000 patients .
+There was considerable variation in risk of suicidality among drugs , but a tendency toward an increase in the younger patients for almost all drugs studied .
+There were differences in absolute risk of suicidality across the different indications , with the highest incidence in MDD .
+The risk differences ( drug vs placebo ) , however , were relatively stable within age strata and across indications .
+These risk differences ( drug - placebo difference in the number of cases of suicidality per 1000 patients treated ) are provided in Table 1 .
+Table 1 Age Range Drug - Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated Increases Compared to Placebo < 18 14 additional cases 18 - 24 5 additional cases Decreases Compared to Placebo 25 - 64 1 fewer case ≥ 65 6 fewer cases No suicides occurred in any of the pediatric trials .
+There were suicides in the adult trials , but the number was not sufficient to reach any conclusion about drug effect on suicide .
+It is unknown whether the suicidality risk extends to longer - term use , i . e . , beyond several months .
+However , there is substantial evidence from placebo - controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression .
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening , suicidality , and unusual changes in behavior , especially during the initial few months of a course of drug therapy , or at times of dose changes , either increases or decreases .
+The following symptoms , anxiety , agitation , panic attacks , insomnia , irritability , hostility , aggressiveness , impulsivity , akathisia ( psychomotor restlessness ) , hypomania , and mania , have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications , both psychiatric and nonpsychiatric .
+Although a causal link between the emergence of such symptoms and either the worsening of depression and / or the emergence of suicidal impulses has not been established , there is concern that such symptoms may represent precursors to emerging suicidality .
+Consideration should be given to changing the therapeutic regimen , including possibly discontinuing the medication , in patients whose depression is persistently worse , or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality , especially if these symptoms are severe , abrupt in onset , or were not part of the patient ' s presenting symptoms .
+If the decision has been made to discontinue treatment , medication should be tapered , as rapidly as is feasible , but with recognition that abrupt discontinuation can be associated with certain symptoms ( see PRECAUTIONS and DOSAGE AND ADMINISTRATION - Discontinuation of Treatment with Fluoxetine , for a description of the risks of discontinuation of fluoxetine ) .
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications , both psychiatric and nonpsychiatric , should be alerted about the need to monitor patients for the emergence of agitation , irritability , unusual changes in behavior , and the other symptoms described above , as well as the emergence of suicidality , and to report such symptoms immediately to health care providers .
+Such monitoring should include daily observation by families and caregivers .
+Prescriptions for fluoxetine should be written for the smallest quantity of tablets consistent with good patient management , in order to reduce the risk of overdose .
+Screening Patients for Bipolar Disorder A major depressive episode may be the initial presentation of bipolar disorder .
+It is generally believed ( though not established in controlled trials ) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed / manic episode in patients at risk for bipolar disorder .
+Whether any of the symptoms described above represent such a conversion is unknown .
+However , prior to initiating treatment with an antidepressant , patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder ; such screening should include a detailed psychiatric history , including a family history of suicide , bipolar disorder , and depression .
+It should be noted that fluoxetine is not approved for use in treating bipolar depression .
+Rash and Possibly Allergic Events In U . S . fluoxetine clinical trials as of May 8 , 1995 , 7 % of 10 , 782 patients developed various types of rashes and / or urticaria .
+Among the cases of rash and / or urticaria reported in premarketing clinical trials , almost a third were withdrawn from treatment because of the rash and / or systemic signs or symptoms associated with the rash .
+Clinical findings reported in association with rash include fever , leukocytosis , arthralgias , edema , carpal tunnel syndrome , respiratory distress , lymphadenopathy , proteinuria , and mild transaminase elevation .
+Most patients improved promptly with discontinuation of fluoxetine and / or adjunctive treatment with antihistamines or steroids , and all patients experiencing these events were reported to recover completely .
+In premarketing clinical trials , two patients are known to have developed a serious cutaneous systemic illness .
+In neither patient was there an unequivocal diagnosis , but one was considered to have a leukocytoclastic vasculitis , and the other , a severe desquamating syndrome that was considered variously to be a vasculitis or erythema multiforme .
+Other patients have had systemic syndromes suggestive of serum sickness .
+Since the introduction of fluoxetine , systemic events , possibly related to vasculitis and including lupus - like syndrome , have developed in patients with rash .
+Although these events are rare , they may be serious , involving the lung , kidney , or liver .
+Death has been reported to occur in association with these systemic events .
+Anaphylactoid events , including bronchospasm , angioedema , laryngospasm , and urticaria alone and in combination , have been reported .
+Pulmonary events , including inflammatory processes of varying histopathology and / or fibrosis , have been reported rarely .
+These events have occurred with dyspnea as the only preceding symptom .
+Whether these systemic events and rash have a common underlying cause or are due to different etiologies or pathogenic processes is not known .
+Furthermore , a specific underlying immunologic basis for these events has not been identified .
+Upon the appearance of rash or of other possibly allergic phenomena for which an alternative etiology cannot be identified , fluoxetine should be discontinued .
+Serotonin Syndrome or Neuroleptic Malignant Syndrome ( NMS ) - like Reactions The development of a potentially life - threatening serotonin syndrome or Neuroleptic Malignant Syndrome ( NMS ) - like reactions have been reported with SSRIs and SNRIs alone , including Fluoxetine Tablets USP treatment , but particularly with concomitant use of serotonergic drugs ( including triptans ) with drugs which impair metabolism of serotonin ( including ( MAOIs ) , or with antipsychotics or other dopamine antagonists .
+Serotonin syndrome symptoms may include mental status changes ( e . g . , agitation , hallucinations , coma ) , autonomic instability ( e . g . , tachycardia , labile blood pressure , hyperthermia ) , neuromuscular aberrations ( e . g . , hyperreflexia , incoordination ) and / or gastrointestinal symptoms ( e . g . , nausea , vomiting , diarrhea ) .
+Serotonin syndrome , in its most severe form can resemble neuroleptic malignant syndrome , which includes hyperthermia , muscle rigidity , autonomic instability with possible rapid fluctuation of vital signs , and mental status changes .
+Patients should be monitored for the emergence of serotonin syndrome or NMS - like signs and symptoms .
+The concomitant use of Fluoxetine Tablets USP with MAOIs intended to treat depression is contraindicated .
+If concomitant treatment of Fluoxetine Tablets USP with a 5 - hydroxytryptamine receptor agonist ( triptan ) is clinically warranted , careful observation of the patient is advised , particularly during treatment initiation and dose increases .
+The concomitant use of Fluoxetine Tablets USP with serotonin precursors ( such as tryptophan ) is not recommended .
+Treatment with Fluoxetine Tablets USP and any concomitant serotonergic or antidopaminergic agents , including antipsychotics , should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated .
+Potential Interaction with Thioridazine In a study of 19 healthy male subjects , which included 6 slow and 13 rapid hydroxylators of debrisoquin , a single 25 mg oral dose of thioridazine produced a 2 . 4 - fold higher Cmax and a 4 . 5 - fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators .
+The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity .
+Thus , this study suggests that drugs which inhibit CYP2D6 , such as certain SSRIs , including fluoxetine , will produce elevated plasma levels of thioridazine ( see PRECAUTIONS ) .
+Thioridazine administration produces a dose - related prolongation of the QTc interval , which is associated with serious ventricular arrhythmias , such as torsades de pointes - type arrhythmias , and sudden death .
+This risk is expected to increase with fluoxetine - induced inhibition of thioridazine metabolism ( see CONTRAINDICATIONS ) .
+PRECAUTIONS General Abnormal Bleeding SSRIs and SNRIs , including fluoxetine , may increase the risk of bleeding events .
+Concomitant use of aspirin , nonsteroidal anti - inflammatory drugs , warfarin , and other anti - coagulants may add to this risk .
+Case reports and epidemiological studies ( case - control and cohort design ) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding .
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses , hematomas , epistaxis , and petechiae to life - threatening hemorrhages .
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs , aspirin , or other drugs that affect coagulation ( see Drug Interactions ) .
+Anxiety and Insomnia In U . S . placebo - controlled clinical trials for major depressive disorder , 12 % to 16 % of patients treated with fluoxetine and 7 % to 9 % of patients treated with placebo reported anxiety , nervousness , or insomnia .
+In U . S . placebo - controlled clinical trials for OCD , insomnia was reported in 28 % of patients treated with fluoxetine and in 22 % of patients treated with placebo .
+Anxiety was reported in 14 % of patients treated with fluoxetine and in 7 % of patients treated with placebo .
+In U . S . placebo - controlled clinical trials for bulimia nervosa , insomnia was reported in 33 % of patients treated with fluoxetine 60 mg , and 13 % of patients treated with placebo .
+Anxiety and nervousness were reported , respectively , in 15 % and 11 % of patients treated with fluoxetine 60 mg and in 9 % and 5 % of patients treated with placebo .
+Among the most common adverse events associated with discontinuation ( incidence at least twice that for placebo and at least 1 % for fluoxetine in clinical trials collecting only a primary event associated with discontinuation ) in U . S . placebo - controlled fluoxetine clinical trials were anxiety ( 2 % in OCD ) , insomnia ( 1 % in combined indications and 2 % in bulimia ) , and nervousness ( 1 % in major depressive disorder ) ( see Table 4 ) .
+Altered Appetite and Weight Significant weight loss , especially in underweight depressed or bulimic patients may be an undesirable result of treatment with fluoxetine .
+In U . S . placebo - controlled clinical trials for major depressive disorder , 11 % of patients treated with fluoxetine and 2 % of patients treated with placebo reported anorexia ( decreased appetite ) .
+Weight loss was reported in 1 . 4 % of patients treated with fluoxetine and in 0 . 5 % of patients treated with placebo .
+However , only rarely have patients discontinued treatment with fluoxetine because of anorexia or weight loss ( see also Pediatric Use under PRECAUTIONS ) .
+In U . S . placebo - controlled clinical trials for OCD , 17 % of patients treated with fluoxetine and 10 % of patients treated with placebo reported anorexia ( decreased appetite ) .
+One patient discontinued treatment with fluoxetine because of anorexia ( see also Pediatric Use under PRECAUTIONS ) .
+In U . S . placebo - controlled clinical trials for bulimia nervosa , 8 % of patients treated with fluoxetine 60 mg and 4 % of patients treated with placebo reported anorexia ( decreased appetite ) .
+Patients treated with fluoxetine 60 mg on average lost 0 . 45 kg compared with a gain of 0 . 16 kg by patients treated with placebo in the 16 - week double - blind trial .
+Weight change should be monitored during therapy .
+Activation of Mania / Hypomania In U . S . placebo - controlled clinical trials for major depressive disorder , mania / hypomania was reported in 0 . 1 % of patients treated with fluoxetine and 0 . 1 % of patients treated with placebo .
+Activation of mania / hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of major depressive disorder ( see also Pediatric Use under PRECAUTIONS ) .
+In U . S . placebo - controlled clinical trials for OCD , mania / hypomania was reported in 0 . 8 % of patients treated with fluoxetine and no patients treated with placebo .
+No patients reported mania / hypomania in U . S . placebo - controlled clinical trials for bulimia .
+In all U . S . fluoxetine clinical trials as of May 8 , 1995 , 0 . 7 % of 10 , 782 patients reported mania / hypomania ( see also Pediatric Use under PRECAUTIONS ) .
+Hyponatremia Hyponatremia may occur as a result of treatment with SSRIs and SNRIs , including fluoxetine .
+In many cases , this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion ( SIADH ) .
+Cases with serum sodium lower than 110 mmol / L have been reported and appeared to be reversible when fluoxetine was discontinued .
+Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs .
+Also , patients taking diuretics or who are otherwise volume depleted may be at greater risk ( see Geriatric Use ) .
+Discontinuation of fluoxetine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted .
+Signs and symptoms of hyponatremia include headache , difficulty concentrating , memory impairment , confusion , weakness , and unsteadiness , which may lead to falls .
+More severe and / or acute cases have been associated with hallucination , syncope , seizure , coma , respiratory arrest , and death .
+Seizures In U . S . placebo - controlled clinical trials for major depressive disorder , convulsions ( or events described as possibly having been seizures ) were reported in 0 . 1 % of patients treated with fluoxetine and 0 . 2 % of patients treated with placebo .
+No patients reported convulsions in U . S . placebo - controlled clinical trials for either OCD or bulimia .
+In all U . S . fluoxetine clinical trials as of May 8 , 1995 , 0 . 2 % of 10 , 782 patients reported convulsions .
+The percentage appears to be similar to that associated with other marketed drugs effective in the treatment of major depressive disorder .
+Fluoxetine should be introduced with care in patients with a history of seizures .
+The Long Elimination Half - Lives of Fluoxetine and its Metabolites Because of the long elimination half - lives of the parent drug and its major active metabolite , changes in dose will not be fully reflected in plasma for several weeks , affecting both strategies for titration to final dose and withdrawal from treatment ( see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ) .
+Use in Patients with Concomitant Illness Clinical experience with fluoxetine in patients with concomitant systemic illness is limited .
+Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses .
+Fluoxetine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease .
+Patients with these diagnoses were systematically excluded from clinical studies during the product ' s premarket testing .
+However , the electrocardiograms of 312 patients who received fluoxetine in double - blind trials were retrospectively evaluated ; no conduction abnormalities that resulted in heart block were observed .
+The mean heart rate was reduced by approximately 3 beats / min .
+In subjects with cirrhosis of the liver , the clearances of fluoxetine and its active metabolite , norfluoxetine , were decreased , thus increasing the elimination half - lives of these substances .
+A lower or less frequent dose should be used in patients with cirrhosis .
+Studies in depressed patients on dialysis did not reveal excessive accumulation of fluoxetine or norfluoxetine in plasma ( see Renal Disease under CLINICAL PHARMACOLOGY ) .
+Use of a lower or less frequent dose for renally impaired patients is not routinely necessary ( see DOSAGE AND ADMINISTRATION ) .
+In patients with diabetes , fluoxetine may alter glycemic control .
+Hypoglycemia has occurred during therapy with fluoxetine , and hyperglycemia has developed following discontinuation of the drug .
+As is true with many other types of medication when taken concurrently by patients with diabetes , insulin and / or oral hypoglycemic dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued .
+Interference with Cognitive and Motor Performance Any psychoactive drug may impair judgment , thinking , or motor skills , and patients should be cautioned about operating hazardous machinery , including automobiles , until they are reasonably certain that the drug treatment does not affect them adversely .
+Discontinuation of Treatment with Fluoxetine During marketing of fluoxetine and other SSRIs and SNRIs ( serotonin and norepinephrine reuptake inhibitors ) , there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs , particularly when abrupt , including the following : dysphoric mood , irritability , agitation , dizziness , sensory disturbances ( e . g . , paresthesias such as electric shock sensations ) , anxiety , confusion , headache , lethargy , emotional lability , insomnia , and hypomania .
+While these events are generally self - limiting , there have been reports of serious discontinuation symptoms .
+Patients should be monitored for these symptoms when discontinuing treatment with fluoxetine .
+A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible .
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment , then resuming the previously prescribed dose may be considered .
+Subsequently , the physician may continue decreasing the dose but at a more gradual rate .
+Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy , which may minimize the risk of discontinuation symptoms with this drug ( see DOSAGE AND ADMINISTRATION ) .
+Information for Patients Prescribers or other health professionals should inform patients , their families , and their caregivers about the benefits and risks associated with treatment with fluoxetine and should counsel them in its appropriate use .
+A patient Medication Guide about " Antidepressant Medicines , Depression and other Serious Mental Illness , and Suicidal Thoughts or Actions " is available for fluoxetine .
+The prescriber or health professional should instruct patients , their families , and their caregivers to read the Medication Guide and should assist them in understanding its contents .
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have .
+The complete text of the Medication Guide is reprinted at the end of this document .
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking fluoxetine .
+Clinical Worsening and Suicide Risk Patients , their families , and their caregivers should be encouraged to be alert to the emergence of anxiety , agitation , panic attacks , insomnia , irritability , hostility , aggressiveness , impulsivity , akathisia ( psychomotor restlessness ) , hypomania , mania , other unusual changes in behavior , worsening of depression , and suicidal ideation , especially early during antidepressant treatment and when the dose is adjusted up or down .
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day - to - day basis , since changes may be abrupt .
+Such symptoms should be reported to the patient ' s prescriber or health professional , especially if they are severe , abrupt in onset , or were not part of the patient ' s presenting symptoms .
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication .
+Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and triptans , tramadol or other serotonergic agents .
+Because fluoxetine may impair judgment , thinking , or motor skills , patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected .
+Patients should be advised to inform their physician if they are taking or plan to take any prescription or over - the - counter drugs , or alcohol .
+Abnormal Bleeding Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs , aspirin , warfarin , or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding ( see PRECAUTIONS , General , Abnormal Bleeding ) .
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy .
+Patients should be advised to notify their physician if they are breast - feeding an infant .
+Patients should be advised to notify their physician if they develop a rash or hives .
+Laboratory Tests There are no specific laboratory tests recommended .
+Drug Interactions As with all drugs , the potential for interaction by a variety of mechanisms ( e . g . , pharmacodynamic , pharmacokinetic drug inhibition or enhancement , etc . ) is a possibility ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY ) .
+Drugs metabolized by CYP2D6 Fluoxetine inhibits the activity of CYP2D6 , and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer .
+Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6 , including certain antidepressants ( e . g . , TCAs ) , antipsychotics ( e . g . , phenothiazines and most atypicals ) , and antiarrhythmics ( e . g . , propafenone , flecainide , and others ) should be approached with caution .
+Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index ( see list below ) should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks .
+Thus , his / her dosing requirements resemble those of poor metabolizers .
+If fluoxetine is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6 , the need for decreased dose of the original medication should be considered .
+Drugs with a narrow therapeutic index represent the greatest concern ( e . g . , flecainide , propafenone , vinblastine , and TCAs ) .
+Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine , thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued ( see CONTRAINDICATIONS and WARNINGS ) .
+Drugs metabolized by CYP3A4 In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine ( a CYP3A4 substrate ) , no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine .
+In addition , in vitro studies have shown ketoconazole , a potent inhibitor of CYP3A4 activity , to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme , including astemizole , cisapride , and midazolam .
+These data indicate that fluoxetine ' s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance .
+CNS active drugs The risk of using fluoxetine in combination with other CNS active drugs has not been systematically evaluated .
+Nonetheless , caution is advised if the concomitant administration of fluoxetine and such drugs is required .
+In evaluating individual cases , consideration should be given to using lower initial doses of the concomitantly administered drugs , using conservative titration schedules , and monitoring of clinical status ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY ) .
+Anticonvulsants Patients on stable doses of phenytoin and carbamazepine have developed elevated plasma anticonvulsant concentrations and clinical anticonvulsant toxicity following initiation of concomitant fluoxetine treatment .
+Antipsychotics Some clinical data suggests a possible pharmacodynamic and / or pharmacokinetic interaction between SSRIs and antipsychotics .
+Elevation of blood levels of haloperidol and clozapine has been observed in patients receiving concomitant fluoxetine .
+Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation .
+While a specific study with pimozide and fluoxetine has not been conducted , the potential for drug interactions or QTc prolongation warrants restricting the concurrent use of pimozide and fluoxetine .
+Concomitant use of fluoxetine and pimozide is contraindicated ( see CONTRAINDICATIONS ) .
+For thioridazine , see CONTRAINDICATIONS and WARNINGS .
+Benzodiazepines The half - life of concurrently administered diazepam may be prolonged in some patients ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY ) .
+Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels .
+Lithium There have been reports of both increased and decreased lithium levels when lithium was used concomitantly with fluoxetine .
+Cases of lithium toxicity and increased serotonergic effects have been reported .
+Lithium levels should be monitored when these drugs are administered concomitantly .
+Tryptophan Five patients receiving fluoxetine in combination with tryptophan experienced adverse reactions , including agitation , restlessness , and gastrointestinal distress .
+Monoamine oxidase inhibitors See CONTRAINDICATIONS .
+Other drugs effective in the treatment of major depressive disorder In two studies , previously stable plasma levels of imipramine and desipramine have increased greater than 2 - to 10 - fold when fluoxetine has been administered in combination .
+This influence may persist for 3 weeks or longer after fluoxetine is discontinued .
+Thus , the dose of TCA may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY , and Drugs Metabolized by CYP2D6 under Drug Interactions ) .
+Serotonergic drugs Based on the mechanism of action of SSRIs and SNRIs , including fluoxetine , and the potential for serotonin syndrome , caution is advised when fluoxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems , such as triptans , linezolid ( an antibiotic which is a reversible non - selective MAOI ) , lithium , tramadol , or St . John ' s Wort ( see Serotonin Syndrome under WARNINGS ) .
+The concomitant use of fluoxetine with other SSRIs , SNRIs or tryptophan is not recommended ( see Tryptophan ) .
+Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan .
+If concomitant treatment of fluoxetine with a triptan is clinically warranted , careful observation of the patient is advised , particularly during treatment initiation and dose increases ( see Serotonin Syndrome under WARNINGS ) .
+Potential effects of coadministration of drugs tightly bound to plasma proteins Because fluoxetine is tightly bound to plasma protein , the administration of fluoxetine to a patient taking another drug that is tightly bound to protein ( e . g . , Coumadin , digitoxin ) may cause a shift in plasma concentrations potentially resulting in an adverse effect .
+Conversely , adverse effects may result from displacement of protein - bound fluoxetine by other tightly - bound drugs ( see Accumulation and slow elimination under CLINICAL PHARMACOLOGY ) .
+Drugs that interfere with hemostasis ( e . g . , NSAIDs , aspirin , warfarin ) Serotonin release by platelets plays an important role in hemostasis .
+Epidemiological studies of the case - control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiated the risk of bleeding .
+Altered anticoagulant effects , including increased bleeding , have been reported when SSRIs or SNRIs are coadministered with warfarin .
+Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued .
+Electroconvulsive therapy ( ECT ) There are no clinical studies establishing the benefit of the combined use of ECT and fluoxetine .
+There have been rare reports of prolonged seizures in patients on fluoxetine receiving ECT treatment .
+Carcinogenesis , Mutagenesis , Impairment of Fertility There is no evidence of carcinogenicity or mutagenicity from in vitro or animal studies .
+Impairment of fertility in adult animals at doses up to 12 . 5 mg / kg / day ( approximately 1 . 5 times the MRHD on a mg / m2 basis ) was not observed .
+Carcinogenicity The dietary administration of fluoxetine to rats and mice for 2 years at doses of up to 10 and 12 mg / kg / day , respectively [ approximately 1 . 2 and 0 . 7 times , respectively , the maximum recommended human dose ( MRHD ) of 80 mg on a mg / m2 basis ] , produced no evidence of carcinogenicity .
+Mutagenicity Fluoxetine and norfluoxetine have been shown to have no genotoxic effects based on the following assays : bacterial mutation assay , DNA repair assay in cultured rat hepatocytes , mouse lymphoma assay , and in vivo sister chromatid exchange assay in Chinese hamster bone marrow cells .
+Impairment of fertility Two fertility studies conducted in adult rats at doses of up to 7 . 5 and 12 . 5 mg / kg / day ( approximately 0 . 9 and 1 . 5 times the MRHD on a mg / m2 basis ) indicated that fluoxetine had no adverse effects on fertility ( see Pediatric Use ) .
+Pregnancy Pregnancy Category C In embryo - fetal development studies in rats and rabbits , there was no evidence of teratogenicity following administration of up to 12 . 5 and 15 mg / kg / day , respectively ( 1 . 5 and 3 . 6 times , respectively , the MRHD of 80 mg on a mg / m2 basis ) throughout organogenesis .
+However , in rat reproduction studies , an increase in stillborn pups , a decrease in pup weight , and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg / kg / day ( 1 . 5 times the MRHD on a mg / m2 basis ) during gestation or 7 . 5 mg / kg / day ( 0 . 9 times the MRHD on a mg / m2 basis ) during gestation and lactation .
+There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg / kg / day during gestation .
+The no - effect dose for rat pup mortality was 5 mg / kg / day ( 0 . 6 times the MRHD on a mg / m2 basis ) .
+Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus .
+Nonteratogenic Effects Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors ( SNRIs ) , late in the third trimester have developed complications requiring prolonged hospitalization , respiratory support , and tube feeding .
+Such complications can arise immediately upon delivery .
+Reported clinical findings have included respiratory distress , cyanosis , apnea , seizures , temperature instability , feeding difficulty , vomiting , hypoglycemia , hypotonia , hypertonia , hyperreflexia , tremor , jitteriness , irritability , and constant crying .
+These features are consistent with either a direct toxic effect of SSRIs and SNRIs or , possibly , a drug discontinuation syndrome .
+It should be noted that , in some cases , the clinical picture is consistent with serotonin syndrome ( see Monoamine oxidase inhibitors under CONTRAINDICATIONS ) .
+Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn ( PPHN ) .
+PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality .
+In a retrospective case - control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy , the risk for developing PPHN was approximately six - fold higher for infants exposed to SSRIs after the 20 th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy .
+There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy ; this is the first study that has investigated the potential risk .
+The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk .
+When treating a pregnant woman with fluoxetine during the third trimester , the physician should carefully consider both the potential risks and benefits of treatment ( see DOSAGE AND ADMINISTRATION ) .
+Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy , women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication .
+Labor and Delivery The effect of fluoxetine on labor and delivery in humans is unknown .
+However , because fluoxetine crosses the placenta and because of the possibility that fluoxetine may have adverse effects on the newborn , fluoxetine should be used during labor and delivery only if the potential benefit justifies the potential risk to the fetus .
+Nursing Mothers Because fluoxetine is excreted in human milk , nursing while on fluoxetine is not recommended .
+In one breast - milk sample , the concentration of fluoxetine plus norfluoxetine was 70 . 4 ng / mL .
+The concentration in the mother ' s plasma was 295 ng / mL .
+No adverse effects on the infant were reported .
+In another case , an infant nursed by a mother on fluoxetine developed crying , sleep disturbance , vomiting , and watery stools .
+The infant ' s plasma drug levels were 340 ng / mL of fluoxetine and 208 ng / mL of norfluoxetine on the second day of feeding .
+Pediatric Use The efficacy of fluoxetine for the treatment of major depressive disorder was demonstrated in two 8 - to 9 - week placebo - controlled clinical trials with 315 pediatric outpatients ages 8 to ≤ 18 ( see CLINICAL TRIALS ) .
+The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13 - week placebo - controlled clinical trial with 103 pediatric outpatients ages 7 to < 18 ( see CLINICAL TRIALS ) .
+The safety and effectiveness in pediatric patients < 8 years of age in major depressive disorder and < 7 years of age in OCD have not been established .
+Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients ( ages 6 to ≤ 18 ) with major depressive disorder of OCD ( see Pharmacokinetics under CLINICAL PHARMACOLOGY ) .
+The acute adverse event profiles observed in the 3 studies ( N = 418 randomized ; 228 fluoxetine - treated , 190 placebo - treated ) were generally similar to that observed in adult studies with fluoxetine .
+The longer - term adverse event profile observed in the 19 - week major depressive disorder study ( N = 219 randomized ; 109 fluoxetine - treated , 110 placebo - treated ) was also similar to that observed in adult trials with fluoxetine ( see ADVERSE REACTIONS ) .
+Manic reaction , including mania and hypomania , was reported in 6 ( 1 mania , 5 hypomania ) out of 228 ( 2 . 6 % ) fluoxetine treated patients and in 0 out of 190 ( 0 % ) placebo - treated patients .
+Mania / hypomania led to the discontinuation of 4 ( 1 . 8 % ) fluoxetine - treated patients from the acute phases of the 3 studies combined .
+Consequently , regular monitoring for the occurrence of mania / hypomania is recommended .
+As with other SSRIs , decreased weight gain has been observed in association with the use of fluoxetine in children and adolescent patients .
+After 19 weeks of treatment in a clinical trial , pediatric subjects treated with fluoxetine gained an average of 1 . 1 cm less in height ( p = 0 . 004 ) and 1 . 1 kg less in weight ( p = 0 . 008 ) than subjects treated with placebo .
+In addition , fluoxetine treatment was associated with a decrease in alkaline phosphatase levels .
+The safety of fluoxetine treatment for pediatric patients has not been systematically assessed for chronic treatment longer than several months in duration .
+In particular , there are no studies that directly evaluate the longer - term effects of fluoxetine on the growth , development , and maturation of children and adolescent patients .
+Therefore , height and weight should be monitored periodically in pediatric patients receiving fluoxetine ( See WARNINGS , Clinical Worsening and Suicide Risk ) .
+Significant toxicity , including myotoxicity , long - term neurobehavioral and reproductive toxicity , and impaired bone development , has been observed following exposure of juvenile animals to fluoxetine .
+Some of these effects occurred at clinically relevant exposures .
+In a study in which fluoxetine ( 3 , 10 , or 30 mg / kg ) was orally administered to young rats from weaning ( Postnatal Day 21 ) through adulthood ( Day 90 ) , male and female sexual development was delayed at all doses , and growth ( body weight gain , femur length ) was decreased during the dosing period in animals receiving the highest dose .
+At the end of the treatment period , serum levels of creatine kinase ( marker of muscle damage ) were increased at the intermediate and high doses , and abnormal muscle and reproductive organ histopathology ( skeletal muscle degeneration and necrosis , testicular degeneration and necrosis , epididymal vacuolation and hypospermia ) was observed at the high dose .
+When animals were evaluated after a recovery period ( up to 11 weeks after cessation of dosing ) , neurobehavioral abnormalities ( decreased reactivity at all doses and learning deficit at the high dose ) and reproductive functional impairment ( decreased mating at all doses and impaired fertility at the high dose ) were seen ; in addition , testicular and epididymal microscopic lesions and decreased sperm concentrations were found in the high dose group , indicating that the reproductive organ effects seen at the end of treatment were irreversible .
+The reversibility of fluoxetine - induced muscle damage was not assessed .
+Adverse effects similar to those observed in rats treated with fluoxetine during the juvenile period have not been reported after administration of fluoxetine to adult animals .
+Plasma exposures ( AUC ) to fluoxetine in juvenile rats receiving the low , intermediate , and high dose in this study were approximately 0 . 1 - 0 . 2 , 1 - 2 , and 5 - 10 times , respectively , the average exposure in pediatric patients receiving the maximum recommended dose ( MRD ) of 20 mg / day .
+Rat exposures to the major metabolite , norfluoxetine , were approximately 0 . 3 - 0 . 8 , 1 - 8 , and 3 - 20 times , respectively , pediatric exposure at the MRD .
+A specific effect of fluoxetine on bone development has been reported in mice treated with fluoxetine during the juvenile period .
+When mice treated with fluoxetine ( 5 or 20 mg / kg , intraperitoneal ) for 4 weeks starting at 4 weeks of age , bone formation was reduced resulting in decreased bone mineral content and density .
+These doses did not affect overall growth ( body weight gain or femoral length ) .
+The doses administered to juvenile mice in this study are approximately 0 . 5 and 2 times the MRD for pediatric patients on a body surface area ( mg / m2 ) basis .
+In another mouse study , administration of fluoxetine ( 10 mg / kg intraperitoneal ) during early postnatal development ( Postnatal Days 4 to 21 ) produced abnormal emotional behaviors ( decreased exploratory behavior in elevated plus - maze , increased shock avoidance latency ) in adulthood ( 12 weeks of age ) .
+The dose used in this study is approximately equal to the pediatric MRD on a mg / m2 basis .
+Because of the early dosing period in this study , the significance of these findings to the approved pediatric use in humans is uncertain .
+Fluoxetine is approved for use in pediatric patients with MDD and OCD ( see BOX WARNING and WARNINGS , Clinical Worsening and Suicide Risk ) .
+Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need .
+Geriatric Use U . S . fluoxetine clinical trials included 687 patients ≥ 65 years of age and 93 patients ≥ 75 years of age .
+The efficacy in geriatric patients has been established ( see CLINICAL TRIALS ) .
+For pharmacokinetic information in geriatric patients , see Age under CLINICAL PHARMACOLOGY .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals cannot be ruled out .
+SSRIs and SNRIs , including fluoxetine , have been associated with cases of clinically significant hyponatremia in elderly patients , who may be at greater risk for this adverse event ( see PRECAUTIONS , Hyponatremia ) .
+ADVERSE REACTIONS Multiple doses of fluoxetine had been administered to 10 , 782 patients with various diagnoses in U . S . clinical trials as of May 8 , 1995 .
+In addition , there have been 425 patients administered fluoxetine in panic clinical trials .
+Adverse events were recorded by clinical investigators using descriptive terminology of their own choosing .
+Consequently , it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a limited ( i . e . , reduced ) number of standardized event categories .
+In the tables and tabulations that follow , COSTART Dictionary terminology has been used to classify reported adverse events .
+The stated frequencies represent the proportion of individuals who experienced , at least once , a treatment - emergent adverse event of the type listed .
+An event was considered treatment - emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation .
+It is important to emphasize that events reported during therapy were not necessarily caused by it .
+The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials .
+Similarly , the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments , uses , and investigators .
+The cited figures , however , do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied .
+Incidence in major depressive disorder , OCD , bulimia , and panic disorder placebo - controlled clinical trials ( excluding data from extensions of trials ) Table 2 enumerates the most common treatment - emergent adverse events associated with the use of fluoxetine ( incidence of at least 5 % for fluoxetine and at least twice that for placebo within at least one of the indications ) for the treatment of major depressive disorder , OCD , and bulimia in U . S . controlled clinical trials and panic disorder in U . S . plus non - U . S . controlled trials .
+Table 3 enumerates treatment - emergent adverse events that occurred in 2 % or more patients treated with fluoxetine and with incidence greater than placebo who participated in U . S . major depressive disorder , OCD , and bulimia controlled clinical trials and U . S . plus non - U . S . panic disorder controlled clinical trials .
+Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2 .
+Table 2 Most Common Treatment - Emergent Adverse Events : Incidence in Major Depressive Disorder , OCD , Bulimia and Panic Disorder Placebo - Controlled Clinical Trials Percentage of Patients Reporting Event Major Depressive Disorder OCD Bulimia Panic Disorder Body System / Adverse Event Fluoxetine ( N = 1728 ) Placebo ( N = 975 ) Fluoxetine ( N = 266 ) Placebo ( N = 89 ) Fluoxetine ( N = 450 ) Placebo ( N = 267 ) Fluoxetine ( N = 425 ) Placebo ( N = 342 ) – Incidence less than 1 % .
+Body as a Whole Asthenia 9 5 15 11 21 9 7 7 Flu syndrome 3 4 10 7 8 3 5 5 Cardiovascular System Vasodilatation 3 2 5 – 2 1 1 – Digestive System Nausea 21 9 26 13 29 11 12 7 Diarrhea 12 8 18 13 8 6 9 4 Anorexia 11 2 17 10 8 4 4 1 Dry mouth 10 7 12 3 9 6 4 4 Dyspepsia 7 5 10 4 10 6 6 2 Nervous System Insomnia 16 9 28 22 33 13 10 7 Anxiety 12 7 14 7 15 9 6 2 Nervousness 14 9 14 15 11 5 8 6 Somnolence 13 6 17 7 13 5 5 2 Tremor 10 3 9 1 13 1 3 1 Libido decreased 3 – 11 2 5 1 1 2 Abnormal dreams 1 1 5 2 5 3 1 1 Respiratory System Pharyngitis 3 3 11 9 10 5 3 3 Sinusitis 1 4 5 2 6 4 2 3 Yawn – – 7 – 11 – 1 – Skin and Appendages Sweating 8 3 7 – 8 3 2 2 Rash 4 3 6 3 4 4 2 2 Urogenital System Impotence [ 1 ] 2 – – – 7 – 1 – Abnormal ejaculation null – – 7 – 7 – 2 1 [ 1 ] Denominator used was for males only ( N = 690 fluoxetine major depressive disorder ; N = 410 placebo major depressive disorder ; N = 116 fluoxetine OCD ; N = 43 placebo OCD ; N = 14 fluoxetine bulimia ; N = 1 placebo bulimia ; N = 162 fluoxetine panic ; N = 121 placebo panic ) .
+Table 3 Treatment - Emergent Adverse Events : Incidence in Major Depressive Disorder , OCD , Bulimia , and Panic Disorder Placebo - Controlled Clinical Trials Percentage of Patients Reporting Event Major Depressive Disorder , OCD , Bulimia , and Panic Disorder Combined Body System / Adverse Event Fluoxetine ( N = 2869 ) Placebo ( N = 1673 ) -- Incidence less than 1 % .
+Body as a Whole Headache 21 19 Asthenia 11 6 Flu syndrome 5 4 Fever 2 1 Cardiovascular System Vasodilatation 2 1 Digestive System Nausea 22 9 Diarrhea 11 7 Anorexia 10 3 Dry mouth 9 6 Dyspepsia 8 4 Constipation 5 4 Flatulence 3 2 Vomiting 3 2 Metabolic and Nutritional Disorders Weight loss 2 1 Nervous System Insomnia 19 10 Nervousness 13 8 Anxiety 12 6 Somnolence 12 5 Dizziness 9 6 Tremor 9 2 Libido decreased 4 1 Thinking abnormal 2 1 Respiratory System Yawn 3 -- Skin and Appendages Sweating 7 3 Rash 4 3 Pruritus 3 2 Special Senses Abnormal vision 2 1 Associated with discontinuation in major depressive disorder , OCD , bulimia , and panic disorder placebo - controlled clinical trials ( excluding data from extensions of trials ) Table 4 lists the adverse events associated with discontinuation of fluoxetine treatment ( incidence at least twice that for placebo and at least 1 % for fluoxetine in clinical trials collecting only a primary event associated with discontinuation ) in major depressive disorder , OCD , bulimia , and panic disorder clinical trials , plus non - U . S . panic disorder clinical trials .
+Table 4 Most Common Adverse Events Associated with Discontinuation in Major Depressive Disorder , OCD , Bulimia and Panic Disorder Placebo - Controlled Clinical Trials Major Depressive Disorder , OCD , Bulimia , and Panic Disorder Combined ( N = 1533 ) Major Depressive Disorder ( N = 392 ) OCD ( N = 266 ) Bulimia ( N = 450 ) Panic Disorder ( N = 425 ) Anxiety ( 1 % ) – Anxiety ( 2 % ) – Anxiety ( 2 % ) – – – Insomnia ( 2 % ) – – Nervousness ( 1 % ) – – Nervousness ( 1 % ) – – Rash ( 1 % ) – – Other adverse events in pediatric patients ( children and adolescents ) Treatment - emergent adverse events were collected in 322 pediatric patients ( 180 fluoxetine - treated , 142 placebo - treated ) .
+The overall profile of adverse events was generally similar to that seen in adult studies , as shown in Tables 2 and 3 .
+However , the following adverse events ( excluding those which appear in the body or footnotes of Tables 2 and 3 those for which the COSTART terms were uninformative or misleading ) were reported at an incidence of at least 2 % for fluoxetine and greater than placebo : thirst , hyperkinesia , agitation , personality disorder , epistaxis , urinary frequency , and menorrhagia .
+The most common adverse event ( incidence at least 1 % for fluoxetine and greater than placebo ) associated with discontinuation in three pediatric placebo - controlled trials ( N = 418 randomized ; 228 fluoxetine - treated ; 190 placebo - treated ) was mania / hypomania ( 1 . 8 % for fluoxetine - treated , 0 % for placebo - treated ) .
+In these clinical trials , only a primary event associated with discontinuation was collected .
+Male and female sexual dysfunction with SSRIs Although changes in sexual desire , sexual performance , and sexual satisfaction often occur as manifestations of a psychiatric disorder , they may also be a consequence of pharmacologic treatment .
+In particular , some evidence suggests that SSRIs can cause such untoward sexual experiences .
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire , performance , and satisfaction are difficult to obtain , however , in part because patients and physicians may be reluctant to discuss them .
+Accordingly , estimates of the incidence of untoward sexual experience and performance , cited in product labeling , are likely to underestimate their actual incidence .
+In patients enrolled in U . S . major depressive disorder , OCD and bulimia placebo - controlled clinical trials , decreased libido was the only sexual side effect reported by at least 2 % of patients taking fluoxetine ( 4 % fluoxetine , < 1 % placebo ) .
+There have been spontaneous reports in women taking fluoxetine of orgasmic dysfunction , including anorgasmia .
+There are no adequate and well - controlled studies examining sexual dysfunction with fluoxetine treatment .
+Priapism has been reported with all SSRIs .
+While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs , physicians should routinely inquire about such possible side effects .
+Other Events Observed in Clinical Trials Following is a list of all treatment - emergent adverse events reported at anytime by individuals taking fluoxetine in U . S . clinical trials as of May 8 , 1995 ( 10 , 782 patients ) except ( 1 ) those listed in the body or footnotes of Tables 2 and 3 above or elsewhere in labeling ; ( 2 ) those for which the COSTART terms were uninformative or misleading ; ( 3 ) those events for which a causal relationship to fluoxetine use was considered remote ; and ( 4 ) events occurring in only one patient treated with fluoxetine and which did not have a substantial probability of being acutely life - threatening .
+Events are classified within body system categories using the following definitions : frequent adverse events are defined as those occurring on one or more occasions in at least 1 / 100 patients ; infrequent adverse events are those occurring in 1 / 100 to 1 / 1000 patients ; rare events are those occurring in less than 1 / 1000 patients .
+Body as a Whole Frequent : chest pain , chills ; Infrequent : chills and fever , face edema , intentional overdose , malaise , pelvic pain , suicide attempt ; Rare : acute abdominal syndrome , hypothermia , intentional injury , neuroleptic malignant syndrome , photosensitivity reaction .
+Cardiovascular System Frequent : hemorrhage , hypertension , palpitation ; Infrequent : angina pectoris , arrhythmia , congestive heart failure , hypotension , migraine , myocardial infarct , postural hypotension , syncope , tachycardia , vascular headache ; Rare : atrial fibrillation , bradycardia , cerebral embolism , cerebral ischemia , cerebrovascular accident , extrasystoles , heart arrest , heart block , pallor , peripheral vascular disorder , phlebitis , shock , thrombophlebitis , thrombosis , vasospasm , ventricular arrhythmia , ventricular extrasystoles , ventricular fibrillation .
+Digestive System Frequent : increased appetite , nausea and vomiting ; Infrequent : aphthous stomatitis , cholelithiasis , colitis , dysphagia , eructation , esophagitis , gastritis , gastroenteritis , glossitis , gum hemorrhage , hyperchlorhydria , increased salivation , liver function tests abnormal , melena , mouth ulceration , nausea / vomiting / diarrhea , stomach ulcer , stomatitis , thirst ; Rare : biliary pain , bloody diarrhea , cholecystitis , duodenal ulcer , enteritis , esophageal ulcer , fecal incontinence , gastrointestinal hemorrhage , hematemesis , hemorrhage of colon , hepatitis , intestinal obstruction , liver fatty deposit , pancreatitis , peptic ulcer , rectal hemorrhage , salivary gland enlargement , stomach ulcer hemorrhage , tongue edema .
+Endocrine System Infrequent : hypothyroidism ; Rare : diabetic acidosis , diabetes mellitus .
+Hemic and Lymphatic System Infrequent : anemia , ecchymosis ; Rare : blood dyscrasia , hypochromic anemia , leukopenia , lymphedema , lymphocytosis , petechia , purpura , thrombocythemia , thrombocytopenia .
+Metabolic and Nutritional Frequent : weight gain ; Infrequent : dehydration , generalized edema , gout , hypercholesteremia , hyperlipemia , hypokalemia , peripheral edema ; Rare : alcohol intolerance , alkaline phosphatase increased , BUN increased , creatine phosphokinase increased , hyperkalemia , hyperuricemia , hypocalcemia , iron deficiency anemia , SGPT increased .
+Musculoskeletal System Infrequent : arthritis , bone pain , bursitis , leg cramps , tenosynovitis ; Rare : arthrosis , chondrodystrophy , myasthenia , myopathy , myositis , osteomyelitis , osteoporosis , rheumatoid arthritis .
+Nervous System Frequent : agitation , amnesia , confusion , emotional lability , sleep disorder ; Infrequent : abnormal gait , acute brain syndrome , akathisia , apathy , ataxia , buccoglossal syndrome , CNS depression , CNS stimulation , depersonalization , euphoria , hallucinations , hostility , hyperkinesia , hypertonia , hypesthesia , incoordination , libido increased , myoclonus , neuralgia , neuropathy , neurosis , paranoid reaction , personality disorder , psychosis , vertigo ; Rare : abnormal electroencephalogram , antisocial reaction , circumoral paresthesia , coma , delusions , dysarthria , dystonia , extrapyramidal syndrome , foot drop , hyperesthesia , neuritis , paralysis , reflexes decreased , reflexes increased , stupor .
+Respiratory System Infrequent : asthma , epistaxis , hiccup , hyperventilation ; Rare : apnea , atelectasis , cough decreased , emphysema , hemoptysis , hypoventilation , hypoxia , larynx edema , lung edema , pneumothorax , stridor .
+Skin and Appendages Infrequent : acne , alopecia , contact dermatitis , eczema , maculopapular rash , skin discoloration , skin ulcer , vesiculobullous rash ; Rare : furunculosis , herpes zoster , hirsutism , petechial rash , psoriasis , purpuric rash , pustular rash , seborrhea .
+Special Senses Frequent : ear pain , taste perversion , tinnitus ; Infrequent : conjunctivitis , dry eyes , mydriasis , photophobia ; Rare : blepharitis , deafness , diplopia , exophthalmos , eye hemorrhage , glaucoma , hyperacusis , iritis , parosmia , scleritis , strabismus , taste loss , visual field defect .
+Urogenital System Frequent : urinary frequency ; Infrequent : abortion , albuminuria , amenorrhea3 , anorgasmia , breast enlargement , breast pain , cystitis , dysuria , female lactation3 , fibrocystic breast3 , hematuria , leukorrhea3 , menorrhagia3 , metrorrhagia3 , nocturia , polyuria , urinary incontinence , urinary retention , urinary urgency , vaginal hemorrhage3 ; Rare : breast engorgement , glycosuria , hypomenorrhea3 , kidney pain , oliguria , priapism3 , uterine hemorrhage3 , uterine fibroids enlarged3 .
+Postintroduction Reports Voluntary reports of adverse events temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following : aplastic anemia , atrial fibrillation , cataract , cerebral vascular accident , cholestatic jaundice , confusion , dyskinesia ( including , for example , a case of buccal - lingual - masticatory syndrome with involuntary tongue protrusion reported to develop in a 77 - year - old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation ) , eosinophilic pneumonia , epidermal necrolysis , erythema multiforme , erythema nodosum , exfoliative dermatitis , gynecomastia , heart arrest , hepatic failure / necrosis , hyperprolactinemia , hypoglycemia , immune - related hemolytic anemia , kidney failure , misuse / abuse , movement disorders developing in patients with risk factors including drugs associated with such events and worsening of preexisting movement disorders , neuroleptic malignant syndrome - like events , optic neuritis , pancreatitis , pancytopenia , priapism , pulmonary embolism , pulmonary hypertension , QT prolongation , serotonin syndrome ( a range of signs and symptoms that can rarely , in its most severe form , resemble neuroleptic malignant syndrome ) , Stevens - Johnson syndrome , sudden unexpected death , suicidal ideation , thrombocytopenia , thrombocytopenic purpura , vaginal bleeding after drug withdrawal , ventricular tachycardia ( including torsades de pointes - type arrhythmias ) , and violent behaviors .
+DRUG ABUSE AND DEPENDENCE Controlled substance class Fluoxetine is not a controlled substance .
+Physical and psychological dependence Fluoxetine has not been systematically studied , in animals or humans , for its potential for abuse , tolerance , or physical dependence .
+While the premarketing clinical experience with fluoxetine did not reveal any tendency for a withdrawal syndrome or any drug seeking behavior , these observations were not systematic and it is not possible to predict on the basis of this limited experience the extent to which a CNS active drug will be misused , diverted , and / or abused once marketed .
+Consequently , physicians should carefully evaluate patients for history of drug abuse and follow such patients closely , observing them for signs of misuse or abuse of fluoxetine ( e . g . , development of tolerance , incrementation of dose , drug - seeking behavior ) .
+OVERDOSAGE Human Experience Worldwide exposure to fluoxetine hydrochloride is estimated to be over 38 million patients ( circa 1999 ) .
+Of the 1578 cases of overdose involving fluoxetine hydrochloride , alone or with other drugs , reported from this population , there were 195 deaths .
+Among 633 adult patients who overdosed on fluoxetine hydrochloride alone , 34 resulted in a fatal outcome , 378 completely recovered , and 15 patients experienced sequelae after overdosage , including abnormal accommodation , abnormal gait , confusion , unresponsiveness , nervousness , pulmonary dysfunction , vertigo , tremor , elevated blood pressure , impotence , movement disorder , and hypomania .
+The remaining 206 patients had an unknown outcome .
+The most common signs and symptoms associated with non - fatal overdosage were seizures , somnolence , nausea , tachycardia , and vomiting .
+The largest known ingestion of fluoxetine hydrochloride in adult patients was 8 grams in a patient who took fluoxetine alone and who subsequently recovered .
+However , in an adult patient who took fluoxetine alone , an ingestion as low as 520 mg has been associated with lethal outcome , but causality has not been established .
+Among pediatric patients ( ages 3 months to 17 years ) , there were 156 cases of overdose involving fluoxetine alone or in combination with other drugs .
+Six patients died , 127 patients completely recovered , one patient experienced renal failure , and 22 patients had an unknown outcome .
+One of the six fatalities was a 9 - year - old boy who had a history of OCD , Tourette ' s syndrome with tics , attention deficit disorder , and fetal alcohol syndrome .
+He had been receiving 100 mg of fluoxetine daily for 6 months in addition to clonidine , methylphenidate , and promethazine .
+Mixed - drug ingestion or other methods of suicide complicated all six overdoses in children that resulted in fatalities .
+The largest ingestion in pediatric patients was 3 grams which was nonlethal .
+Other important adverse events reported with fluoxetine overdose ( single or multiple drugs ) include coma , delirium , ECG abnormalities ( such as QT interval prolongation and ventricular tachycardia , including torsades de pointes - type arrhythmias ) , hypotension , mania , neuroleptic malignant syndrome - like events , pyrexia , stupor , and syncope .
+Animal Experience Studies in animals do not provide precise or necessarily valid information about the treatment of human overdose .
+However , animal experiments can provide useful insights into possible treatment strategies .
+The oral median lethal dose in rats and mice was found to be 452 and 248 mg / kg , respectively .
+Acute high oral doses produced hyperirritability and convulsions in several animal species .
+Among six dogs purposely overdosed with oral fluoxetine , five experienced grand mal seizures .
+Seizures stopped immediately upon the bolus intravenous administration of a standard veterinary dose of diazepam .
+In this short - term study , the lowest plasma concentration at which a seizure occurred was only twice the maximum plasma concentration seen in humans taking 80 mg / day , chronically .
+In a separate single - dose study , the ECG of dogs given high doses did not reveal prolongation of the PR , QRS , or QT intervals .
+Tachycardia and an increase in blood pressure were observed .
+Consequently , the value of the ECG in predicting cardiac toxicity is unknown .
+Nonetheless , the ECG should ordinarily be monitored in cases of human overdose ( see Management of Overdose ) .
+Management of Overdose Treatment should consist of those general measures employed in the management of overdosage with any drug effective in the treatment of major depressive disorder .
+Ensure an adequate airway , oxygenation , and ventilation .
+Monitor cardiac rhythm and vital signs .
+General supportive and symptomatic measures are also recommended .
+Induction of emesis is not recommended .
+Gastric lavage with a large - bore orogastric tube with appropriate airway protection , if needed , may be indicated if performed soon after ingestion , or in symptomatic patients .
+Activated charcoal should be administered .
+Due to the large volume of distribution of this drug , forced diuresis , dialysis , hemoperfusion and exchange transfusion are unlikely to be of benefit .
+No specific antidotes for fluoxetine are known .
+A specific caution involves patients who are taking or have recently taken fluoxetine and might ingest excessive quantities of a TCA .
+In such a case , accumulation of the parent tricyclic and / or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation ( see Other drugs effective in the treatment of major depressive disorder under PRECAUTIONS ) .
+Based on experience in animals , which may not be relevant to humans , fluoxetine - induced seizures that fail to remit spontaneously may respond to diazepam .
+In managing overdosage , consider the possibility of multiple drug involvement .
+The physician should consider contacting a poison control center for additional information on the treatment of any overdose .
+Telephone numbers for certified poison control centres are listed in the Physicians ' Desk Reference ( PDR ) .
+DOSAGE AND ADMINISTRATION Major Depressive Disorder Initial Treatment Adult In controlled trials used to support the efficacy of fluoxetine , patients were administered morning doses ranging from 20 to 80 mg / day .
+Studies comparing fluoxetine 20 , 40 , and 60 mg / day to placebo indicate that 20 mg / day is sufficient to obtain a satisfactory response in major depressive disorder in most cases .
+Consequently , a dose of 20 mg / day , administered in the morning , is recommended as the initial dose .
+A dose increase may be considered after several weeks if insufficient clinical improvement is observed .
+Doses above 20 mg / day may be administered on a once - a - day ( morning ) or B . I . D . schedule ( i . e . , morning and noon ) and should not exceed a maximum dose of 80 mg / day .
+Pediatric ( children and adolescents ) In the short - term ( 8 to 9 week ) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of major depressive disorder , patients were administered fluoxetine doses of 10 to 20 mg / day ( see CLINICAL TRIALS ) .
+Treatment should be initiated with a dose of 10 or 20 mg / day .
+After 1 week at 10 mg / day , the dose should be increased to 20 mg / day .
+However , due to higher plasma levels in lower weight children , the starting and target dose in this group may be 10 mg / day .
+A dose increase to 20 mg / day may be considered after several weeks if insufficient clinical improvement is observed .
+All patients As with other drugs effective in the treatment of major depressive disorder , the full effect may be delayed until 4 weeks of treatment or longer .
+As with many other medications , a lower or less frequent dosage should be used in patients with hepatic impairment .
+A lower or less frequent dosage should also be considered for the elderly ( see Geriatric Use under PRECAUTIONS ) , and for patients with concurrent disease or on multiple concomitant medications .
+Dosage adjustments for renal impairment are not routinely necessary ( see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ) .
+Maintenance / Continuation / Extended Treatment It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy .
+Whether the dose needed to induce remission is identical to the dose needed to maintain and / or sustain euthymia is unknown .
+Daily Dosing Systematic evaluation of fluoxetine in adult patients has shown that its efficacy in major depressive disorder is maintained for periods of up to 38 weeks following 12 weeks of open - label acute treatment ( 50 weeks total ) at a dose of 20 mg / day ( see CLINICAL TRIALS ) .
+Switching Patients to a Tricyclic Antidepressant ( TCA ) Dosage of a TCA may need to be reduced , and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued ( see Other drugs effective in the treatment of major depressive disorder under PRECAUTIONS , Drug Interactions ) .
+Switching Patients to or from a Monoamine Oxidase Inhibitor ( MAOI ) At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with fluoxetine .
+In addition , at least 5 weeks , perhaps longer , should be allowed after stopping fluoxetine before starting an MAOI ( see CONTRAINDICATIONS and PRECAUTIONS ) .
+Obsessive Compulsive Disorder Initial Treatment Adult In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of OCD , patients were administered fixed daily doses of 20 , 40 , or 60 mg of fluoxetine or placebo ( see CLINICAL TRIALS ) .
+In one of these studies , no dose - response relationship for effectiveness was demonstrated .
+Consequently , a dose of 20 mg / day , administered in the morning , is recommended as the initial dose .
+Since there was a suggestion of a possible dose - response relationship for effectiveness in the second study , a dose increase may be considered after several weeks if insufficient clinical improvement is observed .
+The full therapeutic effect may be delayed until 5 weeks of treatment or longer .
+Doses above 20 mg / day may be administered on a once - a - day ( i . e . , morning ) or B . I . D . schedule ( i . e . , morning and noon ) .
+A dose range of 20 to 60 mg / day is recommended ; however , doses of up to 80 mg / day have been well tolerated in open studies of OCD .
+The maximum fluoxetine dose should not exceed 80 mg / day .
+Pediatric ( children and adolescents ) In the controlled clinical trial of fluoxetine supporting its effectiveness in the treatment of OCD , patients were administered fluoxetine doses in the range of 10 to 60 mg / day ( see CLINICAL TRIALS ) .
+In adolescents and higher weight children , treatment should be initiated with a dose of 10 mg / day .
+After 2 weeks , the dose should be increased to 20 mg / day .
+Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed .
+A dose range of 20 to 60 mg / day is recommended .
+In lower weight children , treatment should be initiated with a dose of 10 mg / day .
+Additional dose increases may be considered after several more weeks if insufficient clinical improvement is observed .
+A dose range of 20 to 30 mg / day is recommended .
+Experience with daily doses greater than 20 mg is very minimal , and there is no experience with doses greater than 60 mg .
+All Patients As with the use of fluoxetine in the treatment of major depressive disorder , a lower or less frequent dosage should be used in patients with hepatic impairment .
+A lower or less frequent dosage should also be considered for the elderly ( see Geriatric Use under PRECAUTIONS ) , and for patients with concurrent disease or on multiple concomitant medications .
+Dosage adjustments for renal impairment are not routinely necessary ( see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ) .
+Maintenance / Continuation Treatment While there are no systematic studies that answer the question of how long to continue fluoxetine , OCD is a chronic condition and it is reasonable to consider continuation for a responding patient .
+Although the efficacy of fluoxetine after 13 weeks has not been documented in controlled trials , adult patients have been continued in therapy under double - blind conditions for up to an additional 6 months without loss of benefit .
+However , dosage adjustments should be made to maintain the patient on the lowest effective dosage , and patients should be periodically reassessed to determine the need for treatment .
+Bulimia Nervosa Initial Treatment In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of bulimia nervosa , patients were administered fixed daily fluoxetine doses of 20 or 60 mg , or placebo ( see CLINICAL TRIALS ) .
+Only the 60 mg dose was statistically significantly superior to placebo in reducing the frequency of binge - eating and vomiting .
+Consequently , the recommended dose is 60 mg / day , administered in the morning .
+For some patients it may be advisable to titrate up to this target dose over several days .
+Fluoxetine doses above 60 mg / day have not been systematically studied in patients with bulimia .
+As with the use of fluoxetine in the treatment of major depressive disorder and OCD , a lower or less frequent dosage should be used in patients with hepatic impairment .
+A lower or less frequent dosage should also be considered for the elderly ( see Geriatric Use under PRECAUTIONS ) , and for patients with concurrent disease or on multiple concomitant medications .
+Dosage adjustments for renal impairment are not routinely necessary ( see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ) .
+Maintenance / Continuation Treatment Systematic evaluation of continuing fluoxetine 60 mg / day for periods of up to 52 weeks in patients with bulimia who have responded while taking fluoxetine 60 mg / day during an 8 - week acute treatment phase has demonstrated a benefit of such maintenance treatment ( see CLINICAL TRIALS ) .
+Nevertheless , patients should be periodically reassessed to determine the need for maintenance treatment .
+Panic Disorder Initial Treatment In the controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of panic disorder , patients were administered fluoxetine doses in the range of 10 to 60 mg / day ( see CLINICAL TRIALS ) .
+Treatment should be initiated with a dose of 10 mg / day .
+After 1 week , the dose should be increased to 20 mg / day .
+The most frequently administered dose in the two flexible - dose clinical trials was 20 mg / day .
+A dose increase may be considered after several weeks if no clinical improvement is observed .
+Fluoxetine doses above 60 mg / day have not been systematically evaluated in patients with panic disorder .
+As with the use of fluoxetine in other indications , a lower or less frequent dosage should be used in patients with hepatic impairment .
+A lower or less frequent dosage should also be considered for the elderly ( see Geriatric Use under PRECAUTIONS ) , and for patients with concurrent disease or on multiple concomitant medications .
+Dosage adjustments for renal impairment are not routinely necessary ( see Liver disease and Renal disease under CLINICAL PHARMACOLOGY , and Use in Patients with Concomitant Illness under PRECAUTIONS ) .
+Maintenance / Continuation Treatment While there are no systematic studies that answer the question of how long to continue fluoxetine , panic disorder is a chronic condition and it is reasonable to consider continuation for a responding patient .
+Nevertheless , patients should be periodically reassessed to determine the need for continued treatment .
+Special Populations Treatment of Pregnant Women During the Third Trimester Neonates exposed to fluoxetine and other SSRIs or SNRIs , late in the third trimester have developed complications requiring prolonged hospitalization , respiratory support , and tube feeding ( see PRECAUTIONS ) .
+When treating pregnant women with fluoxetine during the third trimester , the physician should carefully consider the potential risks and benefits of treatment .
+The physician may consider tapering fluoxetine in the third trimester .
+Discontinuation of Treatment with Fluoxetine Symptoms associated with discontinuation of fluoxetine and other SSRIs and SNRIs , have been reported ( see PRECAUTIONS ) .
+Patients should be monitored for these symptoms when discontinuing treatment .
+A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible .
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment , then resuming the previously prescribed dose may be considered .
+Subsequently , the physician may continue decreasing the dose but at a more gradual rate .
+Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug .
+HOW SUPPLIED Fluoxetine Tablets USP are available as follows : 10 mg † , oval , normal convex , film coated , scored white tablet , debossed “ FL 10 ” on one side and “ G ” on the other Bottles of 20 NDC 54868 - 4560 - 2 Bottles of 30 NDC 54868 - 4560 - 0 Bottles of 100 NDC 54868 - 4560 - 1 † Fluoxetine base equivalent .
+Store at 20º to 25ºC ( 68º to 77ºF ) [ See USP Controlled Room Temperature ] .
+Dispense in a tight , light - resistant container as described in the USP .
+Protect from light .
+Sarafem ® is a trademark of Eli Lilly .
+Relabeling and Repackaging by : Physicians Total Care , Inc .
+Tulsa , OK 74146 ANIMAL TOXICOLOGY Phospholipids are increased in some tissues of mice , rats , and dogs given fluoxetine chronically .
+This effect is reversible after cessation of fluoxetine treatment .
+Phospholipid accumulation in animals has been observed with many cationic amphiphilic drugs , including fenfluramine , imipramine , and ranitidine .
+The significance of this effect in humans is unknown .
+Medication Guide FLUOXETINE TABLETS USP Rx only Antidepressant Medicines , Depression and other Serious Mental Illnesses , and Suicidal Thoughts or Actions Read the Medication Guide that comes with your or your family member ' s antidepressant medicine .
+This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines .
+Talk to your , or your family member ' s , healthcare provider about : • all risks and benefits of treatment with antidepressant medicines • all treatment choices for depression or other serious mental illness What is the most important information I should know about antidepressant medicines , depression and other serious mental illnesses , and suicidal thoughts or actions ?
+• Antidepressant medicines may increase suicidal thoughts or actions in some children , teenagers , and young adults within the first few months of treatment .
+• Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions .
+Some people may have a particularly high risk of having suicidal thoughts or actions .
+These include people who have ( or have a family history of ) bipolar illness ( also called manic - depressive illness ) or suicidal thoughts or actions .
+• How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member ?
+• Pay close attention to any changes , especially sudden changes , in mood , behaviors , thoughts , or feelings .
+This is very important when an antidepressant medicine is started or when the dose is changed .
+• Call the healthcare provider right away to report new or sudden changes in mood , behavior , thoughts , or feelings .
+• Keep all follow - up visits with the healthcare provider as scheduled .
+Call the healthcare provider between visits as needed , especially if you have concerns about symptoms .
+Call a healthcare provider right away if you or your family member has any of the following symptoms , especially if they are new , worse , or worry you : • thoughts about suicide or dying • attempts to commit suicide • new or worse depression • new or worse anxiety • feeling very agitated or restless • panic attacks • trouble sleeping ( insomnia ) • new or worse irritability • acting aggressive , being angry , or violent • acting on dangerous impulses • an extreme increase in activity and talking ( mania ) • other unusual changes in behavior or mood What else do I need to know about antidepressant medicines ?
+• Never stop an antidepressant medicine without first talking to a healthcare provider .
+Stopping an antidepressant medicine suddenly can cause other symptoms .
+• Antidepressants are medicines used to treat depression and other illnesses .
+It is important to discuss all the risks of treating depression and also the risks of not treating it .
+Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider , not just the use of antidepressants .
+• Antidepressant medicines have other side effects .
+Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member .
+• Antidepressant medicines can interact with other medicines .
+Know all of the medicines that you or your family member takes .
+Keep a list of all medicines to show the healthcare provider .
+Do not start new medicines without first checking with your healthcare provider .
+• Not all antidepressant medicines prescribed for children are FDA approved for use in children .
+Talk to your child ' s healthcare provider for more information .
+Call your doctor for medical advice about side effects . You may report side effects to FDA at 1 - 800 - FDA - 1088 .
+This Medication Guide has been approved by the U . S . Food and Drug Administration for all antidepressants .
+MANUFACTURED IN AUSTRALIA BY : ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia For PAR PHARMACEUTICAL COMPANIES , INC .
+Spring Valley , NY 10977 USA Revised : 02 / 09 OS734 - 01 - 1 - 07 PRINCIPAL DISPLAY PANEL - 10 mg Fluoxetine Tablets , USP 10 mg Rx only PHARMACIST : PLEASE DISPENSE WITH MEDICATION GUIDE .
+Each tablet contains : 10 mg of fluoxetine as fluoxetine hydrochloride .
+USUAL DOSAGE : For dosage and other prescribing information , see accompanying product literature .
+KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN .
+Dispense in a tight , light - resistant container .
+Protect from light .
+Keep tightly closed .
+Store at 20 ° – 25 ° C ( 68 ° – 77 ° F ) [ See USP Controlled Room Temperature ] .
+R04 / 08 LA734 - 11 - 1 - 06 [ MULTIMEDIA ] [ MULTIMEDIA ]

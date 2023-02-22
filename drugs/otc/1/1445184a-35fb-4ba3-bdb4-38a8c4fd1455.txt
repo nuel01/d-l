@@ -1,0 +1,201 @@
+DESCRIPTION Nitroglycerin is 1 , 2 , 3 - propanetriol , trinitrate , an organic nitrate whose structural formula is : [ MULTIMEDIA ] and whose molecular weight is 227 . 09 .
+The organic nitrates are vasodilators , active on both arteries and veins .
+The Nitroglycerin Transdermal System is a flat unit designed to provide continuous controlled release of nitroglycerin through intact skin .
+The rate of release of nitroglycerin is linearly dependent upon the area of the applied system ; each cm2 of applied system delivers approximately 0 . 03 mg of nitroglycerin per hour .
+Thus , the 7 - , 14 - , and 21 - cm2 systems deliver approximately 0 . 2 , 0 . 4 , and 0 . 6 mg of nitroglycerin per hour , respectively .
+The remainder of the nitroglycerin in each system serves as a reservoir and is not delivered in normal use .
+After 12 hours , for example , each system has delivered approximately 6 % of its original content of nitroglycerin .
+The Nitroglycerin Transdermal System comprises 3 layers as shown below .
+Proceeding from the visible surface towards the surface attached to the skin , these layers are : 1 ) a transparent outer backing layer composed of a composite plastic film and is printed with the name of the drug and strength ; 2 ) nitroglycerin in acrylic - based polymer adhesive with a cross - linking agent ; 3 ) a protective white , translucent peelable silicone treated polystyrene release liner which covers the second layer and must be removed - prior to use .
+The inactive ingredients are : multilayer plastic film ( polyolefin / EVA / PVDC ) , silicone coated polystyrene film , acrylic adhesive with a cross - linking agent and blue ink .
+Cross section of the system : OUTER BACKING ( impermeable ) SECOND LAYER ( nitroglycerin in acrylic - based adhesive ) PROTECTIVE PEELABLE LINER ( release liner ) [ MULTIMEDIA ] CLINICAL PHARMACOLOGY The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins , especially the latter .
+Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart , thereby reducing left ventricular end - diastolic pressure and pulmonary capillary wedge pressure ( preload ) .
+Arteriolar relaxation reduces systemic vascular resistance , systolic arterial pressure , and mean arterial pressure ( afterload ) .
+Dilatation of the coronary arteries also occurs .
+The relative importance of preload reduction , afterload reduction , and coronary dilatation remains undefined .
+Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration .
+This strategy is inappropriate for organic nitrates .
+Several well - controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously - delivered nitrates .
+In the large majority of these trials , active agents were indistinguishable from placebo after 24 hours ( or less ) of continuous therapy .
+Attempts to overcome nitrate tolerance by dose escalation , even to doses far in excess of those used acutely , have consistently failed .
+Only after nitrates had been absent from the body for several hours was their antianginal efficacy restored .
+Pharmacokinetics The volume of distribution of nitroglycerin is about 3 L / kg , and nitroglycerin is cleared from this volume at extremely rapid rates , with a resulting serum half - life of about 3 minutes .
+The observed clearance rates ( close to 1 L / kg / min ) greatly exceed hepatic blood flow .
+Known sites of extrahepatic metabolism include red blood cells and vascular walls .
+The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1 , 2 - and 1 , 3 - dinitroglycerols .
+The dinitrates are less effective vasodilators than nitroglycerin but they are longer - lived in the serum , and their net contribution to the overall effect of chronic nitroglycerin regimens is not known .
+The dinitrates are further metabolized to ( nonvasoactive ) mononitrates and , ultimately , to glycerol and carbon dioxide .
+To avoid development of tolerance to nitroglycerin , drug - free intervals of 10 - 12 hours are known to be sufficient ; shorter intervals have not been well studied .
+In one well - controlled clinical trial , subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect , so that their exercise tolerance at the end of the daily drug - free interval was less than that exhibited by the parallel group receiving placebo .
+In healthy volunteers , steady - state plasma concentrations of nitroglycerin are reached by about 2 hours after application of a patch and are maintained for the duration of wearing the system ( observations have been limited to 24 hours ) .
+Upon removal of the patch , the plasma concentration declines with a half - life of about an hour .
+Clinical Trials Regimens in which nitroglycerin patches were worn for 12 hours daily have been studied in well controlled trials up to 4 weeks in duration .
+Starting about 2 hours after application and continuing until 10 - 12 hours after application , patches that deliver at least 0 . 4 mg of nitroglycerin per hour have consistently demonstrated greater antianginal activity than placebo .
+Lower - dose patches have not been as well studied , but in one large , well - controlled trial in which higher - dose patches were also studied , patches delivering 0 . 2 mg / hr had significantly less antianginal activity than placebo .
+It is reasonable to believe that the rate of nitroglycerin absorption from patches may vary with the site of application , but this relationship has not been adequately studied .
+The onset of action of transdermal nitroglycerin is not sufficiently rapid for this product to be useful in aborting an acute anginal episode .
+INDICATIONS AND USAGE Transdermal nitroglycerin is indicated for the prevention of angina pectoris due to coronary artery disease .
+The onset of action of transdermal nitroglycerin is not sufficiently rapid for this product to be useful in aborting an acute attack .
+CONTRAINDICATIONS Allergic reactions to organic nitrates are extremely rare , but they do occur .
+Nitroglycerin is contraindicated in patients who are allergic to it .
+Allergy to the adhesives used in nitroglycerin patches has also been reported , and it similarly constitutes a contraindication to the use of this product .
+Do not use Nitroglycerin Transdermal Systems in patients who are taking phosphodiesterase inhibitors ( such as sildenafil , tadalafil , or vardenafil ) for erectile dysfunction or pulmonary arterial hypertension .
+Concomitant use can cause severe drops in blood pressure .
+Do not use Nitroglycerin Transdermal Systems in patients who are taking the soluble guanylate cyclase stimulator riociguat .
+Concomitant use can cause hypotension .
+WARNINGS Amplification of the vasodilatory effects of NitroglycerinTransdermal System by phosphodiesterase inhibitors , e . g . , sildenafil may result in severe hypotension .
+The time course and dose dependence of this interaction have not been studied .
+Appropriate supportive care has not been studied , but it seems reasonable to treat this as a nitrate overdose , with elevation of the extremities and with central volume expansion .
+The benefits of transdermal nitroglycerin in patients with acute myocardial infarction or congestive heart failure have not been established .
+If one elects to use nitroglycerin in these conditions , careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia .
+A cardioverter / defibrillator should not be discharged through a paddle electrode that overlies a nitroglycerin transdermal patch .
+The arcing that may be seen in this situation is harmless in itself , but it may be associated with local current concentration that can cause damage to the paddles and burns to the patient .
+PRECAUTIONS General Severe hypotension , particularly with upright posture , may occur with even small doses of nitroglycerin , particularly in the elderly .
+This drug should therefore be used with caution in elderly patients who may be volume depleted , are on multiple medications , or who , for whatever reason , are already hypotensive .
+Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris .
+Elderly patients may be more susceptible to hypotension and may be at greater risk of falling at the therapeutic doses of nitroglycerin .
+Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy , particularly in the elderly .
+As tolerance to other forms of nitroglycerin develops , the effect of sublingual nitroglycerin on exercise tolerance , although still observable , is somewhat blunted .
+In industrial workers who have had long - term exposure to unknown ( presumably high ) doses of organic nitrates , tolerance clearly occurs .
+Chest pain , acute myocardial infarction , and even sudden death have occurred during temporary withdrawal of nitrates from these workers , demonstrating the existence of true physical dependence .
+Several clinical trials in patients with angina pectoris have evaluated nitroglycerin regimens which incorporated a 10 - 12 hour nitrate - free interval .
+In some of these trials , an increase in the frequency of anginal attacks during the nitrate - free interval was observed in a small number of patients .
+In one trial , patients demonstrated decreased exercise tolerance at the end of the nitrate - free interval .
+Hemodynamic rebound has been observed only rarely ; on the other hand , few studies were so designed that rebound , if it had occurred , would have been detected .
+The importance of these observations to the routine , clinical use of transdermal nitroglycerin is unknown .
+Information for Patients Daily headaches sometimes accompany treatment with nitroglycerin .
+In patients who get these headaches , the headaches may be a marker of the activity of the drug .
+Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with nitroglycerin , since loss of headache may be associated with simultaneous loss of antianginal efficacy .
+Treatment with nitroglycerin may be associated with lightheadedness on standing , especially just after rising from a recumbent or seated position .
+This effect may be more frequent in patients who have also consumed alcohol .
+After normal use , there is enough residual nitroglycerin in discarded patches that they are a potential hazard to children and pets .
+A patient information leaflet is supplied with the systems .
+Drug Interactions The vasodilating effects of nitroglycerin may be additive with those of other vasodilators .
+Alcohol , in particular , has been found to exhibit additive effects of this variety .
+Concomitant use of Nitroglycerin Transdermal Systems with phosphodiesterase inhibitors in any form is contraindicated ( see CONTRAINDICATIONS ) .
+Concomitant use of Nitroglycerin Transdermal Systems with riociguat , a soluble guanylate cyclase stimulator , is contraindicated ( see CONTRAINDICATIONS ) .
+Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination .
+Dose adjustments of either class of agents may be necessary .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Animal carcinogenesis studies with topically applied nitroglycerin have not been performed .
+Rats receiving up to 434 mg / kg / day of dietary nitroglycerin for 2 years developed dose - related fibrotic and neoplastic changes in liver , including carcinomas , and interstitial cell tumors in testes .
+At high dose , the incidences of hepatocellular carcinomas in both sexes were 52 % vs . 0 % in controls , and incidences of testicular tumors were 52 % vs . 8 % in controls .
+Lifetime dietary administration of up to 1058 mg / kg / day of nitroglycerin was not tumorigenic in mice .
+Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories .
+Nevertheless , there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg / kg / day , p . o . , or in in vitro cytogenetic tests in rat and dog tissues .
+In a three - generation reproduction study , rats received dietary nitroglycerin at doses up to about 434 mg / kg / day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations .
+The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings .
+No specific effect on the fertility of the F0 generation was seen .
+Infertility noted in subsequent generations , however , was attributed to increased interstitial cell tissue and aspermatogenesis in the high - dose males .
+In this three - generation study there was no clear evidence of teratogenicity .
+Pregnancy Category C Animal teratology studies have not been conducted with Nitroglycerin Transdermal Systems .
+Teratology studies in rats and rabbits , however , were conducted with topically applied nitroglycerin ointment at doses up to 80 mg / kg / day and 240 mg / kg / day , respectively .
+No toxic effects on dams or fetuses were seen at any dose tested .
+There are no adequate and well - controlled studies in pregnant women .
+Nitroglycerin should be given to a pregnant woman only if clearly needed .
+Nursing Mothers It is not known whether nitroglycerin is excreted in human milk .
+Because many drugs are excreted in human milk , caution should be exercised when nitroglycerin is administered to a nursing woman .
+Pediatric Use Safety and effectiveness in pediatric patients have not been established .
+Geriatric Use Clinical studies of transdermal nitroglycerin did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects .
+Additional clinical data from the published literature indicate that the elderly demonstrate increased sensitivity to nitrates , which may result in hypotension and increased risk of falling .
+In general , dose selection for an elderly patient should be cautious , usually starting at the low end of the dosing range , reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+ADVERSE REACTIONS Adverse reactions to nitroglycerin are generally dose - related , and almost all of these reactions are the result of nitroglycerin ' s activity as a vasodilator .
+Headache , which may be severe , is the most commonly reported side effect .
+Headache may be recurrent with each daily dose , especially at higher doses .
+Transient episodes of lightheadedness , occasionally related to blood pressure changes , may also occur .
+Hypotension occurs infrequently , but in some patients it may be severe enough to warrant discontinuation of therapy .
+Syncope , crescendo angina , and rebound hypertension have been reported but are uncommon .
+Allergic reactions to nitroglycerin are also uncommon , and the great majority of those reported have been cases of contact dermatitis or fixed drug eruptions in patients receiving nitroglycerin in ointments or patches .
+There have been a few reports of genuine anaphylactoid reactions , and these reactions can probably occur in patients receiving nitroglycerin by any route .
+Extremely rarely , ordinary doses of organic nitrates have caused methemoglobinemia in normal - seeming patients .
+Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred ( see OVERDOSAGE ) .
+Application - site irritation may occur but is rarely severe .
+In two placebo - controlled trials of intermittent therapy with nitroglycerin patches at 0 . 2 to 0 . 8 mg / hr , the most frequent adverse reactions among 307 subjects were as follows : Placebo Patch Headache 18 % 63 % Lightheadedness 4 % 6 % Hypotension and / or syncope 0 % 4 % Increased angina 2 % 2 % OVERDOSAGE Hemodynamic Effects The ill effects of nitroglycerin overdose are generally the result of nitroglycerin ' s capacity to induce vasodilatation , venous pooling , reduced cardiac output , and hypotension .
+These hemodynamic changes may have protean manifestations , including increased intracranial pressure , with any or all of persistent throbbing headache , confusion , and moderate fever ; vertigo ; palpitations ; visual disturbances ; nausea and vomiting ( possibly with colic and even bloody diarrhea ) ; syncope ( especially in the upright posture ) ; air hunger and dyspnea , later followed by reduced ventilatory effort ; diaphoresis , with the skin either flushed or cold and clammy ; heart block and bradycardia ; paralysis ; coma ; seizures ; and death .
+Laboratory determinations of serum levels of nitroglycerin and its metabolites are not widely available , and such determinations have , in any event , no established role in the management of nitroglycerin overdose .
+No data are available to suggest physiological maneuvers ( e . g . , maneuvers to change the pH of the urine ) that might accelerate elimination of nitroglycerin and its active metabolites .
+Similarly , it is not known which , if any , of these substances can usefully be removed from the body by hemodialysis .
+No specific antagonist to the vasodilator effects of nitroglycerin is known , and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose .
+Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia , prudent therapy in this situation should be directed toward an increase in central fluid volume .
+Passive elevation of the patient ' s legs may be sufficient , but intravenous infusion of normal saline or similar fluid may also be necessary .
+The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good .
+In patients with renal disease or congestive heart failure , therapy resulting in central volume expansion is not without hazard .
+Treatment of nitroglycerin overdose in these patients may be subtle and difficult , and invasive monitoring may be required .
+Methemoglobinemia Nitrate ions liberated during metabolism of nitroglycerin can oxidize hemoglobin into methemoglobin .
+Even in patients totally without cytochrome b5 reductase activity , however , and even assuming that the nitrate moieties of nitroglycerin are quantitatively applied to oxidation of hemoglobin , about 1 mg / kg of nitroglycerin should be required before any of these patients manifests clinically significant ( ≥ 10 % ) methemoglobinemia .
+In patients with normal reductase function , significant production of methemoglobin should require even larger doses of nitroglycerin .
+In one study in which 36 patients received 2 - 4 weeks of continuous nitroglycerin therapy at 3 . 1 to 4 . 4 mg / hr , the average methemoglobin level measured was 0 . 2 % ; this was comparable to that observed in parallel patients who received placebo .
+Notwithstanding these observations , there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates .
+None of the affected patients had been thought to be unusually susceptible .
+Methemoglobin levels are available from most clinical laboratories .
+The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO2 .
+Classically , methemoglobinemic blood is described as chocolate brown , without color change on exposure to air .
+When methemoglobinemia is diagnosed , the treatment of choice is methylene blue , 1 - 2 mg / kg intravenously .
+DOSAGE AND ADMINISTRATION The suggested starting dose is between 0 . 2 mg / hr and 0 . 4 mg / hr .
+Doses between 0 . 4 mg / hr and 0 . 8 mg / hr have shown continued effectiveness for 10 - 12 hours daily for at least one month ( the longest period studied ) of intermittent administration .
+Although the minimum nitrate - free interval has not been defined , data show that a nitrate - free interval of 10 - 12 hours is sufficient ( see CLINICAL PHARMACOLOGY ) .
+Thus , an appropriate dosing schedule for nitroglycerin patches would include a daily patch - on period of 12 - 14 hours and a daily patch - off period of 10 - 12 hours .
+Although some well - controlled clinical trials using exercise tolerance testing have shown maintenance of effectiveness when patches are worn continuously , the large majority of such controlled trials have shown the development of tolerance ( i . e . , complete loss of effect ) within the first 24 hours after therapy was initiated .
+Dose adjustment , even to levels much higher than generally used , did not restore efficacy .
+PATIENT INSTRUCTIONS FOR APPLICATION OF SYSTEM A patient information leaflet is supplied with each carton .
+HOW SUPPLIED Nitroglycerin Transdermal System 0 . 2 mg / hr is a white , translucent round patch ( registered imprint ' Nitroglycerin 0 . 2 mg / hr ' ) , supplied in a foil - lined pouch 30 Systems … … … … … … … … … ... … ..... NDC 68382 - 309 - 30 Nitroglycerin Transdermal System 0 . 4 mg / hr is a white , translucent round patch ( registered imprint ' Nitroglycerin 0 . 4 mg / hr ' ) , supplied in a foil - lined pouch 30 Systems … … … … … … … … … ... … ..... NDC 68382 - 310 - 30 Nitroglycerin Transdermal System 0 . 6 mg / hr is a white , translucent round patch ( registered imprint ' Nitroglycerin 0 . 6 mg / hr ' ) , supplied in a foil - lined pouch 30 Systems … … … … … … … … … ... … ..... NDC 68382 - 311 - 30 Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ See USP Controlled Room Temperature ] .
+Do not store unpouched .
+Apply immediately upon removal from the pouch .
+Manufactured by : Hercon Pharmaceuticals , LLC Emigsville , PA 17318 Distributed by : Zydus Pharmaceuticals ( USA ) Inc .
+Pennington , NJ 08534 1000084 Rev : 07 / 18 Information for the Patient Please read this instruction sheet carefully before using Nitroglycerin Transdermal System Nitroglycerin Transdermal System for the prevention of angina Nitroglycerin Transdermal System How to Use Nitroglycerin Transdermal System is easy to use -- it has a transparent outer backing with a special adhesive that keeps the system in place and a white , translucent protective peelable liner .
+Where to place Nitroglycerin Transdermal System Select any area of skin on the body , EXCEPT the ex tremities below the knee or elbow .
+The chest is the pre ferred site .
+The area should be clean , dry , and hairless .
+If hair is likely to interfere with system adhesion or removal , it can be clipped but not shaved .
+Take care to avoid areas with cuts or irritations .
+Do NOT apply the system immediately after showering or bathing .
+It is best to wait until you are certain the skin is completely dry .
+How to apply Nitroglycerin Transdermal System Each Nitroglycerin Transdermal System is individually sealed in a protective pouch .
+Application [ MULTIMEDIA ] • Wash hands before applying .
+• Tear or cut pouch along dotted line .
+Remove patch from the pouch .
+[ MULTIMEDIA ] • Hold patch with the printed side away from you , with the score line in an up - and - down position .
+• Bend sides of patch toward you then away from you .
+Repeat as necessary until the liner snaps down the middle .
+[ MULTIMEDIA ] • Peel off the larger part of the liner .
+[ MULTIMEDIA ] • Hold patch by the smaller part of the liner ( which is still in place ) to avoid touching the sticky side of the patch • Apply the sticky side of the patch to your skin .
+Smooth down .
+• Fold back the smaller part of the patch so that you can easily remove the remaining piece of the liner .
+[ MULTIMEDIA ] • Press the entire patch firmly in place .
+Then wash your hands with soap and water to remove any drug residue .
+When Nitroglycerin Transdermal System is applied to your body , the nitroglycerin contained in the system begins to flow onto your skin so that it is released and available for absorption through your skin at a uniform rate .
+At the time recommended by your doctor , remove and discard the system .
+Removal [ MULTIMEDIA ] • Press down on the center of the system to raise its outer edge away from the skin .
+[ MULTIMEDIA ] • Grasp the edge gently , and slowly peel the unit away from your skin .
+Wash skin area with soap and water .
+Towel dry .
+Wash hands .
+You should use a different application site every day .
+Place a new system on a different skin site , following the steps for application , according to your doctor ' s instructions .
+Please note Contact with water , as in bathing , swimming , or showering will not affect the system .
+In the unlikely event that a system falls off , discard it and put a new one on a different skin site .
+Precautions The most common side effect is headache , which often decreases as therapy is continued , but may require treatment with a mild analgesic .
+Although uncommon , faintness , flushing , and dizziness may occur , especially when suddenly rising from the recumbent ( lying horizontal ) position .
+If these symptoms occur , remove the system and notify your physician .
+Skin irritation may occur .
+If it persists , consult your physician .
+Keep these systems and all drugs out of the reach of children .
+Important Your doctor may decide to increase or decrease the size of the system , or prescribe a combination of systems , to suit your particular needs .
+The dose may vary depending on your individual response to the system .
+This system is to be used for preventing angina , not for treating an acute attack .
+Usual Dosage Each 24 hour period should include a patch - on period of 12 to 14 hours , followed by a patch - free interval .
+Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) [ See USP Controlled Room Temperature ] .
+Do not store unpouched .
+Apply immediately upon removal from the protective pouch .
+" Call your doctor for medical advice about side effects .
+You may report side effects to FDA at 1 - 800 - FDA - 1088 . "
+Manufactured by : Hercon Pharmaceuticals , LLC Emigsville , PA 17318 Distributed by : Zydus Pharmaceuticals ( USA ) Inc .
+Pennington , NJ 08534 1000085 Rev . : 07 / 18 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PACKAGE LABEL . PRINCIPAL DISPLAY PANEL NDC 68382 - 309 - 30 Nitroglycerin Transdermal System 0 . 2 mg / hr For Transdermal Use Only .
+Approximate rated release in vivo 0 . 2 mg / hr .
+Each 7 cm2 system contains 37 . 3 mg of nitroglycerin in acrylic - based polymer adhesive with a cross - linking agent .
+30 Systems Rx only zydus pharmaceuticals [ MULTIMEDIA ] NDC 68382 - 310 - 30 Nitroglycerin Transdermal System 0 . 4 mg / hr For Transdermal Use Only .
+Approximate rated release in vivo 0 . 4 mg / hr .
+Each 14 cm2 system contains 74 . 6 mg of nitroglycerin in acrylic - based polymer adhesive with a cross - linking agent .
+30 Systems Rx only zydus pharmaceuticals [ MULTIMEDIA ] NDC 68382 - 311 - 30 Nitroglycerin Transdermal System 0 . 6 mg / hr For Transdermal Use Only .
+Approximate rated release in vivo 0 . 6 mg / hr .
+Each 21 cm2 system contains 111 . 9 mg of nitroglycerin in acrylic - based polymer adhesive with a cross - linking agent .
+30 Systems Rx only zydus pharmaceuticals [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

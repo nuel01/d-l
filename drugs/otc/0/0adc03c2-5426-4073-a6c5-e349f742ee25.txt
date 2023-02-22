@@ -1,0 +1,334 @@
+WARNINGS Personnel and Equipment for Monitoring and Resuscitation Midazolam HCl syrup has been associated with respiratory depression and respiratory arrest , especially when used for sedation in noncritical care settings .
+Midazolam HCl syrup has been associated with reports of respiratory depression , airway obstruction , desaturation , hypoxia , and apnea , most often when used concomitantly with other central nervous system depressants .
+Midazolam HCl syrup should be used only in hospital or ambulatory care settings , including physicians ’ and dentists ’ offices , that can provide for continuous monitoring of respiratory and cardiac function .
+Immediate availability of resuscitative drugs and age - and size - appropriate equipment for ventilation and intubation , and personnel trained in their use and skilled in airway management should be assured ( see WARNINGS ) .
+For deeply sedated patients , a dedicated individual , other than the practitioner performing the procedure , should monitor the patient throughout the procedure .
+Risks From Concomitant Use With Opioids Concomitant use of benzodiazepines and opioids may result in profound sedation , respiratory depression , coma , and death .
+Monitor patients for respiratory depression and sedation ( see WARNINGS , PRECAUTIONS / Drug Interactions ) .
+DESCRIPTION Midazolam is a benzodiazepine available as midazolam HCl syrup for oral administration .
+Midazolam , a white to light yellow crystalline compound , is insoluble in water , but can be solubilized in aqueous solutions by formation of the hydrochloride salt in situ under acidic conditions .
+Chemically , midazolam HCl is 8 - chloro - 6 - ( 2 - fluorophenyl ) - 1 - methyl - 4 H - imidazo [ 1 , 5 - a ] [ 1 , 4 ] benzodiazepine hydrochloride .
+Midazolam hydrochloride has the molecular formula C18H13ClFN3 · HCl , a calculated molecular weight of 362 . 25 and the following structural formula : [ MULTIMEDIA ] Each mL of the syrup contains midazolam hydrochloride equivalent to 2 mg midazolam compounded with artificial bitterness modifier , citric acid anhydrous , D & C Red # 33 , edetate disodium , glycerin , mixed fruit flavor , sodium benzoate , sodium citrate , sorbitol , and water ; the pH is adjusted to 2 . 8 to 3 . 6 with hydrochloric acid .
+Under the acid ic conditions required to solubilize midazolam in the syrup , midazolam is present as an equilibrium mixture ( shown below ) of the closed ring form shown above and an open - ring structure formed by the acid - catalyzed ring opening of the 4 , 5 - double bond of the diazepine ring .
+The amount of open - ring form is dependent upon the pH of the solution .
+At the specified pH of the syrup , the solution may contain up to about 40 % of the open - ring compound .
+At the physiologic conditions under which the product is absorbed ( pH of 5 to 8 ) into the systemic circulation , any open - ring form present reverts to the physiologically active , lipophilic , closed - ring form ( midazolam ) and is absorbed as such .
+[ MULTIMEDIA ] The following chart below plots the percentage of midazolam present as the open - ring form as a function of pH in aqueous solutions .
+As indicated in the graph , the amount of open - ring compound present in solution is sensitive to changes in pH over the pH range specified for the product : 2 . 8 to 3 . 6 .
+Above pH 5 , at least 99 % of the mixture is present in the closed - ring form .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] CLINICAL PHARMACOLOGY Midazolam is a short - acting benzodiazepine central nervous system ( CNS ) depressant .
+Pharmacodynamics Pharmacodynamic properties of midazolam and its metabolites , which are similar to those of other benzodiazepines , include sedative , anxiolytic , amnesic and hypnotic activities .
+Benzodiazepine pharmacologic effects appear to result from reversible interactions with the γ - amino butyric acid ( GABA ) benzodiazepine receptor in the CNS , the major inhibitory neurotransmitter in the central nervous system .
+The action of midazolam is readily reversed by the benzodiazepine receptor antagonist , flumazenil .
+Data from published reports of studies in pediatric patients clearly demonstrate that oral midazolam provides safe and effective sedation and anxiolysis prior to surgical procedures that require anesthesia as well as before other procedures that require sedation but may not require anesthesia .
+The most commonly reported effective doses range from 0 . 25 to 1 . 0 mg / kg in children ( 6 months to < 16 years ) .
+The single most commonly reported effective dose is 0 . 5 mg / kg .
+Time to onset of effect is most frequently reported as 10 to 20 minutes .
+The effects of midazolam on the CNS are dependent on the dose administered , the route of administration , and the presence or absence of other medications .
+Following premedication with oral midazolam , time to recovery has been assessed in pediatric patients using various measures , such as time to eye opening , time to extubation , time in the recovery room , and time to discharge from the hospital .
+Most placebo - controlled trials ( 8 total ) have shown little effect of oral midazolam on recovery time from general anesthesia ; however , a number of other placebo - controlled studies ( 5 total ) have demonstrated some prolongation in recovery time following premedication with oral midazolam .
+Prolonged recovery may be related to duration of the surgical procedure and / or use of other medications with central nervous system depressant properties .
+Partial or complete impairment of recall following oral midazolam has been demonstrated in several studies .
+Amnesia for the surgical experience was greater after oral midazolam when used as a premedicant than after placebo and was generally considered a benefit .
+In one study , 69 % of midazolam patients did not remember mask application versus 6 % of placebo patients .
+Episodes of oxygen desaturation , respiratory depression , apnea , and airway obstruction have been reported in < 1 % of pediatric patients following premedication ( eg , sedation prior to induction of anesthesia ) with midazolam HCl syrup ; the potential for such adverse events are markedly increased when oral midazolam is combined with other central nervous system depressing agents and in patients with abnormal airway anatomy , patients with cyanotic congenital heart disease , or patients with sepsis or severe pulmonary disease ( see WARNINGS ) .
+Concomitant use of barbiturates or other central nervous system depressants may increase the risk of hypoventilation , airway obstruction , desaturation or apnea , and may contribute to profound and / or prolonged drug effect .
+In one study of pediatric patients undergoing elective repair of congenital cardiac defects , premedication regimens ( oral dose of 0 . 75 mg / kg midazolam or IM morphine plus scopolamine ) increased transcutaneous carbon dioxide ( PtcCO2 ) , decreased SpO2 ( as measured by pulse oximetry ) , and decreased respiratory rates preferentially in patients with pulmonary hypertension .
+This suggests that hypercarbia or hypoxia following premedication might pose a risk to children with congenital heart disease and pulmonary hypertension .
+In a study of an adult population 65 years and older , the preinduction administration of oral midazolam 7 . 5 mg resulted in a 60 % incidence of hypoxemia ( paO2 < 90 % for over 30 seconds ) at some time during the operative procedure versus 15 % for the nonpremedicated group .
+Pharmacokinetics Absorption Midazolam is rapidly absorbed after oral administration and is subject to substantial intestinal and hepatic first - pass metabolism .
+The pharmacokinetics of midazolam and its major metabolite , α - hydroxymidazolam , and the absolute bioavailability of midazolam HCl syrup were studied in pediatric patients of different ages ( 6 months to < 16 years old ) over a 0 . 25 to 1 . 0 mg / kg dose range .
+Pharmacokinetic parameters from this study are presented in Table 1 .
+The mean Tmax values across dose groups ( 0 . 25 , 0 . 5 , and 1 . 0 mg / kg ) range from 0 . 17 to 2 . 65 hours .
+Midazolam exhibits linear pharmacokinetics between oral doses of 0 . 25 to 1 . 0 mg / kg ( up to a maximum dose of 40 mg ) across the age groups ranging from 6 months to < 16 years .
+Linearity was also demonstrated across the doses within the age group of 2 years to < 12 years having 18 patients at each of the three doses .
+The absolute bioavailability of the midazolam HCl syrup in pediatric patients is about 36 % , which is not affected by pediatric age or weight .
+The AUC0 - ∞ ratio of α - hydroxymidazolam to midazolam for the oral dose in pediatric patients is higher than for an IV dose ( 0 . 38 to 0 . 75 versus 0 . 21 to 0 . 39 across the age group of 6 months to < 16 years ) , and the AUC0 - ∞ ratio of α - hydroxymidazolam to midazolam for the oral dose is higher in pediatric patients than in adults ( 0 . 38 to 0 . 75 versus 0 . 40 to 0 . 56 ) .
+Food effect has not been tested using midazolam HCl syrup .
+When a 15 mg oral tablet of midazolam was administered with food to adults , the absorption and disposition of midazolam was not affected .
+Feeding is generally contraindicated prior to sedation of pediatric patients for procedures .
+Table 1 .
+Pharmacokinetics of MidazolamFollowing Single Dose Administration of Midazolam HCl Syrup Number of Subjects / age group Dose ( mg / kg ) Tmax ( h ) Cmax ( ng / mL ) T1 / 2 ( h ) AUC0 - ∞ ( ng • h / mL ) 6 months to < 2 years old 1 0 . 25 0 . 17 28 . 0 5 . 82 67 . 6 1 0 . 50 0 . 35 66 . 0 2 . 22 152 1 1 . 00 0 . 17 61 . 2 2 . 697 224 2 to < 12 years old 18 0 . 25 0 . 72 ± 0 . 44 63 . 0 ± 30 . 0 3 . 16 ± 1 . 50 138 ± 89 . 5 18 0 . 50 0 . 95 ± 0 . 53 126 ± 75 . 8 2 . 71 ± 1 . 09 306 ± 196 18 1 . 00 0 . 88 ± 0 . 99 201 ± 101 2 . 37 ± 0 . 96 743 ± 642 12 to < 16 years old 4 0 . 25 2 . 09 ± 1 . 35 29 . 1 ± 8 . 2 6 . 83 ± 3 . 84 155 ± 84 . 6 4 0 . 50 2 . 65 ± 1 . 58 118 ± 81 . 2 4 . 35 ± 3 . 31 821 ± 568 2 1 . 00 0 . 55 ± 0 . 28 191 ± 47 . 4 2 . 51 ± 0 . 18 566 ± 15 . 7 Distribution The extent of plasma protein binding of midazolam is moderately high and concentration independent .
+In adults and pediatric patients older than 1 year , midazolam is approximately 97 % bound to plasma protein , principally albumin .
+In healthy volunteers , α - hydroxymidazolam is bound to the extent of 89 % .
+In pediatric patients ( 6 months to < 16 years ) receiving 0 . 15 mg / kg IV midazolam , the mean steady - state volume of distribution ranged from 1 . 24 to 2 . 02 L / kg .
+Metabolism Midazolam is primarily metabolized in the liver and gut by human cytochrome P450 IIIA4 ( CYP3A4 ) to its pharmacologic active metabolite , α - hydroxymidazolam , followed by glucuronidation of the α - hydroxyl metabolite which is present in unconjugated and conjugated forms in human plasma .
+The α - hydroxymidazolam glucuronide is then excreted in urine .
+In a study in which adult volunteers were administered intravenous midazolam ( 0 . 1 mg / kg ) and α - hydroxymidazolam ( 0 . 15 mg / kg ) , the pharmacodynamic parameter values of the maximum effect ( Emax ) and concentration eliciting half - maximal effect ( EC50 ) were similar for both compounds .
+The effects studied were reaction time and errors in tracing tests .
+The results indicate that α - hydroxymidazolam is equipotent and equally effective as unchanged midazolam on a total plasma concentration basis .
+After oral or intravenous administration , 63 % to 80 % of midazolam is recovered in urine as α - hydroxymidazolam glucuronide .
+No significant amount of parent drug or metabolites is extractable from urine before beta - glucuronidase and sulfatase deconjugation , indicating that the urinary metabolites are excreted mainly as conjugates .
+Midazolam is also metabolized to two other minor metabolites : 4 - hydroxy metabolite ( about 3 % of the dose ) and 1 , 4 - dihydroxy metabolite ( about 1 % of the dose ) are excreted in small amounts in the urine as conjugates .
+Elimination The mean elimination half - life of midazolam ranged from 2 . 2 to 6 . 8 hours following single oral doses of 0 . 25 , 0 . 5 , and 1 . 0 mg / kg of midazolam HCl syrup .
+Similar results ( ranged from 2 . 9 to 4 . 5 hours ) for the mean elimination half - life were observed following IV administration of 0 . 15 mg / kg of midazolam to pediatric patients ( 6 months to < 16 years old ) .
+In the same group of patients receiving the 0 . 15 mg / kg IV dose , the mean total clearance ranged from 9 . 3 to 11 . 0 mL / min / kg .
+Pharmacokinetic - Pharmacodynamic Relationships The relationship between plasma concentration and sedation and anxiolysis scores of midazolam syrup ( single oral doses of 0 . 25 , 0 . 5 , or 1 . 0 mg / kg ) was investigated in three age groups of pediatric patients ( 6 months to < 2 years , 2 to < 12 years , and 12 to < 16 years old ) .
+In this study , the patient ’ s sedation scores were recorded at baseline and at 10 - minute intervals up to 30 minutes after oral dosing until satisfactory sedation ( “ drowsy ” or “ asleep but responsive to mild shaking ” or “ asleep and not responsive to mild shaking ” ) was achieved .
+Anxiolysis scores were measured at the time when the patient was separated from his / her parents and at mask induction .
+The results of the analyses showed that the mean midazolam plasma concentration as well as the mean of midazolam plus α - hydroxymidazolam for those patients with a sedation score of 4 ( asleep but responsive to mild shaking ) is significantly different than the mean concentrations for those patients with a sedation score of 3 ( drowsy ) , which is significantly different than the mean concentrations for patients with a sedation score of 2 ( awake / calm ) .
+The statistical analysis indicates that the greater the midazolam , or midazolam plus α - hydroxymidazolam concentration , the greater the maximum sedation score for pediatric patients .
+No such trend was observed between anxiolysis scores and the mean midazolam concentration or mean of midazolam plus α - hydroxymidazolam concentration , however , anxiolysis is a more variable surrogate measurement of clinical response .
+Special Populations Renal Impairment Although the pharmacokinetics of intravenous midazolam in adult patients with chronic renal failure differed from those of subjects with normal renal function , there were no alterations in the distribution , elimination , or clearance of unbound drug in the renal failure patients .
+However , the effects of renal impairment on the active metabolite α - hydroxymidazolam are unknown .
+Hepatic Impairment Chronic hepatic disease alters the pharmacokinetics of midazolam .
+Following oral administration of 15 mg of midazolam , Cmax and bioavailability values were 43 % and 100 % higher , respectively , in adult patients with hepatic cirrhosis than adult subjects with normal liver function .
+In the same patients with hepatic cirrhosis , following IV administration of 7 . 5 mg of midazolam , the clearance of midazolam was reduced by about 40 % and the elimination half - life was increased by about 90 % compared with subjects with normal liver function .
+Midazolam should be titrated for the desired effect in patients with chronic hepatic disease .
+Congestive Heart Failure Following oral administration of 7 . 5 mg of midazolam , elimination half - life values were 43 % higher in adult patients with congestive heart failure than in control subjects .
+Neonates Midazolam HCl syrup has not been studied in pediatric patients less than 6 months of age .
+Drug - Drug Interactions See PRECAUTIONS : Drug Interactions .
+Inhibitors of CYP3A4 Isozymes Table 2 summarizes the changes in the Cmax and AUC of midazolam when drugs known to inhibit CYP3A4 were concurrently administered with oral midazolam in adult subjects .
+Table 2 Interacting Drug Adult Doses Studied % Increase in Cmax of Oral Midazolam % Increase in AUC of Oral Midazolam Cimetidine 800 - 1200 mg up to 4 times a day in divided doses 6 - 138 10 - 102 Diltiazem 60 mg three times a day 105 175 Erythromycin 500 mg three times a day 170 - 171 281 - 341 Fluconazole 200 mg daily 150 250 Grapefruit Juice 200 mL 56 52 Itraconazole 100 - 200 mg daily 80 - 240 240 - 980 Ketoconazole 400 mg daily 309 1490 Ranitidine 150 mg two or three times a day ; 300 mg daily 15 - 67 9 - 66 Roxithromycin 300 mg daily 37 47 Saquinavir 1200 mg three times a day 235 514 Verapamil 80 mg three times a day 97 192 Other drugs known to inhibit the effects of CYP3A4 , such as protease inhibitors , would be expected to have similar effects on these midazolam pharmacokinetic parameters .
+Inducers of CYP3A4 Isozymes Table 3 summarizes the changes in the Cmax and AUC of midazolam when drugs known to induce CYP3A4 were concurrently administered with oral midazolam in adult subjects .
+The clinical significance of these changes is unclear .
+Table 3 Interacting Drug Adult Doses Studied % Decrease in Cmax of Oral Midazolam % Decrease in AUC of Oral Midazolam Carbamazepine Therapeutic Doses 93 94 Phenytoin Therapeutic Doses 93 94 Rifampin 600 mg / day 94 96 Although not tested , phenobarbital , rifabutin and other drugs known to induce the effects of CYP3A4 would be expected to have similar effects on these midazolam pharmacokinetic parameters .
+Drugs that did not affect midazolam pharmacokinetics are presented in Table 4 .
+Table 4 Interacting Drug Adult Doses Studied Azithromycin 500 mg / day Nitrendipine 20 mg Terbinafine 200 mg / day Clinical Trials Dose Ranging , Safety and Efficacy Study with Midazolam HCl Syrup in Pediatric Patients The effectiveness of midazolam HCl syrup as a premedicant to sedate and calm pediatric patients prior to induction of general anesthesia was compared among three different doses in a randomized , double - blind , parallel - group study .
+Patients of ASA physical status I , II or III were stratified to 1 of 3 age groups ( 6 months to < 2 years , 2 to < 6 years , and 6 to < 16 years ) , and within each age group randomized to 1 of 3 dosing groups ( 0 . 25 , 0 . 5 , and 1 . 0 mg / kg up to a maximum dose of 20 mg ) .
+Greater than 90 % of treated patients achieved satisfactory sedation and anxiolysis at least one timepoint within 30 minutes posttreatment .
+Similarly high proportions of patients exhibited satisfactory ease of separation from parent or guardian and were cooperative at the time of mask induction with nitrous oxide and halothane administration .
+Onset time of satisfactory sedation or anxiolysis occurred within 10 minutes after treatment for > 70 % of patients who started with an unsatisfactory baseline rating .
+Whereas pairwise comparisons ( 0 . 25 mg / kg versus 0 . 5 mg / kg groups , and 0 . 5 mg / kg versus 1 . 0 mg / kg groups ) on satisfactory sedation did not yield significant p - values ( p = 0 . 08 in both cases ) , comparative analysis of the clinical response between the high and low doses demonstrated that a higher proportion of patients in the 1 . 0 mg / kg dose group exhibited satisfactory sedation and anxiolysis as compared to the 0 . 25 mg / kg group ( p < 0 . 05 ) .
+INDICATIONS AND USAGE Midazolam HCl Syrup is indicated for use in pediatric patients for sedation , anxiolysis and amnesia prior to diagnostic , therapeutic or endoscopic procedures or before induction of anesthesia .
+Midazolam HCl syrup is intended for use in monitored settings only and not for chronic or home use ( see WARNINGS ) .
+CONTRAINDICATIONS Midazolam is contraindicated in patients with a known hypersensitivity to the drug or allergies to formulation excipients .
+Benzodiazepines are contraindicated in patients with acute narrow - angle glaucoma .
+Benzodiazepines may be used in patients with open - angle glaucoma only if they are receiving appropriate therapy .
+Measurements of intraocular pressure in patients without eye disease show a moderate lowering following induction of general anesthesia with injectable midazolam ; patients with glaucoma have not been studied .
+WARNINGS Personnel and Equipment for Monitoring and Resuscitation Midazolam HCl syrup should be used only in hospital or ambulatory care settings , including physicians ’ and dentists ’ offices , that are equipped to provide continuous monitoring of respiratory and cardiac function .
+Midazolam HCl syrup must only be administered to patients if they will be monitored by direct visual observation by a health care professional .
+If midazolam HCl syrup will be administered in combination with other anesthetic drugs or drugs which depress the central nervous system , patients must be monitored by persons specifically trained in the use of these drugs and , in particular , in the management of respiratory effects of these drugs , including respiratory and cardiac resuscitation of patients in the age group being treated .
+For deeply sedated patients , a dedicated individual whose sole responsibility is to observe the patient , other than the practitioner performing the procedure , should monitor the patient throughout the procedure .
+Patients should be continuously monitored for early signs of hypoventilation , airway obstruction , or apnea with means for detection readily available ( eg , pulse oximetry ) .
+Hypoventilation , airway obstruction , and apnea can lead to hypoxia and / or cardiac arrest unless effective countermeasures are taken immediately .
+The immediate availability of specific reversal agents ( flumazenil ) is highly recommended .
+Vital signs should continue to be monitored during the recovery period .
+Because midazolam can depress respiration ( see CLINICAL PHARMACOLOGY ) , especially when used concomitantly with opioid agonists and other sedatives ( see DOSAGE AND ADMINISTRATION ) , it should be used for sedation / anxiolysis / amnesia only in the presence of personnel skilled in early detection of hypoventilation , maintaining a patent airway , and supporting ventilation .
+Episodes of oxygen desaturation , respiratory depression , apnea , and airway obstruction have been occasionally reported following premedication ( sedation prior to induction of anesthesia ) with oral midazolam ; such events are markedly increased when oral midazolam is combined with other central nervous system depressing agents and in patients with abnormal airway anatomy , patients with cyanotic congenital heart disease , or patients with sepsis or severe pulmonary disease .
+Risks From Concomitant Use With Opioids Concomitant use of benzodiazepines , including midazolam , and opioids may result in profound sedation , respiratory depression , coma , and death .
+If a decision is made to use midazolam concomitantly with opioids , monitor patients for respiratory depression and sedation ( see PRECAUTIONS / Drug Interactions ) .
+Risk of Respiratory Adverse Events Serious respiratory adverse events have occurred after administration of oral midazolam , most often when midazolam was used in combination with other central nervous system depressants .
+These adverse events have included respiratory depression , airway obstruction , oxygen desaturation , apnea , and rarely , respiratory and / or cardiac arrest ( see BOX WARNING ) .
+When oral midazolam is administered as the sole agent at recommended doses respiratory depression , airway obstruction , oxygen desaturation , and apnea occur infrequently ( see DOSAGE AND ADMINISTRATION ) .
+Prior to the administration of midazolam in any dose , the immediate availability of oxygen , resuscitative drugs , age - and size - appropriate equipment for bag / valve / mask ventilation and intubation , and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured .
+Individualization of Dosage Midazolam HCl syrup must never be used without individualization of dosage , particularly when used with other medications capable of producing central nervous system depression .
+See DOSAGE AND ADMINISTRATION for complete information .
+Other Adverse Events Reactions such as agitation , involuntary movements ( including tonic / clonic movements and muscle tremor ) , hyperactivity and combativeness have been reported in both adult and pediatric patients .
+Consideration should be given to the possibility of paradoxical reaction .
+Should such reactions occur , the response to each dose of midazolam and all other drugs , including local anesthetics , should be evaluated before proceeding .
+Reversal of such responses with flumazenil has been reported in pediatric and adult patients .
+Concomitant Use of Central Nervous System Depressants Concomitant use of barbiturates , alcohol or other central nervous system depressants may increase the risk of hypoventilation , airway obstruction , desaturation , or apnea and may contribute to profound and / or prolonged drug effect .
+Narcotic premedication also depresses the ventilatory response to carbon dioxide stimulation .
+Drug - Drug - Interactions Coadministration of oral midazolam in patients who are taking ketoconazole and intraconazole , and saquinavir has been shown to result in large increases in Cmax and AUC of midazolam due to a decrease in plasma clearance of midazolam ( see CLINICAL PHARMACOLOGY : Pharmacokinetics : Special Populations : Drug - Drug Interactions and PRECAUTIONS ) .
+Due to the potential for intense and prolonged sedation and respiratory depression , midazolam syrup should only be coadministered with these medications if absolutely necessary and with appropriate equipment and personnel available to respond to respiratory insufficiency .
+Debilitation and Comorbidity Considerations Higher risk pediatric surgical patients may require lower doses , whether or not concomitant sedating medications have been administered .
+Pediatric patients with cardiac or respiratory compromise may be unusually sensitive to the respiratory depressant effect of midazolam .
+Pediatric patients undergoing procedures involving the upper airway such as upper endoscopy or dental care , are particularly vulnerable to episodes of desaturation and hypoventilation due to partial airway obstruction .
+Patients with chronic renal failure and patients with congestive heart failure eliminate midazolam more slowly ( see CLINICAL PHARMACOLOGY ) .
+Return to Full Cognitive Function Midazolam is associated with a high incidence of partial or complete impairment of recall for the next several hours .
+The decision as to when patients who have received midazolam HCl syrup , particularly on an outpatient basis , may again engage in activities requiring complete mental alertness , operate hazardous machinery or drive a motor vehicle must be individualized .
+Gross tests of recovery from the effects of midazolam HCl syrup ( see CLINICAL PHARMACOLOGY ) cannot be relied upon to predict reaction time under stress .
+It is recommended that no patient operate hazardous machinery or a motor vehicle until the effects of the drug , such as drowsiness , have subsided or until one full day after anesthesia and surgery , whichever is longer .
+Particular care should be taken to assure safe ambulation .
+Usage in Pregnancy Although midazolam HCl syrup has not been studied in pregnant patients , an increased risk of congenital malformations associated with the use of benzodiazepine drugs ( diazepam and chlordiazepoxide ) have been suggested in several studies .
+If this drug is used during pregnancy , the patient should be apprised of the potential hazard to the fetus .
+Usage in Preterm Infants and Neonates Midazolam HCl syrup has not been studied in patients less than 6 months of age .
+Pediatric Neurotoxicity Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and / or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long - term cognitive deficits when used for longer than 3 hours .
+The clinical significance of these findings is not clear .
+However , based on the available data , the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life , but may extend out to approximately three years of age in humans ( See PRECAUTIONS / Pregnancy and Pediatric Use , and ANIMAL TOXICOLOGY AND / OR PHARMACOLOGY ) .
+Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects .
+These studies have substantial limitations , and it is not clear if the observed effects are due to the anesthetic / sedation drug administration or other factors such as the surgery or underlying illness .
+Anesthetic and sedation drugs are a necessary part of the care of children needing surgery , other procedures , or tests that cannot be delayed , and no specific medications have been shown to be safer than any other .
+Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks .
+PRECAUTIONS General The efficacy and safety of midazolam in clinical use are functions of the dose administered , the clinical status of the individual patient , and the use of concomitant medications capable of depressing the CNS .
+Anticipated effects may range from mild sedation to deep levels of sedation with a potential loss of protective reflexes , particularly when coadministered with anesthetic agents or other CNS depressants .
+Care must be taken to individualize the dose of midazolam based on the patient ’ s age , underlying medical / surgical conditions , concomitant medications , and to have the personnel , age - and size - appropriate equipment and facilities available for monitoring and intervention .
+Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects , particularly skills in airway management .
+Information for Patients To assure safe and effective use of midazolam HCl syrup , the following information and instructions should be communicated to the patient when appropriate : • 1 .
+Inform your physician about any alcohol consumption and medicine you are now taking , especially blood pressure medication , antibiotics , and protease inhibitors , including drugs you buy without a prescription .
+Alcohol has an increased effect when consumed with benzodiazepines ; therefore , caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment .
+• 2 .
+Inform your physician if you are pregnant or are planning to become pregnant .
+• 3 .
+Inform your physician if you are nursing .
+• 4 .
+Patients should be informed of the pharmacological effects of midazolam HCl syrup , such as sedation and amnesia , which in some patients may be profound .
+The decision as to when patients who have received midazolam HCl syrup , particularly on an outpatient basis , may again engage in activities requiring complete mental alertness , operate hazardous machinery or drive a motor vehicle must be individualized .
+• 5 .
+Midazolam HCl syrup should not be taken in conjunction with grapefruit juice .
+• 6 .
+For pediatric patients , particular care should be taken to assure safe ambulation .
+• 7 .
+Effect of anesthetic and sedation drugs on early brain development : Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains .
+Discuss with parents and caregivers the benefits , risks , and timing and duration of surgery or procedures requiring anesthetic and sedation drugs .
+Drug Interactions Effect of Concomitant Use of Benzodiazepines and Opioids The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration .
+Benzodiazepines interact at GABAA sites , and opioids interact primarily at mu receptors .
+When benzodiazepines and opioids are combined , the potential for benzodiazepines to significantly worsen opioid - related respiratory depression exists .
+Monitor patients closely for respiratory depression and sedation .
+Other CNS Depressants One case was reported of inadequate sedation with chloral hydrate and later with oral midazolam due to a possible interaction with methylphenidate administered chronically in a 2 - year - old boy with a history of Williams syndrome .
+The difficulty in achieving adequate sedation may have been the result of decreased absorption of the sedatives due to both the gastrointestinal effects and stimulant effects of methylphenidate .
+The sedative effect of midazolam HCl syrup is accentuated by any concomitantly administered medication which depresses the central nervous system , particularly opioids ( e . g . , morphine , meperidine , and fentanyl ) , propofol , ketamine , nitrous oxide , secobarbital and droperidol .
+Consequently , the dose of midazolam HCl syrup should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response ( see DOSAGE AND ADMINISTRATION ) .
+No significant adverse interactions with common premedications ( such as atropine , scopolamine , glycopyrrolate , diazepam , hydroxyzine , and other muscle relaxants ) or local anesthetics have been observed .
+Inhibitors of CYP3A4 Isozymes Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the cytochrome P450 3A4 enzyme system ( ie , some drugs in the drug classes of azole antimycotics , protease inhibitors , calcium channel antagonists , and macrolide antibiotics ) .
+Drugs such as diltiazem , erythromycin , fluconazole , itraconazole , ketoconazole , saquinavir , and verapamil were shown to significantly increase the Cmax and AUC of orally administered midazolam .
+These drug interactions may result in increased and prolonged sedation due to a decrease in plasma clearance of midazolam .
+Although not studied , the potent cytochrome P450 3A4 inhibitors ritanovir and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of midazolam .
+Caution is advised when midazolam HCl syrup is used concomitantly with these drugs .
+Dose adjustments should be considered and possible prolongation and intensity of effect should be anticipated ( see CLINICAL PHARMACOLOGY : Pharmacokinetics : Special Populations : Drug - Drug Interactions ) .
+Inducers of CYP3A4 Isozymes Cytochrome P450 inducers , such as rifampin , carbamazepine , and phenytoin , induce metabolism and cause a markedly decreased Cmax and AUC of oral midazolam in adult studies .
+Although clinical studies have not been performed , phenobarbital is expected to have the same effect .
+Caution is advised when administering midazolam HCl syrup to patients receiving these medications and if necessary dose adjustments should be considered .
+Drug / Laboratory Test Interactions Midazolam has not been shown to interfere with results obtained in clinical laboratory tests .
+Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Midazolam maleate was administered with diet in mice and rats for 2 years at dosages of 1 , 9 , and 80 mg / kg / day .
+In female mice in the highest dose ( 10 times the highest oral dose of 1 . 0 mg / kg for a pediatric patient , on a mg / m2 basis ) group there was a marked increase in the incidence of hepatic tumors .
+In high - dose ( 19 times the pediatric dose ) male rats there was a small but statistically significant increase in benign thyroid follicular cell tumors .
+Dosages of 9 mg / kg / day of midazolam maleate ( 1 to 2 times the pediatric dose ) did not increase the incidence of tumors in mice or rats .
+The pathogenesis of induction of these tumors is not known .
+These tumors were found after chronic administration , whereas human use will ordinarily be single or intermittent doses .
+Mutagenesis Midazolam did not have mutagenic activity in Salmonella typhimurium ( 5 bacterial strains ) , Chinese hamster lung cells ( V79 ) , human lymphocytes or in the micronucleus test in mice .
+Impairment of Fertility Male rats were treated orally with 1 , 4 , or 16 mg / kg midazolam ( 0 . 2 , 0 . 6 , and 2 . 6 times the dose of 1 mg / kg based on body surface area ) beginning 62 days prior to mating with female rats treated with the same doses for 14 days prior to mating to Gestation Day 13 or Lactation Day 21 .
+There were no adverse effects on either male or female fertility noted .
+Pregnancy Teratogenic Effects Pregnancy Category D ( see WARNINGS ) .
+Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and / or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours .
+There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans ( see Data ) .
+Data Animal Data Pregnant mice were treated with midazolam using oral doses of 30 , 60 , and 120 mg / kg ( 2 . 4 , 4 . 9 , and 9 . 7 times the human dose of 1 mg / kg based on body surface area ) during the period of organogenesis ( Gestation Day 6 through 15 ) .
+Midazolam did not cause adverse effects on the fetus at doses up to 9 . 7 times the human dose of 1 mg / kg ) .
+In dams allowed to litter , there were no adverse effects on pup survival or growth .
+Pregnant rats were treated with midazolam using intravenous doses of 0 . 2 , 1 , and 4 mg / kg / day ( 0 . 09 , 0 . 46 , and 1 . 85 times the human induction dose of 0 . 35 mg / kg based on body surface area comparisons ) during the period of organogenesis ( Gestation Day 7 through 15 ) .
+Midazolam did not cause adverse effects to the fetus at doses of up to 1 . 85 times the human induction dose .
+All doses produced slight to moderate ataxia .
+The high dose produced a 5 % decrease in maternal body weight gain compared to control .
+Pregnant rabbits were treated with midazolam using intravenous doses of 0 . 2 , 0 . 6 , and 2 mg / kg / day ( 0 . 09 , 0 . 46 , and 1 . 85 times the human induction dose of 0 . 35 mg / kg based on body surface area comparisons ) during the period of organogenesis ( Gestation Day 7 to 18 ) .
+Midazolam did not cause adverse effects to the fetus at doses of up to 1 . 85 times the human induction dose .
+The high dose was associated with findings of ataxia and sedation but no evidence of maternal toxicity .
+Pregnant rabbits were treated with midazolam using oral doses of 25 , 50 , and 100 mg / kg / day ( 8 , 16 , and 32 times the human dose of 1 . 0 mg / kg based on body surface area comparisons ) during the period of organogenesis ( Gestation Day 6 to 18 ) .
+Midazolam decreased fetal body weight and decreased maternal weight gain in a dose dependent manner .
+Pregnant rats were administered midazolam using intravenous doses of 0 . 2 , 1 , and 4 mg / kg / day ( 0 . 09 , 0 . 46 , and 1 . 85 times the human induction dose of 0 . 35 mg / kg based on body surface area comparisons ) during late gestation and through lactation ( Gestation Day 15 through Lactation Day 21 ) .
+All doses produced ataxia .
+The high dose produced a slight decrease in maternal body weight gain compared to control .
+There were no clear adverse effects noted in the offspring .
+The study included no functional assessments of the pups , such as learning and memory testing or reproductive capacity .
+Pregnant rats were administered midazolam using oral doses of 10 , 25 , and 50 mg / kg ( 1 . 6 , 4 . 1 , and 8 . 1 times the human dose of 1 mg / kg based on body surface area comparisons ) during late gestation and through lactation ( Gestation Day 15 through Lactation Day 20 ) .
+No adverse effects on fetal development or pup viability or growth were noted .
+In a published study in primates , administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus .
+In other published studies , administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring .
+With respect to brain development , this time period corresponds to the third trimester of gestation in the human .
+The clinical significance of these findings is not clear ; however , studies in juvenile animals suggest neuroapoptosis correlates with long - term cognitive deficits ( See Warnings / Pediatric Neurotoxicity , Precautions / Pediatric Use , and Animal Pharmacology and / or Toxicology ) .
+Labor and Delivery In humans , measurable levels of midazolam were found in maternal venous serum , umbilical venous and arterial serum and amniotic fluid , indicating placental transfer of the drug .
+The use of midazolam HCl syrup in obstetrics has not been evaluated in clinical studies .
+Because midazolam is transferred transplacentally and because other benzodiazepines given in the last weeks of pregnancy have resulted in neonatal CNS depression , midazolam syrup is not recommended for obstetrical use .
+Nursing Mothers Midazolam is excreted in human milk .
+Caution should be exercised when midazolam syrup is administered to a nursing woman .
+Pediatric Use Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs , such as Midazolam Hydrochloride Syrup 2 mg / mL , that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis , results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis .
+Based on comparisons across species , the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life , but may extend out to approximately 3 years of age in humans .
+In primates , exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss , however , treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss .
+Data from isoflurane - treated rodents and ketamine - treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory .
+The clinical significance of these nonclinical findings is not known , and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women , neonates , and young children who require procedures with the potential risks suggested by the nonclinical data .
+( See WARNINGS / Pediatric Neurotoxicity , PRECAUTIONS / Pregnancy , and Pediatric Use , ANIMAL PHARMACOLOGY AND / OR TOXICOLOGY ) .
+Geriatric Use The safety and efficacy of this product have not been fully studied in geriatric patients .
+Therefore , there are no available data on a safe dosing regimen .
+One study in geriatric subjects , using midazolam 7 . 5 mg as a premedicant prior to general anesthesia , noted a 60 % incidence of hypoxemia ( pO2 < 90 % for over 30 seconds ) at sometime during the operative procedure versus 15 % for the nonpremedicated group .
+Until further information is available it is recommended that this product should not be used in geriatric patients .
+Use in Patients With Heart Disease Following oral administration of 7 . 5 mg of midazolam to adult patients with congestive heart failure , the half - life of midazolam was 43 % higher than in control subjects .
+One study suggests that hypercarbia or hypoxia following premedication with oral midazolam might pose a risk to children with congenital heart disease and pulmonary hypertension , although there are no known reports of pulmonary hypertensive crisis that had been triggered by premedication .
+In the study , 22 children were premedicated with oral midazolam ( 0 . 75 mg / kg ) or IM morphine plus scopolamine prior to elective repair of congenital cardiac defects .
+Both premedication regimens increased PtcCO2 and decreased SpO2 and respiratory rates preferentially in patients with pulmonary hypertension .
+ADVERSE REACTIONS The distribution of adverse events occurring in patients evaluated in a randomized , double - blind , parallel - group trial are presented in Tables 5 and 6 by body system in order of decreasing frequency : for the premedication period ( eg , sedation period prior to induction of anesthesia ) alone , see Table 5 ; for over the entire monitoring period including premedication , anesthesia and recovery , see Table 6 .
+The distribution of adverse events occurring during the premedication period , before induction of anesthesia , is presented in Table 5 .
+Emesis , which occurred in 31 / 397 ( 8 % ) patients over the entire monitoring period , occurred in 3 / 397 ( 0 . 8 % ) of patients during the premedication period ( from midazolam administration to mask induction ) .
+Nausea , which occurred in 14 / 397 ( 4 % ) patients over the entire monitoring period ( premedication , anesthesia and recovery ) , occurred in 2 / 397 ( 0 . 5 % ) patients during the premedication period .
+This distribution of all adverse events occurring in ≥ 1 % of patients over the entire monitoring period are presented in Table 6 .
+For the entire monitoring period ( premedication , anesthesia and recovery ) , adverse events were reported by 82 / 397 ( 21 % ) patients who received midazolam overall .
+The most frequently reported adverse events were emesis occurring in 31 / 397 ( 8 % ) patients and nausea occurring in 14 / 397 ( 4 % ) patients .
+Most of these gastrointestinal events occurred after the administration of other anesthetic agents .
+For the respiratory system overall , adverse events ( hypoxia , laryngospasm , rhonchi , coughing , respiratory depression , airway obstruction , upper - airway congestion , shallow respirations ) , occurred during the entire monitoring period in 31 / 397 ( 8 % ) patients and increased in frequency as dosage was increased : 7 / 132 ( 5 % ) patients in the 0 . 25 mg / kg dose group , 9 / 132 ( 7 % ) patients in the 0 . 5 mg / kg dose group , and 15 / 133 ( 11 % ) patients in the 1 . 0 mg / kg dose group .
+Most of the respiratory adverse events occurred during induction , general anesthesia or recovery .
+One patient ( 0 . 25 % ) experienced a respiratory system adverse event ( laryngospasm ) during the premedication period .
+This adverse event occurred precisely at the time of induction .
+Although many of the respiratory complications occurred in settings of upper airway procedures or concurrently administered opioids , a number of these events occurred outside of these settings as well .
+In this study , administration of midazolam HCl syrup was generally accompanied by a slight decrease in both systolic and diastolic blood pressures , as well as a slight increase in heart rate .
+Table 5 : Adverse Events Occurring During the Premedication Period Before Mask Induction in the Randomized , Double - Blind , Parallel - Group Trial Body System Treatment Regimen Overall No .
+Patients with Adverse Events 0 . 25 mg / kg ( n = 132 ) 0 . 50 mg / kg ( n = 132 ) 1 . 0 mg / kg ( n = 133 ) ( n = 397 ) No .
+( % ) No .
+( % ) No .
+( % ) No .
+( % ) Gastrointestinal System Disorders Emesis 1 ( 0 . 76 % ) 1 ( 0 . 76 % ) 1 ( 0 . 75 % ) 3 ( 0 . 76 % ) Nausea 2 ( 1 . 5 % ) 2 ( 0 . 50 % ) Respiratory System Disorders Laryngospasm 1 * ( 0 . 75 % ) 1 ( 0 . 25 % ) Sneezing / Rhinorrhea 1 ( 0 . 75 % ) 1 ( 0 . 25 % ) ALL BODY SYSTEMS 1 ( 0 . 76 % ) 1 ( 0 . 76 % ) 5 ( 3 . 8 % ) 7 ( 1 . 8 % ) * This adverse event occurred precisely at the time of induction .
+Table 6 : Adverse Events ( ≥ 1 % ) From the Randomized , Double - Blind , Parallel - Group Trial on Entire Monitoring Period ( premedication , anesthesia , recovery ) Body System Treatment Regimen Overall No .
+Patients with Adverse Events 0 . 25 mg / kg ( n = 132 ) 0 . 50 mg / kg ( n = 132 ) 1 . 0 mg / kg ( n = 133 ) ( n = 397 ) No .
+( % ) No .
+( % ) No .
+( % ) No .
+( % ) Gastrointestinal System Disorders Emesis 11 ( 8 % ) 5 ( 4 % ) 15 ( 11 % ) 31 ( 8 % ) Nausea 6 ( 5 % ) 2 ( 2 % ) 6 ( 5 % ) 14 ( 4 % ) Overall 16 ( 12 % ) 8 ( 6 % ) 16 ( 12 % ) 40 ( 10 % ) Respiratory System Disorders Hypoxia 0 5 ( 4 % ) 4 ( 3 % ) 9 ( 2 % ) Laryngospasm 0 1 ( < 1 % ) 5 ( 4 % ) 6 ( 2 % ) Respiratory Depression 2 ( 2 % ) 1 ( < 1 % ) 2 ( 2 % ) 5 ( 1 % ) Rhonchi 2 ( 2 % ) 1 ( < 1 % ) 2 ( 2 % ) 5 ( 1 % ) Airway Obstruction 2 ( 2 % ) 2 ( 2 % ) 0 4 ( 1 % ) Upper Airway Congestion 2 ( 2 % ) 0 2 ( 2 % ) 4 ( 1 % ) Overall 7 ( 5 % ) 9 ( 7 % ) 15 ( 11 % ) 31 ( 8 % ) Psychiatric Disorders Agitated 1 ( < 1 % ) 2 ( 2 % ) 3 ( 2 % ) 6 ( 2 % ) Overall 1 ( < 1 % ) 3 ( 2 % ) 4 ( 3 % ) 8 ( 2 % ) Heart Rate , Rhythm Disorders Bradycardia 1 ( < 1 % ) 3 ( 2 % ) 0 4 ( 1 % ) Bigeminy 2 ( 2 % ) 0 0 2 ( < 1 % ) Overall 3 ( 2 % ) 3 ( 2 % ) 1 ( < 1 % ) 7 ( 2 % ) Central & Peripheral Nervous System Disorders Prolonged Sedation 0 0 2 ( 2 % ) 2 ( < 1 % ) Overall 2 ( 2 % ) 0 3 ( 2 % ) 5 ( 1 % ) Skin and Appendages Disorders Rash 2 ( 2 % ) 0 0 2 ( < 1 % ) Overall 2 ( 2 % ) 2 ( 2 % ) 0 4 ( 1 % ) ALL BODY SYSTEMS 26 ( 20 % ) 23 ( 17 % ) 33 ( 25 % ) 82 ( 21 % ) There were no deaths during the study and no patient withdrew from the study due to adverse events .
+Serious adverse events ( both respiratory disorders ) were experienced postoperatively by two patients : one case of airway obstruction and desaturation ( SpO2 of 33 % ) in a patient given midazolam HCl syrup 0 . 25 mg / kg , and one case of upper airway obstruction and respiratory depression following 0 . 5 mg / kg .
+Both patients had received intravenous morphine sulfate ( 1 . 5 mg total for both patients ) .
+Other adverse events that have been reported in the literature with the oral administration of midazolam ( not necessarily midazolam syrup ) , are listed below .
+The incidence rate for these events was generally < 1 % .
+Respiratory : apnea , hypercarbia , desaturation , stridor .
+Cardiovascular : decreased systolic and diastolic blood pressure , increased heart rate .
+Gastrointestinal : nausea , vomiting , hiccoughs , gagging , salivation , drooling .
+Central Nervous System : dysphoria , disinhibition , excitation , aggression , mood swings , hallucinations , adverse behavior , agitation , dizziness , confusion , ataxia , vertigo , dysarthria .
+Special Senses : diplopia , strabismus , loss of balance , blurred vision .
+DRUG ABUSE AND DEPENDENCE Midazolam HCl syrup is a benzodiazepine and is a Schedule IV controlled substance that can produce drug dependence of the diazepam - type .
+Therefore , midazolam HCl syrup may be subject to misuse , abuse and addiction .
+Benzodiazepines can cause physical dependence .
+Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug .
+Withdrawal symptoms ( ie , convulsions , hallucinations , tremors , abdominal and muscle cramps , vomiting and sweating ) , similar in characteristics to those noted with barbiturates and alcohol have occurred following abrupt discontinuation of midazolam following chronic administration .
+Abdominal distention , nausea , vomiting , and tachycardia are prominent symptoms of withdrawal in infants .
+The handling of midazolam HCL syrup should be managed to minimize the risk of diversion , including restriction of access and accounting procedures as appropriate to the clinical setting and as required by law .
+OVERDOSAGE Symptoms The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines , including sedation , somnolence , confusion , impaired coordination , diminished reflexes , coma , and deleterious effects on vital signs .
+No evidence of specific organ toxicity from midazolam overdosage has been reported .
+Treatment Treatment of midazolam overdosage is the same as that followed for overdosage with other benzodiazepines .
+Respiration , pulse rate and blood pressure should be monitored and general supportive measures should be employed .
+Attention should be given to the maintenance of a patent airway and support of ventilation , including administration of oxygen .
+Should hypotension develop , treatment may include intravenous fluid therapy , repositioning , judicious use of vasopressors appropriate to the clinical situation , if indicated , and other appropriate countermeasures .
+There is no information as to whether peritoneal dialysis , forced diuresis or hemodialysis are of any value in the treatment of midazolam overdosage .
+Gastrointestinal decontamination with lavage and / or activated charcoal once the patient ’ s airway is secure is also recommended .
+Flumazenil , a specific benzodiazepine - receptor antagonist , is indicated for the complete or partial reversal of the sedative effects of midazolam and may be used in situations when an overdose with a benzodiazepine is known or suspected .
+There are anecdotal reports of adverse hemodynamic responses associated with midazolam following administration of flumazenil to pediatric patients .
+Prior to the administration of flumazenil , necessary measures should be instituted to secure the airway , assure adequate ventilation , and establish adequate intravenous access .
+Flumazenil is intended as an adjunct to , not as a substitute for , proper management of benzodiazepine overdose .
+Patients treated with flumazenil should be monitored for resedation , respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment .
+The prescriber should be aware of a risk of seizure in association with flumazenil treatment , particularly in long - term benzodiazepine users and in cyclic antidepressant overdose .
+The complete flumazenil package insert , including CONTRAINDICATIONS , WARNINGS and PRECAUTIONS , should be consulted prior to use .
+DOSAGE AND ADMINISTRATION Midazolam HCl syrup is indicated for use as a single dose ( 0 . 25 to 1 . 0 mg / kg with a maximum dose of 20 mg ) for preprocedural sedation and anxiolysis in pediatric patients .
+Midazolam HCl syrup is not intended for chronic administration .
+Monitoring Midazolam HCl syrup should only be used in hospital or ambulatory care settings , including physicians ’ and dentists ’ offices , that can provide for continuous monitoring of respiratory and cardiac function .
+Immediate availability of resuscitative drugs and age - and size - appropriate equipment for bag / valve / mask ventilation and intubation , and personnel trained in their use and skilled in airway management should be assured ( see WARNINGS ) .
+For deeply sedated patients , a dedicated individual whose sole responsibility it is to observe the patient , other than the practitioner performing the procedure , should monitor the patient throughout the procedure .
+Continuous monitoring of respiratory and cardiac function is required .
+Midazolam HCl syrup must be given only to patients if they will be monitored by direct visual observation by a health care professional .
+Midazolam HCl syrup should only be administered by persons specifically trained in the use of anesthetic drugs and the management of respiratory effects of anesthetic drugs , including respiratory and cardiac resuscitation of patients in the age group being treated .
+Patient response to sedative agents , and resultant respiratory status , is variable .
+Regardless of the intended level of sedation or route of administration , sedation is a continuum ; a patient may move easily from light to deep sedation , with potential loss of protective reflexes , particularly when coadministered with anesthetic agents , other CNS depressants , and concomitant medications which may potentially cause a more intense and prolonged sedation ( see PRECAUTIONS : Drug Interactions ) .
+This is especially true in pediatric patients .
+The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation .
+Sedation guidelines recommend a careful presedation history to determine how a patient ’ s underlying medical conditions or concomitant medications might affect their response to sedation / analgesia as well as a physical examination including a focused examination of the airway for abnormalities .
+Further recommendations include appropriate presedation fasting .
+Intravenous access is not thought to be necessary for all pediatric patients sedated for a diagnostic or therapeutic procedure because in some cases the difficulty of gaining IV access would defeat the purpose of sedating the child ; rather , emphasis should be placed upon having the intravenous equipment available and a practitioner skilled in establishing vascular access in pediatric patients immediately available .
+Midazolam HCl syrup must never be used without individualization of dosage , particularly when used with other medications capable of producing CNS depression .
+Younger ( < 6 years of age ) pediatric patients may require higher dosages ( mg / kg ) than older pediatric patients , and may require close monitoring .
+When midazolam HCl syrup is given in conjunction with opioids or other sedatives , the potential for respiratory depression , airway obstruction , or hypoventilation is increased .
+For appropriate patient monitoring , see WARNINGS and DOSAGE AND ADMINISTRATION : Monitoring .
+The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation .
+The recommended dose for pediatric patients is a single dose of 0 . 25 to 0 . 5 mg / kg , depending on the status of the patient and desired effect , up to a maximum dose of 20 mg .
+In general , it is recommended that the dose be individualized and modified based on patient age , level of anxiety , concomitant medications , and medical need ( see WARNINGS and PRECAUTIONS ) .
+The younger ( 6 months to < 6 years of age ) and less cooperative patients may require a higher than usual dose up to 1 . 0 mg / kg .
+A dose of 0 . 25 mg / kg may suffice for older ( 6 to < 16 years of age ) or cooperative patients , especially if the anticipated intensity and duration of sedation is less critical .
+For all pediatric patients , a dose of 0 . 25 mg / kg should be considered when midazolam HCl syrup is administered to patients with cardiac or respiratory compromise , other higher risk surgical patients , and patients who have received concomitant narcotics or other CNS depressants .
+As with any potential respiratory depressant , these patients must be monitored for signs of cardiorespiratory depression after receiving midazolam HCl syrup .
+In obese pediatric patients , the dose should be calculated based on ideal body weight .
+Midazolam HCl syrup has not been studied , nor is it intended for chronic use .
+HOW SUPPLIED Midazolam HCl Syrup is supplied as a clear , red to purplish - red , mixed fruit flavored syrup containing midazolam hydrochloride equivalent to 2 mg of midazolam / mL ; each amber glass bottle of 118 mL of syrup is supplied with 1 press - in bottle adapter , 4 single - use , graduated , oral dispensers and 4 tip caps ; 10 x bottle of 2 . 5 mL is supplied with 10 single - use , graduated , oral dispensers and 10 tip caps .
+NDC 0574 - 0150 - 04 Bottle of 118 mL .
+NDC 0574 - 0150 - 25 10 x Bottle of 2 . 5 mL .
+Store at 20 ° to 25 ° C ( 68 ° to 77 ° F ) .
+[ See USP Controlled Room Temperature . ]
+ANIMAL TOXICOLOGY AND / OR PHARMACOLOGY Published studies in animals demonstrate that the use of anesthetic agents during the period of rapid brain growth or synaptogenesis results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis .
+Based on comparisons across species , the window of vulnerability to these changes is believed to correlate with exposures in the third trimester through the first several months of life , but may extend out to approximately 3 years of age in humans .
+In primates , exposure to 3 hours of an anesthetic regimen that produced a light surgical plane of anesthesia did not increase neuronal cell loss , however , treatment regimens of 5 hours or longer increased neuronal cell loss .
+Data in rodents and in primates suggest that the neuronal and oligodendrocyte cell losses are associated with subtle but prolonged cognitive deficits in learning and memory .
+The clinical significance of these nonclinical findings is not known , and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data ( See Warnings / Pediatric Neurotoxicity and Precautions / Pregnancy and Pediatric Use ) .
+DISTRIBUTED BY : ATLANTIC BIOLOGICALS CORP .
+20101 N . E 16 th PLACE MIAMI , FL 33179 NDC 17856 - 0146 - 01 [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ]

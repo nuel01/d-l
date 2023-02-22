@@ -1,0 +1,932 @@
+Dosage and Administration ( 2 . 2 ) 10 / 2011 Dosage and Administration ( 2 . 3 ) 02 / 2011 1 INDICATIONS AND USAGE REYATAZ ® ( atazanavir sulfate ) is indicated in combination with other antiretroviral agents for the treatment of HIV - 1 infection .
+This indication is based on analyses of plasma HIV - 1 RNA levels and CD4 + cell counts from controlled studies of 96 weeks duration in antiretroviral - naive and 48 weeks duration in antiretroviral - treatment - experienced adult and pediatric patients at least 6 years of age .
+The following points should be considered when initiating therapy with REYATAZ : • In Study AI424 - 045 , REYATAZ / ritonavir and lopinavir / ritonavir were similar for the primary efficacy outcome measure of time - averaged difference in change from baseline in HIV RNA level .
+This study was not large enough to reach a definitive conclusion that REYATAZ / ritonavir and lopinavir / ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of detection [ see Clinical Studies ( 14 . 2 ) ] .
+• The number of baseline primary protease inhibitor mutations affects the virologic response to REYATAZ / ritonavir [ see Clinical Pharmacology ( 12 . 4 ) ] .
+REYATAZ is a protease inhibitor indicated for use in combination with other antiretroviral agents for the treatment of HIV - 1 infection .
+( 1 ) 2 DOSAGE AND ADMINISTRATION General Dosing Recommendations : • REYATAZ Capsules must be taken with food .
+• Do not open the capsules .
+• The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs .
+When coadministered with H2 - receptor antagonists or proton - pump inhibitors , dose separation may be required [ see Dosage and Administration ( 2 . 1 ) ] .
+• When coadministered with didanosine buffered or enteric - coated formulations , REYATAZ should be given ( with food ) 2 hours before or 1 hour after didanosine .
+• REYATAZ without ritonavir is not recommended for treatment - experienced adult or pediatric patients with prior virologic failure [ see Clinical Studies ( 14 ) ] .
+• Efficacy and safety of REYATAZ with ritonavir in doses greater than 100 mg once daily have not been established .
+The use of higher ritonavir doses might alter the safety profile of atazanavir ( cardiac effects , hyperbilirubinemia ) and , therefore , is not recommended .
+Prescribers should consult the complete prescribing information for NORVIR ® ( ritonavir ) when using this agent .
+• Treatment - naive patients : REYATAZ 300 mg with ritonavir 100 mg once daily with food or REYATAZ 400 mg once daily with food .
+When coadministered with tenofovir , the recommended dose is REYATAZ 300 mg with ritonavir 100 mg .
+( 2 . 1 ) • Treatment - experienced patients : REYATAZ 300 mg with ritonavir 100 mg once daily with food .
+( 2 . 1 ) • Pediatric patients ( 6 to less than 18 years of age ) : Dosage is based on body weight not to exceed the adult dose .
+( 2 . 2 ) • Pregnancy : REYATAZ 300 mg with ritonavir 100 mg once daily with food , with dosing modifications for some concomitant medications .
+( 2 . 3 ) • Concomitant therapy : Dosing modifications may be required .
+( 2 . 1 , 7 ) • Renal impairment : Dosing modifications may be required .
+( 2 . 4 ) • Hepatic impairment : Dosing modifications may be required .
+( 2 . 5 ) 2 . 1 Recommended Adult Dosage Table 1 summarizes the recommended REYATAZ dosing regimen in adults .
+All REYATAZ dosing regimens are to be administered as a single dose with food .
+Table 1 : REYATAZ Dosing RegimensTreatment - Naive Patients REYATAZ 300 mg with ritonavir 100 mg once daily If unable to tolerate ritonavir REYATAZ 400 mg once daily When combined with any of the following : Tenofovir H2 - receptor antagonist Proton - pump inhibitor REYATAZ 300 mg with ritonavir 100 mg once daily • The H2 - receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily .
+Administer REYATAZ and ritonavir simultaneously with , and / or at least 10 hours after the H2 - receptor antagonist .
+• If unable to tolerate ritonavir , administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2 - receptor antagonist .
+No single dose of the H2 - receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg .
+• The proton - pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir .
+When combined with efavirenz REYATAZ 400 mg with ritonavir 100 mg once daily • Efavirenz should be administered on an empty stomach , preferably at bedtime .
+Treatment - Experienced Patients REYATAZ 300 mg with ritonavir 100 mg once daily Do not coadminister with proton - pump inhibitors or efavirenz in treatment - experienced patients .
+When given with an H2 - receptor antagonist REYATAZ 300 mg with ritonavir 100 mg once daily • The H2 - receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily .
+Administer REYATAZ and ritonavir simultaneously with , and / or at least 10 hours after the H2 - receptor antagonist .
+When given with both tenofovirand an H2 - receptor antagonist REYATAZ 400 mg with ritonavir 100 mg once daily • The H2 - receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily .
+Administer REYATAZ and ritonavir simultaneously with , and / or at least 10 hours after the H2 - receptor antagonist .
+[ For these drugs and other antiretroviral agents for which dosing modification may be appropriate , see Drug Interactions ( 7 ) . ]
+2 . 2 Recommended Pediatric Dosage The recommended daily dosage of REYATAZ for pediatric patients ( 6 to less than 18 years of age ) is based on body weight and should not exceed the recommended adult dosage .
+REYATAZ Capsules must be taken with food .
+The data are insufficient to recommend dosing of REYATAZ for any of the following : ( 1 ) patients less than 6 years of age , ( 2 ) without ritonavir in any pediatric patient less than 13 years of age , and ( 3 ) patients less than 40 kg receiving concomitant tenofovir , H2 - receptor antagonists , or proton - pump inhibitors .
+The recommended dosage of REYATAZ with ritonavir in pediatric patients at least 6 years of age is shown in Table 2 .
+Table 2 : Dosage for Pediatric Patients ( 6 to less than 18 years of age ) for REYATAZ Capsules with ritonaviraBody Weight REYATAZ dose ritonavir dose a The REYATAZ and ritonavir dose should be taken once daily with food .
+15 kg to less than 20 kg 150 mg 100 mg 20 kg to less than 40 kg 200 mg 100 mg at least 40 kg 300 mg 100 mg For treatment - naive patients at least 13 years of age and at least 40 kg , who are unable to tolerate ritonavir , the recommended dose is REYATAZ 400 mg ( without ritonavir ) once daily with food .
+For patients at least 13 years of age and at least 40 kg receiving concomitant tenofovir , H2 - receptor antagonists , or proton - pump inhibitors , REYATAZ should not be administered without ritonavir .
+2 . 3 Pregnancy Dosing During Pregnancy and the Postpartum Period : • REYATAZ should not be administered without ritonavir .
+• REYATAZ should only be administered to pregnant women with HIV - 1 strains susceptible to atazanavir .
+• For pregnant patients , no dose adjustment is required for REYATAZ with the following exceptions : • For treatment - experienced pregnant women during the second or third trimester , when REYATAZ is coadministered with either an H2 - receptor antagonist or tenofovir , REYATAZ 400 mg with ritonavir 100 mg once daily is recommended .
+There are insufficient data to recommend a REYATAZ dose for use with both an H2 - receptor antagonist and tenofovir in treatment - experienced pregnant women .
+• No dose adjustment is required for postpartum patients .
+However , patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery .
+[ See Use in Specific Populations ( 8 . 1 ) and Clinical Pharmacology ( 12 . 3 ) . ]
+2 . 4 Renal Impairment For patients with renal impairment , including those with severe renal impairment who are not managed with hemodialysis , no dose adjustment is required for REYATAZ .
+Treatment - naive patients with end stage renal disease managed with hemodialysis should receive REYATAZ 300 mg with ritonavir 100 mg .
+REYATAZ should not be administered to HIV - treatment - experienced patients with end stage renal disease managed with hemodialysis .
+[ See Use in Specific Populations ( 8 . 7 ) . ]
+2 . 5 Hepatic Impairment REYATAZ should be used with caution in patients with mild - to - moderate hepatic impairment .
+For patients with moderate hepatic impairment ( Child - Pugh Class B ) who have not experienced prior virologic failure , a dose reduction to 300 mg once daily should be considered .
+REYATAZ should not be used in patients with severe hepatic impairment ( Child - Pugh Class C ) .
+REYATAZ / ritonavir has not been studied in subjects with hepatic impairment and is not recommended .
+[ See Warnings and Precautions ( 5 . 5 ) and Use in Specific Populations ( 8 . 8 ) . ]
+3 DOSAGE FORMS AND STRENGTHS • 100 mg capsule with blue cap and white body , printed with white ink “ BMS 100 mg ” on the cap and with blue ink “ 3623 ” on the body .
+• 150 mg capsule with blue cap and powder blue body , printed with white ink “ BMS 150 mg ” on the cap and with blue ink “ 3624 ” on the body .
+• 200 mg capsule with blue cap and blue body , printed with white ink “ BMS 200 mg ” on the cap and with white ink “ 3631 ” on the body .
+• 300 mg capsule with red cap and blue body , printed with white ink “ BMS 300 mg ” on the cap and with white ink “ 3622 ” on the body .
+• Capsules : 100 mg , 150 mg , 200 mg , 300 mg .
+( 3 , 16 ) 4 CONTRAINDICATIONS REYATAZ ( atazanavir sulfate ) is contraindicated : • in patients with previously demonstrated clinically significant hypersensitivity ( eg , Stevens - Johnson syndrome , erythema multiforme , or toxic skin eruptions ) to any of the components of this product .
+• when coadministered with drugs that are highly dependent on CYP3A or UGT1A1 for clearance , and for which elevated plasma concentrations are associated with serious and / or life - threatening events .
+These and other contraindicated drugs are listed in Table 3 .
+Table 3 : Drugs That Are Contraindicated with REYATAZ ( atazanavir ) ( Information in the table applies to REYATAZ with or without ritonavir , unless otherwise indicated ) Drug Class Drugs within class that are contraindicated with REYATAZ Clinical Comment a See Drug Interactions , Table 13 ( 7 ) for parenterally administered midazolam .
+b See Drug Interactions , Table 13 ( 7 ) for sildenafil when dosed as VIAGRA ® for erectile dysfunction .
+Alpha 1 - Adrenoreceptor Antagonist Alfuzosin Potential for increased alfuzosin concentrations , which can result in hypotension .
+Antimycobacterials Rifampin Rifampin substantially decreases plasma concentrations of atazanavir , which may result in loss of therapeutic effect and development of resistance .
+Antineoplastics Irinotecan Atazanavir inhibits UGT1A1 and may interfere with the metabolism of irinotecan , resulting in increased irinotecan toxicities .
+Benzodiazepines Triazolam , orally administered midazolama Triazolam and orally administered midazolam are extensively metabolized by CYP3A4 .
+Coadministration of triazolam or orally administered midazolam with REYATAZ may cause large increases in the concentration of these benzodiazepines .
+Potential for serious and / or life - threatening events such as prolonged or increased sedation or respiratory depression .
+Ergot Derivatives Dihydroergotamine , ergotamine , ergonovine , methylergonovine Potential for serious and / or life - threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues .
+GI Motility Agent Cisapride Potential for serious and / or life - threatening reactions such as cardiac arrhythmias .
+Herbal Products St . John ’ s wort ( Hypericum perforatum ) Patients taking REYATAZ should not use products containing St . John ’ s wort because coadministration may be expected to reduce plasma concentrations of atazanavir .
+This may result in loss of therapeutic effect and development of resistance .
+HMG - CoA Reductase Inhibitors Lovastatin , simvastatin Potential for serious reactions such as myopathy including rhabdomyolysis .
+Neuroleptic Pimozide Potential for serious and / or life - threatening reactions such as cardiac arrhythmias .
+PDE5 Inhibitor Sildenafilb when dosed as REVATIO ® for the treatment of pulmonary arterial hypertension A safe and effective dose in combination with REYATAZ has not been established for sildenafil ( REVATIO ® ) when used for the treatment of pulmonary hypertension .
+There is increased potential for sildenafil - associated adverse events ( which include visual disturbances , hypotension , priapism , and syncope ) .
+Protease Inhibitors Indinavir Both REYATAZ and indinavir are associated with indirect ( unconjugated ) hyperbilirubinemia .
+• REYATAZ is contraindicated in patients with previously demonstrated hypersensitivity ( eg , Stevens - Johnson syndrome , erythema multiforme , or toxic skin eruptions ) to any of the components of this product .
+( 4 ) • Coadministration with alfuzosin , triazolam , orally administered midazolam , ergot derivatives , rifampin , irinotecan , lovastatin , simvastatin , indinavir , cisapride , pimozide , St . John ’ s wort , and sildenafil when dosed as REVATIO ® .
+( 4 ) 5 WARNINGS AND PRECAUTIONS • Cardiac conduction abnormalities : PR interval prolongation may occur in some patients .
+Use with caution in patients with preexisting conduction system disease or when administered with other drugs that may prolong the PR interval .
+( 5 . 2 , 6 . 4 , 7 . 3 , 12 . 2 , 17 . 3 ) • Rash : Discontinue if severe rash develops .
+( 5 . 3 , 6 . 4 , 17 . 4 ) • Hyperbilirubinemia : Most patients experience asymptomatic increases in indirect bilirubin , which is reversible upon discontinuation .
+Do not dose reduce .
+If a concomitant transaminase increase occurs , evaluate for alternative etiologies .
+( 5 . 4 , 6 . 2 ) • Hepatotoxicity : REYATAZ should be used with caution in patients with hepatic impairment ( 5 . 5 ) .
+Patients with hepatitis B or C infection are at risk of increased transaminases or hepatic decompensation .
+Monitor hepatic laboratory tests prior to therapy and during treatment .
+( 2 . 5 , 5 . 5 , 6 . 3 , 6 . 4 , 8 . 8 ) • Nephrolithiasis has been reported .
+Consider temporary interruption or discontinuation .
+( 5 . 6 , 6 . 4 ) • Patients receiving REYATAZ may develop new onset or exacerbations of diabetes mellitus / hyperglycemia ( 5 . 7 , 6 . 4 ) , immune reconstitution syndrome ( 5 . 8 ) , and redistribution / accumulation of body fat .
+( 5 . 9 ) • Hemophilia : Spontaneous bleeding may occur and additional factor VIII may be required .
+( 5 . 10 ) 5 . 1 Drug Interactions See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life - threatening adverse events , significant drug interactions , or loss of virologic activity .
+[ See Contraindications ( 4 ) . ]
+Please refer to Table 13 for established and other potentially significant drug interactions [ see Drug Interactions ( 7 . 3 ) ] .
+5 . 2 Cardiac Conduction Abnormalities Atazanavir has been shown to prolong the PR interval of the electrocardiogram in some patients .
+In healthy volunteers and in patients , abnormalities in atrioventricular ( AV ) conduction were asymptomatic and generally limited to first - degree AV block .
+There have been reports of second - degree AV block and other conduction abnormalities [ see Adverse Reactions ( 6 . 4 ) and Overdosage ( 10 ) ] .
+In clinical trials that included electrocardiograms , asymptomatic first - degree AV block was observed in 5 . 9 % of atazanavir - treated patients ( n = 920 ) , 5 . 2 % of lopinavir / ritonavir - treated patients ( n = 252 ) , 10 . 4 % of nelfinavir - treated patients ( n = 48 ) , and 3 . 0 % of efavirenz - treated patients ( n = 329 ) .
+In Study AI424 - 045 , asymptomatic first - degree AV block was observed in 5 % ( 6 / 118 ) of atazanavir / ritonavir - treated patients and 5 % ( 6 / 116 ) of lopinavir / ritonavir - treated patients who had on - study electrocardiogram measurements .
+Because of limited clinical experience in patients with preexisting conduction system disease ( eg , marked first - degree AV block or second - or third - degree AV block ) , atazanavir should be used with caution in these patients .
+[ See Clinical Pharmacology ( 12 . 2 ) . ]
+Atazanavir in combination with diltiazem increased diltiazem plasma concentration by 2 - fold with an additive effect on the PR interval .
+When used in combination with atazanavir , a dose reduction of diltiazem by one - half should be considered and ECG monitoring is recommended .
+In a pharmacokinetic study between atazanavir 400 mg once daily and atenolol 50 mg once daily , no clinically significant additive effect of atazanavir and atenolol on the PR interval was observed .
+Dose adjustment of atenolol is not required when used in combination with atazanavir .
+[ See Drug Interactions ( 7 ) and Clinical Pharmacology ( 12 . 2 ) . ]
+Pharmacokinetic studies between atazanavir and other drugs that prolong the PR interval including beta blockers [ other than atenolol , see Drug Interactions ( 7 ) ] , verapamil , and digoxin have not been performed .
+An additive effect of atazanavir and these drugs cannot be excluded ; therefore , caution should be exercised when atazanavir is given concurrently with these drugs , especially those that are metabolized by CYP3A ( eg , verapamil ) .
+5 . 3 Rash In controlled clinical trials , rash ( all grades , regardless of causality ) occurred in approximately 20 % of patients treated with REYATAZ .
+The median time to onset of rash in clinical studies was 7 . 3 weeks and the median duration of rash was 1 . 4 weeks .
+Rashes were generally mild - to - moderate maculopapular skin eruptions .
+Treatment - emergent adverse reactions of moderate or severe rash ( occurring at a rate of ≥ 2 % ) are presented for the individual clinical studies [ see Adverse Reactions ( 6 . 1 ) ] .
+Dosing with REYATAZ was often continued without interruption in patients who developed rash .
+The discontinuation rate for rash in clinical trials was < 1 % .
+REYATAZ should be discontinued if severe rash develops .
+Cases of Stevens - Johnson syndrome , erythema multiforme , and toxic skin eruptions have been reported in patients receiving REYATAZ .
+[ See Contraindications ( 4 ) . ]
+5 . 4 Hyperbilirubinemia Most patients taking REYATAZ experience asymptomatic elevations in indirect ( unconjugated ) bilirubin related to inhibition of UDP - glucuronosyl transferase ( UGT ) .
+This hyperbilirubinemia is reversible upon discontinuation of REYATAZ .
+Hepatic transaminase elevations that occur with hyperbilirubinemia should be evaluated for alternative etiologies .
+No long - term safety data are available for patients experiencing persistent elevations in total bilirubin > 5 times ULN .
+Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients .
+Dose reduction of atazanavir is not recommended since long - term efficacy of reduced doses has not been established .
+[ See Adverse Reactions ( 6 . 1 , 6 . 2 ) . ]
+5 . 5 Hepatotoxicity Caution should be exercised when administering REYATAZ to patients with hepatic impairment because atazanavir concentrations may be increased .
+[ See Dosage and Administration ( 2 . 5 ) . ]
+Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation .
+In these patients , hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment .
+[ See Adverse Reactions ( 6 . 3 ) and Use in Specific Populations ( 8 . 8 ) . ]
+5 . 6 Nephrolithiasis Cases of nephrolithiasis were reported during postmarketing surveillance in HIV - infected patients receiving REYATAZ therapy .
+Because these events were reported voluntarily during clinical practice , estimates of frequency cannot be made .
+If signs or symptoms of nephrolithiasis occur , temporary interruption or discontinuation of therapy may be considered .
+[ See Adverse Reactions ( 6 . 4 ) . ]
+5 . 7 Diabetes Mellitus / Hyperglycemia New - onset diabetes mellitus , exacerbation of preexisting diabetes mellitus , and hyperglycemia have been reported during postmarketing surveillance in HIV - infected patients receiving protease inhibitor therapy .
+Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events .
+In some cases , diabetic ketoacidosis has occurred .
+In those patients who discontinued protease inhibitor therapy , hyperglycemia persisted in some cases .
+Because these events have been reported voluntarily during clinical practice , estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established .
+[ See Adverse Reactions ( 6 . 4 ) . ]
+5 . 8 Immune Reconstitution Syndrome Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy , including REYATAZ .
+During the initial phase of combination antiretroviral treatment , patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections ( such as Mycobacterium avium infection , cytomegalovirus , Pneumocystis jiroveci pneumonia , or tuberculosis ) , which may necessitate further evaluation and treatment .
+5 . 9 Fat Redistribution Redistribution / accumulation of body fat including central obesity , dorsocervical fat enlargement ( buffalo hump ) , peripheral wasting , facial wasting , breast enlargement , and “ cushingoid appearance ” have been observed in patients receiving antiretroviral therapy .
+The mechanism and long - term consequences of these events are currently unknown .
+A causal relationship has not been established .
+5 . 10 Hemophilia There have been reports of increased bleeding , including spontaneous skin hematomas and hemarthrosis , in patients with hemophilia type A and B treated with protease inhibitors .
+In some patients additional factor VIII was given .
+In more than half of the reported cases , treatment with protease inhibitors was continued or reintroduced .
+A causal relationship between protease inhibitor therapy and these events has not been established .
+5 . 11 Resistance / Cross - Resistance Various degrees of cross - resistance among protease inhibitors have been observed .
+Resistance to atazanavir may not preclude the subsequent use of other protease inhibitors .
+[ See Clinical Pharmacology ( 12 . 4 ) . ]
+6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling : • cardiac conduction abnormalities [ see Warnings and Precautions ( 5 . 2 ) ] • rash [ see Warnings and Precautions ( 5 . 3 ) ] • hyperbilirubinemia [ see Warnings and Precautions ( 5 . 4 ) ] • nephrolithiasis [ see Warnings and Precautions ( 5 . 6 ) ] Because clinical trials are conducted under widely varying conditions , adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice .
+Most common adverse reactions ( ≥ 2 % ) are nausea , jaundice / scleral icterus , rash , headache , abdominal pain , vomiting , insomnia , peripheral neurologic symptoms , dizziness , myalgia , diarrhea , depression , and fever .
+( 6 . 1 , 6 . 2 ) To report SUSPECTED ADVERSE REACTIONS , contact Bristol - Myers Squibb at 1 - 800 - 721 - 5072 or FDA at 1 - 800 - FDA - 1088 or www . fda . gov / medwatch 6 . 1 Clinical Trial Experience in Adults Treatment - Emergent Adverse Reactions in Treatment - Naive Patients The safety profile of REYATAZ in treatment - naive adults is based on 1625 HIV - 1 infected patients in clinical trials .
+536 patients received REYATAZ 300 mg with ritonavir 100 mg and 1089 patients received REYATAZ 400 mg or higher ( without ritonavir ) .
+The most common adverse reactions are nausea , jaundice / scleral icterus , and rash .
+Selected clinical adverse reactions of moderate or severe intensity reported in ≥ 2 % of treatment - naive patients receiving combination therapy including REYATAZ 300 mg with ritonavir 100 mg and REYATAZ 400 mg ( without ritonavir ) are presented in Tables 4 and 5 , respectively .
+Table 4 : Selected Treatment - Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥ 2 % of Adult Treatment - Naive Patients , b Study AI424 - 138 96 weeksc 96 weeksc REYATAZ 300 mg with ritonavir 100 mg ( once daily ) and tenofovir with emtricitabined lopinavir 400 mg with ritonavir 100 mg ( twice daily ) and tenofovir with emtricitabined ( n = 441 ) ( n = 437 ) * None reported in this treatment arm .
+a Includes events of possible , probable , certain , or unknown relationship to treatment regimen .
+b Based on the regimen containing REYATAZ .
+c Median time on therapy .
+d As a fixed - dose combination : 300 mg tenofovir , 200 mg emtricitabine once daily .
+Digestive System Nausea 4 % 8 % Jaundice / scleral icterus 5 % * Diarrhea 2 % 12 % Skin and Appendages Rash 3 % 2 % Table 5 : Selected Treatment - Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥ 2 % of Adult Treatment - Naive Patients , b Studies AI424 - 034 , AI424 - 007 , and AI424 - 008 Study AI424 - 034 Studies AI424 - 007 , - 008 64 weeksc REYATAZ 400 mg once daily + lamivudine + zidovudinee 64 weeksc efavirenz 600 mg once daily + lamivudine + zidovudinee 120 weeksc , d REYATAZ 400 mg once daily + stavudine + lamivudine or didanosine 73 weeksc , d nelfinavir 750 mg TID or 1250 mg BID + stavudine + lamivudine or didanosine ( n = 404 ) ( n = 401 ) ( n = 279 ) ( n = 191 ) * None reported in this treatment arm .
+a Includes events of possible , probable , certain , or unknown relationship to treatment regimen .
+b Based on regimens containing REYATAZ .
+c Median time on therapy .
+d Includes long - term follow - up .
+e As a fixed - dose combination : 150 mg lamivudine , 300 mg zidovudine twice daily .
+Body as a Whole Headache 6 % 6 % 1 % 2 % Digestive System Nausea 14 % 12 % 6 % 4 % Jaundice / scleral icterus 7 % * 7 % * Vomiting 4 % 7 % 3 % 3 % Abdominal pain 4 % 4 % 4 % 2 % Diarrhea 1 % 2 % 3 % 16 % Nervous System Insomnia 3 % 3 % < 1 % * Dizziness 2 % 7 % < 1 % * Peripheral neurologic symptoms < 1 % 1 % 4 % 3 % Skin and Appendages Rash 7 % 10 % 5 % 1 % Treatment - Emergent Adverse Reactions in Treatment - Experienced Patients The safety profile of REYATAZ in treatment - experienced adults is based on 119 HIV - 1 infected patients in clinical trials .
+The most common adverse reactions are jaundice / scleral icterus and myalgia .
+Selected clinical adverse reactions of moderate or severe intensity reported in ≥ 2 % of treatment - experienced patients receiving REYATAZ / ritonavir are presented in Table 6 .
+Table 6 : Selected Treatment - Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥ 2 % of Adult Treatment - Experienced Patients , b Study AI424 - 045 48 weeksc REYATAZ / ritonavir 300 / 100 mg once daily + tenofovir + NRTI 48 weeksc lopinavir / ritonavir 400 / 100 mg twice dailyd + tenofovir + NRTI ( n = 119 ) ( n = 118 ) * None reported in this treatment arm .
+a Includes events of possible , probable , certain , or unknown relationship to treatment regimen .
+b Based on the regimen containing REYATAZ .
+c Median time on therapy .
+d As a fixed - dose combination .
+Body as a Whole Fever 2 % * Digestive System Jaundice / scleral icterus 9 % * Diarrhea 3 % 11 % Nausea 3 % 2 % Nervous System Depression 2 % < 1 % Musculoskeletal System Myalgia 4 % * Laboratory Abnormalities in Treatment - Naive Patients The percentages of adult treatment - naive patients treated with combination therapy including REYATAZ ( atazanavir sulfate ) 300 mg with ritonavir 100 mg and REYATAZ 400 mg ( without ritonavir ) with Grade 3 – 4 laboratory abnormalities are presented in Tables 7 and 8 , respectively .
+Table 7 : Grade 3 – 4 Laboratory Abnormalities Reported in ≥ 2 % of Adult Treatment - Naive Patients , a Study AI424 - 138 a Based on the regimen containing REYATAZ .
+b Median time on therapy .
+c ULN = upper limit of normal .
+d As a fixed - dose combination : 300 mg tenofovir , 200 mg emtricitabine once daily .
+Variable Limitc 96 weeksb 96 weeksb REYATAZ 300 mg with ritonavir 100 mg ( once daily ) and tenofovir with emtricitabined lopinavir 400 mg with ritonavir 100 mg ( twice daily ) and tenofovir with emtricitabined ( n = 441 ) ( n = 437 ) Chemistry High SGOT / AST ≥ 5 . 1 x ULN 3 % 1 % SGPT / ALT ≥ 5 . 1 x ULN 3 % 2 % Total Bilirubin ≥ 2 . 6 x ULN 44 % < 1 % Lipase ≥ 2 . 1 x ULN 2 % 2 % Creatine Kinase ≥ 5 . 1 x ULN 8 % 7 % Total Cholesterol ≥ 240 mg / dL 11 % 25 % Hematology Low Neutrophils < 750 cells / mm3 5 % 2 % Table 8 : Grade 3 – 4 Laboratory Abnormalities Reported in ≥ 2 % of Adult Treatment - Naive Patients , a Studies AI424 - 034 , AI424 - 007 , and AI424 - 008 Variable Limitd Study AI424 - 034 Studies AI424 - 007 , - 008 64 weeksb 64 weeksb 120 weeksb , c 73 weeksb , c REYATAZ 400 mg once daily + lamivudine + zidovudinee efavirenz 600 mg once daily + lamivudine + zidovudinee REYATAZ 400 mg once daily + stavudine + lamivudine or + stavudine + didanosine nelfinavir 750 mg TID or 1250 mg BID + stavudine + lamivudine or + stavudine + didanosine ( n = 404 ) ( n = 401 ) ( n = 279 ) ( n = 191 ) * None reported in this treatment arm .
+a Based on regimen ( s ) containing REYATAZ .
+b Median time on therapy .
+c Includes long - term follow - up .
+d ULN = upper limit of normal .
+e As a fixed - dose combination : 150 mg lamivudine , 300 mg zidovudine twice daily .
+Chemistry High SGOT / AST ≥ 5 . 1 x ULN 2 % 2 % 7 % 5 % SGPT / ALT ≥ 5 . 1 x ULN 4 % 3 % 9 % 7 % Total Bilirubin ≥ 2 . 6 x ULN 35 % < 1 % 47 % 3 % Amylase ≥ 2 . 1 x ULN * * 14 % 10 % Lipase ≥ 2 . 1 x ULN < 1 % 1 % 4 % 5 % Creatine Kinase ≥ 5 . 1 x ULN 6 % 6 % 11 % 9 % Total Cholesterol ≥ 240 mg / dL 6 % 24 % 19 % 48 % Triglycerides ≥ 751 mg / dL < 1 % 3 % 4 % 2 % Hematology Low Hemoglobin < 8 . 0 g / dL 5 % 3 % < 1 % 4 % Neutrophils < 750 cells / mm3 7 % 9 % 3 % 7 % Laboratory Abnormalities in Treatment - Experienced Patients The percentages of adult treatment - experienced patients treated with combination therapy including REYATAZ / ritonavir with Grade 3 – 4 laboratory abnormalities are presented in Table 9 .
+Table 9 : Grade 3 – 4 Laboratory Abnormalities Reported in ≥ 2 % of Adult Treatment - Experienced Patients , Study AI424 - 045 aVariable Limitc 48 weeksb 48 weeksb REYATAZ / ritonavir 300 / 100 mg once daily + tenofovir + NRTI lopinavir / ritonavir 400 / 100 mg twice dailyd + tenofovir + NRTI ( n = 119 ) ( n = 118 ) a Based on regimen ( s ) containing REYATAZ .
+b Median time on therapy .
+c ULN = upper limit of normal .
+d As a fixed - dose combination .
+Chemistry High SGOT / AST ≥ 5 . 1 x ULN 3 % 3 % SGPT / ALT ≥ 5 . 1 x ULN 4 % 3 % Total Bilirubin ≥ 2 . 6 x ULN 49 % < 1 % Lipase ≥ 2 . 1 x ULN 5 % 6 % Creatine Kinase ≥ 5 . 1 x ULN 8 % 8 % Total Cholesterol ≥ 240 mg / dL 25 % 26 % Triglycerides ≥ 751 mg / dL 8 % 12 % Glucose ≥ 251 mg / dL 5 % < 1 % Hematology Low Platelets < 50 , 000 cells / mm3 2 % 3 % Neutrophils < 750 cells / mm3 7 % 8 % Lipids , Change from Baseline in Treatment - Naive Patients For Study AI424 - 138 and Study AI424 - 034 , changes from baseline in LDL - cholesterol , HDL - cholesterol , total cholesterol , and triglycerides are shown in Tables 10 and 11 , respectively .
+Table 10 : Lipid Values , Mean Change from Baseline , Study AI424 - 138 REYATAZ / ritonavira , b lopinavir / ritonavirb , c Baseline Week 48 Week 96 Baseline Week 48 Week 96 mg / dL mg / dL Changed mg / dL Changed mg / dL mg / dL Changed mg / dL Changed ( n = 428 e ) ( n = 372 e ) ( n = 372 e ) ( n = 342 e ) ( n = 342 e ) ( n = 424 e ) ( n = 335 e ) ( n = 335 e ) ( n = 291 e ) ( n = 291 e ) a REYATAZ 300 mg with ritonavir 100 mg once daily with the fixed - dose combination : 300 mg tenofovir , 200 mg emtricitabine once daily .
+b Values obtained after initiation of serum lipid - reducing agents were not included in these analyses .
+At baseline , serum lipid - reducing agents were used in 1 % in the lopinavir / ritonavir treatment arm and 1 % in the REYATAZ / ritonavir arm .
+Through Week 48 , serum lipid - reducing agents were used in 8 % in the lopinavir / ritonavir treatment arm and 2 % in the REYATAZ / ritonavir arm .
+Through Week 96 , serum lipid - reducing agents were used in 10 % in the lopinavir / ritonavir treatment arm and 3 % in the REYATAZ / ritonavir arm .
+c Lopinavir 400 mg with ritonavir 100 mg twice daily with the fixed - dose combination 300 mg tenofovir , 200 mg emtricitabine once daily .
+d The change from baseline is the mean of within - patient changes from baseline for patients with both baseline and Week 48 or Week 96 values and is not a simple difference of the baseline and Week 48 or Week 96 mean values , respectively .
+e Number of patients with LDL - cholesterol measured .
+f Fasting .
+LDL - Cholesterolf 92 105 + 14 % 105 + 14 % 93 111 + 19 % 110 + 17 % HDL - Cholesterolf 37 46 + 29 % 44 + 21 % 36 48 + 37 % 46 + 29 % Total Cholesterolf 149 169 + 13 % 169 + 13 % 150 187 + 25 % 186 + 25 % Triglyceridesf 126 145 + 15 % 140 + 13 % 129 194 + 52 % 184 + 50 % Table 11 : Lipid Values , Mean Change from Baseline , Study AI424 - 034 REYATAZa , b efavirenzb , c Baseline Week 48 Week 48 Baseline Week 48 Week 48 mg / dL mg / dL Changed mg / dL mg / dL Changed ( n = 383 e ) ( n = 283 e ) ( n = 272 e ) ( n = 378 e ) ( n = 264 e ) ( n = 253 e ) a REYATAZ 400 mg once daily with the fixed - dose combination : 150 mg lamivudine , 300 mg zidovudine twice daily .
+b Values obtained after initiation of serum lipid - reducing agents were not included in these analyses .
+At baseline , serum lipid - reducing agents were used in 0 % in the efavirenz treatment arm and < 1 % in the REYATAZ arm .
+Through Week 48 , serum lipid - reducing agents were used in 3 % in the efavirenz treatment arm and 1 % in the REYATAZ arm .
+c Efavirenz 600 mg once daily with the fixed - dose combination : 150 mg lamivudine , 300 mg zidovudine twice daily .
+d The change from baseline is the mean of within - patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values .
+e Number of patients with LDL - cholesterol measured .
+f Fasting .
+LDL - Cholesterolf 98 98 + 1 % 98 114 + 18 % HDL - Cholesterol 39 43 + 13 % 38 46 + 24 % Total Cholesterol 164 168 + 2 % 162 195 + 21 % Triglyceridesf 138 124 - 9 % 129 168 + 23 % Lipids , Change from Baseline in Treatment - Experienced Patients For Study AI424 - 045 , changes from baseline in LDL - cholesterol , HDL - cholesterol , total cholesterol , and triglycerides are shown in Table 12 .
+The observed magnitude of dyslipidemia was less with REYATAZ / ritonavir than with lopinavir / ritonavir .
+However , the clinical impact of such findings has not been demonstrated .
+Table 12 : Lipid Values , Mean Change from Baseline , Study AI424 - 045 REYATAZ / ritonavira , b lopinavir / ritonavirb , c Baseline Week 48 Week 48 Baseline Week 48 Week 48 mg / dL mg / dL Changed mg / dL mg / dL Changed ( n = 111 e ) ( n = 75 e ) ( n = 74 e ) ( n = 108 e ) ( n = 76 e ) ( n = 73 e ) a REYATAZ 300 mg once daily + ritonavir + tenofovir + 1 NRTI .
+b Values obtained after initiation of serum lipid - reducing agents were not included in these analyses .
+At baseline , serum lipid - reducing agents were used in 4 % in the lopinavir / ritonavir treatment arm and 4 % in the REYATAZ / ritonavir arm .
+Through Week 48 , serum lipid - reducing agents were used in 19 % in the lopinavir / ritonavir treatment arm and 8 % in the REYATAZ / ritonavir arm .
+c Lopinavir / ritonavir ( 400 / 100 mg ) BID + tenofovir + 1 NRTI .
+d The change from baseline is the mean of within - patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values .
+e Number of patients with LDL - cholesterol measured .
+f Fasting .
+LDL - Cholesterolf 108 98 - 10 % 104 103 + 1 % HDL - Cholesterol 40 39 - 7 % 39 41 + 2 % Total Cholesterol 188 170 - 8 % 181 187 + 6 % Triglyceridesf 215 161 - 4 % 196 224 + 30 % 6 . 2 Clinical Trial Experience in Pediatric Patients The safety and tolerability of REYATAZ Capsules with and without ritonavir have been established in pediatric patients at least 6 years of age from the open - label , multicenter clinical trial PACTG 1020 A .
+Use of REYATAZ in pediatric patients less than 6 years of age is under investigation .
+The safety profile of REYATAZ in pediatric patients ( 6 to less than 18 years of age ) was generally similar to that observed in clinical studies of REYATAZ in adults .
+The most common Grade 2 – 4 adverse events ( ≥ 5 % , regardless of causality ) reported in pediatric patients were cough ( 21 % ) , fever ( 18 % ) , jaundice / scleral icterus ( 15 % ) , rash ( 14 % ) , vomiting ( 12 % ) , diarrhea ( 9 % ) , headache ( 8 % ) , peripheral edema ( 7 % ) , extremity pain ( 6 % ) , nasal congestion ( 6 % ) , oropharyngeal pain ( 6 % ) , wheezing ( 6 % ) , and rhinorrhea ( 6 % ) .
+Asymptomatic second - degree atrioventricular block was reported in < 2 % of patients .
+The most common Grade 3 – 4 laboratory abnormalities occurring in pediatric patients were elevation of total bilirubin ( ≥ 3 . 2 mg / dL , 58 % ) , neutropenia ( 9 % ) , and hypoglycemia ( 4 % ) .
+All other Grade 3 – 4 laboratory abnormalities occurred with a frequency of less than 3 % .
+6 . 3 Patients Co - infected With Hepatitis B and / or Hepatitis C Virus Liver function tests should be monitored in patients with a history of hepatitis B or C .
+In study AI424 - 138 , 60 patients treated with REYATAZ / ritonavir 300 mg / 100 mg once daily , and 51 patients treated with lopinavir / ritonavir 400 mg / 100 mg twice daily , each with fixed dose tenofovir - emtricitabine , were seropositive for hepatitis B and / or C at study entry .
+ALT levels > 5 times ULN developed in 10 % ( 6 / 60 ) of the REYATAZ / ritonavir - treated patients and 8 % ( 4 / 50 ) of the lopinavir / ritonavir - treated patients .
+AST levels > 5 times ULN developed in 10 % ( 6 / 60 ) of the REYATAZ / ritonavir - treated patients and none ( 0 / 50 ) of the lopinavir / ritonavir - treated patients .
+In study AI424 - 045 , 20 patients treated with REYATAZ / ritonavir 300 mg / 100 mg once daily , and 18 patients treated with lopinavir / ritonavir 400 mg / 100 mg twice daily , were seropositive for hepatitis B and / or C at study entry .
+ALT levels > 5 times ULN developed in 25 % ( 5 / 20 ) of the REYATAZ / ritonavir - treated patients and 6 % ( 1 / 18 ) of the lopinavir / ritonavir - treated patients .
+AST levels > 5 times ULN developed in 10 % ( 2 / 20 ) of the REYATAZ / ritonavir - treated patients and 6 % ( 1 / 18 ) of the lopinavir / ritonavir - treated patients .
+In studies AI424 - 008 and AI424 - 034 , 74 patients treated with 400 mg of REYATAZ ( atazanavir sulfate ) once daily , 58 who received efavirenz , and 12 who received nelfinavir were seropositive for hepatitis B and / or C at study entry .
+ALT levels > 5 times the upper limit of normal ( ULN ) developed in 15 % of the REYATAZ - treated patients , 14 % of the efavirenz - treated patients , and 17 % of the nelfinavir - treated patients .
+AST levels > 5 times ULN developed in 9 % of the REYATAZ - treated patients , 5 % of the efavirenz - treated patients , and 17 % of the nelfinavir - treated patients .
+Within atazanavir and control regimens , no difference in frequency of bilirubin elevations was noted between seropositive and seronegative patients .
+[ See Warnings and Precautions ( 5 . 5 ) . ]
+6 . 4 Postmarketing Experience The following events have been identified during postmarketing use of REYATAZ .
+Because these reactions are reported voluntarily from a population of unknown size , it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure .
+Body as a Whole : edema Cardiovascular System : second - degree AV block , third - degree AV block , left bundle branch block , QTc prolongation [ see Warnings and Precautions ( 5 . 2 ) ] Gastrointestinal System : pancreatitis Hepatic System : hepatic function abnormalities Hepatobiliary Disorders : cholelithiasis , cholecystitis , cholestasis Metabolic System and Nutrition Disorders : diabetes mellitus , hyperglycemia [ see Warnings and Precautions ( 5 . 7 ) ] Musculoskeletal System : arthralgia Renal System : nephrolithiasis [ see Warnings and Precautions ( 5 . 6 ) ] Skin and Appendages : alopecia , maculopapular rash [ see Contraindications ( 4 ) and Warnings and Precautions ( 5 . 3 ) ] , pruritus 7 DRUG INTERACTIONS See also Contraindications ( 4 ) and Clinical Pharmacology ( 12 . 3 ) .
+Coadministration of REYATAZ can alter the concentration of other drugs and other drugs may alter the concentration of atazanavir .
+The potential drug - drug interactions must be considered prior to and during therapy .
+( 4 , 5 . 1 , 7 , 12 . 3 ) 7 . 1 Potential for REYATAZ to Affect Other Drugs Atazanavir is an inhibitor of CYP3A and UGT1A1 .
+Coadministration of REYATAZ and drugs primarily metabolized by CYP3A or UGT1A1 may result in increased plasma concentrations of the other drug that could increase or prolong its therapeutic and adverse effects .
+Atazanavir is a weak inhibitor of CYP2C8 .
+Caution should be used when REYATAZ without ritonavir is coadministered with drugs highly dependent on CYP2C8 with narrow therapeutic indices ( eg , paclitaxel , repaglinide ) .
+When REYATAZ with ritonavir is coadministered with substrates of CYP2C8 , clinically significant interactions are not expected .
+[ See Clinical Pharmacology , Table 14 ( 12 . 3 ) . ]
+The magnitude of CYP3A - mediated drug interactions on coadministered drug may change when REYATAZ is coadministered with ritonavir .
+See the complete prescribing information for NORVIR ® ( ritonavir ) for information on drug interactions with ritonavir .
+7 . 2 Potential for Other Drugs to Affect Atazanavir Atazanavir is a CYP3A4 substrate ; therefore , drugs that induce CYP3A4 may decrease atazanavir plasma concentrations and reduce REYATAZ ’ s therapeutic effect .
+Atazanavir solubility decreases as pH increases .
+Reduced plasma concentrations of atazanavir are expected if proton - pump inhibitors , antacids , buffered medications , or H2 - receptor antagonists are administered with atazanavir .
+7 . 3 Established and Other Potentially Significant Drug Interactions Table 13 provides dosing recommendations as a result of drug interactions with REYATAZ .
+These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious events or loss of efficacy .
+Table 13 : Established and Other Potentially Significant Drug Interactions : Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studiesa or Predicted Interactions ( Information in the table applies to REYATAZ with or without ritonavir , unless otherwise indicated ) Concomitant Drug Class : Specific Drugs Effect on Concentration of Atazanavir or Concomitant Drug Clinical Comment a For magnitude of interactions see Clinical Pharmacology , Tables 17 and 18 ( 12 . 3 ) .
+b See Contraindications ( 4 ) , Table 3 for orally administered midazolam .
+c In combination with atazanavir 300 mg and ritonavir 100 mg once daily .
+d In combination with atazanavir 400 mg once daily .
+HIV Antiviral Agents Nucleoside Reverse Transcriptase Inhibitors ( NRTIs ) : didanosine buffered formulations enteric - coated ( EC ) capsules ↓ atazanavir ↓ didanosine Coadministration of REYATAZ with didanosine buffered tablets resulted in a marked decrease in atazanavir exposure .
+It is recommended that REYATAZ be given ( with food ) 2 h before or 1 h after didanosine buffered formulations .
+Simultaneous administration of didanosine EC and REYATAZ with food results in a decrease in didanosine exposure .
+Thus , REYATAZ and didanosine EC should be administered at different times .
+Nucleotide Reverse Transcriptase Inhibitors : tenofovir disoproxil fumarate ↓ atazanavir ↑ tenofovir Tenofovir may decrease the AUC and Cmin of atazanavir .
+When coadministered with tenofovir , it is recommended that REYATAZ 300 mg be given with ritonavir 100 mg and tenofovir 300 mg ( all as a single daily dose with food ) .
+REYATAZ without ritonavir should not be coadministered with tenofovir .
+REYATAZ increases tenofovir concentrations .
+The mechanism of this interaction is unknown .
+Higher tenofovir concentrations could potentiate tenofovir - associated adverse events , including renal disorders .
+Patients receiving REYATAZ and tenofovir should be monitored for tenofovir - associated adverse events .
+For pregnant women taking REYATAZ with ritonavir and tenofovir , see Dosage and Administration ( 2 . 3 ) .
+Non - nucleoside Reverse Transcriptase Inhibitors ( NNRTIs ) : efavirenz ↓ atazanavir Efavirenz decreases atazanavir exposure .
+In treatment - naive patients : If REYATAZ is combined with efavirenz , REYATAZ 400 mg ( two 200 - mg capsules ) with ritonavir 100 mg should be administered once daily all as a single dose with food , and efavirenz 600 mg should be administered once daily on an empty stomach , preferably at bedtime .
+In treatment - experienced patients : Do not coadminister REYATAZ with efavirenz in treatment - experienced patients due to decreased atazanavir exposure .
+Non - nucleoside Reverse Transcriptase Inhibitors : nevirapine ↓ atazanavir ↑ nevirapine Do not coadminister REYATAZ with nevirapine because : • Nevirapine substantially decreases atazanavir exposure .
+• Potential risk for nevirapine associated toxicity due to increased nevirapine exposures .
+Protease Inhibitors : saquinavir ( soft gelatin capsules ) ↑ saquinavir Appropriate dosing recommendations for this combination , with or without ritonavir , with respect to efficacy and safety have not been established .
+In a clinical study , saquinavir 1200 mg coadministered with REYATAZ 400 mg and tenofovir 300 mg ( all given once daily ) plus nucleoside analogue reverse transcriptase inhibitors did not provide adequate efficacy [ see Clinical Studies ( 14 . 2 ) ] .
+Protease Inhibitors : ritonavir ↑ atazanavir If REYATAZ is coadministered with ritonavir , it is recommended that REYATAZ 300 mg once daily be given with ritonavir 100 mg once daily with food .
+See the complete prescribing information for NORVIR ® ( ritonavir ) for information on drug interactions with ritonavir .
+Protease Inhibitors : others ↑ other protease inhibitor REYATAZ / ritonavir : Although not studied , the coadministration of REYATAZ / ritonavir and other protease inhibitors would be expected to increase exposure to the other protease inhibitor .
+Such coadministration is not recommended .
+Other Agents Antacids and buffered medications ↓ atazanavir Reduced plasma concentrations of atazanavir are expected if antacids , including buffered medications , are administered with REYATAZ .
+REYATAZ should be administered 2 hours before or 1 hour after these medications .
+Antiarrhythmics : amiodarone , bepridil , lidocaine ( systemic ) , quinidine ↑ amiodarone , bepridil , lidocaine ( systemic ) , quinidine Coadministration with REYATAZ has the potential to produce serious and / or life - threatening adverse events and has not been studied .
+Caution is warranted and therapeutic concentration monitoring of these drugs is recommended if they are used concomitantly with REYATAZ ( atazanavir sulfate ) .
+Anticoagulants : warfarin ↑ warfarin Coadministration with REYATAZ has the potential to produce serious and / or life - threatening bleeding and has not been studied .
+It is recommended that INR ( International Normalized Ratio ) be monitored .
+Antidepressants : tricyclic antidepressants ↑ tricyclic antidepressants Coadministration with REYATAZ has the potential to produce serious and / or life - threatening adverse events and has not been studied .
+Concentration monitoring of these drugs is recommended if they are used concomitantly with REYATAZ .
+trazodone ↑ trazodone Concomitant use of trazodone and REYATAZ with or without ritonavir may increase plasma concentrations of trazodone .
+Adverse events of nausea , dizziness , hypotension , and syncope have been observed following coadministration of trazodone and ritonavir .
+If trazodone is used with a CYP3A4 inhibitor such as REYATAZ , the combination should be used with caution and a lower dose of trazodone should be considered .
+Antifungals : ketoconazole , itraconazole REYATAZ / ritonavir : ↑ ketoconazole ↑ itraconazole Coadministration of ketoconazole has only been studied with REYATAZ without ritonavir ( negligible increase in atazanavir AUC and Cmax ) .
+Due to the effect of ritonavir on ketoconazole , high doses of ketoconazole and itraconazole ( > 200 mg / day ) should be used cautiously with REYATAZ / ritonavir .
+Antifungals : voriconazole Effect is unknown Coadministration of voriconazole with REYATAZ , with or without ritonavir , has not been studied .
+Administration of voriconazole with ritonavir 100 mg every 12 hours decreased voriconazole steady - state AUC by an average of 39 % .
+Voriconazole should not be administered to patients receiving REYATAZ / ritonavir , unless an assessment of the benefit / risk to the patient justifies the use of voriconazole .
+Coadministration of voriconazole with REYATAZ ( without ritonavir ) may increase atazanavir concentrations ; however , no data are available .
+Antigout : colchicine ↑ colchicine REYATAZ should not be coadministered with colchicine to patients with renal or hepatic impairment .
+Recommended dosage of colchicine when administered with REYATAZ : Treatment of gout flares : • 0 . 6 mg ( 1 tablet ) for 1 dose , followed by 0 . 3 mg ( half tablet ) 1 hour later .
+Not to be repeated before 3 days .
+Prophylaxis of gout flares : • If the original regimen was 0 . 6 mg twice a day , the regimen should be adjusted to 0 . 3 mg once a day .
+If the original regimen was 0 . 6 mg once a day , the regimen should be adjusted to 0 . 3 mg once every other day .
+Treatment of familial Mediterranean fever ( FMF ) : • Maximum daily dose of 0 . 6 mg ( may be given as 0 . 3 mg twice a day ) .
+Antimycobacterials : rifabutin ↑ rifabutin A rifabutin dose reduction of up to 75 % ( eg , 150 mg every other day or 3 times per week ) is recommended .
+Increased monitoring for rifabutin - associated adverse reactions including neutropenia is warranted .
+Benzodiazepines : parenterally administered midazolamb ↑ midazolam Concomitant use of parenteral midazolam with REYATAZ may increase plasma concentrations of midazolam .
+Coadministration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and / or prolonged sedation .
+Dosage reduction for midazolam should be considered , especially if more than a single dose of midazolam is administered .
+Coadministration of oral midazolam with REYATAZ is CONTRAINDICATED .
+Calcium channel blockers : diltiazem ↑ diltiazem and desacetyl - diltiazem Caution is warranted .
+A dose reduction of diltiazem by 50 % should be considered .
+ECG monitoring is recommended .
+Coadministration of REYATAZ / ritonavir with diltiazem has not been studied .
+eg , felodipine , nifedipine , nicardipine , and verapamil ↑ calcium channel blocker Caution is warranted .
+Dose titration of the calcium channel blocker should be considered .
+ECG monitoring is recommended .
+Endothelin receptor antagonists : bosentan ↓ atazanavir ↑ bosentan Plasma concentrations of atazanavir may be decreased when bosentan is administered with REYATAZ without ritonavir .
+Coadministration of bosentan and REYATAZ without ritonavir is not recommended .
+Coadministration of bosentan in patients on REYATAZ / ritonavir : • For patients who have been receiving REYATAZ / ritonavir for at least 10 days , start bosentan at 62 . 5 mg once daily or every other day based on individual tolerability .
+Coadministration of REYATAZ / ritonavir in patients on bosentan : • Discontinue bosentan at least 36 hours before starting REYATAZ / ritonavir .
+At least 10 days after starting REYATAZ / ritonavir , resume bosentan at 62 . 5 mg once daily or every other day based on individual tolerability .
+HMG - CoA reductase inhibitors : atorvastatin , rosuvastatin ↑ atorvastatin ↑ rosuvastatin Use the lowest possible dose of atorvastatin or rosuvastatin with careful monitoring , or consider other HMG - CoA reductase inhibitors such as pravastatin or fluvastatin in combination with REYATAZ ( with or without ritonavir ) .
+The risk of myopathy , including rhabdomyolysis , may be increased when HIV protease inhibitors , including REYATAZ , are used in combination with these drugs .
+H2 - Receptor antagonists ↓ atazanavir Plasma concentrations of atazanavir were substantially decreased when REYATAZ 400 mg once daily was administered simultaneously with famotidine 40 mg twice daily , which may result in loss of therapeutic effect and development of resistance .
+In treatment - naive patients : REYATAZ 300 mg with ritonavir 100 mg once daily with food should be administered simultaneously with , and / or at least 10 hours after , a dose of the H2 - receptor antagonist .
+An H2 - receptor antagonist dose comparable to famotidine 20 mg once daily up to a dose comparable to famotidine 40 mg twice daily can be used with REYATAZ 300 mg with ritonavir 100 mg in treatment - naive patients .
+OR For patients unable to tolerate ritonavir , REYATAZ 400 mg once daily with food should be administered at least 2 hours before and at least 10 hours after a dose of the H2 - receptor antagonist .
+No single dose of the H2 - receptor antagonist should exceed a dose comparable to famotidine 20 mg , and the total daily dose should not exceed a dose comparable to famotidine 40 mg .
+However , REYATAZ should not be used without ritonavir in pregnant women .
+In treatment - experienced patients : Whenever an H2 - receptor antagonist is given to a patient receiving REYATAZ with ritonavir , the H2 - receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily , and the REYATAZ and ritonavir doses should be administered simultaneously with , and / or at least 10 hours after , the dose of the H2 - receptor antagonist .
+• REYATAZ 300 mg with ritonavir 100 mg once daily ( all as a single dose with food ) if taken with an H2 - receptor antagonist .
+For pregnant women taking REYATAZ with ritonavir and an H2 - receptor antagonist , see Dosage and Administration ( 2 . 3 ) .
+• REYATAZ 400 mg with ritonavir 100 mg once daily ( all as a single dose with food ) if taken with both tenofovir and an H2 - receptor antagonist .
+For pregnant women taking REYATAZ with ritonavir and both tenofovir and an H2 - receptor antagonist , see Dosage and Administration ( 2 . 3 ) .
+Hormonal contraceptives : ethinyl estradiol and norgestimate or norethindrone ↓ ethinyl estradiol ↑ norgestimatec ↑ ethinyl estradiol ↑ norethindroned Use with caution if coadministration of REYATAZ or REYATAZ / ritonavir with oral contraceptives is considered .
+If an oral contraceptive is administered with REYATAZ plus ritonavir , it is recommended that the oral contraceptive contain at least 35 mcg of ethinyl estradiol .
+If REYATAZ is administered without ritonavir , the oral contraceptive should contain no more than 30 mcg of ethinyl estradiol .
+Potential safety risks include substantial increases in progesterone exposure .
+The long - term effects of increases in concentration of the progestational agent are unknown and could increase the risk of insulin resistance , dyslipidemia , and acne .
+Coadministration of REYATAZ or REYATAZ / ritonavir with other hormonal contraceptives ( eg , contraceptive patch , contraceptive vaginal ring , or injectable contraceptives ) or oral contraceptives containing progestogens other than norethindrone or norgestimate , or less than 25 mcg of ethinyl estradiol , has not been studied ; therefore , alternative methods of contraception are recommended .
+Immunosuppressants : cyclosporin , sirolimus , tacrolimus ↑ immunosuppressants Therapeutic concentration monitoring is recommended for immunosuppressant agents when coadministered with REYATAZ ( atazanavir sulfate ) .
+Inhaled beta agonist : salmeterol ↑ salmeterol Coadministration of salmeterol with REYATAZ is not recommended .
+Concomitant use of salmeterol and REYATAZ may result in increased risk of cardiovascular adverse events associated with salmeterol , including QT prolongation , palpitations , and sinus tachycardia .
+Inhaled / nasal steroid : fluticasone REYATAZ ↑ fluticasone Concomitant use of fluticasone propionate and REYATAZ ( without ritonavir ) may increase plasma concentrations of fluticasone propionate .
+Use with caution .
+Consider alternatives to fluticasone propionate , particularly for long - term use .
+REYATAZ / ritonavir ↑ fluticasone Concomitant use of fluticasone propionate and REYATAZ / ritonavir may increase plasma concentrations of fluticasone propionate , resulting in significantly reduced serum cortisol concentrations .
+Systemic corticosteroid effects , including Cushing ’ s syndrome and adrenal suppression , have been reported during postmarketing use in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate .
+Coadministration of fluticasone propionate and REYATAZ / ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects [ see Warnings and Precautions ( 5 . 1 ) ] .
+Macrolide antibiotics : clarithromycin ↑ clarithromycin ↓ 14 - OH clarithromycin ↑ atazanavir Increased concentrations of clarithromycin may cause QTc prolongations ; therefore , a dose reduction of clarithromycin by 50 % should be considered when it is coadministered with REYATAZ .
+In addition , concentrations of the active metabolite 14 - OH clarithromycin are significantly reduced ; consider alternative therapy for indications other than infections due to Mycobacterium avium complex .
+Coadministration of REYATAZ / ritonavir with clarithromycin has not been studied .
+Opioids : Buprenorphine ↑ buprenorphine ↑ norbuprenorphine Coadministration of buprenorphine and REYATAZ with or without ritonavir increases the plasma concentration of buprenorphine and norbuprenorphine .
+Coadministration of REYATAZ plus ritonavir with buprenorphine warrants clinical monitoring for sedation and cognitive effects .
+A dose reduction of buprenorphine may be considered .
+Coadministration of buprenorphine and REYATAZ with ritonavir is not expected to decrease atazanavir plasma concentrations .
+Coadministration of buprenorphine and REYATAZ without ritonavir may decrease atazanavir plasma concentrations .
+REYATAZ without ritonavir should not be coadministered with buprenorphine .
+PDE5 inhibitors : sildenafil , tadalafil , vardenafil ↑ sildenafil ↑ tadalafil ↑ vardenafil Coadministration with REYATAZ has not been studied but may result in an increase in PDE5 inhibitor - associated adverse events , including hypotension , syncope , visual disturbances , and priapism .
+Use of PDE5 inhibitors for pulmonary arterial hypertension ( PAH ) : • Use of REVATIO ® ( sildenafil ) for the treatment of pulmonary hypertension ( PAH ) is contraindicated with REYATAZ [ see Contraindications ( 4 ) ] .
+• The following dose adjustments are recommended for the use of ADCIRCA ® ( tadalafil ) with REYATAZ : • Coadministration of ADCIRCA ® in patients on REYATAZ ( with or without ritonavir ) : • For patients receiving REYATAZ ( with or without ritonavir ) for at least one week , start ADCIRCA ® at 20 mg once daily .
+Increase to 40 mg once daily based on individual tolerability .
+• Coadministration of REYATAZ ( with or without ritonavir ) in patients on ADCIRCA ® : • Avoid the use of ADCIRCA ® when starting REYATAZ ( with or without ritonavir ) .
+Stop ADCIRCA ® at least 24 hours before starting REYATAZ ( with or without ritonavir ) .
+At least one week after starting REYATAZ ( with or without ritonavir ) , resume ADCIRCA ® at 20 mg once daily .
+Increase to 40 mg once daily based on individual tolerability .
+Use of PDE5 inhibitors for erectile dysfunction : Use VIAGRA ® ( sildenafil ) with caution at reduced doses of 25 mg every 48 hours with increased monitoring for adverse events .
+Use CIALIS ® ( tadalafil ) with caution at reduced doses of 10 mg every 72 hours with increased monitoring for adverse events .
+REYATAZ / ritonavir : Use LEVITRA ® ( vardenafil ) with caution at reduced doses of no more than 2 . 5 mg every 72 hours with increased monitoring for adverse events .
+REYATAZ : Use LEVITRA ® ( vardenafil ) with caution at reduced doses of no more than 2 . 5 mg every 24 hours with increased monitoring for adverse events .
+Proton - pump inhibitors : omeprazole ↓ atazanavir Plasma concentrations of atazanavir were substantially decreased when REYATAZ 400 mg or REYATAZ 300 mg / ritonavir 100 mg once daily was administered with omeprazole 40 mg once daily , which may result in loss of therapeutic effect and development of resistance .
+In treatment - naive patients : The proton - pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg and must be taken approximately 12 hours prior to the REYATAZ 300 mg with ritonavir 100 mg dose .
+In treatment - experienced patients : Proton - pump inhibitors should not be used in treatment - experienced patients receiving REYATAZ .
+7 . 4 Drugs with No Observed or Predicted Interactions with REYATAZ Clinically significant interactions are not expected between atazanavir and substrates of CYP2C19 , CYP2C9 , CYP2D6 , CYP2B6 , CYP2A6 , CYP1A2 , or CYP2E1 .
+Clinically significant interactions are not expected between atazanavir when administered with ritonavir and substrates of CYP2C8 .
+See the complete prescribing information for NORVIR ® for information on other potential drug interactions with ritonavir .
+Based on known metabolic profiles , clinically significant drug interactions are not expected between REYATAZ ( atazanavir sulfate ) and fluvastatin , pravastatin , dapsone , trimethoprim / sulfamethoxazole , azithromycin , or erythromycin .
+REYATAZ does not interact with substrates of CYP2D6 ( eg , nortriptyline , desipramine , metoprolol ) .
+Additionally , no clinically significant drug interactions were observed when REYATAZ was coadministered with methadone , fluconazole , acetaminophen , or atenolol .
+[ See Clinical Pharmacology , Tables 17 and 18 ( 12 . 3 ) . ]
+8 USE IN SPECIFIC POPULATIONS • Pregnancy : Use only if the potential benefit justifies the potential risk .
+Physicians are encouraged to register patients in the Antiretroviral Pregnancy Registry .
+( 8 . 1 ) • Nursing mothers should be instructed not to breast - feed due to the potential for postnatal HIV transmission .
+( 8 . 3 ) • Hepatitis B or C co - infection : Monitor liver enzymes .
+( 5 . 5 , 6 . 3 ) • Renal impairment : Do not use in treatment - experienced patients with end stage renal disease managed with hemodialysis .
+( 2 . 4 , 8 . 7 ) • Hepatic impairment : REYATAZ should be used with caution in patients with mild to moderate hepatic impairment .
+Do not use REYATAZ in patients with severe hepatic impairment .
+REYATAZ / ritonavir is not recommended .
+( 2 . 5 , 8 . 8 ) 8 . 1 Pregnancy Pregnancy Category B Antiretroviral Pregnancy Registry : To monitor maternal - fetal outcomes of pregnant women exposed to REYATAZ , an Antiretroviral Pregnancy Registry has been established .
+Physicians are encouraged to register patients by calling 1 - 800 - 258 - 4263 .
+Risk Summary Atazanavir has been evaluated in a limited number of women during pregnancy and postpartum .
+Available human and animal data suggest that atazanavir does not increase the risk of major birth defects overall compared to the background rate .
+However , because the studies in humans cannot rule out the possibility of harm , REYATAZ should be used during pregnancy only if clearly needed .
+Cases of lactic acidosis syndrome , sometimes fatal , and symptomatic hyperlactatemia have occurred in pregnant women using REYATAZ in combination with nucleoside analogues .
+Nucleoside analogues are associated with an increased risk of lactic acidosis syndrome .
+Hyperbilirubinemia occurs frequently in patients who take REYATAZ , including pregnant women .
+All infants , including neonates exposed to REYATAZ in - utero , should be monitored for the development of severe hyperbilirubinemia during the first few days of life .
+Clinical Considerations Dosing During Pregnancy and the Postpartum Period : • REYATAZ should not be administered without ritonavir .
+• REYATAZ should only be administered to pregnant women with HIV - 1 strains susceptible to atazanavir .
+• For pregnant patients , no dose adjustment is required for REYATAZ with the following exceptions : • For treatment - experienced pregnant women during the second or third trimester , when REYATAZ is coadministered with either an H2 - receptor antagonist or tenofovir , REYATAZ 400 mg with ritonavir 100 mg once daily is recommended .
+There are insufficient data to recommend a REYATAZ dose for use with both an H2 - receptor antagonist and tenofovir in treatment - experienced pregnant women .
+• No dose adjustment is required for postpartum patients .
+However , patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery .
+[ See Dosage and Administration ( 2 , 2 . 3 ) and Clinical Pharmacology ( 12 . 3 ) . ]
+Human Data Clinical Trials : In clinical trial AI424 - 182 , REYATAZ / ritonavir ( 300 / 100 mg or 400 / 100 mg ) in combination with zidovudine / lamivudine was administered to 41 HIV - infected pregnant women during the second or third trimester .
+Among the 39 women who completed the study , 38 women achieved an HIV RNA < 50 copies / mL at time of delivery .
+Six of 20 ( 30 % ) women on REYATAZ / ritonavir 300 / 100 mg and 13 of 21 ( 62 % ) women on REYATAZ / ritonavir 400 / 100 mg experienced hyperbilirubinemia ( total bilirubin greater than or equal to 2 . 6 times the upper limit of normal ) .
+There were no cases of lactic acidosis observed in clinical trial AI424 - 182 .
+Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12 – 19 % of maternal concentrations .
+Among the 40 infants born to 40 HIV - infected pregnant women , all had test results that were negative for HIV - 1 DNA at the time of delivery and / or during the first 6 months postpartum .
+All 40 infants received antiretroviral prophylactic treatment containing zidovudine .
+No evidence of severe hyperbilirubinemia ( total bilirubin levels greater than 20 mg / dL ) or acute or chronic bilirubin encephalopathy was observed among neonates in this study .
+However , 10 / 36 ( 28 % ) infants ( 6 greater than or equal to 38 weeks gestation and 4 less than 38 weeks gestation ) had bilirubin levels of 4 mg / dL or greater within the first day of life .
+Lack of ethnic diversity was a study limitation .
+In the study population , 33 / 40 ( 83 % ) infants were Black / African American , who have a lower incidence of neonatal hyperbilirubinemia than Caucasians and Asians .
+In addition , women with Rh incompatibility were excluded , as well as women who had a previous infant who developed hemolytic disease and / or had neonatal pathologic jaundice ( requiring phototherapy ) .
+Additionally , of the 38 infants who had glucose samples collected in the first day of life , 3 had adequately collected serum glucose samples with values of < 40 mg / dL that could not be attributed to maternal glucose intolerance , difficult delivery , or sepsis .
+Antiretroviral Pregnancy Registry Data : As of January 2010 , the Antiretroviral Pregnancy Registry ( APR ) has received prospective reports of 635 exposures to atazanavir - containing regimens ( 425 exposed in the first trimester and 160 and 50 exposed in second and third trimester , respectively ) .
+Birth defects occurred in 9 of 393 ( 2 . 3 % ) live births ( first trimester exposure ) and 5 of 212 ( 2 . 4 % ) live births ( second / third trimester exposure ) .
+Among pregnant women in the U . S . reference population , the background rate of birth defects is 2 . 7 % .
+There was no association between atazanavir and overall birth defects observed in the APR .
+Pharmacokinetics of Atazanavir in Pregnancy [ See Clinical Pharmacology ( 12 . 3 ) . ]
+Animal Data In animal reproduction studies , there was no evidence of teratogenicity in offspring born to animals at systemic drug exposure levels ( AUC ) 0 . 7 ( in rabbits ) to 1 . 2 ( in rats ) times those observed at the human clinical dose ( 300 mg / day atazanavir boosted with 100 mg / day ritonavir ) .
+In pre - and post - natal development studies in the rat , atazanavir caused body weight loss or weight gain suppression in the animal offspring with maternal drug exposure ( AUC ) 1 . 3 times the human exposure at this clinical dose .
+However , maternal toxicity also occurred at this exposure level .
+8 . 3 Nursing Mothers The Centers for Disease Control and Prevention recommend that HIV - infected mothers not breast - feed their infants to avoid risking postnatal transmission of HIV .
+It is not known whether atazanavir is present in human milk .
+Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants , mothers should be instructed not to breast - feed if they are taking REYATAZ .
+8 . 4 Pediatric Use REYATAZ should not be administered to pediatric patients below the age of 3 months due to the risk of kernicterus .
+The safety , activity , and pharmacokinetic profiles of REYATAZ in pediatric patients ages 3 months to less than 6 years have not been established .
+The safety , pharmacokinetic profile , and virologic response of REYATAZ were evaluated in pediatric patients in an open - label , multicenter clinical trial PACTG 1020 A [ see Clinical Pharmacology ( 12 . 3 ) and Clinical Studies ( 14 . 3 ) ] .
+The safety profile in pediatric patients was generally similar to that observed in adults [ see Adverse Reactions ( 6 . 2 ) ] .
+Please see Dosage and Administration ( 2 . 2 ) for dosing recommendations for pediatric patients 6 years of age and older .
+8 . 5 Geriatric Use Clinical studies of REYATAZ did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients .
+Based on a comparison of mean single - dose pharmacokinetic values for Cmax and AUC , a dose adjustment based upon age is not recommended .
+In general , appropriate caution should be exercised in the administration and monitoring of REYATAZ in elderly patients reflecting the greater frequency of decreased hepatic , renal , or cardiac function , and of concomitant disease or other drug therapy .
+8 . 6 Age / Gender A study of the pharmacokinetics of atazanavir was performed in young ( n = 29 ; 18 – 40 years ) and elderly ( n = 30 ; ≥ 65 years ) healthy subjects .
+There were no clinically important pharmacokinetic differences observed due to age or gender .
+8 . 7 Impaired Renal Function In healthy subjects , the renal elimination of unchanged atazanavir was approximately 7 % of the administered dose .
+REYATAZ has been studied in adult subjects with severe renal impairment ( n = 20 ) , including those on hemodialysis , at multiple doses of 400 mg once daily .
+The mean atazanavir Cmax was 9 % lower , AUC was 19 % higher , and Cmin was 96 % higher in subjects with severe renal impairment not undergoing hemodialysis ( n = 10 ) , than in age , weight , and gender matched subjects with normal renal function .
+Atazanavir was not appreciably cleared during hemodialysis .
+In a 4 - hour dialysis session , 2 . 1 % of the administered dose was removed .
+When atazanavir was administered either prior to , or following hemodialysis ( n = 10 ) , the geometric means for Cmax , AUC , and Cmin were approximately 25 to 43 % lower compared to subjects with normal renal function .
+The mechanism of this decrease is unknown .
+REYATAZ should not be administered to HIV - treatment - experienced patients with end stage renal disease managed with hemodialysis .
+[ See Dosage and Administration ( 2 . 4 ) . ]
+8 . 8 Impaired Hepatic Function Atazanavir is metabolized and eliminated primarily by the liver .
+REYATAZ ( atazanavir sulfate ) has been studied in adult subjects with moderate to severe hepatic impairment ( 14 Child - Pugh B and 2 Child - Pugh C subjects ) after a single 400 - mg dose .
+The mean AUC ( 0 - ∞ ) was 42 % greater in subjects with impaired hepatic function than in healthy volunteers .
+The mean half - life of atazanavir in hepatically impaired subjects was 12 . 1 hours compared to 6 . 4 hours in healthy volunteers .
+Increased concentrations of atazanavir are expected in patients with moderately or severely impaired hepatic function .
+The pharmacokinetics of REYATAZ in combination with ritonavir have not been studied in subjects with hepatic impairment .
+REYATAZ should not be administered to patients with severe hepatic impairment .
+REYATAZ / ritonavir is not recommended for use in patients with hepatic impairment .
+[ See Dosage and Administration ( 2 . 5 ) and Warnings and Precautions ( 5 . 5 ) . ]
+10 OVERDOSAGE Human experience of acute overdose with REYATAZ is limited .
+Single doses up to 1200 mg have been taken by healthy volunteers without symptomatic untoward effects .
+A single self - administered overdose of 29 . 2 g of REYATAZ in an HIV - infected patient ( 73 times the 400 - mg recommended dose ) was associated with asymptomatic bifascicular block and PR interval prolongation .
+These events resolved spontaneously .
+At high doses that lead to high drug exposures , jaundice due to indirect ( unconjugated ) hyperbilirubinemia ( without associated liver function test changes ) or PR interval prolongation may be observed .
+[ See Warnings and Precautions ( 5 . 2 , 5 . 4 ) and Clinical Pharmacology ( 12 . 2 ) . ]
+Treatment of overdosage with REYATAZ should consist of general supportive measures , including monitoring of vital signs and ECG , and observations of the patient ’ s clinical status .
+If indicated , elimination of unabsorbed atazanavir should be achieved by emesis or gastric lavage .
+Administration of activated charcoal may also be used to aid removal of unabsorbed drug .
+There is no specific antidote for overdose with REYATAZ .
+Since atazanavir is extensively metabolized by the liver and is highly protein bound , dialysis is unlikely to be beneficial in significant removal of this medicine .
+11 DESCRIPTION REYATAZ ® ( atazanavir sulfate ) is an azapeptide inhibitor of HIV - 1 protease .
+The chemical name for atazanavir sulfate is ( 3 S , 8 S , 9 S , 12 S ) - 3 , 12 - Bis ( 1 , 1 - dimethylethyl ) - 8 - hydroxy - 4 , 11 - dioxo - 9 - ( phenylmethyl ) - 6 - [ [ 4 - ( 2 - pyridinyl ) phenyl ] methyl ] - 2 , 5 , 6 , 10 , 13 - pentaazatetradecanedioic acid dimethyl ester , sulfate ( 1 : 1 ) .
+Its molecular formula is C38H52N6O7 • H2SO4 , which corresponds to a molecular weight of 802 . 9 ( sulfuric acid salt ) .
+The free base molecular weight is 704 . 9 .
+Atazanavir sulfate has the following structural formula : [ MULTIMEDIA ] Atazanavir sulfate is a white to pale yellow crystalline powder .
+It is slightly soluble in water ( 4 – 5 mg / mL , free base equivalent ) with the pH of a saturated solution in water being about 1 . 9 at 24 ± 3 ° C . REYATAZ Capsules are available for oral administration in strengths containing the equivalent of 100 mg , 150 mg , 200 mg , or 300 mg of atazanavir as atazanavir sulfate and the following inactive ingredients : crospovidone , lactose monohydrate , and magnesium stearate .
+The capsule shells contain the following inactive ingredients : gelatin , FD & C Blue # 2 , titanium dioxide , black iron oxide , red iron oxide , and yellow iron oxide .
+The capsules are printed with ink containing shellac , titanium dioxide , FD & C Blue # 2 , isopropyl alcohol , ammonium hydroxide , propylene glycol , n - butyl alcohol , simethicone , and dehydrated alcohol .
+[ MULTIMEDIA ] 12 CLINICAL PHARMACOLOGY 12 . 1 Mechanism of Action Atazanavir is an antiviral drug [ see Clinical Pharmacology ( 12 . 4 ) ] .
+12 . 2 Pharmacodynamics Effects on Electrocardiogram Concentration - and dose - dependent prolongation of the PR interval in the electrocardiogram has been observed in healthy volunteers receiving atazanavir .
+In a placebo - controlled study ( AI424 - 076 ) , the mean ( ± SD ) maximum change in PR interval from the predose value was 24 ( ± 15 ) msec following oral dosing with 400 mg of atazanavir ( n = 65 ) compared to 13 ( ± 11 ) msec following dosing with placebo ( n = 67 ) .
+The PR interval prolongations in this study were asymptomatic .
+There is limited information on the potential for a pharmacodynamic interaction in humans between atazanavir and other drugs that prolong the PR interval of the electrocardiogram .
+[ See Warnings and Precautions ( 5 . 2 ) . ]
+Electrocardiographic effects of atazanavir were determined in a clinical pharmacology study of 72 healthy subjects .
+Oral doses of 400 mg and 800 mg were compared with placebo ; there was no concentration - dependent effect of atazanavir on the QTc interval ( using Fridericia ’ s correction ) .
+In 1793 HIV - infected patients receiving antiretroviral regimens , QTc prolongation was comparable in the atazanavir and comparator regimens .
+No atazanavir - treated healthy subject or HIV - infected patient in clinical trials had a QTc interval > 500 msec .
+[ See Warnings and Precautions ( 5 . 2 ) . ]
+In a pharmacokinetic study between atazanavir 400 mg once daily and diltiazem 180 mg once daily , a CYP3A substrate , there was a 2 - fold increase in the diltiazem plasma concentration and an additive effect on the PR interval .
+In a pharmacokinetic study between atazanavir 400 mg once daily and atenolol 50 mg once daily , there was no substantial additive effect of atazanavir and atenolol on the PR interval .
+[ See Warnings and Precautions ( 5 . 2 ) . ]
+12 . 3 Pharmacokinetics The pharmacokinetics of atazanavir were evaluated in healthy adult volunteers and in HIV - infected patients after administration of REYATAZ 400 mg once daily and after administration of REYATAZ 300 mg with ritonavir 100 mg once daily ( see Table 14 ) .
+Table 14 : Steady - State Pharmacokinetics of Atazanavir in Healthy Subjects or HIV - Infected Patients in the Fed State 400 mg once daily 300 mg with ritonavir 100 mg once daily Parameter Healthy Subjects ( n = 14 ) HIV - Infected Patients ( n = 13 ) Healthy Subjects ( n = 28 ) HIV - Infected Patients ( n = 10 ) a n = 26 .
+b n = 12 .
+Cmax ( ng / mL ) Geometric mean ( CV % ) 5199 ( 26 ) 2298 ( 71 ) 6129 ( 31 ) 4422 ( 58 ) Mean ( SD ) 5358 ( 1371 ) 3152 ( 2231 ) 6450 ( 2031 ) 5233 ( 3033 ) Tmax ( h ) Median 2 . 5 2 . 0 2 . 7 3 . 0 AUC ( ng • h / mL ) Geometric mean ( CV % ) 28132 ( 28 ) 14874 ( 91 ) 57039 ( 37 ) 46073 ( 66 ) Mean ( SD ) 29303 ( 8263 ) 22262 ( 20159 ) 61435 ( 22911 ) 53761 ( 35294 ) T - half ( h ) Mean ( SD ) 7 . 9 ( 2 . 9 ) 6 . 5 ( 2 . 6 ) 18 . 1 ( 6 . 2 ) a 8 . 6 ( 2 . 3 ) Cmin ( ng / mL ) Geometric mean ( CV % ) 159 ( 88 ) 120 ( 109 ) 1227 ( 53 ) 636 ( 97 ) Mean ( SD ) 218 ( 191 ) 273 ( 298 ) b 1441 ( 757 ) 862 ( 838 ) Figure 1 displays the mean plasma concentrations of atazanavir at steady state after REYATAZ 400 mg once daily ( as two 200 - mg capsules ) with a light meal and after REYATAZ 300 mg ( as two 150 - mg capsules ) with ritonavir 100 mg once daily with a light meal in HIV - infected adult patients .
+Figure 1 : Mean ( SD ) Steady - State Plasma Concentrations of Atazanavir 400 mg ( n = 13 ) and 300 mg with Ritonavir ( n = 10 ) for HIV - Infected Adult Patients [ MULTIMEDIA ] Absorption Atazanavir is rapidly absorbed with a Tmax of approximately 2 . 5 hours .
+Atazanavir demonstrates nonlinear pharmacokinetics with greater than dose - proportional increases in AUC and Cmax values over the dose range of 200 – 800 mg once daily .
+Steady state is achieved between Days 4 and 8 , with an accumulation of approximately 2 . 3 - fold .
+Food Effect Administration of REYATAZ with food enhances bioavailability and reduces pharmacokinetic variability .
+Administration of a single 400 - mg dose of REYATAZ with a light meal ( 357 kcal , 8 . 2 g fat , 10 . 6 g protein ) resulted in a 70 % increase in AUC and 57 % increase in Cmax relative to the fasting state .
+Administration of a single 400 - mg dose of REYATAZ with a high - fat meal ( 721 kcal , 37 . 3 g fat , 29 . 4 g protein ) resulted in a mean increase in AUC of 35 % with no change in Cmax relative to the fasting state .
+Administration of REYATAZ ( atazanavir sulfate ) with either a light meal or high - fat meal decreased the coefficient of variation of AUC and Cmax by approximately one - half compared to the fasting state .
+Coadministration of a single 300 - mg dose of REYATAZ and a 100 - mg dose of ritonavir with a light meal ( 336 kcal , 5 . 1 g fat , 9 . 3 g protein ) resulted in a 33 % increase in the AUC and a 40 % increase in both the Cmax and the 24 - hour concentration of atazanavir relative to the fasting state .
+Coadministration with a high - fat meal ( 951 kcal , 54 . 7 g fat , 35 . 9 g protein ) did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11 % of fasting values .
+The 24 - hour concentration following a high - fat meal was increased by approximately 33 % due to delayed absorption ; the median Tmax increased from 2 . 0 to 5 . 0 hours .
+Coadministration of REYATAZ with ritonavir with either a light or a high - fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25 % compared to the fasting state .
+Distribution Atazanavir is 86 % bound to human serum proteins and protein binding is independent of concentration .
+Atazanavir binds to both alpha - 1 - acid glycoprotein ( AAG ) and albumin to a similar extent ( 89 % and 86 % , respectively ) .
+In a multiple - dose study in HIV - infected patients dosed with REYATAZ 400 mg once daily with a light meal for 12 weeks , atazanavir was detected in the cerebrospinal fluid and semen .
+The cerebrospinal fluid / plasma ratio for atazanavir ( n = 4 ) ranged between 0 . 0021 and 0 . 0226 and seminal fluid / plasma ratio ( n = 5 ) ranged between 0 . 11 and 4 . 42 .
+Metabolism Atazanavir is extensively metabolized in humans .
+The major biotransformation pathways of atazanavir in humans consisted of monooxygenation and dioxygenation .
+Other minor biotransformation pathways for atazanavir or its metabolites consisted of glucuronidation , N - dealkylation , hydrolysis , and oxygenation with dehydrogenation .
+Two minor metabolites of atazanavir in plasma have been characterized .
+Neither metabolite demonstrated in vitro antiviral activity .
+In vitro studies using human liver microsomes suggested that atazanavir is metabolized by CYP3A .
+Elimination Following a single 400 - mg dose of 14 C - atazanavir , 79 % and 13 % of the total radioactivity was recovered in the feces and urine , respectively .
+Unchanged drug accounted for approximately 20 % and 7 % of the administered dose in the feces and urine , respectively .
+The mean elimination half - life of atazanavir in healthy volunteers ( n = 214 ) and HIV - infected adult patients ( n = 13 ) was approximately 7 hours at steady state following a dose of 400 mg daily with a light meal .
+Special Populations Pediatrics The pharmacokinetic parameters for atazanavir at steady state in pediatric patients were predicted by a population pharmacokinetic model and are summarized in Table 15 by weight ranges that correspond to the recommended doses .
+[ See Dosage and Administration ( 2 . 2 ) . ]
+Table 15 : Predicted Steady - State Pharmacokinetics of Atazanavir ( capsule formulation ) with ritonavir in HIV - Infected Pediatric PatientsBody Weight ( range in kg ) atazanavir / ritonavir Dose ( mg ) Cmax ng / mL Geometric Mean ( CV % ) AUC ng • h / mL Geometric Mean ( CV % ) Cmin ng / mL Geometric Mean ( CV % ) 15 – < 20 150 / 100 5213 ( 78 . 7 % ) 42902 ( 77 . 0 % ) 504 ( 99 . 5 % ) 20 – < 40 200 / 100 4954 ( 81 . 7 % ) 42999 ( 78 . 5 % ) 562 ( 98 . 9 % ) ≥ 40 300 / 100 5040 ( 84 . 6 % ) 46777 ( 80 . 6 % ) 691 ( 98 . 5 % ) Pregnancy The pharmacokinetic data from HIV - infected pregnant women receiving REYATAZ Capsules with ritonavir are presented in Table 16 .
+Table 16 : Steady - State Pharmacokinetics of Atazanavir with ritonavir in HIV - Infected Pregnant Women in the Fed State Atazanavir 300 mg with ritonavir 100 mg Pharmacokinetic Parameter 2 nd Trimester ( n = 5 a ) 3 rd Trimester ( n = 20 ) Postpartumb ( n = 34 ) a Available data during the 2 nd trimester are limited .
+b Atazanavir peak concentrations and AUCs were found to be approximately 28 – 43 % higher during the postpartum period ( 4 – 12 weeks ) than those observed historically in HIV - infected , non - pregnant patients .
+Atazanavir plasma trough concentrations were approximately 2 . 2 - fold higher during the postpartum period when compared to those observed historically in HIV - infected , non - pregnant patients .
+c Cmin is concentration 24 hours post - dose .
+Cmax ng / mL 3078 . 85 3291 . 46 5721 . 21 Geometric mean ( CV % ) ( 50 ) ( 48 ) ( 31 ) AUC ng ∙ h / mL 27657 . 1 34251 . 5 61990 . 4 Geometric mean ( CV % ) ( 43 ) ( 43 ) ( 32 ) Cmin ng / mLc 538 . 70 668 . 48 1462 . 59 Geometric mean ( CV % ) ( 46 ) ( 50 ) ( 45 ) Drug Interaction Data Atazanavir is a metabolism - dependent CYP3A inhibitor , with a Kinact value of 0 . 05 to 0 . 06 min - 1 and Ki value of 0 . 84 to 1 . 0 µM .
+Atazanavir is also a direct inhibitor for UGT1A1 ( Ki = 1 . 9 µM ) and CYP2C8 ( Ki = 2 . 1 µM ) .
+Atazanavir has been shown in vivo not to induce its own metabolism , nor to increase the biotransformation of some drugs metabolized by CYP3A .
+In a multiple - dose study , REYATAZ decreased the urinary ratio of endogenous 6β - OH cortisol to cortisol versus baseline , indicating that CYP3A production was not induced .
+Drug interaction studies were performed with REYATAZ and other drugs likely to be coadministered and some drugs commonly used as probes for pharmacokinetic interactions .
+The effects of coadministration of REYATAZ on the AUC , Cmax , and Cmin are summarized in Tables 17 and 18 .
+For information regarding clinical recommendations , see Drug Interactions ( 7 ) .
+Table 17 : Drug Interactions : Pharmacokinetic Parameters for Atazanavir in the Presence of Coadministered DrugsaCoadministered Drug Coadministered Drug Dose / Schedule REYATAZ Dose / Schedule Ratio ( 90 % Confidence Interval ) of Atazanavir Pharmacokinetic Parameters with / without Coadministered Drug ; No Effect = 1 . 00 Cmax AUC Cmin a Data provided are under fed conditions unless otherwise noted .
+b All drugs were given under fasted conditions .
+c 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19 .
+d REYATAZ 300 mg plus ritonavir 100 mg once daily coadministered with famotidine 40 mg twice daily resulted in atazanavir geometric mean Cmax that was similar and AUC and Cmin values that were 1 . 79 - and 4 . 46 - fold higher relative to REYATAZ 400 mg once daily alone .
+e Similar results were noted when famotidine 20 mg BID was administered 2 hours after and 10 hours before atazanavir 300 mg and ritonavir 100 mg plus tenofovir 300 mg .
+f Atazanavir / ritonavir / tenofovir was administered after a light meal .
+g Study was conducted in HIV - infected individuals .
+h Compared with atazanavir 400 mg historical data without nevirapine ( n = 13 ) , the ratio of geometric means ( 90 % confidence intervals ) for Cmax , AUC , and Cmin were 1 . 42 ( 0 . 98 , 2 . 05 ) , 1 . 64 ( 1 . 11 , 2 . 42 ) , and 1 . 25 ( 0 . 66 , 2 . 36 ) , respectively , for atazanavir / ritonavir 300 / 100 mg ; and 2 . 02 ( 1 . 42 , 2 . 87 ) , 2 . 28 ( 1 . 54 , 3 . 38 ) , and 1 . 80 ( 0 . 94 , 3 . 45 ) , respectively , for atazanavir / ritonavir 400 / 100 mg .
+i Parallel group design ; n = 23 for atazanavir / ritonavir plus nevirapine , n = 22 for atazanavir 300 mg / ritonavir 100 mg without nevirapine .
+Subjects were treated with nevirapine prior to study entry .
+j Omeprazole 40 mg was administered on an empty stomach 2 hours before REYATAZ .
+k Omeprazole 20 mg was administered 30 minutes prior to a light meal in the morning and REYATAZ 300 mg plus ritonavir 100 mg in the evening after a light meal , separated by 12 hours from omeprazole .
+l REYATAZ 300 mg plus ritonavir 100 mg once daily separated by 12 hours from omeprazole 20 mg daily resulted in increases in atazanavir geometric mean AUC ( 10 % ) and Cmin ( 2 . 4 - fold ) , with a decrease in Cmax ( 29 % ) relative to REYATAZ 400 mg once daily in the absence of omeprazole ( study days 1 − 6 ) .
+m Omeprazole 20 mg was given 30 minutes prior to a light meal in the morning and REYATAZ 400 mg plus ritonavir 100 mg once daily after a light meal , 1 hour after omeprazole .
+Effects on atazanavir concentrations were similar when REYATAZ 400 mg plus ritonavir 100 mg was separated from omeprazole 20 mg by 12 hours .
+n REYATAZ 400 mg plus ritonavir 100 mg once daily administered with omeprazole 20 mg once daily resulted in increases in atazanavir geometric mean AUC ( 32 % ) and Cmin ( 3 . 3 - fold ) , with a decrease in Cmax ( 26 % ) relative to REYATAZ 400 mg once daily in the absence of omeprazole ( study days 1 − 6 ) .
+o Compared with atazanavir 400 mg QD historical data , administration of atazanavir / ritonavir 300 / 100 mg QD increased the atazanavir geometric mean values of Cmax , AUC , and Cmin by 18 % , 103 % , and 671 % , respectively .
+p Note that similar results were observed in studies where administration of tenofovir and REYATAZ was separated by 12 hours .
+q Ratio of atazanavir plus ritonavir plus tenofovir to atazanavir plus ritonavir .
+Atazanavir 300 mg plus ritonavir 100 mg results in higher atazanavir exposure than atazanavir 400 mg ( see footnote o ) .
+The geometric mean values of atazanavir pharmacokinetic parameters when coadministered with ritonavir and tenofovir were : Cmax = 3190 ng / mL , AUC = 34459 ng • h / mL , and Cmin = 491 ng / mL .
+Study was conducted in HIV - infected individuals .
+atenolol 50 mg QD , d 7 − 11 ( n = 19 ) and d 19 − 23 400 mg QD , d 1 − 11 ( n = 19 ) 1 . 00 ( 0 . 89 , 1 . 12 ) 0 . 93 ( 0 . 85 , 1 . 01 ) 0 . 74 ( 0 . 65 , 0 . 86 ) clarithromycin 500 mg BID , d 7 − 10 ( n = 29 ) and d 18 − 21 400 mg QD , d 1 − 10 ( n = 29 ) 1 . 06 ( 0 . 93 , 1 . 20 ) 1 . 28 ( 1 . 16 , 1 . 43 ) 1 . 91 ( 1 . 66 , 2 . 21 ) didanosine ( ddI ) ( buffered tablets ) plus stavudine ( d4T ) b ddI : 200 mg x 1 dose , d4T : 40 mg x 1 dose ( n = 31 ) 400 mg x 1 dose simultaneously with ddI and d4T ( n = 31 ) 0 . 11 ( 0 . 06 , 0 . 18 ) 0 . 13 ( 0 . 08 , 0 . 21 ) 0 . 16 ( 0 . 10 , 0 . 27 ) ddI : 200 mg x 1 dose , d4T : 40 mg x 1 dose ( n = 32 ) 400 mg x 1 dose 1 h after ddI + d4T ( n = 32 ) 1 . 12 ( 0 . 67 , 1 . 18 ) 1 . 03 ( 0 . 64 , 1 . 67 ) 1 . 03 ( 0 . 61 , 1 . 73 ) ddI ( enteric - coated [ EC ] capsules ) c 400 mg d 8 ( fed ) ( n = 34 ) 400 mg d 19 ( fed ) ( n = 31 ) 400 mg QD , d 2 − 8 ( n = 34 ) 300 mg / ritonavir 100 mg QD , d 9 − 19 ( n = 31 ) 1 . 03 ( 0 . 93 , 1 . 14 ) 1 . 04 ( 1 . 01 , 1 . 07 ) 0 . 99 ( 0 . 91 , 1 . 08 ) 1 . 00 ( 0 . 96 , 1 . 03 ) 0 . 98 ( 0 . 89 , 1 . 08 ) 0 . 87 ( 0 . 82 , 0 . 92 ) diltiazem 180 mg QD , d 7 − 11 ( n = 30 ) and d 19 − 23 400 mg QD , d 1 − 11 ( n = 30 ) 1 . 04 ( 0 . 96 , 1 . 11 ) 1 . 00 ( 0 . 95 , 1 . 05 ) 0 . 98 ( 0 . 90 , 1 . 07 ) efavirenz 600 mg QD , d 7 − 20 ( n = 27 ) 400 mg QD , d 1 − 20 ( n = 27 ) 0 . 41 ( 0 . 33 , 0 . 51 ) 0 . 26 ( 0 . 22 , 0 . 32 ) 0 . 07 ( 0 . 05 , 0 . 10 ) 600 mg QD , d 7 − 20 ( n = 13 ) 400 mg QD , d 1 − 6 ( n = 23 ) then 300 mg / ritonavir 100 mg QD , 2 h before efavirenz , d 7 − 20 ( n = 13 ) 1 . 14 ( 0 . 83 , 1 . 58 ) 1 . 39 ( 1 . 02 , 1 . 88 ) 1 . 48 ( 1 . 24 , 1 . 76 ) 600 mg QD , d 11 – 24 ( pm ) ( n = 14 ) 300 mg QD / ritonavir 100 mg QD , d 1 – 10 ( pm ) ( n = 22 ) , then 400 mg QD / ritonavir 100 mg QD , d 11 – 24 ( pm ) , ( simultaneous with efavirenz ) ( n = 14 ) 1 . 17 ( 1 . 08 , 1 . 27 ) 1 . 00 ( 0 . 91 , 1 . 10 ) 0 . 58 ( 0 . 49 , 0 . 69 ) famotidine 40 mg BID , d 7 − 12 ( n = 15 ) 400 mg QD , d 1 − 6 ( n = 45 ) , d 7 − 12 ( simultaneous administration ) ( n = 15 ) 0 . 53 ( 0 . 34 , 0 . 82 ) 0 . 59 ( 0 . 40 , 0 . 87 ) 0 . 58 ( 0 . 37 , 0 . 89 ) 40 mg BID , d 7 − 12 ( n = 14 ) 400 mg QD ( pm ) , d 1 − 6 ( n = 14 ) , d 7 − 12 ( 10 h after , 2 h before famotidine ) ( n = 14 ) 1 . 08 ( 0 . 82 , 1 . 41 ) 0 . 95 ( 0 . 74 , 1 . 21 ) 0 . 79 ( 0 . 60 , 1 . 04 ) 40 mg BID , d 11 − 20 ( n = 14 ) d 300 mg QD / ritonavir 100 mg QD , d 1 − 10 ( n = 46 ) , d 11 − 20 d ( simultaneous administration ) ( n = 14 ) 0 . 86 ( 0 . 79 , 0 . 94 ) 0 . 82 ( 0 . 75 , 0 . 89 ) 0 . 72 ( 0 . 64 , 0 . 81 ) 20 mg BID , d 11 − 17 ( n = 18 ) 300 mg QD / ritonavir 100 mg QD / tenofovir 300 mg QD , d 1 − 10 ( am ) ( n = 39 ) , d 11 − 17 ( am ) ( simultaneous administration with am famotidine ) ( n = 18 ) e , f 0 . 91 ( 0 . 84 , 0 . 99 ) 0 . 90 ( 0 . 82 , 0 . 98 ) 0 . 81 ( 0 . 69 , 0 . 94 ) 40 mg QD ( pm ) , d 18 − 24 ( n = 20 ) 300 mg QD / ritonavir 100 mg QD / tenofovir 300 mg QD , d 1 − 10 ( am ) ( n = 39 ) , d 18 − 24 ( am ) ( 12 h after pm famotidine ) ( n = 20 ) f 0 . 89 ( 0 . 81 , 0 . 97 ) 0 . 88 ( 0 . 80 , 0 . 96 ) 0 . 77 ( 0 . 63 , 0 . 93 ) 40 mg BID , d 18 − 24 ( n = 18 ) 300 mg QD / ritonavir 100 mg QD / tenofovir 300 mg QD , d 1 − 10 ( am ) ( n = 39 ) , d 18 − 24 ( am ) ( 10 h after pm famotidine and 2 h before am famotidine ) ( n = 18 ) f 0 . 74 ( 0 . 66 , 0 . 84 ) 0 . 79 ( 0 . 70 , 0 . 88 ) 0 . 72 ( 0 . 63 , 0 . 83 ) 40 mg BID , d 11 − 20 ( n = 15 ) 300 mg QD / ritonavir 100 mg QD , d 1 − 10 ( am ) ( n = 46 ) , then 400 mg QD / ritonavir 100 mg QD , d 11 − 20 ( am ) ( n = 15 ) 1 . 02 ( 0 . 87 , 1 . 18 ) 1 . 03 ( 0 . 86 , 1 . 22 ) 0 . 86 ( 0 . 68 , 1 . 08 ) fluconazole 200 mg QD , d 11 − 20 ( n = 29 ) 300 mg QD / ritonavir 100 mg QD , d 1 − 10 ( n = 19 ) , d 11 − 20 ( n = 29 ) 1 . 03 ( 0 . 95 , 1 . 11 ) 1 . 04 ( 0 . 95 , 1 . 13 ) 0 . 98 ( 0 . 85 , 1 . 13 ) ketoconazole 200 mg QD , d 7 − 13 ( n = 14 ) 400 mg QD , d 1 − 13 ( n = 14 ) 0 . 99 ( 0 . 77 , 1 . 28 ) 1 . 10 ( 0 . 89 , 1 . 37 ) 1 . 03 ( 0 . 53 , 2 . 01 ) nevirapineg , h 200 mg BID , d 1 – 23 ( n = 23 ) 300 mg QD / ritonavir 100 mg QD , d 4 – 13 , then 400 mg QD / ritonavir 100 mg QD , d 14 – 23 ( n = 23 ) i 0 . 72 ( 0 . 60 , 0 . 86 ) 1 . 02 ( 0 . 85 , 1 . 24 ) 0 . 58 ( 0 . 48 , 0 . 71 ) 0 . 81 ( 0 . 65 , 1 . 02 ) 0 . 28 ( 0 . 20 , 0 . 40 ) 0 . 41 ( 0 . 27 , 0 . 60 ) omeprazole 40 mg QD , d 7 − 12 ( n = 16 ) j 400 mg QD , d 1 − 6 ( n = 48 ) , d 7 − 12 ( n = 16 ) 0 . 04 ( 0 . 04 , 0 . 05 ) 0 . 06 ( 0 . 05 , 0 . 07 ) 0 . 05 ( 0 . 03 , 0 . 07 ) 40 mg QD , d 11 − 20 ( n = 15 ) j 300 mg QD / ritonavir 100 mg QD , d 1 − 20 ( n = 15 ) 0 . 28 ( 0 . 24 , 0 . 32 ) 0 . 24 ( 0 . 21 , 0 . 27 ) 0 . 22 ( 0 . 19 , 0 . 26 ) 20 mg QD , d 17 − 23 ( am ) ( n = 13 ) 300 mg QD / ritonavir 100 mg QD , d 7 − 16 ( pm ) ( n = 27 ) , d 17 − 23 ( pm ) ( n = 13 ) k , l 0 . 61 ( 0 . 46 , 0 . 81 ) 0 . 58 ( 0 . 44 , 0 . 75 ) 0 . 54 ( 0 . 41 , 0 . 71 ) 20 mg QD , d 17 − 23 ( am ) ( n = 14 ) 300 mg QD / ritonavir 100 mg QD , d 7 − 16 ( am ) ( n = 27 ) , then 400 mg QD / ritonavir 100 mg QD , d 17 − 23 ( am ) ( n = 14 ) m , n 0 . 69 ( 0 . 58 , 0 . 83 ) 0 . 70 ( 0 . 57 , 0 . 86 ) 0 . 69 ( 0 . 54 , 0 . 88 ) rifabutin 150 mg QD , d 15 − 28 ( n = 7 ) 400 mg QD , d 1 − 28 ( n = 7 ) 1 . 34 ( 1 . 14 , 1 . 59 ) 1 . 15 ( 0 . 98 , 1 . 34 ) 1 . 13 ( 0 . 68 , 1 . 87 ) rifampin 600 mg QD , d 17 − 26 ( n = 16 ) 300 mg QD / ritonavir 100 mg QD , d 7 − 16 ( n = 48 ) , d 17 − 26 ( n = 16 ) 0 . 47 ( 0 . 41 , 0 . 53 ) 0 . 28 ( 0 . 25 , 0 . 32 ) 0 . 02 ( 0 . 02 , 0 . 03 ) ritonaviro 100 mg QD , d 11 − 20 ( n = 28 ) 300 mg QD , d 1 − 20 ( n = 28 ) 1 . 86 ( 1 . 69 , 2 . 05 ) 3 . 38 ( 3 . 13 , 3 . 63 ) 11 . 89 ( 10 . 23 , 13 . 82 ) tenofovirp 300 mg QD , d 9 − 16 ( n = 34 ) 400 mg QD , d 2 − 16 ( n = 34 ) 0 . 79 ( 0 . 73 , 0 . 86 ) 0 . 75 ( 0 . 70 , 0 . 81 ) 0 . 60 ( 0 . 52 , 0 . 68 ) 300 mg QD , d 15 − 42 ( n = 10 ) 300 mg / ritonavir 100 mg QD , d 1 − 42 ( n = 10 ) 0 . 72 q ( 0 . 50 , 1 . 05 ) 0 . 75 q ( 0 . 58 , 0 . 97 ) 0 . 77 q ( 0 . 54 , 1 . 10 ) Table 18 : Drug Interactions : Pharmacokinetic Parameters for Coadministered Drugs in the Presence of REYATAZaCoadministered Drug Coadministered Drug Dose / Schedule REYATAZ Dose / Schedule Ratio ( 90 % Confidence Interval ) of Coadministered Drug Pharmacokinetic Parameters with / without REYATAZ ; No Effect = 1 . 00 Cmax AUC Cmin a Data provided are under fed conditions unless otherwise noted .
+b All drugs were given under fasted conditions .
+c 400 mg ddI EC and REYATAZ were administered together with food on Days 8 and 19 .
+d Upon further dose normalization of ethinyl estradiol 25 mcg with atazanavir relative to ethinyl estradiol 35 mcg without atazanavir , the ratio of geometric means ( 90 % confidence intervals ) for Cmax , AUC , and Cmin were 0 . 82 ( 0 . 73 , 0 . 92 ) , 1 . 06 ( 0 . 95 , 1 . 17 ) , and 1 . 35 ( 1 . 11 , 1 . 63 ) , respectively .
+e Upon further dose normalization of ethinyl estradiol 35 mcg with atazanavir / ritonavir relative to ethinyl estradiol 25 mcg without atazanavir / ritonavir , the ratio of geometric means ( 90 % confidence intervals ) for Cmax , AUC , and Cmin were 1 . 17 ( 1 . 03 , 1 . 34 ) , 1 . 13 ( 1 . 05 , 1 . 22 ) , and 0 . 88 ( 0 . 77 , 1 . 00 ) , respectively .
+f All subjects were on a 28 day lead - in period ; one full cycle of Ortho Tri - Cyclen ® .
+Ortho Tri - Cyclen ® contains 35 mcg of ethinyl estradiol .
+Ortho Tri - Cyclen ® LO contains 25 mcg of ethinyl estradiol .
+Results were dose normalized to an ethinyl estradiol dose of 35 mcg .
+g 17 - deacetyl norgestimate is the active component of norgestimate .
+h ( R ) - methadone is the active isomer of methadone .
+i Study was conducted in HIV - infected individuals .
+j Subjects were treated with nevirapine prior to study entry .
+k Omeprazole was used as a metabolic probe for CYP2C19 .
+Omeprazole was given 2 hours after REYATAZ on Day 7 ; and was given alone 2 hours after a light meal on Day 20 .
+l Not the recommended therapeutic dose of atazanavir .
+m When compared to rifabutin 150 mg QD alone d1 − 10 ( n = 14 ) .
+Total of Rifabutin + 25 - O - desacetyl - rifabutin : AUC 2 . 19 ( 1 . 78 , 2 . 69 ) .
+n Rosiglitazone used as a probe substrate for CYP2C8 .
+o The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID .
+However , the Cmax is about 79 % higher than that for the standard dosing of saquinavir ( soft gelatin capsules ) alone at 1200 mg TID .
+p Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours .
+q Administration of tenofovir and REYATAZ was temporally separated by 12 hours .
+NA = not available .
+acetaminophen 1 gm BID , d 1 − 20 ( n = 10 ) 300 mg QD / ritonavir 100 mg QD , d 11 − 20 ( n = 10 ) 0 . 87 ( 0 . 77 , 0 . 99 ) 0 . 97 ( 0 . 91 , 1 . 03 ) 1 . 26 ( 1 . 08 , 1 . 46 ) atenolol 50 mg QD , d 7 − 11 ( n = 19 ) and d 19 − 23 400 mg QD , d 1 − 11 ( n = 19 ) 1 . 34 ( 1 . 26 , 1 . 42 ) 1 . 25 ( 1 . 16 , 1 . 34 ) 1 . 02 ( 0 . 88 , 1 . 19 ) clarithromycin 500 mg BID , d 7 − 10 ( n = 21 ) and d 18 − 21 400 mg QD , d 1 − 10 ( n = 21 ) 1 . 50 ( 1 . 32 , 1 . 71 ) OH - clarithromycin : 0 . 28 ( 0 . 24 , 0 . 33 ) 1 . 94 ( 1 . 75 , 2 . 16 ) OH - clarithromycin : 0 . 30 ( 0 . 26 , 0 . 34 ) 2 . 60 ( 2 . 35 , 2 . 88 ) OH - clarithromycin : 0 . 38 ( 0 . 34 , 0 . 42 ) didanosine ( ddI ) ( buffered tablets ) plus stavudine ( d4T ) b ddI : 200 mg x 1 dose , d4T : 40 mg x 1 dose ( n = 31 ) 400 mg x 1 dose simultaneous with ddI and d4T ( n = 31 ) ddI : 0 . 92 ( 0 . 84 , 1 . 02 ) d4T : 1 . 08 ( 0 . 96 , 1 . 22 ) ddI : 0 . 98 ( 0 . 92 , 1 . 05 ) d4T : 1 . 00 ( 0 . 97 , 1 . 03 ) NA d4T : 1 . 04 ( 0 . 94 , 1 . 16 ) ddI ( enteric - coated [ EC ] capsules ) c 400 mg d 1 ( fasted ) , d 8 ( fed ) ( n = 34 ) 400 mg QD , d 2 − 8 ( n = 34 ) 0 . 64 ( 0 . 55 , 0 . 74 ) 0 . 66 ( 0 . 60 , 0 . 74 ) 1 . 13 ( 0 . 91 , 1 . 41 ) 400 mg d 1 ( fasted ) , d 19 ( fed ) ( n = 31 ) 300 mg QD / ritonavir 100 mg QD , d 9 − 19 ( n = 31 ) 0 . 62 ( 0 . 52 , 0 . 74 ) 0 . 66 ( 0 . 59 , 0 . 73 ) 1 . 25 ( 0 . 92 , 1 . 69 ) diltiazem 180 mg QD , d 7 − 11 ( n = 28 ) and d 19 − 23 400 mg QD , d 1 − 11 ( n = 28 ) 1 . 98 ( 1 . 78 , 2 . 19 ) desacetyl - diltiazem : 2 . 72 ( 2 . 44 , 3 . 03 ) 2 . 25 ( 2 . 09 , 2 . 16 ) desacetyl - diltiazem : 2 . 65 ( 2 . 45 , 2 . 87 ) 2 . 42 ( 2 . 14 , 2 . 73 ) desacetyl - diltiazem : 2 . 21 ( 2 . 02 , 2 . 42 ) ethinyl estradiol & norethindroned Ortho - Novum ® 7 / 7 / 7 QD , d 1 − 29 ( n = 19 ) 400 mg QD , d 16 − 29 ( n = 19 ) ethinyl estradiol : 1 . 15 ( 0 . 99 , 1 . 32 ) norethindrone : 1 . 67 ( 1 . 42 , 1 . 96 ) ethinyl estradiol : 1 . 48 ( 1 . 31 , 1 . 68 ) norethindrone : 2 . 10 ( 1 . 68 , 2 . 62 ) ethinyl estradiol : 1 . 91 ( 1 . 57 , 2 . 33 ) norethindrone : 3 . 62 ( 2 . 57 , 5 . 09 ) ethinyl estradiol & norgestimatee Ortho Tri - Cyclen ® QD , d 1 – 28 ( n = 18 ) , then Ortho Tri - Cyclen ® LO QD , d 29 – 42 f ( n = 14 ) 300 mg QD / ritonavir 100 mg QD , d 29 – 42 ( n = 14 ) ethinyl estradiol : 0 . 84 ( 0 . 74 , 0 . 95 ) 17 - deacetyl norgestimate : g 1 . 68 ( 1 . 51 , 1 . 88 ) ethinyl estradiol : 0 . 81 ( 0 . 75 , 0 . 87 ) 17 - deacetyl norgestimate : g 1 . 85 ( 1 . 67 , 2 . 05 ) ethinyl estradiol : 0 . 63 ( 0 . 55 , 0 . 71 ) 17 - deacetyl norgestimate : g 2 . 02 ( 1 . 77 , 2 . 31 ) fluconazole 200 mg QD , d 1 − 10 ( n = 11 ) and 200 mg QD , d 11 − 20 ( n = 29 ) 300 mg QD / ritonavir 100 mg QD , d 11 − 20 ( n = 29 ) 1 . 05 ( 0 . 99 , 1 . 10 ) 1 . 08 ( 1 . 02 , 1 . 15 ) 1 . 07 ( 1 . 00 , 1 . 15 ) methadone Stable maintenance dose , d 1 − 15 ( n = 16 ) 400 mg QD , d 2 − 15 ( n = 16 ) ( R ) - methadoneh 0 . 91 ( 0 . 84 , 1 . 0 ) total : 0 . 85 ( 0 . 78 , 0 . 93 ) ( R ) - methadoneh 1 . 03 ( 0 . 95 , 1 . 10 ) total : 0 . 94 ( 0 . 87 , 1 . 02 ) ( R ) - methadoneh 1 . 11 ( 1 . 02 , 1 . 20 ) total : 1 . 02 ( 0 . 93 , 1 . 12 ) nevirapinei , j 200 mg BID , d 1 – 23 ( n = 23 ) 300 mg QD / ritonavir 100 mg QD , d 4 – 13 , then 400 mg QD / ritonavir 100 mg QD , d 14 – 23 ( n = 23 ) 1 . 17 ( 1 . 09 , 1 . 25 ) 1 . 21 ( 1 . 11 , 1 . 32 ) 1 . 25 ( 1 . 17 , 1 . 34 ) 1 . 26 ( 1 . 17 , 1 . 36 ) 1 . 32 ( 1 . 22 , 1 . 43 ) 1 . 35 ( 1 . 25 , 1 . 47 ) omeprazolek 40 mg single dose , d 7 and d 20 ( n = 16 ) 400 mg QD , d 1 − 12 ( n = 16 ) 1 . 24 ( 1 . 04 , 1 . 47 ) 1 . 45 ( 1 . 20 , 1 . 76 ) NA rifabutin 300 mg QD , d 1 − 10 then 150 mg QD , d 11 − 20 ( n = 3 ) 600 mg QD , l d 11 − 20 ( n = 3 ) 1 . 18 ( 0 . 94 , 1 . 48 ) 25 - O - desacetyl - rifabutin : 8 . 20 ( 5 . 90 , 11 . 40 ) 2 . 10 ( 1 . 57 , 2 . 79 ) 25 - O - desacetyl - rifabutin : 22 . 01 ( 15 . 97 , 30 . 34 ) 3 . 43 ( 1 . 98 , 5 . 96 ) 25 - O - desacetyl - rifabutin : 75 . 6 ( 30 . 1 , 190 . 0 ) 150 mg twice weekly , d 1 − 15 ( n = 7 ) 300 mg QD / ritonavir 100 mg QD , d 1 − 17 ( n = 7 ) 2 . 49 m ( 2 . 03 , 3 . 06 ) 25 - O - desacetyl - rifabutin : 7 . 77 ( 6 . 13 , 9 . 83 ) 1 . 48 m ( 1 . 19 , 1 . 84 ) 25 - O - desacetyl - rifabutin : 10 . 90 ( 8 . 14 , 14 . 61 ) 1 . 40 m ( 1 . 05 , 1 . 87 ) 25 - O - desacetyl - rifabutin : 11 . 45 ( 8 . 15 , 16 . 10 ) rosiglitazonen 4 mg single dose , d 1 , 7 , 17 ( n = 14 ) 400 mg QD , d 2 – 7 , then 300 mg QD / ritonavir 100 mg QD , d 8 – 17 ( n = 14 ) 1 . 08 ( 1 . 03 , 1 . 13 ) 0 . 97 ( 0 . 91 , 1 . 04 ) 1 . 35 ( 1 . 26 , 1 . 44 ) 0 . 83 ( 0 . 77 , 0 . 89 ) NA NA saquinaviro ( soft gelatin capsules ) 1200 mg QD , d 1 − 13 ( n = 7 ) 400 mg QD , d 7 − 13 ( n = 7 ) 4 . 39 ( 3 . 24 , 5 . 95 ) 5 . 49 ( 4 . 04 , 7 . 47 ) 6 . 86 ( 5 . 29 , 8 . 91 ) tenofovirp 300 mg QD , d 9 − 16 ( n = 33 ) and d 24 − 30 ( n = 33 ) 400 mg QD , d 2 − 16 ( n = 33 ) 1 . 14 ( 1 . 08 , 1 . 20 ) 1 . 24 ( 1 . 21 , 1 . 28 ) 1 . 22 ( 1 . 15 , 1 . 30 ) 300 mg QD , d 1 − 7 ( pm ) ( n = 14 ) d 25 − 34 ( pm ) ( n = 12 ) 300 mg QD / ritonavir 100 mg QD , d 25 − 34 ( am ) ( n = 12 ) q 1 . 34 ( 1 . 20 , 1 . 51 ) 1 . 37 ( 1 . 30 , 1 . 45 ) 1 . 29 ( 1 . 21 , 1 . 36 ) lamivudine + zidovudine 150 mg lamivudine + 300 mg zidovudine BID , d 1 − 12 ( n = 19 ) 400 mg QD , d 7 − 12 ( n = 19 ) lamivudine : 1 . 04 ( 0 . 92 , 1 . 16 ) zidovudine : 1 . 05 ( 0 . 88 , 1 . 24 ) zidovudine glucuronide : 0 . 95 ( 0 . 88 , 1 . 02 ) lamivudine : 1 . 03 ( 0 . 98 , 1 . 08 ) zidovudine : 1 . 05 ( 0 . 96 , 1 . 14 ) zidovudine glucuronide : 1 . 00 ( 0 . 97 , 1 . 03 ) lamivudine : 1 . 12 ( 1 . 04 , 1 . 21 ) zidovudine : 0 . 69 ( 0 . 57 , 0 . 84 ) zidovudine glucuronide : 0 . 82 ( 0 . 62 , 1 . 08 ) [ MULTIMEDIA ] 12 . 4 Microbiology Mechanism of Action Atazanavir ( ATV ) is an azapeptide HIV - 1 protease inhibitor ( PI ) .
+The compound selectively inhibits the virus - specific processing of viral Gag and Gag - Pol polyproteins in HIV - 1 infected cells , thus preventing formation of mature virions .
+Antiviral Activity in Cell Culture Atazanavir exhibits anti - HIV - 1 activity with a mean 50 % effective concentration ( EC50 ) in the absence of human serum of 2 to 5 nM against a variety of laboratory and clinical HIV - 1 isolates grown in peripheral blood mononuclear cells , macrophages , CEM - SS cells , and MT - 2 cells .
+ATV has activity against HIV - 1 Group M subtype viruses A , B , C , D , AE , AG , F , G , and J isolates in cell culture .
+ATV has variable activity against HIV - 2 isolates ( 1 . 9 to 32 nM ) , with EC50 values above the EC50 values of failure isolates .
+Two - drug combination antiviral activity studies with ATV showed no antagonism in cell culture with NNRTIs ( delavirdine , efavirenz , and nevirapine ) , PIs ( amprenavir , indinavir , lopinavir , nelfinavir , ritonavir , and saquinavir ) , NRTIs ( abacavir , didanosine , emtricitabine , lamivudine , stavudine , tenofovir , zalcitabine , and zidovudine ) , the HIV - 1 fusion inhibitor enfuvirtide , and two compounds used in the treatment of viral hepatitis , adefovir and ribavirin , without enhanced cytotoxicity .
+Resistance In Cell Culture : HIV - 1 isolates with a decreased susceptibility to ATV have been selected in cell culture and obtained from patients treated with ATV or atazanavir / ritonavir ( ATV / RTV ) .
+HIV - 1 isolates with 93 - to 183 - fold reduced susceptibility to ATV from three different viral strains were selected in cell culture by 5 months .
+The substitutions in these HIV - 1 viruses that contributed to ATV resistance include I50L , N88S , I84V , A71V , and M46I .
+Changes were also observed at the protease cleavage sites following drug selection .
+Recombinant viruses containing the I50L substitution without other major PI substitutions were growth impaired and displayed increased susceptibility in cell culture to other PIs ( amprenavir , indinavir , lopinavir , nelfinavir , ritonavir , and saquinavir ) .
+The I50L and I50V substitutions yielded selective resistance to ATV and amprenavir , respectively , and did not appear to be cross - resistant .
+Clinical Studies of Treatment - Naive Patients : Comparison of Ritonavir - Boosted REYATAZ vs . Unboosted REYATAZ : Study AI424 - 089 compared REYATAZ 300 mg once daily with ritonavir 100 mg vs . REYATAZ 400 mg once daily when administered with lamivudine and extended - release stavudine in HIV - infected treatment - naive patients .
+A summary of the number of virologic failures and virologic failure isolates with ATV resistance in each arm is shown in Table 19 .
+Table 19 : Summary of Virologic Failuresa at Week 96 in Study AI424 - 089 : Comparison of Ritonavir Boosted REYATAZ vs . Unboosted REYATAZ : Randomized Patients REYATAZ 300 mg + ritonavir 100 mg REYATAZ 400 mg ( n = 95 ) ( n = 105 ) a Virologic failure includes patients who were never suppressed through Week 96 and on study at Week 96 , had virologic rebound or discontinued due to insufficient viral load response .
+b Percentage of Virologic Failure Isolates with genotypic and phenotypic data .
+c Mixture of I50I / L emerged in 2 other ATV 400 mg - treated patients .
+Neither isolate was phenotypically resistant to ATV .
+Virologic Failure ( ≥ 50 copies / mL ) at Week 96 15 ( 16 % ) 34 ( 32 % ) Virologic Failure with Genotypes and Phenotypes Data 5 17 Virologic Failure Isolates with ATV - resistance at Week 96 0 / 5 ( 0 % ) b 4 / 17 ( 24 % ) b Virologic Failure Isolates with I50L Emergence at Week 96 c 0 / 5 ( 0 % ) b 2 / 17 ( 12 % ) b Virologic Failure Isolates with Lamivudine Resistance at Week 96 2 / 5 ( 40 % ) b 11 / 17 ( 65 % ) b Clinical Studies of Treatment - Naive Patients Receiving REYATAZ 300 mg With Ritonavir 100 mg : In Phase III study AI424 - 138 , an as - treated genotypic and phenotypic analysis was conducted on samples from patients who experienced virologic failure ( HIV - 1 RNA ≥ 400 copies / mL ) or discontinued before achieving suppression on ATV / RTV ( n = 39 ; 9 % ) and LPV / RTV ( n = 39 ; 9 % ) through 96 weeks of treatment .
+In the ATV / RTV arm , one of the virologic failure isolates had a 56 - fold decrease in ATV susceptibility emerge on therapy with the development of PI resistance - associated substitutions L10F , V32I , K43T , M46I , A71I , G73S , I85I / V , and L90M .
+The NRTI resistance - associated substitution M184V also emerged on treatment in this isolate conferring emtricitabine resistance .
+Two ATV / RTV - virologic failure isolates had baseline phenotypic ATV resistance and IAS - defined major PI resistance - associated substitutions at baseline .
+The 150 L substitution emerged on study in one of these failure isolates and was associated with a 17 - fold decrease in ATV susceptibility from baseline and the other failure isolate with baseline ATV resistance and PI substitutions ( M46M / I and I84I / V ) had additional IAS - defined major PI substitutions ( V32I , M46I , and I84V ) emerge on ATV treatment associated with a 3 - fold decrease in ATV susceptibiity from baseline .
+Five of the treatment failure isolates in the ATV / RTV arm developed phenotypic emtricitabine resistance with the emergence of either the M184I ( n = 1 ) or the M184V ( n = 4 ) substitution on therapy and none developed phenotypic tenofovir disoproxil resistance .
+In the LPV / RTV arm , one of the virologic failure patient isolates had a 69 - fold decrease in LPV susceptibility emerge on therapy with the development of PI substitutions L10V , V11I , I54V , G73S , and V82A in addition to baseline PI substitutions L10L / I , V32I , I54I / V , A71I , G73G / S , V82V / A , L89V , and L90M .
+Six LPV / RTV virologic failure isolates developed the M184V substitution and phenotypic emtricitabine resistance and two developed phenotypic tenofovir disoproxil resistance .
+Clinical Studies of Treatment - Naive Patients Receiving REYATAZ 400 mg Without Ritonavir : ATV - resistant clinical isolates from treatment - naive patients who experienced virologic failure on REYATAZ 400 mg treatment without ritonavir often developed an I50L substitution ( after an average of 50 weeks of ATV therapy ) , often in combination with an A71V substitution , but also developed one or more other PI substitutions ( eg , V32I , L33F , G73S , V82A , I85V , or N88S ) with or without the I50L substitution .
+In treatment - naive patients , viral isolates that developed the I50L substitution , without other major PI substitutions , showed phenotypic resistance to ATV but retained in cell culture susceptibility to other PIs ( amprenavir , indinavir , lopinavir , nelfinavir , ritonavir , and saquinavir ) ; however , there are no clinical data available to demonstrate the effect of the I50L substitution on the efficacy of subsequently administered PIs .
+Clinical Studies of Treatment - Experienced Patients : In studies of treatment - experienced patients treated with ATV or ATV / RTV , most ATV - resistant isolates from patients who experienced virologic failure developed substitutions that were associated with resistance to multiple PIs and displayed decreased susceptibility to multiple PIs .
+The most common protease substitutions to develop in the viral isolates of patients who failed treatment with ATV 300 mg once daily and RTV 100 mg once daily ( together with tenofovir and an NRTI ) included V32I , L33F / V / I , E35D / G , M46I / L , I50L , F53L / V , I54V , A71V / T / I , G73S / T / C , V82A / T / L , I85V , and L89V / Q / M / T .
+Other substitutions that developed on ATV / RTV treatment including E34K / A / Q , G48V , I84V , N88S / D / T , and L90M occurred in less than 10 % of patient isolates .
+Generally , if multiple PI resistance substitutions were present in the HIV - 1 virus of the patient at baseline , ATV resistance developed through substitutions associated with resistance to other PIs and could include the development of the I50L substitution .
+The I50L substitution has been detected in treatment - experienced patients experiencing virologic failure after long - term treatment .
+Protease cleavage site changes also emerged on ATV treatment but their presence did not correlate with the level of ATV resistance .
+Cross - Resistance Cross - resistance among PIs has been observed .
+Baseline phenotypic and genotypic analyses of clinical isolates from ATV clinical trials of PI - experienced patients showed that isolates cross - resistant to multiple PIs were cross - resistant to ATV .
+Greater than 90 % of the isolates with substitutions that included I84V or G48V were resistant to ATV .
+Greater than 60 % of isolates containing L90M , G73S / T / C , A71V / T , I54V , M46I / L , or a change at V82 were resistant to ATV , and 38 % of isolates containing a D30N substitution in addition to other changes were resistant to ATV .
+Isolates resistant to ATV were also cross - resistant to other PIs with > 90 % of the isolates resistant to indinavir , lopinavir , nelfinavir , ritonavir , and saquinavir , and 80 % resistant to amprenavir .
+In treatment - experienced patients , PI - resistant viral isolates that developed the I50L substitution in addition to other PI resistance - associated substitution were also cross - resistant to other PIs .
+Baseline Genotype / Phenotype and Virologic Outcome Analyses Genotypic and / or phenotypic analysis of baseline virus may aid in determining ATV susceptibility before initiation of ATV / RTV therapy .
+An association between virologic response at 48 weeks and the number and type of primary PI resistance - associated substitutions detected in baseline HIV - 1 isolates from antiretroviral - experienced patients receiving ATV / RTV once daily or lopinavir ( LPV ) / RTV twice daily in Study AI424 - 045 is shown in Table 20 .
+Overall , both the number and type of baseline PI substitutions affected response rates in treatment - experienced patients .
+In the ATV / RTV group , patients had lower response rates when 3 or more baseline PI substitutions , including a substitution at position 36 , 71 , 77 , 82 , or 90 , were present compared to patients with 1 – 2 PI substitutions , including one of these substitutions .
+Table 20 : HIV RNA Response by Number and Type of Baseline PI Substitution , Antiretroviral - Experienced Patients in Study AI424 - 045 , As - Treated AnalysisNumber and Type of Baseline PI Substitutionsa Virologic Response = HIV RNA < 400 copies / mLb ATV / RTV ( n = 110 ) LPV / RTV ( n = 113 ) a Primary substitutions include any change at D30 , V32 , M36 , M46 , I47 , G48 , I50 , I54 , A71 , G73 , V77 , V82 , I84 , N88 , and L90 .
+b Results should be interpreted with caution because the subgroups were small .
+c There were insufficient data ( n < 3 ) for PI substitutions V32I , I47V , G48V , I50V , and F53L .
+3 or more primary PI substitutions including : c D30N 75 % ( 6 / 8 ) 50 % ( 3 / 6 ) M36I / V 19 % ( 3 / 16 ) 33 % ( 6 / 18 ) M46I / L / T 24 % ( 4 / 17 ) 23 % ( 5 / 22 ) I54V / L / T / M / A 31 % ( 5 / 16 ) 31 % ( 5 / 16 ) A71V / T / I / G 34 % ( 10 / 29 ) 39 % ( 12 / 31 ) G73S / A / C / T 14 % ( 1 / 7 ) 38 % ( 3 / 8 ) V77I 47 % ( 7 / 15 ) 44 % ( 7 / 16 ) V82A / F / T / S / I 29 % ( 6 / 21 ) 27 % ( 7 / 26 ) I84V / A 11 % ( 1 / 9 ) 33 % ( 2 / 6 ) N88D 63 % ( 5 / 8 ) 67 % ( 4 / 6 ) L90M 10 % ( 2 / 21 ) 44 % ( 11 / 25 ) Number of baseline primary PI substitutionsa All patients , as - treated 58 % ( 64 / 110 ) 59 % ( 67 / 113 ) 0 – 2 PI substitutions 75 % ( 50 / 67 ) 75 % ( 50 / 67 ) 3 – 4 PI substitutions 41 % ( 14 / 34 ) 43 % ( 12 / 28 ) 5 or more PI substitutions 0 % ( 0 / 9 ) 28 % ( 5 / 18 ) The response rates of antiretroviral - experienced patients in Study AI424 - 045 were analyzed by baseline phenotype ( shift in susceptibility in cell culture relative to reference , Table 21 ) .
+The analyses are based on a select patient population with 62 % of patients receiving an NNRTI - based regimen before study entry compared to 35 % receiving a PI - based regimen .
+Additional data are needed to determine clinically relevant break points for REYATAZ .
+Table 21 : Baseline Phenotype by Outcome , Antiretroviral - Experienced Patients in Study AI424 - 045 , As - Treated AnalysisBaseline Phenotypea Virologic Response = HIV RNA < 400 copies / mLb ATV / RTV ( n = 111 ) LPV / RTV ( n = 111 ) a Fold change susceptibility in cell culture relative to the wild - type reference .
+b Results should be interpreted with caution because the subgroups were small .
+0 – 2 71 % ( 55 / 78 ) 70 % ( 56 / 80 ) > 2 – 5 53 % ( 8 / 15 ) 44 % ( 4 / 9 ) > 5 – 10 13 % ( 1 / 8 ) 33 % ( 3 / 9 ) > 10 10 % ( 1 / 10 ) 23 % ( 3 / 13 ) 13 NONCLINICAL TOXICOLOGY 13 . 1 Carcinogenesis , Mutagenesis , Impairment of Fertility Carcinogenesis Long - term carcinogenicity studies in mice and rats were carried out with atazanavir for two years .
+In the mouse study , drug - related increases in hepatocellular adenomas were found in females at 360 mg / kg / day .
+The systemic drug exposure ( AUC ) at the NOAEL ( no observable adverse effect level ) in females , ( 120 mg / kg / day ) was 2 . 8 times and in males ( 80 mg / kg / day ) was 2 . 9 times higher than those in humans at the clinical dose ( 300 mg / day atazanavir boosted with 100 mg / day ritonavir , non - pregnant patients ) .
+In the rat study , no drug - related increases in tumor incidence were observed at doses up to 1200 mg / kg / day , for which AUCs were 1 . 1 ( males ) or 3 . 9 ( females ) times those measured in humans at the clinical dose .
+Mutagenesis Atazanavir tested positive in an in vitro clastogenicity test using primary human lymphocytes , in the absence and presence of metabolic activation .
+Atazanavir tested negative in the in vitro Ames reverse - mutation assay , in vivo micronucleus and DNA repair tests in rats , and in vivo DNA damage test in rat duodenum ( comet assay ) .
+Impairment of Fertility At the systemic drug exposure levels ( AUC ) 0 . 9 ( in male rats ) or 2 . 3 ( in female rats ) times that of the human clinical dose , ( 300 mg / day atazanavir boosted with 100 mg / day ritonavir ) significant effects on mating , fertility , or early embryonic development were not observed .
+14 CLINICAL STUDIES 14 . 1 Adult Patients Without Prior Antiretroviral Therapy Study AI424 - 138 : a 96 - week study comparing the antiviral efficacy and safety of atazanavir / ritonavir with lopinavir / ritonavir , each in combination with fixed - dose tenofovir - emtricitabine in HIV - 1 infected treatment - naive subjects .
+Study AI424 - 138 is a 96 - week open - label , randomized , multicenter study , comparing REYATAZ ( 300 mg once daily ) with ritonavir ( 100 mg once daily ) to lopinavir with ritonavir ( 400 / 100 mg twice daily ) , each in combination with fixed - dose tenofovir with emtricitabine ( 300 / 200 mg once daily ) , in 878 antiretroviral treatment - naive treated patients .
+Patients had a mean age of 36 years ( range : 19 – 72 ) , 49 % were Caucasian , 18 % Black , 9 % Asian , 23 % Hispanic / Mestizo / mixed race , and 68 % were male .
+The median baseline plasma CD4 + cell count was 204 cells / mm3 ( range : 2 to 810 cells / mm3 ) and the mean baseline plasma HIV - 1 RNA level was 4 . 94 log10 copies / mL ( range : 2 . 60 to 5 . 88 log10 copies / mL ) .
+Treatment response and outcomes through Week 96 are presented in Table 22 .
+Table 22 : Outcomes of Treatment Through Week 96 ( Study AI424 - 138 ) Outcome REYATAZ 300 mg + ritonavir 100 mg ( once daily ) with tenofovir / emtricitabine ( once daily ) a ( n = 441 ) lopinavir 400 mg + ritonavir 100 mg ( twice daily ) with tenofovir / emtricitabine ( once daily ) a ( n = 437 ) 96 Weeks 96 Weeks aAs a fixed - dose combination : 300 mg tenofovir , 200 mg emtricitabine once daily .
+bPatients achieved HIV RNA < 50 copies / mL at Week 96 .
+Roche Amplicor ® , v1 . 5 ultra - sensitive assay .
+cPre - specified ITT analysis at Week 48 using as - randomized cohort : ATV / RTV 78 % and LPV / RTV 76 % [ difference estimate : 1 . 7 % ( 95 % confidence interval : − 3 . 8 % , 7 . 1 % ) ] .
+dPre - specified ITT analysis at Week 96 using as - randomized cohort : ATV / RTV 74 % and LPV / RTV 68 % [ difference estimate : 6 . 1 % ( 95 % confidence interval : 0 . 3 % , 12 . 0 % ) ] .
+eIncludes viral rebound and failure to achieve confirmed HIV RNA < 50 copies / mL through Week 96 .
+fIncludes lost to follow - up , patient ’ s withdrawal , noncompliance , protocol violation , and other reasons .
+Responderb , c , d 75 % 68 % Virologic failuree 17 % 19 % Rebound 8 % 10 % Never suppressed through Week 96 9 % 9 % Death 1 % 1 % Discontinued due to adverse event 3 % 5 % Discontinued for other reasonsf 4 % 7 % Through 96 weeks of therapy , the proportion of responders among patients with high viral loads ( ie , baseline HIV RNA ≥ 100 , 000 copies / mL ) was comparable for the REYATAZ / ritonavir ( 165 of 223 patients , 74 % ) and lopinavir / ritonavir ( 148 of 222 patients , 67 % ) arms .
+At 96 weeks , the median increase from baseline in CD4 + cell count was 261 cells / mm3 for the REYATAZ / ritonavir arm and 273 cells / mm3 for the lopinavir / ritonavir arm .
+Study AI424 - 034 : REYATAZ once daily compared to efavirenz once daily , each in combination with fixed - dose lamivudine + zidovudine twice daily .
+Study AI424 - 034 was a randomized , double - blind , multicenter trial comparing REYATAZ ( 400 mg once daily ) to efavirenz ( 600 mg once daily ) , each in combination with a fixed - dose combination of lamivudine ( 3 TC ) ( 150 mg ) and zidovudine ( ZDV ) ( 300 mg ) given twice daily , in 810 antiretroviral treatment - naive patients .
+Patients had a mean age of 34 years ( range : 18 to 73 ) , 36 % were Hispanic , 33 % were Caucasian , and 65 % were male .
+The mean baseline CD4 + cell count was 321 cells / mm3 ( range : 64 to 1424 cells / mm3 ) and the mean baseline plasma HIV - 1 RNA level was 4 . 8 log10 copies / mL ( range : 2 . 2 to 5 . 9 log10 copies / mL ) .
+Treatment response and outcomes through Week 48 are presented in Table 23 .
+Table 23 : Outcomes of Randomized Treatment Through Week 48 ( Study AI424 - 034 ) Outcome REYATAZ 400 mg once daily + lamivudine + zidovudined efavirenz 600 mg once daily + lamivudine + zidovudined ( n = 405 ) ( n = 405 ) a Patients achieved and maintained confirmed HIV RNA < 400 copies / mL ( < 50 copies / mL ) through Week 48 .
+Roche Amplicor ® HIV - 1 Monitor ™ Assay , test version 1 . 0 or 1 . 5 as geographically appropriate .
+b Includes viral rebound and failure to achieve confirmed HIV RNA < 400 copies / mL through Week 48 .
+c Includes lost to follow - up , patient ’ s withdrawal , noncompliance , protocol violation , and other reasons .
+d As a fixed - dose combination : 150 mg lamivudine , 300 mg zidovudine twice daily .
+Respondera 67 % ( 32 % ) 62 % ( 37 % ) Virologic failureb 20 % 21 % Rebound 17 % 16 % Never suppressed through Week 48 3 % 5 % Death – < 1 % Discontinued due to adverse event 5 % 7 % Discontinued for other reasonsc 8 % 10 % Through 48 weeks of therapy , the proportion of responders among patients with high viral loads ( ie , baseline HIV RNA ≥ 100 , 000 copies / mL ) was comparable for the REYATAZ and efavirenz arms .
+The mean increase from baseline in CD4 + cell count was 176 cells / mm3 for the REYATAZ arm and 160 cells / mm3 for the efavirenz arm .
+Study AI424 - 008 : REYATAZ 400 mg once daily compared to REYATAZ 600 mg once daily , and compared to nelfinavir 1250 mg twice daily , each in combination with stavudine and lamivudine twice daily .
+Study AI424 - 008 was a 48 - week , randomized , multicenter trial , blinded to dose of REYATAZ , comparing REYATAZ at two dose levels ( 400 mg and 600 mg once daily ) to nelfinavir ( 1250 mg twice daily ) , each in combination with stavudine ( 40 mg ) and lamivudine ( 150 mg ) given twice daily , in 467 antiretroviral treatment - naive patients .
+Patients had a mean age of 35 years ( range : 18 to 69 ) , 55 % were Caucasian , and 63 % were male .
+The mean baseline CD4 + cell count was 295 cells / mm3 ( range : 4 to 1003 cells / mm3 ) and the mean baseline plasma HIV - 1 RNA level was 4 . 7 log10 copies / mL ( range : 1 . 8 to 5 . 9 log10 copies / mL ) .
+Treatment response and outcomes through Week 48 are presented in Table 24 .
+Table 24 : Outcomes of Randomized Treatment Through Week 48 ( Study AI424 - 008 ) Outcome REYATAZ 400 mg once daily + lamivudine + stavudine ( n = 181 ) nelfinavir 1250 mg twice daily + lamivudine + stavudine ( n = 91 ) a Patients achieved and maintained confirmed HIV RNA < 400 copies / mL ( < 50 copies / mL ) through Week 48 .
+Roche Amplicor ® HIV - 1 Monitor ™ Assay , test version 1 . 0 or 1 . 5 as geographically appropriate .
+b Includes viral rebound and failure to achieve confirmed HIV RNA < 400 copies / mL through Week 48 .
+c Includes lost to follow - up , patient ’ s withdrawal , noncompliance , protocol violation , and other reasons .
+Respondera 67 % ( 33 % ) 59 % ( 38 % ) Virologic failureb 24 % 27 % Rebound 14 % 14 % Never suppressed through Week 48 10 % 13 % Death < 1 % – Discontinued due to adverse event 1 % 3 % Discontinued for other reasonsc 7 % 10 % Through 48 weeks of therapy , the mean increase from baseline in CD4 + cell count was 234 cells / mm3 for the REYATAZ 400 - mg arm and 211 cells / mm3 for the nelfinavir arm .
+14 . 2 Adult Patients With Prior Antiretroviral Therapy Study AI424 - 045 : REYATAZ once daily + ritonavir once daily compared to REYATAZ once daily + saquinavir ( soft gelatin capsules ) once daily , and compared to lopinavir + ritonavir twice daily , each in combination with tenofovir + one NRTI .
+Study AI424 - 045 is an ongoing , randomized , multicenter trial comparing REYATAZ ( 300 mg once daily ) with ritonavir ( 100 mg once daily ) to REYATAZ ( 400 mg once daily ) with saquinavir soft gelatin capsules ( 1200 mg once daily ) , and to lopinavir + ritonavir ( 400 / 100 mg twice daily ) , each in combination with tenofovir and one NRTI , in 347 ( of 358 randomized ) patients who experienced virologic failure on HAART regimens containing PIs , NRTIs , and NNRTIs .
+The mean time of prior exposure to antiretrovirals was 139 weeks for PIs , 283 weeks for NRTIs , and 85 weeks for NNRTIs .
+The mean age was 41 years ( range : 24 to 74 ) ; 60 % were Caucasian , and 78 % were male .
+The mean baseline CD4 + cell count was 338 cells / mm3 ( range : 14 to 1543 cells / mm3 ) and the mean baseline plasma HIV - 1 RNA level was 4 . 4 log10 copies / mL ( range : 2 . 6 to 5 . 88 log10 copies / mL ) .
+Treatment outcomes through Week 48 for the REYATAZ / ritonavir and lopinavir / ritonavir treatment arms are presented in Table 25 .
+REYATAZ / ritonavir and lopinavir / ritonavir were similar for the primary efficacy outcome measure of time - averaged difference in change from baseline in HIV RNA level .
+Study AI424 - 045 was not large enough to reach a definitive conclusion that REYATAZ / ritonavir and lopinavir / ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of detection .
+[ See Clinical Pharmacology , Tables 20 and 21 ( 12 . 4 ) . ]
+Table 25 : Outcomes of Treatment Through Week 48 in Study AI424 - 045 ( Patients with Prior Antiretroviral Experience ) Outcome REYATAZ 300 mg + ritonavir 100 mg once daily + tenofovir + 1 NRTI lopinavir / ritonavir ( 400 / 100 mg ) twice daily + tenofovir + 1 NRTI Differencea ( REYATAZ - lopinavir / ritonavir ) ( n = 119 ) ( n = 118 ) ( CI ) a Time - averaged difference through Week 48 for HIV RNA ; Week 48 difference in HIV RNA percentages and CD4 + mean changes , REYATAZ / ritonavir vs lopinavir / ritonavir ; CI = 97 . 5 % confidence interval for change in HIV RNA ; 95 % confidence interval otherwise .
+b Roche Amplicor ® HIV - 1 Monitor ™ Assay , test version 1 . 5 .
+c Protocol - defined primary efficacy outcome measure .
+d Based on patients with baseline and Week 48 CD4 + cell count measurements ( REYATAZ / ritonavir , n = 85 ; lopinavir / ritonavir , n = 93 ) .
+e Patients achieved and maintained confirmed HIV - 1 RNA < 400 copies / mL ( < 50 copies / mL ) through Week 48 .
+HIV RNA Change from Baseline ( log10 copies / mL ) b − 1 . 58 − 1 . 70 + 0 . 12 c ( − 0 . 17 , 0 . 41 ) CD4 + Change from Baseline ( cells / mm3 ) d 116 123 − 7 ( − 67 , 52 ) Percent of Patients Respondinge HIV RNA < 400 copies / mLb 55 % 57 % - 2 . 2 % ( − 14 . 8 % , 10 . 5 % ) HIV RNA < 50 copies / mLb 38 % 45 % − 7 . 1 % ( − 19 . 6 % , 5 . 4 % ) No patients in the REYATAZ / ritonavir treatment arm and three patients in the lopinavir / ritonavir treatment arm experienced a new - onset CDC Category C event during the study .
+In Study AI424 - 045 , the mean change from baseline in plasma HIV - 1 RNA for REYATAZ 400 mg with saquinavir ( n = 115 ) was − 1 . 55 log10 copies / mL , and the time - averaged difference in change in HIV - 1 RNA levels versus lopinavir / ritonavir was 0 . 33 .
+The corresponding mean increase in CD4 + cell count was 72 cells / mm3 .
+Through 48 weeks of treatment , the proportion of patients in this treatment arm with plasma HIV - 1 RNA < 400 ( < 50 ) copies / mL was 38 % ( 26 % ) .
+In this study , coadministration of REYATAZ and saquinavir did not provide adequate efficacy [ see Drug Interactions ( 7 ) ] .
+Study AI424 - 045 also compared changes from baseline in lipid values .
+[ See Adverse Reactions ( 6 . 1 ) . ]
+Study AI424 - 043 : Study AI424 - 043 was a randomized , open - label , multicenter trial comparing REYATAZ ( 400 mg once daily ) to lopinavir / ritonavir ( 400 / 100 mg twice daily ) , each in combination with two NRTIs , in 300 patients who experienced virologic failure to only one prior PI - containing regimen .
+Through 48 weeks , the proportion of patients with plasma HIV - 1 RNA < 400 ( < 50 ) copies / mL was 49 % ( 35 % ) for patients randomized to REYATAZ ( n = 144 ) and 69 % ( 53 % ) for patients randomized to lopinavir / ritonavir ( n = 146 ) .
+The mean change from baseline was − 1 . 59 log10 copies / mL in the REYATAZ treatment arm and − 2 . 02 log10 copies / mL in the lopinavir / ritonavir arm .
+Based on the results of this study , REYATAZ without ritonavir is inferior to lopinavir / ritonavir in PI - experienced patients with prior virologic failure and is not recommended for such patients .
+14 . 3 Pediatric Patients Assessment of the pharmacokinetics , safety , tolerability , and efficacy of REYATAZ is based on data from the open - label , multicenter clinical trial PACTG 1020 A conducted in patients from 3 months to 21 years of age .
+In this study , 193 patients ( 86 antiretroviral - naive and 107 antiretroviral - experienced ) received once daily REYATAZ , with or without ritonavir , in combination with two NRTIs .
+One - hundred and five patients ( 6 to less than 18 years of age ) treated with the REYATAZ capsule formulation , with or without ritonavir , were evaluated .
+Using an ITT analysis , the overall proportions of antiretroviral - naive and - experienced patients with HIV RNA < 400 copies / mL at Week 96 were 51 % ( 22 / 43 ) and 34 % ( 21 / 62 ) , respectively .
+The overall proportions of antiretroviral - naive and - experienced patients with HIV RNA < 50 copies / mL at Week 96 were 47 % ( 20 / 43 ) and 24 % ( 15 / 62 ) , respectively .
+The median increase from baseline in absolute CD4 count at 96 weeks of therapy was 335 cells / mm3 in antiretroviral - naive patients and 220 cells / mm3 in antiretroviral - experienced patients .
+16 HOW SUPPLIED / STORAGE AND HANDLING REYATAZ ® ( atazanavir sulfate ) Capsules are available in the following strengths and configurations of plastic bottles with child - resistant closures .
+Product Strength * Capsule Shell Color ( cap / body ) Markings on Capsule ( ink color ) Capsules per Bottle NDC Number cap body 150 mg blue / powder blue BMS 150 mg ( white ) 3624 ( blue ) 60 54868 - 4857 - 0 300 mg red / blue BMS 300 mg ( white ) 3622 ( white ) 30 54868 - 5838 - 0 * atazanavir equivalent as atazanavir sulfate .
+REYATAZ ( atazanavir sulfate ) Capsules should be stored at 25 ° C ( 77 ° F ) ; excursions permitted to 15 – 30 ° C ( 59 – 86 ° F ) [ see USP Controlled Room Temperature ] .
+17 PATIENT COUNSELING INFORMATION See FDA - approved patient labeling ( Patient Information ) .
+A statement to patients and healthcare providers is included on the product ’ s bottle label : ALERT : Find out about medicines that should NOT be taken with REYATAZ .
+Patients should be informed that REYATAZ is not a cure for HIV infection and that they may continue to develop opportunistic infections and other complications associated with HIV disease .
+Patients should be told that there are currently no data demonstrating that therapy with REYATAZ can reduce the risk of transmitting HIV to others through sexual contact .
+17 . 1 Dosing Instructions Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death .
+Patients should remain under the care of a physician while using REYATAZ .
+Patients should be advised to take REYATAZ with food every day and take other concomitant antiretroviral therapy as prescribed .
+REYATAZ must always be used in combination with other antiretroviral drugs .
+Patients should not alter the dose or discontinue therapy without consulting with their doctor .
+If a dose of REYATAZ is missed , patients should take the dose as soon as possible and then return to their normal schedule .
+However , if a dose is skipped the patient should not double the next dose .
+17 . 2 Drug Interactions REYATAZ may interact with some drugs ; therefore , patients should be advised to report to their doctor the use of any other prescription , nonprescription medication , or herbal products , particularly St . John ’ s wort .
+Patients receiving a PDE5 inhibitor and atazanavir should be advised that they may be at an increased risk of PDE5 inhibitor - associated adverse events including hypotension , syncope , visual disturbances , and priapism , and should promptly report any symptoms to their doctor .
+Patients should be informed that REVATIO ® ( used to treat pulmonary arterial hypertension ) is contraindicated with REYATAZ and that dose adjustments are necessary when REYATAZ is used with CIALIS ® , LEVITRA ® or VIAGRA ® ( used to treat erectile dysfunction ) , or ADCIRCA ® ( used to treat pulmonary arterial hypertension ) .
+17 . 3 Cardiac Conduction Abnormalities Patients should be informed that atazanavir may produce changes in the electrocardiogram ( eg , PR prolongation ) .
+Patients should consult their physician if they are experiencing symptoms such as dizziness or lightheadedness .
+17 . 4 Rash Patients should be informed that mild rashes without other symptoms have been reported with REYATAZ use .
+These rashes go away within two weeks with no change in treatment .
+However , there have been a few reports of severe skin reactions ( eg , Stevens - Johnson syndrome , erythema multiforme , and toxic skin eruptions ) with REYATAZ use .
+Patients developing signs or symptoms of severe skin reactions or hypersensitivity reactions ( including , but not limited to , severe rash or rash accompanied by one or more of the following : fever , general malaise , muscle or joint aches , blisters , oral lesions , conjunctivitis , facial edema , hepatitis , eosinophilia , granulocytopenia , lymphadenopathy , and renal dysfunction ) must discontinue REYATAZ and seek medical evaluation immediately .
+17 . 5 Hyperbilirubinemia Patients should be informed that asymptomatic elevations in indirect bilirubin have occurred in patients receiving REYATAZ .
+This may be accompanied by yellowing of the skin or whites of the eyes and alternative antiretroviral therapy may be considered if the patient has cosmetic concerns .
+17 . 6 Fat Redistribution Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long - term health effects of these conditions are not known at this time .
+It is unknown whether long - term use of REYATAZ will result in a lower incidence of lipodystrophy than with other protease inhibitors .
+Patient Information REYATAZ ® ( RAY - ah - taz ) ( generic name = atazanavir sulfate ) Capsules ALERT : Find out about medicines that should NOT be taken with REYATAZ .
+Read the section “ What important information should I know about taking REYATAZ with other medicines ? ”
+Read the Patient Information that comes with REYATAZ before you start using it and each time you get a refill .
+There may be new information .
+This leaflet provides a summary about REYATAZ and does not include everything there is to know about your medicine .
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment .
+What is REYATAZ ?
+REYATAZ is a prescription medicine used with other anti - HIV medicines to treat people 6 years of age and older who are infected with the human immunodeficiency virus ( HIV ) .
+HIV is the virus that causes acquired immune deficiency syndrome ( AIDS ) .
+REYATAZ is a type of anti - HIV medicine called a protease inhibitor .
+HIV infection destroys CD4 + ( T ) cells , which are important to the immune system .
+The immune system helps fight infection .
+After a large number of ( T ) cells are destroyed , AIDS develops .
+REYATAZ helps to block HIV protease , an enzyme that is needed for the HIV virus to multiply .
+REYATAZ may lower the amount of HIV in your blood , help your body keep its supply of CD4 + ( T ) cells , and reduce the risk of death and illness associated with HIV .
+Does REYATAZ cure HIV or AIDS ?
+REYATAZ does not cure HIV infection or AIDS .
+At present there is no cure for HIV infection .
+People taking REYATAZ may still get opportunistic infections or other conditions that happen with HIV infection .
+Opportunistic infections are infections that develop because the immune system is weak .
+Some of these conditions are pneumonia , herpes virus infections , and Mycobacterium avium complex ( MAC ) infections .
+It is very important that you see your healthcare provider regularly while taking REYATAZ .
+REYATAZ does not lower your chance of passing HIV to other people through sexual contact , sharing needles , or being exposed to your blood .
+For your health and the health of others , it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen , vaginal secretions , or blood .
+Never use or share dirty needles .
+Who should not take REYATAZ ?
+Do not take REYATAZ if you : • are taking certain medicines .
+( See “ What important information should I know about taking REYATAZ with other medicines ? ” )
+Serious life - threatening side effects or death may happen .
+Before you take REYATAZ , tell your healthcare provider about all medicines you are taking or planning to take .
+These include other prescription and nonprescription medicines , vitamins , and herbal supplements .
+• are allergic to REYATAZ or to any of its ingredients .
+The active ingredient is atazanavir sulfate .
+See the end of this leaflet for a complete list of ingredients in REYATAZ .
+Tell your healthcare provider if you think you have had an allergic reaction to any of these ingredients .
+What should I tell my healthcare provider before I take REYATAZ ?
+Tell your healthcare provider : • If you are pregnant or plan to become pregnant .
+REYATAZ use during pregnancy has not been associated with an increase in birth defects .
+Pregnant women have experienced serious side effects when taking REYATAZ with other HIV medicines called nucleoside analogues .
+You and your healthcare provider will need to decide if REYATAZ is right for you .
+If you use REYATAZ while you are pregnant , talk to your healthcare provider about the Antiretroviral Pregnancy Registry .
+• After your baby is born , tell your healthcare provider if your baby ’ s skin or the white part of his / her eyes turns yellow .
+• If you are breast - feeding .
+You should not breast - feed if you are HIV - positive because of the chance of passing HIV to your baby .
+Also , it is not known if REYATAZ can pass into your breast milk and if it can harm your baby .
+If you are a woman who has or will have a baby , talk with your healthcare provider about the best way to feed your baby .
+• If you have liver problems or are infected with the hepatitis B or C virus .
+See “ What are the possible side effects of REYATAZ ? ”
+• If you have end stage kidney disease managed with hemodialysis .
+• If you have diabetes .
+See “ What are the possible side effects of REYATAZ ? ”
+• If you have hemophilia .
+See “ What are the possible side effects of REYATAZ ? ”
+• About all the medicines you take including prescription and nonprescription medicines , vitamins , and herbal supplements .
+Keep a list of your medicines with you to show your healthcare provider .
+For more information , see “ What important information should I know about taking REYATAZ with other medicines ? ”
+and “ Who should not take REYATAZ ? ”
+Some medicines can cause serious side effects if taken with REYATAZ .
+How should I take REYATAZ ?
+• Take REYATAZ once every day exactly as instructed by your healthcare provider .
+Your healthcare provider will prescribe the amount of REYATAZ that is right for you .
+• Always take REYATAZ with food ( a meal or snack ) to help it work better .
+Swallow the capsules whole .
+Do not open the capsules .
+Take REYATAZ at the same time each day .
+• If you are taking antacids or didanosine ( VIDEX ® or VIDEX ® EC ) , take REYATAZ 2 hours before or 1 hour after these medicines .
+• If you are taking medicines for indigestion , heartburn , or ulcers such as AXID ® ( nizatidine ) , PEPCID AC ® ( famotidine ) , TAGAMET ® ( cimetidine ) , ZANTAC ® ( ranitidine ) , AcipHex ® ( rabeprazole ) , NEXIUM ® ( esomeprazole ) , PREVACID ® ( lansoprazole ) , PRILOSEC ® ( omeprazole ) , or PROTONIX ® ( pantoprazole ) , talk to your healthcare provider .
+• Do not change your dose or stop taking REYATAZ without first talking with your healthcare provider .
+It is important to stay under a healthcare provider ’ s care while taking REYATAZ .
+• When your supply of REYATAZ starts to run low , get more from your healthcare provider or pharmacy .
+It is important not to run out of REYATAZ .
+The amount of HIV in your blood may increase if the medicine is stopped for even a short time .
+• If you miss a dose of REYATAZ , take it as soon as possible and then take your next scheduled dose at its regular time .
+If , however , it is within 6 hours of your next dose , do not take the missed dose .
+Wait and take the next dose at the regular time .
+Do not double the next dose .
+It is important that you do not miss any doses of REYATAZ or your other anti - HIV medicines .
+• If you take more than the prescribed dose of REYATAZ , call your healthcare provider or poison control center right away .
+What are the possible side effects of REYATAZ ?
+The following list of side effects is not complete .
+Report any new or continuing symptoms to your healthcare provider .
+If you have questions about side effects , ask your healthcare provider .
+Your healthcare provider may be able to help you manage these side effects .
+The following side effects have been reported with REYATAZ : • mild rash ( redness and itching ) without other symptoms sometimes occurs in patients taking REYATAZ , most often in the first few weeks after the medicine is started .
+Rashes usually go away within 2 weeks with no change in treatment .
+Tell your healthcare provider if rash occurs .
+• severe rash : Rash may develop in association with other symptoms which could be serious and potentially cause death .
+If you develop a rash with any of the following symptoms stop using REYATAZ and call your healthcare provider right away : • shortness of breath • general ill feeling or “ flu - like ” symptoms • fever • muscle or joint aches • conjunctivitis ( red or inflamed eyes , like “ pink eye ” ) • blisters • mouth sores • swelling of your face • yellowing of the skin or eyes .
+These effects may be due to increases in bilirubin levels in the blood ( bilirubin is made by the liver ) .
+Although these effects may not be damaging to your liver , skin , or eyes , call your healthcare provider promptly if your skin or the white part of your eyes turn yellow .
+• a change in the way your heart beats ( heart rhythm change ) .
+Call your healthcare provider right away if you get dizzy or lightheaded .
+These could be symptoms of a heart problem .
+• diabetes and high blood sugar ( hyperglycemia ) sometimes happen in patients taking protease inhibitor medicines like REYATAZ .
+Some patients had diabetes before taking protease inhibitors while others did not .
+Some patients may need changes in their diabetes medicine .
+• if you have liver disease including hepatitis B or C , your liver disease may get worse when you take anti - HIV medicines like REYATAZ .
+• kidney stones have been reported in patients taking REYATAZ .
+If you develop signs or symptoms of kidney stones ( pain in your side , blood in your urine , pain when you urinate ) tell your healthcare provider promptly .
+• some patients with hemophilia have increased bleeding problems with protease inhibitors like REYATAZ .
+• changes in body fat .
+These changes may include an increased amount of fat in the upper back and neck ( “ buffalo hump ” ) , breast , and around the trunk .
+Loss of fat from the legs , arms , and face may also happen .
+The cause and long - term health effects of these conditions are not known at this time .
+• immune reconstitution syndrome .
+In some patients with advanced HIV infection ( AIDS ) and a history of opportunistic infection , signs and symptoms of inflammation from previous infections may occur soon after anti - HIV treatment , including REYATAZ , is started .
+Other common side effects of REYATAZ taken with other anti - HIV medicines include nausea ; headache ; stomach pain ; vomiting ; diarrhea ; depression ; fever ; dizziness ; trouble sleeping ; numbness , tingling , or burning of hands or feet ; and muscle pain .
+Gallbladder disorders ( which may include gallstones and gallbladder inflammation ) have been reported in patients taking REYATAZ .
+What important information should I know about taking REYATAZ with other medicines ?
+Do not take REYATAZ if you take the following medicines ( not all brands may be listed ; tell your healthcare provider about all the medicines you take ) .
+REYATAZ may cause serious , life - threatening side effects or death when used with these medicines .
+• Ergot medicines : dihydroergotamine , ergonovine , ergotamine , and methylergonovine such as CAFERGOT ® , MIGRANAL ® , D . H . E . 45 ® , ergotrate maleate , METHERGINE ® , and others ( used for migraine headaches ) .
+• ORAP ® ( pimozide , used for Tourette ’ s disorder ) .
+• PROPULSID ® ( cisapride , used for certain stomach problems ) .
+• Triazolam , also known as HALCION ® ( used for insomnia ) .
+• Midazolam , also known as VERSED ® ( used for sedation ) , when taken by mouth .
+Do not take the following medicines with REYATAZ because of possible serious side effects : • CAMPTOSAR ® ( irinotecan , used for cancer ) .
+• CRIXIVAN ® ( indinavir , used for HIV infection ) .
+Both REYATAZ and CRIXIVAN sometimes cause increased levels of bilirubin in the blood .
+• Cholesterol - lowering medicines MEVACOR ® ( lovastatin ) or ZOCOR ® ( simvastatin ) .
+• UROXATRAL ® ( alfuzosin , used to treat benign enlargement of the prostate ) .
+• REVATIO ® ( sildenafil , used to treat pulmonary arterial hypertension ) .
+Do not take the following medicines with REYATAZ because they may lower the amount of REYATAZ in your blood .
+This may lead to an increased HIV viral load .
+Resistance to REYATAZ or cross - resistance to other HIV medicines may develop : • Rifampin ( also known as RIMACTANE ® , RIFADIN ® , RIFATER ® , or RIFAMATE ® , used for tuberculosis ) .
+• St . John ’ s wort ( Hypericum perforatum ) , an herbal product sold as a dietary supplement , or products containing St . John ’ s wort .
+• VIRAMUNE ® ( nevirapine , used for HIV infection ) .
+The following medicines are not recommended with REYATAZ : • SEREVENT DISKUS ® ( salmeterol ) and ADVAIR ® ( salmeterol with fluticasone ) , used to treat asthma , emphysema / chronic obstructive pulmonary disease also known as COPD .
+Do not take the following medicine if you are taking REYATAZ and NORVIR ® together : • VFEND ® ( voriconazole ) .
+The following medicines may require your healthcare provider to monitor your therapy more closely ( for some medicines a change in the dose or dose schedule may be needed ) : • CIALIS ® ( tadalafil ) , LEVITRA ® ( vardenafil ) , or VIAGRA ® ( sildenafil ) , used to treat erectile dysfunction .
+REYATAZ may increase the chances of serious side effects that can happen with CIALIS , LEVITRA , or VIAGRA .
+Do not use CIALIS , LEVITRA , or VIAGRA while you are taking REYATAZ unless your healthcare provider tells you it is okay .
+• ADCIRCA ® ( tadalafil ) or TRACLEER ® ( bosentan ) , used to treat pulmonary arterial hypertension .
+• LIPITOR ® ( atorvastatin ) or CRESTOR ® ( rosuvastatin ) .
+There is an increased chance of serious side effects if you take REYATAZ with this cholesterol - lowering medicine .
+• Medicines for abnormal heart rhythm : CORDARONE ® ( amiodarone ) , lidocaine , quinidine ( also known as CARDIOQUIN ® , QUINIDEX ® , and others ) .
+• MYCOBUTIN ® ( rifabutin , an antibiotic used to treat tuberculosis ) .
+• BUPRENEX ® , SUBUTEX ® , SUBOXONE ® ( buprenorphine or buprenorphine / naloxone , used to treat pain and addiction to narcotic painkillers ) .
+• VASCOR ® ( bepridil , used for chest pain ) .
+• COUMADIN ® ( warfarin ) .
+• Tricyclic antidepressants such as ELAVIL ® ( amitriptyline ) , NORPRAMIN ® ( desipramine ) , SINEQUAN ® ( doxepin ) , SURMONTIL ® ( trimipramine ) , TOFRANIL ® ( imipramine ) , or VIVACTIL ® ( protriptyline ) .
+• Medicines to prevent organ transplant rejection : SANDIMMUNE ® or NEORAL ® ( cyclosporin ) , RAPAMUNE ® ( sirolimus ) , or PROGRAF ® ( tacrolimus ) .
+• The antidepressant trazodone ( DESYREL ® and others ) .
+• Fluticasone propionate ( FLONASE ® , FLOVENT ® ) , given by nose or inhaled to treat allergic symptoms or asthma .
+Your doctor may choose not to keep you on fluticasone , especially if you are also taking NORVIR ® .
+• Colchicine ( COLCRYS ® ) , used to prevent or treat gout or treat familial Mediterranean fever .
+The following medicines may require a change in the dose or dose schedule of either REYATAZ or the other medicine : • INVIRASE ® ( saquinavir ) .
+• NORVIR ® ( ritonavir ) .
+• SUSTIVA ® ( efavirenz ) .
+• Antacids or buffered medicines .
+• VIDEX ® ( didanosine ) .
+• VIREAD ® ( tenofovir disoproxil fumarate ) .
+• MYCOBUTIN ® ( rifabutin ) .
+• Calcium channel blockers such as CARDIZEM ® or TIAZAC ® ( diltiazem ) , COVERA - HS ® or ISOPTIN SR ® ( verapamil ) and others .
+• BIAXIN ® ( clarithromycin ) .
+• Medicines for indigestion , heartburn , or ulcers such as AXID ® ( nizatidine ) , PEPCID AC ® ( famotidine ) , TAGAMET ® ( cimetidine ) , or ZANTAC ® ( ranitidine ) .
+Talk to your healthcare provider about choosing an effective method of contraception .
+REYATAZ may affect the safety and effectiveness of hormonal contraceptives such as birth control pills or the contraceptive patch .
+Hormonal contraceptives do not prevent the spread of HIV to others .
+Remember : • Know all the medicines you take .
+• Tell your healthcare provider about all the medicines you take .
+• Do not start a new medicine without talking to your healthcare provider .
+How should I store REYATAZ ?
+• Store REYATAZ Capsules at room temperature , 59 ° to 86 ° F ( 15 ° to 30 ° C ) .
+Do not store this medicine in a damp place such as a bathroom medicine cabinet or near the kitchen sink .
+• Keep your medicine in a tightly closed container .
+• Keep all medicines out of the reach of children and pets at all times .
+Do not keep medicine that is out of date or that you no longer need .
+Dispose of unused medicines through community take - back disposal programs when available or place REYATAZ in an unrecognizable , closed container in the household trash .
+General information about REYATAZ This medicine was prescribed for your particular condition .
+Do not use REYATAZ for another condition .
+Do not give REYATAZ to other people , even if they have the same symptoms you have .
+It may harm them .
+Keep REYATAZ and all medicines out of the reach of children and pets .
+This summary does not include everything there is to know about REYATAZ .
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets .
+Remember no written summary can replace careful discussion with your healthcare provider .
+If you would like more information , talk with your healthcare provider or you can call 1 - 800 - 321 - 1335 .
+What are the ingredients in REYATAZ ?
+Active Ingredient : atazanavir sulfate Inactive Ingredients : Crospovidone , lactose monohydrate ( milk sugar ) , magnesium stearate , gelatin , FD & C Blue # 2 , and titanium dioxide .
+VIDEX ® and REYATAZ ® are registered trademarks of Bristol - Myers Squibb Company .
+COUMADIN ® and SUSTIVA ® are registered trademarks of Bristol - Myers Squibb Pharma Company .
+DESYREL ® is a registered trademark of Mead Johnson and Company .
+Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol - Myers Squibb Company .
+Bristol - Myers Squibb Company Princeton , NJ 08543 USA 1246226B0 Rev October 2011 Additional barcode labeling by : Physicians Total Care , Inc .
+Tulsa , Oklahoima 74146 REPRESENTATIVE PACKAGING NDC 54868 - 4857 - 0 60 Capsules REYATAZ ® ( atazanavir sulfate ) 150 mg Rx only Note to pharmacist : Do not cover ALERT box with pharmacy label .
+ALERT : Find out about medicines that should NOT be taken with REYATAZ ® [ MULTIMEDIA ] [ MULTIMEDIA ] REPRESENTATIVE PACKAGING NDC 54868 - 5838 - 0 30 Capsules REYATAZ ® ( atazanavir sulfate ) 300 mg Rx only Note to pharmacist : Do not cover ALERT box with pharmacy label .
+ALERT : Find out about medicines that should NOT be taken with REYATAZ ® [ MULTIMEDIA ] [ MULTIMEDIA ]

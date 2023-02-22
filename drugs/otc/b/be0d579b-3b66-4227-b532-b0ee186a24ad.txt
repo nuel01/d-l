@@ -1,0 +1,340 @@
+CONTRAINDICATIONS AND WARNINGS PREGNANCY PREGNANCY MUST BE EXCLUDED BEFORE THE START OF TREATMENT WITH LEFLUNOMIDE TABLETS .
+LEFLUNOMIDE TABLETS ARE CONTRAINDICATED IN PREGNANT WOMEN , OR WOMEN OF CHILDBEARING POTENTIAL WHO ARE NOT USING RELIABLE CONTRACEPTION .
+( SEE CONTRAINDICATIONS AND WARNINGS . )
+PREGNANCY MUST BE AVOIDED DURING LEFLUNOMIDE TABLET TREATMENT OR PRIOR TO THE COMPLETION OF THE DRUG ELIMINATION PROCEDURE AFTER LEFLUNOMIDE TABLET TREATMENT .
+HEPATOTOXICITY SEVERE LIVER INJURY , INCLUDING FATAL LIVER FAILURE , HAS BEEN REPORTED IN SOME PATIENTS TREATED WITH LEFLUNOMIDE .
+PATIENTS WITH PRE - EXISTING ACUTE OR CHRONIC LIVER DISEASE , OR THOSE WITH SERUM ALANINE AMINOTRANSFERASE ( ALT ) > 2 XULN BEFORE INITIATING TREATMENT , SHOULD NOT BE TREATED WITH LEFLUNOMIDE .
+USE CAUTION WHEN LEFLUNOMIDE IS GIVEN WITH OTHER POTENTIALLY HEPATOTOXIC DRUGS .
+MONITORING OF ALT LEVELS IS RECOMMENDED AT LEAST MONTHLY FOR SIX MONTHS AFTER STARTING LEFLUNOMIDE , AND THEREAFTER EVERY 6 - 8 WEEKS .
+IF ALT ELEVATION > 3 FOLD ULN OCCURS , INTERRUPT LEFLUNOMIDE THERAPY WHILE INVESTIGATING THE PROBABLE CAUSE OF THE ALT ELEVATION BY CLOSE OBSERVATION AND ADDITIONAL TESTS .
+IF LIKELY LEFLUNOMIDE - INDUCED , START CHOLESTYRAMINE WASHOUT AND MONITOR LIVER TESTS WEEKLY UNTIL NORMALIZED .
+IF LEFLUNOMIDE - INDUCED LIVER INJURY IS UNLIKELY BECAUSE SOME OTHER PROBABLE CAUSE HAS BEEN FOUND , RESUMPTION OF LEFLUNOMIDE THERAPY MAY BE CONSIDERED .
+( SEE WARNINGS – HEPATOTOXICITY ) .
+DESCRIPTION Leflunomide is a pyrimidine synthesis inhibitor .
+The chemical name for leflunomide is N - ( 4 ’ - trifluoromethylphenyl ) - 5 - methylisoxazole - 4 - carboxamide .
+It has a molecular formula C12H9F3N2O2 , a molecular weight of 270 . 2 and the following structural formula : [ MULTIMEDIA ] Leflunomide is available for oral administration as tablets containing 10 or 20 mg of active drug .
+Combined with leflunomide are the following inactive ingredients : colloidal silicon dioxide , croscarmellose sodium , lactose monohydrate , magnesium stearate , pregelatinized starch , and talc .
+[ MULTIMEDIA ] CLINICAL PHARMACOLOGY Mechanism of Action Leflunomide is an isoxazole immunomodulatory agent which inhibits dihydroorotate dehydrogenase ( an enzyme involved in de novo pyrimidine synthesis ) and has antiproliferative activity .
+Several in vivo and in vitro experimental models have demonstrated an anti - inflammatory effect .
+Pharmacokinetics Following oral administration , leflunomide is metabolized to an active metabolite A77 1726 ( hereafter referred to as M1 ) which is responsible for essentially all of its activity in vivo .
+Plasma levels of leflunomide are occasionally seen , at very low levels .
+Studies of the pharmacokinetics of leflunomide have primarily examined the plasma concentrations of this active metabolite .
+[ MULTIMEDIA ] [ MULTIMEDIA ] Absorption Following oral administration , peak levels of the active metabolite , M1 , occurred between 6 - 12 hours after dosing .
+Due to the very long half - life of M1 ( ~ 2 weeks ) , a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady - state levels of M1 .
+Without a loading dose , it is estimated that attainment of steady - state plasma concentrations would require nearly two months of dosing .
+The resulting plasma concentrations following both loading doses and continued clinical dosing indicate that M1 plasma levels are dose proportional .
+Table 1 .
+Pharmacokinetic Parameters for M1 after Administration of Leflunomide at Doses of 5 , 10 , and 25 mg / day for 24 Weeks to Patients ( n = 54 ) with Rheumatoid Arthritis ( Mean ± SD ) ( Study YU204 ) Maintenance ( Loading ) Dose Parameter 25 mg ( 100 mg ) 1 Concentration at 24 hours after loading dose 2 Concentration at 24 hours after maintenance doses at steady - state C24 ( Day 1 ) ( mcg / mL ) 1 4 . 0 ± 0 . 6 8 . 4 ± 2 . 1 8 . 5 ± 2 . 2 C24 ( ss ) ( mcg / mL ) 2 8 . 8 ± 2 . 9 18 ± 9 . 6 63 ± 36 t1 / 2 ( DAYS ) 15 ± 3 14 ± 5 18 ± 9 Relative to an oral solution , leflunomide tablets are 80 % bioavailable .
+Coadministration of leflunomide tablets with a high fat meal did not have a significant impact on M1 plasma levels .
+Distribution M1 has a low volume of distribution ( Vss = 0 . 13 L / kg ) and is extensively bound ( > 99 . 3 % ) to albumin in healthy subjects .
+Protein binding has been shown to be linear at therapeutic concentrations .
+The free fraction of M1 is slightly higher in patients with rheumatoid arthritis and approximately doubled in patients with chronic renal failure ; the mechanism and significance of these increases are unknown .
+Metabolism Leflunomide is metabolized to one primary ( M1 ) and many minor metabolites .
+Of these minor metabolites , only 4 - trifluoromethylaniline ( TFMA ) is quantifiable , occurring at low levels in the plasma of some patients .
+The parent compound is rarely detectable in plasma .
+At the present time the specific site of leflunomide metabolism is unknown .
+In vivo and in vitro studies suggest a role for both the GI wall and the liver in drug metabolism .
+No specific enzyme has been identified as the primary route of metabolism for leflunomide ; however , hepatic cytosolic and microsomal cellular fractions have been identified as sites of drug metabolism .
+Elimination The active metabolite M1 is eliminated by further metabolism and subsequent renal excretion as well as by direct biliary excretion .
+In a 28 day study of drug elimination ( n = 3 ) using a single dose of radiolabeled compound , approximately 43 % of the total radioactivity was eliminated in the urine and 48 % was eliminated in the feces .
+Subsequent analysis of the samples revealed the primary urinary metabolites to be leflunomide glucuronides and an oxanilic acid derivative of M1 .
+The primary fecal metabolite was M1 .
+Of these two routes of elimination , renal elimination is more significant over the first 96 hours after which fecal elimination begins to predominate .
+In a study involving the intravenous administration of M1 , the clearance was estimated to be 31 mL / hr .
+In small studies using activated charcoal ( n = 1 ) or cholestyramine ( n = 3 ) to facilitate drug elimination , the in vivo plasma half - life of M1 was reduced from > 1 week to approximately 1 day .
+( See PRECAUTIONS ─ General - Need For Drug Elimination ) .
+Similar reductions in plasma half - life were observed for a series of volunteers ( n = 96 ) enrolled in pharmacokinetic trials who were given cholestyramine .
+This suggests that biliary recycling is a major contributor to the long elimination half - life of M1 .
+Studies with both hemodialysis and CAPD ( chronic ambulatory peritoneal dialysis ) indicate that M1 is not dialyzable .
+Special Populations Gender .
+Gender has not been shown to cause a consistent change in the in vivo pharmacokinetics of M1 .
+Age .
+Age has been shown to cause a change in the in vivo pharmacokinetics of M1 ( see CLINICAL PHARMACOLOGY – Special Populations - Pediatrics ) .
+Smoking .
+A population based pharmacokinetic analysis of the phase Ill data indicates that smokers have a 38 % increase in clearance over non - smokers ; however , no difference in clinical efficacy was seen between smokers and nonsmokers .
+Chronic Renal Insufficiency .
+In single dose studies in patients ( n = 6 ) with chronic renal insufficiency requiring either chronic ambulatory peritoneal dialysis ( CAPD ) or hemodialysis , neither had a significant impact on circulating levels of M1 .
+The free fraction of M1 was almost doubled , but the mechanism of this increase is not known .
+In light of the fact that the kidney plays a role in drug elimination , and without adequate studies of leflunomide use in subjects with renal insufficiency , caution should be used when leflunomide is administered to these patients .
+Hepatic Insufficiency .
+Studies of the effect of hepatic insufficiency on M1 pharmacokinetics have not been done .
+Given the need to metabolize leflunomide into the active species , the role of the liver in drug elimination / recycling , and the possible risk of increased hepatic toxicity , the use of leflunomide in patients with hepatic insufficiency is not recommended .
+Pediatrics The pharmacokinetics of M1 following oral administration of leflunomide have been investigated in 73 pediatric patients with polyarticular course Juvenile Rheumatoid Arthritis ( JRA ) who ranged in age from 3 to 17 years .
+The results of a population pharmacokinetic analysis of these trials have demonstrated that pediatric patients with body weights ≤ 40 kg have a reduced clearance of M1 ( see Table 2 ) relative to adult rheumatoid arthritis patients .
+Table 2 : Population Pharmacokinetic Estimate of M1 Clearance Following Oral Administration of Leflunomide in Pediatric Patients with Polyarticular Course JRA Mean ± SD [ Range ] N Body Weight ( kg ) CL ( mL / h ) 10 < 20 18 ± 9 . 8 [ 6 . 8 - 37 ] 30 20 - 40 18 ± 9 . 5 [ 4 . 2 - 43 ] 33 > 40 26 ± 16 [ 9 . 7 - 93 . 6 ] Drug Interactions In vivo drug interaction studies have demonstrated a lack of a significant drug interaction between leflunomide and tri - phasic oral contraceptives , and cimetidine .
+In vitro studies of protein binding indicated that warfarin did not affect M1 protein binding .
+At the same time M1 was shown to cause increases ranging from 13 - 50 % in the free fraction of diclofenac , ibuprofen and tolbutamide at concentrations in the clinical range .
+In vitro studies of drug metabolism indicate that M1 inhibits CYP 450 2C9 , which is responsible for the metabolism of phenytoin , tolbutamide , warfarin and many NSAIDs .
+M1 has been shown to inhibit the formation of 4 ’ - hydroxydiclofenac from diclofenac in vitro .
+The clinical significance of these findings with regard to phenytoin and tolbutamide is unknown ; however , there was extensive concomitant use of NSAIDs in the clinical studies and no differential effect was observed .
+( See PRECAUTIONS – Drug Interactions . )
+Methotrexate .
+Coadministration , in 30 patients , of leflunomide ( 100 mg / day x 2 days followed by 10 - 20 mg / day ) with methotrexate ( 10 - 25 mg / week , with folate ) demonstrated no pharmacokinetic interaction between the two drugs .
+However , coadministration increased risk of hepatotoxicity ( see PRECAUTIONS – Drug Interactions - Hepatotoxic Drugs ) .
+Rifampin .
+Following concomitant administration of a single dose of leflunomide to subjects receiving multiple doses of rifampin , M1 peak levels were increased ( ~ 40 % ) over those seen when leflunomide was given alone .
+Because of the potential for leflunomide levels to continue to increase with multiple dosing , caution should be used if patients are to receive both leflunomide and rifampin .
+CLINICAL STUDIES ADULTS The efficacy of leflunomide in the treatment of rheumatoid arthritis ( RA ) was demonstrated in three controlled trials showing reduction in signs and symptoms and inhibition of structural damage .
+• Reduction of signs and symptomsRelief of signs and symptoms was assessed using the American College of Rheumatology ( ACR ) 20 Responder Index , a composite of clinical , laboratory , and functional measures in rheumatoid arthritis .
+An “ ACR20 Responder ” is a patient who had > 20 % improvement in both tender and swollen joint counts and in 3 of the following 5 criteria : physician global assessment , patient global assessment , functional ability measure [ Modified Health Assessment Questionnaire ( MHAQ ) ] , visual analog pain scale , and erythrocyte sedimentation rate or C - reactive protein .
+An “ ACR20 Responder at Endpoint ” is a patient who completed the study and was an ACR20 Responder at the completion of the study .
+• Inhibition of structural damageInhibition of structural damage compared to control was assessed using the Sharp Score ( Sharp , JT .
+Scoring Radiographic Abnormalities in Rheumatoid Arthritis , Radiologic Clinics of North America , 1996 ; vol .
+34 , pp . 233 - 241 ) , a composite score of X - ray erosions and joint space narrowing in hands / wrists and forefeet .
+Improvement in physical function Improvement in physical function was assessed using the Health Assessment Questionnaire ( HAQ ) and the Medical Outcomes Survey Short Form ( SF - 36 ) .
+In all leflunomide monotherapy studies , an initial loading dose of 100 mg per day for three days only was used followed by 20 mg per day thereafter .
+US301 Clinical Trial in Adults Study US301 , a 2 year study , randomized 482 patients with active RA of at least 6 months duration to leflunomide 20 mg / day ( n = 182 ) , methotrexate 7 . 5 mg / week increasing to 15 mg / week ( n = 182 ) , or placebo ( n = 118 ) .
+All patients received folate 1 mg BID .
+Primary analysis was at 52 weeks with blinded treatment to 104 weeks .
+Overall , 235 of the 508 randomized treated patients ( 482 in primary data analysis and an additional 26 patients ) , continued into a second 12 months of double - blind treatment ( 98 leflunomide , 101 methotrexate , 36 placebo ) .
+Leflunomide dose continued at 20 mg / day and the methotrexate dose could be increased to a maximum of 20 mg / week .
+In total , 190 patients ( 83 leflunomide , 80 methotrexate , 27 placebo ) completed 2 years of double - blind treatment .
+The rate and reason for withdrawal is summarized in Table 3 .
+Table 3 : Withdrawals in US301 n ( % ) patients Leflunomide Methotrexate 1 Includes : lost to follow up , protocol violation , noncompliance , voluntary withdrawal , investigator discretion .
+190 128 190 Withdrawals in Year - 1 Lack of efficacy 33 ( 17 . 4 ) 70 ( 54 . 7 ) 50 ( 26 . 3 ) Safety 44 ( 23 . 2 ) 12 ( 9 . 4 ) 22 ( 11 . 6 ) Other1 15 ( 7 . 9 ) 10 ( 7 . 8 ) 17 ( 9 . 0 ) Total 92 ( 48 . 4 ) 92 ( 71 . 9 ) 89 ( 46 . 8 ) Patients entering Year 2 98 36 101 Withdrawals in Year - 2 Lack of efficacy 4 ( 4 . 1 ) 1 ( 2 . 8 ) 4 ( 4 . 0 ) Safety 8 ( 8 . 2 ) 0 ( 0 . 0 ) 10 ( 9 . 9 ) Other1 3 ( 3 . 1 ) 8 ( 22 . 2 ) 7 ( 6 . 9 ) Total 15 ( 15 . 3 ) 9 ( 25 . 0 ) 21 ( 20 . 8 ) MN301 / 303 / 305 Clinical Trial in Adults Study MN301 randomized 358 patients with active RA to leflunomide 20 mg / day ( n = 133 ) , sulfasalazine 2 . 0 g / day ( n = 133 ) , or placebo ( n = 92 ) .
+Treatment duration was 24 weeks .
+An extension of the study was an optional 6 - month blinded continuation of MN301 without the placebo arm , resulting in a 12 - month comparison of leflunomide and sulfasalazine ( study MN303 ) .
+Of the 168 patients who completed 12 months of treatment in MN301 and MN303 , 146 patients ( 87 % ) entered a 1 - year extension study of double blind active treatment ( MN305 ; 60 leflunomide , 60 sulfasalazine , 26 placebo / sulfasalazine ) .
+Patients continued on the same daily dosage of leflunomide or sulfasalazine that they had been taking at the completion of MN301 / 303 .
+A total of 121 patients ( 53 leflunomide , 47 sulfasalazine , 21 placebo / sulfasalazine ) completed the 2 years of double blind treatment .
+Patient withdrawal data in MN301 / 303 / 305 is summarized in Table 4 .
+Table 4 : Withdrawals in study MN301 / 303 / 305 n ( % ) patients Leflunomide Placebo Sulfasalazine 1 Includes : lost to follow up , protocol violation , noncompliance , voluntary withdrawal , investigator discretion .
+133 92 133 Withdrawals in MN301 ( Mo 0 - 6 ) Lack of efficacy 10 ( 7 . 5 ) 29 ( 31 . 5 ) 14 ( 10 . 5 ) Safety 19 ( 14 . 3 ) 6 ( 6 . 5 ) 25 ( 18 . 8 ) Other1 8 ( 6 . 0 ) 6 ( 6 . 5 ) 11 ( 8 . 3 ) Total 37 ( 27 . 8 ) 41 ( 44 . 6 ) 50 ( 37 . 6 ) Patients entering MN303 80 76 Withdrawals in MN303 ( Mo 7 - 12 ) Lack of efficacy 4 ( 5 . 0 ) 2 ( 2 . 6 ) Safety 2 ( 2 . 5 ) 5 ( 6 . 6 ) Other1 3 ( 3 . 8 ) 1 ( 1 . 3 ) Total 9 ( 11 . 3 ) 8 ( 10 . 5 ) Patients entering MN305 60 60 Withdrawals in MN305 ( Mo 13 - 24 ) Lack of efficacy 0 ( 0 . 0 ) 3 ( 5 . 0 ) Safety 6 ( 10 . 0 ) 8 ( 13 . 3 ) Other1 1 ( 1 . 7 ) 2 ( 3 . 3 ) Total 7 ( 11 . 7 ) 13 ( 21 . 7 ) MN302 / 304 Clinical Trial in Adults Study MN302 randomized 999 patients with active RA to leflunomide 20 mg / day ( n = 501 ) or methotrexate at 7 . 5 mg / week increasing to 15 mg / week ( n = 498 ) .
+Folate supplementation was used in 10 % of patients .
+Treatment duration was 52 weeks .
+Of the 736 patients who completed 52 weeks of treatment in study MN302 , 612 ( 83 % ) entered the double - blind , 1 - year extension study MN304 ( 292 leflunomide , 320 methotrexate ) .
+Patients continued on the same daily dosage of leflunomide or methotrexate that they had been taking at the completion of MN302 .
+There were 533 patients ( 256 leflunomide , 277 methotrexate ) who completed 2 years of double - blind treatment .
+Patient withdrawal data in MN302 / 304 is summarized in Table 5 .
+Table 5 : Withdrawals in MN302 / 304 n ( % ) patients Leflunomide Methotrexate 1 Includes : lost to follow up , protocol violation , noncompliance , voluntary withdrawal , investigator discretion 501 498 Withdrawals in MN302 ( Year - 1 ) Lack of efficacy 37 ( 7 . 4 ) 15 ( 3 . 0 ) Safety 98 ( 19 . 6 ) 79 ( 15 . 9 ) Other1 17 ( 3 . 4 ) 17 ( 3 . 4 ) Withdrawals in MN302 ( Year - 1 ) Total 152 ( 30 . 3 ) 111 ( 22 . 3 ) Patients entering MN304 292 320 Total 152 ( 30 . 3 ) 111 ( 22 . 3 ) Patients entering MN304 292 320 Withdrawals in MN304 ( Year - 2 ) Lack of efficacy 13 ( 4 . 5 ) 9 ( 2 . 8 ) Safety 11 ( 3 . 8 ) 22 ( 6 . 9 ) Other1 12 ( 4 . 1 ) 12 ( 3 . 8 ) Total 36 ( 12 . 3 ) 43 ( 13 . 4 ) Clinical Trial Data 1 .
+Signs and symptoms Rheumatoid Arthritis The ACR20 Responder at Endpoint rates are shown in Figure 1 .
+Leflunomide was statistically significantly superior to placebo in reducing the signs and symptoms of RA by the primary efficacy analysis , ACR20 Responder at Endpoint , in study US301 ( at the primary 12 months endpoint ) and MN301 ( at 6 month endpoint ) .
+ACR20 Responder at Endpoint rates with leflunomide treatment were consistent across the 6 and 12 month studies ( 41 - 49 % ) .
+No consistent differences were demonstrated between leflunomide and methotrexate or between leflunomide and sulfasalazine .
+Leflunomide treatment effect was evident by 1 month , stabilized by 3 - 6 months , and continued throughout the course of treatment as shown in Figure 2 .
+Figure 1 [ MULTIMEDIA ] Comparisons 95 % Confidence Interval p Value US301 Leflunomide vs . Placebo ( 12 , 32 ) < 0 . 0001 Methotrexate vs . Placebo ( 8 , 30 ) < 0 . 0001 Leflunomide vs . Methotrexate ( - 4 , 16 ) NS MN301 Leflunomide vs . Placebo ( 7 , 33 ) 0 . 0026 Sulfasalazine vs . Placebo ( 4 , 29 ) 0 . 0121 Leflunomide vs . Sulfasalazine ( - 8 , 16 ) NS MN302 Leflunomide vs . Methotrexate ( - 19 , - 7 ) < 0 . 0001 Figure 2 [ MULTIMEDIA ] ACR50 and ACR70 Responders are defined in an analogous manner to the ACR20 Responder , but use improvements of 50 % or 70 % , respectively ( Table 6 ) .
+Mean change for the individual components of the ACR Responder Index are shown in Table 7 .
+Table 6 .
+Summary of ACR Response Rates * Study and Treatment Group ACR20 ACR50 [ ACR70 * Intent to treat ( ITT ) analysis using last observation carried forward ( LOCF ) technique for patients who discontinued early .
+† N is the number of ITT patients for whom adequate data were available to calculate the indicated rates .
+‡ p < 0 . 001 leflunomide vs placebo § p < 0 . 02 leflunomide vs placebo Placebo - Controlled Studies US301 ( 12 months ) Leflunomide ( n = 178 ) † 52 . 2 ‡ 34 . 3 ‡ 20 . 2 ‡ Placebo ( n = 118 ) † 26 . 3 7 . 6 4 . 2 Methotrexate ( n = 180 ) † 45 . 6 22 . 8 9 . 4 MN301 ( 6 months ) Leflunomide ( n = 130 ) † 54 . 6 ‡ 33 . 1 ‡ 10 . 0 § Placebo ( n = 91 ) † 28 . 6 14 . 3 2 . 2 Sulfasalazine ( n = 132 ) † 56 . 8 30 . 3 7 . 6 Non - Placebo Active - Controlled Studies MN302 ( 12 months ) Leflunomide ( n = 495 ) † 51 . 1 31 . 1 9 . 9 Methotrexate ( n = 489 ) † 65 . 2 43 . 8 16 . 4 Table 7 shows the results of the components of the ACR Response criteria for US301 , MN301 , and MN302 .
+Leflunomide was significantly superior to placebo in all components of the ACR Response criteria in study US301 and MN301 .
+In addition , leflunomide was significantly superior to placebo in improving morning stiffness , a measure of RA disease activity , not included in the ACR Response criteria .
+No consistent differences were demonstrated between leflunomide and the active comparators .
+Table 7 .
+Mean Change in the Components of the ACR Responder Index * Components Placebo - Controlled Studies Non - placebo Controlled Study US301 ( 12 months ) MN301 Non - US ( 6 months ) MN302 Non - US ( 12 months ) * Last Observation Carried Forward ; Negative Change Indicates Improvement 1 Based on 28 joint count 2 Visual Analog Scale – 0 = Best ; 10 = Worst Leflu - nomide Metho - trexate Placebo Leflu - nomide Sulfa - salazine Placebo Leflu - nomide Metho - trexate Tender joint count1 - 7 . 7 - 6 . 6 - 3 . 0 - 9 . 7 - 8 . 1 - 4 . 3 - 8 . 3 - 9 . 7 Swollen joint count1 - 5 . 7 - 5 . 4 - 2 . 9 - 7 . 2 - 6 . 2 - 3 . 4 - 6 . 8 - 9 . 0 Patient global assessment2 - 2 . 1 - 1 . 5 0 . 1 - 2 . 8 - 2 . 6 - 0 . 9 - 2 . 3 - 3 . 0 Physician global assessment2 - 2 . 8 - 2 . 4 - 1 . 0 - 2 . 7 - 2 . 5 - 0 . 8 - 2 . 3 - 3 . 1 Physical function / disability ( MHAQ / HAQ ) - 0 . 29 - 0 . 15 0 . 07 - 0 . 50 - 0 . 29 - 0 . 04 - 0 . 37 - 0 . 44 Pain intensity2 - 2 . 2 - 1 . 7 - 0 . 5 - 2 . 7 - 2 . 0 - 0 . 9 - 2 . 1 - 2 . 9 Erythrocyte Sedimentation rate - 6 . 26 - 6 . 48 2 . 56 - 7 . 48 - 16 . 56 3 . 44 - 10 . 12 - 22 . 18 C - reactive protein - 0 . 62 - 0 . 50 0 . 47 - 2 . 26 - 1 . 19 0 . 16 - 1 . 86 - 2 . 45 Not included in the ACR Responder Index Morning Stiffness ( min ) - 101 . 4 - 88 . 7 14 . 7 - 93 . 0 - 42 . 4 - 6 . 8 - 63 . 7 - 86 . 6 2 .
+Maintenance of effect After completing 12 months of treatment , patients continuing on study treatment were evaluated for an additional 12 months of double - blind treatment ( total treatment period of 2 years ) in studies US301 , MN305 , and MN304 .
+ACR Responder rates at 12 months were maintained over 2 years in most patients continuing a second year of treatment .
+Improvement from baseline in the individual components of the ACR Responder criteria was also sustained in most patients during the second year of leflunomide treatment in all three trials .
+3 .
+Inhibition of structural damage The change from baseline to endpoint in progression of structural disease , as measured by the Sharp X - ray score , is displayed in Figure 3 .
+Leflunomide was statistically significantly superior to placebo in inhibiting the progression of disease by the Sharp Score .
+No consistent differences were demonstrated between leflunomide and methotrexate or between leflunomide and sulfasalazine .
+Figure 3 [ MULTIMEDIA ] Comparisons 95 % Confidence Interval p Value US301 Leflunomide vs . Placebo ( - 4 . 0 , - 1 . 1 ) 0 . 0007 Methotrexate vs . Placebo ( - 2 . 6 , - 0 . 2 ) 0 . 0196 Leflunomide vs . Methotrexate ( - 2 . 3 , 0 . 0 ) 0 . 0499 MN301 Leflunomide vs . Placebo ( - 6 . 2 , - 1 . 8 ) 0 . 0004 Sulfasalazine vs . Placebo ( - 6 . 9 , 0 . 0 ) 0 . 0484 Leflunomide vs . Sulfasalazine ( - 3 . 3 , 1 . 2 ) NS MN302 Leflunomide vs . Methotrexate ( - 2 . 2 , 7 . 4 ) NS 4 .
+Improvement of physical function The Health Assessment Questionnaire ( HAQ ) assesses a patient ' s physical function and degree of disability .
+The mean change from baseline in functional ability as measured by the HAQ Disability Index ( HAQ DI ) in the 6 and 12 month placebo and active controlled trials is shown in Figure 4 .
+Leflunomide was statistically significantly superior to placebo in improving physical function .
+Superiority to placebo was demonstrated consistently across all eight HAQ DI subscales ( dressing , arising , eating , walking , hygiene , reach , grip and activities ) in both placebo controlled studies .
+The Medical Outcomes Survey Short Form 36 ( SF - 36 ) , a generic health - related quality of life questionnaire , further addresses physical function .
+In US301 , at 12 months , Leflunomide provided statistically significant improvements compared to placebo in the Physical Component Summary ( PCS ) Score .
+Figure 4 [ MULTIMEDIA ] Comparisons 95 % Confidence Interval p Value US301 Leflunomide vs . Placebo ( - 0 . 58 , - 0 . 29 ) 0 . 0001 Leflunomide vs . Methotrexate ( - 0 . 34 , - 0 . 07 ) 0 . 0026 MN301 Leflunomide vs . Placebo ( - 0 . 67 , - 0 . 36 ) < 0 . 0001 Leflunomide vs . Sulfasalazine ( - 0 . 33 , - 0 . 03 ) 0 . 0163 MN302 Leflunomide vs . Methotrexate ( 0 . 01 , 0 . 16 ) 0 . 0221 US301 Leflunomide vs . Placebo ( - 0 . 58 , - 0 . 29 ) 0 . 0001 US301 Leflunomide vs . Placebo ( - 0 . 58 , - 0 . 29 ) 0 . 0001 Maintenance of effect The improvement in physical function demonstrated at 6 and 12 months was maintained over two years .
+In those patients continuing therapy for a second year , this improvement in physical function as measured by HAQ and SF - 36 ( PCS ) was maintained .
+[ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] [ MULTIMEDIA ] PEDIATRICS Clinical Trials in Pediatrics Leflunomide was studied in a single multicenter , double - blind , active - controlled trial in 94 patients ( 1 : 1 randomization ) with polyarticular course juvenile rheumatoid arthritis ( JRA ) as defined by the American College of Rheumatology ( ACR ) .
+Approximately 68 % of pediatric patients receiving leflunomide , versus 89 % of pediatric patients receiving the active comparator , improved by Week 16 ( end - of - study ) employing the JRA Definition of Improvement ( DOI ) ≥ 30 % responder endpoint .
+In this trial , the loading dose and maintenance dose of leflunomide was based on three weight categories : < 20 kg , 20 - 40 kg , and > 40 kg .
+The response rate to leflunomide in pediatric patients ≤ 40 kg was less robust than in pediatric patients > 40 kg suggesting suboptimal dosing in smaller weight pediatric patients , as studied , resulting in less than efficacious plasma concentrations , despite reduced clearance of M1 .
+( See Pharmacokinetics - Pediatrics ) .
+INDICATIONS AND USAGE Leflunomide tablets are indicated in adults for the treatment of active rheumatoid arthritis ( RA ) : • to reduce signs and symptoms • to inhibit structural damage as evidenced by X - ray erosions and joint space narrowing • to improve physical function ( see CLINICAL STUDIES ) .
+Aspirin , nonsteroidal anti - inflammatory agents and / or low dose corticosteroids may be continued during treatment with leflunomide tablets ( see PRECAUTIONS - Drug Interactions – NSAIDs ) .
+The combined use of leflunomide tablets with antimalarials , intramuscular or oral gold , D penicillamine , azathioprine , or methotrexate has not been adequately studied .
+( See WARNINGS - Immunosuppression Potential / Bone Marrow Suppression ) .
+CONTRAINDICATIONS Leflunomide tablets are contraindicated in patients with known hypersensitivity to leflunomide or any of the other components of leflunomide tablets .
+Leflunomide tablets can cause fetal harm when administered to a pregnant woman .
+Leflunomide , when administered orally to rats during organogenesis at a dose of 15 mg / kg , was teratogenic ( most notably anophthalmia or microophthalmia and internal hydrocephalus ) .
+The systemic exposure of rats at this dose was approximately 1 / 10 the human exposure level based on AUC .
+Under these exposure conditions , leflunomide also caused a decrease in the maternal body weight and an increase in embryolethality with a decrease in fetal body weight for surviving fetuses .
+In rabbits , oral treatment with 10 mg / kg of leflunomide during organogenesis resulted in fused , dysplastic sternebrae .
+The exposure level at this dose was essentially equivalent to the maximum human exposure level based on AUC .
+At a 1 mg / kg dose , leflunomide was not teratogenic in rats and rabbits .
+When female rats were treated with 1 . 25 mg / kg of leflunomide beginning 14 days before mating and continuing until the end of lactation , the offspring exhibited marked ( greater than 90 % ) decreases in postnatal survival .
+The systemic exposure level at 1 . 25 mg / kg was approximately 1 / 100 the human exposure level based on AUC .
+Leflunomide tablets are contraindicated in women who are or may become pregnant .
+If this drug is used during pregnancy , or if the patient becomes pregnant while taking this drug , the patient should be apprised of the potential hazard to the fetus .
+WARNINGS Hepatotoxicity Severe liver injury , including fatal liver failure , has been reported in some patients treated with leflunomide .
+Patients with pre - existing acute or chronic liver disease , or those with serum alanine aminotransferase ( ALT ) > 2 xULN before initiating treatment , should not be treated with leflunomide .
+Use caution when leflunomide is given with other potentially hepatotoxic drugs .
+Monitoring of ALT levels is recommended at least monthly for six months after starting leflunomide and thereafter every 6 - 8 weeks .
+If ALT elevation > 3 fold ULN occurs , interrupt leflunomide therapy while investigating the probable cause of the ALT elevation by close observation and additional tests .
+If likely leflunomide - induced , start cholestyramine washout and monitor liver tests weekly until normalized ( see PRECAUTIONS - General - Need for Drug Elimination ) .
+If leflunomide - induced liver injury is unlikely because some other probable cause has been found , resumption of leflunomide therapy may be considered .
+In addition , if leflunomide and methotrexate are given concomitantly , ACR guidelines for monitoring methotrexate liver toxicity must be followed with ALT , AST , and serum albumin testing monthly .
+In clinical trials , leflunomide treatment as monotherapy or in combination with methotrexate was associated with elevations of liver enzymes , primarily ALT and AST , in a significant number of patients ; these effects were generally reversible .
+Most transaminase elevations were mild ( < 2 - fold ULN ) and usually resolved while continuing treatment .
+Marked elevations ( > 3 - fold ULN ) occurred infrequently and reversed with dose reduction or discontinuation of treatment .
+Table 8 shows liver enzyme elevations seen with monthly monitoring in clinical trials US301 and MN301 .
+It was notable that the absence of folate use in MN302 was associated with a considerably greater incidence of liver enzyme elevation on methotrexate .
+Table 8 .
+Liver Enzyme Elevations > 3 - fold Upper Limits of Normal ( ULN ) US301 MN301 MN302 * LEF PL MTX LEF PL SSZ LEF MTX * Only 10 % of patients in MN302 received folate .
+All patients in US301 received folate .
+ALT ( SGPT ) > 3 - fold ULN 8 3 5 2 1 2 13 83 ( n % ) ( 4 . 4 ) ( 2 . 5 ) ( 2 . 7 ) ( 1 . 5 ) ( 1 . 1 ) ( 1 . 5 ) ( 2 . 6 ) ( 16 . 7 ) Reversed to < 2 - fold ULN : 8 3 5 2 1 2 12 82 Timing of Elevation 0 - 3 Months 6 1 1 2 1 2 7 27 4 - 6 Months 1 1 3 - - - 1 34 7 - 9 Months 1 1 1 - - - - 16 10 - 12 Months - - - - - - 5 6 In a 6 month study of 263 patients with persistent active rheumatoid arthritis despite methotrexate therapy , and with normal LFTs , leflunomide was added to a group of 130 patients starting at 10 mg per day and increased to 20 mg as needed .
+An increase in ALT greater than or equal to three times the ULN was observed in 3 . 8 % of patients compared to 0 . 8 % in 133 patients continued on methotrexate with placebo added .
+Immunosuppression Potential / Bone Marrow Suppression Leflunomide is not recommended for patients with severe immunodeficiency , bone marrow dysplasia , or severe , uncontrolled infections .
+In the event that a serious infection occurs , it may be necessary to interrupt therapy with leflunomide and administer cholestyramine or charcoal ( see PRECAUTIONS - General - Need for Drug Elimination ) .
+Medications like leflunomide that have immunosuppression potential may cause patients to be more susceptible to infections , including opportunistic infections , especially Pneumocystis jiroveci pneumonia , tuberculosis ( including extra - pulmonary tuberculosis ) , and aspergillosis .
+Severe infections including sepsis , which may be fatal , have been reported in patients receiving leflunomide , especially Pneumocystis jiroveci pneumonia and aspergillosis .
+Most of the reports were confounded by concomitant immunosuppressant therapy and / or comorbid illness which , in addition to rheumatoid disease , may predispose patients to infection .
+There have been rare reports of pancytopenia , agranulocytosis and thrombocytopenia in patients receiving leflunomide alone .
+These events have been reported most frequently in patients who received concomitant treatment with methotrexate or other immunosuppressive agents , or who had recently discontinued these therapies ; in some cases , patients had a prior history of a significant hematologic abnormality .
+Patients taking leflunomide should have platelet , white blood cell count and hemoglobin or hematocrit monitored at baseline and monthly for six months following initiation of therapy and every 6 - to 8 weeks thereafter .
+If used with concomitant methotrexate and / or other potential immunosuppressive agents , chronic monitoring should be monthly .
+If evidence of bone marrow suppression occurs in a patient taking leflunomide , treatment with leflunomide should be stopped , and cholestyramine or charcoal should be used to reduce the plasma concentration of leflunomide active metabolite ( see PRECAUTIONS - General - Need for Drug Elimination ) .
+In any situation in which the decision is made to switch from leflunomide to another anti - rheumatic agent with a known potential for hematologic suppression , it would be prudent to monitor for hematologic toxicity , because there will be overlap of systemic exposure to both compounds .
+Leflunomide washout with cholestyramine or charcoal may decrease this risk , but also may induce disease worsening if the patient had been responding to leflunomide treatment .
+Skin Reactions Rare cases of Stevens - Johnson syndrome and toxic epidermal necrolysis have been reported in patients receiving leflunomide .
+If a patient taking leflunomide develops any of these conditions , leflunomide therapy should be stopped , and a drug elimination procedure is recommended .
+( See PRECAUTIONS – General – Need for Drug Elimination ) .
+Malignancy The risk of malignancy , particularly lymphoproliferative disorders , is increased with the use of some immunosuppression medications .
+There is a potential for immunosuppression with leflunomide .
+No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the clinical trials of leflunomide , but larger and longer - term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with leflunomide .
+Use in Women of Childbearing Potential There are no adequate and well - controlled studies evaluating leflunomide in pregnant women .
+However , based on animal studies , leflunomide may increase the risk of fetal death or teratogenic effects when administered to a pregnant woman ( see CONTRAINDICATIONS ) .
+Women of childbearing potential must not be started on leflunomide until pregnancy is excluded and it has been confirmed that they are using reliable contraception .
+Before starting treatment with leflunomide , patients must be fully counseled on the potential for serious risk to the fetus .
+The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy , they must notify the physician immediately for pregnancy testing and , if positive , the physician and patient must discuss the risk to the pregnancy .
+It is possible that rapidly lowering the blood level of the active metabolite by instituting the drug elimination procedure described below at the first delay of menses may decrease the risk to the fetus from leflunomide .
+Upon discontinuing leflunomide , it is recommended that all women of childbearing potential undergo the drug elimination procedure described below .
+Women receiving leflunomide treatment who wish to become pregnant must discontinue leflunomide and undergo the drug elimination procedure described below which includes verification of M1 metabolite plasma levels less than 0 . 02 mg / L ( 0 . 02 µg / mL ) .
+Human plasma levels of the active metabolite ( M1 ) less than 0 . 02 mg / L ( 0 . 02 µg / mL ) are expected to have minimal risk based on available animal data .
+Drug Elimination Procedure The following drug elimination procedure is recommended to achieve non - detectable plasma levels ( less than 0 . 02 mg / L or 0 . 02 µg / mL ) after stopping treatment with leflunomide : • Administer cholestyramine 8 grams 3 times daily for 11 days .
+( The 11 days do not need to be consecutive unless there is a need to lower the plasma level rapidly . )
+• Verify plasma levels less than 0 . 02 mg / L ( 0 . 02 µg / mL ) by two separate tests at least 14 days apart .
+If plasma levels are higher than 0 . 02 mg / L , additional cholestyramine treatment should be considered .
+Without the drug elimination procedure , it may take up to 2 years to reach plasma M1 metabolite levels less than 0 . 02 mg / L due to individual variation in drug clearance .
+PRECAUTIONS General Need for Drug Elimination The active metabolite of leflunomide is eliminated slowly from the plasma .
+In instances of any serious toxicity from leflunomide , including hypersensitivity , use of a drug elimination procedure as described in this section is highly recommended to reduce the drug concentration more rapidly after stopping leflunomide therapy .
+If hypersensitivity is the suspected clinical mechanism , more prolonged cholestyramine or charcoal administration may be necessary to achieve rapid and sufficient clearance .
+The duration may be modified based on the clinical status of the patient .
+Cholestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy volunteers decreased plasma levels of M1 by approximately 40 % in 24 hours and by 49 to 65 % in 48 hours .
+Administration of activated charcoal ( powder made into a suspension ) orally or via nasogastric tube ( 50 g every 6 hours for 24 hours ) has been shown to reduce plasma concentrations of the active metabolite , M1 , by 37 % in 24 hours and by 48 % in 48 hours .
+These drug elimination procedures may be repeated if clinically necessary .
+Respiratory Interstitial lung disease has been reported during treatment with leflunomide and has been associated with fatal outcomes ( see ADVERSE REACTIONS ) .
+Interstitial lung disease is a potentially fatal disorder , which may occur acutely at any time during therapy and has a variable clinical presentation .
+New onset or worsening pulmonary symptoms , such as cough and dyspnea , with or without associated fever , may be a reason for discontinuation of the therapy and for further investigation , as appropriate .
+If discontinuation of the drug is necessary , initiation of wash - out procedures should be considered .
+( See WARNINGS - Drug Elimination Procedure ) .
+Tuberculosis Reactivation Prior to initiating immunomodulatory therapies , including leflunomide , patients should be screened for latent tuberculosis infection with a tuberculin skin test .
+leflunomide has not been studied in patients with a positive tuberculosis screen , and the safety of leflunomide in individuals with latent tuberculosis infection is unknown .
+Patients testing positive in tuberculosis screening should be treated by standard medical practice prior to therapy with leflunomide .
+Renal Insufficiency Single dose studies in dialysis patients show a doubling of the free fraction of M1 in plasma .
+There is no clinical experience in the use of leflunomide in patients with renal impairment .
+Caution should be used when administering this drug in this population .
+Vaccinations No clinical data are available on the efficacy and safety of vaccinations during leflunomide treatment .
+Vaccination with live vaccines is , however , not recommended .
+The long half - life of leflunomide should be considered when contemplating administration of a live vaccine after stopping leflunomide .
+Blood Pressure Monitoring Blood pressure should be checked before start of leflunomide treatment and periodically thereafter .
+Information for Patients • The potential for increased risk of birth defects should be discussed with female patients of childbearing potential .
+It is recommended that physicians advise women that they may be at increased risk of having a child with birth defects if they are pregnant when taking leflunomide , become pregnant while taking leflunomide , or do not wait to become pregnant until they have stopped taking leflunomide and followed the drug elimination procedure ( as described in WARNINGS - Use In Women of Childbearing Potential - Drug Elimination Procedure ) .
+• Patients should be advised of the possibility of rare , serious skin reactions .
+Patients should be instructed to inform their physicians promptly if they develop a skin rash or mucous membrane lesions .
+• Patients should be advised of the potential hepatotoxic effects of leflunomide and of the need for monitoring liver enzymes .
+Patients should be instructed to notify their physicians if they develop symptoms such as unusual tiredness , abdominal pain or jaundice .
+• Patients should be advised that they may develop a lowering of their blood counts and should have frequent hematologic monitoring .
+This is particularly important for patients who are receiving other immunosuppressive therapy concurrently with leflunomide , who have recently discontinued such therapy before starting treatment with leflunomide , or who have had a history of a significant hematologic abnormality .
+Patients should be instructed to notify their physicians promptly if they notice symptoms of pancytopenia ( such as easy bruising or bleeding , recurrent infections , fever , paleness or unusual tiredness ) .
+• Patients should be informed about the early warning signs of interstitial lung disease and asked to contact their physician as soon as possible if these symptoms appear or worsen during therapy .
+Laboratory Tests Hematologic Monitoring At minimum , patients taking leflunomide should have platelet , white blood cell count and hemoglobin or hematocrit monitored at baseline and monthly for six months following initiation of therapy and every 6 to 8 weeks thereafter .
+Bone Marrow Suppression Monitoring If used concomitantly with immunosuppressants such as methotrexate , chronic monitoring should be monthly .
+( See WARNINGS - Immunosuppression Potential / Bone Marrow Suppression ) .
+Liver Enzyme Monitoring At minimum , ALT ( SGPT ) must be performed at baseline and at least monthly for six months after starting leflunomide , and thereafter every 6 to 8 weeks .
+In addition , if leflunomide and methotrexate are given concomitantly , ACR guidelines for monitoring methotrexate liver toxicity must be followed with ALT , AST , and serum albumin testing every month .
+( See WARNINGS - Hepatotoxicity . )
+Due to a specific effect on the brush border of the renal proximal tubule , leflunomide has a uricosuric effect .
+A separate effect of hypophosphaturia is seen in some patients .
+These effects have not been seen together , nor have there been alterations in renal function .
+Drug Interactions Cholestyramine and Charcoal Administration of cholestyramine or activated charcoal in patients ( n = 13 ) and volunteers ( n = 96 ) resulted in a rapid and significant decrease in plasma M1 ( the active metabolite of leflunomide ) concentration ( see PRECAUTIONS - General - Need for Drug Elimination ) .
+Hepatotoxic Drugs Increased side effects may occur when leflunomide is given concomitantly with hepatotoxic substances .
+This is also to be considered when leflunomide treatment is followed by such drugs without a drug elimination procedure .
+In a small ( n = 30 ) combination study of leflunomide with methotrexate , a 2 - to 3 - fold elevation in liver enzymes was seen in 5 of 30 patients .
+All elevations resolved , 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+A > 3 - fold increase was seen in another 5 patients .
+All of these also resolved , 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+Three patients met “ ACR criteria ” for liver biopsy ( 1 : Roegnik Grade I , 2 : Roegnik Grade llla ) .
+No pharmacokinetic interaction was identified ( see CLINICAL PHARMACOLOGY ) .
+NSAIDs In in vitro studies , M1 was shown to cause increases ranging from 13 - 50 % in the free fraction of diclofenac and ibuprofen at concentrations in the clinical range .
+The clinical significance of this finding is unknown ; however , there was extensive concomitant use of NSAIDs in clinical studies and no differential effect was observed .
+Tolbutamide In in vitro studies , M1 was shown to cause increases ranging from 13 - 50 % in the free fraction of tolbutamide at concentrations in the clinical range .
+The clinical significance of this finding is unknown .
+Rifampin Following concomitant administration of a single dose of leflunomide to subjects receiving multiple doses of rifampin , M1 peak levels were increased ( ~ 40 % ) over those seen when leflunomide was given alone .
+Because of the potential for leflunomide levels to continue to increase with multiple dosing , caution should be used if patients are to be receiving both leflunomide and rifampin .
+Warfarin Increased INR ( International Normalized Ratio ) when leflunomide and warfarin were co - administered has been rarely reported .
+Carcinogenesis , Mutagenesis , and Impairment of Fertility No evidence of carcinogenicity was observed in a 2 - year bioassay in rats at oral doses of leflunomide up to the maximally tolerated dose of 6 mg / kg ( approximately 1 / 40 the maximum human M1 systemic exposure based on AUC ) .
+However , male mice in a 2 - year bioassay exhibited an increased incidence in lymphoma at an oral dose of 15 mg / kg , the highest dose studied ( 1 . 7 times the human M1 exposure based on AUC ) .
+Female mice , in the same study , exhibited a dose - related increased incidence of bronchoalveolar adenomas and carcinomas combined beginning at 1 . 5 mg / kg ( approximately 1 / 10 the human M1 exposure based on AUC ) .
+The significance of the findings in mice relative to the clinical use of leflunomide is not known .
+Leflunomide was not mutagenic in the Ames Assay , the Unscheduled DNA Synthesis Assay , or in the HGPRT Gene Mutation Assay .
+In addition , leflunomide was not clastogenic in the in vivo Mouse Micronucleus Assay nor in the in vivo Cytogenetic Test in Chinese Hamster Bone Marrow Cells .
+However , 4 - trifluoromethylaniline ( TFMA ) , a minor metabolite of leflunomide , was mutagenic in the Ames Assay and in the HGPRT Gene Mutation Assay , and was clastogenic in the in vitro Assay for Chromosome Aberrations in the Chinese Hamster Cells .
+TFMA was not clastogenic in the in vivo Mouse Micronucleus Assay nor in the in vivo Cytogenetic Test in Chinese Hamster Bone Marrow Cells .
+Leflunomide had no effect on fertility in either male or female rats at oral doses up to 4 . 0 mg / kg ( approximately 1 / 30 the human M1 exposure based on AUC ) .
+Pregnancy Pregnancy Category X ( see CONTRAINDICATIONS section ) .
+Pregnancy Registry : To monitor fetal outcomes of pregnant women exposed to leflunomide , health care providers are encouraged to register such patients by calling 1 - 877 - 311 - 8972 .
+Nursing Mothers Leflunomide should not be used by nursing mothers .
+It is not known whether leflunomide is excreted in human milk .
+Many drugs are excreted in human milk , and there is a potential for serious adverse reactions in nursing infants from leflunomide .
+Therefore , a decision should be made whether to proceed with nursing or to initiate treatment with leflunomide , taking into account the importance of the drug to the mother .
+Use in Males Available information does not suggest that leflunomide would be associated with an increased risk of male - mediated fetal toxicity .
+However , animal studies to evaluate this specific risk have not been conducted .
+To minimize any possible risk , men wishing to father a child should consider discontinuing use of leflunomide and taking cholestyramine 8 grams 3 times daily for 11 days .
+Pediatric Use The safety and effectiveness of leflunomide in pediatric patients with polyarticular course juvenile rheumatoid arthritis ( JRA ) have not been fully evaluated .
+( See CLINICAL STUDIES and ADVERSE REACTIONS ) .
+Geriatric Use Of the total number of subjects in controlled clinical ( Phase III ) studies of leflunomide , 234 subjects were 65 years and over .
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects , and other reported clinical experience has not identified differences in responses between the elderly and younger patients , but greater sensitivity of some older individuals cannot be ruled out .
+No dosage adjustment is needed in patients over 65 .
+ADVERSE REACTIONS Adverse reactions associated with the use of leflunomide in RA include diarrhea , elevated liver enzymes ( ALT and AST ) , alopecia and rash .
+In the controlled studies at one year , the following adverse events were reported , regardless of causality .
+( See Table 9 . )
+Table 9 .
+Percentage Of Patients With Adverse Events ≥ 3 % In Any Leflunomide Treated Group All RA Studies Placebo - Controlled Trials Active - Controlled Trials MN 301 and US 301 MN 302 * LEF ( N = 1339 ) 1 LEF ( N = 315 ) PBO ( N = 210 ) SSZ ( N = 133 ) MTX ( N = 182 ) LEF ( N = 501 ) MTX ( N = 498 ) * Only 10 % of patients in MN302 received folate .
+All patients in US301 received folate ; none in MN301 received folate .
+1 Includes all controlled and uncontrolled trials with leflunomide ( duration up to 12 months ) .
+2 Hypertension as a preexisting condition was overrepresented in all leflunomide treatment groups in phase III trials .
+3 In a meta - analysis of all phase II and III studies , during the first 6 months in patients receiving leflunomide , 10 % lost 10 - 19 lbs ( 24 cases per 100 patient years ) and 2 % lost at least 20 lbs ( 4 cases / 100 patient years ) .
+Of patients receiving leflunomide , 4 % lost 10 % of their baseline weight during the first 6 months of treatment .
+BODY AS A WHOLE Allergic Reaction 2 % 5 % 2 % 0 % 6 % 1 % 2 % Asthenia 3 % 6 % 4 % 5 % 6 % 3 % 3 % Flu Syndrome 2 % 4 % 2 % 0 % 7 % 0 % 0 % Infection , upper respiratory 4 % 0 % 0 % 0 % 0 % 0 % 0 % Injury Accident 5 % 7 % 5 % 3 % 11 % 6 % 7 % Pain 2 % 4 % 2 % 2 % 5 % 1 % < 1 % Abdominal Pain 6 % 5 % 4 % 4 % 8 % 6 % 4 % Back Pain 5 % 6 % 3 % 4 % 9 % 8 % 7 % CARDIOVASCULAR Hypertension2 10 % 9 % 4 % 4 % 3 % 10 % 4 % New onset of hypertension 1 % < 1 % 0 % 2 % 2 % < 1 % Chest Pain 2 % 4 % 2 % 2 % 4 % 1 % 2 % GASTROINTESTINAL Anorexia 3 % 3 % 2 % 5 % 2 % 3 % 3 % Diarrhea 17 % 27 % 12 % 10 % 20 % 22 % 10 % Dyspepsia 5 % 10 % 10 % 9 % 13 % 6 % 7 % Gastroenteritis 3 % 1 % 1 % 0 % 6 % 3 % 3 % Abnormal Liver Enzymes 5 % 10 % 2 % 4 % 10 % 6 % 17 % Nausea 9 % 13 % 11 % 19 % 18 % 13 % 18 % Gl / Abdominal Pain 5 % 6 % 4 % 7 % 8 % 8 % 8 % Mouth Ulcer 3 % 5 % 4 % 3 % 10 % 3 % 6 % Vomiting 3 % 5 % 4 % 4 % 3 % 3 % 3 % METABOLIC AND NUTRITIONAL Hypokalemia 1 % 3 % 1 % 1 % 1 % 1 % < 1 % Weight Loss3 4 % 2 % 1 % 2 % 0 % 2 % 2 % MUSCULO - SKELETAL SYSTEM Arthralgia 1 % 4 % 3 % 0 % 9 % < 1 % 1 % Leg Cramps 1 % 4 % 2 % 2 % 6 % 0 % 0 % Joint Disorder 4 % 2 % 2 % 2 % 2 % 8 % 6 % Synovitis 2 % < 1 % 1 % 0 % 2 % 4 % 2 % Tenosynovitis 3 % 2 % 0 % 1 % 2 % 5 % 1 % NERVOUS SYSTEM Dizziness 4 % 5 % 3 % 6 % 5 % 7 % 6 % Headache 7 % 13 % 11 % 12 % 21 % 10 % 8 % Paresthesia 2 % 3 % 1 % 1 % 2 % 4 % 3 % RESPIRATORY SYSTEM Bronchitis 7 % 5 % 2 % 4 % 7 % 8 % 7 % Increased Cough 3 % 4 % 5 % 3 % 6 % 5 % 7 % Respiratory Infection 15 % 21 % 21 % 20 % 32 % 27 % 25 % Pharyngitis 3 % 2 % 1 % 2 % 1 % 3 % 3 % Pneumonia 2 % 3 % 0 % 0 % 1 % 2 % 2 % Rhinitis 2 % 5 % 2 % 4 % 3 % 2 % 2 % Sinusitis 2 % 5 % 5 % 0 % 10 % 1 % 1 % SKIN AND APPENDAGES Alopecia 10 % 9 % 1 % 6 % 6 % 17 % 10 % Eczema 2 % 1 % 1 % 1 % 1 % 3 % 2 % Pruritus 4 % 5 % 2 % 3 % 2 % 6 % 2 % Rash 10 % 12 % 7 % 11 % 9 % 11 % 10 % Dry Skin 2 % 3 % 2 % 2 % 0 % 3 % 1 % UROGENITAL SYSTEM Urinary Tract Infection 5 % 5 % 7 % 4 % 2 % 5 % 6 % Adverse events during a second year of treatment with leflunomide in clinical trials were consistent with those observed during the first year of treatment and occurred at a similar or lower incidence .
+In addition , the following adverse events have been reported in 1 % to < 3 % of the RA patients in the leflunomide treatment group in controlled clinical trials .
+Body as a Whole : abscess , cyst , fever , hernia , malaise , pain , neck pain , pelvic pain ; Cardiovascular : angina pectoris , migraine , palpitation , tachycardia , varicose vein , vasculitis , vasodilatation ; Gastrointestinal : cholelithiasis , colitis , constipation , esophagitis , flatulence , gastritis , gingivitis , melena , oral moniliasis , pharyngitis , salivary gland enlarged , stomatitis ( or aphthous stomatitis ) , tooth disorder ; Endocrine : diabetes mellitus , hyperthyroidism ; Hemic and Lymphatic System : anemia ( including iron deficiency anemia ) , ecchymosis ; Metabolic and Nutritional : creatine phosphokinase increased , hyperglycemia , hyperlipidemia , peripheral edema ; Musculo - Skeletal System : arthrosis , bone necrosis , bone pain , bursitis , muscle cramps , myalgia , tendon rupture ; Nervous System : anxiety , depression , dry mouth , insomnia , neuralgia , neuritis , sleep disorder , sweating increased , vertigo ; Respiratory System : asthma , dyspnea , epistaxis , lung disorder ; Skin and Appendages : acne , contact dermatitis , fungal dermatitis , hair discoloration , hematoma , herpes simplex , herpes zoster , maculopapular rash , nail disorder , skin discoloration , skin disorder , skin nodule , subcutaneous nodule , ulcer skin ; Special Senses : blurred vision , cataract , conjunctivitis , eye disorder , taste perversion ; Urogenital System : albuminuria , cystitis , dysuria , hematuria , menstrual disorder , prostate disorder , urinary frequency , vaginal moniliasis .
+Other less common adverse events seen in clinical trials include : 1 case of anaphylactic reaction occurred in Phase 2 following rechallenge of drug after withdrawal due to rash ( rare ) ; urticaria ; eosinophilia ; transient thrombocytopenia ( rare ) ; and leukopenia < 2000 WBC / mm3 ( rare ) .
+Adverse events during a second year of treatment with leflunomide in clinical trials were consistent with those observed during the first year of treatment and occurred at a similar or lower incidence .
+In post - marketing experience , the following have been reported rarely : Body as a Whole : opportunistic infections , severe infections including sepsis that may be fatal ; Gastrointestinal : pancreatitis ; Hematologic : agranulocytosis , leukopenia , neutropenia , pancytopenia , thrombocytopenia ; Hypersensitivity : angioedema ; Hepatic : hepatitis , jaundice / cholestasis , severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal ; Respiratory : interstitial lung disease , including interstitial pneumonitis and pulmonary fibrosis , which may be fatal ; Nervous System : peripheral neuropathy ; Skin and Appendages : erythema multiforme , Stevens - Johnson syndrome , toxic epidermal necrolysis , vasculitis including cutaneous necrotizing vasculitis .
+Adverse Reactions ( Pediatric Patients ) The safety of leflunomide was studied in 74 patients with polyarticular course juvenile rheumatoid arthritis ranging in age from 3 - 17 years ( 47 patients from the active - controlled study and 27 from an open - label safety and pharmacokinetic study ) .
+The most common adverse events included abdominal pain , diarrhea , nausea , vomiting , oral ulcers , upper respiratory tract infections , alopecia , rash , headache , and dizziness .
+Less common adverse events included anemia , hypertension , and weight loss .
+Fourteen pediatric patients experienced ALT and / or AST elevations , nine between 1 . 2 and 3 - fold the upper limit of normal , five between 3 and 8 - fold the upper limit of normal .
+DRUG ABUSE AND DEPENDENCE Leflunomide has no known potential for abuse or dependence .
+OVERDOSAGE In mouse and rat acute toxicology studies , the minimally toxic dose for oral leflunomide was 200 - 500 mg / kg and 100 mg / kg , respectively ( approximately > 350 times the maximum recommended human dose , respectively ) .
+There have been reports of chronic overdose in patients taking leflunomide at daily dose up to five times the recommended daily dose and reports of acute overdose in adults or children .
+There were no adverse events reported in the majority of case reports of overdose .
+Adverse events were consistent with the safety profile for leflunomide ( see ADVERSE REACTIONS ) .
+The most frequent adverse events observed were diarrhea , abdominal pain , leukopenia , anemia and elevated liver function tests .
+In the event of a significant overdose or toxicity , cholestyramine or charcoal administration is recommended to accelerate elimination ( see PRECAUTIONS - General - Need for Drug Elimination ) .
+Studies with both hemodialysis and CAPD ( chronic ambulatory peritoneal dialysis ) indicate that M1 , the primary metabolite of leflunomide , is not dialyzable .
+( See CLINICAL PHARMACOLOGY – Elimination ) .
+DOSAGE AND ADMINISTRATION Loading Dose Due to the long half - life in patients with RA and recommended dosing interval ( 24 hours ) , a loading dose is needed to provide steady - state concentrations more rapidly .
+It is recommended that leflunomide therapy be initiated with a loading dose of one 100 mg tablet per day for 3 days .
+Elimination of the loading dose regimen may decrease the risk of adverse events .
+This could be especially important for patients at increased risk of hematologic or hepatic toxicity , such as those receiving concomitant treatment with methotrexate or other immunosuppressive agents or on such medications in the recent past .
+( See WARNINGS - Hepatotoxicity ) .
+Maintenance Therapy Daily dosing of 20 mg is recommended for treatment of patients with RA .
+A small cohort of patients ( n = 104 ) , treated with 25 mg / day , experienced a greater incidence of side effects ; alopecia , weight loss , liver enzyme elevations .
+Doses higher than 20 mg / day are not recommended .
+If dosing at 20 mg / day is not well tolerated clinically , the dose may be decreased to 10 mg daily .
+Liver enzymes should be monitored and dose adjustments may be necessary ( see WARNINGS – Hepatotoxicity ) .
+Due to the prolonged half - life of the active metabolite of leflunomide , patients should be carefully observed after dose reduction , since it may take several weeks for metabolite levels to decline .
+Monitoring Hematology parameters and liver enzymes should be monitored ( see PRECAUTIONS – Laboratory Tests ; WARNINGS – Hepatotoxicity ; WARNINGS – Immunosuppression Potential / Bone Marrow Suppression ) .
+HOW SUPPLIED Leflunomide Tablets , USP in 10 and 20 mg strengths are packaged in bottles .
+Strength Quantity NDC Number Description 10 mg 30 count bottle 23155 - 043 - 03 White , round bi - convex tablets debossed with “ HP 43 ” on one side and plain on the other .
+500 count bottle 23155 - 043 - 05 20 mg 30 count bottle 23155 - 044 - 03 White , triangular bi - convex tablets debossed with “ HP 44 ” on one side and plain on the other .
+500 count bottle 23155 - 044 - 05 Store at 25 ° C ( 77 ° F ) ; excursions permitted to 15 ° to 30 ° C ( 59 ° to 86 ° F ) [ see USP Controlled Room Temperature ] .
+Protect from light .
+Rx only Manufactured for : Heritage Pharmaceuticals Inc .
+Edison , NJ 08837 And Relabeled By : Dispensing Solutions Inc . 3000 West Warner Ave Santa Ana , CA 92704 United States PACKAGE LABEL . PRINCIPAL DISPLAY PANEL [ MULTIMEDIA ] NDC 68258 - 2992 - 03 [ MULTIMEDIA ]
